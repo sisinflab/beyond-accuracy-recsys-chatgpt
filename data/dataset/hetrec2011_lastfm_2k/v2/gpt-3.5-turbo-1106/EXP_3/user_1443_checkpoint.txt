@@ -1,0 +1,54 @@
+Based on user 1443's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Nirvana
+2. Metallica
+3. Iron Maiden
+4. The Rolling Stones
+5. Aerosmith
+6. Black Sabbath
+7. The Who
+8. Jimi Hendrix
+9. Bob Dylan
+10. Creedence Clearwater Revival
+11. The Clash
+12. Foo Fighters
+13. David Bowie
+14. Muse
+15. Santana
+16. The Beach Boys
+17. The Eagles
+18. Fleetwood Mac
+19. Van Halen
+20. Deep Purple
+21. Alice Cooper
+22. Blondie
+23. The Cure
+24. Depeche Mode
+25. The Doors
+26. The Beatles
+27. Led Zeppelin
+28. R.E.M.
+29. Bon Jovi
+30. The Cranberries
+31. Dire Straits
+32. AC/DC
+33. Ramones
+34. Engenheiros do Hawaii
+35. Cyndi Lauper
+36. Simon & Garfunkel
+37. Elvis Presley
+38. Eric Clapton
+39. Katie Melua
+40. Pato Fu
+41. Cássia Eller
+42. Cazuza
+43. Skid Row
+44. Scorpions
+45. Madness
+46. Simple Minds
+47. Whitesnake
+48. Duran Duran
+49. Orchestral Manoeuvres in the Dark
+50. The Cranberries
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for them to explore.

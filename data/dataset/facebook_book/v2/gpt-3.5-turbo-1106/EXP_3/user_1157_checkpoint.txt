@@ -1,0 +1,54 @@
+Based on user 1157's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series
+2. Eldest by Christopher Paolini
+3. The Lightning Thief by Rick Riordan
+4. Vampire Academy series by Richelle Mead
+5. Dragon Rider by Cornelia Funke
+6. Inkheart by Cornelia Funke
+7. Inkspell by Cornelia Funke
+8. The Looking Glass Wars by Frank Beddor
+9. Maximum Ride series by James Patterson
+10. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+11. The Lord of the Rings series by J.R.R. Tolkien
+12. Eragon by Christopher Paolini
+13. A Series of Unfortunate Events by Lemony Snicket
+14. The True Game series by Sheri S. Tepper
+15. The Seventh Tower series by Garth Nix
+16. The Sight by David Clement-Davies
+17. Icefire by Chris D'Lacey
+18. Cirque du Freak series by Darren Shan
+19. Animorphs series by K.A. Applegate
+20. The Secret by Rhonda Byrne
+21. Hush, Hush by Becca Fitzpatrick
+22. Son of a Witch by Gregory Maguire
+23. The Queen of the Damned by Anne Rice
+24. Twilight series by Stephenie Meyer
+25. Pretty Little Liars series by Sara Shepard
+26. Gossip Girl series by Cecily von Ziegesar
+27. Ink Exchange by Melissa Marr
+28. Wicked Lovely by Melissa Marr
+29. Goosebumps series by R.L. Stine
+30. Speak by Laurie Halse Anderson
+31. To Kill a Mockingbird by Harper Lee
+32. Macbeth by William Shakespeare
+33. Romeo and Juliet by William Shakespeare
+34. A Midsummer Night's Dream by William Shakespeare
+35. Othello by William Shakespeare
+36. The Canterbury Tales by Geoffrey Chaucer
+37. Les Misérables by Victor Hugo
+38. A Clockwork Orange by Anthony Burgess
+39. Norwegian Wood by Haruki Murakami
+40. Tuesdays with Morrie by Mitch Albom
+41. Water for Elephants by Sara Gruen
+42. All Quiet on the Western Front by Erich Maria Remarque
+43. The Coldest Winter Ever by Sister Souljah
+44. The Picture of Dorian Gray by Oscar Wilde
+45. How to Read Literature Like a Professor by Thomas C. Foster
+46. Seven Pillars of Wisdom by T.E. Lawrence
+47. Night by Elie Wiesel
+48. Charlie and the Chocolate Factory by Roald Dahl
+49. The Lorax by Dr. Seuss
+50. Holes by Louis Sachar
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1157 likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Placebo
+2. Interpol
+3. The Cure
+4. The Killers
+5. Garbage
+6. R.E.M.
+7. The National
+8. PJ Harvey
+9. The Strokes
+10. Arcade Fire
+11. Modest Mouse
+12. The Flaming Lips
+13. Yeah Yeah Yeahs
+14. The Jesus and Mary Chain
+15. My Bloody Valentine
+16. The Smiths
+17. New Order
+18. The War on Drugs
+19. Tame Impala
+20. Foals
+21. Editors
+22. Bloc Party
+23. The Horrors
+24. M83
+25. Grimes
+26. CHVRCHES
+27. Purity Ring
+28. Crystal Castles
+29. The xx
+30. Beach House
+31. MGMT
+32. Vampire Weekend
+33. Alt-J
+34. Foster the People
+35. HAIM
+36. The Naked and Famous
+37. Metric
+38. Silversun Pickups
+39. Wolf Alice
+40. Phantogram
+41. CHVRCHES
+42. Purity Ring
+43. Crystal Castles
+44. The xx
+45. Beach House
+46. MGMT
+47. Vampire Weekend
+48. Alt-J
+49. Foster the People
+50. HAIM
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. It Happened to Nancy: By an Anonymous Teenager
+2. Twilight (series)
+3. The Truth About Forever
+4. Lock and Key
+5. Tricks (novel)
+6. Like Water for Chocolate
+7. Dracula
+8. Vampire Kisses
+9. The Da Vinci Code
+10. Go Ask Alice
+11. The Named
+12. Wake (Lisa McMann novel)
+13. Esperanza Rising
+14. The Perks of Being a Wallflower
+15. Pretties
+16. Identical (novel)
+17. Martyn Pig
+18. The Call of Cthulhu and Other Weird Stories
+19. Hairstyles of the Damned
+20. The Outsiders (novel)
+21. Change of Heart (novel)
+22. This Lullaby
+23. The Watchmen (novel)
+24. Naruto
+25. The Lost Boy (memoir)
+26. Where the Wild Things Are
+27. Candy: A Novel of Love and Addiction
+28. Pride and Prejudice
+29. Angels & Demons
+30. Thirteen Reasons Why
+31. Wuthering Heights
+32. The Catcher in the Rye
+33. A Clockwork Orange
+34. The Picture of Dorian Gray
+35. The Facebook Effect
+36. Alice's Adventures in Wonderland
+37. Cut (novel)
+38. Romeo and Juliet
+39. Impulse economy
+40. Death Note
+41. Jaws (novel)
+42. Brave New World
+43. Vampire Academy (novel)
+44. The Invention of Hugo Cabret
+45. My Sister's Keeper (novel)
+46. Jay's Journal
+47. Wings (Pike novel)
+48. Necronomicon: The Best Weird Tales of H. P. Lovecraft: Commemorative Edition
+49. Animal Farm
+50. To Kill a Mockingbird
+
+These recommendations are based on similar themes, genres, and authors to the books the user already likes.

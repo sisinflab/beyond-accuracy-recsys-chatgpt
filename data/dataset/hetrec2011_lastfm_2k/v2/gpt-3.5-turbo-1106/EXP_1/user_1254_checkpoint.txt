@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Riverside
+2. Tool
+3. Steven Wilson
+4. Tesseract
+5. Anathema
+6. The Pineapple Thief
+7. Soen
+8. Leprous
+9. Haken
+10. Caligula's Horse
+11. Karnivool
+12. Crippled Black Phoenix
+13. Long Distance Calling
+14. The Ocean
+15. Katatonia
+16. Porcupine Tree
+17. God Is an Astronaut
+18. DJ Shadow
+19. Massive Attack
+20. Opeth
+21. Boards of Canada
+22. Dark Tranquillity
+23. In Flames
+24. Radiohead
+25. Sigur Rós
+26. Megadeth
+27. Deftones
+28. Anathema
+29. Infected Mushroom
+30. Metallica
+31. Alcest
+32. Agalloch
+33. Cult of Luna
+34. Mono
+35. Russian Circles
+36. Explosions in the Sky
+37. Godspeed You! Black Emperor
+38. Mogwai
+39. Pelican
+40. Isis
+41. Neurosis
+42. Swans
+43. Chelsea Wolfe
+44. Emma Ruth Rundle
+45. Myrkur
+46. Wolves in the Throne Room
+47. Deafheaven
+48. Sunn O)))
+49. Boris
+50. YOB
+
+These recommendations are based on the user's liking of similar artists and genres.

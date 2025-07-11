@@ -1,0 +1,54 @@
+Based on user 1441's preferences, here are the top-50 recommendations for the given artists:
+
+1. Radiohead
+2. The Killers
+3. The Velvet Underground
+4. The Stone Roses
+5. The Smiths
+6. The Shins
+7. Sufjan Stevens
+8. The Smashing Pumpkins
+9. Pink Floyd
+10. R.E.M.
+11. Nick Drake
+12. Sonic Youth
+13. Beck
+14. The Black Keys
+15. Muse
+16. Kings of Leon
+17. Coldplay
+18. Foo Fighters
+19. Vampire Weekend
+20. Arctic Monkeys
+21. Franz Ferdinand
+22. The Strokes
+23. Interpol
+24. The White Stripes
+25. The Kooks
+26. The Libertines
+27. The Fratellis
+28. The Last Shadow Puppets
+29. The Vines
+30. Maxïmo Park
+31. The Cribs
+32. The Dead Weather
+33. The All-American Rejects
+34. Death Cab for Cutie
+35. Kasabian
+36. Oasis
+37. The Beatles
+38. Led Zeppelin
+39. The Runaways
+40. Laura Marling
+41. Lady Gaga
+42. Gossip
+43. Gorillaz
+44. The Pretty Reckless
+45. Cansei de Ser Sexy
+46. Placebo
+47. Julian Casablancas
+48. The Distillers
+49. Babyshambles
+50. Wolfmother
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

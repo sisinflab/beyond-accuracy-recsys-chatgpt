@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Naked Lunch by William S. Burroughs
+2. Fear and Loathing in Las Vegas by Hunter S. Thompson
+3. American Psycho by Bret Easton Ellis
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Fight Club by Chuck Palahniuk
+6. Trainspotting by Irvine Welsh
+7. The Bell Jar by Sylvia Plath
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Stranger by Albert Camus
+10. The Road by Cormac McCarthy
+11. The Great Gatsby by F. Scott Fitzgerald
+12. 1984 by George Orwell
+13. Catch-22 by Joseph Heller
+14. The Sun Also Rises by Ernest Hemingway
+15. The Shining by Stephen King
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Alchemist by Paulo Coelho
+18. The Secret History by Donna Tartt
+19. The Handmaid's Tale by Margaret Atwood
+20. The Stand by Stephen King
+21. The Grapes of Wrath by John Steinbeck
+22. The Old Man and the Sea by Ernest Hemingway
+23. The Catcher in the Rye by J.D. Salinger
+24. One Hundred Years of Solitude by Gabriel Garcia Marquez
+25. The Brothers Karamazov by Fyodor Dostoevsky
+26. Crime and Punishment by Fyodor Dostoevsky
+27. Lolita by Vladimir Nabokov
+28. The Master and Margarita by Mikhail Bulgakov
+29. The Trial by Franz Kafka
+30. The Metamorphosis by Franz Kafka
+31. The Plague by Albert Camus
+32. The Count of Monte Cristo by Alexandre Dumas
+33. The Name of the Wind by Patrick Rothfuss
+34. The Book Thief by Markus Zusak
+35. The Kite Runner by Khaled Hosseini
+36. To Kill a Mockingbird by Harper Lee
+37. The Lord of the Rings by J.R.R. Tolkien
+38. The Silmarillion by J.R.R. Tolkien
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Road to Wigan Pier by George Orwell
+41. The Fountainhead by Ayn Rand
+42. Atlas Shrugged by Ayn Rand
+43. The Power of One by Bryce Courtenay
+44. The Poisonwood Bible by Barbara Kingsolver
+45. The Joy Luck Club by Amy Tan
+46. The Color Purple by Alice Walker
+47. The Handmaid's Tale by Margaret Atwood
+48. The Night Circus by Erin Morgenstern
+49. The Goldfinch by Donna Tartt
+50. The Secret History by Donna Tartt
+
+These recommendations are based on the user's interest in literary works with themes of rebellion, counterculture, and psychological exploration.

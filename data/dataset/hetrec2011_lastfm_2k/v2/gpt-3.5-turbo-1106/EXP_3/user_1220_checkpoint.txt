@@ -1,0 +1,54 @@
+Based on user 1220's preferences, here are the top-50 recommendations for the given artists:
+
+1. Paramore
+2. Ellie Goulding
+3. M83
+4. Avril Lavigne
+5. P!nk
+6. Katy Perry
+7. Lady Gaga
+8. Rihanna
+9. Beyoncé
+10. Shakira
+11. Pink
+12. Ke$ha
+13. Jessie James
+14. The Veronicas
+15. No Doubt
+16. Gwen Stefani
+17. Jennifer Lopez
+18. Madonna
+19. Britney Spears
+20. Christina Aguilera
+21. Adele
+22. Amy Winehouse
+23. Duffy
+24. Joss Stone
+25. Florence + the Machine
+26. Evanescence
+27. Róisín Murphy
+28. Janelle Monáe
+29. Arcade Fire
+30. Kings of Leon
+31. The Killers
+32. The National
+33. Yeasayer
+34. The xx
+35. Goldfrapp
+36. Crystal Castles
+37. M.I.A.
+38. Dragonette
+39. The Bravery
+40. Scissor Sisters
+41. Garbage
+42. Oasis
+43. The Cure
+44. The Smashing Pumpkins
+45. Franz Ferdinand
+46. Coldplay
+47. Tiësto
+48. Röyksopp
+49. Pet Shop Boys
+50. Jamiroquai
+
+These recommendations are based on similar artists and genres liked by user 1220.

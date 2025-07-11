@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1202:
+
+1. Depeche Mode
+2. The Beatles
+3. Tori Amos
+4. PJ Harvey
+5. New Order
+6. The Cure
+7. David Bowie
+8. U2
+9. Moby
+10. Nine Inch Nails
+11. Erasure
+12. Simple Minds
+13. Morrissey
+14. INXS
+15. Front 242
+16. Frankie Goes to Hollywood
+17. Orchestral Manoeuvres in the Dark
+18. The Smiths
+19. Goldfrapp
+20. The Killers
+21. Tears for Fears
+22. Bloc Party
+23. Yazoo
+24. Joy Division
+25. a-ha
+26. Duran Duran
+27. Queen
+28. Kate Bush
+29. Editors
+30. Talking Heads
+31. Hall & Oates
+32. Scissor Sisters
+33. Eurythmics
+34. Madonna
+35. Crowded House
+36. Stone Temple Pilots
+37. Bruce Springsteen
+38. Ultravox
+39. Madness
+40. Girls Aloud
+41. Elton John
+42. Culture Club
+43. Nik Kershaw
+44. No Doubt
+45. Archive
+46. Genesis
+47. Spandau Ballet
+48. ABC
+49. Pet Shop Boys
+50. Wham!
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists that align with their musical tastes.

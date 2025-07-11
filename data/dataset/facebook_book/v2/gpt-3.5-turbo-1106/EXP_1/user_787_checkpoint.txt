@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Grapes of Wrath by John Steinbeck
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Bell Jar by Sylvia Plath
+9. The Sun Also Rises by Ernest Hemingway
+10. The Old Man and the Sea by Ernest Hemingway
+11. A Farewell to Arms by Ernest Hemingway
+12. The Sound and the Fury by William Faulkner
+13. As I Lay Dying by William Faulkner
+14. The Road by Cormac McCarthy
+15. Beloved by Toni Morrison
+16. The Color Purple by Alice Walker
+17. The Handmaid's Tale by Margaret Atwood
+18. Fahrenheit 451 by Ray Bradbury
+19. The Road by Cormac McCarthy
+20. The Heart is a Lonely Hunter by Carson McCullers
+21. The Crying of Lot 49 by Thomas Pynchon
+22. White Noise by Don DeLillo
+23. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+24. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+25. The Corrections by Jonathan Franzen
+26. The Poisonwood Bible by Barbara Kingsolver
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Namesake by Jhumpa Lahiri
+30. The God of Small Things by Arundhati Roy
+31. Midnight's Children by Salman Rushdie
+32. The Shadow of the Wind by Carlos Ruiz Zafón
+33. The Alchemist by Paulo Coelho
+34. The Book Thief by Markus Zusak
+35. The Night Circus by Erin Morgenstern
+36. The Secret History by Donna Tartt
+37. The Goldfinch by Donna Tartt
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Help by Kathryn Stockett
+40. The Hunger Games by Suzanne Collins
+41. The Girl on the Train by Paula Hawkins
+42. Gone Girl by Gillian Flynn
+43. The Martian by Andy Weir
+44. Ready Player One by Ernest Cline
+45. The Handmaid's Tale by Margaret Atwood
+46. The Road by Cormac McCarthy
+47. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+48. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+49. The Corrections by Jonathan Franzen
+50. The Poisonwood Bible by Barbara Kingsolver
+
+These recommendations are based on the user's interest in literary fiction, classic literature, and historical and social themes.

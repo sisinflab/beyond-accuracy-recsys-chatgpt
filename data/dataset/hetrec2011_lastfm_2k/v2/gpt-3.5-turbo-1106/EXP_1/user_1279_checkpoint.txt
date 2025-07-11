@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. The National
+3. Interpol
+4. Arcade Fire
+5. The xx
+6. Tame Impala
+7. Vampire Weekend
+8. The Black Keys
+9. Alt-J
+10. Foals
+11. The White Stripes
+12. Bon Iver
+13. The Flaming Lips
+14. Modest Mouse
+15. Spoon
+16. Phoenix
+17. The Shins
+18. Death Cab for Cutie
+19. Muse
+20. Radiohead
+21. Babyshambles
+22. múm
+23. Peter Doherty
+24. Franz Ferdinand
+25. 65daysofstatic
+26. Mew
+27. The Pretty Reckless
+28. Ólafur Arnalds
+29. Florence + the Machine
+30. Arctic Monkeys
+31. The Beatles
+32. Balmorhea
+33. Mogwai
+34. The Killers
+35. Bang Gang
+36. Cat Power
+37. Coldplay
+38. Amiina
+39. Norah Jones
+40. OneRepublic
+41. Nirvana
+42. Amy Winehouse
+43. Crystal Castles
+44. Marina & the Diamonds
+45. The Kooks
+46. Kate Nash
+47. Theory of a Deadman
+48. Keane
+49. Yeah Yeah Yeahs
+50. The Decemberists
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for potential discovery.

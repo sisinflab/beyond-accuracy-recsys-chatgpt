@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 143:
+
+1. The Rolling Stones
+2. The Doors
+3. Pink Floyd
+4. The Who
+5. Neil Young
+6. The Beach Boys
+7. Johann Sebastian Bach
+8. The Beatles
+9. Elvis Presley
+10. Michael Jackson
+11. Queen
+12. Led Zeppelin
+13. U2
+14. Van Halen
+15. Pearl Jam
+16. Santana
+17. Bruce Springsteen
+18. Paul McCartney
+19. George Harrison
+20. Oasis
+21. The White Stripes
+22. The Killers
+23. Muse
+24. Foo Fighters
+25. Snow Patrol
+26. AC/DC
+27. Radiohead
+28. Simple Minds
+29. Guns N' Roses
+30. Nirvana
+31. Pulp
+32. Madonna
+33. R.E.M.
+34. Tori Amos
+35. A Flock of Seagulls
+36. Patti Smith
+37. The Cure
+38. Blondie
+39. Siouxsie and the Banshees
+40. Maroon 5
+41. The Mamas & The Papas
+42. Katie Melua
+43. Lara Fabian
+44. Moby
+45. Feist
+46. The Libertines
+47. Manic Street Preachers
+48. Arctic Monkeys
+49. The Knife
+50. José González
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

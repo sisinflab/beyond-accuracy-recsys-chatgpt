@@ -1,0 +1,54 @@
+Based on user 1184's preferences, here are the top-50 recommendations for the given artists:
+
+1. Robyn
+2. Ellie Goulding
+3. Shakira
+4. Miley Cyrus
+5. The Veronicas
+6. David Bowie
+7. Jessie J
+8. Adam Lambert
+9. Céline Dion
+10. Cher
+11. Nicole Scherzinger
+12. Justin Bieber
+13. The Killers
+14. Michael Jackson
+15. Queen
+16. Janet Jackson
+17. Linkin Park
+18. Lily Allen
+19. Kate Bush
+20. Florence + the Machine
+21. Avril Lavigne
+22. Metro Station
+23. Eminem
+24. Leighton Meester
+25. Adriana Calcanhotto
+26. The Strokes
+27. The Pretty Reckless
+28. Christian Chávez
+29. B.o.B
+30. Róisín Murphy
+31. Glee Cast
+32. M.I.A.
+33. Sum 41
+34. Wolfgang Amadeus Mozart
+35. Belinda
+36. 3OH!3
+37. nevershoutnever!
+38. Natalia Kills
+39. Willow Smith
+40. Monrose
+41. Ashlee Simpson
+42. Anahí
+43. Lolene
+44. BoA
+45. Taio Cruz
+46. Far East Movement
+47. Dangerous Muse
+48. Duffy
+49. Cheryl Cole
+50. Jeffree Star
+
+These recommendations are based on the user's existing preferences and are designed to align with their music taste.

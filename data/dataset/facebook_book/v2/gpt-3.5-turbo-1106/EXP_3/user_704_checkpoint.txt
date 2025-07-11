@@ -1,0 +1,54 @@
+Based on user 704's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Brave New World by Aldous Huxley
+3. Jane Eyre by Charlotte Brontë
+4. Sense and Sensibility by Jane Austen
+5. The French Lieutenant's Woman by John Fowles
+6. The Tempest by William Shakespeare
+7. Wicked Lovely by Melissa Marr
+8. The Thief Lord by Cornelia Funke
+9. A Connecticut Yankee in King Arthur's Court by Mark Twain
+10. Like Water for Chocolate by Laura Esquivel
+11. Moby-Dick by Herman Melville
+12. Macbeth by William Shakespeare
+13. Little Women by Louisa May Alcott
+14. The Perks of Being a Wallflower by Stephen Chbosky
+15. The Chosen by Chaim Potok
+16. Gulliver's Travels by Jonathan Swift
+17. Paradise Lost by John Milton
+18. Siddhartha by Hermann Hesse
+19. Les Misérables by Victor Hugo
+20. A Tale of Two Cities by Charles Dickens
+21. Night by Elie Wiesel
+22. Othello by William Shakespeare
+23. A Midsummer Night's Dream by William Shakespeare
+24. The Princess Bride by William Goldman
+25. The Catcher in the Rye by J.D. Salinger
+26. Harry Potter series by J.K. Rowling
+27. The Merchant of Venice by William Shakespeare
+28. Uncle Tom's Cabin by Harriet Beecher Stowe
+29. The Color of Water by James McBride
+30. Dracula by Bram Stoker
+31. Catching Fire by Suzanne Collins
+32. Lord of the Flies by William Golding
+33. Into Thin Air by Jon Krakauer
+34. A Separate Peace by John Knowles
+35. Emma by Jane Austen
+36. The Taming of the Shrew by William Shakespeare
+37. The Red Tent by Anita Diamant
+38. Alas, Babylon by Pat Frank
+39. Leaving a Doll's House: A Memoir by Claire Bloom
+40. Someday This Pain Will Be Useful to You by Peter Cameron
+41. Hey Nostradamus! by Douglas Coupland
+42. City of Ashes by Cassandra Clare
+43. Of Mice and Men by John Steinbeck
+44. Cat's Cradle by Kurt Vonnegut
+45. Speak by Laurie Halse Anderson
+46. Metamorphoses by Ovid
+47. Book of Exodus by Moses
+48. Mansfield Park by Jane Austen
+49. Everyone Poops by Taro Gomi
+50. Where the Sidewalk Ends by Shel Silverstein
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

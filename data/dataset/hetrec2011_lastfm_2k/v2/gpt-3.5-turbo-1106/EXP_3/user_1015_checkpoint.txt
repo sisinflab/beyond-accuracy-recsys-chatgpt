@@ -1,0 +1,54 @@
+Based on user 1015's preferences, here are the top 50 recommendations for them:
+
+1. Radiohead
+2. Muse
+3. Death Cab for Cutie
+4. Coldplay
+5. The Shins
+6. Iron & Wine
+7. Snow Patrol
+8. José González
+9. Matisyahu
+10. Imogen Heap
+11. Beirut
+12. Feist
+13. The Fray
+14. Nelly Furtado
+15. Shakira
+16. Juanes
+17. Relient K
+18. Something Corporate
+19. The Killers
+20. Franz Ferdinand
+21. Arctic Monkeys
+22. Kings of Leon
+23. The Strokes
+24. Oasis
+25. Keane
+26. Stereophonics
+27. U2
+28. Linkin Park
+29. Kaiser Chiefs
+30. Switchfoot
+31. Incubus
+32. The Decemberists
+33. Glee Cast
+34. Anberlin
+35. Kasabian
+36. Gorillaz
+37. The Kooks
+38. Florence + the Machine
+39. Paramore
+40. Friendly Fires
+41. Red Hot Chili Peppers
+42. Jason Mraz
+43. Jack Johnson
+44. Two Door Cinema Club
+45. Franz Ferdinand
+46. Katy Perry
+47. System of a Down
+48. The Beatles
+49. Foo Fighters
+50. 3OH!3
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 977:
+
+1. The Lightning Thief
+2. The Last Olympian
+3. The Sea of Monsters
+4. Inkheart
+5. Inkspell
+6. Inkdeath
+7. The Chronicles of Narnia
+8. The Chronicles of Narnia: Prince Caspian
+9. The Hobbit
+10. The Lord of the Rings
+11. The Giver
+12. The Lovely Bones
+13. Mockingjay
+14. Catching Fire
+15. The Hunger Games
+16. Thirteen Reasons Why
+17. Maximum Ride
+18. Twilight (series)
+19. City of Bones (Mortal Instruments)
+20. City of Ashes
+21. City of Glass (Mortal Instruments)
+22. The Tenth Circle
+23. The Notebook
+24. The Last Song
+25. The Purpose Driven Life
+26. His Dark Materials
+27. I Am Number Four
+28. The Little Prince
+29. Ella Enchanted
+30. A Great and Terrible Beauty
+31. The Forest of Hands and Teeth
+32. Holes (novel)
+33. A Northern Light
+34. Ninth Grade Slays
+35. Eragon
+36. Vampire Kisses
+37. Harry Potter
+38. Fallen (Kate novel)
+39. Peace (novel)
+40. Love Story (novel)
+41. Jane Eyre
+42. Confessions of an Economic Hit Man
+43. The Lightning Thief
+44. The Zombie Survival Guide
+45. Goosebumps
+46. Pride and Prejudice
+47. Manga
+48. Diary of a Wimpy Kid (series)
+49. The Omnivore's Dilemma
+50. Hot, Flat, and Crowded
+
+These recommendations are based on similar themes, genres, and authors to the books that user 977 has already enjoyed.

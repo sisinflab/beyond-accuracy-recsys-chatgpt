@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Diviners by Libba Bray
+2. The Night Circus by Erin Morgenstern
+3. The Book Thief by Markus Zusak
+4. The Secret History by Donna Tartt
+5. The Raven Boys by Maggie Stiefvater
+6. The Name of the Wind by Patrick Rothfuss
+7. The Goldfinch by Donna Tartt
+8. The Shadow of the Wind by Carlos Ruiz Zafón
+9. The Nightingale by Kristin Hannah
+10. The Girl on the Train by Paula Hawkins
+11. The Great Alone by Kristin Hannah
+12. The Thirteenth Tale by Diane Setterfield
+13. The Miniaturist by Jessie Burton
+14. The Nightingale by Kristin Hannah
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Light Between Oceans by M.L. Stedman
+17. The Snow Child by Eowyn Ivey
+18. The Night Circus by Erin Morgenstern
+19. The Goldfinch by Donna Tartt
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Nightingale by Kristin Hannah
+22. The Girl on the Train by Paula Hawkins
+23. The Great Alone by Kristin Hannah
+24. The Thirteenth Tale by Diane Setterfield
+25. The Miniaturist by Jessie Burton
+26. The Nightingale by Kristin Hannah
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Light Between Oceans by M.L. Stedman
+29. The Snow Child by Eowyn Ivey
+30. The Night Circus by Erin Morgenstern
+31. The Goldfinch by Donna Tartt
+32. The Shadow of the Wind by Carlos Ruiz Zafón
+33. The Nightingale by Kristin Hannah
+34. The Girl on the Train by Paula Hawkins
+35. The Great Alone by Kristin Hannah
+36. The Thirteenth Tale by Diane Setterfield
+37. The Miniaturist by Jessie Burton
+38. The Nightingale by Kristin Hannah
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Light Between Oceans by M.L. Stedman
+41. The Snow Child by Eowyn Ivey
+42. The Night Circus by Erin Morgenstern
+43. The Goldfinch by Donna Tartt
+44. The Shadow of the Wind by Carlos Ruiz Zafón
+45. The Nightingale by Kristin Hannah
+46. The Girl on the Train by Paula Hawkins
+47. The Great Alone by Kristin Hannah
+48. The Thirteenth Tale by Diane Setterfield
+49. The Miniaturist by Jessie Burton
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's preference for young adult fiction, mystery, and fantasy genres.

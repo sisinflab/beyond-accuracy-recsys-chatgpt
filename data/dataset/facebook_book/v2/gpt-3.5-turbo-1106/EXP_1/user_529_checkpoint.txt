@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. Brave New World by Aldous Huxley
+4. Animal Farm by George Orwell
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. Catch-22 by Joseph Heller
+7. One Flew Over the Cuckoo's Nest by Ken Kesey
+8. The Great Gatsby by F. Scott Fitzgerald
+9. Fahrenheit 451 by Ray Bradbury
+10. The Bell Jar by Sylvia Plath
+11. The Road by Cormac McCarthy
+12. The Stranger by Albert Camus
+13. The Grapes of Wrath by John Steinbeck
+14. The Old Man and the Sea by Ernest Hemingway
+15. A Clockwork Orange by Anthony Burgess
+16. The Sun Also Rises by Ernest Hemingway
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. Crime and Punishment by Fyodor Dostoevsky
+20. The Stand by Stephen King
+21. The Shining by Stephen King
+22. Misery by Stephen King
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. Angels & Demons by Dan Brown
+26. The Girl on the Train by Paula Hawkins
+27. Gone Girl by Gillian Flynn
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Road by Cormac McCarthy
+30. The Stand by Stephen King
+31. The Shining by Stephen King
+32. Misery by Stephen King
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Da Vinci Code by Dan Brown
+35. Angels & Demons by Dan Brown
+36. The Girl on the Train by Paula Hawkins
+37. Gone Girl by Gillian Flynn
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Road by Cormac McCarthy
+40. The Stand by Stephen King
+41. The Shining by Stephen King
+42. Misery by Stephen King
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Da Vinci Code by Dan Brown
+45. Angels & Demons by Dan Brown
+46. The Girl on the Train by Paula Hawkins
+47. Gone Girl by Gillian Flynn
+48. The Girl with the Dragon Tattoo by Stieg Larsson
+49. The Road by Cormac McCarthy
+50. The Stand by Stephen King
+
+These recommendations are based on the user's interest in fiction, dystopian literature, and psychological thrillers.

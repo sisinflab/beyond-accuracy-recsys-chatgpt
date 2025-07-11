@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Chronicles of Narnia by C.S. Lewis
+6. Percy Jackson & the Olympians by Rick Riordan
+7. The Fault in Our Stars by John Green
+8. The Selection by Kiera Cass
+9. The Mortal Instruments by Cassandra Clare
+10. The Infernal Devices by Cassandra Clare
+11. The 5th Wave by Rick Yancey
+12. Legend by Marie Lu
+13. The Darkest Minds by Alexandra Bracken
+14. Uglies by Scott Westerfeld
+15. The Lunar Chronicles by Marissa Meyer
+16. Red Queen by Victoria Aveyard
+17. The Twilight Saga by Stephenie Meyer
+18. The Host by Stephenie Meyer
+19. The Vampire Diaries by L.J. Smith
+20. Beautiful Creatures by Kami Garcia and Margaret Stohl
+21. The Iron Fey by Julie Kagawa
+22. Graceling by Kristin Cashore
+23. The Name of the Wind by Patrick Rothfuss
+24. Eragon by Christopher Paolini
+25. The Hobbit by J.R.R. Tolkien
+26. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Girl on the Train by Paula Hawkins
+29. Gone Girl by Gillian Flynn
+30. The Night Circus by Erin Morgenstern
+31. The Book Thief by Markus Zusak
+32. The Secret History by Donna Tartt
+33. The Goldfinch by Donna Tartt
+34. The Shadow of the Wind by Carlos Ruiz Zafón
+35. The Alchemist by Paulo Coelho
+36. The Kite Runner by Khaled Hosseini
+37. A Thousand Splendid Suns by Khaled Hosseini
+38. The Help by Kathryn Stockett
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. Water for Elephants by Sara Gruen
+41. The Nightingale by Kristin Hannah
+42. All the Light We Cannot See by Anthony Doerr
+43. The Great Gatsby by F. Scott Fitzgerald
+44. To Kill a Mockingbird by Harper Lee
+45. 1984 by George Orwell
+46. Brave New World by Aldous Huxley
+47. Fahrenheit 451 by Ray Bradbury
+48. Animal Farm by George Orwell
+49. Lord of the Flies by William Golding
+50. The Catcher in the Rye by J.D. Salinger
+
+These recommendations are based on the user's interest in fantasy, dystopian, and young adult fiction.

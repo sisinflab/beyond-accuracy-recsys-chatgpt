@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Caetano Veloso
+2. Vanessa da Mata
+3. Los Hermanos
+4. Skank
+5. Nando Reis
+6. Ana Carolina
+7. Chico Buarque
+8. Cássia Eller
+9. Zeca Baleiro
+10. Adriana Calcanhotto
+11. O Rappa
+12. Maroon 5
+13. Coldplay
+14. Oasis
+15. Arctic Monkeys
+16. The Killers
+17. Florence + The Machine
+18. Lana Del Rey
+19. HAIM
+20. Tame Impala
+21. The Strokes
+22. Kings of Leon
+23. Franz Ferdinand
+24. The Black Keys
+25. Vampire Weekend
+26. Foster the People
+27. Phoenix
+28. MGMT
+29. The Kooks
+30. Two Door Cinema Club
+31. The 1975
+32. Bastille
+33. Imagine Dragons
+34. Twenty One Pilots
+35. Hozier
+36. Lorde
+37. Of Monsters and Men
+38. The Lumineers
+39. Mumford & Sons
+40. The Head and the Heart
+41. Fleet Foxes
+42. Bon Iver
+43. Beirut
+44. Iron & Wine
+45. Sufjan Stevens
+46. José González
+47. Ben Howard
+48. Angus & Julia Stone
+49. First Aid Kit
+50. The Tallest Man on Earth
+
+These recommendations are based on the user's liking of similar artists and genres.

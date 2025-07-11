@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Killers
+2. Arctic Monkeys
+3. Foo Fighters
+4. Paramore
+5. The Rolling Stones
+6. Queen
+7. The White Stripes
+8. Panic! At The Disco
+9. The Smashing Pumpkins
+10. The Black Keys
+11. The Offspring
+12. System Of A Down
+13. Franz Ferdinand
+14. The Strokes
+15. Weezer
+16. The Kooks
+17. The Verve
+18. The Hives
+19. The Libertines
+20. The Cranberries
+21. The Fratellis
+22. The Raconteurs
+23. The Vaccines
+24. The Wombats
+25. The 1975
+26. The Neighbourhood
+27. The Lumineers
+28. The xx
+29. The National
+30. The War On Drugs
+31. The Black Angels
+32. The Flaming Lips
+33. The Shins
+34. The Decemberists
+35. The Avett Brothers
+36. The Head and the Heart
+37. The Tallest Man On Earth
+38. The Paper Kites
+39. The Oh Hellos
+40. The Front Bottoms
+41. The Mountain Goats
+42. The Antlers
+43. The Gaslight Anthem
+44. The Airborne Toxic Event
+45. The Naked and Famous
+46. The Joy Formidable
+47. The Maccabees
+48. The Temper Trap
+49. The Boxer Rebellion
+50. The Naked and Famous
+
+These recommendations are based on the user's liking of similar artists and genres.

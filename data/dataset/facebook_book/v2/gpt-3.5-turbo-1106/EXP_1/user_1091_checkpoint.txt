@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
+2. The Witching Hour by Anne Rice
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Bonesetter's Daughter by Amy Tan
+5. The Catcher in the Rye by J.D. Salinger
+6. Junky by William S. Burroughs
+7. The Dirt: Confessions of the World's Most Notorious Rock Band by Neil Strauss
+8. The Color Purple by Alice Walker
+9. The Handmaid's Tale by Margaret Atwood
+10. American Psycho by Bret Easton Ellis
+11. The Stand by Stephen King
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Road by Cormac McCarthy
+15. The Glass Castle by Jeannette Walls
+16. The Lovely Bones by Alice Sebold
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Secret History by Donna Tartt
+19. The Kite Runner by Khaled Hosseini
+20. The Goldfinch by Donna Tartt
+21. The Night Circus by Erin Morgenstern
+22. The Alchemist by Paulo Coelho
+23. The Book Thief by Markus Zusak
+24. The Hunger Games by Suzanne Collins
+25. The Help by Kathryn Stockett
+26. The Fault in Our Stars by John Green
+27. The Perks of Being a Wallflower by Stephen Chbosky
+28. The Giver by Lois Lowry
+29. The Martian by Andy Weir
+30. The Handmaid's Tale by Margaret Atwood
+31. The Road by Cormac McCarthy
+32. The Glass Castle by Jeannette Walls
+33. The Lovely Bones by Alice Sebold
+34. The Girl with the Dragon Tattoo by Stieg Larsson
+35. The Secret History by Donna Tartt
+36. The Kite Runner by Khaled Hosseini
+37. The Goldfinch by Donna Tartt
+38. The Night Circus by Erin Morgenstern
+39. The Alchemist by Paulo Coelho
+40. The Book Thief by Markus Zusak
+41. The Hunger Games by Suzanne Collins
+42. The Help by Kathryn Stockett
+43. The Fault in Our Stars by John Green
+44. The Perks of Being a Wallflower by Stephen Chbosky
+45. The Giver by Lois Lowry
+46. The Martian by Andy Weir
+47. The Handmaid's Tale by Margaret Atwood
+48. The Road by Cormac McCarthy
+49. The Glass Castle by Jeannette Walls
+50. The Lovely Bones by Alice Sebold
+
+These recommendations are based on the user's interest in similar genres, authors, and themes as the books they have previously enjoyed.

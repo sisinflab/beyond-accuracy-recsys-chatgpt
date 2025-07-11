@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. The Alchemist by Paulo Coelho
+6. The Book Thief by Markus Zusak
+7. The Kite Runner by Khaled Hosseini
+8. The Giver by Lois Lowry
+9. The Fault in Our Stars by John Green
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. The Bell Jar by Sylvia Plath
+12. Brave New World by Aldous Huxley
+13. Fahrenheit 451 by Ray Bradbury
+14. Animal Farm by George Orwell
+15. Wuthering Heights by Emily Brontë
+16. Little Women by Louisa May Alcott
+17. The Secret Garden by Frances Hodgson Burnett
+18. A Tale of Two Cities by Charles Dickens
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Road by Cormac McCarthy
+21. The Lovely Bones by Alice Sebold
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. Gone with the Wind by Margaret Mitchell
+24. The Help by Kathryn Stockett
+25. The Color Purple by Alice Walker
+26. The Handmaid's Tale by Margaret Atwood
+27. The Glass Castle by Jeannette Walls
+28. The Goldfinch by Donna Tartt
+29. The Night Circus by Erin Morgenstern
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Martian by Andy Weir
+32. The Hunger Games by Suzanne Collins
+33. Catching Fire by Suzanne Collins
+34. Mockingjay by Suzanne Collins
+35. Divergent by Veronica Roth
+36. The Maze Runner by James Dashner
+37. The Giver by Lois Lowry
+38. The Lightning Thief by Rick Riordan
+39. The Chronicles of Narnia by C.S. Lewis
+40. The Hobbit by J.R.R. Tolkien
+41. The Lord of the Rings by J.R.R. Tolkien
+42. The Da Vinci Code by Dan Brown
+43. Angels & Demons by Dan Brown
+44. Inferno by Dan Brown
+45. The Girl on the Train by Paula Hawkins
+46. Big Little Lies by Liane Moriarty
+47. Sharp Objects by Gillian Flynn
+48. Dark Places by Gillian Flynn
+49. The Silent Patient by Alex Michaelides
+50. Where the Crawdads Sing by Delia Owens
+
+These recommendations are based on the user's interest in classic literature, historical fiction, dystopian novels, and young adult fiction.

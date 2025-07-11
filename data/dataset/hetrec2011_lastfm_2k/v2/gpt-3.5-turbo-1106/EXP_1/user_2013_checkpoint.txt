@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smashing Pumpkins
+2. Florence + The Machine
+3. The National
+4. Interpol
+5. Foals
+6. Arcade Fire
+7. The Kooks
+8. Vampire Weekend
+9. The Libertines
+10. Bloc Party
+11. The Cranberries
+12. The Verve
+13. The Cranberries
+14. The White Stripes
+15. The Black Keys
+16. The Flaming Lips
+17. The Shins
+18. Modest Mouse
+19. The Decemberists
+20. The War on Drugs
+21. Tame Impala
+22. The xx
+23. Alt-J
+24. Hozier
+25. The Lumineers
+26. Mumford & Sons
+27. Of Monsters and Men
+28. Two Door Cinema Club
+29. Bombay Bicycle Club
+30. The Wombats
+31. Catfish and the Bottlemen
+32. The 1975
+33. Arctic Monkeys
+34. The Strokes
+35. Franz Ferdinand
+36. Kasabian
+37. The Killers
+38. Keane
+39. Snow Patrol
+40. Editors
+41. The Bravery
+42. The Hives
+43. The Zutons
+44. The Futureheads
+45. Maxïmo Park
+46. The Rakes
+47. The Subways
+48. The Pigeon Detectives
+49. The Fratellis
+50. The View
+
+These recommendations are based on the user's liking of similar artists and genres.

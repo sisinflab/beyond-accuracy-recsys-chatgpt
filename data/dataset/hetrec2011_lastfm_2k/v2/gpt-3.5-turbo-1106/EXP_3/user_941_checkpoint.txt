@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 941:
+
+1. Radiohead
+2. Massive Attack
+3. Bonobo
+4. The Beatles
+5. Modest Mouse
+6. Black Rebel Motorcycle Club
+7. Red Hot Chili Peppers
+8. Pixies
+9. Arctic Monkeys
+10. Placebo
+11. The Kooks
+12. The Fray
+13. Paramore
+14. Foo Fighters
+15. Dashboard Confessional
+16. The Subways
+17. The Flaming Lips
+18. Sigur Rós
+19. Archive
+20. God Is an Astronaut
+21. Explosions in the Sky
+22. Balmorhea
+23. Far East Movement
+24. 3OH!3
+25. Glee Cast
+26. City and Colour
+27. Ke$ha
+28. Britney Spears
+29. Christina Aguilera
+30. Katy Perry
+31. Selena Gomez & the Scene
+32. Cobra Starship
+33. Demi Lovato
+34. Beyoncé
+35. Jonas Brothers
+36. Röyksopp
+37. Leighton Meester
+38. Kate Voegele
+39. Lindsay Lohan
+40. Miley Cyrus
+41. Kerli
+42. Kate Nash
+43. McFly
+44. Lifehouse
+45. Ramones
+46. 2Pac
+47. Fresno
+48. Blink-182
+49. The Veronicas
+50. Ashlee Simpson
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their taste in music.

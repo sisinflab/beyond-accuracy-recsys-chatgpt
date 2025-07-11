@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Depeche Mode
+2. Talking Heads
+3. The Smiths
+4. Joy Division
+5. Echo & the Bunnymen
+6. Siouxsie and the Banshees
+7. The Psychedelic Furs
+8. The Clash
+9. Blondie
+10. The Smithereens
+11. R.E.M.
+12. The B-52's
+13. The Cult
+14. The Jam
+15. The Stranglers
+16. The Church
+17. The Sisters of Mercy
+18. Bauhaus
+19. The Chameleons
+20. The Mission
+21. The Replacements
+22. XTC
+23. The Waterboys
+24. The House of Love
+25. The Teardrop Explodes
+26. The Fall
+27. The Jesus and Mary Chain
+28. The Velvet Underground
+29. The Charlatans
+30. The Stone Roses
+31. The La's
+32. The Verve
+33. The Lightning Seeds
+34. The Wonder Stuff
+35. The Pogues
+36. The Alarm
+37. The Boomtown Rats
+38. The Undertones
+39. The Damned
+40. The Adicts
+41. The Vibrators
+42. The Ruts
+43. The Skids
+44. The Only Ones
+45. The Members
+46. The Dickies
+47. The Buzzcocks
+48. The Saints
+49. The Stray Cats
+50. The Cramps
+
+These recommendations are based on the user's liking of similar artists and genres.

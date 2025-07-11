@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. It by Stephen King
+3. 11/22/63 by Stephen King
+4. Pet Sematary by Stephen King
+5. Misery by Stephen King
+6. Carrie by Stephen King
+7. The Shining by Stephen King
+8. Salem's Lot by Stephen King
+9. The Dark Tower series by Stephen King
+10. The Outsider by Stephen King
+11. Doctor Sleep by Stephen King
+12. The Institute by Stephen King
+13. The Long Walk by Stephen King
+14. The Dead Zone by Stephen King
+15. The Tommyknockers by Stephen King
+16. The Talisman by Stephen King and Peter Straub
+17. Insomnia by Stephen King
+18. Bag of Bones by Stephen King
+19. The Regulators by Stephen King (as Richard Bachman)
+20. Desperation by Stephen King (as Richard Bachman)
+21. The Colorado Kid by Stephen King
+22. Joyland by Stephen King
+23. Revival by Stephen King
+24. Duma Key by Stephen King
+25. Lisey's Story by Stephen King
+26. The Dark Half by Stephen King
+27. Needful Things by Stephen King
+28. The Eyes of the Dragon by Stephen King
+29. The Girl Who Loved Tom Gordon by Stephen King
+30. The Green Mile by Stephen King
+31. The Running Man by Stephen King (as Richard Bachman)
+32. Thinner by Stephen King (as Richard Bachman)
+33. The Regulators by Stephen King (as Richard Bachman)
+34. The Drawing of the Three by Stephen King
+35. The Waste Lands by Stephen King
+36. Wizard and Glass by Stephen King
+37. Wolves of the Calla by Stephen King
+38. Song of Susannah by Stephen King
+39. The Dark Tower by Stephen King
+40. The Wind Through the Keyhole by Stephen King
+41. The Eyes of the Dragon by Stephen King
+42. The Dark Tower: The Gunslinger Born by Stephen King
+43. The Dark Tower: The Long Road Home by Stephen King
+44. The Dark Tower: Treachery by Stephen King
+45. The Dark Tower: Fall of Gilead by Stephen King
+46. The Dark Tower: Battle of Jericho Hill by Stephen King
+47. The Dark Tower: The Gunslinger by Stephen King
+48. The Dark Tower: The Drawing of the Three by Stephen King
+49. The Dark Tower: The Waste Lands by Stephen King
+50. The Dark Tower: Wizard and Glass by Stephen King
+
+These recommendations are based on the user's interest in Stephen King's works.

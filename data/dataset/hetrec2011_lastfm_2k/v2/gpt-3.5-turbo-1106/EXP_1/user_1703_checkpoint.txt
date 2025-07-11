@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Three Days Grace
+2. Seether
+3. Disturbed
+4. Bullet for My Valentine
+5. Korn
+6. System of a Down
+7. Slipknot
+8. Stone Sour
+9. Skillet
+10. Godsmack
+11. Chevelle
+12. Theory of a Deadman
+13. Staind
+14. Puddle of Mudd
+15. Trapt
+16. Adelitas Way
+17. Five Finger Death Punch
+18. Breaking Benjamin
+19. Papa Roach
+20. Metallica
+21. Avenged Sevenfold
+22. 30 Seconds to Mars
+23. Helloween
+24. Bon Jovi
+25. Shinedown
+26. Nightwish
+27. Linkin Park
+28. Green Day
+29. Poets of the Fall
+30. Hinder
+31. Red Hot Chili Peppers
+32. Foo Fighters
+33. Megadeth
+34. My Chemical Romance
+35. OneRepublic
+36. CRASHDÏET
+37. Scorpions
+38. Santana
+39. Thousand Foot Krutch
+40. Evanescence
+41. Mötley Crüe
+42. Within Temptation
+43. Red
+44. Sonata Arctica
+45. Aerosmith
+46. Jason Mraz
+47. Europe
+48. The Offspring
+49. Eminem
+50. Lady Gaga
+
+These recommendations are based on the user's liking of similar artists and genres.

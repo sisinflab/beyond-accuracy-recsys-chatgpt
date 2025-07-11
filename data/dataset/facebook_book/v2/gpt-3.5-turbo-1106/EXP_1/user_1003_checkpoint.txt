@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Bell Jar by Sylvia Plath
+3. Brave New World by Aldous Huxley
+4. Catch-22 by Joseph Heller
+5. One Flew Over the Cuckoo's Nest by Ken Kesey
+6. The Road by Cormac McCarthy
+7. The Stranger by Albert Camus
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Sun Also Rises by Ernest Hemingway
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Old Man and the Sea by Ernest Hemingway
+12. The Grapes of Wrath by John Steinbeck
+13. Fahrenheit 451 by Ray Bradbury
+14. The Handmaid's Tale by Margaret Atwood
+15. A Clockwork Orange by Anthony Burgess
+16. Lord of the Flies by William Golding
+17. The Alchemist by Paulo Coelho
+18. The Road to Wigan Pier by George Orwell
+19. The Glass Castle by Jeannette Walls
+20. The Kite Runner by Khaled Hosseini
+21. The Book Thief by Markus Zusak
+22. The Secret History by Donna Tartt
+23. The Goldfinch by Donna Tartt
+24. The Night Circus by Erin Morgenstern
+25. The Shadow of the Wind by Carlos Ruiz Zafón
+26. The Name of the Wind by Patrick Rothfuss
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Poisonwood Bible by Barbara Kingsolver
+29. The Color Purple by Alice Walker
+30. The Joy Luck Club by Amy Tan
+31. The Help by Kathryn Stockett
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Girl on the Train by Paula Hawkins
+34. The Da Vinci Code by Dan Brown
+35. The Hunger Games by Suzanne Collins
+36. The Maze Runner by James Dashner
+37. The Giver by Lois Lowry
+38. The Fault in Our Stars by John Green
+39. The Perks of Being a Wallflower by Stephen Chbosky
+40. The Catcher in the Rye by J.D. Salinger
+41. The Great Gatsby by F. Scott Fitzgerald
+42. Cat's Cradle by Kurt Vonnegut
+43. Death Note Another Note: The Los Angeles BB Murder Cases by Nisio Isin
+44. The Lovely Bones by Alice Sebold
+45. Nineteen Eighty-Four by George Orwell
+46. Look Me in the Eye by John Elder Robison
+47. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+48. Player Piano by Kurt Vonnegut
+49. Slaughterhouse-Five by Kurt Vonnegut
+50. Harry Potter and the Chamber of Secrets by J.K. Rowling
+
+These recommendations are based on the user's interest in fiction, dystopian literature, and psychological thrillers.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Angels & Demons by Dan Brown
+2. Inferno by Dan Brown
+3. The Lost Symbol by Dan Brown
+4. The Alchemist by Paulo Coelho
+5. The Kite Runner by Khaled Hosseini
+6. To Kill a Mockingbird by Harper Lee
+7. 1984 by George Orwell
+8. The Catcher in the Rye by J.D. Salinger
+9. One Hundred Years of Solitude by Gabriel García Márquez
+10. Love in the Time of Cholera by Gabriel García Márquez
+11. Kafka on the Shore by Haruki Murakami
+12. Norwegian Wood by Haruki Murakami
+13. Siddhartha by Hermann Hesse
+14. Steppenwolf by Hermann Hesse
+15. The Metamorphosis by Franz Kafka
+16. One Hundred Years of Solitude by Gabriel García Márquez
+17. Love in the Time of Cholera by Gabriel García Márquez
+18. The Stranger by Albert Camus
+19. The Plague by Albert Camus
+20. Crime and Punishment by Fyodor Dostoevsky
+21. The Brothers Karamazov by Fyodor Dostoevsky
+22. One Hundred Years of Solitude by Gabriel García Márquez
+23. Love in the Time of Cholera by Gabriel García Márquez
+24. The Master and Margarita by Mikhail Bulgakov
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Importance of Being Earnest by Oscar Wilde
+27. The Trial by Franz Kafka
+28. The Castle by Franz Kafka
+29. The Stranger by Albert Camus
+30. The Plague by Albert Camus
+31. The Master and Margarita by Mikhail Bulgakov
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Importance of Being Earnest by Oscar Wilde
+34. The Trial by Franz Kafka
+35. The Castle by Franz Kafka
+36. The Stranger by Albert Camus
+37. The Plague by Albert Camus
+38. The Master and Margarita by Mikhail Bulgakov
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Importance of Being Earnest by Oscar Wilde
+41. The Trial by Franz Kafka
+42. The Castle by Franz Kafka
+43. The Stranger by Albert Camus
+44. The Plague by Albert Camus
+45. The Master and Margarita by Mikhail Bulgakov
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Importance of Being Earnest by Oscar Wilde
+48. The Trial by Franz Kafka
+49. The Castle by Franz Kafka
+50. The Stranger by Albert Camus
+
+These recommendations are based on the user's interest in mystery, historical fiction, and classic literature.

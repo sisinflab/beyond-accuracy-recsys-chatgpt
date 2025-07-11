@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Outsiders by S.E. Hinton
+3. The Book Thief by Markus Zusak
+4. To Kill a Mockingbird by Harper Lee
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. The Bell Jar by Sylvia Plath
+7. Speak by Laurie Halse Anderson
+8. The Fault in Our Stars by John Green
+9. 1984 by George Orwell
+10. Lord of the Flies by William Golding
+11. The Road by Cormac McCarthy
+12. The Hunger Games by Suzanne Collins
+13. Fahrenheit 451 by Ray Bradbury
+14. The Lovely Bones by Alice Sebold
+15. A Clockwork Orange by Anthony Burgess
+16. One Flew Over the Cuckoo's Nest by Ken Kesey
+17. The Kite Runner by Khaled Hosseini
+18. The Handmaid's Tale by Margaret Atwood
+19. Brave New World by Aldous Huxley
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Shining by Stephen King
+22. The Stand by Stephen King
+23. The Road by Cormac McCarthy
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Great Gatsby by F. Scott Fitzgerald
+26. The Old Man and the Sea by Ernest Hemingway
+27. The Sun Also Rises by Ernest Hemingway
+28. The Grapes of Wrath by John Steinbeck
+29. Of Mice and Men by John Steinbeck
+30. The Sound and the Fury by William Faulkner
+31. As I Lay Dying by William Faulkner
+32. The Color Purple by Alice Walker
+33. Beloved by Toni Morrison
+34. Slaughterhouse-Five by Kurt Vonnegut
+35. Cat's Cradle by Kurt Vonnegut
+36. The Road by Cormac McCarthy
+37. The Stranger by Albert Camus
+38. The Plague by Albert Camus
+39. Crime and Punishment by Fyodor Dostoevsky
+40. The Brothers Karamazov by Fyodor Dostoevsky
+41. One Hundred Years of Solitude by Gabriel Garcia Marquez
+42. Love in the Time of Cholera by Gabriel Garcia Marquez
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Count of Monte Cristo by Alexandre Dumas
+45. Les Misérables by Victor Hugo
+46. Anna Karenina by Leo Tolstoy
+47. War and Peace by Leo Tolstoy
+48. The Idiot by Fyodor Dostoevsky
+49. The Master and Margarita by Mikhail Bulgakov
+50. Crime and Punishment by Fyodor Dostoevsky
+
+These recommendations are based on the user's interest in classic literature, coming-of-age stories, and psychological thrillers.

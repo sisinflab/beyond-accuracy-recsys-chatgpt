@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1657:
+
+1. The Beatles
+2. Pink Floyd
+3. Led Zeppelin
+4. Beck
+5. Björk
+6. Massive Attack
+7. R.E.M.
+8. Iron & Wine
+9. Boards of Canada
+10. José González
+11. Cat Power
+12. The Cinematic Orchestra
+13. Everything but the Girl
+14. Prefuse 73
+15. Underworld
+16. Burial
+17. Miles Davis
+18. Thom Yorke
+19. David Gilmour
+20. The Who
+21. The Doors
+22. Talk Talk
+23. Depeche Mode
+24. Trentemøller
+25. Sigur Rós
+26. The Cure
+27. Arovane
+28. Joy Division
+29. PJ Harvey
+30. Vampire Weekend
+31. U2
+32. Robyn
+33. Captain Beefheart & His Magic Band
+34. Ólafur Arnalds
+35. Architecture in Helsinki
+36. Czesław Śpiewa
+37. M.I.A.
+38. Coldplay
+39. Kings of Leon
+40. Eagles
+41. Snow Patrol
+42. Brian Eno
+43. Frank Sinatra
+44. Tool
+45. The Fray
+46. Beirut
+47. Manu Chao
+48. Belle and Sebastian
+49. The Police
+50. King Crimson
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

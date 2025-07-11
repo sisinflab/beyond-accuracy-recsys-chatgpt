@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. Crime and Punishment by Fyodor Dostoevsky
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Grapes of Wrath by John Steinbeck
+8. The Bell Jar by Sylvia Plath
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Road by Cormac McCarthy
+12. The Handmaid's Tale by Margaret Atwood
+13. The Alchemist by Paulo Coelho
+14. The Kite Runner by Khaled Hosseini
+15. The Book Thief by Markus Zusak
+16. The Sun Also Rises by Ernest Hemingway
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Stranger by Albert Camus
+20. The Mists of Avalon by Marion Zimmer Bradley
+21. Fahrenheit 451 by Ray Bradbury
+22. Lord of the Flies by William Golding
+23. Brave New World by Aldous Huxley
+24. The Little Prince by Antoine de Saint-Exupéry
+25. Wuthering Heights by Emily Bronte
+26. Jane Eyre by Charlotte Bronte
+27. Pride and Prejudice by Jane Austen
+28. Anna Karenina by Leo Tolstoy
+29. War and Peace by Leo Tolstoy
+30. The Count of Monte Cristo by Alexandre Dumas
+31. Les Miserables by Victor Hugo
+32. The Scarlet Letter by Nathaniel Hawthorne
+33. Moby-Dick by Herman Melville
+34. The Adventures of Huckleberry Finn by Mark Twain
+35. The Adventures of Tom Sawyer by Mark Twain
+36. A Tale of Two Cities by Charles Dickens
+37. David Copperfield by Charles Dickens
+38. A Christmas Carol by Charles Dickens
+39. Bleak House by Charles Dickens
+40. Little Women by Louisa May Alcott
+41. The Secret Garden by Frances Hodgson Burnett
+42. Alice's Adventures in Wonderland by Lewis Carroll
+43. Through the Looking-Glass by Lewis Carroll
+44. The Chronicles of Narnia by C.S. Lewis
+45. The Hobbit by J.R.R. Tolkien
+46. The Lord of the Rings by J.R.R. Tolkien
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. Dune by Frank Herbert
+49. The Martian by Andy Weir
+50. Ready Player One by Ernest Cline
+
+These recommendations are based on the user's preference for classic literature, dystopian fiction, and philosophical themes.

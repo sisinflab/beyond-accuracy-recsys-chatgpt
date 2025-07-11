@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. A Tribe Called Quest
+2. J Dilla
+3. Madlib
+4. MF DOOM
+5. The Roots
+6. Lupe Fiasco
+7. Ghostface Killah
+8. Madvillain
+9. Kanye West
+10. Nas
+11. Amon Tobin
+12. Aphex Twin
+13. Burial
+14. The Flashbulb
+15. Prefuse 73
+16. Britney Spears
+17. Lady Gaga
+18. Christina Aguilera
+19. Rihanna
+20. Beyoncé
+21. Madonna
+22. Shakira
+23. Katy Perry
+24. Taylor Swift
+25. Paramore
+26. Avril Lavigne
+27. Glee Cast
+28. U2
+29. Muse
+30. 30 Seconds to Mars
+31. The Beatles
+32. Radiohead
+33. Coldplay
+34. Pink Floyd
+35. Nirvana
+36. Metallica
+37. Linkin Park
+38. Green Day
+39. My Chemical Romance
+40. The Killers
+41. Arctic Monkeys
+42. Placebo
+43. Duran Duran
+44. Blur
+45. Ke$ha
+46. Miley Cyrus
+47. Kelly Clarkson
+48. P!nk
+49. Nine Inch Nails
+50. System of a Down
+
+This re-ranked list is based on the user's liking of similar artists and may not perfectly align with their preferences.

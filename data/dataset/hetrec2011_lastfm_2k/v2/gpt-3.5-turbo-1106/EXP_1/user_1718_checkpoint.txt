@@ -1,0 +1,54 @@
+Based on the preferences of user 1718, here are the top 50 recommendations:
+
+1. Norah Jones
+2. Ed Sheeran
+3. Sara Bareilles
+4. John Mayer
+5. Amy Winehouse
+6. Coldplay
+7. Bruno Mars
+8. Adele
+9. Regina Spektor
+10. P!nk
+11. Jamie Cullum
+12. Aretha Franklin
+13. Lady Gaga
+14. Louis Armstrong
+15. Kate Nash
+16. Maroon 5
+17. Laura Marling
+18. Corinne Bailey Rae
+19. Lily Allen
+20. Billie Holiday
+21. Newton Faulkner
+22. Jack Johnson
+23. Jason Mraz
+24. Katy Perry
+25. David Bowie
+26. Black Eyed Peas
+27. Stevie Wonder
+28. Joni Mitchell
+29. Vampire Weekend
+30. Rufus Wainwright
+31. Ella Fitzgerald
+32. Muse
+33. Carole King
+34. Fleetwood Mac
+35. The Beatles
+36. Elton John
+37. Sam Smith
+38. Alicia Keys
+39. The Rolling Stones
+40. Bob Dylan
+41. The Beach Boys
+42. Frank Sinatra
+43. Elvis Presley
+44. Michael Bublé
+45. Taylor Swift
+46. Beyoncé
+47. John Legend
+48. The Temptations
+49. Marvin Gaye
+50. Whitney Houston
+
+These recommendations are based on the similar music preferences of user 1718 and include a mix of artists from various genres and eras.

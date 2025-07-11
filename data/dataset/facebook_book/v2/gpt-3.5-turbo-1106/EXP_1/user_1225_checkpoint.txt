@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dune by Frank Herbert
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Animal Farm by George Orwell
+8. Fahrenheit 451 by Ray Bradbury
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Grapes of Wrath by John Steinbeck
+11. One Flew Over the Cuckoo's Nest by Ken Kesey
+12. The Old Man and the Sea by Ernest Hemingway
+13. Catch-22 by Joseph Heller
+14. The Bell Jar by Sylvia Plath
+15. The Road by Cormac McCarthy
+16. The Stranger by Albert Camus
+17. The Sun Also Rises by Ernest Hemingway
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Scarlet Letter by Nathaniel Hawthorne
+20. The Count of Monte Cristo by Alexandre Dumas
+21. The Brothers Karamazov by Fyodor Dostoevsky
+22. Crime and Punishment by Fyodor Dostoevsky
+23. The Idiot by Fyodor Dostoevsky
+24. War and Peace by Leo Tolstoy
+25. Anna Karenina by Leo Tolstoy
+26. The Master and Margarita by Mikhail Bulgakov
+27. The Name of the Rose by Umberto Eco
+28. The Shadow of the Wind by Carlos Ruiz Zafón
+29. The Alchemist by Paulo Coelho
+30. The Kite Runner by Khaled Hosseini
+31. A Thousand Splendid Suns by Khaled Hosseini
+32. The Book Thief by Markus Zusak
+33. The Night Circus by Erin Morgenstern
+34. The Secret History by Donna Tartt
+35. The Goldfinch by Donna Tartt
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Help by Kathryn Stockett
+38. The Lovely Bones by Alice Sebold
+39. The Hunger Games by Suzanne Collins
+40. The Maze Runner by James Dashner
+41. The Giver by Lois Lowry
+42. The Chronicles of Narnia by C.S. Lewis
+43. His Dark Materials by Philip Pullman
+44. The Hobbit by J.R.R. Tolkien
+45. The Lord of the Rings by J.R.R. Tolkien
+46. A Song of Ice and Fire by George R.R. Martin
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. The Martian by Andy Weir
+49. Ready Player One by Ernest Cline
+50. The Handmaid's Tale by Margaret Atwood
+
+These recommendations are based on the user's interest in classic literature, science fiction, fantasy, and popular contemporary fiction.

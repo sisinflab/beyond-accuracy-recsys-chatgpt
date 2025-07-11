@@ -1,0 +1,54 @@
+Based on the preferences of user 84, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. The Alchemist by Paulo Coelho
+6. The Kite Runner by Khaled Hosseini
+7. The Book Thief by Markus Zusak
+8. The Hunger Games by Suzanne Collins
+9. The Fault in Our Stars by John Green
+10. The Road by Cormac McCarthy
+11. The Bell Jar by Sylvia Plath
+12. The Color Purple by Alice Walker
+13. The Handmaid's Tale by Margaret Atwood
+14. The Glass Castle by Jeannette Walls
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Lovely Bones by Alice Sebold
+17. The Girl on the Train by Paula Hawkins
+18. The Help by Kathryn Stockett
+19. The Goldfinch by Donna Tartt
+20. The Night Circus by Erin Morgenstern
+21. The Martian by Andy Weir
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Name of the Wind by Patrick Rothfuss
+26. The Handmaid's Tale by Margaret Atwood
+27. The Road by Cormac McCarthy
+28. The Book Thief by Markus Zusak
+29. The Night Circus by Erin Morgenstern
+30. The Help by Kathryn Stockett
+31. The Goldfinch by Donna Tartt
+32. The Lovely Bones by Alice Sebold
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Glass Castle by Jeannette Walls
+35. The Handmaid's Tale by Margaret Atwood
+36. The Night Circus by Erin Morgenstern
+37. The Help by Kathryn Stockett
+38. The Goldfinch by Donna Tartt
+39. The Lovely Bones by Alice Sebold
+40. The Secret Life of Bees by Sue Monk Kidd
+41. The Glass Castle by Jeannette Walls
+42. The Handmaid's Tale by Margaret Atwood
+43. The Night Circus by Erin Morgenstern
+44. The Help by Kathryn Stockett
+45. The Goldfinch by Donna Tartt
+46. The Lovely Bones by Alice Sebold
+47. The Secret Life of Bees by Sue Monk Kidd
+48. The Glass Castle by Jeannette Walls
+49. The Handmaid's Tale by Margaret Atwood
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the genres and themes of the books liked by user 84.

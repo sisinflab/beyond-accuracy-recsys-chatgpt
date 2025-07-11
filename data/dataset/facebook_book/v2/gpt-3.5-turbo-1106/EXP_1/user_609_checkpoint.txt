@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Book Thief by Markus Zusak
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. Eleanor & Park by Rainbow Rowell
+5. Thirteen Reasons Why by Jay Asher
+6. Paper Towns by John Green
+7. If I Stay by Gayle Forman
+8. The Catcher in the Rye by J.D. Salinger
+9. Speak by Laurie Halse Anderson
+10. The Outsiders by S.E. Hinton
+11. Stargirl by Jerry Spinelli
+12. The Giver by Lois Lowry
+13. The Hunger Games by Suzanne Collins
+14. Divergent by Veronica Roth
+15. The Maze Runner by James Dashner
+16. The Perks of Being a Wallflower by Stephen Chbosky
+17. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+18. The Lovely Bones by Alice Sebold
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Glass Castle by Jeannette Walls
+21. The Kite Runner by Khaled Hosseini
+22. A Thousand Splendid Suns by Khaled Hosseini
+23. The Help by Kathryn Stockett
+24. Water for Elephants by Sara Gruen
+25. The Night Circus by Erin Morgenstern
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Girl on the Train by Paula Hawkins
+28. Gone Girl by Gillian Flynn
+29. Big Little Lies by Liane Moriarty
+30. The Goldfinch by Donna Tartt
+31. All the Light We Cannot See by Anthony Doerr
+32. The Alchemist by Paulo Coelho
+33. The Shadow of the Wind by Carlos Ruiz Zafón
+34. The Name of the Wind by Patrick Rothfuss
+35. The Nightingale by Kristin Hannah
+36. The Book of Lost Things by John Connolly
+37. The Ocean at the End of the Lane by Neil Gaiman
+38. The Night Circus by Erin Morgenstern
+39. The Snow Child by Eowyn Ivey
+40. The Bear and the Nightingale by Katherine Arden
+41. The Immortalists by Chloe Benjamin
+42. The Miniaturist by Jessie Burton
+43. The Essex Serpent by Sarah Perry
+44. The Secret History by Donna Tartt
+45. The Thirteenth Tale by Diane Setterfield
+46. The Light Between Oceans by M.L. Stedman
+47. The Nightingale by Kristin Hannah
+48. The Snowman by Jo Nesbø
+49. The Girl with the Dragon Tattoo by Stieg Larsson
+50. The Girl Who Played with Fire by Stieg Larsson
+
+These recommendations are based on the user's interest in young adult fiction, classics, and contemporary literature.

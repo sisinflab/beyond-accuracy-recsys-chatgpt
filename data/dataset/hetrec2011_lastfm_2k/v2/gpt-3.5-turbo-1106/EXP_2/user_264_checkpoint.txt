@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Coldplay
+2. Michael Jackson
+3. a-ha
+4. Madonna
+5. 30 Seconds to Mars
+6. Keane
+7. The Killers
+8. Muse
+9. Radiohead
+10. Nirvana
+11. Blackfield
+12. Enigma
+13. The Cranberries
+14. Scorpions
+15. Modern Talking
+16. Alphaville
+17. The Rasmus
+18. Cocteau Twins
+19. Sade
+20. Wham!
+21. George Michael
+22. Erasure
+23. ABBA
+24. Tiësto
+25. Jack Johnson
+26. ATB
+27. Angels & Airwaves
+28. mind.in.a.box
+29. La Roux
+30. Camouflage
+31. ABC
+32. Britney Spears
+33. Depeche Mode
+34. Lady Gaga
+35. Christina Aguilera
+36. Paramore
+37. Rihanna
+38. Shakira
+39. The Beatles
+40. Katy Perry
+41. Avril Lavigne
+42. Taylor Swift
+43. Evanescence
+44. Glee Cast
+45. Beyoncé
+46. U2
+47. Pink Floyd
+48. Kylie Minogue
+49. Miley Cyrus
+50. Duran Duran
+
+This re-ranked list is based on the user's liking of similar artists and may provide a better match for their preferences.

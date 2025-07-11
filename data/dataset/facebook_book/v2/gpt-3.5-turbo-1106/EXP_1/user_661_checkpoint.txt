@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Where the Wild Things Are by Maurice Sendak
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. The Grapes of Wrath by John Steinbeck
+7. The Old Man and the Sea by Ernest Hemingway
+8. One Flew Over the Cuckoo's Nest by Ken Kesey
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Sun Also Rises by Ernest Hemingway
+11. A Clockwork Orange by Anthony Burgess
+12. The Road by Cormac McCarthy
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Stranger by Albert Camus
+15. The Handmaid's Tale by Margaret Atwood
+16. The Shining by Stephen King
+17. The Stand by Stephen King
+18. The Road to Wellville by T.C. Boyle
+19. The Virgin Suicides by Jeffrey Eugenides
+20. The Secret History by Donna Tartt
+21. The Lovely Bones by Alice Sebold
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Kite Runner by Khaled Hosseini
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Poisonwood Bible by Barbara Kingsolver
+26. The Glass Castle by Jeannette Walls
+27. The Help by Kathryn Stockett
+28. The Hunger Games by Suzanne Collins
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Da Vinci Code by Dan Brown
+31. The Alchemist by Paulo Coelho
+32. The Book Thief by Markus Zusak
+33. The Night Circus by Erin Morgenstern
+34. The Goldfinch by Donna Tartt
+35. The Martian by Andy Weir
+36. The Handmaid's Tale by Margaret Atwood
+37. The Road by Cormac McCarthy
+38. The Catcher in the Rye by J.D. Salinger
+39. The Great Gatsby by F. Scott Fitzgerald
+40. The Old Man and the Sea by Ernest Hemingway
+41. One Flew Over the Cuckoo's Nest by Ken Kesey
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Sun Also Rises by Ernest Hemingway
+44. A Clockwork Orange by Anthony Burgess
+45. The Stranger by Albert Camus
+46. The Shining by Stephen King
+47. The Stand by Stephen King
+48. The Road to Wellville by T.C. Boyle
+49. The Virgin Suicides by Jeffrey Eugenides
+50. The Secret History by Donna Tartt
+
+These recommendations are based on the user's liking for classic literature, psychological thrillers, and coming-of-age stories.

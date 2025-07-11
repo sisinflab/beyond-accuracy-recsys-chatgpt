@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1238:
+
+1. Radiohead
+2. Nirvana
+3. Pink Floyd
+4. The Beatles
+5. Led Zeppelin
+6. Muse
+7. The Killers
+8. Coldplay
+9. The Rolling Stones
+10. U2
+11. The White Stripes
+12. The Flaming Lips
+13. The Smiths
+14. Belle and Sebastian
+15. Pixies
+16. Ladytron
+17. Gorillaz
+18. Kings of Leon
+19. The Velvet Underground
+20. Bob Marley
+21. The Smashing Pumpkins
+22. Tom Waits
+23. Yeah Yeah Yeahs
+24. Vampire Weekend
+25. Bob Dylan
+26. Billie Holiday
+27. Pink
+28. Madonna
+29. Lady Gaga
+30. Britney Spears
+31. Christina Aguilera
+32. Rihanna
+33. Shakira
+34. Beyoncé
+35. Katy Perry
+36. Avril Lavigne
+37. Taylor Swift
+38. Paramore
+39. Miley Cyrus
+40. Kelly Clarkson
+41. Avenged Sevenfold
+42. My Chemical Romance
+43. Green Day
+44. Linkin Park
+45. Nine Inch Nails
+46. System of a Down
+47. Metallica
+48. Iron Maiden
+49. Pearl Jam
+50. Michael Jackson
+
+These recommendations are based on the user's liking of similar artists and genres.

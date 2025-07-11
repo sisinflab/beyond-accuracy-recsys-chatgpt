@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. His Dark Materials by Philip Pullman
+3. The Golden Compass by Philip Pullman
+4. The Subtle Knife by Philip Pullman
+5. The Amber Spyglass by Philip Pullman
+6. The Magician's Nephew by C.S. Lewis
+7. The Horse and His Boy by C.S. Lewis
+8. Prince Caspian by C.S. Lewis
+9. The Voyage of the Dawn Treader by C.S. Lewis
+10. The Silver Chair by C.S. Lewis
+11. The Last Battle by C.S. Lewis
+12. The Wind in the Willows by Kenneth Grahame
+13. The Secret Garden by Frances Hodgson Burnett
+14. A Wrinkle in Time by Madeleine L'Engle
+15. The Phantom Tollbooth by Norton Juster
+16. The Neverending Story by Michael Ende
+17. The Wizard of Oz by L. Frank Baum
+18. Alice's Adventures in Wonderland by Lewis Carroll
+19. Through the Looking-Glass by Lewis Carroll
+20. The BFG by Roald Dahl
+21. Matilda by Roald Dahl
+22. James and the Giant Peach by Roald Dahl
+23. Charlie and the Chocolate Factory by Roald Dahl
+24. The Witches by Roald Dahl
+25. The Secret of Platform 13 by Eva Ibbotson
+26. The Lion, the Witch and the Wardrobe by C.S. Lewis
+27. The Silver Chair by C.S. Lewis
+28. The Horse and His Boy by C.S. Lewis
+29. The Magician's Nephew by C.S. Lewis
+30. The Last Battle by C.S. Lewis
+31. The Wind in the Willows by Kenneth Grahame
+32. The Secret Garden by Frances Hodgson Burnett
+33. A Wrinkle in Time by Madeleine L'Engle
+34. The Phantom Tollbooth by Norton Juster
+35. The Neverending Story by Michael Ende
+36. The Wizard of Oz by L. Frank Baum
+37. Alice's Adventures in Wonderland by Lewis Carroll
+38. Through the Looking-Glass by Lewis Carroll
+39. The BFG by Roald Dahl
+40. Matilda by Roald Dahl
+41. James and the Giant Peach by Roald Dahl
+42. Charlie and the Chocolate Factory by Roald Dahl
+43. The Witches by Roald Dahl
+44. The Secret of Platform 13 by Eva Ibbotson
+45. The Lion, the Witch and the Wardrobe by C.S. Lewis
+46. The Silver Chair by C.S. Lewis
+47. The Horse and His Boy by C.S. Lewis
+48. The Magician's Nephew by C.S. Lewis
+49. The Last Battle by C.S. Lewis
+50. The Wind in the Willows by Kenneth Grahame
+
+These recommendations are based on the user's interest in fantasy and adventure books.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Beloved by Toni Morrison
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. The Bell Jar by Sylvia Plath
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Handmaid's Tale by Margaret Atwood
+8. The Grapes of Wrath by John Steinbeck
+9. Catch-22 by Joseph Heller
+10. The Road by Cormac McCarthy
+11. The Sun Also Rises by Ernest Hemingway
+12. The Picture of Dorian Gray by Oscar Wilde
+13. Brave New World by Aldous Huxley
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Stranger by Albert Camus
+16. The Alchemist by Paulo Coelho
+17. The Kite Runner by Khaled Hosseini
+18. The Book Thief by Markus Zusak
+19. The Secret History by Donna Tartt
+20. The Goldfinch by Donna Tartt
+21. The Night Circus by Erin Morgenstern
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Name of the Wind by Patrick Rothfuss
+24. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+25. The Poisonwood Bible by Barbara Kingsolver
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Color Purple by Alice Walker
+28. The Joy Luck Club by Amy Tan
+29. The Glass Castle by Jeannette Walls
+30. The Help by Kathryn Stockett
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Da Vinci Code by Dan Brown
+33. The Hunger Games by Suzanne Collins
+34. The Maze Runner by James Dashner
+35. The Giver by Lois Lowry
+36. The Fault in Our Stars by John Green
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+39. The Lovely Bones by Alice Sebold
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Martian by Andy Weir
+42. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+43. The Catcher Was a Spy by Nicholas Dawidoff
+44. The Glass Menagerie by Tennessee Williams
+45. The Crucible by Arthur Miller
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Cherry Orchard by Anton Chekhov
+48. The Glass Menagerie by Tennessee Williams
+49. The Crucible by Arthur Miller
+50. The Importance of Being Earnest by Oscar Wilde

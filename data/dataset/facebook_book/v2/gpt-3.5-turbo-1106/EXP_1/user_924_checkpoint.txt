@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Count of Monte Cristo by Alexandre Dumas
+2. Les Misérables by Victor Hugo
+3. War and Peace by Leo Tolstoy
+4. Crime and Punishment by Fyodor Dostoevsky
+5. Jane Eyre by Charlotte Brontë
+6. Wuthering Heights by Emily Brontë
+7. Pride and Prejudice by Jane Austen
+8. Frankenstein by Mary Shelley
+9. The Picture of Dorian Gray by Oscar Wilde
+10. Great Expectations by Charles Dickens
+11. Moby-Dick by Herman Melville
+12. The Hunchback of Notre-Dame by Victor Hugo
+13. Anna Karenina by Leo Tolstoy
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The War of the Worlds by H.G. Wells
+18. The Time Machine by H.G. Wells
+19. The Invisible Man by H.G. Wells
+20. The Island of Doctor Moreau by H.G. Wells
+21. The Call of the Wild by Jack London
+22. White Fang by Jack London
+23. The Jungle Book by Rudyard Kipling
+24. Heart of Darkness by Joseph Conrad
+25. The Secret Garden by Frances Hodgson Burnett
+26. Little Women by Louisa May Alcott
+27. The Scarlet Letter by Nathaniel Hawthorne
+28. The Adventures of Huckleberry Finn by Mark Twain
+29. A Tale of Two Cities by Charles Dickens
+30. The Great Gatsby by F. Scott Fitzgerald
+31. To Kill a Mockingbird by Harper Lee
+32. 1984 by George Orwell
+33. Animal Farm by George Orwell
+34. Brave New World by Aldous Huxley
+35. The Catcher in the Rye by J.D. Salinger
+36. One Hundred Years of Solitude by Gabriel García Márquez
+37. Don Quixote by Miguel de Cervantes
+38. The Canterbury Tales by Geoffrey Chaucer
+39. The Divine Comedy by Dante Alighieri
+40. The Iliad by Homer
+41. The Odyssey by Homer
+42. The Aeneid by Virgil
+43. The Metamorphoses by Ovid
+44. The Arabian Nights
+45. The Canterbury Tales by Geoffrey Chaucer
+46. The Decameron by Giovanni Boccaccio
+47. The Prince by Niccolò Machiavelli
+48. Gulliver's Travels by Jonathan Swift
+49. Robinson Crusoe by Daniel Defoe
+50. Candide by Voltaire
+
+These recommendations are based on the user's interest in classic literature and historical novels.

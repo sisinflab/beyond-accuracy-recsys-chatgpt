@@ -1,0 +1,54 @@
+Based on user 1623's preferences, here are the top-50 recommendations for the given artists:
+
+1. Meshuggah
+2. System of a Down
+3. Devin Townsend
+4. In Flames
+5. Children of Bodom
+6. Nightwish
+7. Amorphis
+8. Katatonia
+9. Symphony X
+10. Blind Guardian
+11. Therion
+12. Stratovarius
+13. Alestorm
+14. Paradise Lost
+15. Agalloch
+16. Blackfield
+17. Stone Temple Pilots
+18. The Mars Volta
+19. Captain Beefheart & His Magic Band
+20. Frank Zappa
+21. Rush
+22. Genesis
+23. Pink Floyd
+24. Queen
+25. The Beatles
+26. U2
+27. The Smashing Pumpkins
+28. Pearl Jam
+29. Metallica
+30. Iron Maiden
+31. Guns N' Roses
+32. Joe Satriani
+33. Bruce Dickinson
+34. HIM
+35. Maroon 5
+36. The Glee Cast
+37. VNV Nation
+38. Yanni
+39. Kansas
+40. Los Hermanos
+41. L'Arc~en~Ciel
+42. Jonas Brothers
+43. Sigur Rós
+44. Gnarls Barkley
+45. Nevermore
+46. Pantera
+47. Mastodon
+48. Billy Talent
+49. Alter Bridge
+50. Muse
+
+These recommendations are based on similar genres and artists liked by user 1623.

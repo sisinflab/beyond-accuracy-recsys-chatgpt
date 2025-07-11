@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Night Circus by Erin Morgenstern
+4. The Book Thief by Markus Zusak
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Goldfinch by Donna Tartt
+7. The Secret History by Donna Tartt
+8. The Shadow of the Wind by Carlos Ruiz Zafón
+9. The Name of the Wind by Patrick Rothfuss
+10. The Alchemist by Paulo Coelho
+11. The Kite Runner by Khaled Hosseini
+12. The Help by Kathryn Stockett
+13. The Fault in Our Stars by John Green
+14. The Maze Runner by James Dashner
+15. The Giver by Lois Lowry
+16. The Perks of Being a Wallflower by Stephen Chbosky
+17. The Lovely Bones by Alice Sebold
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Martian by Andy Weir
+20. The Nightingale by Kristin Hannah
+21. The Light Between Oceans by M.L. Stedman
+22. The Glass Castle by Jeannette Walls
+23. The Handmaid's Tale by Margaret Atwood
+24. The Great Gatsby by F. Scott Fitzgerald
+25. The Catcher in the Rye by J.D. Salinger
+26. The Bell Jar by Sylvia Plath
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Road by Cormac McCarthy
+29. The Shining by Stephen King
+30. The Outsider by Stephen King
+31. The Silent Patient by Alex Michaelides
+32. The Night Stalker by Robert Bryndza
+33. The Silent Wife by A.S.A. Harrison
+34. The Girl on the Train by Paula Hawkins
+35. The Woman in the Window by A.J. Finn
+36. The Couple Next Door by Shari Lapena
+37. The Girl in the Ice by Robert Bryndza
+38. The Girl in the Spider's Web by David Lagercrantz
+39. The Girl Who Played with Fire by Stieg Larsson
+40. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+41. The Da Vinci Code by Dan Brown
+42. The Lost Symbol by Dan Brown
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+45. The Girl in the Tower by Katherine Arden
+46. The Girl in the Woods by Camilla Läckberg
+47. The Girl in the Mirror by Rose Carlyle
+48. The Girl in the Moon by Terry Goodkind
+49. The Girl in the Ice by Erica Ferencik
+50. The Girl in the Red Coat by Kate Hamer
+
+These recommendations are based on the user's interest in a mix of classic literature, fantasy, and young adult fiction.

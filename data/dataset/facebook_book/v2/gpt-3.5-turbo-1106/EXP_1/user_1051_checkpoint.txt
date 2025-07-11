@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Golden Compass by Philip Pullman
+2. Coraline by Neil Gaiman
+3. The Graveyard Book by Neil Gaiman
+4. Inkheart by Cornelia Funke
+5. The Chronicles of Narnia by C.S. Lewis
+6. A Series of Unfortunate Events by Lemony Snicket
+7. The Secret Garden by Frances Hodgson Burnett
+8. Matilda by Roald Dahl
+9. The Phantom Tollbooth by Norton Juster
+10. The Hobbit by J.R.R. Tolkien
+11. The Wind in the Willows by Kenneth Grahame
+12. The Little Prince by Antoine de Saint-Exupéry
+13. Anne of Green Gables by L.M. Montgomery
+14. The Secret Life of Bees by Sue Monk Kidd
+15. The Alchemist by Paulo Coelho
+16. The Catcher in the Rye by J.D. Salinger
+17. To Kill a Mockingbird by Harper Lee
+18. The Great Gatsby by F. Scott Fitzgerald
+19. Pride and Prejudice by Jane Austen
+20. Jane Eyre by Charlotte Brontë
+21. Wuthering Heights by Emily Brontë
+22. Little Women by Louisa May Alcott
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Count of Monte Cristo by Alexandre Dumas
+25. Les Misérables by Victor Hugo
+26. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Hunger Games by Suzanne Collins
+29. Divergent by Veronica Roth
+30. The Maze Runner by James Dashner
+31. The Giver by Lois Lowry
+32. The Fault in Our Stars by John Green
+33. The Perks of Being a Wallflower by Stephen Chbosky
+34. Eleanor & Park by Rainbow Rowell
+35. The Book Thief by Markus Zusak
+36. The Night Circus by Erin Morgenstern
+37. The Name of the Wind by Patrick Rothfuss
+38. Mistborn: The Final Empire by Brandon Sanderson
+39. The Lies of Locke Lamora by Scott Lynch
+40. The Way of Kings by Brandon Sanderson
+41. American Gods by Neil Gaiman
+42. Neverwhere by Neil Gaiman
+43. Good Omens by Neil Gaiman and Terry Pratchett
+44. Stardust by Neil Gaiman
+45. The Ocean at the End of the Lane by Neil Gaiman
+46. The Graveyard Book by Neil Gaiman
+47. Anansi Boys by Neil Gaiman
+48. Norse Mythology by Neil Gaiman
+49. Fragile Things by Neil Gaiman
+50. Trigger Warning by Neil Gaiman
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and classic literature.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Brave New World by Aldous Huxley
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. The Bell Jar by Sylvia Plath
+7. The Road by Cormac McCarthy
+8. The Handmaid's Tale by Margaret Atwood
+9. Fahrenheit 451 by Ray Bradbury
+10. Catch-22 by Joseph Heller
+11. The Stranger by Albert Camus
+12. The Grapes of Wrath by John Steinbeck
+13. East of Eden by John Steinbeck
+14. The Sun Also Rises by Ernest Hemingway
+15. A Farewell to Arms by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Alchemist by Paulo Coelho
+18. The Kite Runner by Khaled Hosseini
+19. The Book Thief by Markus Zusak
+20. The Night Circus by Erin Morgenstern
+21. The Goldfinch by Donna Tartt
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Name of the Wind by Patrick Rothfuss
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Poisonwood Bible by Barbara Kingsolver
+26. The Lovely Bones by Alice Sebold
+27. The Help by Kathryn Stockett
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Hunger Games by Suzanne Collins
+30. The Road to Character by David Brooks
+31. The Glass Castle by Jeannette Walls
+32. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+33. The Color Purple by Alice Walker
+34. The Joy Luck Club by Amy Tan
+35. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+36. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+37. The Time Traveler's Wife by Audrey Niffenegger
+38. The Secret Garden by Frances Hodgson Burnett
+39. The Little Prince by Antoine de Saint-Exupéry
+40. The Giver by Lois Lowry
+41. The Outsiders by S.E. Hinton
+42. The Perks of Being a Wallflower by Stephen Chbosky
+43. The Fault in Our Stars by John Green
+44. The Book of Lost Things by John Connolly
+45. The Ocean at the End of the Lane by Neil Gaiman
+46. The Nightingale by Kristin Hannah
+47. The Martian by Andy Weir
+48. The Handmaid's Tale by Margaret Atwood
+49. The Help by Kathryn Stockett
+50. The Girl on the Train by Paula Hawkins
+
+These recommendations are based on the user's liking for literary fiction, classics, and thought-provoking novels.

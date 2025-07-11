@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Sonic Youth
+2. Pixies
+3. The Jesus and Mary Chain
+4. My Bloody Valentine
+5. The Cure
+6. Siouxsie and the Banshees
+7. The Velvet Underground
+8. The Birthday Party
+9. The Cramps
+10. Dead Kennedys
+11. Bauhaus
+12. Joy Division
+13. The Sisters of Mercy
+14. The Damned
+15. The Chameleons
+16. Killing Joke
+17. The Fall
+18. Wire
+19. Public Image Ltd
+20. Gang of Four
+21. The Gun Club
+22. The Birthday Massacre
+23. Skinny Puppy
+24. Ministry
+25. Front Line Assembly
+26. KMFDM
+27. Nine Inch Nails
+28. Marilyn Manson
+29. Skinny Puppy
+30. Front 242
+31. Covenant
+32. VNV Nation
+33. Assemblage 23
+34. Apoptygma Berzerk
+35. And One
+36. Combichrist
+37. Grendel
+38. Aesthetic Perfection
+39. Rotersand
+40. Hocico
+41. Suicide Commando
+42. Wumpscut
+43. Agonoize
+44. Nachtmahr
+45. Blutengel
+46. Funker Vogt
+47. [:SITD:]
+48. Solitary Experiments
+49. SITD
+50. X-Rx
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Megadeth
+2. Pantera
+3. Slayer
+4. Anthrax
+5. Lamb of God
+6. Disturbed
+7. Korn
+8. Tool
+9. Alice in Chains
+10. Nine Inch Nails
+11. Foo Fighters
+12. Mastodon
+13. Sepultura
+14. Volbeat
+15. Avenged Sevenfold
+16. Rammstein
+17. System of a Down
+18. Marilyn Manson
+19. Rob Zombie
+20. Stone Sour
+21. Papa Roach
+22. Breaking Benjamin
+23. Seether
+24. Three Days Grace
+25. Godsmack
+26. Chevelle
+27. Shinedown
+28. Theory of a Deadman
+29. Halestorm
+30. Five Finger Death Punch
+31. Bullet for My Valentine
+32. Bring Me the Horizon
+33. A Perfect Circle
+34. Deftones
+35. Slipknot
+36. In This Moment
+37. The Pretty Reckless
+38. Skillet
+39. Puddle of Mudd
+40. Staind
+41. Trivium
+42. Static-X
+43. Lacuna Coil
+44. Coal Chamber
+45. Drowning Pool
+46. Soil
+47. Nonpoint
+48. Saliva
+49. Powerman 5000
+50. 10 Years
+
+These recommendations are based on the user's liking of similar artists and genres.

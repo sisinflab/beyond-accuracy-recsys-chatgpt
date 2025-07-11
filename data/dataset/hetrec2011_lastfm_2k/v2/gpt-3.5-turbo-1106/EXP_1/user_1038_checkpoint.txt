@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Depeche Mode
+2. Simple Minds
+3. Pet Shop Boys
+4. New Order
+5. Spandau Ballet
+6. Gary Numan
+7. The Cure
+8. Talk Talk
+9. Blancmange
+10. Erasure
+11. The Psychedelic Furs
+12. Thompson Twins
+13. The B-52's
+14. The Smiths
+15. Siouxsie and the Banshees
+16. The Human League
+17. Duran Duran
+18. Ultravox
+19. John Foxx
+20. Visage
+21. A Flock of Seagulls
+22. Orchestral Manoeuvres in the Dark
+23. Heaven 17
+24. Tears for Fears
+25. Alphaville
+26. Nik Kershaw
+27. ABC
+28. a-ha
+29. Yazoo
+30. Frankie Goes to Hollywood
+31. Icehouse
+32. Ladytron
+33. Soft Cell
+34. Howard Jones
+35. Berlin
+36. Dead or Alive
+37. The Cars
+38. Echo & the Bunnymen
+39. The Fixx
+40. Oingo Boingo
+41. Thomas Dolby
+42. The Thompson Twins
+43. The Human League
+44. Eurythmics
+45. Japan
+46. The Psychedelic Furs
+47. The Stranglers
+48. The Church
+49. The Sisters of Mercy
+50. The Cult
+
+These recommendations are based on the user's liking of similar artists and the overall music preferences.

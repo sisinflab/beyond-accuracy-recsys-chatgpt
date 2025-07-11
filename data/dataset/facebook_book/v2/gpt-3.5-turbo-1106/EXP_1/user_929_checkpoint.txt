@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Matilda by Roald Dahl
+2. The Secret Garden by Frances Hodgson Burnett
+3. A Wrinkle in Time by Madeleine L'Engle
+4. The Phantom Tollbooth by Norton Juster
+5. The Wind in the Willows by Kenneth Grahame
+6. The Tale of Despereaux by Kate DiCamillo
+7. The Boxcar Children by Gertrude Chandler Warner
+8. The Borrowers by Mary Norton
+9. The Mysterious Benedict Society by Trenton Lee Stewart
+10. The Miraculous Journey of Edward Tulane by Kate DiCamillo
+11. The Penderwicks by Jeanne Birdsall
+12. The Secret of the Old Clock (Nancy Drew Mystery Stories) by Carolyn Keene
+13. The Lion, the Witch and the Wardrobe by C.S. Lewis
+14. The Magician's Nephew by C.S. Lewis
+15. The Horse and His Boy by C.S. Lewis
+16. The Silver Chair by C.S. Lewis
+17. The Last Battle by C.S. Lewis
+18. The Lost Continent by Michael Crichton
+19. The Andromeda Strain by Michael Crichton
+20. The Great Train Robbery by Michael Crichton
+21. The BFG by Roald Dahl
+22. Charlie and the Chocolate Factory by Roald Dahl
+23. James and the Giant Peach by Roald Dahl
+24. The Witches by Roald Dahl
+25. The Enormous Crocodile by Roald Dahl
+26. The Twits by Roald Dahl
+27. The Magic Finger by Roald Dahl
+28. The Giraffe and the Pelly and Me by Roald Dahl
+29. The Wonderful Story of Henry Sugar and Six More by Roald Dahl
+30. The BFG by Roald Dahl
+31. The Chronicles of Narnia: The Magician's Nephew by C.S. Lewis
+32. The Chronicles of Narnia: The Horse and His Boy by C.S. Lewis
+33. The Chronicles of Narnia: The Silver Chair by C.S. Lewis
+34. The Chronicles of Narnia: The Last Battle by C.S. Lewis
+35. The Chronicles of Narnia: The Voyage of the Dawn Treader by C.S. Lewis
+36. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+37. The Chronicles of Narnia: The Horse and His Boy by C.S. Lewis
+38. The Chronicles of Narnia: The Silver Chair by C.S. Lewis
+39. The Chronicles of Narnia: The Last Battle by C.S. Lewis
+40. The Chronicles of Narnia: The Voyage of the Dawn Treader by C.S. Lewis
+41. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+42. The Chronicles of Narnia: The Magician's Nephew by C.S. Lewis
+43. The Chronicles of Narnia: The Horse and His Boy by C.S. Lewis
+44. The Chronicles of Narnia: The Silver Chair by C.S. Lewis
+45. The Chronicles of Narnia: The Last Battle by C.S. Lewis
+46. The Chronicles of Narnia: The Voyage of the Dawn Treader by C.S. Lewis
+47. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S

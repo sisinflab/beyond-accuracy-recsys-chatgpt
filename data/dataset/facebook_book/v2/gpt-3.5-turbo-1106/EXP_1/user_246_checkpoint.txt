@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Eldest by Christopher Paolini
+2. Brisingr by Christopher Paolini
+3. City of Bones by Cassandra Clare
+4. Wicked Lovely by Melissa Marr
+5. Fragile Eternity by Melissa Marr
+6. Graceling by Kristin Cashore
+7. Fire by Kristin Cashore
+8. Bitterblue by Kristin Cashore
+9. Go Set a Watchman by Harper Lee
+10. The Help by Kathryn Stockett
+11. The Dark Is Rising by Susan Cooper
+12. The Book of Three by Lloyd Alexander
+13. Leviathan by Scott Westerfeld
+14. Pretties by Scott Westerfeld
+15. Specials by Scott Westerfeld
+16. Frostbite by Richelle Mead
+17. Shadow Kiss by Richelle Mead
+18. Spirit Bound by Richelle Mead
+19. Luna by Julie Anne Peters
+20. Far from You by Tess Sharpe
+21. New Moon by Stephenie Meyer
+22. Eclipse by Stephenie Meyer
+23. Breaking Dawn by Stephenie Meyer
+24. Poison's Kiss by Breeana Shields
+25. Magic Study by Maria V. Snyder
+26. Fire Study by Maria V. Snyder
+27. The Rules of Attraction by Simone Elkeles
+28. Parrotfish by Ellen Wittlinger
+29. Love & Lies: Marisol's Story by Ellen Wittlinger
+30. The Last Days by Scott Westerfeld
+31. The Secret Hour by Scott Westerfeld
+32. Blue Noon by Scott Westerfeld
+33. Out of Sight, Out of Time by Ally Carter
+34. I'd Tell You I Love You, But Then I'd Have to Kill You by Ally Carter
+35. The Maze Runner by James Dashner
+36. The Scorch Trials by James Dashner
+37. The Death Cure by James Dashner
+38. The Gunslinger by Stephen King
+39. The Drawing of the Three by Stephen King
+40. The Waste Lands by Stephen King
+41. The Hot Kid by Elmore Leonard
+42. Raylan by Elmore Leonard
+43. Pronto by Elmore Leonard
+44. The Switch by Elmore Leonard
+45. Maximum Ride: The Angel Experiment by James Patterson
+46. The Darkest Minds by Alexandra Bracken
+47. The Hunger Games by Suzanne Collins
+48. Divergent by Veronica Roth
+49. The Giver by Lois Lowry
+50. The City of Ember by Jeanne DuPrau
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and mystery novels.

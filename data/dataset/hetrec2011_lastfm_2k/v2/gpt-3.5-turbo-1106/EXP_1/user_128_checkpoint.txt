@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smiths
+2. Radiohead
+3. The Cure
+4. R.E.M.
+5. U2
+6. Oasis
+7. The Killers
+8. Arctic Monkeys
+9. The Strokes
+10. Coldplay
+11. Red Hot Chili Peppers
+12. Pearl Jam
+13. Nirvana
+14. Foo Fighters
+15. The Smashing Pumpkins
+16. Blur
+17. Gorillaz
+18. The White Stripes
+19. Modest Mouse
+20. Interpol
+21. Vampire Weekend
+22. Arcade Fire
+23. The National
+24. Spoon
+25. Wilco
+26. Death Cab for Cutie
+27. The Shins
+28. Belle and Sebastian
+29. Sufjan Stevens
+30. Elliott Smith
+31. Bright Eyes
+32. The Postal Service
+33. The Flaming Lips
+34. Tame Impala
+35. MGMT
+36. Phoenix
+37. Foster the People
+38. The xx
+39. Alt-J
+40. Vampire Weekend
+41. Fleet Foxes
+42. Grizzly Bear
+43. Beach House
+44. The War on Drugs
+45. Father John Misty
+46. Mac DeMarco
+47. Tame Impala
+48. King Krule
+49. Unknown Mortal Orchestra
+50. Car Seat Headrest
+
+These recommendations are based on the user's liking of artists with similar styles and genres.

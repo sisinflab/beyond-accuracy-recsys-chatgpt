@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Crime and Punishment by Fyodor Dostoevsky
+3. The Stranger by Albert Camus
+4. The Trial by Franz Kafka
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Catcher in the Rye by J.D. Salinger
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Metamorphosis by Franz Kafka
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. The Master and Margarita by Mikhail Bulgakov
+11. The Plague by Albert Camus
+12. The Book Thief by Markus Zusak
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Handmaid's Tale by Margaret Atwood
+15. Lord of the Flies by William Golding
+16. Fahrenheit 451 by Ray Bradbury
+17. The Road by Cormac McCarthy
+18. A Clockwork Orange by Anthony Burgess
+19. The Stand by Stephen King
+20. American Psycho by Bret Easton Ellis
+21. The Shining by Stephen King
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Giver by Lois Lowry
+25. The Wind-Up Bird Chronicle by Haruki Murakami
+26. The Handmaid's Tale by Margaret Atwood
+27. The Road by Cormac McCarthy
+28. A Clockwork Orange by Anthony Burgess
+29. The Stand by Stephen King
+30. American Psycho by Bret Easton Ellis
+31. The Shining by Stephen King
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+34. The Giver by Lois Lowry
+35. The Wind-Up Bird Chronicle by Haruki Murakami
+36. The Handmaid's Tale by Margaret Atwood
+37. The Road by Cormac McCarthy
+38. A Clockwork Orange by Anthony Burgess
+39. The Stand by Stephen King
+40. American Psycho by Bret Easton Ellis
+41. The Shining by Stephen King
+42. The Girl with the Dragon Tattoo by Stieg Larsson
+43. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+44. The Giver by Lois Lowry
+45. The Wind-Up Bird Chronicle by Haruki Murakami
+46. The Handmaid's Tale by Margaret Atwood
+47. The Road by Cormac McCarthy
+48. A Clockwork Orange by Anthony Burgess
+49. The Stand by Stephen King
+50. American Psycho by Bret Easton Ellis
+
+These recommendations are based on the user's interest in philosophical and dystopian literature, as well as dark and thought-provoking themes.

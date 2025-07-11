@@ -1,0 +1,54 @@
+Based on user 36's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. The Fountainhead by Ayn Rand
+3. Fahrenheit 451 by Ray Bradbury
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. To Kill a Mockingbird by Harper Lee
+6. The Catcher in the Rye by J.D. Salinger
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Great Gatsby by F. Scott Fitzgerald
+10. Catch-22 by Joseph Heller
+11. The Grapes of Wrath by John Steinbeck
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. The Picture of Dorian Gray by Oscar Wilde
+14. Moby-Dick by Herman Melville
+15. The Stranger by Albert Camus
+16. Heart of Darkness by Joseph Conrad
+17. The Road by Cormac McCarthy
+18. The Sun Also Rises by Ernest Hemingway
+19. The Bell Jar by Sylvia Plath
+20. The Handmaid's Tale by Margaret Atwood
+21. The Stand by Stephen King
+22. The Alchemist by Paulo Coelho
+23. The Name of the Wind by Patrick Rothfuss
+24. The Silmarillion by J.R.R. Tolkien
+25. The Once and Future King by T.H. White
+26. The Pillars of the Earth by Ken Follett
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Da Vinci Code by Dan Brown
+29. The Girl on the Train by Paula Hawkins
+30. Gone Girl by Gillian Flynn
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+34. The Girl in the Spider's Web by David Lagercrantz
+35. The Night Circus by Erin Morgenstern
+36. The Goldfinch by Donna Tartt
+37. The Secret History by Donna Tartt
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Book Thief by Markus Zusak
+40. The Kite Runner by Khaled Hosseini
+41. A Thousand Splendid Suns by Khaled Hosseini
+42. The Help by Kathryn Stockett
+43. The Secret Life of Bees by Sue Monk Kidd
+44. The Color Purple by Alice Walker
+45. The Joy Luck Club by Amy Tan
+46. The Poisonwood Bible by Barbara Kingsolver
+47. The Glass Castle by Jeannette Walls
+48. Educated by Tara Westover
+49. Hillbilly Elegy by J.D. Vance
+50. Becoming by Michelle Obama
+
+These recommendations are based on the user's interest in philosophical and dystopian literature, as well as classic and historical fiction.

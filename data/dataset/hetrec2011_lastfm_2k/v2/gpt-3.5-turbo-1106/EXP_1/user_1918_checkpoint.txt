@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Offspring
+2. Foo Fighters
+3. Red Hot Chili Peppers
+4. The Killers
+5. Arctic Monkeys
+6. The White Stripes
+7. Oasis
+8. The Strokes
+9. Muse
+10. Weezer
+11. The Smashing Pumpkins
+12. Beck
+13. Gorillaz
+14. The Black Keys
+15. Franz Ferdinand
+16. The Verve
+17. The Cranberries
+18. Pearl Jam
+19. Soundgarden
+20. The Libertines
+21. Interpol
+22. Modest Mouse
+23. The Flaming Lips
+24. The Hives
+25. The Raconteurs
+26. The Kooks
+27. The Fratellis
+28. Kasabian
+29. Bloc Party
+30. Death Cab for Cutie
+31. The Shins
+32. Vampire Weekend
+33. Phoenix
+34. Metric
+35. Silversun Pickups
+36. The Bravery
+37. The Wombats
+38. Kaiser Chiefs
+39. The Vaccines
+40. Two Door Cinema Club
+41. Foster the People
+42. Cage the Elephant
+43. The 1975
+44. Hozier
+45. Tame Impala
+46. Florence + The Machine
+47. Arctic Monkeys
+48. The Lumineers
+49. Imagine Dragons
+50. Bastille
+
+These recommendations are based on the user's liking of alternative rock, punk rock, and indie rock artists, and are aimed at providing a diverse range of similar artists for the user to explore.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 1715:
+
+1. Amy Winehouse
+2. Róisín Murphy
+3. Goldfrapp
+4. MGMT
+5. Phoenix
+6. Friendly Fires
+7. Jessie James
+8. The xx
+9. Robyn
+10. Keane
+11. The Chemical Brothers
+12. Annie
+13. Miley Cyrus
+14. Sia
+15. Mylène Farmer
+16. Gwen Stefani
+17. KT Tunstall
+18. Natalie Imbruglia
+19. Thalía
+20. Blue October
+21. Madonna
+22. Linkin Park
+23. Avril Lavigne
+24. Lily Allen
+25. Katy Perry
+26. Stereophonics
+27. Tori Amos
+28. Imogen Heap
+29. Darren Hayes
+30. Paramore
+31. Nelly Furtado
+32. Natasha Bedingfield
+33. U2
+34. Gossip
+35. Madonna
+36. Hilary Duff
+37. Laura Marling
+38. The Rolling Stones
+39. Sugababes
+40. Cássia Eller
+41. KISS
+42. Lindsay Lohan
+43. Annie Lennox
+44. Kylie Minogue
+45. The Chemical Brothers
+46. Röyksopp
+47. Alicia Keys
+48. Gwen Stefani
+49. Pearl Jam
+50. The Chemical Brothers
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Talking Heads
+2. Duran Duran
+3. Echo & The Bunnymen
+4. The Jesus and Mary Chain
+5. The Psychedelic Furs
+6. Simple Minds
+7. The Human League
+8. Gary Numan
+9. OMD
+10. Soft Cell
+11. Tears for Fears
+12. The Chameleons
+13. The Mission
+14. The Teardrop Explodes
+15. The Cult
+16. Public Image Ltd
+17. XTC
+18. The Fall
+19. Wire
+20. Magazine
+21. The Sound
+22. Killing Joke
+23. The Damned
+24. The Stranglers
+25. The Jam
+26. The Undertones
+27. The Adicts
+28. The Exploited
+29. Stiff Little Fingers
+30. Sham 69
+31. The Clash
+32. The Specials
+33. Madness
+34. The Selecter
+35. The Beat
+36. Bad Manners
+37. The Skatalites
+38. The Toasters
+39. The Slackers
+40. Hepcat
+41. The Aggrolites
+42. The Pietasters
+43. Sublime
+44. Operation Ivy
+45. Rancid
+46. NOFX
+47. Bad Religion
+48. Pennywise
+49. Social Distortion
+50. Descendents
+
+These recommendations are based on the user's liking for similar artists and genres.

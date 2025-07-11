@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Boards of Canada
+2. Bonobo
+3. Röyksopp
+4. Ulrich Schnauss
+5. Jon Hopkins
+6. Bon Iver
+7. Bibio
+8. Caribou
+9. Helios
+10. Emancipator
+11. Gold Panda
+12. Nosaj Thing
+13. Shigeto
+14. Little People
+15. Odesza
+16. Com Truise
+17. Lusine
+18. Baths
+19. Nosaj Thing
+20. Shlohmo
+21. Lapalux
+22. Maribou State
+23. Beacon
+24. Teen Daze
+25. Tycho
+26. Proem
+27. Arovane
+28. Casino Versus Japan
+29. Deru
+30. Yppah
+31. Kiln
+32. Ochre
+33. Kiasmos
+34. Lorn
+35. Nosaj Thing
+36. Shigeto
+37. Little People
+38. Emancipator
+39. Gold Panda
+40. Bonobo
+41. Röyksopp
+42. Jon Hopkins
+43. Ulrich Schnauss
+44. Bon Iver
+45. Bibio
+46. Caribou
+47. Helios
+48. Com Truise
+49. Lusine
+50. Baths
+
+These recommendations are based on the user's liking of similar artists and genres.

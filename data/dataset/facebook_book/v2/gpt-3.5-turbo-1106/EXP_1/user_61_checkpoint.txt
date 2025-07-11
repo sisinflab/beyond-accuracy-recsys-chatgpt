@@ -1,0 +1,54 @@
+Based on user 61's preferences, here are the top 50 book recommendations:
+
+1. Fruits Basket by Natsuki Takaya
+2. Black Butler by Yana Toboso
+3. Fullmetal Alchemist by Hiromu Arakawa
+4. The Infernal Devices Series by Cassandra Clare
+5. The Lunar Chronicles by Marissa Meyer
+6. The Selection Series by Kiera Cass
+7. The Mortal Instruments Series by Cassandra Clare
+8. The Hunger Games Series by Suzanne Collins
+9. Divergent Series by Veronica Roth
+10. The Fault in Our Stars by John Green
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Hobbit by J.R.R. Tolkien
+13. The Lord of the Rings Series by J.R.R. Tolkien
+14. The Alchemist by Paulo Coelho
+15. To Kill a Mockingbird by Harper Lee
+16. The Great Gatsby by F. Scott Fitzgerald
+17. 1984 by George Orwell
+18. Brave New World by Aldous Huxley
+19. The Catcher in the Rye by J.D. Salinger
+20. The Book Thief by Markus Zusak
+21. The Giver by Lois Lowry
+22. The Maze Runner Series by James Dashner
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. The Girl on the Train by Paula Hawkins
+26. Gone Girl by Gillian Flynn
+27. The Night Circus by Erin Morgenstern
+28. The Name of the Wind by Patrick Rothfuss
+29. The Lies of Locke Lamora by Scott Lynch
+30. Mistborn Series by Brandon Sanderson
+31. The Way of Kings by Brandon Sanderson
+32. The Kingkiller Chronicle by Patrick Rothfuss
+33. The Stormlight Archive by Brandon Sanderson
+34. The Wheel of Time Series by Robert Jordan
+35. The Malazan Book of the Fallen Series by Steven Erikson
+36. The First Law Trilogy by Joe Abercrombie
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Blade Itself by Joe Abercrombie
+39. The Black Prism by Brent Weeks
+40. The Lightbringer Series by Brent Weeks
+41. The Broken Empire Trilogy by Mark Lawrence
+42. The Red Queen's War Trilogy by Mark Lawrence
+43. The Powder Mage Trilogy by Brian McClellan
+44. The Shadow Campaigns Series by Django Wexler
+45. The Riyria Revelations Series by Michael J. Sullivan
+46. The Gentleman Bastard Sequence by Scott Lynch
+47. The Chronicles of the Black Company by Glen Cook
+48. The Prince of Nothing Series by R. Scott Bakker
+49. The Aspect-Emperor Series by R. Scott Bakker
+50. The Book of the New Sun Series by Gene Wolfe
+
+These recommendations are based on similar themes, genres, and authors to the books that user 61 likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jay-Z
+2. Nas
+3. Kendrick Lamar
+4. Dr. Dre
+5. Kanye West
+6. J. Cole
+7. Lil Wayne
+8. OutKast
+9. Missy Elliott
+10. Snoop Dogg
+11. Nicki Minaj
+12. Lauryn Hill
+13. Aaliyah
+14. N.W.A
+15. Busta Rhymes
+16. Mary J. Blige
+17. T.I.
+18. Ludacris
+19. Remy Ma
+20. Cardi B
+21. Big L
+22. Rakim
+23. Run-D.M.C.
+24. LL Cool J
+25. Ice Cube
+26. Public Enemy
+27. Beastie Boys
+28. Erykah Badu
+29. Common
+30. Mos Def
+31. Talib Kweli
+32. The Roots
+33. Wu-Tang Clan (individual members' solo work)
+34. 50 Cent (collaborations and G-Unit)
+35. Raekwon (collaborations and Wu-Tang Clan)
+36. Notorious B.I.G. (collaborations and Junior M.A.F.I.A.)
+37. Christina Aguilera (collaborations and features)
+38. DMX (collaborations and Ruff Ryders)
+39. Black Eyed Peas (early albums and solo work)
+40. Eminem (collaborations and D12)
+41. The Game (collaborations and G-Unit)
+42. Amy Winehouse (collaborations and features)
+43. Sade (collaborations and features)
+44. Alicia Keys (collaborations and features)
+45. Wu-Tang Clan (collaborations and features)
+46. 2Pac (collaborations and features)
+47. Jennifer Hudson (collaborations and features)
+48. Evanescence (collaborations and features)
+49. Ghostface Killah (collaborations and features)
+50. Various artists from the user's liked genres and eras
+
+These recommendations are based on the user's liking of similar artists and are tailored to their specific preferences.

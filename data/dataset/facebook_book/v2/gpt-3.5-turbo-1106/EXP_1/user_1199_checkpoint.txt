@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Mortal Instruments series by Cassandra Clare
+6. The Chronicles of Narnia by C.S. Lewis
+7. Percy Jackson & the Olympians series by Rick Riordan
+8. The Lightning Thief by Rick Riordan
+9. The Alchemyst by Michael Scott
+10. The Golden Compass by Philip Pullman
+11. The Hobbit by J.R.R. Tolkien
+12. The Name of the Wind by Patrick Rothfuss
+13. The Night Circus by Erin Morgenstern
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Book Thief by Markus Zusak
+16. The Fault in Our Stars by John Green
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Lovely Bones by Alice Sebold
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Help by Kathryn Stockett
+21. The Kite Runner by Khaled Hosseini
+22. The Catcher in the Rye by J.D. Salinger
+23. To Kill a Mockingbird by Harper Lee
+24. The Great Gatsby by F. Scott Fitzgerald
+25. 1984 by George Orwell
+26. Brave New World by Aldous Huxley
+27. Fahrenheit 451 by Ray Bradbury
+28. Animal Farm by George Orwell
+29. Lord of the Flies by William Golding
+30. The Handmaid's Tale by Margaret Atwood
+31. The Road by Cormac McCarthy
+32. The Stand by Stephen King
+33. The Shining by Stephen King
+34. It by Stephen King
+35. Pet Sematary by Stephen King
+36. Misery by Stephen King
+37. Carrie by Stephen King
+38. The Outsider by Stephen King
+39. Doctor Sleep by Stephen King
+40. The Institute by Stephen King
+41. The Dark Tower series by Stephen King
+42. The Green Mile by Stephen King
+43. 11/22/63 by Stephen King
+44. Salem's Lot by Stephen King
+45. The Talisman by Stephen King and Peter Straub
+46. The Eyes of the Dragon by Stephen King
+47. The Dead Zone by Stephen King
+48. Firestarter by Stephen King
+49. Cujo by Stephen King
+50. Christine by Stephen King
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and dystopian novels.

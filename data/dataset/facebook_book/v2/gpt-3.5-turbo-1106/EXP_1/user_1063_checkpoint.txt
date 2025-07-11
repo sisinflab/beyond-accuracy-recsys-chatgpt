@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Just Listen by Sarah Dessen
+2. Love, Stargirl by Jerry Spinelli
+3. Folly by Laurie R. King
+4. The Impossible Knife of Memory by Laurie Halse Anderson
+5. The Sisterhood of the Traveling Pants by Ann Brashares
+6. The Joy Luck Club by Amy Tan
+7. The Secret Life of Bees by Sue Monk Kidd
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. The Alchemist by Paulo Coelho
+10. The Book Thief by Markus Zusak
+11. The Kite Runner by Khaled Hosseini
+12. The Help by Kathryn Stockett
+13. The Night Circus by Erin Morgenstern
+14. The Glass Castle by Jeannette Walls
+15. The Hunger Games by Suzanne Collins
+16. The Fault in Our Stars by John Green
+17. The Giver by Lois Lowry
+18. The Catcher in the Rye by J.D. Salinger
+19. The Bell Jar by Sylvia Plath
+20. Speak by Laurie Halse Anderson
+21. Snow Flower and the Secret Fan by Lisa See
+22. Sarah's Key by Tatiana de Rosnay
+23. Paper Towns by John Green
+24. My Sister's Keeper by Jodi Picoult
+25. Looking for Alaska by John Green
+26. Little Women by Louisa May Alcott
+27. Life of Pi by Yann Martel
+28. If I Stay by Gayle Forman
+29. Girl in Translation by Jean Kwok
+30. Eleanor & Park by Rainbow Rowell
+31. Divergent by Veronica Roth
+32. Delirium by Lauren Oliver
+33. Before I Fall by Lauren Oliver
+34. Beautiful Creatures by Kami Garcia and Margaret Stohl
+35. An Abundance of Katherines by John Green
+36. A Thousand Splendid Suns by Khaled Hosseini
+37. A Tree Grows in Brooklyn by Betty Smith
+38. A Separate Peace by John Knowles
+39. A Northern Light by Jennifer Donnelly
+40. A Great and Terrible Beauty by Libba Bray
+41. The Thirteenth Tale by Diane Setterfield
+42. The Secret History by Donna Tartt
+43. The Poisonwood Bible by Barbara Kingsolver
+44. The Lovely Bones by Alice Sebold
+45. The House on Mango Street by Sandra Cisneros
+46. The Handmaid's Tale by Margaret Atwood
+47. The Color Purple by Alice Walker
+48. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+49. The Bean Trees by Barbara Kingsolver
+50. Speak by Laurie Halse Anderson
+
+These recommendations are based on the user's preference for young adult fiction, coming-of-age stories, and novels with strong female protagonists.

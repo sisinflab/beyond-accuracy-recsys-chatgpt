@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 512:
+
+1. Slipknot
+2. Korn
+3. In Flames
+4. Breaking Benjamin
+5. Rise Against
+6. Stone Sour
+7. Seether
+8. 3 Doors Down
+9. Saliva
+10. Static-X
+11. Mudvayne
+12. Nickelback
+13. Celldweller
+14. HIM
+15. Demon Hunter
+16. Pain
+17. All That Remains
+18. Fear Factory
+19. Poets of the Fall
+20. Deathstars
+21. Pendulum
+22. Metallica
+23. Zebrahead
+24. Sick Puppies
+25. Eluveitie
+26. Alice in Videoland
+27. Britney Spears
+28. Lady Gaga
+29. Christina Aguilera
+30. Rihanna
+31. Shakira
+32. Madonna
+33. Paramore
+34. Avril Lavigne
+35. Katy Perry
+36. Taylor Swift
+37. Evanescence
+38. Beyoncé
+39. Ke$ha
+40. 30 Seconds to Mars
+41. Muse
+42. Pink Floyd
+43. Kylie Minogue
+44. Miley Cyrus
+45. Radiohead
+46. Duran Duran
+47. Coldplay
+48. Blur
+49. Arctic Monkeys
+50. Placebo
+
+These recommendations are based on the user's liking of similar artists and genres.

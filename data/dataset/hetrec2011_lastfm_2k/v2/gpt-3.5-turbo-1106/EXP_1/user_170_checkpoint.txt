@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Lamb of God
+2. Opeth
+3. Mastodon
+4. Gojira
+5. Sepultura
+6. Trivium
+7. Korn
+8. Rammstein
+9. System of a Down
+10. Pantera
+11. Faith No More
+12. Megadeth
+13. Despised Icon
+14. Alice in Chains
+15. Children of Bodom
+16. Slayer
+17. Deftones
+18. In Flames
+19. Soulfly
+20. Metallica
+21. Tool
+22. The Prodigy
+23. Cannibal Corpse
+24. Radiohead
+25. The Mars Volta
+26. Machine Head
+27. Pearl Jam
+28. The Dillinger Escape Plan
+29. Enter Shikari
+30. Slipknot
+31. Type O Negative
+32. Black Sabbath
+33. Killswitch Engage
+34. Meshuggah
+35. Morbid Angel
+36. Lamb of God
+37. Opeth
+38. Mastodon
+39. Gojira
+40. Sepultura
+41. Trivium
+42. Korn
+43. Rammstein
+44. System of a Down
+45. Pantera
+46. Faith No More
+47. Megadeth
+48. Despised Icon
+49. Alice in Chains
+50. Children of Bodom
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for the user to explore.

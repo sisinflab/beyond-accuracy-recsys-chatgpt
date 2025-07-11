@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Satanic Verses by Salman Rushdie
+2. A Clockwork Orange by Anthony Burgess
+3. Cat's Cradle by Kurt Vonnegut
+4. Fight Club by Chuck Palahniuk
+5. SuperFreakonomics by Steven Levitt, Stephen J. Dubner
+6. Filth by Irvine Welsh
+7. The Enchantress of Florence by Salman Rushdie
+8. The Magus by John Fowles
+9. Through the Looking-Glass by Lewis Carroll
+10. The Logic of Life by Tim Harford
+11. Vernon God Little by DBC Pierre
+12. Exit West by Mohsin Hamid
+13. Nine Stories by J.D. Salinger
+14. Love in the Time of Cholera by Gabriel García Márquez
+15. The Ground Beneath Her Feet by Salman Rushdie
+16. Brave New World by Aldous Huxley
+17. Breakfast of Champions by Kurt Vonnegut
+18. Survivor by Chuck Palahniuk
+19. Freakonomics by Steven Levitt, Stephen J. Dubner
+20. Glue by Irvine Welsh
+21. Haroun and the Sea of Stories by Salman Rushdie
+22. The French Lieutenant's Woman by John Fowles
+23. Jabberwocky by Lewis Carroll
+24. Adapt by Tim Harford
+25. Ludmila's Broken English by DBC Pierre
+26. Moth Smoke by Mohsin Hamid
+27. Raise High the Roof Beam, Carpenters and Seymour: An Introduction by J.D. Salinger
+28. Chronicle of a Death Foretold by Gabriel García Márquez
+29. Shame by Salman Rushdie
+30. The Master and Margarita by Mikhail Bulgakov
+31. Player Piano by Kurt Vonnegut
+32. Choke by Chuck Palahniuk
+33. Think Like a Freak by Steven Levitt, Stephen J. Dubner
+34. The Bedroom Secrets of the Master Chefs by Irvine Welsh
+35. The Golden House by Salman Rushdie
+36. The Ebony Tower by John Fowles
+37. The Annotated Alice: The Definitive Edition by Lewis Carroll
+38. The Undercover Economist Strikes Back by Tim Harford
+39. Lights Out in Wonderland by DBC Pierre
+40. How to Get Filthy Rich in Rising Asia by Mohsin Hamid
+41. Franny and Zooey by J.D. Salinger
+42. Of Love and Other Demons by Gabriel García Márquez
+43. The Enchantress of Florence by Salman Rushdie
+44. The Magus by John Fowles
+45. Through the Looking-Glass by Lewis Carroll
+46. The Logic of Life by Tim Harford
+47. Vernon God Little by DBC Pierre
+48. Exit West by Mohsin Hamid
+49. Nine Stories by J.D. Salinger
+50. Love in the Time of Cholera by Gabriel García Márquez

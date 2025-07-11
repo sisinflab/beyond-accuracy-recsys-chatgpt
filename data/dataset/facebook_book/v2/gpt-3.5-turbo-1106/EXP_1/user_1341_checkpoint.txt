@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Pride and Prejudice by Jane Austen
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. The Catcher in the Rye by J.D. Salinger
+7. The Grapes of Wrath by John Steinbeck
+8. The Adventures of Huckleberry Finn by Mark Twain
+9. The Bell Jar by Sylvia Plath
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. The Handmaid's Tale by Margaret Atwood
+12. Beloved by Toni Morrison
+13. The Color Purple by Alice Walker
+14. Slaughterhouse-Five by Kurt Vonnegut
+15. The Sun Also Rises by Ernest Hemingway
+16. The Picture of Dorian Gray by Oscar Wilde
+17. Wuthering Heights by Emily Bronte
+18. The Road by Cormac McCarthy
+19. The Stranger by Albert Camus
+20. Crime and Punishment by Fyodor Dostoevsky
+21. The Alchemist by Paulo Coelho
+22. The Kite Runner by Khaled Hosseini
+23. The Book Thief by Markus Zusak
+24. The Secret History by Donna Tartt
+25. The Poisonwood Bible by Barbara Kingsolver
+26. The Handmaid's Tale by Margaret Atwood
+27. The Goldfinch by Donna Tartt
+28. The Night Circus by Erin Morgenstern
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Help by Kathryn Stockett
+31. The Girl on the Train by Paula Hawkins
+32. The Lovely Bones by Alice Sebold
+33. The Hunger Games by Suzanne Collins
+34. The Fault in Our Stars by John Green
+35. Gone Girl by Gillian Flynn
+36. The Da Vinci Code by Dan Brown
+37. The Girl with the Dragon Tattoo by Stieg Larsson
+38. The Maze Runner by James Dashner
+39. The Giver by Lois Lowry
+40. The Lightning Thief by Rick Riordan
+41. The Hunger Games by Suzanne Collins
+42. The Chronicles of Narnia by C.S. Lewis
+43. The Hobbit by J.R.R. Tolkien
+44. The Lord of the Rings by J.R.R. Tolkien
+45. The Name of the Wind by Patrick Rothfuss
+46. The Night Circus by Erin Morgenstern
+47. The Book Thief by Markus Zusak
+48. The Secret History by Donna Tartt
+49. The Poisonwood Bible by Barbara Kingsolver
+50. The Goldfinch by Donna Tartt
+
+These recommendations are based on the user's interest in classic literature, contemporary fiction, and fantasy novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Alchemist by Paulo Coelho
+6. The Book Thief by Markus Zusak
+7. The Road by Cormac McCarthy
+8. The Handmaid's Tale by Margaret Atwood
+9. The Night Circus by Erin Morgenstern
+10. The Secret History by Donna Tartt
+11. The Goldfinch by Donna Tartt
+12. The Shadow of the Wind by Carlos Ruiz Zafón
+13. The Name of the Wind by Patrick Rothfuss
+14. The Martian by Andy Weir
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Help by Kathryn Stockett
+17. The Hunger Games by Suzanne Collins
+18. The Fault in Our Stars by John Green
+19. The Giver by Lois Lowry
+20. The Maze Runner by James Dashner
+21. The Da Vinci Code by Dan Brown
+22. The Girl on the Train by Paula Hawkins
+23. The Silent Patient by Alex Michaelides
+24. The Nightingale by Kristin Hannah
+25. The Tattooist of Auschwitz by Heather Morris
+26. The Glass Castle by Jeannette Walls
+27. The Immortalists by Chloe Benjamin
+28. The Light Between Oceans by M.L. Stedman
+29. The Underground Railroad by Colson Whitehead
+30. The Orphan Master's Son by Adam Johnson
+31. The Sympathizer by Viet Thanh Nguyen
+32. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+33. The Sellout by Paul Beatty
+34. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+35. The Road by Cormac McCarthy
+36. The Handmaid's Tale by Margaret Atwood
+37. The Night Circus by Erin Morgenstern
+38. The Secret History by Donna Tartt
+39. The Goldfinch by Donna Tartt
+40. The Shadow of the Wind by Carlos Ruiz Zafón
+41. The Name of the Wind by Patrick Rothfuss
+42. The Martian by Andy Weir
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Help by Kathryn Stockett
+45. The Hunger Games by Suzanne Collins
+46. The Fault in Our Stars by John Green
+47. The Giver by Lois Lowry
+48. The Maze Runner by James Dashner
+49. The Da Vinci Code by Dan Brown
+50. The Girl on the Train by Paula Hawkins
+
+These recommendations are based on the user's preference for a mix of literary fiction, thrillers, and contemporary fiction.

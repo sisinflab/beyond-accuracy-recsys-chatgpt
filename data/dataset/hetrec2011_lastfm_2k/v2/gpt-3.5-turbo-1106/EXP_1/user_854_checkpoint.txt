@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. As I Lay Dying
+2. Trivium
+3. All That Remains
+4. In Flames
+5. Lamb of God
+6. Bullet for My Valentine
+7. Five Finger Death Punch
+8. Sevendust
+9. Deftones
+10. Slipknot
+11. Chimaira
+12. Korn
+13. Soilwork
+14. DevilDriver
+15. The Dillinger Escape Plan
+16. Mastodon
+17. Parkway Drive
+18. Atreyu
+19. Killswitch Engage
+20. 36 Crazyfists
+21. Mudvayne
+22. Soulfly
+23. Limp Bizkit
+24. Protest The Hero
+25. Hatebreed
+26. Wu-Tang Clan
+27. Adema
+28. August Burns Red
+29. Ill Niño
+30. Asking Alexandria
+31. Saosin
+32. Architects
+33. Meshuggah
+34. System of a Down
+35. Staind
+36. Parkway Drive
+37. Atreyu
+38. Killswitch Engage
+39. 36 Crazyfists
+40. Mudvayne
+41. Soulfly
+42. Limp Bizkit
+43. Protest The Hero
+44. Hatebreed
+45. Wu-Tang Clan
+46. Adema
+47. August Burns Red
+48. Ill Niño
+49. Asking Alexandria
+50. Saosin
+
+These recommendations are based on the user's liking of similar artists and genres.

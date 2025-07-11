@@ -1,0 +1,54 @@
+Based on user 303's preferences, here are the top 50 recommendations for them:
+
+1. The Velvet Underground
+2. David Bowie
+3. The Beatles
+4. The Kinks
+5. The Rolling Stones
+6. Nirvana
+7. Pink Floyd
+8. The Doors
+9. The Who
+10. Led Zeppelin
+11. The Clash
+12. The Cure
+13. Ramones
+14. Joy Division
+15. Sonic Youth
+16. Rage Against the Machine
+17. ZZ Top
+18. Creedence Clearwater Revival
+19. The White Stripes
+20. The Jimi Hendrix Experience
+21. Lynyrd Skynyrd
+22. Dire Straits
+23. Bad Religion
+24. System of a Down
+25. The Offspring
+26. Bob Marley
+27. Nine Inch Nails
+28. The xx
+29. Queens of the Stone Age
+30. The Jam
+31. Metallica
+32. Gorillaz
+33. Thin Lizzy
+34. Audioslave
+35. Cypress Hill
+36. Cream
+37. The Velvet Underground
+38. David Bowie
+39. The Beatles
+40. The Kinks
+41. The Rolling Stones
+42. Nirvana
+43. Pink Floyd
+44. The Doors
+45. The Who
+46. Led Zeppelin
+47. The Clash
+48. The Cure
+49. Ramones
+50. Joy Division
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

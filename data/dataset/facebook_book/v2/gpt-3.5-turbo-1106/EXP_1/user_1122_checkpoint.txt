@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Neil Gaiman and Terry Pratchett
+2. The Name of the Wind by Patrick Rothfuss
+3. The Night Circus by Erin Morgenstern
+4. American Gods by Neil Gaiman
+5. Neverwhere by Neil Gaiman
+6. The Magicians by Lev Grossman
+7. The Graveyard Book by Neil Gaiman
+8. The Ocean at the End of the Lane by Neil Gaiman
+9. The Giver by Lois Lowry
+10. The Alchemist by Paulo Coelho
+11. The Secret History by Donna Tartt
+12. The Goldfinch by Donna Tartt
+13. The Catcher in the Rye by J.D. Salinger
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Great Gatsby by F. Scott Fitzgerald
+16. To Kill a Mockingbird by Harper Lee
+17. 1984 by George Orwell
+18. Brave New World by Aldous Huxley
+19. Fahrenheit 451 by Ray Bradbury
+20. Slaughterhouse-Five by Kurt Vonnegut
+21. Catch-22 by Joseph Heller
+22. One Hundred Years of Solitude by Gabriel Garcia Marquez
+23. Love in the Time of Cholera by Gabriel Garcia Marquez
+24. The Shadow of the Wind by Carlos Ruiz Zafon
+25. The Book Thief by Markus Zusak
+26. The Kite Runner by Khaled Hosseini
+27. A Thousand Splendid Suns by Khaled Hosseini
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Help by Kathryn Stockett
+30. The Color Purple by Alice Walker
+31. Beloved by Toni Morrison
+32. The Handmaid's Tale by Margaret Atwood
+33. The Road by Cormac McCarthy
+34. The Stand by Stephen King
+35. It by Stephen King
+36. Pet Sematary by Stephen King
+37. The Shining by Stephen King
+38. Misery by Stephen King
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. Gone Girl by Gillian Flynn
+41. Sharp Objects by Gillian Flynn
+42. Dark Places by Gillian Flynn
+43. The Da Vinci Code by Dan Brown
+44. Angels & Demons by Dan Brown
+45. The Girl on the Train by Paula Hawkins
+46. Big Little Lies by Liane Moriarty
+47. The Husband's Secret by Liane Moriarty
+48. Sharp Objects by Gillian Flynn
+49. Dark Places by Gillian Flynn
+50. The Girl with the Dragon Tattoo by Stieg Larsson
+
+These recommendations are based on the user's interest in fantasy, science fiction, and mystery genres, as well as a mix of classic and contemporary literature.

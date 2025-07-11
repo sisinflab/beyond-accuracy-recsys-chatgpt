@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Mesh
+2. Apoptygma Berzerk
+3. Wolfsheim
+4. Camouflage
+5. Ashbury Heights
+6. Blutengel
+7. She Wants Revenge
+8. The Birthday Massacre
+9. IAMX
+10. Assemblage 23
+11. Diary of Dreams
+12. Seabound
+13. Project Pitchfork
+14. Covenant
+15. VNV Nation
+16. De/Vision
+17. And One
+18. Depeche Mode
+19. Clan of Xymox
+20. Tori Amos
+21. The Sisters of Mercy
+22. The Crüxshadows
+23. London After Midnight
+24. The Frozen Autumn
+25. The Mission
+26. The Chameleons
+27. The Smiths
+28. Joy Division
+29. Siouxsie and the Banshees
+30. Cocteau Twins
+31. The Jesus and Mary Chain
+32. Bauhaus
+33. The Psychedelic Furs
+34. Echo & the Bunnymen
+35. The Human League
+36. OMD
+37. Yazoo
+38. Soft Cell
+39. Visage
+40. Ultravox
+41. Simple Minds
+42. Talk Talk
+43. Japan
+44. Tears for Fears
+45. Pet Shop Boys
+46. Erasure
+47. New Order
+48. Duran Duran
+49. a-ha
+50. The Cure
+
+These recommendations are based on the user's liking of similar artists and genres.

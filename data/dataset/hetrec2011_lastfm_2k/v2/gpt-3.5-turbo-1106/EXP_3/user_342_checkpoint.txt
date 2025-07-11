@@ -1,0 +1,54 @@
+Based on user 342's preferences, here are the top 50 recommendations for the user:
+
+1. Radiohead
+2. Led Zeppelin
+3. David Bowie
+4. Queen
+5. The Velvet Underground
+6. Nine Inch Nails
+7. The Kinks
+8. Frank Zappa
+9. Marilyn Manson
+10. Air
+11. Placebo
+12. Johnny Cash
+13. Digitalism
+14. Gogol Bordello
+15. Keane
+16. Coldplay
+17. The Jimi Hendrix Experience
+18. The Who
+19. Elvis Presley
+20. 30 Seconds to Mars
+21. Regina Spektor
+22. Kasabian
+23. Daft Punk
+24. Kings of Leon
+25. Los Hermanos
+26. blink-182
+27. Death Cab for Cutie
+28. Belle and Sebastian
+29. Ramones
+30. Jimi Hendrix
+31. Dirty Pretty Things
+32. The Last Shadow Puppets
+33. Zемфира
+34. System of a Down
+35. Paramore
+36. The Killers
+37. Metric
+38. The Faint
+39. Sublime
+40. Death from Above 1979
+41. Jack Johnson
+42. The Strokes
+43. Panic! At the Disco
+44. MGMT
+45. Beyoncé
+46. Tegan and Sara
+47. Cat Power
+48. Lily Allen
+49. The Dead Weather
+50. Franz Ferdinand
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

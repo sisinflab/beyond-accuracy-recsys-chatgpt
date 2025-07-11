@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Eminem
+2. Rihanna
+3. 50 Cent
+4. Kanye West
+5. Lil Wayne
+6. Usher
+7. Chris Brown
+8. Justin Timberlake
+9. Maroon 5
+10. Bruno Mars
+11. Snoop Dogg
+12. Alicia Keys
+13. Nelly
+14. Ciara
+15. Akon
+16. OutKast
+17. Ne-Yo
+18. The Black Eyed Peas
+19. Christina Aguilera
+20. Justin Bieber
+21. Drake
+22. Pitbull
+23. Mary J. Blige
+24. Missy Elliott
+25. Ludacris
+26. Janet Jackson
+27. Destiny's Child
+28. Fergie
+29. Timbaland & Magoo
+30. Nelly Furtado
+31. Ashanti
+32. The Game
+33. JAY-Z & Kanye West
+34. Pharrell Williams
+35. T-Pain
+36. Kelly Rowland
+37. Pussycat Dolls
+38. Gwen Stefani & Eve
+39. Lil' Kim
+40. TLC
+41. Janet Jackson & Nelly
+42. Eve
+43. Kelis
+44. TLC
+45. Brandy
+46. Destiny's Child
+47. Jordin Sparks
+48. Ashlee Simpson
+49. JoJo
+50. Mýa
+
+These recommendations are based on similar artists and genres liked by the user.

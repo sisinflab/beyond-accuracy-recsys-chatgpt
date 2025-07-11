@@ -1,0 +1,54 @@
+Based on user 477's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. Catch-22 by Joseph Heller
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Catcher in the Rye by J. D. Salinger
+5. The Brothers Karamazov by Fyodor Dostoyevsky
+6. The Idiot by Fyodor Dostoyevsky
+7. Dracula by Bram Stoker
+8. The Scarlet Letter by Nathaniel Hawthorne
+9. Memoirs of a Geisha
+10. Jane Eyre
+11. Brave New World
+12. Percy Jackson & the Olympians
+13. Pride and Prejudice
+14. The Prince
+15. Fahrenheit 451
+16. Twilight (series)
+17. A Christmas Carol
+18. Emma (novel)
+19. Harry Potter
+20. Wuthering Heights
+21. The Book Thief
+22. The Sound and the Fury
+23. Notes from Underground
+24. The Trial
+25. A Clockwork Orange
+26. Romeo and Juliet
+27. The Secret Garden
+28. The Messenger (Markus Zusak novel)
+29. Sense and Sensibility
+30. Just Kids
+31. Northanger Abbey
+32. Pyramids (novel)
+33. Invisible Man
+34. Lolita
+35. The Picture of Dorian Gray
+36. The Count of Monte Cristo
+37. Paradise Lost
+38. Mansfield Park
+39. A Passage to India
+40. Ferdydurke
+41. The Time Machine
+42. The General's Daughter (novel)
+43. Macbeth
+44. The Colour of Magic
+45. A Midsummer Night's Dream
+46. The Bourne Identity (novel)
+47. The Horse and His Boy
+48. The Sicilian
+49. The Phantom Tollbooth
+50. Seeds of Yesterday
+
+These recommendations are based on the user's previous likes and are ranked according to their potential appeal to the user.

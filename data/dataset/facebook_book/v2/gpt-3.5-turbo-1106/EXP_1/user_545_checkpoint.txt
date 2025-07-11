@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. The Fault in Our Stars by John Green
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Little Women by Louisa May Alcott
+5. The Catcher in the Rye by J.D. Salinger
+6. Wuthering Heights by Emily Bronte
+7. The Hunger Games by Suzanne Collins
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. Jane Eyre by Charlotte Bronte
+10. The Giver by Lois Lowry
+11. The Alchemist by Paulo Coelho
+12. The Kite Runner by Khaled Hosseini
+13. The Secret Life of Bees by Sue Monk Kidd
+14. The Help by Kathryn Stockett
+15. The Girl on the Train by Paula Hawkins
+16. Gone Girl by Gillian Flynn
+17. The Lovely Bones by Alice Sebold
+18. The Night Circus by Erin Morgenstern
+19. The Goldfinch by Donna Tartt
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. Water for Elephants by Sara Gruen
+22. The Glass Castle by Jeannette Walls
+23. The Light Between Oceans by M.L. Stedman
+24. The Secret Garden by Frances Hodgson Burnett
+25. The Bell Jar by Sylvia Plath
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Road by Cormac McCarthy
+28. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+29. The Shadow of the Wind by Carlos Ruiz Zafon
+30. The Nightingale by Kristin Hannah
+31. The Book of Lost Things by John Connolly
+32. The Thirteenth Tale by Diane Setterfield
+33. The Snow Child by Eowyn Ivey
+34. The Secret History by Donna Tartt
+35. The Miniaturist by Jessie Burton
+36. The Night Circus by Erin Morgenstern
+37. The Goldfinch by Donna Tartt
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. Water for Elephants by Sara Gruen
+40. The Glass Castle by Jeannette Walls
+41. The Light Between Oceans by M.L. Stedman
+42. The Secret Garden by Frances Hodgson Burnett
+43. The Bell Jar by Sylvia Plath
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Road by Cormac McCarthy
+46. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+47. The Shadow of the Wind by Carlos Ruiz Zafon
+48. The Nightingale by Kristin Hannah
+49. The Book of Lost Things by John Connolly
+50. The Thirteenth Tale by Diane Setterfield
+
+These recommendations are based on the user's liking of similar books and authors.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Prince
+2. David Bowie
+3. Florence + The Machine
+4. Lana Del Rey
+5. Hozier
+6. The Cranberries
+7. Lorde
+8. The Cardigans
+9. PJ Harvey
+10. The Cure
+11. Haim
+12. Tegan and Sara
+13. St. Vincent
+14. Metric
+15. The xx
+16. CHVRCHES
+17. Mitski
+18. Marina and the Diamonds
+19. Grimes
+20. Bat for Lashes
+21. Lykke Li
+22. Santigold
+23. Sleater-Kinney
+24. Yeah Yeah Yeahs
+25. La Roux
+26. Robyn
+27. Tove Lo
+28. Charli XCX
+29. Carly Rae Jepsen
+30. M.I.A.
+31. FKA twigs
+32. Solange
+33. Christine and the Queens
+34. Kimbra
+35. Aurora
+36. BANKS
+37. Chairlift
+38. Alvvays
+39. Phantogram
+40. Warpaint
+41. Wolf Alice
+42. Daughter
+43. London Grammar
+44. CHAI
+45. Mitski
+46. Japanese Breakfast
+47. Snail Mail
+48. Soccer Mommy
+49. Angel Olsen
+50. Waxahatchee
+
+These recommendations are based on the user's liking of similar artists and genres.

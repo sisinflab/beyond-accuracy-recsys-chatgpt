@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Beach House
+2. Sonic Youth
+3. The Smiths
+4. Belle and Sebastian
+5. Cocteau Twins
+6. The Jesus and Mary Chain
+7. My Bloody Valentine
+8. The War on Drugs
+9. Real Estate
+10. Tame Impala
+11. Deerhunter
+12. Yo La Tengo
+13. Pavement
+14. The National
+15. Interpol
+16. The Strokes
+17. Vampire Weekend
+18. Arcade Fire
+19. LCD Soundsystem
+20. MGMT
+21. The Flaming Lips
+22. Modest Mouse
+23. Spoon
+24. The Shins
+25. Wilco
+26. Fleet Foxes
+27. Grizzly Bear
+28. Animal Collective
+29. The Black Keys
+30. The White Stripes
+31. Arctic Monkeys
+32. Radiohead
+33. The xx
+34. Alt-J
+35. Foals
+36. The Vaccines
+37. Two Door Cinema Club
+38. Bombay Bicycle Club
+39. The Kooks
+40. The Wombats
+41. Franz Ferdinand
+42. Bloc Party
+43. The Libertines
+44. Kaiser Chiefs
+45. The Fratellis
+46. The Killers
+47. Kings of Leon
+48. Arctic Monkeys
+49. The Strokes
+50. Interpol
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music that aligns with their preferences.

@@ -1,0 +1,54 @@
+Based on user 832's preferences, here are the top 50 recommendations for the given artists:
+
+1. Metallica
+2. Led Zeppelin
+3. AC/DC
+4. Blind Guardian
+5. In Flames
+6. Nightwish
+7. Iron Maiden
+8. Helloween
+9. Megadeth
+10. Slayer
+11. Rhapsody of Fire
+12. HammerFall
+13. Testament
+14. Ensiferum
+15. Annihilator
+16. Alestorm
+17. Dimmu Borgir
+18. Cradle of Filth
+19. Amon Amarth
+20. Edguy
+21. Overkill
+22. Kreator
+23. Marilyn Manson
+24. Electric Light Orchestra
+25. Sonata Arctica
+26. Agalloch
+27. Morcheeba
+28. Massive Attack
+29. Red Hot Chili Peppers
+30. Coldplay
+31. The Doors
+32. Spandau Ballet
+33. Delta Goodrem
+34. Franz Ferdinand
+35. Kim Wilde
+36. Sigur Rós
+37. Röyksopp
+38. Maroon 5
+39. Infected Mushroom
+40. Tears for Fears
+41. Hurts
+42. INXS
+43. Silverchair
+44. Carter Burwell
+45. Anathema
+46. Metro Station
+47. Los Hermanos
+48. Isis
+49. Legião Urbana
+50. Crowded House
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for their enjoyment.

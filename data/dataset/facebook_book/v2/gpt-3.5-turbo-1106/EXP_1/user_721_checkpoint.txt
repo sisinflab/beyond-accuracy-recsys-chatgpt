@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. One Hundred Years of Solitude by Gabriel Garcia Marquez
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Brave New World by Aldous Huxley
+8. The Catcher in the Rye by J.D. Salinger
+9. The Handmaid's Tale by Margaret Atwood
+10. The Grapes of Wrath by John Steinbeck
+11. The Bell Jar by Sylvia Plath
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Road by Cormac McCarthy
+14. The Stranger by Albert Camus
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Alchemist by Paulo Coelho
+18. The Kite Runner by Khaled Hosseini
+19. The Book Thief by Markus Zusak
+20. The Secret History by Donna Tartt
+21. The Goldfinch by Donna Tartt
+22. The Night Circus by Erin Morgenstern
+23. The Shadow of the Wind by Carlos Ruiz Zafon
+24. The Name of the Wind by Patrick Rothfuss
+25. The Lies of Locke Lamora by Scott Lynch
+26. The Way of Kings by Brandon Sanderson
+27. The Final Empire by Brandon Sanderson
+28. The Name of the Wind by Patrick Rothfuss
+29. The Wise Man's Fear by Patrick Rothfuss
+30. The Lies of Locke Lamora by Scott Lynch
+31. The Way of Kings by Brandon Sanderson
+32. The Final Empire by Brandon Sanderson
+33. The Name of the Wind by Patrick Rothfuss
+34. The Wise Man's Fear by Patrick Rothfuss
+35. The Lies of Locke Lamora by Scott Lynch
+36. The Way of Kings by Brandon Sanderson
+37. The Final Empire by Brandon Sanderson
+38. The Name of the Wind by Patrick Rothfuss
+39. The Wise Man's Fear by Patrick Rothfuss
+40. The Lies of Locke Lamora by Scott Lynch
+41. The Way of Kings by Brandon Sanderson
+42. The Final Empire by Brandon Sanderson
+43. The Name of the Wind by Patrick Rothfuss
+44. The Wise Man's Fear by Patrick Rothfuss
+45. The Lies of Locke Lamora by Scott Lynch
+46. The Way of Kings by Brandon Sanderson
+47. The Final Empire by Brandon Sanderson
+48. The Name of the Wind by Patrick Rothfuss
+49. The Wise Man's Fear by Patrick Rothfuss
+50. The Lies of Locke Lamora by Scott Lynch
+
+These recommendations are based on the user's liking of books with similar themes, genres, and writing styles.

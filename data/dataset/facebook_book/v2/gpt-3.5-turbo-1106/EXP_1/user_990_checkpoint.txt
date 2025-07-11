@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Hunger Games by Suzanne Collins
+3. Mockingjay by Suzanne Collins
+4. The Maze Runner by James Dashner
+5. Divergent by Veronica Roth
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Giver by Lois Lowry
+8. The Golden Compass by Philip Pullman
+9. The Mortal Instruments series by Cassandra Clare
+10. The Infernal Devices series by Cassandra Clare
+11. The Alchemyst by Michael Scott
+12. The Lightning Thief by Rick Riordan
+13. The Name of the Wind by Patrick Rothfuss
+14. Mistborn series by Brandon Sanderson
+15. The Way of Kings by Brandon Sanderson
+16. Warbreaker by Brandon Sanderson
+17. The Lies of Locke Lamora by Scott Lynch
+18. The Night Circus by Erin Morgenstern
+19. Uprooted by Naomi Novik
+20. Stardust by Neil Gaiman
+21. Neverwhere by Neil Gaiman
+22. The Ocean at the End of the Lane by Neil Gaiman
+23. The Book Thief by Markus Zusak
+24. The Night Angel Trilogy by Brent Weeks
+25. The Lightbringer series by Brent Weeks
+26. The Kingkiller Chronicle by Patrick Rothfuss
+27. The Wheel of Time series by Robert Jordan
+28. The Stormlight Archive series by Brandon Sanderson
+29. The Mistborn series by Brandon Sanderson
+30. The Inheritance Cycle series by Christopher Paolini
+31. The Bartimaeus Trilogy by Jonathan Stroud
+32. The Abhorsen Trilogy by Garth Nix
+33. The Magicians by Lev Grossman
+34. The Magician's Guild by Trudi Canavan
+35. The Farseer Trilogy by Robin Hobb
+36. The Liveship Traders Trilogy by Robin Hobb
+37. The Tawny Man Trilogy by Robin Hobb
+38. The Rain Wild Chronicles by Robin Hobb
+39. The Soldier Son Trilogy by Robin Hobb
+40. The Black Prism by Brent Weeks
+41. The Broken Empire series by Mark Lawrence
+42. The Red Queen's War series by Mark Lawrence
+43. The Book of the Ancestor series by Mark Lawrence
+44. The Powder Mage Trilogy by Brian McClellan
+45. The Gods of Blood and Powder series by Brian McClellan
+46. The Lightbringer series by Brent Weeks
+47. The Demon Cycle series by Peter V. Brett
+48. The Licanius Trilogy by James Islington
+49. The Riyria Revelations series by Michael J. Sullivan
+50. The First Law Trilogy by Joe Abercrombie
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and adventure novels.

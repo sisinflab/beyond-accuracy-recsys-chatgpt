@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nine Inch Nails
+2. Pink Floyd
+3. Opeth
+4. Riverside
+5. Steven Wilson
+6. Anathema
+7. Gojira
+8. The Dillinger Escape Plan
+9. Mastodon
+10. Dream Theater
+11. TesseracT
+12. The Contortionist
+13. Haken
+14. Porcupine Tree
+15. Tool
+16. Radiohead
+17. Cynic
+18. Sigur Rós
+19. King Crimson
+20. Porcupine Tree
+21. Cynic
+22. Sigur Rós
+23. King Crimson
+24. Lamb of God
+25. Deep Purple
+26. Pixies
+27. Meshuggah
+28. The Mars Volta
+29. Depeche Mode
+30. The Smashing Pumpkins
+31. Emilie Simon
+32. Air
+33. of Montreal
+34. Massive Attack
+35. Queens of the Stone Age
+36. Muse
+37. Coldplay
+38. Blur
+39. Hooverphonic
+40. Protest The Hero
+41. Katatonia
+42. Björk
+43. Pantera
+44. Despised Icon
+45. Alice in Chains
+46. Gustavo Cerati
+47. Portishead
+48. As I Lay Dying
+49. Arch Enemy
+50. Tool
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 1819's preferences, here are the top 50 recommendations for them:
+
+1. Mariah Carey
+2. Chris Brown
+3. Justin Timberlake
+4. Ne-Yo
+5. T.I.
+6. Nicki Minaj
+7. Enrique Iglesias
+8. Usher
+9. Trey Songz
+10. Backstreet Boys
+11. *NSYNC
+12. JoJo
+13. Christina Aguilera
+14. Spice Girls
+15. Daddy Yankee
+16. Alexz Johnson
+17. Jonas Brothers
+18. Simple Plan
+19. Green Day
+20. Relient K
+21. Stevie Wonder
+22. Eminem
+23. Beyoncé
+24. Rihanna
+25. Lady Gaga
+26. Katy Perry
+27. Taylor Swift
+28. Jay-Z
+29. Alicia Keys
+30. Kanye West
+31. Michael Jackson
+32. Black Eyed Peas
+33. Destiny's Child
+34. Kelly Clarkson
+35. Kelly Rowland
+36. Mary J. Blige
+37. Nas
+38. Toni Braxton
+39. Adam Lambert
+40. Ciara
+41. Maroon 5
+42. OutKast
+43. Timbaland
+44. Jennifer Lopez
+45. Ashanti
+46. Leona Lewis
+47. Keri Hilson
+48. The Pussycat Dolls
+49. 2Pac
+50. Linkin Park
+
+These recommendations are based on the similarity of the listed artists to the user's preferences.

@@ -1,0 +1,54 @@
+Based on the preferences of user 1189, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Eleanor & Park by Rainbow Rowell
+3. If I Stay by Gayle Forman
+4. The Perks of Being a Wallflower by Stephen Chbosky
+5. Fangirl by Rainbow Rowell
+6. The Book Thief by Markus Zusak
+7. Thirteen Reasons Why by Jay Asher
+8. Looking for Alaska by John Green
+9. Paper Towns by John Green
+10. Me and Earl and the Dying Girl by Jesse Andrews
+11. The Maze Runner by James Dashner
+12. Divergent by Veronica Roth
+13. The Hunger Games by Suzanne Collins
+14. The Giver by Lois Lowry
+15. Delirium by Lauren Oliver
+16. Uglies by Scott Westerfeld
+17. The Selection by Kiera Cass
+18. Matched by Ally Condie
+19. Legend by Marie Lu
+20. Shatter Me by Tahereh Mafi
+21. The 5th Wave by Rick Yancey
+22. The Darkest Minds by Alexandra Bracken
+23. Red Queen by Victoria Aveyard
+24. Cinder by Marissa Meyer
+25. The Lunar Chronicles by Marissa Meyer
+26. The Mortal Instruments series by Cassandra Clare
+27. The Infernal Devices series by Cassandra Clare
+28. The Dark Artifices series by Cassandra Clare
+29. The Hunger Games series by Suzanne Collins
+30. The Divergent series by Veronica Roth
+31. The Maze Runner series by James Dashner
+32. The Selection series by Kiera Cass
+33. The Delirium series by Lauren Oliver
+34. The Uglies series by Scott Westerfeld
+35. The Legend series by Marie Lu
+36. The Shatter Me series by Tahereh Mafi
+37. The 5th Wave series by Rick Yancey
+38. The Darkest Minds series by Alexandra Bracken
+39. The Red Queen series by Victoria Aveyard
+40. The Lunar Chronicles series by Marissa Meyer
+41. The Mortal Instruments: City of Bones by Cassandra Clare
+42. The Infernal Devices: Clockwork Angel by Cassandra Clare
+43. The Dark Artifices: Lady Midnight by Cassandra Clare
+44. The Hunger Games: Catching Fire by Suzanne Collins
+45. Divergent: Insurgent by Veronica Roth
+46. The Maze Runner: The Scorch Trials by James Dashner
+47. The Selection: The Elite by Kiera Cass
+48. Delirium: Pandemonium by Lauren Oliver
+49. Uglies: Pretties by Scott Westerfeld
+50. Legend: Prodigy by Marie Lu
+
+These recommendations are based on the similar themes, genres, and authors to the books liked by user 1189.

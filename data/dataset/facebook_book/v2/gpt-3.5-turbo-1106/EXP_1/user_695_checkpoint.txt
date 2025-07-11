@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dracula by Bram Stoker
+2. The Shadow of the Wind by Carlos Ruiz Zafón
+3. The Name of the Wind by Patrick Rothfuss
+4. The Night Circus by Erin Morgenstern
+5. Interview with the Vampire by Anne Rice
+6. The Thirteenth Tale by Diane Setterfield
+7. The Book Thief by Markus Zusak
+8. The Secret History by Donna Tartt
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Golem and the Jinni by Helene Wecker
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Goldfinch by Donna Tartt
+14. The Bell Jar by Sylvia Plath
+15. The Nightingale by Kristin Hannah
+16. The Alchemist by Paulo Coelho
+17. The Kite Runner by Khaled Hosseini
+18. The Lovely Bones by Alice Sebold
+19. The Help by Kathryn Stockett
+20. The Catcher in the Rye by J.D. Salinger
+21. The Great Gatsby by F. Scott Fitzgerald
+22. To Kill a Mockingbird by Harper Lee
+23. 1984 by George Orwell
+24. Brave New World by Aldous Huxley
+25. Fahrenheit 451 by Ray Bradbury
+26. Slaughterhouse-Five by Kurt Vonnegut
+27. One Hundred Years of Solitude by Gabriel García Márquez
+28. The Handmaid's Tale by Margaret Atwood
+29. Beloved by Toni Morrison
+30. The Color Purple by Alice Walker
+31. The God of Small Things by Arundhati Roy
+32. The Poisonwood Bible by Barbara Kingsolver
+33. The Glass Castle by Jeannette Walls
+34. The Road by Cormac McCarthy
+35. The Martian by Andy Weir
+36. Ready Player One by Ernest Cline
+37. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+38. Ender's Game by Orson Scott Card
+39. Dune by Frank Herbert
+40. Neuromancer by William Gibson
+41. Snow Crash by Neal Stephenson
+42. The Left Hand of Darkness by Ursula K. Le Guin
+43. The Dispossessed by Ursula K. Le Guin
+44. Kindred by Octavia E. Butler
+45. The Handmaid's Tale by Margaret Atwood
+46. Parable of the Sower by Octavia E. Butler
+47. The City & the City by China Miéville
+48. The Windup Girl by Paolo Bacigalupi
+49. The Power by Naomi Alderman
+50. Station Eleven by Emily St. John Mandel
+
+These recommendations are based on the user's interest in historical fiction, fantasy, and supernatural themes.

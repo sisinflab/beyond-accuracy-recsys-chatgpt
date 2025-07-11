@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. 1984 by George Orwell
+3. The Stranger by Albert Camus
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Catcher in the Rye by J.D. Salinger
+6. To Kill a Mockingbird by Harper Lee
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. The Great Gatsby by F. Scott Fitzgerald
+10. Brave New World by Aldous Huxley
+11. The Metamorphosis by Franz Kafka
+12. The Old Man and the Sea by Ernest Hemingway
+13. Siddhartha by Hermann Hesse
+14. The Alchemist by Paulo Coelho
+15. The Bell Jar by Sylvia Plath
+16. The Road by Cormac McCarthy
+17. The Sun Also Rises by Ernest Hemingway
+18. The Unbearable Lightness of Being by Milan Kundera
+19. Slaughterhouse-Five by Kurt Vonnegut
+20. The Grapes of Wrath by John Steinbeck
+21. The Sound and the Fury by William Faulkner
+22. The Plague by Albert Camus
+23. The Trial by Franz Kafka
+24. The Idiot by Fyodor Dostoevsky
+25. The Master and Margarita by Mikhail Bulgakov
+26. The Name of the Rose by Umberto Eco
+27. The Book Thief by Markus Zusak
+28. The Shadow of the Wind by Carlos Ruiz Zafón
+29. The Handmaid's Tale by Margaret Atwood
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Martian by Andy Weir
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Night Circus by Erin Morgenstern
+34. The Goldfinch by Donna Tartt
+35. The Secret History by Donna Tartt
+36. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+37. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+38. The Wind-Up Bird Chronicle by Haruki Murakami
+39. The God of Small Things by Arundhati Roy
+40. The Poisonwood Bible by Barbara Kingsolver
+41. The Glass Castle by Jeannette Walls
+42. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+43. The Nightingale by Kristin Hannah
+44. The Goldfinch by Donna Tartt
+45. The Secret History by Donna Tartt
+46. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+47. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+48. The Wind-Up Bird Chronicle by Haruki Murakami
+49. The God of Small Things by Arundhati Roy
+50. The Poisonwood Bible by Barbara Kingsolver
+
+These recommendations are based on the user's interest in classic literature, philosophy, and contemporary fiction.

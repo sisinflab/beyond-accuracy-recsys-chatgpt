@@ -1,0 +1,54 @@
+Based on user 100's preferences, here are the top-50 recommendations for the given artists:
+
+1. The Beatles
+2. David Bowie
+3. Talking Heads
+4. Franz Ferdinand
+5. Interpol
+6. The Rakes
+7. The Libertines
+8. Oasis
+9. PJ Harvey
+10. New Order
+11. Sonic Youth
+12. Bloc Party
+13. Death Cab for Cutie
+14. My Bloody Valentine
+15. Sigur Rós
+16. Björk
+17. Nick Cave and the Bad Seeds
+18. The Maccabees
+19. Broken Social Scene
+20. George Harrison
+21. Cocteau Twins
+22. Black Rebel Motorcycle Club
+23. Antony and the Johnsons
+24. Sparks
+25. Rufus Wainwright
+26. Leonard Cohen
+27. Beach House
+28. The Cribs
+29. Placebo
+30. Gorillaz
+31. Franz Ferdinand
+32. Wu-Tang Clan
+33. Misfits
+34. Dead Can Dance
+35. Babyshambles
+36. The Maccabees
+37. The Rakes
+38. The Libertines
+39. Oasis
+40. Legião Urbana
+41. Ryan Adams
+42. Cocteau Twins
+43. Black Rebel Motorcycle Club
+44. Antony and the Johnsons
+45. Sparks
+46. Death Cab for Cutie
+47. PJ Harvey
+48. New Order
+49. Interpol
+50. Bloc Party
+
+These recommendations are based on similar musical styles and genres to the user's existing preferences.

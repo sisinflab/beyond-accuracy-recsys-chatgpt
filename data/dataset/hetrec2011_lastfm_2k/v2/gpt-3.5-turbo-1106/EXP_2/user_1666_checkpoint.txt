@@ -1,0 +1,52 @@
+Based on user 1666's preferences, here are the top 50 recommendations:
+
+1. Lady Gaga
+2. Rihanna
+3. Katy Perry
+4. Britney Spears
+5. Madonna
+6. Paramore
+7. Shakira
+8. Avril Lavigne
+9. Miley Cyrus
+10. Ke$ha
+11. Kelly Clarkson
+12. Pink Floyd
+13. The Beatles
+14. Beyoncé
+15. Taylor Swift
+16. Glee Cast
+17. U2
+18. 30 Seconds to Mars
+19. Muse
+20. Kylie Minogue
+21. Evanescence
+22. Christina Aguilera
+23. Depeche Mode
+24. Coldplay
+25. The Killers
+26. Nirvana
+27. Iron Maiden
+28. Michael Jackson
+29. Pearl Jam
+30. Linkin Park
+31. My Chemical Romance
+32. Green Day
+33. The Cure
+34. Nine Inch Nails
+35. System of a Down
+36. Avenged Sevenfold
+37. Black Eyed Peas
+38. Metallica
+39. Placebo
+40. Arctic Monkeys
+41. Radiohead
+42. Blur
+43. Daft Punk
+44. Amy Winehouse
+45. Led Zeppelin
+46. a-ha
+47. P!nk
+48. All Time Low
+49. The Pussycat Dolls
+50. Good Charlotte

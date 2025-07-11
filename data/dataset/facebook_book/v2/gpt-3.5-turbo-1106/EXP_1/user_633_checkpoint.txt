@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Road by Cormac McCarthy
+6. Fahrenheit 451 by Ray Bradbury
+7. Brave New World by Aldous Huxley
+8. The Handmaid's Tale by Margaret Atwood
+9. The Stand by Stephen King
+10. World War Z by Max Brooks
+11. The Girl with All the Gifts by M.R. Carey
+12. Station Eleven by Emily St. John Mandel
+13. The Passage by Justin Cronin
+14. The Bone Clocks by David Mitchell
+15. The Book of M by Peng Shepherd
+16. The Fifth Season by N.K. Jemisin
+17. The Power by Naomi Alderman
+18. The City of Ember by Jeanne DuPrau
+19. The Knife of Never Letting Go by Patrick Ness
+20. The 5th Wave by Rick Yancey
+21. The Darkest Minds by Alexandra Bracken
+22. The Uglies by Scott Westerfeld
+23. The Lunar Chronicles by Marissa Meyer
+24. The Mortal Instruments by Cassandra Clare
+25. The Infernal Devices by Cassandra Clare
+26. The Selection by Kiera Cass
+27. The Testing by Joelle Charbonneau
+28. Legend by Marie Lu
+29. Red Queen by Victoria Aveyard
+30. The Queen of the Tearling by Erika Johansen
+31. The Name of the Wind by Patrick Rothfuss
+32. Mistborn by Brandon Sanderson
+33. The Lies of Locke Lamora by Scott Lynch
+34. The Way of Kings by Brandon Sanderson
+35. The Night Circus by Erin Morgenstern
+36. The Magicians by Lev Grossman
+37. The Alchemist by Paulo Coelho
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Nightingale by Kristin Hannah
+40. All the Light We Cannot See by Anthony Doerr
+41. The Goldfinch by Donna Tartt
+42. The Secret History by Donna Tartt
+43. The Book Thief by Markus Zusak
+44. The Kite Runner by Khaled Hosseini
+45. A Thousand Splendid Suns by Khaled Hosseini
+46. The Help by Kathryn Stockett
+47. The Secret Life of Bees by Sue Monk Kidd
+48. The Glass Castle by Jeannette Walls
+49. Educated by Tara Westover
+50. Where the Crawdads Sing by Delia Owens
+
+These recommendations are based on the user's interest in dystopian fiction, fantasy, and classic literature.

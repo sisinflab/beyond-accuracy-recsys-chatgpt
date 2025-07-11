@@ -1,0 +1,54 @@
+Based on user 1005's preferences, here are the top 50 recommendations for the given artists:
+
+1. Nas
+2. MF DOOM
+3. Ghostface Killah
+4. Raekwon
+5. GZA/Genius
+6. Jay-Z
+7. A Tribe Called Quest
+8. Common
+9. Mos Def
+10. Lupe Fiasco
+11. Madlib
+12. The Roots
+13. De La Soul
+14. Madvillain
+15. J Dilla
+16. Flying Lotus
+17. DJ Shadow
+18. Black Eyed Peas
+19. Yeasayer
+20. Hot Chip
+21. Kid Cudi
+22. Kanye West
+23. OutKast
+24. The Flaming Lips
+25. Joy Division
+26. Aphex Twin
+27. LCD Soundsystem
+28. Radiohead
+29. The White Stripes
+30. Franz Ferdinand
+31. Nirvana
+32. Spoon
+33. Grizzly Bear
+34. Kings of Convenience
+35. Beirut
+36. Deerhunter
+37. Pavement
+38. John Mayer
+39. U2
+40. Red Hot Chili Peppers
+41. Bloc Party
+42. The Kooks
+43. The xx
+44. Bright Eyes
+45. Neutral Milk Hotel
+46. Emilíana Torrini
+47. Burial
+48. Amon Tobin
+49. The Flashbulb
+50. Ratatat
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

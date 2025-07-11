@@ -1,0 +1,54 @@
+Based on the user's preferences for country and pop artists, here is a re-ranked list of the artists you provided:
+
+1. Kelly Clarkson
+2. Rascal Flatts
+3. Taylor Swift
+4. Carrie Underwood
+5. Keith Urban
+6. Shania Twain
+7. Lady Antebellum
+8. Dixie Chicks
+9. Brad Paisley
+10. George Strait
+11. Miley Cyrus
+12. Katy Perry
+13. Faith Hill
+14. Avril Lavigne
+15. Madonna
+16. Britney Spears
+17. Colbie Caillat
+18. Justin Timberlake
+19. Maroon 5
+20. Lady Gaga
+21. The Beatles
+22. Elvis Presley
+23. Glee Cast
+24. Justin Bieber
+25. The Script
+26. Queen
+27. Bon Jovi
+28. Scorpions
+29. Juanes
+30. Lily Allen
+31. Sara Bareilles
+32. Bruce Springsteen
+33. Josh Groban
+34. Owl City
+35. Muse
+36. Mariah Carey
+37. Céline Dion
+38. Adam Lambert
+39. David Archuleta
+40. Jessica Simpson
+41. Hilary Duff
+42. The Who
+43. The Police
+44. Billy Joel
+45. Chuck Berry
+46. Alanis Morissette
+47. Enya
+48. Carter Burwell
+49. Alexandre Desplat
+50. Lynyrd Skynyrd
+
+This re-ranked list takes into account the user's preferences for country and pop artists, and places similar artists higher in the recommendations.

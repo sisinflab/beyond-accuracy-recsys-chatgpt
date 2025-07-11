@@ -1,0 +1,54 @@
+Based on user 1345's preferences, here are the top 50 recommendations:
+
+1. The Rolling Stones
+2. Bob Dylan
+3. Pink Floyd
+4. David Bowie
+5. The Doors
+6. Jimi Hendrix
+7. The Who
+8. Elvis Presley
+9. Fleetwood Mac
+10. The Kinks
+11. The Byrds
+12. The Clash
+13. The Cure
+14. Talking Heads
+15. Joy Division
+16. The Smiths
+17. Radiohead
+18. Nirvana
+19. Pearl Jam
+20. Red Hot Chili Peppers
+21. U2
+22. R.E.M.
+23. Oasis
+24. Blur
+25. Arctic Monkeys
+26. The Strokes
+27. Arcade Fire
+28. Vampire Weekend
+29. Tame Impala
+30. The National
+31. LCD Soundsystem
+32. Bon Iver
+33. Florence + The Machine
+34. Hozier
+35. Lana Del Rey
+36. Lorde
+37. Kendrick Lamar
+38. Frank Ocean
+39. Childish Gambino
+40. Arctic Monkeys
+41. The Black Keys
+42. Cage The Elephant
+43. The White Stripes
+44. The Killers
+45. Kings of Leon
+46. Imagine Dragons
+47. Mumford & Sons
+48. Foster The People
+49. The Lumineers
+50. Haim
+
+These recommendations are based on the user's liking of classic rock, classical music, and a diverse range of artists across different genres.

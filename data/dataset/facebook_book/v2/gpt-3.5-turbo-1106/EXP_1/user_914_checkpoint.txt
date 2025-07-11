@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Hobbit by J.R.R. Tolkien
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The Alchemist by Paulo Coelho
+7. The Road by Cormac McCarthy
+8. The Kite Runner by Khaled Hosseini
+9. The Book Thief by Markus Zusak
+10. Brave New World by Aldous Huxley
+11. The Grapes of Wrath by John Steinbeck
+12. One Hundred Years of Solitude by Gabriel Garcia Marquez
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Bell Jar by Sylvia Plath
+15. The Sun Also Rises by Ernest Hemingway
+16. The Secret History by Donna Tartt
+17. The Shadow of the Wind by Carlos Ruiz Zafón
+18. The Handmaid's Tale by Margaret Atwood
+19. The Catcher in the Rye by J.D. Salinger
+20. Lord of the Flies by William Golding
+21. Misery by Stephen King
+22. Ballet Shoes by Noel Streatfeild
+23. Crime and Punishment by Fyodor Dostoyevsky
+24. The Picture of Dorian Gray by Oscar Wilde
+25. Adam by Ted Dekker
+26. The Girl Who Loved Tom Gordon by Stephen King
+27. Jane Eyre by Charlotte Brontë
+28. The Stranger by Albert Camus
+29. The Brothers Karamazov by Fyodor Dostoyevsky
+30. The Road by Cormac McCarthy
+31. The Stand by Stephen King
+32. The Shining by Stephen King
+33. The Martian by Andy Weir
+34. The Night Circus by Erin Morgenstern
+35. The Name of the Wind by Patrick Rothfuss
+36. The Goldfinch by Donna Tartt
+37. The Handmaid's Tale by Margaret Atwood
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Book Thief by Markus Zusak
+41. The Nightingale by Kristin Hannah
+42. The Help by Kathryn Stockett
+43. The Lovely Bones by Alice Sebold
+44. The Hunger Games by Suzanne Collins
+45. The Da Vinci Code by Dan Brown
+46. The Girl on the Train by Paula Hawkins
+47. The Maze Runner by James Dashner
+48. The Fault in Our Stars by John Green
+49. The Perks of Being a Wallflower by Stephen Chbosky
+50. The Giver by Lois Lowry
+
+These recommendations are based on the user's liking for similar genres and themes found in the provided list of books.

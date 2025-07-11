@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Interpol
+3. Placebo
+4. Depeche Mode
+5. Joy Division
+6. Arctic Monkeys
+7. The Smashing Pumpkins
+8. Nine Inch Nails
+9. The Strokes
+10. The Smiths
+11. Blur
+12. New Order
+13. The White Stripes
+14. Gorillaz
+15. The National
+16. The Flaming Lips
+17. Modest Mouse
+18. The Black Keys
+19. The Jesus and Mary Chain
+20. Sonic Youth
+21. The Velvet Underground
+22. The Pixies
+23. The Libertines
+24. The Verve
+25. The Stone Roses
+26. The Charlatans
+27. Suede
+28. Pulp
+29. Echo & the Bunnymen
+30. The Psychedelic Furs
+31. The Horrors
+32. Editors
+33. White Lies
+34. The Raveonettes
+35. The Kills
+36. The Bravery
+37. The Horrors
+38. The Vaccines
+39. The Wombats
+40. The Pigeon Detectives
+41. The Fratellis
+42. The Kooks
+43. The Zutons
+44. The Futureheads
+45. The Cribs
+46. The Maccabees
+47. The Courteeners
+48. The View
+49. The Enemy
+50. The Twang
+
+These recommendations are based on the user's liking of similar artists and genres.

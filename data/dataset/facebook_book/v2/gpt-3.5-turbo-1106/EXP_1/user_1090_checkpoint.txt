@@ -1,0 +1,54 @@
+Based on the preferences of user 1090, here are the top 50 book recommendations:
+
+1. The Glass Castle by Jeannette Walls
+2. Wild: From Lost to Found on the Pacific Crest Trail by Cheryl Strayed
+3. The Bell Jar by Sylvia Plath
+4. Girl, Interrupted by Susanna Kaysen
+5. Prozac Nation by Elizabeth Wurtzel
+6. The Catcher in the Rye by J.D. Salinger
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. Go Ask Alice by Anonymous
+9. Running with Scissors by Augusten Burroughs
+10. A Million Little Pieces by James Frey
+11. The Lovely Bones by Alice Sebold
+12. White Oleander by Janet Fitch
+13. The Virgin Suicides by Jeffrey Eugenides
+14. The Secret Life of Bees by Sue Monk Kidd
+15. The Kite Runner by Khaled Hosseini
+16. The Help by Kathryn Stockett
+17. The Color Purple by Alice Walker
+18. The Joy Luck Club by Amy Tan
+19. The Poisonwood Bible by Barbara Kingsolver
+20. The Handmaid's Tale by Margaret Atwood
+21. The Alchemist by Paulo Coelho
+22. Tuesdays with Morrie by Mitch Albom
+23. The Book Thief by Markus Zusak
+24. The Night Circus by Erin Morgenstern
+25. Water for Elephants by Sara Gruen
+26. The Goldfinch by Donna Tartt
+27. The Secret History by Donna Tartt
+28. The Girl on the Train by Paula Hawkins
+29. Gone Girl by Gillian Flynn
+30. Sharp Objects by Gillian Flynn
+31. Dark Places by Gillian Flynn
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Girl Who Played with Fire by Stieg Larsson
+34. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+35. The Hunger Games by Suzanne Collins
+36. Catching Fire by Suzanne Collins
+37. Mockingjay by Suzanne Collins
+38. Divergent by Veronica Roth
+39. Insurgent by Veronica Roth
+40. Allegiant by Veronica Roth
+41. The Maze Runner by James Dashner
+42. The Scorch Trials by James Dashner
+43. The Death Cure by James Dashner
+44. The Giver by Lois Lowry
+45. Gathering Blue by Lois Lowry
+46. Messenger by Lois Lowry
+47. Son by Lois Lowry
+48. The Fault in Our Stars by John Green
+49. Looking for Alaska by John Green
+50. Paper Towns by John Green
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1090 likes.

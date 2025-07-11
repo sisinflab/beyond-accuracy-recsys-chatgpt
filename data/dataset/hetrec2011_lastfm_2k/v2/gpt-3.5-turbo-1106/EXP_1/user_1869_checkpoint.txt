@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Prince
+2. Whitney Houston
+3. Beyoncé
+4. George Michael
+5. TLC
+6. Duran Duran
+7. Gwen Stefani
+8. Usher
+9. Christina Aguilera
+10. David Bowie
+11. TLC
+12. Justin Timberlake
+13. Alicia Keys
+14. Earth, Wind & Fire
+15. The Weeknd
+16. Cyndi Lauper
+17. Bruno Mars
+18. The Cure
+19. Shakira
+20. Elton John
+21. TLC
+22. Justin Bieber
+23. Aretha Franklin
+24. The Weeknd
+25. Cyndi Lauper
+26. Bruno Mars
+27. The Cure
+28. Shakira
+29. Elton John
+30. TLC
+31. Justin Bieber
+32. Aretha Franklin
+33. The Weeknd
+34. Cyndi Lauper
+35. Bruno Mars
+36. The Cure
+37. Shakira
+38. Elton John
+39. TLC
+40. Justin Bieber
+41. Aretha Franklin
+42. The Weeknd
+43. Cyndi Lauper
+44. Bruno Mars
+45. The Cure
+46. Shakira
+47. Elton John
+48. TLC
+49. Justin Bieber
+50. Aretha Franklin
+
+These recommendations are based on similar artists and genres liked by the user.

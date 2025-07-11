@@ -1,0 +1,54 @@
+Based on user 760's preferences, here are the top-50 recommendations for the given artists:
+
+1. Nirvana
+2. Metallica
+3. Iron Maiden
+4. Black Sabbath
+5. The Who
+6. Aerosmith
+7. Led Zeppelin
+8. The Cure
+9. Alice Cooper
+10. The Velvet Underground
+11. Scorpions
+12. Avenged Sevenfold
+13. Slipknot
+14. Bullet for My Valentine
+15. Deftones
+16. Anthrax
+17. Motörhead
+18. Nightwish
+19. Blind Guardian
+20. In This Moment
+21. Five Finger Death Punch
+22. Municipal Waste
+23. Disturbed
+24. Sepultura
+25. Pantera
+26. Killswitch Engage
+27. Dead by April
+28. Apocalyptica
+29. Avantasia
+30. Mötley Crüe
+31. The Last Shadow Puppets
+32. Franz Ferdinand
+33. Arctic Monkeys
+34. Weezer
+35. Paramore
+36. Blondie
+37. Joan Jett and the Blackhearts
+38. The Doors
+39. Creedence Clearwater Revival
+40. Bob Dylan
+41. The Beatles
+42. Queen
+43. Ramones
+44. Green Day
+45. Red Hot Chili Peppers
+46. Linkin Park
+47. My Chemical Romance
+48. Fall Out Boy
+49. Simple Plan
+50. Oasis
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their music taste.

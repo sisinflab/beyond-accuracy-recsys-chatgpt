@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Terry Pratchett and Neil Gaiman
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Catcher in the Rye by J.D. Salinger
+5. The Glass Castle by Jeannette Walls
+6. The Night Circus by Erin Morgenstern
+7. The Handmaid's Tale by Margaret Atwood
+8. The Goldfinch by Donna Tartt
+9. The Book Thief by Markus Zusak
+10. The Alchemist by Paulo Coelho
+11. The Kite Runner by Khaled Hosseini
+12. To Kill a Mockingbird by Harper Lee
+13. The Great Gatsby by F. Scott Fitzgerald
+14. 1984 by George Orwell
+15. The Girl on the Train by Paula Hawkins
+16. The Help by Kathryn Stockett
+17. The Lovely Bones by Alice Sebold
+18. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+19. The Secret History by Donna Tartt
+20. The Bell Jar by Sylvia Plath
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Road by Cormac McCarthy
+23. The Shadow of the Wind by Carlos Ruiz Zafón
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Giver by Lois Lowry
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Fault in Our Stars by John Green
+28. The Hunger Games by Suzanne Collins
+29. The Martian by Andy Weir
+30. The Da Vinci Code by Dan Brown
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Shining by Stephen King
+33. The Stand by Stephen King
+34. The Road by Cormac McCarthy
+35. The Help by Kathryn Stockett
+36. The Lovely Bones by Alice Sebold
+37. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+38. The Secret History by Donna Tartt
+39. The Bell Jar by Sylvia Plath
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Shadow of the Wind by Carlos Ruiz Zafón
+42. The Time Traveler's Wife by Audrey Niffenegger
+43. The Giver by Lois Lowry
+44. The Perks of Being a Wallflower by Stephen Chbosky
+45. The Fault in Our Stars by John Green
+46. The Hunger Games by Suzanne Collins
+47. The Martian by Andy Weir
+48. The Da Vinci Code by Dan Brown
+49. The Girl with the Dragon Tattoo by Stieg Larsson
+50. The Shining by Stephen King
+
+These recommendations are based on the user's liking for books by Terry Pratchett, David Sedaris, Sue Monk Kidd, Bram Stoker, Raymond Chandler, and Jhumpa Lahiri.

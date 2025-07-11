@@ -1,0 +1,54 @@
+Based on user 147's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. A Farewell to Arms by Ernest Hemingway
+3. Night (book) by Elie Wiesel
+4. The Giver by Lois Lowry
+5. Anthem (novella) by Ayn Rand
+6. Digital Fortress by Dan Brown
+7. Ordinary People (novel) by Judith Guest
+8. The War of the Worlds by H.G. Wells
+9. Grimms' Fairy Tales by Jacob Grimm, Wilhelm Grimm
+10. The Hobbit by J.R.R. Tolkien
+11. The Da Vinci Code by Dan Brown
+12. The Picture of Dorian Gray by Oscar Wilde
+13. A Tale of Two Cities by Charles Dickens
+14. Angels & Demons by Dan Brown
+15. The Adventures of Tom Sawyer by Mark Twain
+16. The Catcher in the Rye by J.D. Salinger
+17. Moby-Dick by Herman Melville
+18. Lord of the Flies by William Golding
+19. A Series of Unfortunate Events by Lemony Snicket
+20. The Twits by Roald Dahl
+21. Harry Potter by J.K. Rowling
+22. Of Mice and Men by John Steinbeck
+23. Nineteen Eighty-Four by George Orwell
+24. The Book Thief by Markus Zusak
+25. To Kill a Mockingbird by Harper Lee
+26. The Bell Jar by Sylvia Plath
+27. Les Misérables by Victor Hugo
+28. A Wrinkle in Time by Madeleine L'Engle
+29. The Iliad by Homer
+30. The Walking Dead (comic book) by Robert Kirkman
+31. The Kane Chronicles by Rick Riordan
+32. The Hamlet by William Faulkner
+33. Romeo and Juliet by William Shakespeare
+34. Number the Stars by Lois Lowry
+35. Oedipus the King by Sophocles
+36. The Awakening (Chopin novel) by Kate Chopin
+37. Crime (novel) by Irvine Welsh
+38. Frindle by Andrew Clements
+39. A Midsummer Night's Dream by William Shakespeare
+40. The Witches (book) by Roald Dahl
+41. Ariel (book) by Sylvia Plath
+42. Ethan Frome by Edith Wharton
+43. Dreamcatcher (novel) by Stephen King
+44. The Wonderful Story of Henry Sugar and Six More by Roald Dahl
+45. Goodnight Moon by Margaret Wise Brown
+46. Chicken Soup for the Soul by Jack Canfield, Mark Victor Hansen
+47. Spring Awakening (play) by Frank Wedekind
+48. Stargirl (novel) by Jerry Spinelli
+49. The Talisman (Scott novel) by Stephen King, Peter Straub
+50. Treasure Island by Robert Louis Stevenson
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user already likes.

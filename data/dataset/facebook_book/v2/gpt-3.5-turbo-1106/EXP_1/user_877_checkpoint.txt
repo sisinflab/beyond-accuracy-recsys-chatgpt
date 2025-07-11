@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Speak by Laurie Halse Anderson
+2. The Perks of Being a Wallflower by Stephen Chbosky
+3. Looking for Alaska by John Green
+4. Th1rteen R3asons Why by Jay Asher
+5. Wintergirls by Laurie Halse Anderson
+6. Willow by Julia Hoban
+7. Identical by Ellen Hopkins
+8. Go Ask Alice by Anonymous
+9. Impulse by Ellen Hopkins
+10. Cut by Patricia McCormick
+11. Identical by Ellen Hopkins
+12. Willow by Julia Hoban
+13. Impulse by Ellen Hopkins
+14. Wintergirls by Laurie Halse Anderson
+15. Go Ask Alice by Anonymous
+16. The Lovely Bones by Alice Sebold
+17. Before I Fall by Lauren Oliver
+18. The Fault in Our Stars by John Green
+19. Paper Towns by John Green
+20. Eleanor & Park by Rainbow Rowell
+21. Fangirl by Rainbow Rowell
+22. The Hate U Give by Angie Thomas
+23. All the Bright Places by Jennifer Niven
+24. It's Kind of a Funny Story by Ned Vizzini
+25. Suicide Notes by Michael Thomas Ford
+26. The Bell Jar by Sylvia Plath
+27. Girl, Interrupted by Susanna Kaysen
+28. Prozac Nation by Elizabeth Wurtzel
+29. The Catcher in the Rye by J.D. Salinger
+30. The Bell Jar by Sylvia Plath
+31. Girl, Interrupted by Susanna Kaysen
+32. Prozac Nation by Elizabeth Wurtzel
+33. The Catcher in the Rye by J.D. Salinger
+34. The Giver by Lois Lowry
+35. Gathering Blue by Lois Lowry
+36. Messenger by Lois Lowry
+37. Son by Lois Lowry
+38. The Hunger Games by Suzanne Collins
+39. Catching Fire by Suzanne Collins
+40. Mockingjay by Suzanne Collins
+41. Divergent by Veronica Roth
+42. Insurgent by Veronica Roth
+43. Allegiant by Veronica Roth
+44. The Maze Runner by James Dashner
+45. The Scorch Trials by James Dashner
+46. The Death Cure by James Dashner
+47. The Book Thief by Markus Zusak
+48. The Perks of Being a Wallflower by Stephen Chbosky
+49. Looking for Alaska by John Green
+50. Th1rteen R3asons Why by Jay Asher
+
+These recommendations are based on the user's interest in young adult fiction, coming-of-age stories, and books with themes of self-discovery and personal struggles.

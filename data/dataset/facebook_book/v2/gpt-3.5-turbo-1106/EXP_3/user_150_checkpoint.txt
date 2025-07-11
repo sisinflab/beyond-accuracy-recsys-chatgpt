@@ -1,0 +1,52 @@
+Based on user 150's preferences, here is a re-ranked list of books into a top-50 recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Great Gatsby by F. Scott Fitzgerald
+3. The Fountainhead by Ayn Rand
+4. The Once and Future King by T. H. White
+5. Don Quixote by Miguel de Cervantes
+6. Water for Elephants by Sara Gruen
+7. The Book of Lost Things by John Connolly (author)
+8. Waiting for Godot by Samuel Beckett
+9. The Hobbit by J.R.R. Tolkien
+10. Brave New World by Aldous Huxley
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. The Name of the Rose by Umberto Eco
+14. The Giver by Lois Lowry
+15. A Tale of Two Cities by Charles Dickens
+16. The Bell Jar by Sylvia Plath
+17. Life of Pi by Yann Martel
+18. Ulysses by James Joyce
+19. The Trial by Franz Kafka
+20. The Lord of the Flies by William Golding
+21. The Fall of the House of Usher by Edgar Allan Poe
+22. The Phantom Tollbooth by Norton Juster
+23. The Castle of Otranto by Horace Walpole
+24. Macbeth by William Shakespeare
+25. The Prophet by Kahlil Gibran
+26. A Wind in the Door by Madeleine L'Engle
+27. A Passage to India by E.M. Forster
+28. The Divine Comedy by Dante Alighieri
+29. Symposium by Plato
+30. Stargirl by Jerry Spinelli
+31. Full Dark, No Stars by Stephen King
+32. Harry Potter by J.K. Rowling
+33. Mrs. Frisby and the Rats of NIMH by Robert C. O'Brien
+34. The Hobbit by J.R.R. Tolkien
+35. A Wind in the Door by Madeleine L'Engle
+36. The Prophet by Kahlil Gibran
+37. The Name of the Rose by Umberto Eco
+38. The Giver by Lois Lowry
+39. The Bell Jar by Sylvia Plath
+40. Life of Pi by Yann Martel
+41. Ulysses by James Joyce
+42. The Trial by Franz Kafka
+43. The Lord of the Flies by William Golding
+44. The Fall of the House of Usher by Edgar Allan Poe
+45. The Phantom Tollbooth by Norton Juster
+46. The Castle of Otranto by Horace Walpole
+47. Macbeth by William Shakespeare
+48. Symposium by Plato
+49. Old Farmer's Almanac
+50. Alice's Adventures in Wonderland

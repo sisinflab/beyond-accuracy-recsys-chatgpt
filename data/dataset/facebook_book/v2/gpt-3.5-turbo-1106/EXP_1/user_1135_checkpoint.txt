@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels & Demons by Dan Brown
+3. The Alchemist by Paulo Coelho
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Catcher in the Rye by J.D. Salinger
+6. To Kill a Mockingbird by Harper Lee
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Hunger Games by Suzanne Collins
+9. Gone Girl by Gillian Flynn
+10. The Lovely Bones by Alice Sebold
+11. The Help by Kathryn Stockett
+12. The Night Circus by Erin Morgenstern
+13. The Goldfinch by Donna Tartt
+14. The Book Thief by Markus Zusak
+15. The Fault in Our Stars by John Green
+16. The Maze Runner by James Dashner
+17. The Secret History by Donna Tartt
+18. The Girl on the Train by Paula Hawkins
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Pillars of the Earth by Ken Follett
+22. The Name of the Wind by Patrick Rothfuss
+23. The Nightingale by Kristin Hannah
+24. The Martian by Andy Weir
+25. The Silent Patient by Alex Michaelides
+26. The Tattooist of Auschwitz by Heather Morris
+27. The Light Between Oceans by M.L. Stedman
+28. The Nightingale by Kristin Hannah
+29. The Help by Kathryn Stockett
+30. The Night Circus by Erin Morgenstern
+31. The Goldfinch by Donna Tartt
+32. The Book Thief by Markus Zusak
+33. The Fault in Our Stars by John Green
+34. The Maze Runner by James Dashner
+35. The Secret History by Donna Tartt
+36. The Girl on the Train by Paula Hawkins
+37. The Time Traveler's Wife by Audrey Niffenegger
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Pillars of the Earth by Ken Follett
+40. The Name of the Wind by Patrick Rothfuss
+41. The Nightingale by Kristin Hannah
+42. The Martian by Andy Weir
+43. The Silent Patient by Alex Michaelides
+44. The Tattooist of Auschwitz by Heather Morris
+45. The Light Between Oceans by M.L. Stedman
+46. The Nightingale by Kristin Hannah
+47. The Help by Kathryn Stockett
+48. The Night Circus by Erin Morgenstern
+49. The Goldfinch by Donna Tartt
+50. The Book Thief by Markus Zusak
+
+These recommendations are based on the user's interest in mystery, thriller, and drama genres, as well as the authors they have previously enjoyed.

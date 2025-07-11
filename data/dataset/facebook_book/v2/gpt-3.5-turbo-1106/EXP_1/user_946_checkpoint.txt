@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. The Picture of Dorian Gray by Oscar Wilde
+3. Dracula by Bram Stoker
+4. The Night Circus by Erin Morgenstern
+5. Rebecca by Daphne du Maurier
+6. The Secret History by Donna Tartt
+7. The Thirteenth Tale by Diane Setterfield
+8. The Shadow of the Wind by Carlos Ruiz Zafón
+9. The Historian by Elizabeth Kostova
+10. The Name of the Wind by Patrick Rothfuss
+11. The Book Thief by Markus Zusak
+12. The Time Traveler's Wife by Audrey Niffenegger
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Goldfinch by Donna Tartt
+15. The Nightingale by Kristin Hannah
+16. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer
+17. The Secret Garden by Frances Hodgson Burnett
+18. Little Women by Louisa May Alcott
+19. The Bell Jar by Sylvia Plath
+20. The Catcher in the Rye by J.D. Salinger
+21. To Kill a Mockingbird by Harper Lee
+22. The Great Gatsby by F. Scott Fitzgerald
+23. 1984 by George Orwell
+24. Animal Farm by George Orwell
+25. The Handmaid's Tale by Margaret Atwood
+26. The Hunger Games by Suzanne Collins
+27. Divergent by Veronica Roth
+28. The Fault in Our Stars by John Green
+29. Gone Girl by Gillian Flynn
+30. Sharp Objects by Gillian Flynn
+31. Dark Places by Gillian Flynn
+32. The Lovely Bones by Alice Sebold
+33. Room by Emma Donoghue
+34. The Help by Kathryn Stockett
+35. The Alchemist by Paulo Coelho
+36. The Kite Runner by Khaled Hosseini
+37. A Thousand Splendid Suns by Khaled Hosseini
+38. The Road by Cormac McCarthy
+39. The Martian by Andy Weir
+40. Ready Player One by Ernest Cline
+41. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+42. The Shining by Stephen King
+43. It by Stephen King
+44. The Stand by Stephen King
+45. The Girl on the Train by Paula Hawkins
+46. Big Little Lies by Liane Moriarty
+47. Eleanor Oliphant Is Completely Fine by Gail Honeyman
+48. Where the Crawdads Sing by Delia Owens
+49. Educated by Tara Westover
+50. Normal People by Sally Rooney
+
+These recommendations are based on the user's interest in classic literature, fantasy, mystery, and contemporary fiction.

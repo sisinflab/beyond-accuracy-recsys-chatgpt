@@ -1,0 +1,54 @@
+Based on the preferences of user 1727, here are the top-50 recommendations for the listed artists:
+
+1. Muse
+2. Radiohead
+3. The Strokes
+4. The White Stripes
+5. Foo Fighters
+6. We Are Scientists
+7. White Lies
+8. The Black Keys
+9. Arctic Monkeys
+10. Kings of Leon
+11. Franz Ferdinand
+12. Interpol
+13. The Killers
+14. LCD Soundsystem
+15. Yeah Yeah Yeahs
+16. Hot Chip
+17. The Futureheads
+18. The Postal Service
+19. The Shins
+20. Modest Mouse
+21. Placebo
+22. Kasabian
+23. Maxïmo Park
+24. Razorlight
+25. Kaiser Chiefs
+26. Feeder
+27. The Fratellis
+28. Wolfmother
+29. Silverchair
+30. The Presets
+31. Biffy Clyro
+32. Korn
+33. Sick Puppies
+34. Three Days Grace
+35. Black Rebel Motorcycle Club
+36. MGMT
+37. Beirut
+38. Fleet Foxes
+39. Grizzly Bear
+40. Florence + the Machine
+41. Snow Patrol
+42. Brandon Flowers
+43. Oasis
+44. Bright Eyes
+45. Beck
+46. Green Day
+47. Weezer
+48. Blur
+49. R.E.M.
+50. The Last Shadow Puppets
+
+These recommendations are based on the similar music preferences of user 1727 and are tailored to their specific tastes.

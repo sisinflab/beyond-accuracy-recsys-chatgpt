@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Pride and Prejudice by Jane Austen
+7. Jane Eyre by Charlotte Bronte
+8. Wuthering Heights by Emily Bronte
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Adventures of Huckleberry Finn by Mark Twain
+11. The Adventures of Tom Sawyer by Mark Twain
+12. Moby-Dick by Herman Melville
+13. The Grapes of Wrath by John Steinbeck
+14. Of Mice and Men by John Steinbeck
+15. East of Eden by John Steinbeck
+16. The Old Man and the Sea by Ernest Hemingway
+17. For Whom the Bell Tolls by Ernest Hemingway
+18. The Sun Also Rises by Ernest Hemingway
+19. One Hundred Years of Solitude by Gabriel Garcia Marquez
+20. Love in the Time of Cholera by Gabriel Garcia Marquez
+21. Crime and Punishment by Fyodor Dostoevsky
+22. The Brothers Karamazov by Fyodor Dostoevsky
+23. War and Peace by Leo Tolstoy
+24. Anna Karenina by Leo Tolstoy
+25. The Count of Monte Cristo by Alexandre Dumas
+26. Les Miserables by Victor Hugo
+27. The Stranger by Albert Camus
+28. The Plague by Albert Camus
+29. The Trial by Franz Kafka
+30. The Metamorphosis by Franz Kafka
+31. The Bell Jar by Sylvia Plath
+32. The Road by Cormac McCarthy
+33. Blood Meridian by Cormac McCarthy
+34. Slaughterhouse-Five by Kurt Vonnegut
+35. Cat's Cradle by Kurt Vonnegut
+36. The Handmaid's Tale by Margaret Atwood
+37. The Testaments by Margaret Atwood
+38. The Road to Wigan Pier by George Orwell
+39. Homage to Catalonia by George Orwell
+40. The Alchemist by Paulo Coelho
+41. One Hundred Years of Solitude by Gabriel Garcia Marquez
+42. Love in the Time of Cholera by Gabriel Garcia Marquez
+43. The Name of the Wind by Patrick Rothfuss
+44. The Wise Man's Fear by Patrick Rothfuss
+45. The Lies of Locke Lamora by Scott Lynch
+46. Red Seas Under Red Skies by Scott Lynch
+47. The Blade Itself by Joe Abercrombie
+48. Before They Are Hanged by Joe Abercrombie
+49. The Lies of Locke Lamora by Scott Lynch
+50. Red Seas Under Red Skies by Scott Lynch
+
+These recommendations are based on the user's interest in classic literature, historical fiction, and fantasy novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Hunger Games by Suzanne Collins
+6. The Book Thief by Markus Zusak
+7. The Fault in Our Stars by John Green
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. The Maze Runner by James Dashner
+10. Divergent by Veronica Roth
+11. The Alchemist by Paulo Coelho
+12. The Giver by Lois Lowry
+13. The Lovely Bones by Alice Sebold
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Help by Kathryn Stockett
+16. The Kite Runner by Khaled Hosseini
+17. Gone Girl by Gillian Flynn
+18. The Night Circus by Erin Morgenstern
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. Water for Elephants by Sara Gruen
+22. The Goldfinch by Donna Tartt
+23. The Girl on the Train by Paula Hawkins
+24. The Martian by Andy Weir
+25. The Handmaid's Tale by Margaret Atwood
+26. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+27. The Shadow of the Wind by Carlos Ruiz Zafón
+28. The Name of the Wind by Patrick Rothfuss
+29. The Nightingale by Kristin Hannah
+30. The Secret History by Donna Tartt
+31. The Glass Castle by Jeannette Walls
+32. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+33. The Road by Cormac McCarthy
+34. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+35. The Poisonwood Bible by Barbara Kingsolver
+36. The Thirteenth Tale by Diane Setterfield
+37. The Art of Racing in the Rain by Garth Stein
+38. The Light Between Oceans by M.L. Stedman
+39. The Invention of Wings by Sue Monk Kidd
+40. The Night Circus by Erin Morgenstern
+41. The Snow Child by Eowyn Ivey
+42. The Nightingale by Kristin Hannah
+43. The Book of Lost Things by John Connolly
+44. The Night Circus by Erin Morgenstern
+45. The Nightingale by Kristin Hannah
+46. The Night Circus by Erin Morgenstern
+47. The Nightingale by Kristin Hannah
+48. The Night Circus by Erin Morgenstern
+49. The Nightingale by Kristin Hannah
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the user's liking for fiction and young adult novels.

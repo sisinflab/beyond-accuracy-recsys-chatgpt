@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Cruel Prince by Holly Black
+2. The Darkest Part of the Forest by Holly Black
+3. White Cat by Holly Black
+4. Red Glove by Holly Black
+5. Black Heart by Holly Black
+6. The Coldest Girl in Coldtown by Holly Black
+7. The Spiderwick Chronicles by Holly Black
+8. The Iron Trial by Holly Black and Cassandra Clare
+9. The Bronze Key by Holly Black and Cassandra Clare
+10. The Silver Mask by Holly Black and Cassandra Clare
+11. The Golden Tower by Holly Black and Cassandra Clare
+12. Alice in the Country of Hearts by Jun Mochizuki
+13. Crimson-Shell by Jun Mochizuki
+14. The Case Study of Vanitas by Jun Mochizuki
+15. The Boyfriend List by E. Lockhart
+16. The Disreputable History of Frankie Landau-Banks by E. Lockhart
+17. We Were Liars by E. Lockhart
+18. Genuine Fraud by E. Lockhart
+19. The Silver Kiss by Annette Curtis Klause
+20. Freaks: Alive, on the Inside! by Annette Curtis Klause
+21. Alien Secrets by Annette Curtis Klause
+22. The Dragon's Pearl by Annette Curtis Klause
+23. Blood and Chocolate by Annette Curtis Klause
+24. The Lake of Dead Languages by Carol Goodman
+25. The Ghost Orchid by Carol Goodman
+26. The Sonnet Lover by Carol Goodman
+27. The Night Villa by Carol Goodman
+28. The Girl in the Locked Room by Mary Downing Hahn
+29. The Doll in the Garden by Mary Downing Hahn
+30. The Old Willis Place by Mary Downing Hahn
+31. Wait Till Helen Comes by Mary Downing Hahn
+32. The Brides of Rollrock Island by Margo Lanagan
+33. Tender Morsels by Margo Lanagan
+34. Sea Hearts by Margo Lanagan
+35. The Host by Stephenie Meyer
+36. The Chemist by Stephenie Meyer
+37. The Twilight Saga by Stephenie Meyer
+38. Jane Eyre by Charlotte Brontë
+39. Wuthering Heights by Emily Brontë
+40. Agnes Grey by Anne Brontë
+41. The Tenant of Wildfell Hall by Anne Brontë
+42. Dracula by Bram Stoker
+43. Interview with the Vampire by Anne Rice
+44. Let the Right One In by John Ajvide Lindqvist
+45. Sunshine by Robin McKinley
+46. Vampire Academy by Richelle Mead
+47. Marked by P.C. Cast and Kristin Cast
+48. Blue Bloods by Melissa de la Cruz
+49. Evernight by Claudia Gray
+50. Glass Houses by Rachel Caine
+
+These recommendations are based on similar themes, genres, and authors to the books liked by user 673.

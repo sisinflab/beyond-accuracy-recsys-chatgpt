@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1375:
+
+1. Tool
+2. Red Hot Chili Peppers
+3. Coheed and Cambria
+4. The Who
+5. Joy Division
+6. Miles Davis
+7. Cat Stevens
+8. Yes
+9. Ólafur Arnalds
+10. Fleetwood Mac
+11. John Mayer
+12. Death Cab for Cutie
+13. Lily Allen
+14. Enter Shikari
+15. Manu Chao
+16. Syd Barrett
+17. Brian Eno
+18. Nick Drake
+19. Eagles
+20. Jack Johnson
+21. Kings of Leon
+22. Depeche Mode
+23. Talk Talk
+24. Led Zeppelin
+25. Thom Yorke
+26. Camel
+27. Eric Clapton
+28. IAMX
+29. Frank Sinatra
+30. David Gilmour
+31. Roger Waters
+32. Czesław Śpiewa
+33. Sigur Rós
+34. The Cure
+35. Iron Maiden
+36. The Doors
+37. Slayer
+38. Skid Row
+39. The Beatles
+40. Stereophonics
+41. Mindless Self Indulgence
+42. Jimi Hendrix
+43. Crystal Castles
+44. King Crimson
+45. Joe Satriani
+46. Dire Straits
+47. The Birthday Massacre
+48. Captain Beefheart & His Magic Band
+49. Manu Chao
+50. Underoath
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

@@ -1,0 +1,54 @@
+Based on user 1832's preferences, here are the top-50 recommendations:
+
+1. Radiohead
+2. The Who
+3. Queen
+4. Björk
+5. Fiona Apple
+6. Adele
+7. Sigur Rós
+8. Tom Waits
+9. Alicia Keys
+10. My Chemical Romance
+11. The Mamas & The Papas
+12. Tori Amos
+13. Sarah Brightman
+14. Duffy
+15. Leona Lewis
+16. Kate Bush
+17. Bright Eyes
+18. Cobra Starship
+19. Chiodos
+20. Cute Is What We Aim For
+21. Ulrich Schnauss
+22. Boards of Canada
+23. McFly
+24. Lamb
+25. Lara Fabian
+26. Céline Dion
+27. Laura Marling
+28. Tarja
+29. Sarah McLachlan
+30. Britney Spears
+31. Ashlee Simpson
+32. Avril Lavigne
+33. Black Eyed Peas
+34. Lupe Fiasco
+35. Lily Allen
+36. Bonobo
+37. Rihanna
+38. Maria Rita
+39. Era
+40. Sia
+41. Kate Nash
+42. Marina & the Diamonds
+43. Fresno
+44. Boys Like Girls
+45. Paramore
+46. The Yardbirds
+47. Foo Fighters
+48. Bon Iver
+49. The Cranberries
+50. The Cardigans
+
+These recommendations are based on similar genres and artists liked by user 1832.

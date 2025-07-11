@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. The White Stripes
+3. The Black Keys
+4. Tame Impala
+5. Vampire Weekend
+6. The Kooks
+7. The Vaccines
+8. The Wombats
+9. Foster the People
+10. Two Door Cinema Club
+11. The 1975
+12. Cage The Elephant
+13. The Neighbourhood
+14. The Lumineers
+15. Phoenix
+16. The National
+17. Foals
+18. The War on Drugs
+19. Portugal. The Man
+20. Alt-J
+21. Hozier
+22. Florence + The Machine
+23. Bastille
+24. Imagine Dragons
+25. The xx
+26. MGMT
+27. Silversun Pickups
+28. Death Cab for Cutie
+29. The Shins
+30. Modest Mouse
+31. Spoon
+32. Franz Ferdinand
+33. Interpol
+34. The Strokes
+35. Moptop
+36. Los Hermanos
+37. The Libertines
+38. The Fratellis
+39. The Killers
+40. Radiohead
+41. Kings of Leon
+42. Placebo
+43. Queens of the Stone Age
+44. The Beatles
+45. Vanguart
+46. Ramones
+47. Foo Fighters
+48. The Hives
+49. Jet
+50. Matanza
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music that aligns with their preferences.

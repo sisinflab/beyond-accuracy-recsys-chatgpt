@@ -1,0 +1,54 @@
+Based on user 453's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Maze Runner by James Dashner
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. The Giver by Lois Lowry
+8. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+9. The Book Thief by Markus Zusak
+10. The Mortal Instruments series by Cassandra Clare
+11. The Selection by Kiera Cass
+12. The 5th Wave by Rick Yancey
+13. Delirium by Lauren Oliver
+14. Uglies by Scott Westerfeld
+15. The Darkest Minds by Alexandra Bracken
+16. The Lunar Chronicles by Marissa Meyer
+17. The Raven Cycle series by Maggie Stiefvater
+18. The Infernal Devices series by Cassandra Clare
+19. Shiver by Maggie Stiefvater
+20. The Night Circus by Erin Morgenstern
+21. The Name of the Wind by Patrick Rothfuss
+22. The Alchemist by Paulo Coelho
+23. The Secret History by Donna Tartt
+24. The Goldfinch by Donna Tartt
+25. The Shadow of the Wind by Carlos Ruiz Zafón
+26. The Nightingale by Kristin Hannah
+27. The Light Between Oceans by M.L. Stedman
+28. The Night Circus by Erin Morgenstern
+29. The Book of Lost Things by John Connolly
+30. The Thirteenth Tale by Diane Setterfield
+31. The Snow Child by Eowyn Ivey
+32. The Nightingale by Kristin Hannah
+33. The Night Circus by Erin Morgenstern
+34. The Book of Lost Things by John Connolly
+35. The Thirteenth Tale by Diane Setterfield
+36. The Snow Child by Eowyn Ivey
+37. The Nightingale by Kristin Hannah
+38. The Night Circus by Erin Morgenstern
+39. The Book of Lost Things by John Connolly
+40. The Thirteenth Tale by Diane Setterfield
+41. The Snow Child by Eowyn Ivey
+42. The Nightingale by Kristin Hannah
+43. The Night Circus by Erin Morgenstern
+44. The Book of Lost Things by John Connolly
+45. The Thirteenth Tale by Diane Setterfield
+46. The Snow Child by Eowyn Ivey
+47. The Nightingale by Kristin Hannah
+48. The Night Circus by Erin Morgenstern
+49. The Book of Lost Things by John Connolly
+50. The Thirteenth Tale by Diane Setterfield
+
+These recommendations are based on the user's preference for young adult fiction, fantasy, and romance novels.

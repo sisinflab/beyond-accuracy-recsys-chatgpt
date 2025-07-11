@@ -1,0 +1,14 @@
+Based on the user's preferences for action and crime movies, as well as their high ratings for movies like "Snatch" and "Lock, Stock & Two Smoking Barrels," I would recommend the following movies to user 55:
+
+1. Pulp Fiction (1994)
+2. Fight Club (1999)
+3. The Godfather (1972)
+4. The Godfather: Part II (1974)
+5. Goodfellas (1990)
+6. Casino (1995)
+7. The Usual Suspects (1995)
+8. Inception (2010)
+9. The Shawshank Redemption (1994)
+10. The Departed (2006)
+
+These movies are known for their intense action, crime elements, and compelling storytelling, which align with the user's preferences.

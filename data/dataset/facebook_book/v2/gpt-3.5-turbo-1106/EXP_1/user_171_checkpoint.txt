@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Guilty Pleasures by Laurell K. Hamilton
+2. Obsidian Butterfly by Laurell K. Hamilton
+3. Narcissus in Chains by Laurell K. Hamilton
+4. Incubus Dreams by Laurell K. Hamilton
+5. The Killing Dance by Laurell K. Hamilton
+6. Blue Moon by Laurell K. Hamilton
+7. The Harlequin by Laurell K. Hamilton
+8. Skin Trade by Laurell K. Hamilton
+9. Bullet by Laurell K. Hamilton
+10. Hit List by Laurell K. Hamilton
+11. Kiss the Dead by Laurell K. Hamilton
+12. Affliction by Laurell K. Hamilton
+13. Jason by Laurell K. Hamilton
+14. Dead Ice by Laurell K. Hamilton
+15. Crimson Death by Laurell K. Hamilton
+16. Serpentine by Laurell K. Hamilton
+17. Sucker Punch by Laurell K. Hamilton
+18. A Lick of Frost by Laurell K. Hamilton
+19. Swallowing Darkness by Laurell K. Hamilton
+20. Divine Misdemeanors by Laurell K. Hamilton
+21. A Shiver of Light by Laurell K. Hamilton
+22. Dead Witch Walking by Kim Harrison
+23. Every Which Way But Dead by Kim Harrison
+24. The Good, the Bad, and the Undead by Kim Harrison
+25. A Fistful of Charms by Kim Harrison
+26. For a Few Demons More by Kim Harrison
+27. White Witch, Black Curse by Kim Harrison
+28. Black Magic Sanction by Kim Harrison
+29. Pale Demon by Kim Harrison
+30. A Perfect Blood by Kim Harrison
+31. Ever After by Kim Harrison
+32. The Undead Pool by Kim Harrison
+33. The Witch with No Name by Kim Harrison
+34. Dead Witch Walking by Kim Harrison
+35. The Outlaw Demon Wails by Kim Harrison
+36. White Witch, Black Curse by Kim Harrison
+37. Black Magic Sanction by Kim Harrison
+38. Pale Demon by Kim Harrison
+39. A Perfect Blood by Kim Harrison
+40. Ever After by Kim Harrison
+41. The Undead Pool by Kim Harrison
+42. The Witch with No Name by Kim Harrison
+43. Dead Witch Walking by Kim Harrison
+44. The Outlaw Demon Wails by Kim Harrison
+45. White Witch, Black Curse by Kim Harrison
+46. Black Magic Sanction by Kim Harrison
+47. Pale Demon by Kim Harrison
+48. A Perfect Blood by Kim Harrison
+49. Ever After by Kim Harrison
+50. The Undead Pool by Kim Harrison
+
+These recommendations are based on the user's preference for books by Laurell K. Hamilton and similar authors.

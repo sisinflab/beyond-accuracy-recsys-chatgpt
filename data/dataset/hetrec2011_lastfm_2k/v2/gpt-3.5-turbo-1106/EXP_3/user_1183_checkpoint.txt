@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the re-ranked top-50 recommendations:
+
+1. Pierce the Veil
+2. Underoath
+3. Avenged Sevenfold
+4. A Skylit Drive
+5. Asking Alexandria
+6. Escape The Fate
+7. Bullet for My Valentine
+8. Lamb of God
+9. Bring Me The Horizon
+10. blessthefall
+11. From First to Last
+12. A Day to Remember
+13. Eyes Set to Kill
+14. Senses Fail
+15. Suicide Silence
+16. 36 Crazyfists
+17. Silverstein
+18. The Used
+19. Funeral for a Friend
+20. The Devil Wears Prada
+21. Chiodos
+22. Emmure
+23. Attack Attack!
+24. Lostprophets
+25. Saosin
+26. Emarosa
+27. Alesana
+28. Finch
+29. blink-182
+30. NOFX
+31. Sepultura
+32. Slipknot
+33. Good Charlotte
+34. The All-American Rejects
+35. Simple Plan
+36. New Found Glory
+37. Green Day
+38. Boys Like Girls
+39. Metro Station
+40. Hey Monday
+41. The Veronicas
+42. Avril Lavigne
+43. Lady Gaga
+44. Lights
+45. Tokio Hotel
+46. Nine Inch Nails
+47. Hollywood Undead
+48. Atreyu
+49. Black Veil Brides
+50. Paramore
+
+These recommendations are based on the user's existing preferences and are aimed at providing similar artists that the user may enjoy.

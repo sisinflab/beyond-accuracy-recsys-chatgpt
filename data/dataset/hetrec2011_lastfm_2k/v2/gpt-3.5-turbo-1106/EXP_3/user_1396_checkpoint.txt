@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1396:
+
+1. Judas Priest
+2. Deep Purple
+3. Dio
+4. Rainbow
+5. Whitesnake
+6. Lynyrd Skynyrd
+7. Aerosmith
+8. Scorpions
+9. Bon Jovi
+10. KISS
+11. Rammstein
+12. System of a Down
+13. Sepultura
+14. Avantasia
+15. Helloween
+16. Kamelot
+17. Blind Guardian
+18. Edguy
+19. CRASHDÏET
+20. Children of Bodom
+21. In Flames
+22. Bathory
+23. Vader
+24. Morbid Angel
+25. Machine Head
+26. Iced Earth
+27. Sonata Arctica
+28. Amon Amarth
+29. Dream Theater
+30. Soilwork
+31. Alice in Chains
+32. Red Hot Chili Peppers
+33. Stratovarius
+34. Ratt
+35. Guns N' Roses
+36. Ayreon
+37. Misfits
+38. Bruce Dickinson
+39. Def Leppard
+40. Tenacious D
+41. Mötley Crüe
+42. Interpol
+43. Foo Fighters
+44. Rage Against the Machine
+45. Porcupine Tree
+46. Depeche Mode
+47. The Cult
+48. The Offspring
+49. The Black Crowes
+50. The White Stripes
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and bands that align with their musical tastes.

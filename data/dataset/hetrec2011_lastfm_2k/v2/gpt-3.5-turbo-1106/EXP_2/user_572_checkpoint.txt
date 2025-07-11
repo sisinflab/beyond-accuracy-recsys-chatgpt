@@ -1,0 +1,54 @@
+Based on user 572's preferences, here are the top-50 recommendations:
+
+1. Lady Gaga
+2. Madonna
+3. Britney Spears
+4. Rihanna
+5. Katy Perry
+6. Beyoncé
+7. Shakira
+8. Christina Aguilera
+9. Kylie Minogue
+10. Ladyhawke
+11. Ellie Goulding
+12. Adele
+13. Glee Cast
+14. Black Eyed Peas
+15. Taylor Swift
+16. Miley Cyrus
+17. Jennifer Lopez
+18. Enrique Iglesias
+19. Nelly Furtado
+20. Mariah Carey
+21. Sophie Ellis-Bextor
+22. Girls Aloud
+23. Hurts
+24. Calvin Harris
+25. Pet Shop Boys
+26. Empire of the Sun
+27. Scissor Sisters
+28. Duffy
+29. The Killers
+30. RBD
+31. Sophie Ellis-Bextor
+32. Girls Aloud
+33. Lindsay Lohan
+34. Hurts
+35. Mariah Carey
+36. Ashley Tisdale
+37. Ladyhawke
+38. Beyoncé
+39. Miley Cyrus
+40. Adele
+41. Pet Shop Boys
+42. Enrique Iglesias
+43. Glee Cast
+44. Anahí
+45. Hilary Duff
+46. Taylor Swift
+47. Nelly Furtado
+48. Brooke Hogan
+49. Empire of the Sun
+50. Calvin Harris
+
+These recommendations are based on the user's liking of similar artists and are re-ranked to reflect their preferences.

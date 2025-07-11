@@ -1,0 +1,54 @@
+Based on the preferences of user 397, here are the top 50 book recommendations:
+
+1. The House on Mango Street by Sandra Cisneros
+2. The Joy Luck Club by Amy Tan
+3. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+4. The Color Purple by Alice Walker
+5. The House of the Spirits by Isabel Allende
+6. Like Water for Chocolate by Laura Esquivel
+7. The Alchemist by Paulo Coelho
+8. The Kite Runner by Khaled Hosseini
+9. The Namesake by Jhumpa Lahiri
+10. The Glass Castle by Jeannette Walls
+11. The Poisonwood Bible by Barbara Kingsolver
+12. The Secret Life of Bees by Sue Monk Kidd
+13. The Night Circus by Erin Morgenstern
+14. The Time Traveler's Wife by Audrey Niffenegger
+15. The Book Thief by Markus Zusak
+16. The Help by Kathryn Stockett
+17. The Goldfinch by Donna Tartt
+18. The Girl on the Train by Paula Hawkins
+19. The Lovely Bones by Alice Sebold
+20. The Hunger Games by Suzanne Collins
+21. The Fault in Our Stars by John Green
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Catcher in the Rye by J.D. Salinger
+24. The Bell Jar by Sylvia Plath
+25. The Great Gatsby by F. Scott Fitzgerald
+26. To Kill a Mockingbird by Harper Lee
+27. 1984 by George Orwell
+28. Brave New World by Aldous Huxley
+29. Fahrenheit 451 by Ray Bradbury
+30. The Handmaid's Tale by Margaret Atwood
+31. The Road by Cormac McCarthy
+32. The Martian by Andy Weir
+33. Ready Player One by Ernest Cline
+34. Ender's Game by Orson Scott Card
+35. Dune by Frank Herbert
+36. Neuromancer by William Gibson
+37. Snow Crash by Neal Stephenson
+38. The Left Hand of Darkness by Ursula K. Le Guin
+39. The Dispossessed by Ursula K. Le Guin
+40. Kindred by Octavia E. Butler
+41. Parable of the Sower by Octavia E. Butler
+42. The Fifth Season by N.K. Jemisin
+43. Ancillary Justice by Ann Leckie
+44. The Three-Body Problem by Cixin Liu
+45. Hyperion by Dan Simmons
+46. Red Mars by Kim Stanley Robinson
+47. Old Man's War by John Scalzi
+48. Altered Carbon by Richard K. Morgan
+49. The Windup Girl by Paolo Bacigalupi
+50. The City & The City by China Miéville
+
+These recommendations are based on the user's preference for literary fiction, coming-of-age stories, and novels with strong female protagonists.

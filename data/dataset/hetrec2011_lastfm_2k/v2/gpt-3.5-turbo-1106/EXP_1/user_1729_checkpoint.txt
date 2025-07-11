@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arcade Fire
+2. Modest Mouse
+3. The Strokes
+4. Tame Impala
+5. Arctic Monkeys
+6. Vampire Weekend
+7. Spoon
+8. The War on Drugs
+9. Beach House
+10. The Flaming Lips
+11. LCD Soundsystem
+12. The Shins
+13. Yeah Yeah Yeahs
+14. The Black Keys
+15. Broken Social Scene
+16. The Decemberists
+17. Sufjan Stevens
+18. Wilco
+19. The White Stripes
+20. Belle and Sebastian
+21. Death Cab for Cutie
+22. The Smiths
+23. Bloc Party
+24. The Jesus and Mary Chain
+25. Sonic Youth
+26. The xx
+27. Grizzly Bear
+28. Animal Collective
+29. Spoon
+30. The National
+31. The Antlers
+32. Explosions in the Sky
+33. Yo La Tengo
+34. The Velvet Underground
+35. The Flaming Lips
+36. The Postal Service
+37. The New Pornographers
+38. The Walkmen
+39. The Hold Steady
+40. The Mountain Goats
+41. Frightened Rabbit
+42. The Thermals
+43. The Wrens
+44. The Weakerthans
+45. Okkervil River
+46. Cursive
+47. The Twilight Sad
+48. The Pains of Being Pure at Heart
+49. The Joy Formidable
+50. The Raveonettes
+
+These recommendations are based on the user's liking of similar artists and genres.

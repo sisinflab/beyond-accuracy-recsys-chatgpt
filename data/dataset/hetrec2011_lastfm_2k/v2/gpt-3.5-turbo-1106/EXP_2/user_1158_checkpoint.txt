@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Paramore
+2. My Chemical Romance
+3. Linkin Park
+4. Avenged Sevenfold
+5. In This Moment
+6. Escape The Fate
+7. Bullet for My Valentine
+8. HIM
+9. Lacuna Coil
+10. In Flames
+11. Saosin
+12. blessthefall
+13. Atreyu
+14. Anberlin
+15. Good Charlotte
+16. Scary Kids Scaring Kids
+17. Haste the Day
+18. Red
+19. Maroon 5
+20. The 69 Eyes
+21. The Killers
+22. Muse
+23. 30 Seconds to Mars
+24. Green Day
+25. Nirvana
+26. Metallica
+27. Iron Maiden
+28. Pearl Jam
+29. System of a Down
+30. Nine Inch Nails
+31. Evanescence
+32. Glee Cast
+33. Lady Gaga
+34. Katy Perry
+35. Rihanna
+36. Britney Spears
+37. Christina Aguilera
+38. Madonna
+39. Shakira
+40. Beyoncé
+41. Kelly Clarkson
+42. P!nk
+43. Miley Cyrus
+44. Taylor Swift
+45. Avril Lavigne
+46. Black Eyed Peas
+47. Coldplay
+48. U2
+49. The Beatles
+50. Michael Jackson
+
+This re-ranked list is based on the user's liking of similar artists and may not perfectly align with their preferences.

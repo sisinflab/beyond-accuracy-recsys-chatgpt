@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Korn
+2. Avenged Sevenfold
+3. Five Finger Death Punch
+4. Breaking Benjamin
+5. Deftones
+6. Chevelle
+7. Three Days Grace
+8. Seether
+9. Shinedown
+10. Disturbed
+11. Papa Roach
+12. Linkin Park
+13. Staind
+14. P.O.D.
+15. Godsmack
+16. Trivium
+17. Mudvayne
+18. Static-X
+19. In This Moment
+20. Motionless In White
+21. Lacuna Coil
+22. Halestorm
+23. Skillet
+24. Crossfade
+25. Rise Against
+26. Serj Tankian
+27. Drop Dead, Gorgeous
+28. blessthefall
+29. Bullet for My Valentine
+30. Alesana
+31. Scars on Broadway
+32. Saliva
+33. Fort Minor
+34. Bring Me The Horizon
+35. The Used
+36. My Chemical Romance
+37. Paramore
+38. Jack's Mannequin
+39. Flyleaf
+40. Jimmy Eat World
+41. Rage Against the Machine
+42. Haste the Day
+43. Tool
+44. Marilyn Manson
+45. Slipknot
+46. System of a Down
+47. 36 Crazyfists
+48. Atreyu
+49. Stone Sour
+50. The Pretty Reckless
+
+These recommendations are based on the user's liking of similar artists and genres.

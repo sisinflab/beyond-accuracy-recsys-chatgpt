@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Killers
+2. Florence + The Machine
+3. Franz Ferdinand
+4. The Black Keys
+5. Arcade Fire
+6. The Libertines
+7. Vampire Weekend
+8. The Smashing Pumpkins
+9. The Strokes
+10. The Cranberries
+11. Duran Duran
+12. Tears for Fears
+13. The Kooks
+14. Paramore
+15. The Ting Tings
+16. Blur
+17. Lady Gaga
+18. Cansei de Ser Sexy
+19. Queen
+20. Billy Idol
+21. Madonna
+22. Legião Urbana
+23. Fall Out Boy
+24. Yeah Yeah Yeahs
+25. Los Hermanos
+26. The White Stripes
+27. The xx
+28. Oasis
+29. Jet
+30. No Doubt
+31. Roxette
+32. U2
+33. The Verve
+34. The Cure
+35. Depeche Mode
+36. New Order
+37. Joy Division
+38. The Smiths
+39. Talking Heads
+40. R.E.M.
+41. The Police
+42. The Clash
+43. Blondie
+44. The Cure
+45. Depeche Mode
+46. New Order
+47. Joy Division
+48. The Smiths
+49. Talking Heads
+50. R.E.M.
+
+These recommendations are based on the user's liking of alternative and rock artists and bands.

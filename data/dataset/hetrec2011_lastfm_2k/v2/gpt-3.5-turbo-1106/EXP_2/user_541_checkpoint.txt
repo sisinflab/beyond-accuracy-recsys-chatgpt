@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 541:
+
+1. Pink Floyd
+2. Led Zeppelin
+3. The Beatles
+4. Metallica
+5. Black Sabbath
+6. The Rolling Stones
+7. Jimi Hendrix
+8. The Who
+9. David Gilmour
+10. Roger Waters
+11. Syd Barrett
+12. Jethro Tull
+13. King Crimson
+14. Alice in Chains
+15. Black Eyed Peas
+16. Nirvana
+17. The Doors
+18. Eric Clapton
+19. Grand Funk Railroad
+20. Creedence Clearwater Revival
+21. Lynyrd Skynyrd
+22. The Velvet Underground
+23. Rage Against the Machine
+24. Stevie Ray Vaughan
+25. Guns N' Roses
+26. R.E.M.
+27. Morcheeba
+28. Dire Straits
+29. Neil Young
+30. Jefferson Airplane
+31. CAKE
+32. Os Mutantes
+33. Lenine
+34. Britney Spears
+35. Depeche Mode
+36. Lady Gaga
+37. Christina Aguilera
+38. Paramore
+39. Madonna
+40. Rihanna
+41. Shakira
+42. Katy Perry
+43. Avril Lavigne
+44. Taylor Swift
+45. Evanescence
+46. Glee Cast
+47. Beyoncé
+48. U2
+49. 30 Seconds to Mars
+50. Muse
+
+These recommendations are based on the user's liking of similar artists and are ranked accordingly.

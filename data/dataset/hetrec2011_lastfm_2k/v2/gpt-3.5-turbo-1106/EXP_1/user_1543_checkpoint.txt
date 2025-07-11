@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Symphony X
+2. Helloween
+3. Angra
+4. Blind Guardian
+5. Stratovarius
+6. Rhapsody of Fire
+7. Avantasia
+8. Nightwish
+9. Sonata Arctica
+10. Epica
+11. Sabaton
+12. Amorphis
+13. Ayreon
+14. Sirenia
+15. Within Temptation
+16. Gamma Ray
+17. Iced Earth
+18. Sonata Arctica
+19. Tarja
+20. Delain
+21. Kamelot
+22. Queensrÿche
+23. Legião Urbana
+24. Infected Mushroom
+25. Iron Maiden
+26. Los Hermanos
+27. Edguy
+28. Dream Theater
+29. Metallica
+30. Megadeth
+31. Judas Priest
+32. Black Sabbath
+33. Dio
+34. Scorpions
+35. Accept
+36. Motorhead
+37. Saxon
+38. UFO
+39. Rainbow
+40. Deep Purple
+41. Whitesnake
+42. Def Leppard
+43. Bon Jovi
+44. Guns N' Roses
+45. Aerosmith
+46. Van Halen
+47. AC/DC
+48. Led Zeppelin
+49. Pink Floyd
+50. The Rolling Stones
+
+These recommendations are based on the user's liking of similar artists and are tailored to their music preferences.

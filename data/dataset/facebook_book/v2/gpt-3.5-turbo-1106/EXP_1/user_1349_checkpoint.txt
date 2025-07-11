@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+2. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+3. The Devil in the White City by Erik Larson
+4. The Glass Castle by Jeannette Walls
+5. Into the Wild by Jon Krakauer
+6. The Road by Cormac McCarthy
+7. The Kite Runner by Khaled Hosseini
+8. The Book Thief by Markus Zusak
+9. The Alchemist by Paulo Coelho
+10. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+11. The Poisonwood Bible by Barbara Kingsolver
+12. The Secret Life of Bees by Sue Monk Kidd
+13. The Lovely Bones by Alice Sebold
+14. The Help by Kathryn Stockett
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Hunger Games by Suzanne Collins
+17. The Catcher in the Rye by J.D. Salinger
+18. The Great Gatsby by F. Scott Fitzgerald
+19. To Kill a Mockingbird by Harper Lee
+20. 1984 by George Orwell
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Martian by Andy Weir
+23. The Handmaid's Tale by Margaret Atwood
+24. The Night Circus by Erin Morgenstern
+25. The Goldfinch by Donna Tartt
+26. The Fault in Our Stars by John Green
+27. The Girl on the Train by Paula Hawkins
+28. The Silent Patient by Alex Michaelides
+29. The Da Vinci Code by Dan Brown
+30. The Girl Who Played with Fire by Stieg Larsson
+31. The Road to Little Dribbling by Bill Bryson
+32. The Stranger Beside Me by Ann Rule
+33. The Executioner's Song by Norman Mailer
+34. The Brothers Karamazov by Fyodor Dostoyevsky
+35. One Hundred Years of Solitude by Gabriel Garcia Marquez
+36. The Catcher Was a Spy by Nicholas Dawidoff
+37. The Lost City of Z by David Grann
+38. The Orchid Thief by Susan Orlean
+39. The Professor and the Madman by Simon Winchester
+40. The Year of Living Danishly by Helen Russell
+41. The Glass Universe by Dava Sobel
+42. The Wright Brothers by David McCullough
+43. The Boys in the Boat by Daniel James Brown
+44. The Immortal Irishman by Timothy Egan
+45. The River of Doubt by Candice Millard
+46. The Lost City of the Monkey God by Douglas Preston
+47. The Lost City of the Monkey God by Douglas Preston
+48. The Lost City of the Monkey God by Douglas Preston
+49. The Lost City of the Monkey God by Douglas Preston
+50. The Lost City of the Monkey God by Douglas Preston
+
+These recommendations are based on the user's interest in non-fiction, historical, and biographical books, as well as some classic and contemporary fiction.

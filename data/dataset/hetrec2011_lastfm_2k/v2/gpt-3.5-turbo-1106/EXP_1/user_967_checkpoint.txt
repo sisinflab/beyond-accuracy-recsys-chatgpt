@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smiths
+2. Arctic Monkeys
+3. The Strokes
+4. The Killers
+5. Radiohead
+6. Weezer
+7. The White Stripes
+8. Modest Mouse
+9. Death Cab for Cutie
+10. Franz Ferdinand
+11. Bloc Party
+12. The Kooks
+13. Vampire Weekend
+14. The Shins
+15. Spoon
+16. Phoenix
+17. Yeah Yeah Yeahs
+18. Interpol
+19. The National
+20. Arcade Fire
+21. The Black Keys
+22. Tame Impala
+23. Foals
+24. MGMT
+25. Foster the People
+26. Two Door Cinema Club
+27. The Vaccines
+28. Bombay Bicycle Club
+29. The Wombats
+30. Catfish and the Bottlemen
+31. The 1975
+32. HAIM
+33. CHVRCHES
+34. Bastille
+35. Imagine Dragons
+36. Cage the Elephant
+37. Young the Giant
+38. Grouplove
+39. Silversun Pickups
+40. The Neighbourhood
+41. The Naked and Famous
+42. Passion Pit
+43. Walk the Moon
+44. Foster the People
+45. The Lumineers
+46. Of Monsters and Men
+47. Florence + The Machine
+48. Hozier
+49. Vance Joy
+50. Lorde
+
+These recommendations are based on the user's liking of indie, alternative, and rock bands, and are aimed at providing a diverse range of similar artists for the user to explore.

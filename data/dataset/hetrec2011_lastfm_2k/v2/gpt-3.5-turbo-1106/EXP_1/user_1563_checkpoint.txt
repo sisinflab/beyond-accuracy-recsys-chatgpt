@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Mecano
+2. Alejandro Sanz
+3. Luis Miguel
+4. Christina Aguilera
+5. Ricardo Arjona
+6. Enrique Iglesias
+7. Laura Pausini
+8. Ricky Martin
+9. Thalía
+10. Chayanne
+11. David Bisbal
+12. Ana Gabriel
+13. Maná
+14. Gloria Estefan
+15. Carlos Vives
+16. Juan Gabriel
+17. Ricardo Montaner
+18. Camila
+19. Sin Bandera
+20. Rosario
+21. Natalia Lafourcade
+22. Diego Torres
+23. Julieta Venegas
+24. Jesse & Joy
+25. Ha*Ash
+26. Sinéad O'Connor
+27. Alanis Morissette
+28. Celine Dion
+29. Sarah Brightman
+30. Enya
+31. Andrea Bocelli
+32. Il Divo
+33. Luciano Pavarotti
+34. Plácido Domingo
+35. José Carreras
+36. Sarah McLachlan
+37. Tori Amos
+38. Enigma
+39. Yanni
+40. Vangelis
+41. Loreena McKennitt
+42. Clannad
+43. Dead Can Dance
+44. Lisa Gerrard
+45. Hans Zimmer
+46. John Williams
+47. Howard Shore
+48. Ennio Morricone
+49. James Horner
+50. Thomas Newman
+
+These recommendations are based on the user's liking of artists and are aimed at providing a diverse range of similar and related artists across different genres and styles.

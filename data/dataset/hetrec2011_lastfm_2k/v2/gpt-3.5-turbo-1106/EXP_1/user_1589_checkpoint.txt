@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bullet for My Valentine
+2. AFI
+3. Coheed and Cambria
+4. Bring Me the Horizon
+5. Thrice
+6. The Used
+7. Anberlin
+8. Parkway Drive
+9. As I Lay Dying
+10. A Day to Remember
+11. The Devil Wears Prada
+12. Underoath
+13. Silverstein
+14. At the Drive-In
+15. Taking Back Sunday
+16. My Chemical Romance
+17. The Amity Affliction
+18. Alexisonfire
+19. Every Time I Die
+20. Norma Jean
+21. Glassjaw
+22. Finch
+23. Senses Fail
+24. Story of the Year
+25. Thursday
+26. Emery
+27. From Autumn to Ashes
+28. Haste the Day
+29. Poison the Well
+30. The Bled
+31. Chiodos
+32. Scary Kids Scaring Kids
+33. Saosin
+34. Silverchair
+35. The Receiving End of Sirens
+36. Circa Survive
+37. Brand New
+38. The Mars Volta
+39. At the Drive-In
+40. Thursday
+41. Glassjaw
+42. Finch
+43. Senses Fail
+44. Story of the Year
+45. Emery
+46. From Autumn to Ashes
+47. Haste the Day
+48. Poison the Well
+49. The Bled
+50. Chiodos
+
+These recommendations are based on the user's liking of similar artists and genres.

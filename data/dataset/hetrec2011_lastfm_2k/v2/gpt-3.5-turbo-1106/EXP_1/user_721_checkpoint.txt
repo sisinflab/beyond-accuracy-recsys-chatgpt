@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Elliott Smith
+2. The Magnetic Fields
+3. Arcade Fire
+4. The National
+5. Wilco
+6. Radiohead
+7. Fleet Foxes
+8. Iron & Wine
+9. The Mountain Goats
+10. Pavement
+11. Cat Power
+12. The Flaming Lips
+13. Yo La Tengo
+14. The New Pornographers
+15. Built to Spill
+16. The Hold Steady
+17. My Morning Jacket
+18. Tegan and Sara
+19. The Avett Brothers
+20. Bright Eyes (Conor Oberst's solo work)
+21. Belle and Sebastian (Camera Obscura, The Clientele)
+22. The Smashing Pumpkins (Dinosaur Jr., Sonic Youth)
+23. Bob Dylan (Leonard Cohen, Van Morrison)
+24. Rilo Kiley (Jenny Lewis)
+25. The Decemberists (The Tallest Man on Earth, Fleet Foxes)
+26. Death Cab for Cutie (The Postal Service, The Shins)
+27. Neil Young (Crosby, Stills, Nash & Young, Joni Mitchell)
+28. Tom Waits (Nick Cave and the Bad Seeds, Leonard Cohen)
+29. Regina Spektor (Fiona Apple, Tori Amos)
+30. Modest Mouse (Built to Spill, Wolf Parade)
+31. The Shins (Broken Bells, Rogue Wave)
+32. Sufjan Stevens (Andrew Bird, Iron & Wine)
+33. Our Lady Peace (Matthew Good Band, Moist)
+34. Bon Iver (Fleet Foxes, Iron & Wine)
+35. Joanna Newsom (Fleet Foxes, Iron & Wine)
+36. She & Him (Jenny Lewis, Neko Case)
+37. Neutral Milk Hotel (The Microphones, The Olivia Tremor Control)
+38. Yeah Yeah Yeahs (Sleater-Kinney, The Kills)
+39. The White Stripes (The Black Keys, The Raconteurs)
+40. The Strokes
+41. Interpol
+42. The Libertines
+43. Arctic Monkeys
+44. Franz Ferdinand
+45. The Killers
+46. Bloc Party
+47. The Vaccines
+48. The Kooks
+49. Two Door Cinema Club
+50. Vampire Weekend
+
+These recommendations are based on the user's liking of similar artists and genres.

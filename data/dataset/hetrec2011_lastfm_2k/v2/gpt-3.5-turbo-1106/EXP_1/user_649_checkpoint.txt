@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. All That Remains
+2. Avenged Sevenfold
+3. Three Days Grace
+4. Disturbed
+5. Papa Roach
+6. Korn
+7. Tool
+8. Slipknot
+9. Chevelle
+10. Sevendust
+11. Stone Sour
+12. A Day to Remember
+13. Parkway Drive
+14. Five Finger Death Punch
+15. Godsmack
+16. Volbeat
+17. Mastodon
+18. The Offspring
+19. 3 Doors Down
+20. Theory of a Deadman
+21. Skillet
+22. Hinder
+23. P.O.D.
+24. Staind
+25. Trapt
+26. Seether
+27. 10 Years
+28. Breaking Benjamin
+29. Shinedown
+30. Three Days Grace
+31. Chevelle
+32. Sevendust
+33. Stone Sour
+34. A Day to Remember
+35. Papa Roach
+36. Korn
+37. Disturbed
+38. Slipknot
+39. All That Remains
+40. Avenged Sevenfold
+41. Three Days Grace
+42. Disturbed
+43. Papa Roach
+44. Korn
+45. Avenged Sevenfold
+46. Slipknot
+47. Chevelle
+48. Sevendust
+49. Stone Sour
+50. A Day to Remember
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music within the rock and metal genres.

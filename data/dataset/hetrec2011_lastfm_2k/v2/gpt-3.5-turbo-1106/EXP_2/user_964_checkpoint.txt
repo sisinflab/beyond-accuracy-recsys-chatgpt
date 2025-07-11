@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 964:
+
+1. Paramore
+2. My Chemical Romance
+3. Green Day
+4. The Killers
+5. Muse
+6. 30 Seconds to Mars
+7. Katy Perry
+8. Lady Gaga
+9. Pink Floyd
+10. Taylor Swift
+11. Arctic Monkeys
+12. Ke$ha
+13. Miley Cyrus
+14. The Cure
+15. Blink-182
+16. Fall Out Boy
+17. All Time Low
+18. Oasis
+19. The Strokes
+20. The Last Shadow Puppets
+21. Guns N' Roses
+22. The Used
+23. Box Car Racer
+24. Boys Like Girls
+25. Kings of Leon
+26. Dashboard Confessional
+27. The Maine
+28. Legião Urbana
+29. Plain White T's
+30. The Beatles
+31. Madonna
+32. Rihanna
+33. Shakira
+34. Avril Lavigne
+35. Evanescence
+36. Glee Cast
+37. Beyoncé
+38. U2
+39. Kylie Minogue
+40. Radiohead
+41. Duran Duran
+42. Coldplay
+43. Blur
+44. Placebo
+45. Nirvana
+46. Iron Maiden
+47. Amy Winehouse
+48. Led Zeppelin
+49. Metallica
+50. Michael Jackson
+
+These recommendations are based on the user's liking of similar artists and are re-ranked to reflect their preferences.

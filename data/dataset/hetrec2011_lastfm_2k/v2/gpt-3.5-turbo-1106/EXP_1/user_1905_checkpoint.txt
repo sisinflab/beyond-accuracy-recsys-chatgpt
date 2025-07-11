@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Arctic Monkeys
+3. The Strokes
+4. Arcade Fire
+5. The Cure
+6. Interpol
+7. Pixies
+8. Vampire Weekend
+9. Modest Mouse
+10. The National
+11. Tame Impala
+12. LCD Soundsystem
+13. Spoon
+14. The Flaming Lips
+15. Death Cab for Cutie
+16. The Postal Service
+17. The War on Drugs
+18. Spoon
+19. The Decemberists
+20. Sufjan Stevens
+21. Neutral Milk Hotel
+22. Belle and Sebastian
+23. The Smiths
+24. Morrissey
+25. Duran Duran
+26. Stars
+27. Gorillaz
+28. The Killers
+29. Queen
+30. The Cardigans
+31. David Bowie
+32. Franz Ferdinand
+33. Lush
+34. Beirut
+35. Elliott Smith
+36. The Rolling Stones
+37. Keane
+38. The Shins
+39. The Dandy Warhols
+40. The White Stripes
+41. Girl Talk
+42. Built to Spill
+43. Yeah Yeah Yeahs
+44. The Black Keys
+45. Florence + The Machine
+46. MGMT
+47. Foster the People
+48. The xx
+49. HAIM
+50. Phoenix
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music that aligns with their preferences.

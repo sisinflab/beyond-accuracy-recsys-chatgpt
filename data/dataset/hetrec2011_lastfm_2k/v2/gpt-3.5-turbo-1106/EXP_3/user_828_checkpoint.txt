@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 828:
+
+1. Metallica
+2. Black Label Society
+3. Megadeth
+4. Bruce Dickinson
+5. Ozzy Osbourne
+6. Rammstein
+7. Guns N' Roses
+8. Van Halen
+9. The Jimi Hendrix Experience
+10. Aerosmith
+11. The Rolling Stones
+12. The Beatles
+13. AC/DC
+14. The Who
+15. Slayer
+16. Jimi Hendrix
+17. Eric Clapton
+18. Yngwie Malmsteen
+19. Daft Punk
+20. Avantasia
+21. Blue Öyster Cult
+22. Alice Cooper
+23. Sade
+24. Luis Miguel
+25. Cynic
+26. Queens of the Stone Age
+27. Simon & Garfunkel
+28. Cream
+29. Santana
+30. Saxon
+31. Adriana Calcanhotto
+32. Edguy
+33. Janis Joplin
+34. Dokken
+35. Motörhead
+36. Death
+37. Gamma Ray
+38. Gregorian
+39. Rainbow
+40. Van Morrison
+41. The Animals
+42. The Kinks
+43. Fleetwood Mac
+44. Jethro Tull
+45. Dio
+46. Bad Religion
+47. Manowar
+48. Blind Guardian
+49. The Cult
+50. Helloween
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists that align with their current tastes.

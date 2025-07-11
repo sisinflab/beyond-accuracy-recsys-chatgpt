@@ -1,0 +1,54 @@
+Based on the preferences of user 122, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Girl on the Train by Paula Hawkins
+6. Gone Girl by Gillian Flynn
+7. The Fault in Our Stars by John Green
+8. The Book Thief by Markus Zusak
+9. The Alchemist by Paulo Coelho
+10. The Night Circus by Erin Morgenstern
+11. The Goldfinch by Donna Tartt
+12. The Help by Kathryn Stockett
+13. The Secret Life of Bees by Sue Monk Kidd
+14. The Kite Runner by Khaled Hosseini
+15. The Lovely Bones by Alice Sebold
+16. The Time Traveler's Wife by Audrey Niffenegger
+17. The Giver by Lois Lowry
+18. The Perks of Being a Wallflower by Stephen Chbosky
+19. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+20. The Catcher in the Rye by J.D. Salinger
+21. The Great Gatsby by F. Scott Fitzgerald
+22. To Kill a Mockingbird by Harper Lee
+23. 1984 by George Orwell
+24. Animal Farm by George Orwell
+25. Brave New World by Aldous Huxley
+26. Fahrenheit 451 by Ray Bradbury
+27. Slaughterhouse-Five by Kurt Vonnegut
+28. One Hundred Years of Solitude by Gabriel Garcia Marquez
+29. Love in the Time of Cholera by Gabriel Garcia Marquez
+30. The Shadow of the Wind by Carlos Ruiz Zafón
+31. The Name of the Wind by Patrick Rothfuss
+32. The Nightingale by Kristin Hannah
+33. All the Light We Cannot See by Anthony Doerr
+34. The Silent Patient by Alex Michaelides
+35. Where the Crawdads Sing by Delia Owens
+36. Educated by Tara Westover
+37. The Tattooist of Auschwitz by Heather Morris
+38. The Alice Network by Kate Quinn
+39. The Nightingale by Kristin Hannah
+40. The Light Between Oceans by M.L. Stedman
+41. The Night Circus by Erin Morgenstern
+42. The Nightingale by Kristin Hannah
+43. The Nightingale by Kristin Hannah
+44. The Nightingale by Kristin Hannah
+45. The Nightingale by Kristin Hannah
+46. The Nightingale by Kristin Hannah
+47. The Nightingale by Kristin Hannah
+48. The Nightingale by Kristin Hannah
+49. The Nightingale by Kristin Hannah
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the genres and themes of the books that user 122 has enjoyed.

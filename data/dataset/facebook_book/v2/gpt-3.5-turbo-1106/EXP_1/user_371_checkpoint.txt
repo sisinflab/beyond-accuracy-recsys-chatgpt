@@ -1,0 +1,54 @@
+Based on the preferences of user 371, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. Percy Jackson & the Olympians by Rick Riordan
+3. The Hunger Games by Suzanne Collins
+4. The Lord of the Rings by J.R.R. Tolkien
+5. The Hobbit by J.R.R. Tolkien
+6. The Maze Runner by James Dashner
+7. Divergent by Veronica Roth
+8. The Giver by Lois Lowry
+9. Eragon by Christopher Paolini
+10. The Mortal Instruments by Cassandra Clare
+11. Twilight by Stephenie Meyer
+12. The Alchemist by Paulo Coelho
+13. The Fault in Our Stars by John Green
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. The Catcher in the Rye by J.D. Salinger
+17. To Kill a Mockingbird by Harper Lee
+18. The Great Gatsby by F. Scott Fitzgerald
+19. 1984 by George Orwell
+20. Brave New World by Aldous Huxley
+21. Fahrenheit 451 by Ray Bradbury
+22. The Handmaid's Tale by Margaret Atwood
+23. The Road by Cormac McCarthy
+24. The Stand by Stephen King
+25. The Shining by Stephen King
+26. Pet Sematary by Stephen King
+27. Misery by Stephen King
+28. Carrie by Stephen King
+29. It by Stephen King
+30. The Outsider by Stephen King
+31. Doctor Sleep by Stephen King
+32. The Dark Tower series by Stephen King
+33. The Green Mile by Stephen King
+34. The Shawshank Redemption by Stephen King
+35. The Talisman by Stephen King
+36. The Stand by Stephen King
+37. The Dead Zone by Stephen King
+38. The Long Walk by Stephen King
+39. The Running Man by Stephen King
+40. The Eyes of the Dragon by Stephen King
+41. Air Gear by Oh! great
+42. Tsubasa: Reservoir Chronicle by CLAMP
+43. Death Note by Tsugumi Ohba
+44. Fullmetal Alchemist by Hiromu Arakawa
+45. Attack on Titan by Hajime Isayama
+46. One Piece by Eiichiro Oda
+47. Naruto by Masashi Kishimoto
+48. Bleach by Tite Kubo
+49. Fairy Tail by Hiro Mashima
+50. Black Butler by Yana Toboso
+
+These recommendations are based on the genres and authors that user 371 has shown interest in.

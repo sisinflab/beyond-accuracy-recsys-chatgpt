@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Marilyn Manson
+2. Trent Reznor
+3. David Bowie
+4. Queens of the Stone Age
+5. Placebo
+6. Rob Zombie
+7. Tool
+8. Pink Floyd
+9. The Prodigy
+10. Rammstein
+11. System of a Down
+12. Nirvana
+13. Beck
+14. The Smashing Pumpkins
+15. Nine Inch Nails & David Bowie
+16. Alice in Chains
+17. The Cure
+18. Joy Division
+19. Depeche Mode
+20. Massive Attack
+21. Portishead
+22. Björk
+23. The Chemical Brothers
+24. Daft Punk
+25. Gorillaz & De La Soul
+26. Radiohead & Thom Yorke
+27. Massive Attack & Tricky
+28. The Prodigy & Tom Morello
+29. The Crystal Method
+30. Fatboy Slim
+31. Moby
+32. The Chemical Brothers & Q-Tip
+33. Basement Jaxx
+34. Groove Armada
+35. Air
+36. Thievery Corporation
+37. Zero 7
+38. Morcheeba
+39. Goldfrapp
+40. Hooverphonic
+41. Lamb
+42. Sneaker Pimps
+43. Portishead & Massive Attack
+44. Tricky & PJ Harvey
+45. UNKLE
+46. DJ Shadow
+47. Nightmares on Wax
+48. Kruder & Dorfmeister
+49. Bonobo
+50. Emancipator
+
+These recommendations are based on the user's liking of similar artists and genres.

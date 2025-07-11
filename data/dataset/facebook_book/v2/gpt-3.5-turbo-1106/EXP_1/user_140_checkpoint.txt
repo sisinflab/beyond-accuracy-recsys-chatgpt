@@ -1,0 +1,54 @@
+Based on user 140's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Alchemist by Paulo Coelho
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Road by Cormac McCarthy
+11. The Bell Jar by Sylvia Plath
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Stranger by Albert Camus
+14. The Handmaid's Tale by Margaret Atwood
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Grapes of Wrath by John Steinbeck
+18. The Sound and the Fury by William Faulkner
+19. The Brothers Karamazov by Fyodor Dostoevsky
+20. Crime and Punishment by Fyodor Dostoevsky
+21. The Master and Margarita by Mikhail Bulgakov
+22. The Name of the Rose by Umberto Eco
+23. The Shadow of the Wind by Carlos Ruiz Zafón
+24. The Book Thief by Markus Zusak
+25. The Kite Runner by Khaled Hosseini
+26. The Secret History by Donna Tartt
+27. The Goldfinch by Donna Tartt
+28. The Night Circus by Erin Morgenstern
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Poisonwood Bible by Barbara Kingsolver
+31. The Joy Luck Club by Amy Tan
+32. The Color Purple by Alice Walker
+33. The Help by Kathryn Stockett
+34. The Glass Castle by Jeannette Walls
+35. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+36. The Power of Now by Eckhart Tolle
+37. The Four Agreements by Don Miguel Ruiz
+38. The Art of Happiness by Dalai Lama XIV
+39. The Road Less Traveled by M. Scott Peck
+40. The Celestine Prophecy by James Redfield
+41. The Prophet by Kahlil Gibran
+42. The Tao of Pooh by Benjamin Hoff
+43. The Power of Myth by Joseph Campbell
+44. The Tibetan Book of Living and Dying by Sogyal Rinpoche
+45. The Wisdom of Insecurity by Alan W. Watts
+46. The Doors of Perception by Aldous Huxley
+47. The Electric Kool-Aid Acid Test by Tom Wolfe
+48. The Teachings of Don Juan by Carlos Castaneda
+49. The Dharma Bums by Jack Kerouac
+50. The Electric Kool-Aid Acid Test by Tom Wolfe
+
+These recommendations are based on similar themes, genres, and authors to the books that user 140 likes.

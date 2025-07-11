@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Mayday Parade
+2. Simple Plan
+3. Yellowcard
+4. The All-American Rejects
+5. Good Charlotte
+6. Motion City Soundtrack
+7. New Found Glory
+8. Taking Back Sunday
+9. The Starting Line
+10. Jimmy Eat World
+11. The Academy Is...
+12. We Are the In Crowd
+13. The Story So Far
+14. State Champs
+15. Knuckle Puck
+16. Real Friends
+17. The Wonder Years
+18. Neck Deep
+19. Seaway
+20. Four Year Strong
+21. Set Your Goals
+22. Man Overboard
+23. The Movielife
+24. The Early November
+25. Bayside
+26. Saves The Day
+27. The Get Up Kids
+28. Brand New
+29. The Ataris
+30. Alkaline Trio
+31. Say Anything
+32. Cartel
+33. The Red Jumpsuit Apparatus
+34. Anberlin
+35. Story of the Year
+36. Hawthorne Heights
+37. Senses Fail
+38. Silverstein
+39. The Used
+40. AFI
+41. Thrice
+42. My Chemical Romance
+43. Finch
+44. Thursday
+45. Dashboard Confessional
+46. Something Corporate
+47. The Juliana Theory
+48. Further Seems Forever
+49. The Movielife
+50. The Starting Line

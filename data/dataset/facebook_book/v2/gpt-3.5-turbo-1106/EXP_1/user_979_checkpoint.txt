@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. The Hunger Games by Suzanne Collins
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. The Da Vinci Code by Dan Brown
+5. The Maze Runner by James Dashner
+6. Divergent by Veronica Roth
+7. The Giver by Lois Lowry
+8. The Fault in Our Stars by John Green
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Hobbit by J.R.R. Tolkien
+11. Ender's Game by Orson Scott Card
+12. The Shining by Stephen King
+13. The Catcher in the Rye by J.D. Salinger
+14. The Great Gatsby by F. Scott Fitzgerald
+15. To Kill a Mockingbird by Harper Lee
+16. 1984 by George Orwell
+17. Brave New World by Aldous Huxley
+18. Fahrenheit 451 by Ray Bradbury
+19. The Handmaid's Tale by Margaret Atwood
+20. The Stand by Stephen King
+21. The Road by Cormac McCarthy
+22. The Book Thief by Markus Zusak
+23. The Alchemist by Paulo Coelho
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. The Night Circus by Erin Morgenstern
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Lovely Bones by Alice Sebold
+29. The Secret History by Donna Tartt
+30. The Goldfinch by Donna Tartt
+31. The Secret Life of Bees by Sue Monk Kidd
+32. The Help by Kathryn Stockett
+33. The Glass Castle by Jeannette Walls
+34. The Joy Luck Club by Amy Tan
+35. The Color Purple by Alice Walker
+36. The Bell Jar by Sylvia Plath
+37. The Handmaid's Tale by Margaret Atwood
+38. The Road by Cormac McCarthy
+39. The Book Thief by Markus Zusak
+40. The Alchemist by Paulo Coelho
+41. The Kite Runner by Khaled Hosseini
+42. A Thousand Splendid Suns by Khaled Hosseini
+43. The Night Circus by Erin Morgenstern
+44. The Time Traveler's Wife by Audrey Niffenegger
+45. The Lovely Bones by Alice Sebold
+46. The Secret History by Donna Tartt
+47. The Goldfinch by Donna Tartt
+48. The Secret Life of Bees by Sue Monk Kidd
+49. The Help by Kathryn Stockett
+50. The Glass Castle by Jeannette Walls
+
+These recommendations are based on the user's interest in fantasy, mystery, and coming-of-age novels.

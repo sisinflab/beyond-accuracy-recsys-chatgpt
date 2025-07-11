@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Motorhead
+3. Testament
+4. Sepultura
+5. Exodus
+6. Kreator
+7. Overkill
+8. Saxon
+9. Sodom
+10. Annihilator
+11. Mastodon
+12. Gojira
+13. Morbid Angel
+14. Entombed
+15. Carcass
+16. Death
+17. Cannibal Corpse
+18. Opeth
+19. Dream Theater
+20. Tool
+21. Mastodon
+22. Gojira
+23. Morbid Angel
+24. Entombed
+25. Carcass
+26. Death
+27. Cannibal Corpse
+28. Opeth
+29. Dream Theater
+30. Tool
+31. Alice in Chains
+32. Soundgarden
+33. Pearl Jam
+34. Nirvana
+35. Stone Temple Pilots
+36. Faith No More
+37. Rage Against the Machine
+38. Red Hot Chili Peppers
+39. Tool
+40. A Perfect Circle
+41. Deftones
+42. Nine Inch Nails
+43. Marilyn Manson
+44. Rob Zombie
+45. Rammstein
+46. Ministry
+47. KMFDM
+48. White Zombie
+49. Fear Factory
+50. Static-X
+
+These recommendations are based on the user's liking of heavy metal and hard rock bands, and include similar artists from the same genre as well as related genres such as grunge, alternative metal, and industrial metal.

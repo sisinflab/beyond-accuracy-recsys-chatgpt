@@ -1,0 +1,54 @@
+Based on user 1029's preferences, here are the top-50 recommendations for the user:
+
+1. The Rolling Stones
+2. Nirvana
+3. The Doors
+4. Foo Fighters
+5. Muse
+6. Red Hot Chili Peppers
+7. The White Stripes
+8. R.E.M.
+9. The Killers
+10. Arctic Monkeys
+11. Blur
+12. The Libertines
+13. Moby
+14. Iggy Pop
+15. Lou Reed
+16. The Velvet Underground
+17. The Black Keys
+18. Soundtrack
+19. Metallica
+20. Led Zeppelin
+21. AC/DC
+22. The Who
+23. Bon Jovi
+24. Aerosmith
+25. Van Halen
+26. Europe
+27. Def Leppard
+28. Poison
+29. W.A.S.P.
+30. Pulp
+31. Gustavo Cerati
+32. Angra
+33. Skid Row
+34. Hanoi Rocks
+35. Jimi Hendrix
+36. Megadeth
+37. Iron Maiden
+38. Babyshambles
+39. José González
+40. Soda Stereo
+41. Chico Buarque
+42. The Beach Boys
+43. Tori Amos
+44. The Stooges
+45. Death Cab for Cutie
+46. The Knife
+47. Mamonas Assassinas
+48. The Black Keys
+49. The Chemical Brothers
+50. New Order
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

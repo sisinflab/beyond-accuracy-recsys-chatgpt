@@ -1,0 +1,54 @@
+Based on user 997's preferences, here are the top 50 book recommendations:
+
+1. The Giver by Lois Lowry
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. Alas, Babylon by Pat Frank
+4. Invisible Monsters by Chuck Palahniuk
+5. The Clan of the Cave Bear by Jean M. Auel
+6. Siddhartha (novel) by Hermann Hesse
+7. Steppenwolf (novel) by Hermann Hesse
+8. Middlesex (novel) by Jeffrey Eugenides
+9. To Kill a Mockingbird
+10. The Catcher in the Rye
+11. Lolita
+12. A Tale of Two Cities
+13. One Hundred Years of Solitude
+14. Cat's Cradle
+15. The Screwtape Letters
+16. Catch-22
+17. Nineteen Eighty-Four
+18. The Vampire Lestat
+19. The Alchemist (novel)
+20. The Interpretation of Dreams
+21. The Glass Bead Game
+22. The Celestine Prophecy
+23. The Perks of Being a Wallflower
+24. The Things They Carried
+25. Water for Elephants
+26. The Walking Dead (comic book)
+27. The Watchmen (novel)
+28. The Hunchback of Notre-Dame
+29. Macbeth
+30. Green Eggs and Ham
+31. The Game: Penetrating the Secret Society of Pickup Artists
+32. I Never Promised You a Rose Garden (novel)
+33. The Gargoyle (novel)
+34. The Interpretation of Dreams
+35. Island (book)
+36. The Things They Carried
+37. The Perks of Being a Wallflower
+38. The Walking Dead (comic book)
+39. The Alchemist (novel)
+40. Left Behind (novel)
+41. Peter and Wendy
+42. Cabal (novella)
+43. V (comics)
+44. Fight Club (novel)
+45. Inferno (Dante)
+46. John Dies at the End
+47. Where the Sidewalk Ends (book)
+48. Running with Scissors (memoir)
+49. Everything Bad Is Good for You
+50. Lullaby (Palahniuk novel)
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user already likes.

@@ -1,0 +1,54 @@
+Based on user 471's preferences, here are the top 50 book recommendations:
+
+1. Vampire Academy (novel) by ['Richelle Mead']
+2. City of Ashes by ['Cassandra Clare']
+3. Shadow Kiss
+4. Blood Promise (novel)
+5. Vampire Knight
+6. Rebel Angels
+7. The Host (novel)
+8. Twilight (series)
+9. Fallen (Kate novel)
+10. City of Glass (Mortal Instruments)
+11. Vampire Kisses
+12. The Sweet Far Thing
+13. The Wolves of Mercy Falls
+14. Dark Visions by ['Stephen King', 'Dan Simmons', 'George R. R. Martin']
+15. Nightworld (novel) by ['F. Paul Wilson']
+16. The Forbidden Game
+17. Interview with the Vampire
+18. Dark-Hunter (series)
+19. Red (novel)
+20. Belinda (Edgeworth novel)
+21. The Luxe
+22. Black Dagger Brotherhood
+23. This Present Darkness
+24. Percy Jackson & the Olympians
+25. The House of Thunder
+26. Betrayed (novel)
+27. Walk Two Moons
+28. A Great and Terrible Beauty
+29. A Clockwork Orange
+30. Pretty Little Liars (book)
+31. Thirteen Reasons Why
+32. The Pact (novel)
+33. The Watchmen (novel)
+34. The Mummy!
+35. Fade (novel)
+36. Blue Is for Nightmares (series)
+37. Bhagavad Gita
+38. Pride and Prejudice
+39. Untamed (novel)
+40. Iliad
+41. Through the Looking-Glass
+42. Pride and Prejudice and Zombies
+43. Macbeth
+44. The Hunger Games
+45. Burned (Hopkins novel)
+46. My Sister's Keeper (novel)
+47. Along for the Ride
+48. Vittorio the Vampire
+49. Harry Potter
+50. Uglies
+
+These recommendations are based on the user's previous likes and are ranked according to their potential interest.

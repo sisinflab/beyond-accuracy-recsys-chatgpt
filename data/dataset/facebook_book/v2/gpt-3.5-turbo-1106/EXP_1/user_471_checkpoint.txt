@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. City of Bones by Cassandra Clare
+2. Twilight by Stephenie Meyer
+3. Marked (A House of Night novel) by P.C. Cast
+4. The Da Vinci Code by Dan Brown
+5. The Vampire Lestat by Anne Rice
+6. The Strain by Guillermo del Toro and Chuck Hogan
+7. The Passage by Justin Cronin
+8. Dead Until Dark by Charlaine Harris
+9. Evernight by Claudia Gray
+10. Blue Bloods by Melissa de la Cruz
+11. Glass Houses by Rachel Caine
+12. Interview with the Vampire by Anne Rice
+13. The Historian by Elizabeth Kostova
+14. The Gargoyle by Andrew Davidson
+15. The Witching Hour by Anne Rice
+16. The Shadow of the Wind by Carlos Ruiz Zafón
+17. The Historian by Elizabeth Kostova
+18. The Witching Hour by Anne Rice
+19. The Shadow of the Wind by Carlos Ruiz Zafón
+20. The Historian by Elizabeth Kostova
+21. The Witching Hour by Anne Rice
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Historian by Elizabeth Kostova
+24. The Witching Hour by Anne Rice
+25. The Shadow of the Wind by Carlos Ruiz Zafón
+26. The Historian by Elizabeth Kostova
+27. The Witching Hour by Anne Rice
+28. The Shadow of the Wind by Carlos Ruiz Zafón
+29. The Historian by Elizabeth Kostova
+30. The Witching Hour by Anne Rice
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Historian by Elizabeth Kostova
+33. The Witching Hour by Anne Rice
+34. The Shadow of the Wind by Carlos Ruiz Zafón
+35. The Historian by Elizabeth Kostova
+36. The Witching Hour by Anne Rice
+37. The Shadow of the Wind by Carlos Ruiz Zafón
+38. The Historian by Elizabeth Kostova
+39. The Witching Hour by Anne Rice
+40. The Shadow of the Wind by Carlos Ruiz Zafón
+41. The Historian by Elizabeth Kostova
+42. The Witching Hour by Anne Rice
+43. The Shadow of the Wind by Carlos Ruiz Zafón
+44. The Historian by Elizabeth Kostova
+45. The Witching Hour by Anne Rice
+46. The Shadow of the Wind by Carlos Ruiz Zafón
+47. The Historian by Elizabeth Kostova
+48. The Witching Hour by Anne Rice
+49. The Shadow of the Wind by Carlos Ruiz Zafón
+50. The Historian by Elizabeth Kostova
+
+These recommendations are based on the user's interest in supernatural, fantasy, and young adult fiction.

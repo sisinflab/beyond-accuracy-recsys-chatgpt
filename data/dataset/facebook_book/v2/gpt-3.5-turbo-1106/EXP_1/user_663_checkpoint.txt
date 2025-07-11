@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Animal Farm by George Orwell
+4. Fahrenheit 451 by Ray Bradbury
+5. The Catcher in the Rye by J.D. Salinger
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. To Kill a Mockingbird by Harper Lee
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Stand by Stephen King
+13. Dune by Frank Herbert
+14. Neuromancer by William Gibson
+15. Snow Crash by Neal Stephenson
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. Ender's Game by Orson Scott Card
+18. The Left Hand of Darkness by Ursula K. Le Guin
+19. The Dispossessed by Ursula K. Le Guin
+20. The Foundation Trilogy by Isaac Asimov
+21. Do Androids Dream of Electric Sheep? by Philip K. Dick
+22. The Moon is a Harsh Mistress by Robert A. Heinlein
+23. The Mists of Avalon by Marion Zimmer Bradley
+24. The Name of the Wind by Patrick Rothfuss
+25. The Lies of Locke Lamora by Scott Lynch
+26. The Blade Itself by Joe Abercrombie
+27. The Way of Kings by Brandon Sanderson
+28. Mistborn: The Final Empire by Brandon Sanderson
+29. The Black Prism by Brent Weeks
+30. The Lies of Locke Lamora by Scott Lynch
+31. The Blade Itself by Joe Abercrombie
+32. The Way of Kings by Brandon Sanderson
+33. Mistborn: The Final Empire by Brandon Sanderson
+34. The Black Prism by Brent Weeks
+35. The Final Empire by Brandon Sanderson
+36. The Black Company by Glen Cook
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Blade Itself by Joe Abercrombie
+39. The Way of Kings by Brandon Sanderson
+40. Mistborn: The Final Empire by Brandon Sanderson
+41. The Black Prism by Brent Weeks
+42. The Final Empire by Brandon Sanderson
+43. The Black Company by Glen Cook
+44. The Lies of Locke Lamora by Scott Lynch
+45. The Blade Itself by Joe Abercrombie
+46. The Way of Kings by Brandon Sanderson
+47. Mistborn: The Final Empire by Brandon Sanderson
+48. The Black Prism by Brent Weeks
+49. The Final Empire by Brandon Sanderson
+50. The Black Company by Glen Cook
+
+These recommendations are based on the user's interest in political intrigue, dystopian themes, fantasy, and science fiction.

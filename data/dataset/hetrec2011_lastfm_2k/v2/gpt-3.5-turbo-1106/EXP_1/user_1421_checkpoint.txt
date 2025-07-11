@@ -1,0 +1,54 @@
+Based on user 1421's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The Smiths
+3. Joy Division
+4. Talking Heads
+5. Pixies
+6. The Cure
+7. Patti Smith
+8. Elliott Smith
+9. PJ Harvey
+10. Arcade Fire
+11. Interpol
+12. The National
+13. Modest Mouse
+14. Belle and Sebastian
+15. The Flaming Lips
+16. Neutral Milk Hotel
+17. The Velvet Underground
+18. Sonic Youth
+19. Nick Cave & The Bad Seeds
+20. The Strokes
+21. Arctic Monkeys
+22. The White Stripes
+23. Tame Impala
+24. Vampire Weekend
+25. Spoon
+26. The War on Drugs
+27. LCD Soundsystem
+28. The Shins
+29. Wilco
+30. Father John Misty
+31. Fleet Foxes
+32. Grizzly Bear
+33. Beach House
+34. The Black Keys
+35. Yeah Yeah Yeahs
+36. The Kills
+37. The Raconteurs
+38. The Decemberists
+39. Spoon
+40. The Avett Brothers
+41. The Mountain Goats
+42. Andrew Bird
+43. Iron & Wine
+44. Sufjan Stevens
+45. Bon Iver
+46. Fleetwood Mac
+47. The Rolling Stones
+48. Bob Dylan
+49. Neil Young
+50. Joni Mitchell
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

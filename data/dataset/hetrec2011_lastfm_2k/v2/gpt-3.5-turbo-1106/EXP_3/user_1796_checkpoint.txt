@@ -1,0 +1,54 @@
+Based on user 1796's preferences, here are the top 50 recommendations for the given artists:
+
+1. Fall Out Boy
+2. My Chemical Romance
+3. Panic! At the Disco
+4. Paramore
+5. The Killers
+6. Arctic Monkeys
+7. The Academy Is...
+8. Franz Ferdinand
+9. The Ting Tings
+10. Hot Chip
+11. Phoenix
+12. Kings of Leon
+13. Silversun Pickups
+14. White Lies
+15. Dashboard Confessional
+16. 3 Doors Down
+17. Cobra Starship
+18. Good Charlotte
+19. Simple Plan
+20. Boys Like Girls
+21. Secondhand Serenade
+22. MGMT
+23. Goo Goo Dolls
+24. Snow Patrol
+25. Interpol
+26. The Sounds
+27. Lady Gaga
+28. Jay-Z
+29. Le Tigre
+30. La Roux
+31. Yelle
+32. Yeah Yeah Yeahs
+33. Chevelle
+34. Rammstein
+35. System of a Down
+36. Linkin Park
+37. Papa Roach
+38. Three Days Grace
+39. Skillet
+40. Nickelback
+41. Bring Me The Horizon
+42. Hollywood Undead
+43. The Used
+44. Chiodos
+45. Maroon 5
+46. Foals
+47. Relient K
+48. Sugababes
+49. Rihanna
+50. Hey Monday
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for the user to explore.

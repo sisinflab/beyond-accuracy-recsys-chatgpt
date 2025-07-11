@@ -1,0 +1,54 @@
+Based on user 70's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The Rolling Stones
+2. The Beatles
+3. Pink Floyd
+4. Led Zeppelin
+5. Nirvana
+6. Queen
+7. The Who
+8. Jimi Hendrix
+9. The Strokes
+10. The White Stripes
+11. The Black Keys
+12. The Killers
+13. Arctic Monkeys
+14. Muse
+15. Radiohead
+16. Oasis
+17. The Doors
+18. The Smiths
+19. David Bowie
+20. Pearl Jam
+21. Kings of Leon
+22. Metallica
+23. Black Sabbath
+24. Deftones
+25. Joy Division
+26. The Cure
+27. Bob Marley & The Wailers
+28. Korn
+29. The Libertines
+30. Franz Ferdinand
+31. The Hives
+32. Marilyn Manson
+33. Guns N' Roses
+34. AC/DC
+35. Deep Purple
+36. Van Halen
+37. Dire Straits
+38. Marillion
+39. George Michael
+40. Elvis Presley
+41. Bruce Springsteen
+42. Neil Young
+43. City and Colour
+44. Blur
+45. Lady Gaga
+46. Eric Clapton
+47. The Subways
+48. Good Charlotte
+49. Papa Roach
+50. Rammstein
+
+These recommendations are based on similar genres and artists liked by user 70.

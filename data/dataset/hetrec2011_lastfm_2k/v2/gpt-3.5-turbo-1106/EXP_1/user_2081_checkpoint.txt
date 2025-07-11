@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ben Howard
+2. The Shins
+3. Fleet Foxes
+4. The Decemberists
+5. Sufjan Stevens
+6. Elliott Smith
+7. Bright Eyes
+8. The National
+9. Death Cab for Cutie
+10. Arcade Fire
+11. The Avett Brothers
+12. The Lumineers
+13. Mumford & Sons
+14. The Tallest Man on Earth
+15. José González
+16. Ray LaMontagne
+17. Andrew Bird
+18. Beirut
+19. Band of Horses
+20. Iron & Wine
+21. Bon Iver
+22. The Head and the Heart
+23. First Aid Kit
+24. Hozier
+25. Lord Huron
+26. The War on Drugs
+27. Dawes
+28. The Milk Carton Kids
+29. Gregory Alan Isakov
+30. Phoebe Bridgers
+31. Big Thief
+32. Sharon Van Etten
+33. Angel Olsen
+34. Mitski
+35. Courtney Barnett
+36. Father John Misty
+37. Tame Impala
+38. Mac DeMarco
+39. Kurt Vile
+40. The Black Keys
+41. Arctic Monkeys
+42. The Strokes
+43. Interpol
+44. The White Stripes
+45. Franz Ferdinand
+46. The Libertines
+47. The Kooks
+48. The Vaccines
+49. Arctic Monkeys
+50. The Fratellis
+
+These recommendations are based on the user's liking of similar artists and genres.

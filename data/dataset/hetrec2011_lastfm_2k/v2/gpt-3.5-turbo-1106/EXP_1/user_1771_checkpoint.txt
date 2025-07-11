@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Lady Gaga
+2. Paramore
+3. Rihanna
+4. Avril Lavigne
+5. Green Day
+6. Pink
+7. Kelly Clarkson
+8. The Killers
+9. Christina Aguilera
+10. Panic! At The Disco
+11. Demi Lovato
+12. The Fray
+13. Gwen Stefani
+14. 3 Doors Down
+15. Kelly Rowland
+16. The Veronicas
+17. Owl City
+18. Usher
+19. Simple Plan
+20. Jennifer Lopez
+21. 5 Seconds of Summer
+22. Nelly Furtado
+23. The Script
+24. Fergie
+25. Halsey
+26. 98 Degrees
+27. Jesse McCartney
+28. Tove Lo
+29. Jason Derulo
+30. The Wanted
+31. Zara Larsson
+32. Nick Jonas
+33. Tinashe
+34. Charli XCX
+35. Fifth Harmony
+36. Hailee Steinfeld
+37. Zedd
+38. Bebe Rexha
+39. DNCE
+40. Camila Cabello
+41. Lauv
+42. Sabrina Carpenter
+43. Why Don't We
+44. Julia Michaels
+45. Shawn Mendes
+46. Alessia Cara
+47. Troye Sivan
+48. Daya
+49. Lauv
+50. Anne-Marie
+
+These recommendations are based on the user's liking of pop, rock, and R&B artists, and include similar artists from various genres that the user might enjoy.

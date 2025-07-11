@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. World War Z by Max Brooks
+2. The Road by Cormac McCarthy
+3. The Stand by Stephen King
+4. The Girl with All the Gifts by M.R. Carey
+5. Station Eleven by Emily St. John Mandel
+6. The Passage by Justin Cronin
+7. The Reapers Are the Angels by Alden Bell
+8. Zone One by Colson Whitehead
+9. The Dog Stars by Peter Heller
+10. The Forest of Hands and Teeth by Carrie Ryan
+11. The Dead-Tossed Waves by Carrie Ryan
+12. The Zen of Zombie by Scott Kenemore
+13. The Motorcycle Diaries by Ernesto Che Guevara
+14. Shop Class as Soulcraft by Matthew B. Crawford
+15. The Art of Racing in the Rain by Garth Stein
+16. The Alchemist by Paulo Coelho
+17. Blindness by José Saramago
+18. Seeing by José Saramago
+19. The Double by José Saramago
+20. The Stone Raft by José Saramago
+21. The Gospel According to Jesus Christ by José Saramago
+22. The Island of the Day Before by Umberto Eco
+23. The Name of the Rose by Umberto Eco
+24. The Mysterious Flame of Queen Loana by Umberto Eco
+25. The Island of Eternal Love by Daína Chaviano
+26. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+27. The Night Eternal by Guillermo del Toro and Chuck Hogan
+28. The Strain by Guillermo del Toro and Chuck Hogan
+29. The Fall by Guillermo del Toro and Chuck Hogan
+30. I Am Legend by Richard Matheson
+31. Hell House by Richard Matheson
+32. What Dreams May Come by Richard Matheson
+33. The Shrinking Man by Richard Matheson
+34. Teaching What Really Happened by James W. Loewen
+35. Lies Across America by James W. Loewen
+36. Sundown Towns by James W. Loewen
+37. Trainspotting by Irvine Welsh
+38. Marabou Stork Nightmares by Irvine Welsh
+39. The Acid House by Irvine Welsh
+40. In the Garden of Beasts by Erik Larson
+41. Dead Wake by Erik Larson
+42. Thunderstruck by Erik Larson
+43. Saga by Brian K. Vaughan and Fiona Staples
+44. Paper Girls by Brian K. Vaughan and Cliff Chiang
+45. Ex Machina by Brian K. Vaughan and Tony Harris
+46. The Traveler's Gift by Andy Andrews
+47. The Traveler's Summit by Andy Andrews
+48. The Traveler's Gift by Andy Andrews
+49. The Traveler's Summit by Andy Andrews
+50. The Traveler's Gift by Andy Andrews
+
+These recommendations are based on similar themes, genres, and authors to the books that user 486 likes.

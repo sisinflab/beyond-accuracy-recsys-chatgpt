@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 666:
+
+1. The Prodigy
+2. Radiohead
+3. David Bowie
+4. Sigur Rós
+5. The Doors
+6. Siouxsie and the Banshees
+7. Dead Can Dance
+8. Crystal Castles
+9. Covenant
+10. Moby
+11. Tori Amos
+12. Editors
+13. She Wants Revenge
+14. Martin L. Gore
+15. Duran Duran
+16. Placebo
+17. Nitzer Ebb
+18. De/Vision
+19. And One
+20. New Order
+21. The Verve
+22. a-ha
+23. Madonna
+24. U2
+25. Pet Shop Boys
+26. Florence + the Machine
+27. Armin van Buuren
+28. VNV Nation
+29. Rammstein
+30. David Guetta
+31. The Birthday Massacre
+32. Alice in Chains
+33. The Cranberries
+34. Linkin Park
+35. Jean-Michel Jarre
+36. Suede
+37. Camouflage
+38. Cut Copy
+39. Deadmau5
+40. Incubus
+41. INXS
+42. Hurts
+43. Britney Spears
+44. P!nk
+45. Tiësto
+46. Depeche Mode
+47. The Sisters of Mercy
+48. Cocteau Twins
+49. Muse
+50. Johann Sebastian Bach
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

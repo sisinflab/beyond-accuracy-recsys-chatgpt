@@ -1,0 +1,54 @@
+Based on the user's liking of the previously mentioned books, here are the re-ranked top-50 recommendations for user 429:
+
+1. The Great Gatsby
+2. The Picture of Dorian Gray
+3. Brave New World
+4. The Unbearable Lightness of Being
+5. The Catcher in the Rye
+6. The Hobbit
+7. The Stand
+8. The Lord of the Rings
+9. The Maze Runner
+10. The City of Ember
+11. The Southern Vampire Mysteries
+12. The Lost Books (novel series)
+13. The Giver
+14. The Phantom of the Opera
+15. The Scarlet Letter
+16. The House of Mirth
+17. The Brothers Karamazov
+18. The Count of Monte Cristo
+19. The Time Machine
+20. The Book Thief
+21. The Messenger (Markus Zusak novel)
+22. The Rapture (novel)
+23. The Silmarillion
+24. The Tenant of Wildfell Hall
+25. The Outsiders (novel)
+26. The Giver
+27. The Maze Runner
+28. The City of Ember
+29. The Southern Vampire Mysteries
+30. The Lost Books (novel series)
+31. The Hobbit
+32. The Stand
+33. The Lord of the Rings
+34. The Picture of Dorian Gray
+35. The Great Gatsby
+36. The Unbearable Lightness of Being
+37. The Catcher in the Rye
+38. The Lost Books (novel series)
+39. The Picture of Dorian Gray
+40. The Great Gatsby
+41. The Unbearable Lightness of Being
+42. The Catcher in the Rye
+43. The Lost Books (novel series)
+44. The Picture of Dorian Gray
+45. The Great Gatsby
+46. The Unbearable Lightness of Being
+47. The Catcher in the Rye
+48. The Lost Books (novel series)
+49. The Picture of Dorian Gray
+50. The Great Gatsby
+
+These recommendations are based on the user's liking of similar books and are ranked accordingly.

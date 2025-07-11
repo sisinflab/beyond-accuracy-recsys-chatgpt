@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. City of Bones by Cassandra Clare
+3. The Hunger Games by Suzanne Collins
+4. Divergent by Veronica Roth
+5. The Fault in Our Stars by John Green
+6. The Maze Runner by James Dashner
+7. The Giver by Lois Lowry
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. Thirteen Reasons Why by Jay Asher
+10. The Book Thief by Markus Zusak
+11. The Mortal Instruments series by Cassandra Clare
+12. The Selection by Kiera Cass
+13. Uglies by Scott Westerfeld
+14. Delirium by Lauren Oliver
+15. Matched by Ally Condie
+16. The 5th Wave by Rick Yancey
+17. Legend by Marie Lu
+18. The Darkest Minds by Alexandra Bracken
+19. The Lunar Chronicles by Marissa Meyer
+20. The Infernal Devices series by Cassandra Clare
+21. The Raven Cycle series by Maggie Stiefvater
+22. The Night Circus by Erin Morgenstern
+23. Red Queen by Victoria Aveyard
+24. An Ember in the Ashes by Sabaa Tahir
+25. Caraval by Stephanie Garber
+26. The Wrath and the Dawn by Renee Ahdieh
+27. Graceling by Kristin Cashore
+28. Throne of Glass by Sarah J. Maas
+29. Shadow and Bone by Leigh Bardugo
+30. Seraphina by Rachel Hartman
+31. The Girl of Fire and Thorns by Rae Carson
+32. Poison Study by Maria V. Snyder
+33. Snow Like Ashes by Sara Raasch
+34. The Winner's Curse by Marie Rutkoski
+35. The Queen's Thief series by Megan Whalen Turner
+36. The Grisha Trilogy by Leigh Bardugo
+37. The Remnant Chronicles by Mary E. Pearson
+38. The Wrath of the Dawn by Renee Ahdieh
+39. The Star-Touched Queen by Roshani Chokshi
+40. The Bird and the Blade by Megan Bannen
+41. The Forbidden Wish by Jessica Khoury
+42. The Kiss of Deception by Mary E. Pearson
+43. The Winner's Crime by Marie Rutkoski
+44. The Shadow Queen by C.J. Redwine
+45. The Traitor's Kiss by Erin Beaty
+46. The Blood of Eden series by Julie Kagawa
+47. The Black Witch by Laurie Forest
+48. The Queen's Rising by Rebecca Ross
+49. The Bone Season by Samantha Shannon
+50. The Girl at Midnight by Melissa Grey
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and supernatural themes.

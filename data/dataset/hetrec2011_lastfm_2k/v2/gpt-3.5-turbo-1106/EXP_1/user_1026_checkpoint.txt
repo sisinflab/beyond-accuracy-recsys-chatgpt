@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Slipknot
+2. Marilyn Manson
+3. Rob Zombie
+4. Nine Inch Nails
+5. Deftones
+6. Tool
+7. Ministry
+8. In This Moment
+9. Otep
+10. Coal Chamber
+11. Static-X
+12. Lacuna Coil
+13. Sevendust
+14. Chimaira
+15. DevilDriver
+16. Soulfly
+17. Mastodon
+18. Gojira
+19. Trivium
+20. Killswitch Engage
+21. Parkway Drive
+22. As I Lay Dying
+23. August Burns Red
+24. Architects
+25. Bring Me The Horizon
+26. A Day To Remember
+27. The Amity Affliction
+28. Motionless In White
+29. Beartooth
+30. Of Mice & Men
+31. Asking Alexandria
+32. Bullet For My Valentine
+33. Atreyu
+34. All That Remains
+35. Avenged Sevenfold
+36. Five Finger Death Punch
+37. Disturbed
+38. Slipknot
+39. Stone Sour
+40. Godsmack
+41. Breaking Benjamin
+42. Shinedown
+43. Three Days Grace
+44. Chevelle
+45. Seether
+46. Theory of a Deadman
+47. Puddle of Mudd
+48. Staind
+49. Papa Roach
+50. Skillet
+
+These recommendations are based on the user's liking of heavy metal, rock, and alternative artists.

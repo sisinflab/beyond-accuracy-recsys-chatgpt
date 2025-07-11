@@ -1,0 +1,54 @@
+Based on the preferences of user 1196, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Sense and Sensibility by Jane Austen
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Lord of the Flies by William Golding
+8. Brave New World by Aldous Huxley
+9. The Old Man and the Sea by Ernest Hemingway
+10. The Grapes of Wrath by John Steinbeck
+11. The Sound and the Fury by William Faulkner
+12. As I Lay Dying by William Faulkner
+13. A Farewell to Arms by Ernest Hemingway
+14. For Whom the Bell Tolls by Ernest Hemingway
+15. The Sun Also Rises by Ernest Hemingway
+16. The Picture of Dorian Gray by Oscar Wilde
+17. Wuthering Heights by Emily Brontë
+18. Jane Eyre by Charlotte Brontë
+19. Moby-Dick by Herman Melville
+20. The Adventures of Huckleberry Finn by Mark Twain
+21. The Adventures of Tom Sawyer by Mark Twain
+22. Little Women by Louisa May Alcott
+23. The Scarlet Letter by Nathaniel Hawthorne
+24. The Count of Monte Cristo by Alexandre Dumas
+25. Les Misérables by Victor Hugo
+26. Crime and Punishment by Fyodor Dostoevsky
+27. War and Peace by Leo Tolstoy
+28. Anna Karenina by Leo Tolstoy
+29. The Brothers Karamazov by Fyodor Dostoevsky
+30. The Idiot by Fyodor Dostoevsky
+31. The Three Musketeers by Alexandre Dumas
+32. Don Quixote by Miguel de Cervantes
+33. One Hundred Years of Solitude by Gabriel García Márquez
+34. Love in the Time of Cholera by Gabriel García Márquez
+35. The Alchemist by Paulo Coelho
+36. The Kite Runner by Khaled Hosseini
+37. A Thousand Splendid Suns by Khaled Hosseini
+38. The Book Thief by Markus Zusak
+39. The Night Circus by Erin Morgenstern
+40. The Secret History by Donna Tartt
+41. The Goldfinch by Donna Tartt
+42. The Shadow of the Wind by Carlos Ruiz Zafón
+43. The Name of the Wind by Patrick Rothfuss
+44. The Wise Man's Fear by Patrick Rothfuss
+45. The Lies of Locke Lamora by Scott Lynch
+46. The Name of the Rose by Umberto Eco
+47. The Pillars of the Earth by Ken Follett
+48. The Name of the Wind by Patrick Rothfuss
+49. The Wise Man's Fear by Patrick Rothfuss
+50. The Lies of Locke Lamora by Scott Lynch
+
+These recommendations are based on the user's preference for classic literature and fantasy novels.

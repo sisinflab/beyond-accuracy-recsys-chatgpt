@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. One Flew Over the Cuckoo's Nest by Ken Kesey
+8. The Bell Jar by Sylvia Plath
+9. Lolita by Vladimir Nabokov
+10. The Stranger by Albert Camus
+11. The Road by Cormac McCarthy
+12. The Sun Also Rises by Ernest Hemingway
+13. A Clockwork Orange by Anthony Burgess
+14. The Grapes of Wrath by John Steinbeck
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Sound and the Fury by William Faulkner
+17. The Brothers Karamazov by Fyodor Dostoyevsky
+18. The Trial by Franz Kafka
+19. The Plague by Albert Camus
+20. The Metamorphosis by Franz Kafka
+21. The Idiot by Fyodor Dostoyevsky
+22. The Master and Margarita by Mikhail Bulgakov
+23. The Stranger by Harlan Coben
+24. The Book Thief by Markus Zusak
+25. The Road by Cormac McCarthy
+26. The Stand by Stephen King
+27. The Shining by Stephen King
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Da Vinci Code by Dan Brown
+30. The Name of the Rose by Umberto Eco
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Historian by Elizabeth Kostova
+33. The Thirteenth Tale by Diane Setterfield
+34. The Night Circus by Erin Morgenstern
+35. The Secret History by Donna Tartt
+36. The Goldfinch by Donna Tartt
+37. The Secret Life of Bees by Sue Monk Kidd
+38. The Help by Kathryn Stockett
+39. The Kite Runner by Khaled Hosseini
+40. The Alchemist by Paulo Coelho
+41. The Book of Lost Things by John Connolly
+42. The Nightingale by Kristin Hannah
+43. The Glass Castle by Jeannette Walls
+44. The Poisonwood Bible by Barbara Kingsolver
+45. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+46. The Handmaid's Tale by Margaret Atwood
+47. The Color Purple by Alice Walker
+48. The Joy Luck Club by Amy Tan
+49. The God of Small Things by Arundhati Roy
+50. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+
+These recommendations are based on the user's interest in authors like Oscar Wilde, Chuck Palahniuk, and Fyodor Dostoyevsky, as well as themes of philosophy, classic literature, and psychological fiction.

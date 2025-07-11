@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Paramore
+2. Taylor Momsen
+3. Pitty
+4. Hayley Williams
+5. P!nk
+6. Kelly Clarkson
+7. The Veronicas
+8. Miley Cyrus
+9. Demi Lovato
+10. Kelly Osbourne
+11. The All-American Rejects
+12. The Used
+13. Simple Plan
+14. Good Charlotte
+15. My Chemical Romance
+16. Panic! At The Disco
+17. Fall Out Boy
+18. Green Day
+19. Blink-182
+20. Sum 41
+21. Yellowcard
+22. All Time Low
+23. Boys Like Girls
+24. We The Kings
+25. The Maine
+26. Mayday Parade
+27. 3OH!3
+28. Cobra Starship
+29. The Academy Is...
+30. Cute Is What We Aim For
+31. Forever The Sickest Kids
+32. The Cab
+33. Hey Monday
+34. VersaEmerge
+35. Tonight Alive
+36. We Are The In Crowd
+37. Echosmith
+38. Against The Current
+39. Set It Off
+40. State Champs
+41. Waterparks
+42. With Confidence
+43. As It Is
+44. Neck Deep
+45. Knuckle Puck
+46. Real Friends
+47. The Story So Far
+48. Seaway
+49. Grayscale
+50. Trash Boat
+
+These recommendations are based on the user's liking of similar artists and genres.

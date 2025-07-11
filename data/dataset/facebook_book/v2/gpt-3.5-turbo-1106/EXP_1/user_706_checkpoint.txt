@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. One Hundred Years of Solitude by Gabriel Garcia Marquez
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. Brave New World by Aldous Huxley
+8. Fahrenheit 451 by Ray Bradbury
+9. The Stranger by Albert Camus
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. The Road by Cormac McCarthy
+12. The Handmaid's Tale by Margaret Atwood
+13. Lord of the Flies by William Golding
+14. The Grapes of Wrath by John Steinbeck
+15. Crime and Punishment by Fyodor Dostoyevsky
+16. The Prince by Niccolò Machiavelli
+17. The Chronicles of Narnia by C.S. Lewis
+18. Stargirl by Jerry Spinelli
+19. Nineteen Eighty-Four by George Orwell
+20. The Neverending Story by Michael Ende
+21. The Bell Jar by Sylvia Plath
+22. We by Yevgeny Zamyatin
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Alchemist by Paulo Coelho
+25. The Kite Runner by Khaled Hosseini
+26. The Book Thief by Markus Zusak
+27. The Giver by Lois Lowry
+28. The Road Not Taken by Robert Frost
+29. The Old Man and the Sea by Ernest Hemingway
+30. The Sun Also Rises by Ernest Hemingway
+31. The Stranger by Albert Camus
+32. The Metamorphosis by Franz Kafka
+33. The Trial by Franz Kafka
+34. The Plague by Albert Camus
+35. The Outsider by Albert Camus
+36. The Idiot by Fyodor Dostoyevsky
+37. Notes from Underground by Fyodor Dostoyevsky
+38. The Brothers Karamazov by Fyodor Dostoyevsky
+39. War and Peace by Leo Tolstoy
+40. Anna Karenina by Leo Tolstoy
+41. The Master and Margarita by Mikhail Bulgakov
+42. One Day in the Life of Ivan Denisovich by Aleksandr Solzhenitsyn
+43. Doctor Zhivago by Boris Pasternak
+44. Crime and Punishment by Fyodor Dostoyevsky
+45. The Idiot by Fyodor Dostoyevsky
+46. Demons by Fyodor Dostoyevsky
+47. The Possessed by Fyodor Dostoyevsky
+48. The Gambler by Fyodor Dostoyevsky
+49. The Prince by Niccolò Machiavelli
+50. The Art of War by Sun Tzu
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, and philosophical works.

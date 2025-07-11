@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Anthrax
+3. Sepultura
+4. Overkill
+5. Kreator
+6. Opeth
+7. Children of Bodom
+8. Mastodon
+9. Gojira
+10. Arch Enemy
+11. Meshuggah
+12. Cannibal Corpse
+13. Behemoth
+14. Carcass
+15. Lamb of God
+16. Testament
+17. Exodus
+18. Death
+19. Morbid Angel
+20. Obituary
+21. Entombed
+22. At The Gates
+23. Dark Tranquillity
+24. Soilwork
+25. The Haunted
+26. Insomnium
+27. Amorphis
+28. Katatonia
+29. In Flames
+30. Darkthrone
+31. Mayhem
+32. Emperor
+33. Satyricon
+34. Enslaved
+35. Immortal
+36. Dimmu Borgir
+37. Watain
+38. Marduk
+39. Gorgoroth
+40. Belphegor
+41. Behexen
+42. Taake
+43. 1349
+44. Tsjuder
+45. Carpathian Forest
+46. Shining
+47. Sargeist
+48. Horna
+49. Sólstafir
+50. Drudkh
+
+These recommendations are based on the user's liking of similar artists and the genres they represent.

@@ -1,0 +1,54 @@
+Based on user 44's preferences, here are the top-50 recommendations for them:
+
+1. Pink Floyd
+2. Muse
+3. Nirvana
+4. Metallica
+5. Led Zeppelin
+6. Radiohead
+7. The Beatles
+8. Iron Maiden
+9. Queen
+10. The Rolling Stones
+11. Black Sabbath
+12. AC/DC
+13. The Killers
+14. Foo Fighters
+15. Coldplay
+16. Green Day
+17. Nine Inch Nails
+18. My Chemical Romance
+19. Linkin Park
+20. Arctic Monkeys
+21. The Cure
+22. Pearl Jam
+23. System of a Down
+24. The Mars Volta
+25. Paramore
+26. Avenged Sevenfold
+27. Placebo
+28. Muse
+29. The Jimi Hendrix Experience
+30. Alice in Chains
+31. Megadeth
+32. Queens of the Stone Age
+33. Faith No More
+34. Elliott Smith
+35. Johnny Cash
+36. Mogwai
+37. Mastodon
+38. Nick Drake
+39. A Silver Mt. Zion
+40. Cat Power
+41. David Gilmour
+42. Blind Guardian
+43. Sigur Rós
+44. Madonna
+45. Lady Gaga
+46. Britney Spears
+47. Rihanna
+48. Christina Aguilera
+49. Shakira
+50. Beyoncé
+
+These recommendations are based on the user's liking of similar artists and their preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Secret History by Donna Tartt
+2. The Thirteenth Tale by Diane Setterfield
+3. The Night Circus by Erin Morgenstern
+4. The Shadow of the Wind by Carlos Ruiz Zafón
+5. The Historian by Elizabeth Kostova
+6. The Name of the Wind by Patrick Rothfuss
+7. The Book Thief by Markus Zusak
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Goldfinch by Donna Tartt
+10. The Nightingale by Kristin Hannah
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. The Help by Kathryn Stockett
+13. The Lovely Bones by Alice Sebold
+14. The Kite Runner by Khaled Hosseini
+15. The Alchemist by Paulo Coelho
+16. The Fault in Our Stars by John Green
+17. The Hunger Games by Suzanne Collins
+18. The Maze Runner by James Dashner
+19. The Giver by Lois Lowry
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. The Catcher in the Rye by J.D. Salinger
+22. The Bell Jar by Sylvia Plath
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Great Gatsby by F. Scott Fitzgerald
+25. To Kill a Mockingbird by Harper Lee
+26. Pride and Prejudice by Jane Austen
+27. Jane Eyre by Charlotte Brontë
+28. Wuthering Heights by Emily Brontë
+29. Rebecca by Daphne du Maurier
+30. Gone with the Wind by Margaret Mitchell
+31. Little Women by Louisa May Alcott
+32. Anne of Green Gables by L.M. Montgomery
+33. The Secret Garden by Frances Hodgson Burnett
+34. A Little Princess by Frances Hodgson Burnett
+35. The Chronicles of Narnia by C.S. Lewis
+36. Harry Potter series by J.K. Rowling
+37. The Hobbit by J.R.R. Tolkien
+38. The Lord of the Rings by J.R.R. Tolkien
+39. His Dark Materials by Philip Pullman
+40. Eragon by Christopher Paolini
+41. Percy Jackson & the Olympians by Rick Riordan
+42. The Inheritance Cycle by Christopher Paolini
+43. The Mortal Instruments by Cassandra Clare
+44. The Infernal Devices by Cassandra Clare
+45. The Hunger Games by Suzanne Collins
+46. Divergent by Veronica Roth
+47. The Maze Runner by James Dashner
+48. The Giver by Lois Lowry
+49. The Selection by Kiera Cass
+50. Uglies by Scott Westerfeld
+
+These recommendations are based on the user's preference for mystery, historical fiction, fantasy, and young adult novels.

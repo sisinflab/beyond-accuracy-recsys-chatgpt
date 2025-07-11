@@ -1,0 +1,52 @@
+Based on user 124's preferences, here are the top 50 book recommendations:
+
+1. The Martian Chronicles by Ray Bradbury
+2. Lord of the Flies by William Golding
+3. The Lovely Bones by Alice Sebold
+4. Twilight Eyes by Dean Koontz
+5. Frankenstein by Mary Shelley
+6. Redwall (novel) by Brian Jacques, Stuart Moore
+7. Fahrenheit 451 by Ray Bradbury
+8. The Last Lecture
+9. Harry Potter
+10. The Chronicles of Narnia: Prince Caspian
+11. The Lord of the Rings
+12. The Great Gatsby
+13. To Kill a Mockingbird
+14. Crime and Punishment
+15. The Da Vinci Code
+16. Dracula
+17. A Clockwork Orange
+18. Macbeth
+19. The Canterbury Tales
+20. A Tale of Two Cities
+21. And Then There Were None
+22. Animal Farm
+23. Heart of Darkness
+24. Moby-Dick
+25. Anthem (novella)
+26. The Glass Menagerie
+27. Les Misérables
+28. Persuasion (novel)
+29. Iliad
+30. Emma (novel)
+31. Romeo and Juliet
+32. David Copperfield
+33. Forever... (Blume novel)
+34. The Alchemist (novel)
+35. Ramayana
+36. Fallen (Kate novel)
+37. Thirteen Reasons Why
+38. The Count of Monte Cristo
+39. King Solomon's Mines
+40. Captain Underpants
+41. Teaching with Calvin and Hobbes
+42. Jane Eyre
+43. Holes (novel)
+44. Vanity Fair (novel)
+45. The Screwtape Letters
+46. Sense and Sensibility
+47. Lolita
+48. Marvel Books
+49. This Is Your Brain On Music
+50. The Castle (novel)

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Madonna
+2. Pink
+3. Gwen Stefani
+4. Kelly Clarkson
+5. Selena Gomez
+6. Demi Lovato
+7. Ariana Grande
+8. Justin Bieber
+9. One Direction
+10. Selena
+11. Demi Lovato
+12. Ariana Grande
+13. Justin Bieber
+14. One Direction
+15. Selena
+16. Demi Lovato
+17. Ariana Grande
+18. Justin Bieber
+19. One Direction
+20. Selena
+21. Demi Lovato
+22. Ariana Grande
+23. Justin Bieber
+24. One Direction
+25. Selena
+26. Demi Lovato
+27. Ariana Grande
+28. Justin Bieber
+29. One Direction
+30. Selena
+31. Demi Lovato
+32. Ariana Grande
+33. Justin Bieber
+34. One Direction
+35. Selena
+36. Demi Lovato
+37. Ariana Grande
+38. Justin Bieber
+39. One Direction
+40. Selena
+41. Demi Lovato
+42. Ariana Grande
+43. Justin Bieber
+44. One Direction
+45. Selena
+46. Demi Lovato
+47. Ariana Grande
+48. Justin Bieber
+49. One Direction
+50. Selena

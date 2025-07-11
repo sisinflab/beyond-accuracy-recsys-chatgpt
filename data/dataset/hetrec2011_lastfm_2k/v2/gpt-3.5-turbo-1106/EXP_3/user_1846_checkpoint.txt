@@ -1,0 +1,54 @@
+Based on user 1846's preferences, here are the top-50 recommendations for the user:
+
+1. The Kinks
+2. George Harrison
+3. John Lennon
+4. Oasis
+5. Van Morrison
+6. The National
+7. Belle and Sebastian
+8. Fleetwood Mac
+9. Jason Mraz
+10. Coldplay
+11. The Who
+12. Gorillaz
+13. Phoenix
+14. The Byrds
+15. Blur
+16. The Cardigans
+17. The Eagles
+18. Plain White T's
+19. Regina Spektor
+20. The Flashbulb
+21. Johann Sebastian Bach
+22. Alice in Chains
+23. AC/DC
+24. Metallica
+25. Pink Floyd
+26. Muse
+27. Led Zeppelin
+28. Eric Clapton
+29. Dave Matthews Band
+30. Beastie Boys
+31. Arctic Monkeys
+32. Boards of Canada
+33. Megadeth
+34. Rammstein
+35. The Doors
+36. Iron Maiden
+37. Scorpions
+38. Buddy Holly
+39. Aphex Twin
+40. Deftones
+41. Crystal Castles
+42. Chiodos
+43. Flyleaf
+44. Alesana
+45. Keane
+46. Foo Fighters
+47. Van Halen
+48. Leonard Cohen
+49. Luis Miguel
+50. The Who
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their taste in music.

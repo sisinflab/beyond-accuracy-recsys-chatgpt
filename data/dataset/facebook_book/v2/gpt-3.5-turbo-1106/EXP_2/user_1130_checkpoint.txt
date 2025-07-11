@@ -1,0 +1,54 @@
+Based on user 1130's liking of certain books, here are the top 50 recommendations for them:
+
+1. Harry Potter
+2. The Hobbit
+3. The Great Gatsby
+4. The Picture of Dorian Gray
+5. The Catcher in the Rye
+6. The Lord of the Rings
+7. The Unbearable Lightness of Being
+8. The Stand
+9. The Maze Runner
+10. The City of Ember
+11. The Southern Vampire Mysteries
+12. The Silmarillion
+13. The Giver
+14. The House of Mirth
+15. The Phantom of the Opera
+16. The Outsiders (novel)
+17. The Lost Books (novel series)
+18. The Rapture (novel)
+19. The Tenant of Wildfell Hall
+20. The Scarlet Letter
+21. The Picture of Dorian Gray
+22. The Great Gatsby
+23. The Catcher in the Rye
+24. The Lord of the Rings
+25. The Unbearable Lightness of Being
+26. The Stand
+27. The Maze Runner
+28. The City of Ember
+29. The Southern Vampire Mysteries
+30. The Silmarillion
+31. The Giver
+32. The House of Mirth
+33. The Phantom of the Opera
+34. The Outsiders (novel)
+35. The Lost Books (novel series)
+36. The Rapture (novel)
+37. The Tenant of Wildfell Hall
+38. The Scarlet Letter
+39. The Picture of Dorian Gray
+40. The Great Gatsby
+41. The Catcher in the Rye
+42. The Lord of the Rings
+43. The Unbearable Lightness of Being
+44. The Stand
+45. The Maze Runner
+46. The City of Ember
+47. The Southern Vampire Mysteries
+48. The Silmarillion
+49. The Giver
+50. The House of Mirth
+
+These recommendations are based on the user's liking of similar books and authors.

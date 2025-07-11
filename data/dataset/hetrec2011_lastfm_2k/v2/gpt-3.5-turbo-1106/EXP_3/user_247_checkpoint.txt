@@ -1,0 +1,54 @@
+Based on user 247's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Avenged Sevenfold
+2. 30 Seconds to Mars
+3. Alter Bridge
+4. A Day to Remember
+5. Skillet
+6. Atreyu
+7. Story of the Year
+8. Rise Against
+9. Shinedown
+10. 3 Doors Down
+11. Metallica
+12. Bullet for My Valentine
+13. Korn
+14. Paramore
+15. Disturbed
+16. My Chemical Romance
+17. P.O.D.
+18. Creed
+19. Papa Roach
+20. Muse
+21. Slipknot
+22. Linkin Park
+23. Goo Goo Dolls
+24. Sum 41
+25. Lostprophets
+26. Escape The Fate
+27. YUI
+28. Lady Gaga
+29. Angels & Airwaves
+30. Rammstein
+31. The Killers
+32. Good Charlotte
+33. Alexisonfire
+34. OneRepublic
+35. Katy Perry
+36. Biffy Clyro
+37. The Temper Trap
+38. HIM
+39. Lacuna Coil
+40. Simple Plan
+41. Nightwish
+42. Secondhand Serenade
+43. Tenacious D
+44. Bon Jovi
+45. Limp Bizkit
+46. Heaven Shall Burn
+47. Brad Paisley
+48. The Fray
+49. Lifehouse
+50. The Red Jumpsuit Apparatus
+
+These recommendations are based on the similarity of the listed artists to the user's preferences.

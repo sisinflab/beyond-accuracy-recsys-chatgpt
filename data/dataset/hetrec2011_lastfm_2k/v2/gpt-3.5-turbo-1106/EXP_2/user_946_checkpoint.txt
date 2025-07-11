@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 946:
+
+1. Paramore
+2. All Time Low
+3. Green Day
+4. Linkin Park
+5. My Chemical Romance
+6. The Killers
+7. Blink-182
+8. Fall Out Boy
+9. Panic! At The Disco
+10. Sum 41
+11. A Day to Remember
+12. We The Kings
+13. Boys Like Girls
+14. The Used
+15. Cobra Starship
+16. Escape The Fate
+17. The Maine
+18. Funeral for a Friend
+19. Cute Is What We Aim For
+20. Forever the Sickest Kids
+21. Metro Station
+22. A Rocket to the Moon
+23. Cash Cash
+24. The Summer Set
+25. nevershoutnever!
+26. The Calling
+27. The Devil Wears Prada
+28. Gloria
+29. Restart
+30. HEVO84
+31. Britney Spears
+32. Lady Gaga
+33. Rihanna
+34. Katy Perry
+35. Avril Lavigne
+36. Taylor Swift
+37. Glee Cast
+38. Beyoncé
+39. Miley Cyrus
+40. Ke$ha
+41. Kelly Clarkson
+42. P!nk
+43. Avenged Sevenfold
+44. Iron Maiden
+45. Metallica
+46. Nirvana
+47. Pearl Jam
+48. Michael Jackson
+49. Madonna
+50. Christina Aguilera
+
+These recommendations are based on the user's liking of similar artists and are re-ranked to reflect their preferences.

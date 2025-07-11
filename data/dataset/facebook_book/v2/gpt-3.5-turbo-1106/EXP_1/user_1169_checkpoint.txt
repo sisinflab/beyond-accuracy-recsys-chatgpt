@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Secret Garden by Frances Hodgson Burnett
+4. The Wind in the Willows by Kenneth Grahame
+5. A Wrinkle in Time by Madeleine L'Engle
+6. The Phantom Tollbooth by Norton Juster
+7. The Giver by Lois Lowry
+8. The Alchemist by Paulo Coelho
+9. The Catcher in the Rye by J.D. Salinger
+10. The Great Gatsby by F. Scott Fitzgerald
+11. 1984 by George Orwell
+12. Brave New World by Aldous Huxley
+13. Fahrenheit 451 by Ray Bradbury
+14. The Grapes of Wrath by John Steinbeck
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Catcher in the Rye by J.D. Salinger
+17. The Bell Jar by Sylvia Plath
+18. One Hundred Years of Solitude by Gabriel Garcia Marquez
+19. The Kite Runner by Khaled Hosseini
+20. The Book Thief by Markus Zusak
+21. The Night Circus by Erin Morgenstern
+22. The Name of the Wind by Patrick Rothfuss
+23. The Shadow of the Wind by Carlos Ruiz Zafón
+24. The Goldfinch by Donna Tartt
+25. The Nightingale by Kristin Hannah
+26. The Help by Kathryn Stockett
+27. The Girl on the Train by Paula Hawkins
+28. Gone Girl by Gillian Flynn
+29. The Da Vinci Code by Dan Brown
+30. Angels & Demons by Dan Brown
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Hunger Games by Suzanne Collins
+33. Divergent by Veronica Roth
+34. The Maze Runner by James Dashner
+35. The Fault in Our Stars by John Green
+36. Eleanor & Park by Rainbow Rowell
+37. Me Before You by Jojo Moyes
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Lovely Bones by Alice Sebold
+40. Room by Emma Donoghue
+41. The Glass Castle by Jeannette Walls
+42. Educated by Tara Westover
+43. Wild by Cheryl Strayed
+44. Into the Wild by Jon Krakauer
+45. Eat, Pray, Love by Elizabeth Gilbert
+46. The Road by Cormac McCarthy
+47. The Martian by Andy Weir
+48. Ready Player One by Ernest Cline
+49. Dark Matter by Blake Crouch
+50. The Handmaid's Tale by Margaret Atwood
+
+These recommendations are based on the user's interest in a variety of genres and themes, including fantasy, classics, adventure, and coming-of-age stories.

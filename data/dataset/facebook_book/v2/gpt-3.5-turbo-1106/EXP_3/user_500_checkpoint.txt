@@ -1,0 +1,54 @@
+Based on user 500's preferences, here are the top 50 book recommendations:
+
+1. The Lovely Bones by Alice Sebold
+2. Jane Eyre by Charlotte Brontë
+3. Maximum Ride by []
+4. Wyvernhail by Amelia Atwater-Rhodes
+5. Falcondance by Amelia Atwater-Rhodes
+6. Hawksong by Amelia Atwater-Rhodes
+7. In the Forests of the Night by Amelia Atwater-Rhodes
+8. Shattered Mirror by Amelia Atwater-Rhodes
+9. Ink Exchange
+10. Tithe: A Modern Faerie Tale
+11. Vampire Kisses
+12. The Time Traveler's Wife
+13. Crank (novel)
+14. I Am Number Four
+15. The Hobbit
+16. Gone (novel series)
+17. The Moorchild
+18. Vampire Knight
+19. I Am Legend (novel)
+20. Gormenghast (novel)
+21. Witch & Wizard
+22. Atonement (novel)
+23. Eragon
+24. Go Ask Alice
+25. Strange Case of Dr Jekyll and Mr Hyde
+26. The Chronicles of Narnia: Prince Caspian
+27. Snakecharm
+28. Harry Potter
+29. Glass (novel)
+30. Revolutionary Road
+31. The Hours (novel)
+32. Annie on My Mind
+33. Jinx (novel)
+34. From the Corner of His Eye
+35. The Lord of the Rings
+36. Les Misérables
+37. Princess Academy
+38. Of Mice and Men
+39. Twilight (series)
+40. The Last Olympian
+41. Tess of the d'Urbervilles
+42. The Time Machine
+43. Jessica's Guide to Dating on the Dark Side
+44. Fallen (Kate novel)
+45. The Giver
+46. Peter and Wendy
+47. Valiant : A Modern Tale of Faerie
+48. Ralph the Heir
+49. Treasure Island
+50. Artist's book
+
+These recommendations are based on the user's previous likes and are tailored to their specific tastes.

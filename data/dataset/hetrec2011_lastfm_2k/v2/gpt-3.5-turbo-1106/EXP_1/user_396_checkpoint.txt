@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. Pet Shop Boys
+3. Yazoo
+4. Erasure
+5. Camouflage
+6. OMD (Orchestral Manoeuvres in the Dark)
+7. Gary Numan
+8. The Human League
+9. Front 242
+10. Covenant
+11. VNV Nation
+12. Apoptygma Berzerk
+13. Mesh
+14. Assemblage 23
+15. Blutengel
+16. Wolfsheim
+17. De/Vision
+18. And One
+19. Diorama
+20. Rotersand
+21. Seabound
+22. Frozen Plasma
+23. Neuroticfish
+24. Icon of Coil
+25. Aesthetic Perfection
+26. Solar Fake
+27. Solitary Experiments
+28. S.P.O.C.K
+29. X Marks the Pedwalk
+30. Beborn Beton
+31. Project Pitchfork
+32. Diary of Dreams
+33. Camouflage
+34. Diorama
+35. Mesh
+36. Blutengel
+37. Wolfsheim
+38. De/Vision
+39. Apoptygma Berzerk
+40. Rotersand
+41. Seabound
+42. Frozen Plasma
+43. Neuroticfish
+44. Icon of Coil
+45. Aesthetic Perfection
+46. Solar Fake
+47. Solitary Experiments
+48. S.P.O.C.K
+49. X Marks the Pedwalk
+50. Beborn Beton
+
+These recommendations are based on the user's liking of similar artists and genres.

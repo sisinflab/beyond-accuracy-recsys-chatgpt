@@ -1,0 +1,54 @@
+Based on user 14's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Giver by Lois Lowry
+4. The Maze Runner by James Dashner
+5. The Fault in Our Stars by John Green
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. The Book Thief by Markus Zusak
+8. To Kill a Mockingbird by Harper Lee
+9. The Catcher in the Rye by J.D. Salinger
+10. The Lovely Bones by Alice Sebold
+11. Thirteen Reasons Why by Jay Asher
+12. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+13. The Alchemist by Paulo Coelho
+14. The Kite Runner by Khaled Hosseini
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Help by Kathryn Stockett
+17. The Night Circus by Erin Morgenstern
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Secret History by Donna Tartt
+20. The Goldfinch by Donna Tartt
+21. The Bell Jar by Sylvia Plath
+22. The Handmaid's Tale by Margaret Atwood
+23. The Road by Cormac McCarthy
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Great Gatsby by F. Scott Fitzgerald
+26. 1984 by George Orwell
+27. Animal Farm by George Orwell
+28. Lord of the Flies by William Golding
+29. One Flew Over the Cuckoo's Nest by Ken Kesey
+30. Catch-22 by Joseph Heller
+31. Slaughterhouse-Five by Kurt Vonnegut
+32. The Stranger by Albert Camus
+33. The Old Man and the Sea by Ernest Hemingway
+34. The Sun Also Rises by Ernest Hemingway
+35. A Farewell to Arms by Ernest Hemingway
+36. The Catcher Was a Spy by Nicholas Dawidoff
+37. The Catcher in the Rye by J.D. Salinger
+38. The Outsiders by S.E. Hinton
+39. The Road by Cormac McCarthy
+40. The Stand by Stephen King
+41. The Shining by Stephen King
+42. The Girl with the Dragon Tattoo by Stieg Larsson
+43. The Girl Who Played with Fire by Stieg Larsson
+44. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+45. The Help by Kathryn Stockett
+46. The Secret Life of Bees by Sue Monk Kidd
+47. The Lovely Bones by Alice Sebold
+48. The Book Thief by Markus Zusak
+49. The Perks of Being a Wallflower by Stephen Chbosky
+50. The Fault in Our Stars by John Green
+
+These recommendations are based on the user's interest in young adult fiction, dystopian literature, and classic novels.

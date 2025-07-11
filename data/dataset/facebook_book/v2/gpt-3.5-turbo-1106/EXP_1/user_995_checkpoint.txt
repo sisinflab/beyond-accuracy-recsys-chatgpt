@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. The Kite Runner by Khaled Hosseini
+7. The Book Thief by Markus Zusak
+8. The Alchemist by Paulo Coelho
+9. The Night Circus by Erin Morgenstern
+10. The Secret History by Donna Tartt
+11. The Goldfinch by Donna Tartt
+12. The Shadow of the Wind by Carlos Ruiz Zafón
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Road by Cormac McCarthy
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Help by Kathryn Stockett
+17. The Girl on the Train by Paula Hawkins
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Glass Castle by Jeannette Walls
+20. The Handmaid's Tale by Margaret Atwood
+21. The Martian by Andy Weir
+22. The Hunger Games by Suzanne Collins
+23. The Fault in Our Stars by John Green
+24. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Giver by Lois Lowry
+27. The Maze Runner by James Dashner
+28. The Da Vinci Code by Dan Brown
+29. The Lost Symbol by Dan Brown
+30. Inferno by Dan Brown
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+34. The Help by Kathryn Stockett
+35. The Lovely Bones by Alice Sebold
+36. The Bell Jar by Sylvia Plath
+37. The Road by Cormac McCarthy
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Help by Kathryn Stockett
+40. The Girl on the Train by Paula Hawkins
+41. The Time Traveler's Wife by Audrey Niffenegger
+42. The Glass Castle by Jeannette Walls
+43. The Handmaid's Tale by Margaret Atwood
+44. The Martian by Andy Weir
+45. The Hunger Games by Suzanne Collins
+46. The Fault in Our Stars by John Green
+47. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+48. The Perks of Being a Wallflower by Stephen Chbosky
+49. The Giver by Lois Lowry
+50. The Maze Runner by James Dashner
+
+These recommendations are based on the user's liking of similar books and authors.

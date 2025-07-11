@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. Green Day
+3. Fall Out Boy
+4. Panic! At The Disco
+5. Bring Me The Horizon
+6. Avenged Sevenfold
+7. Three Days Grace
+8. Evanescence
+9. System Of A Down
+10. Muse
+11. Seether
+12. Skillet
+13. Shinedown
+14. The Killers
+15. AFI
+16. Stone Sour
+17. Korn
+18. Red Hot Chili Peppers
+19. The Offspring
+20. Foo Fighters
+21. Sum 41
+22. The All-American Rejects
+23. 10 Years
+24. Chevelle
+25. P.O.D.
+26. Hoobastank
+27. Staind
+28. Incubus
+29. The Pretty Reckless
+30. Halestorm
+31. Puddle Of Mudd
+32. 12 Stones
+33. Crossfade
+34. Hinder
+35. Adelitas Way
+36. Art Of Dying
+37. Trapt
+38. Sick Puppies
+39. Nonpoint
+40. Drowning Pool
+41. Sevendust
+42. Fuel
+43. Saliva
+44. 3 Doors Down
+45. Breaking Benjamin
+46. Papa Roach
+47. Theory Of A Deadman
+48. Three Days Grace
+49. Seether
+50. Skillet
+
+These recommendations are based on the user's liking of similar artists and genres.

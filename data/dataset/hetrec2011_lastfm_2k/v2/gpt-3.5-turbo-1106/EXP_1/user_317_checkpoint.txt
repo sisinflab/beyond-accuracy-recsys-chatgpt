@@ -1,0 +1,54 @@
+Based on user 317's preferences, here are the top 50 recommendations:
+
+1. Bob Dylan
+2. Jimi Hendrix
+3. Bob Marley
+4. Fleetwood Mac
+5. The Velvet Underground
+6. The Beach Boys
+7. The Kinks
+8. Tom Petty and the Heartbreakers
+9. The Smiths
+10. Pearl Jam
+11. R.E.M.
+12. Oasis
+13. Radiohead
+14. The Rolling Stones
+15. The Doors
+16. Elvis Presley
+17. The Beatles
+18. David Bowie
+19. Neil Young
+20. Bruce Springsteen
+21. Nirvana
+22. Guns N' Roses
+23. Janis Joplin
+24. Queen
+25. Patti Smith
+26. Pink Floyd
+27. Lou Reed
+28. The Who
+29. U2
+30. Amy Winehouse
+31. The Cure
+32. Led Zeppelin
+33. AC/DC
+34. Metallica
+35. KISS
+36. Black Sabbath
+37. Iron Maiden
+38. Michael Jackson
+39. The Clash
+40. T. Rex
+41. Red Hot Chili Peppers
+42. Bob Dylan
+43. Jimi Hendrix
+44. Bob Marley
+45. Fleetwood Mac
+46. The Velvet Underground
+47. The Beach Boys
+48. The Kinks
+49. Tom Petty and the Heartbreakers
+50. The Smiths
+
+These recommendations are based on the user's existing preferences and are designed to introduce them to similar artists they may enjoy.

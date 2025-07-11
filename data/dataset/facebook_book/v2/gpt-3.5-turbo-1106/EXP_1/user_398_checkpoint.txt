@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Mortal Instruments (series) by Cassandra Clare
+4. The Fault in Our Stars by John Green
+5. The Maze Runner by James Dashner
+6. The Selection by Kiera Cass
+7. The Giver by Lois Lowry
+8. Delirium by Lauren Oliver
+9. Matched by Ally Condie
+10. The 5th Wave by Rick Yancey
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. The Sisterhood of the Traveling Pants by Ann Brashares
+13. The Secret Circle (series) by L.J. Smith
+14. The Vampire Diaries by L.J. Smith
+15. The Infernal Devices (series) by Cassandra Clare
+16. The Uglies (series) by Scott Westerfeld
+17. The Luxe (series) by Anna Godbersen
+18. The Clique (series) by Lisi Harrison
+19. The Princess Diaries (series) by Meg Cabot
+20. The Chronicles of Narnia (series) by C.S. Lewis
+21. The Twilight Saga by Stephenie Meyer
+22. The Vampire Academy (series) by Richelle Mead
+23. The Northern Lights (His Dark Materials) by Philip Pullman
+24. The Pretty Little Liars (series) by Sara Shepard
+25. The House of Night (series) by P.C. Cast and Kristin Cast
+26. The Vampire Beach (series) by Alex Duval
+27. The Ruby Red Trilogy by Kerstin Gier
+28. The Darkest Minds by Alexandra Bracken
+29. The Lunar Chronicles by Marissa Meyer
+30. The Chemical Garden Trilogy by Lauren DeStefano
+31. The Legend Trilogy by Marie Lu
+32. The Shatter Me Series by Tahereh Mafi
+33. The Grisha Trilogy by Leigh Bardugo
+34. The Red Queen Series by Victoria Aveyard
+35. The Selection Series by Kiera Cass
+36. The Delirium Series by Lauren Oliver
+37. The Matched Trilogy by Ally Condie
+38. The 5th Wave Series by Rick Yancey
+39. The Maze Runner Series by James Dashner
+40. The Giver Quartet by Lois Lowry
+41. The Sisterhood of the Traveling Pants Series by Ann Brashares
+42. The Secret Circle Series by L.J. Smith
+43. The Vampire Diaries Series by L.J. Smith
+44. The Infernal Devices Series by Cassandra Clare
+45. The Uglies Series by Scott Westerfeld
+46. The Luxe Series by Anna Godbersen
+47. The Clique Series by Lisi Harrison
+48. The Princess Diaries Series by Meg Cabot
+49. The Chronicles of Narnia Series by C.S. Lewis
+50. The Twilight Saga by Stephenie Meyer
+
+These recommendations are based on similar themes, genres, and authors to the books the user already likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Stranger by Albert Camus
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. The Road by Cormac McCarthy
+12. The Kite Runner by Khaled Hosseini
+13. The Grapes of Wrath by John Steinbeck
+14. The Sun Also Rises by Ernest Hemingway
+15. The Handmaid's Tale by Margaret Atwood
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. The Sound and the Fury by William Faulkner
+19. East of Eden by John Steinbeck
+20. The Fountainhead by Ayn Rand
+21. The Plague by Albert Camus
+22. The Unbearable Lightness of Being by Milan Kundera
+23. The Trial by Franz Kafka
+24. The Stranger by Harlan Coben
+25. The Secret History by Donna Tartt
+26. The Goldfinch by Donna Tartt
+27. The Night Circus by Erin Morgenstern
+28. The Shadow of the Wind by Carlos Ruiz Zafon
+29. The Book Thief by Markus Zusak
+30. The Secret Life of Bees by Sue Monk Kidd
+31. The Poisonwood Bible by Barbara Kingsolver
+32. The Glass Castle by Jeannette Walls
+33. The Joy Luck Club by Amy Tan
+34. The Color Purple by Alice Walker
+35. The Help by Kathryn Stockett
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Da Vinci Code by Dan Brown
+38. The Girl on the Train by Paula Hawkins
+39. Gone Girl by Gillian Flynn
+40. The Girl with the Pearl Earring by Tracy Chevalier
+41. The Time Traveler's Wife by Audrey Niffenegger
+42. The Lovely Bones by Alice Sebold
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. A Clockwork Orange by Anthony Burgess
+45. The Bell Jar by Sylvia Plath
+46. The Hamlet by William Faulkner
+47. Leviathan by Paul Auster
+48. The Alchemist by Paulo Coelho
+49. Tess of the d'Urbervilles by Thomas Hardy
+50. Black Like Me by John Howard Griffin
+
+These recommendations are based on the user's liking of similar books and authors.

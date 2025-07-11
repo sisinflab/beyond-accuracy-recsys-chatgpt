@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Paramore
+2. My Chemical Romance
+3. Linkin Park
+4. Green Day
+5. The Killers
+6. Muse
+7. 30 Seconds to Mars
+8. Nirvana
+9. Avenged Sevenfold
+10. Metallica
+11. Iron Maiden
+12. Pearl Jam
+13. System of a Down
+14. Nine Inch Nails
+15. Evanescence
+16. A Day to Remember
+17. Three Days Grace
+18. Rise Against
+19. Hollywood Undead
+20. Papa Roach
+21. Escape The Fate
+22. Stone Sour
+23. Limp Bizkit
+24. Hoobastank
+25. Parkway Drive
+26. Haste the Day
+27. A Skylit Drive
+28. Story of the Year
+29. blessthefall
+30. Alexisonfire
+31. Heaven Shall Burn
+32. Dope
+33. Audioslave
+34. Yellowcard
+35. BrokeNCYDE
+36. Red
+37. Madonna
+38. Lady Gaga
+39. Rihanna
+40. Britney Spears
+41. Christina Aguilera
+42. Katy Perry
+43. Avril Lavigne
+44. Taylor Swift
+45. Glee Cast
+46. Beyoncé
+47. U2
+48. Pink Floyd
+49. Kylie Minogue
+50. Miley Cyrus
+
+This re-ranked list takes into account the user's liking for rock and alternative rock bands and places similar artists higher in the recommendations.

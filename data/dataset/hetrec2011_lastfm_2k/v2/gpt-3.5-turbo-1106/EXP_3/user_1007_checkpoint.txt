@@ -1,0 +1,54 @@
+Based on the preferences of user 1007, here are the top 50 recommendations for that user:
+
+1. Keith Urban
+2. Carrie Underwood
+3. Rascal Flatts
+4. Faith Hill
+5. Brad Paisley
+6. Dolly Parton
+7. Johnny Cash
+8. George Strait
+9. Garth Brooks
+10. Dixie Chicks
+11. Shania Twain
+12. Lady Antebellum
+13. Taylor Swift
+14. Jewel
+15. Josh Groban
+16. Billy Joel
+17. Céline Dion
+18. Usher
+19. Vanessa Hudgens
+20. Enrique Iglesias
+21. Backstreet Boys
+22. Kelly Clarkson
+23. Lady Gaga
+24. Rihanna
+25. Adele
+26. The Beatles
+27. Elvis Presley
+28. The Police
+29. The Who
+30. Janet Jackson
+31. Fiona Apple
+32. Lynyrd Skynyrd
+33. Pixie Lott
+34. Muse
+35. Queen
+36. Janis Joplin
+37. Jessie James
+38. Amy Winehouse
+39. Scorpions
+40. Demi Lovato
+41. AC/DC
+42. Lily Allen
+43. Christina Aguilera
+44. Nelly Furtado
+45. Leighton Meester
+46. Ne-Yo
+47. Miley Cyrus
+48. Eagles
+49. Bon Jovi
+50. Glee Cast
+
+These recommendations are based on the similar artists liked by user 1007 and are ranked in order of relevance.

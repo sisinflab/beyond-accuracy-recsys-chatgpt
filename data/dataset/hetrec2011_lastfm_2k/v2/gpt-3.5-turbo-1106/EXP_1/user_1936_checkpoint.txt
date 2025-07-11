@@ -1,0 +1,54 @@
+Based on user 1936's preferences, here are the top 50 recommendations:
+
+1. Tame Impala
+2. Franz Ferdinand
+3. The Killers
+4. Vampire Weekend
+5. Phoenix
+6. Foster the People
+7. Cage The Elephant
+8. The Kooks
+9. Two Door Cinema Club
+10. MGMT
+11. The Neighbourhood
+12. The 1975
+13. Kings of Leon
+14. The Black Keys
+15. HAIM
+16. Florence + The Machine
+17. Arctic Monkeys
+18. The Strokes
+19. Los Hermanos
+20. Little Joy
+21. John Frusciante
+22. Mallu Magalhães
+23. Maria Gadú
+24. Vanguart
+25. Marcelo Camelo
+26. Radiohead
+27. Capital Inicial
+28. The Cardigans
+29. Cássia Eller
+30. Oasis
+31. Marisa Monte
+32. Legião Urbana
+33. John Mayer
+34. Zeca Baleiro
+35. The Mars Volta
+36. The Smashing Pumpkins
+37. Caetano Veloso
+38. The Beatles
+39. Red Hot Chili Peppers
+40. Paramore
+41. 3 Doors Down
+42. Coldplay
+43. Muse
+44. Green Day
+45. Weezer
+46. Blur
+47. Gorillaz
+48. Beck
+49. The White Stripes
+50. Modest Mouse
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists and bands that they may enjoy.

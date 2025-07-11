@@ -1,0 +1,54 @@
+Based on user 1864's preferences, here are the top 50 recommendations:
+
+1. Neil Young
+2. Tom Petty and the Heartbreakers
+3. Bob Dylan
+4. Fleetwood Mac
+5. The Rolling Stones
+6. Pink Floyd
+7. Led Zeppelin
+8. The Doors
+9. Creedence Clearwater Revival
+10. The Allman Brothers Band
+11. Eric Clapton
+12. The Who
+13. Van Morrison
+14. Lynyrd Skynyrd
+15. The Band
+16. David Bowie
+17. The Byrds
+18. The Velvet Underground
+19. The Grateful Dead
+20. The Beach Boys
+21. The Animals
+22. The Yardbirds
+23. Cream
+24. The Byrds
+25. The Hollies
+26. The Turtles
+27. The Zombies
+28. The Monkees
+29. The Lovin' Spoonful
+30. The Mamas & the Papas
+31. The Association
+32. The Seekers
+33. The Troggs
+34. The Box Tops
+35. The Rascals
+36. The Youngbloods
+37. The Spencer Davis Group
+38. The Dave Clark Five
+39. The Hollies
+40. The Animals
+41. The Turtles
+42. The Zombies
+43. The Monkees
+44. The Lovin' Spoonful
+45. The Mamas & the Papas
+46. The Association
+47. The Seekers
+48. The Troggs
+49. The Box Tops
+50. The Rascals
+
+These recommendations are based on the user's liking of classic rock, blues, and folk artists, and are aimed at providing a diverse range of similar artists for the user to explore.

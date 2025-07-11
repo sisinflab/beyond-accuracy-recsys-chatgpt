@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. The Secret History by Donna Tartt
+3. The Historian by Elizabeth Kostova
+4. The Shadow of the Wind by Carlos Ruiz Zafón
+5. The Night Circus by Erin Morgenstern
+6. The Name of the Wind by Patrick Rothfuss
+7. American Gods by Neil Gaiman
+8. Neverwhere by Neil Gaiman
+9. The Picture of Dorian Gray by Oscar Wilde
+10. Dracula by Bram Stoker
+11. Frankenstein by Mary Shelley
+12. Wuthering Heights by Emily Brontë
+13. Jane Eyre by Charlotte Brontë
+14. The Catcher in the Rye by J.D. Salinger
+15. To Kill a Mockingbird by Harper Lee
+16. 1984 by George Orwell
+17. Brave New World by Aldous Huxley
+18. Fahrenheit 451 by Ray Bradbury
+19. Slaughterhouse-Five by Kurt Vonnegut
+20. One Hundred Years of Solitude by Gabriel García Márquez
+21. Love in the Time of Cholera by Gabriel García Márquez
+22. The Alchemist by Paulo Coelho
+23. The Book Thief by Markus Zusak
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. The Road by Cormac McCarthy
+27. The Stand by Stephen King
+28. The Dark Tower series by Stephen King
+29. The Bone Clocks by David Mitchell
+30. Cloud Atlas by David Mitchell
+31. The Goldfinch by Donna Tartt
+32. The Hobbit by J.R.R. Tolkien
+33. The Silmarillion by J.R.R. Tolkien
+34. The Children of Húrin by J.R.R. Tolkien
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Once and Future King by T.H. White
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Name of the Wind by Patrick Rothfuss
+39. Mistborn series by Brandon Sanderson
+40. The Way of Kings by Brandon Sanderson
+41. The Lies of Locke Lamora by Scott Lynch
+42. The Blade Itself by Joe Abercrombie
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Blade Itself by Joe Abercrombie
+45. The Final Empire by Brandon Sanderson
+46. The Way of Kings by Brandon Sanderson
+47. The Lies of Locke Lamora by Scott Lynch
+48. The Blade Itself by Joe Abercrombie
+49. The Final Empire by Brandon Sanderson
+50. The Way of Kings by Brandon Sanderson
+
+These recommendations are based on the user's interest in fantasy, classic literature, and dark, atmospheric novels.

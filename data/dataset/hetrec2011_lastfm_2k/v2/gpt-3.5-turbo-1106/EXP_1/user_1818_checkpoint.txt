@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. U2
+2. Depeche Mode
+3. Oasis
+4. Queen
+5. David Bowie
+6. The Cure
+7. INXS
+8. New Order
+9. The Rolling Stones
+10. Fleetwood Mac
+11. Talking Heads
+12. The Clash
+13. R.E.M.
+14. The Human League
+15. Tears for Fears
+16. Echo & the Bunnymen
+17. The Smithereens
+18. The Psychedelic Furs
+19. The Waterboys
+20. The Church
+21. The Alarm
+22. The Replacements
+23. The Jam
+24. The Style Council
+25. The Housemartins
+26. The Lightning Seeds
+27. The Charlatans
+28. The Stone Roses
+29. The La's
+30. The Verve
+31. The Cranberries
+32. The Cardigans
+33. The Sundays
+34. The Lemonheads
+35. The Dandy Warhols
+36. The Flaming Lips
+37. The Shins
+38. The National
+39. The War on Drugs
+40. The Killers
+41. Pet Shop Boys
+42. Bruce Springsteen
+43. Coldplay
+44. Simple Minds
+45. The Smiths
+46. Placebo
+47. Spandau Ballet
+48. a-ha
+49. Bryan Adams
+50. The Police
+
+These recommendations are based on the user's liking of similar artists and are intended to provide a diverse range of options that align with their music preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences and the additional list of books, here are the top 50 recommendations for user 1148:
+
+1. The Picture of Dorian Gray by Oscar Wilde
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. Welcome to the Monkey House by Kurt Vonnegut
+4. Catch-22 by Joseph Heller
+5. The Grapes of Wrath by John Steinbeck
+6. Atonement (novel) by Ian McEwan
+7. Never Let Me Go (novel) by Kazuo Ishiguro
+8. Things Fall Apart by Chinua Achebe
+9. Wuthering Heights by Emily Brontë
+10. Angels in America: A Gay Fantasia on National Themes by Tony Kushner
+11. Animal Farm by George Orwell
+12. The Old Man and the Sea
+13. Dracula
+14. A Thousand Splendid Suns
+15. Les Misérables
+16. Freakonomics
+17. The Tipping Point
+18. Jane Eyre
+19. Harry Potter
+20. The Importance of Being Earnest
+21. Little Women
+22. Paper Towns
+23. The Merchant of Venice
+24. Macbeth
+25. War and Peace
+26. Great Expectations
+27. Enduring Love
+28. Nineteen Eighty-Four
+29. Sense and Sensibility
+30. Moby-Dick
+31. Wide Sargasso Sea
+32. The Alchemist (novel)
+33. On the Origin of Species
+34. Alice's Adventures in Wonderland
+35. Sons and Lovers
+36. Something Wicked This Way Comes (novel)
+37. The Crucible of Time
+38. Will Grayson, Will Grayson
+39. The Prisoner of Zenda
+40. Raise High the Roof Beam, Carpenters and Seymour: An Introduction
+41. Ariel (book)
+42. Day Watch (novel)
+43. Twenty Thousand Leagues Under the Sea
+44. The Da Vinci Code
+45. Angels & Demons
+46. The Holy Blood and the Holy Grail
+47. We Were Soldiers Once… And Young
+48. The Perks of Being a Wallflower
+49. Chronicles of Ancient Darkness
+50. Weetzie Bat
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended books to those preferences.

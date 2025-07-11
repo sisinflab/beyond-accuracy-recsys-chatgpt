@@ -1,0 +1,54 @@
+Based on user 890's preferences, here are the top 50 recommendations for them:
+
+1. The Who
+2. Aerosmith
+3. Guns N' Roses
+4. Velvet Revolver
+5. Poison
+6. Bob Dylan
+7. The Clash
+8. Deep Purple
+9. Eagles
+10. Fleetwood Mac
+11. Duran Duran
+12. Muse
+13. Mötley Crüe
+14. Creedence Clearwater Revival
+15. Bruce Springsteen
+16. Nickelback
+17. Bob Marley & The Wailers
+18. Jethro Tull
+19. Jet
+20. Ramones
+21. Foo Fighters
+22. Whitesnake
+23. Megadeth
+24. Nirvana
+25. R.E.M.
+26. Jimi Hendrix
+27. Europe
+28. Angra
+29. David Bowie
+30. Dire Straits
+31. Supergrass
+32. The Beach Boys
+33. Blondie
+34. Michael Jackson
+35. Madonna
+36. Mariah Carey
+37. Luis Miguel
+38. The Cranberries
+39. Simple Minds
+40. The Rolling Stones
+41. The Police
+42. Pink Floyd
+43. Iron Maiden
+44. Lenny Kravitz
+45. Metallica
+46. Billy Idol
+47. INXS
+48. Foreigner
+49. The Cure
+50. The Smiths
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

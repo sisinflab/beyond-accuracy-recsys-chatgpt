@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. Tame Impala
+3. The White Stripes
+4. LCD Soundsystem
+5. Arcade Fire
+6. The Killers
+7. Vampire Weekend
+8. The Smiths
+9. Oasis
+10. The Kooks
+11. Florence + The Machine
+12. The National
+13. Phoenix
+14. MGMT
+15. The xx
+16. Arctic Monkeys
+17. Radiohead
+18. Franz Ferdinand
+19. Interpol
+20. Belle and Sebastian
+21. The Black Keys
+22. The Libertines
+23. Yeah Yeah Yeahs
+24. The Flaming Lips
+25. Modest Mouse
+26. Spoon
+27. The Shins
+28. Death Cab for Cutie
+29. Bloc Party
+30. Foals
+31. The Vaccines
+32. Two Door Cinema Club
+33. Bombay Bicycle Club
+34. The Wombats
+35. The Hives
+36. The Vines
+37. The Raconteurs
+38. The Bravery
+39. The Fratellis
+40. The Ting Tings
+41. The Rapture
+42. The Pigeon Detectives
+43. The Zutons
+44. The Futureheads
+45. The Cribs
+46. The Subways
+47. The Maccabees
+48. The Courteeners
+49. The View
+50. The Horrors
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands that the user may enjoy.

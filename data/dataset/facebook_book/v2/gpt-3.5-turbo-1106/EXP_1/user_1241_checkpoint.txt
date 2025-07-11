@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Alchemist by Paulo Coelho
+7. The Kite Runner by Khaled Hosseini
+8. The Road by Cormac McCarthy
+9. The Grapes of Wrath by John Steinbeck
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Stranger by Albert Camus
+12. The Old Man and the Sea by Ernest Hemingway
+13. Brave New World by Aldous Huxley
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Bell Jar by Sylvia Plath
+16. The Sun Also Rises by Ernest Hemingway
+17. Slaughterhouse-Five by Kurt Vonnegut
+18. The Handmaid's Tale by Margaret Atwood
+19. The Road to Wigan Pier by George Orwell
+20. The Color Purple by Alice Walker
+21. The Secret History by Donna Tartt
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Poisonwood Bible by Barbara Kingsolver
+24. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+25. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+26. The Corrections by Jonathan Franzen
+27. The Goldfinch by Donna Tartt
+28. The Night Circus by Erin Morgenstern
+29. The Book of Lost Things by John Connolly
+30. The Thirteenth Tale by Diane Setterfield
+31. The Nightingale by Kristin Hannah
+32. The Book of Speculation by Erika Swyler
+33. The Snow Child by Eowyn Ivey
+34. The Light Between Oceans by M.L. Stedman
+35. The Night Circus by Erin Morgenstern
+36. The Nightingale by Kristin Hannah
+37. The Book of Speculation by Erika Swyler
+38. The Snow Child by Eowyn Ivey
+39. The Light Between Oceans by M.L. Stedman
+40. The Night Circus by Erin Morgenstern
+41. The Nightingale by Kristin Hannah
+42. The Book of Speculation by Erika Swyler
+43. The Snow Child by Eowyn Ivey
+44. The Light Between Oceans by M.L. Stedman
+45. The Night Circus by Erin Morgenstern
+46. The Nightingale by Kristin Hannah
+47. The Book of Speculation by Erika Swyler
+48. The Snow Child by Eowyn Ivey
+49. The Light Between Oceans by M.L. Stedman
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the user's interest in a mix of classic and contemporary literature, as well as a variety of genres and writing styles.

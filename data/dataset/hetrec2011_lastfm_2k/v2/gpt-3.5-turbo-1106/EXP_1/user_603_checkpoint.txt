@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. Foo Fighters
+3. Arctic Monkeys
+4. Radiohead
+5. The White Stripes
+6. The Strokes
+7. Queens of the Stone Age
+8. Rage Against the Machine
+9. Pearl Jam
+10. Soundgarden
+11. Alice in Chains
+12. Nine Inch Nails
+13. The Black Keys
+14. The Smashing Pumpkins
+15. System of a Down
+16. Muse
+17. Red Hot Chili Peppers
+18. Green Day
+19. Metallica
+20. Linkin Park
+21. Blink-182
+22. Fall Out Boy
+23. My Chemical Romance
+24. Paramore
+25. Panic! At The Disco
+26. Twenty One Pilots
+27. Imagine Dragons
+28. Cage The Elephant
+29. The Killers
+30. Kings of Leon
+31. Florence + The Machine
+32. Vampire Weekend
+33. Tame Impala
+34. Foster The People
+35. The 1975
+36. Hozier
+37. Lorde
+38. Lana Del Rey
+39. Billie Eilish
+40. Halsey
+41. The Neighbourhood
+42. Arctic Monkeys
+43. The xx
+44. Alt-J
+45. Glass Animals
+46. CHVRCHES
+47. Bastille
+48. The National
+49. Vampire Weekend
+50. The War on Drugs
+
+These recommendations are based on the user's liking of rock and alternative artists and include a mix of similar and related artists across different sub-genres.

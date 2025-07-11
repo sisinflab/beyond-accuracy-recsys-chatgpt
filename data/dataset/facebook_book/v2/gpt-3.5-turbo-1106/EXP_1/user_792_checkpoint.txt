@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Brontë
+3. The Picture of Dorian Gray by Oscar Wilde
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. 1984 by George Orwell
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Moby-Dick by Herman Melville
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Adventures of Huckleberry Finn by Mark Twain
+11. Anna Karenina by Leo Tolstoy
+12. The Count of Monte Cristo by Alexandre Dumas
+13. The Brothers Karamazov by Fyodor Dostoevsky
+14. Les Misérables by Victor Hugo
+15. The Grapes of Wrath by John Steinbeck
+16. The Scarlet Letter by Nathaniel Hawthorne
+17. A Tale of Two Cities by Charles Dickens
+18. The Hunchback of Notre-Dame by Victor Hugo
+19. The Odyssey by Homer
+20. The Iliad by Homer
+21. The Divine Comedy by Dante Alighieri
+22. Don Quixote by Miguel de Cervantes
+23. War and Peace by Leo Tolstoy
+24. The Canterbury Tales by Geoffrey Chaucer
+25. The Arabian Nights by Anonymous
+26. The Three Musketeers by Alexandre Dumas
+27. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+28. Frankenstein by Mary Shelley
+29. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+30. The Hound of the Baskervilles by Arthur Conan Doyle
+31. The Time Machine by H.G. Wells
+32. The War of the Worlds by H.G. Wells
+33. The Call of the Wild by Jack London
+34. White Fang by Jack London
+35. The Jungle Book by Rudyard Kipling
+36. Heart of Darkness by Joseph Conrad
+37. Lord Jim by Joseph Conrad
+38. The Secret Agent by Joseph Conrad
+39. The Turn of the Screw by Henry James
+40. The Portrait of a Lady by Henry James
+41. The Wings of the Dove by Henry James
+42. The Age of Innocence by Edith Wharton
+43. Ethan Frome by Edith Wharton
+44. The House of Mirth by Edith Wharton
+45. The Red Badge of Courage by Stephen Crane
+46. Sister Carrie by Theodore Dreiser
+47. An American Tragedy by Theodore Dreiser
+48. The Beautiful and Damned by F. Scott Fitzgerald
+49. Tender Is the Night by F. Scott Fitzgerald
+50. This Side of Paradise by F. Scott Fitzgerald
+
+These recommendations are based on the user's interest in classic literature and may align with their preferences.

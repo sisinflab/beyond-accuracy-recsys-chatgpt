@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Neverwhere by Neil Gaiman
+2. The Sandman series by Neil Gaiman
+3. The Graveyard Book by Neil Gaiman
+4. Coraline by Neil Gaiman
+5. The Ocean at the End of the Lane by Neil Gaiman
+6. Anansi Boys by Neil Gaiman
+7. Good Omens by Neil Gaiman and Terry Pratchett
+8. American Psycho by Bret Easton Ellis
+9. Fight Club by Chuck Palahniuk
+10. Brave New World by Aldous Huxley
+11. Animal Farm by George Orwell
+12. The Road by Cormac McCarthy
+13. Neuromancer by William Gibson
+14. Do Androids Dream of Electric Sheep? by Philip K. Dick
+15. The Man in the High Castle by Philip K. Dick
+16. The Fountainhead by Ayn Rand
+17. We the Living by Ayn Rand
+18. Anthem by Ayn Rand
+19. Cryptonomicon by Neal Stephenson
+20. Reamde by Neal Stephenson
+21. The Diamond Age by Neal Stephenson
+22. The Baroque Cycle by Neal Stephenson
+23. The Importance of Being Earnest by Oscar Wilde
+24. The Canterville Ghost by Oscar Wilde
+25. The Happy Prince and Other Tales by Oscar Wilde
+26. The Complete Sherlock Holmes by Arthur Conan Doyle
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. Good Omens by Neil Gaiman and Terry Pratchett
+29. Small Gods by Terry Pratchett
+30. Mort by Terry Pratchett
+31. Guards! Guards! by Terry Pratchett
+32. The Lies of Locke Lamora by Scott Lynch
+33. The Name of the Wind by Patrick Rothfuss
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn: The Final Empire by Brandon Sanderson
+36. The Lies of Locke Lamora by Scott Lynch
+37. The Blade Itself by Joe Abercrombie
+38. The Lies of Locke Lamora by Scott Lynch
+39. The Name of the Wind by Patrick Rothfuss
+40. The Way of Kings by Brandon Sanderson
+41. Mistborn: The Final Empire by Brandon Sanderson
+42. The Blade Itself by Joe Abercrombie
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Name of the Wind by Patrick Rothfuss
+45. The Way of Kings by Brandon Sanderson
+46. Mistborn: The Final Empire by Brandon Sanderson
+47. The Blade Itself by Joe Abercrombie
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Name of the Wind by Patrick Rothfuss
+50. The Way of Kings by Brandon Sanderson
+
+These recommendations are based on the user's interest in authors like Neil Gaiman, Ayn Rand, Neal Stephenson, and Oscar Wilde, as well as their preference for dystopian and fantasy literature.

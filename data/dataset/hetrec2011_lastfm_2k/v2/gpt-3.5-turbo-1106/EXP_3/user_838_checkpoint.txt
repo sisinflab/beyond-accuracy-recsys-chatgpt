@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 838:
+
+1. Muse
+2. Tool
+3. A Perfect Circle
+4. Deftones
+5. Portishead
+6. Massive Attack
+7. Nine Inch Nails
+8. Radiohead
+9. Sigur Rós
+10. UNKLE
+11. Tricky
+12. The Mars Volta
+13. Mogwai
+14. Placebo
+15. The Smashing Pumpkins
+16. The Dandy Warhols
+17. Blur
+18. Hammock
+19. Archive
+20. The Chemical Brothers
+21. Aphex Twin
+22. Boards of Canada
+23. Four Tet
+24. VAST
+25. Pulp
+26. Meshuggah
+27. Gorillaz
+28. System of a Down
+29. The Album Leaf
+30. Beirut
+31. The Clash
+32. Depeche Mode
+33. Faith No More
+34. Pixies
+35. Nirvana
+36. Autechre
+37. Björk
+38. David Bowie
+39. Jónsi
+40. Queen
+41. Pink Floyd
+42. Elliott Smith
+43. God Is an Astronaut
+44. Rammstein
+45. Marilyn Manson
+46. King Diamond
+47. Skinny Puppy
+48. Lamb of God
+49. Mindless Self Indulgence
+50. Coldplay
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that the user may enjoy.

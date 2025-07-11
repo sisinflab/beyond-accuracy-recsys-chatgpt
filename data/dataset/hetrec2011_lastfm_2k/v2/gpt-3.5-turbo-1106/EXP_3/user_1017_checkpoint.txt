@@ -1,0 +1,54 @@
+Based on user 1017's preferences, here are the top-50 recommendations for the given artists:
+
+1. P!nk
+2. Alicia Keys
+3. Leona Lewis
+4. Dido
+5. Amy Winehouse
+6. Eminem
+7. Taylor Swift
+8. Ana Carolina
+9. Good Charlotte
+10. Jennifer Lopez
+11. Adam Lambert
+12. Janet Jackson
+13. Glee Cast
+14. Ciara
+15. BoA
+16. Sarah Connor
+17. Pitty
+18. Lindsay Lohan
+19. Kat DeLuna
+20. M.I.A.
+21. Lily Allen
+22. Nicki Minaj
+23. Avenged Sevenfold
+24. Shontelle
+25. Belinda
+26. Timbaland
+27. Jesse McCartney
+28. Michael Jackson
+29. Selena Gomez & the Scene
+30. Kanye West
+31. Vanessa Hudgens
+32. Justin Timberlake
+33. Black Eyed Peas
+34. t.A.T.u.
+35. Demi Lovato
+36. Anahí
+37. Kelly Rowland
+38. Coldplay
+39. Keri Hilson
+40. Backstreet Boys
+41. Danity Kane
+42. Usher
+43. Cansei de Ser Sexy
+44. Adele
+45. Ke$ha
+46. Linkin Park
+47. Madonna
+48. Enrique Iglesias
+49. OneRepublic
+50. David Guetta
+
+These recommendations are based on similar genres, styles, and popularity to the artists that user 1017 already likes.

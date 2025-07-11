@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. Arctic Monkeys
+3. Sigur Rós
+4. Portishead
+5. The Smashing Pumpkins
+6. Interpol
+7. The Strokes
+8. R.E.M.
+9. The Smiths
+10. Arcade Fire
+11. The National
+12. Queens of the Stone Age
+13. Nine Inch Nails
+14. Depeche Mode
+15. The Flaming Lips
+16. The White Stripes
+17. Beck
+18. Gorillaz
+19. Massive Attack
+20. The Velvet Underground
+21. The xx
+22. Tame Impala
+23. PJ Harvey
+24. The Black Keys
+25. Modest Mouse
+26. The War on Drugs
+27. Spoon
+28. Vampire Weekend
+29. The Shins
+30. Belle and Sebastian
+31. Death Cab for Cutie
+32. Spoon
+33. Yeah Yeah Yeahs
+34. LCD Soundsystem
+35. MGMT
+36. The Decemberists
+37. Sufjan Stevens
+38. Fleet Foxes
+39. Grizzly Bear
+40. Bon Iver
+41. Father John Misty
+42. The Antlers
+43. Beach House
+44. Sharon Van Etten
+45. Angel Olsen
+46. Mitski
+47. Phoebe Bridgers
+48. Big Thief
+49. HAIM
+50. Lorde
+
+These recommendations are based on the user's liking of similar artists and genres.

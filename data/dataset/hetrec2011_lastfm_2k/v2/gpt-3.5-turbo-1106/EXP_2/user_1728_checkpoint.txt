@@ -1,0 +1,52 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Radiohead
+2. Nirvana
+3. Muse
+4. Coldplay
+5. Placebo
+6. Björk
+7. a-ha
+8. The Beatles
+9. Depeche Mode
+10. Pink Floyd
+11. Madonna
+12. Lady Gaga
+13. The Killers
+14. My Chemical Romance
+15. The Cure
+16. Nine Inch Nails
+17. Metallica
+18. Iron Maiden
+19. System of a Down
+20. Linkin Park
+21. Green Day
+22. Pearl Jam
+23. Arctic Monkeys
+24. Blur
+25. The Verve
+26. Franz Ferdinand
+27. Kasabian
+28. New Order
+29. Sigur Rós
+30. Joy Division
+31. Martin L. Gore
+32. Coil
+33. Archive
+34. My Bloody Valentine
+35. Portishead
+36. Tricky
+37. Hooverphonic
+38. Morcheeba
+39. PJ Harvey
+40. Lush
+41. Garbage
+42. Bat for Lashes
+43. Patrick Wolf
+44. Dead Can Dance
+45. Nitzer Ebb
+46. The Human League
+47. Infected Mushroom
+48. Oasis
+49. The Velvet Underground
+50. Patrick Wolf

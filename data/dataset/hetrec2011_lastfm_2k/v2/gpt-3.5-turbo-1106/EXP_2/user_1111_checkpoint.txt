@@ -1,0 +1,54 @@
+Based on user 1111's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. Paramore
+2. Coldplay
+3. Muse
+4. The Beatles
+5. Radiohead
+6. Nirvana
+7. Linkin Park
+8. My Chemical Romance
+9. Green Day
+10. The Killers
+11. 30 Seconds to Mars
+12. Avenged Sevenfold
+13. Metallica
+14. Pink Floyd
+15. Queen
+16. Led Zeppelin
+17. System of a Down
+18. Nine Inch Nails
+19. Iron Maiden
+20. The Cure
+21. Placebo
+22. Arctic Monkeys
+23. Blur
+24. The Rolling Stones
+25. U2
+26. The Smashing Pumpkins
+27. Red Hot Chili Peppers
+28. Pearl Jam
+29. Foo Fighters
+30. Oasis
+31. The Strokes
+32. The White Stripes
+33. The Black Keys
+34. Kings of Leon
+35. Franz Ferdinand
+36. Interpol
+37. The Libertines
+38. The Vines
+39. The Hives
+40. The Bravery
+41. The Kooks
+42. Bloc Party
+43. Razorlight
+44. The Fratellis
+45. The Wombats
+46. Arctic Monkeys
+47. The Vaccines
+48. The Pigeon Detectives
+49. The Courteeners
+50. The Maccabees
+
+This re-ranked list is based on the user's liking of similar artists and their music preferences.

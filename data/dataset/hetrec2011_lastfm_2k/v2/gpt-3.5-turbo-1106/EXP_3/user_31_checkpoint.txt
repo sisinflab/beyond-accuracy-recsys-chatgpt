@@ -1,0 +1,54 @@
+Based on the preferences of user 31, here are the top 50 recommendations for the listed artists:
+
+1. Muse
+2. Pet Shop Boys
+3. U2
+4. Linkin Park
+5. Dave Gahan
+6. De/Vision
+7. Duran Duran
+8. Björk
+9. The Smiths
+10. Placebo
+11. INXS
+12. Portishead
+13. Squarepusher
+14. Wire
+15. Ария
+16. Kings of Leon
+17. Nelly Furtado
+18. The Human League
+19. Jean-Michel Jarre
+20. P!nk
+21. Blur
+22. Boards of Canada
+23. Travis
+24. Serj Tankian
+25. Front 242
+26. Yann Tiersen
+27. Soft Cell
+28. Joy Division
+29. Feeder
+30. System of a Down
+31. Nirvana
+32. Tricky
+33. Plaid
+34. Zемфира
+35. Keane
+36. Air
+37. Client
+38. Evanescence
+39. Hans Zimmer
+40. ATB
+41. Cinema Bizarre
+42. L7
+43. Paradise Lost
+44. Busta Rhymes
+45. a-ha
+46. Celldweller
+47. The Beatles
+48. Massive Attack
+49. Kraftwerk
+50. IAMX
+
+These recommendations are based on similar genres and artists liked by user 31.

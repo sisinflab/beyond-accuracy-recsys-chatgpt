@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. V for Vendetta by Alan Moore
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. American Gods by Neil Gaiman
+4. The Shining by Stephen King
+5. The Hobbit by J.R.R. Tolkien
+6. A Song of Ice and Fire series by George R.R. Martin
+7. The Stand by Stephen King
+8. The Dark Tower series by Stephen King
+9. The Chronicles of Narnia by C.S. Lewis
+10. Coraline by Neil Gaiman
+11. The Road by Cormac McCarthy
+12. 1984 by George Orwell
+13. Brave New World by Aldous Huxley
+14. Fahrenheit 451 by Ray Bradbury
+15. The Martian by Andy Weir
+16. Dune by Frank Herbert
+17. Neuromancer by William Gibson
+18. Snow Crash by Neal Stephenson
+19. Ready Player One by Ernest Cline
+20. Ender's Game by Orson Scott Card
+21. The Hunger Games by Suzanne Collins
+22. The Maze Runner by James Dashner
+23. The Giver by Lois Lowry
+24. The Handmaid's Tale by Margaret Atwood
+25. Fight Club by Chuck Palahniuk
+26. The Catcher in the Rye by J.D. Salinger
+27. One Flew Over the Cuckoo's Nest by Ken Kesey
+28. The Bell Jar by Sylvia Plath
+29. Girl, Interrupted by Susanna Kaysen
+30. Wasted by Marya Hornbacher
+31. Go Ask Alice by Anonymous
+32. It by Stephen King
+33. Pet Sematary by Stephen King
+34. The Silence of the Lambs by Thomas Harris
+35. Red Dragon by Thomas Harris
+36. The Girl on the Train by Paula Hawkins
+37. Gone Girl by Gillian Flynn
+38. Sharp Objects by Gillian Flynn
+39. Dark Places by Gillian Flynn
+40. The Girl in the Spider's Web by David Lagercrantz
+41. The Lost Symbol by Dan Brown
+42. Angels & Demons by Dan Brown
+43. Inferno by Dan Brown
+44. Girl, Interrupted by Susanna Kaysen
+45. The Virgin Suicides by Jeffrey Eugenides
+46. The Lovely Bones by Alice Sebold
+47. We Need to Talk About Kevin by Lionel Shriver
+48. The Perks of Being a Wallflower by Stephen Chbosky
+49. The Fault in Our Stars by John Green
+50. Thirteen Reasons Why by Jay Asher
+
+These recommendations are based on similar themes, genres, and authors to the books the user has enjoyed.

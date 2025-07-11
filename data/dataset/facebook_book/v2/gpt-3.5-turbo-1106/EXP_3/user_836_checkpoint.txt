@@ -1,0 +1,54 @@
+Based on user 836's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by []
+2. Eragon by ['Christopher Paolini']
+3. Mockingjay by ['Suzanne Collins']
+4. A Northern Light by ['Jennifer Donnelly']
+5. The Maze Runner by ['James Dashner']
+6. Anne of Green Gables by ['Lucy Maud Montgomery']
+7. Villette (novel) by ['Charlotte Brontë']
+8. A Great and Terrible Beauty by ['Libba Bray']
+9. The Goose Girl (novel) by ['Shannon Hale']
+10. The Hunger Games by []
+11. City of Glass (Mortal Instruments)
+12. The Giver
+13. Neverwhere (novel)
+14. Mistborn: The Hero of Ages
+15. The Forest of Hands and Teeth
+16. The Lovely Bones
+17. His Dark Materials
+18. Ella Enchanted
+19. The Chronicles of Narnia: Prince Caspian
+20. Catching Fire
+21. Jane Eyre
+22. City of Ashes
+23. Twilight (series)
+24. Uglies
+25. Gathering Blue
+26. The Time Traveler's Wife
+27. The Catcher in the Rye
+28. The Hobbit
+29. Maximum Ride
+30. The Five People You Meet in Heaven
+31. Inkheart
+32. Les Misérables
+33. Sarah's Key (novel)
+34. Anthem (novella)
+35. The Hamlet
+36. Digital Fortress
+37. The Named
+38. The Lost Boy (memoir)
+39. Speak (novel)
+40. Gravitation (book)
+41. Night (book)
+42. Holes (novel)
+43. City of Bones (Mortal Instruments)
+44. Fallen (Kate novel)
+45. Brisingr
+46. The Boy in the Striped Pyjamas
+47. Witch & Wizard
+48. Grimms' Fairy Tales
+49. Warriors (anthology)
+50. Tsubasa: Reservoir Chronicle
+
+These recommendations are based on the user's previous likes and are ranked according to their potential appeal to the user.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jay-Z
+2. Dr. Dre
+3. Snoop Dogg
+4. Kendrick Lamar
+5. J. Cole
+6. Biggie Smalls
+7. OutKast
+8. Lil Wayne
+9. N.W.A
+10. Ice Cube
+11. DMX
+12. Wu-Tang Clan
+13. Aaliyah
+14. Missy Elliott
+15. T.I.
+16. Ludacris
+17. Busta Rhymes
+18. The Notorious B.I.G.
+19. 2 Chainz
+20. Rick Ross
+21. Meek Mill
+22. Future
+23. Young Thug
+24. Travis Scott
+25. Migos
+26. Cardi B
+27. Nicki Minaj
+28. Lil Kim
+29. Foxy Brown
+30. Remy Ma
+31. Eve
+32. Lauryn Hill
+33. Mary J. Blige
+34. Janet Jackson
+35. TLC
+36. Brandy
+37. Monica
+38. Ciara
+39. Ashanti
+40. Keyshia Cole
+41. Kehlani
+42. H.E.R.
+43. Jhene Aiko
+44. Summer Walker
+45. Ella Mai
+46. Tinashe
+47. Kehlani
+48. H.E.R.
+49. Jhene Aiko
+50. Summer Walker
+
+These recommendations are based on the user's liking of artists such as 2Pac, O.S.T.R., Cypress Hill, Kanye West, The Game, Chris Brown, Linkin Park, Usher, Leona Lewis, Nas, Black Sabbath, Eminem, Ne-Yo, Brandy, Christina Aguilera, 50 Cent, Cassie, Destiny's Child, and Justin Timberlake.

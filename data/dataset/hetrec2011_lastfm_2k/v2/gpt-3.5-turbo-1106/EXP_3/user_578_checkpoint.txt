@@ -1,0 +1,54 @@
+Based on the preferences of user 578, here are the top 50 recommendations for the given artists:
+
+1. Lady Gaga
+2. Maroon 5
+3. Rihanna
+4. Avril Lavigne
+5. Green Day
+6. Britney Spears
+7. Justin Timberlake
+8. Miley Cyrus
+9. Adam Lambert
+10. Owl City
+11. Bon Jovi
+12. The Script
+13. Colbie Caillat
+14. Natasha Bedingfield
+15. Lily Allen
+16. Christina Aguilera
+17. Arctic Monkeys
+18. McFly
+19. Lifehouse
+20. Jack Johnson
+21. Carrie Underwood
+22. Lady Antebellum
+23. Backstreet Boys
+24. Genesis
+25. Dire Straits
+26. Phil Collins
+27. John Mayer
+28. David Guetta
+29. B.o.B
+30. Basshunter
+31. Justin Bieber
+32. Glee Cast
+33. Ashley Tisdale
+34. Leighton Meester
+35. Selena Gomez
+36. Katy Perry
+37. Demi Lovato
+38. Paramore
+39. Taylor Swift
+40. All Time Low
+41. Mayday Parade
+42. Pierce the Veil
+43. Three Days Grace
+44. VersaEmerge
+45. Fall Out Boy
+46. Breathe Carolina
+47. My Chemical Romance
+48. 3OH!3
+49. Cobra Starship
+50. Boys Like Girls
+
+These recommendations are based on the similar music preferences of user 578.

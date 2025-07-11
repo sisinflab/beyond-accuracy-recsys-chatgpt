@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. EXO
+2. Super Junior
+3. CNBLUE
+4. f(x)
+5. 2NE1
+6. Girls' Generation-TTS
+7. INFINITE
+8. VIXX
+9. Ailee
+10. IU
+11. Red Velvet
+12. Wonder Girls
+13. SHINHWA
+14. 4Minute
+15. Apink
+16. B1A4
+17. GOT7
+18. DAY6
+19. NCT 127
+20. MONSTA X
+21. SEVENTEEN
+22. TWICE
+23. BLACKPINK
+24. GFRIEND
+25. MAMAMOO
+26. BTS
+27. Stray Kids
+28. ITZY
+29. (G)I-DLE
+30. TXT
+31. AOA
+32. KARA
+33. SISTAR
+34. T-ara
+35. Miss A
+36. Brown Eyed Girls
+37. 2PM
+38. JYJ
+39. TVXQ
+40. BTOB
+41. Highlight
+42. WINNER
+43. iKON
+44. AKMU
+45. Lee Hi
+46. Epik High
+47. Zico
+48. Sunmi
+49. HyunA
+50. CLC
+
+These recommendations are based on the user's liking of similar artists and genres.

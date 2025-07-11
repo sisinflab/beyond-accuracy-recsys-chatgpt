@@ -1,0 +1,52 @@
+Based on the preferences of user 743, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. Pride and Prejudice by Jane Austen
+4. 1984 by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Alchemist by Paulo Coelho
+7. The Book Thief by Markus Zusak
+8. The Night Circus by Erin Morgenstern
+9. The Secret History by Donna Tartt
+10. The Goldfinch by Donna Tartt
+11. The Shadow of the Wind by Carlos Ruiz Zafón
+12. The Name of the Wind by Patrick Rothfuss
+13. The Martian by Andy Weir
+14. The Girl on the Train by Paula Hawkins
+15. Gone Girl by Gillian Flynn
+16. The Help by Kathryn Stockett
+17. The Hunger Games by Suzanne Collins
+18. The Fault in Our Stars by John Green
+19. The Maze Runner by James Dashner
+20. The Giver by Lois Lowry
+21. The Da Vinci Code by Dan Brown
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Lovely Bones by Alice Sebold
+25. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+26. The Road by Cormac McCarthy
+27. The Handmaid's Tale by Margaret Atwood
+28. The Bell Jar by Sylvia Plath
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Count of Monte Cristo by Alexandre Dumas
+31. The Brothers Karamazov by Fyodor Dostoevsky
+32. Crime and Punishment by Fyodor Dostoevsky
+33. One Hundred Years of Solitude by Gabriel García Márquez
+34. Love in the Time of Cholera by Gabriel García Márquez
+35. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+36. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+37. The Road to Character by David Brooks
+38. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+39. The Glass Castle by Jeannette Walls
+40. The Devil in the White City by Erik Larson
+41. The Boys in the Boat by Daniel James Brown
+42. The Art of Racing in the Rain by Garth Stein
+43. The Nightingale by Kristin Hannah
+44. The Light Between Oceans by M.L. Stedman
+45. The Invention of Wings by Sue Monk Kidd
+46. The Help by Kathryn Stockett
+47. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows
+48. The Book Thief by Markus Zusak
+49. The Night Circus by Erin Morgenstern
+50. The Secret History by Donna Tartt

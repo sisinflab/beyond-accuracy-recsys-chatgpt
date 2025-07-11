@@ -1,0 +1,54 @@
+Based on user 1360's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Chronicles of Narnia by C.S. Lewis
+5. Percy Jackson & the Olympians by Rick Riordan
+6. The Giver by Lois Lowry
+7. The Mortal Instruments by Cassandra Clare
+8. The Fault in Our Stars by John Green
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hobbit by J.R.R. Tolkien
+11. Ender's Game by Orson Scott Card
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Alchemist by Paulo Coelho
+15. The Catcher in the Rye by J.D. Salinger
+16. The Great Gatsby by F. Scott Fitzgerald
+17. To Kill a Mockingbird by Harper Lee
+18. The Book Thief by Markus Zusak
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Lovely Bones by Alice Sebold
+22. The Help by Kathryn Stockett
+23. The Kite Runner by Khaled Hosseini
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. The Night Circus by Erin Morgenstern
+26. The Goldfinch by Donna Tartt
+27. The Girl on the Train by Paula Hawkins
+28. Gone Girl by Gillian Flynn
+29. The Handmaid's Tale by Margaret Atwood
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Martian by Andy Weir
+32. Ready Player One by Ernest Cline
+33. The Name of the Wind by Patrick Rothfuss
+34. The Shadow of the Wind by Carlos Ruiz Zafón
+35. The Thirteenth Tale by Diane Setterfield
+36. The Nightingale by Kristin Hannah
+37. The Light Between Oceans by M.L. Stedman
+38. The Night Manager by John le Carré
+39. The Silent Patient by Alex Michaelides
+40. The Woman in the Window by A.J. Finn
+41. The Silent Wife by A.S.A. Harrison
+42. The Girl in the Ice by Robert Bryndza
+43. The Couple Next Door by Shari Lapena
+44. The Girl Who Lived by Christopher Greyson
+45. The Girl in the Spider's Web by David Lagercrantz
+46. The Girl Before by J.P. Delaney
+47. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+48. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+49. The Girl Who Played with Fire by Stieg Larsson
+50. The Girl with the Dragon Tattoo by Stieg Larsson
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1360 likes.

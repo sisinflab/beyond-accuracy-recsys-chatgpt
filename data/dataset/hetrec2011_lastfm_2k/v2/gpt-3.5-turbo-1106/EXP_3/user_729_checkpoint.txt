@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the re-ranked top-50 recommendations:
+
+1. Radiohead
+2. Depeche Mode
+3. New Order
+4. The Cure
+5. Air
+6. Placebo
+7. VNV Nation
+8. The Chemical Brothers
+9. Moby
+10. Crystal Castles
+11. IAMX
+12. Hooverphonic
+13. Björk
+14. Röyksopp
+15. Everything but the Girl
+16. Martin L. Gore
+17. Sneaker Pimps
+18. Muse
+19. Pet Shop Boys
+20. Daft Punk
+21. The Killers
+22. Coldplay
+23. Franz Ferdinand
+24. Dave Gahan
+25. Lady Gaga
+26. Pink
+27. Madonna
+28. Garbage
+29. Soft Cell
+30. Nelly Furtado
+31. MGMT
+32. De/Vision
+33. Oasis
+34. Arctic Monkeys
+35. Linkin Park
+36. The Smiths
+37. Kings of Leon
+38. The Last Shadow Puppets
+39. Snow Patrol
+40. Yeah Yeah Yeahs
+41. Morcheeba
+42. AFI
+43. Evanescence
+44. Yann Tiersen
+45. Mystery Jets
+46. DJ Shadow
+47. Guns N' Roses
+48. Two Door Cinema Club
+49. Nirvana
+50. Black Sabbath

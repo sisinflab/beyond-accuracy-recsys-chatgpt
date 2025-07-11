@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Paramore
+2. 30 Seconds to Mars
+3. Muse
+4. The Killers
+5. My Chemical Romance
+6. Green Day
+7. Panic! At the Disco
+8. Fall Out Boy
+9. Simple Plan
+10. All Time Low
+11. Taking Back Sunday
+12. The All-American Rejects
+13. Boys Like Girls
+14. Mayday Parade
+15. Cute Is What We Aim For
+16. The Spill Canvas
+17. Something Corporate
+18. Brand New
+19. Motion City Soundtrack
+20. Funeral for a Friend
+21. Three Days Grace
+22. Breaking Benjamin
+23. Lostprophets
+24. Shiny Toy Guns
+25. Saosin
+26. We Are Scientists
+27. Maxïmo Park
+28. Kings of Leon
+29. The Wombats
+30. Jimmy Eat World
+31. Anberlin
+32. Billy Talent
+33. Kill Hannah
+34. Britney Spears
+35. Lady Gaga
+36. Rihanna
+37. Katy Perry
+38. Taylor Swift
+39. Madonna
+40. Christina Aguilera
+41. Beyoncé
+42. Miley Cyrus
+43. Kelly Clarkson
+44. Avril Lavigne
+45. P!nk
+46. Pink Floyd
+47. U2
+48. Nirvana
+49. Metallica
+50. Linkin Park
+
+This re-ranked list takes into account the user's liking for similar artists and places them in a top-50 recommendations based on their preferences.

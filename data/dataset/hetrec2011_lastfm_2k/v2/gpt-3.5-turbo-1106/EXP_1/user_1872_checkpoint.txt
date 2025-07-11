@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Mayday Parade
+2. Panic! At The Disco
+3. The All-American Rejects
+4. Yellowcard
+5. The Maine
+6. Blink-182
+7. Good Charlotte
+8. Green Day
+9. The Academy Is...
+10. Cute Is What We Aim For
+11. The Summer Set
+12. Forever the Sickest Kids
+13. New Found Glory
+14. Dashboard Confessional
+15. Taking Back Sunday
+16. Jimmy Eat World
+17. Motion City Soundtrack
+18. We Are the In Crowd
+19. The Starting Line
+20. A Rocket to the Moon
+21. The Red Jumpsuit Apparatus
+22. Cartel
+23. All-American Rejects
+24. The Cab
+25. Hey Violet
+26. Set It Off
+27. The Veronicas
+28. The Ready Set
+29. The Click Five
+30. Boys Like Girls
+31. The Fray
+32. Secondhand Serenade
+33. Plain White T's
+34. The Script
+35. OneRepublic
+36. The Vamps
+37. 5 Seconds of Summer
+38. The Band CAMINO
+39. Waterparks
+40. State Champs
+41. Stand Atlantic
+42. With Confidence
+43. As It Is
+44. Real Friends
+45. Knuckle Puck
+46. Seaway
+47. Grayscale
+48. Neck Deep
+49. The Story So Far
+50. Broadside
+
+These recommendations are based on the user's liking of similar artists and are tailored to their music preferences.

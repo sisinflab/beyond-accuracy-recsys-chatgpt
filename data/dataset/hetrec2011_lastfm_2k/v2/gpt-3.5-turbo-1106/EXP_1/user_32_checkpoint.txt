@@ -1,0 +1,54 @@
+Based on user 32's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. The Strokes
+3. Oasis
+4. The Killers
+5. Interpol
+6. Arcade Fire
+7. The White Stripes
+8. The Kooks
+9. Bloc Party
+10. Vampire Weekend
+11. The Libertines
+12. Kasabian
+13. The Verve
+14. Placebo
+15. The Smashing Pumpkins
+16. The Stone Roses
+17. The Cranberries
+18. The Flaming Lips
+19. Modest Mouse
+20. The National
+21. The Black Keys
+22. Tame Impala
+23. Foals
+24. The War on Drugs
+25. LCD Soundsystem
+26. Yeah Yeah Yeahs
+27. The Hives
+28. The Horrors
+29. The Jesus and Mary Chain
+30. My Bloody Valentine
+31. Echo & the Bunnymen
+32. New Order
+33. The Psychedelic Furs
+34. The Charlatans
+35. The Jesus Lizard
+36. Dinosaur Jr.
+37. Sonic Youth
+38. Pavement
+39. Pixies
+40. R.E.M.
+41. Talking Heads
+42. Joy Division
+43. The Smiths
+44. Radiohead
+45. The Cure
+46. Nirvana
+47. Bauhaus
+48. Depeche Mode
+49. Pulp
+50. David Bowie
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

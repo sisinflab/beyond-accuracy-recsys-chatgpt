@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Opeth
+2. Darkthrone
+3. Amon Amarth
+4. Slayer
+5. Behemoth
+6. Emperor
+7. Immortal
+8. Carcass
+9. Enslaved
+10. Cannibal Corpse
+11. At the Gates
+12. Testament
+13. Morbid Angel
+14. Arch Enemy
+15. Kreator
+16. Bathory
+17. Death
+18. Agalloch
+19. Sepultura
+20. Sodom
+21. Blind Guardian
+22. Misfits
+23. Iron Maiden
+24. Korpiklaani
+25. Motörhead
+26. MF DOOM
+27. Venom
+28. Nelly Furtado
+29. Destruction
+30. Napalm Death
+31. Watain
+32. Mayhem
+33. Bolt Thrower
+34. Mercyful Fate
+35. Gorgoroth
+36. Dissection
+37. Satyricon
+38. Rotting Christ
+39. Marduk
+40. Bathory
+41. Dark Funeral
+42. Celtic Frost
+43. Entombed
+44. Dismember
+45. Obituary
+46. Deicide
+47. Possessed
+48. Venom
+49. Bathory
+50. Death Angel
+
+These recommendations are based on the user's liking of similar artists and genres.

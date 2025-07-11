@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. The Strokes
+3. Franz Ferdinand
+4. The Hives
+5. The Libertines
+6. Bloc Party
+7. The Vaccines
+8. The Wombats
+9. The Kooks
+10. The Fratellis
+11. The Killers
+12. Interpol
+13. The White Stripes
+14. The Black Keys
+15. The Raconteurs
+16. The Bravery
+17. The Vines
+18. The Subways
+19. The Cribs
+20. The Rakes
+21. The Futureheads
+22. The Maccabees
+23. The Courteeners
+24. The View
+25. The Pigeon Detectives
+26. Maxïmo Park
+27. Klaxons
+28. Sum 41
+29. Portishead
+30. The Bloody Beetroots
+31. Flobots
+32. Le Tigre
+33. The Hives
+34. The Libertines
+35. The Strokes
+36. The Kooks
+37. The Wombats
+38. The Fratellis
+39. The Killers
+40. The Vaccines
+41. The White Stripes
+42. The Black Keys
+43. The Raconteurs
+44. The Bravery
+45. The Vines
+46. The Subways
+47. The Cribs
+48. The Rakes
+49. The Futureheads
+50. The Maccabees
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of options within the same genre.

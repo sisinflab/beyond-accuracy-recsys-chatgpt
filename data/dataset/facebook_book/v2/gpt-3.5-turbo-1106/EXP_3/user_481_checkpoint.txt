@@ -1,0 +1,54 @@
+Based on user 481's preferences, here are the top 50 book recommendations:
+
+1. Lolita by Vladimir Nabokov
+2. Memoirs of a Geisha by Arthur Golden
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Wonderful Wizard of Oz by L. Frank Baum
+6. Frankenstein by Mary Shelley
+7. Tithe: A Modern Faerie Tale by Holly Black
+8. Girl, Interrupted by Susanna Kaysen
+9. Walk Two Moons by Sharon Creech
+10. Perfume (novel) by Patrick Süskind
+11. The House (novel) by Danielle Steel
+12. The Mists of Avalon
+13. Jane Eyre
+14. Dracula
+15. Nineteen Eighty-Four
+16. The Island of Doctor Moreau
+17. The Hunchback of Notre-Dame
+18. The Glass Bead Game
+19. The Portrait of a Lady
+20. Invisible Cities
+21. Evernight (novel)
+22. Beautiful Creatures (novel)
+23. King James Version
+24. Divine Comedy
+25. The True Believer
+26. Silverwing (novel)
+27. L.A. Candy
+28. Old Farmer's Almanac
+29. New Living Translation
+30. No Country for Old Men
+31. Beauty Pop
+32. Steppenwolf (novel)
+33. Bible
+34. A Clockwork Orange
+35. Forever... (Blume novel)
+36. After (book)
+37. Dear John (novel)
+38. Lord of the Flies
+39. Adventures of Huckleberry Finn
+40. Manga
+41. The Hamlet
+42. Weetzie Bat
+43. Gospel of Mark
+44. Alice's Adventures in Wonderland
+45. Crime and Punishment
+46. Inferno (Dante)
+47. Jurassic Park (novel)
+48. The Picture of Dorian Gray
+49. Battle Royale
+50. Harry Potter
+
+These recommendations are based on the user's previous likes and are ranked according to their potential interest.

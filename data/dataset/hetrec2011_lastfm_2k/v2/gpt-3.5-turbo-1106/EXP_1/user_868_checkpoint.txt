@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Above & Beyond
+2. Deadmau5
+3. The Prodigy
+4. Daft Punk
+5. Calvin Harris
+6. Avicii
+7. David Guetta
+8. Swedish House Mafia
+9. Zedd
+10. Skrillex
+11. Kygo
+12. Marshmello
+13. Afrojack
+14. Steve Aoki
+15. Hardwell
+16. Martin Garrix
+17. Tiesto
+18. Rammstein
+19. Paul van Dyk
+20. ATB
+21. Serj Tankian
+22. OneRepublic
+23. Moby
+24. Apocalyptica
+25. Within Temptation
+26. Muse
+27. Benny Benassi
+28. Armin van Buuren
+29. System of a Down
+30. Lady Gaga
+31. Queen
+32. Nautilus Pompilius
+33. Linkin Park
+34. Coldplay
+35. Imagine Dragons
+36. Red Hot Chili Peppers
+37. Foo Fighters
+38. Nirvana
+39. Pearl Jam
+40. The Killers
+41. Arctic Monkeys
+42. Radiohead
+43. Oasis
+44. The Strokes
+45. Kings of Leon
+46. The White Stripes
+47. Franz Ferdinand
+48. The Black Keys
+49. Interpol
+50. Bloc Party
+
+These recommendations are based on the user's liking of electronic, rock, and alternative music, and include similar artists and bands within those genres.

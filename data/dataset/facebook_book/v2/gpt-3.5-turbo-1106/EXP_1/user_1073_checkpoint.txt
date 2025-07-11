@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dune by Frank Herbert
+2. Neuromancer by William Gibson
+3. Snow Crash by Neal Stephenson
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. Do Androids Dream of Electric Sheep? by Philip K. Dick
+6. The Handmaid's Tale by Margaret Atwood
+7. Fahrenheit 451 by Ray Bradbury
+8. 1984 by George Orwell
+9. The Hunger Games by Suzanne Collins
+10. Ready Player One by Ernest Cline
+11. The Martian by Andy Weir
+12. The Road by Cormac McCarthy
+13. The Stand by Stephen King
+14. The Maze Runner by James Dashner
+15. The Giver by Lois Lowry
+16. The War of the Worlds by H.G. Wells
+17. The Time Machine by H.G. Wells
+18. The Island of Doctor Moreau by H.G. Wells
+19. The Invisible Man by H.G. Wells
+20. The Andromeda Strain by Michael Crichton
+21. Jurassic Park by Michael Crichton
+22. The Lost World by Michael Crichton
+23. The Girl with All the Gifts by M.R. Carey
+24. World War Z by Max Brooks
+25. I Am Legend by Richard Matheson
+26. The Stand by Stephen King
+27. The Road by Cormac McCarthy
+28. The Postman by David Brin
+29. The Day of the Triffids by John Wyndham
+30. Alas, Babylon by Pat Frank
+31. The Dog Stars by Peter Heller
+32. Station Eleven by Emily St. John Mandel
+33. The Book of M by Peng Shepherd
+34. The Passage by Justin Cronin
+35. The Fireman by Joe Hill
+36. The City of Ember by Jeanne DuPrau
+37. The Hunger Games by Suzanne Collins
+38. The Maze Runner by James Dashner
+39. The 5th Wave by Rick Yancey
+40. The Host by Stephenie Meyer
+41. The Knife of Never Letting Go by Patrick Ness
+42. The Power by Naomi Alderman
+43. The Bone Clocks by David Mitchell
+44. The Stand by Stephen King
+45. The Road by Cormac McCarthy
+46. The Postman by David Brin
+47. The Day of the Triffids by John Wyndham
+48. Alas, Babylon by Pat Frank
+49. The Dog Stars by Peter Heller
+50. Station Eleven by Emily St. John Mandel
+
+These recommendations are based on the user's interest in science fiction, dystopian literature, and post-apocalyptic themes.

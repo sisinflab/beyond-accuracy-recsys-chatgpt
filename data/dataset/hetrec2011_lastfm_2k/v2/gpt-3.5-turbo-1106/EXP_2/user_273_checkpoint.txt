@@ -1,0 +1,52 @@
+Based on the user's preferences, here is a re-ranked list of artists into a top-50 recommendations:
+
+1. Paramore
+2. Evanescence
+3. A Day to Remember
+4. The Devil Wears Prada
+5. Bring Me The Horizon
+6. Atreyu
+7. Killswitch Engage
+8. Alesana
+9. blessthefall
+10. The Word Alive
+11. Eyes Set to Kill
+12. Skillet
+13. Flyleaf
+14. The Veronicas
+15. A Skylit Drive
+16. Before Their Eyes
+17. Lil' Wayne
+18. Mindless Self Indulgence
+19. From First to Last
+20. Celldweller
+21. Britney Spears
+22. Lady Gaga
+23. Christina Aguilera
+24. Rihanna
+25. Katy Perry
+26. Avril Lavigne
+27. Taylor Swift
+28. Madonna
+29. Beyoncé
+30. Glee Cast
+31. Shakira
+32. Ke$ha
+33. Miley Cyrus
+34. Kelly Clarkson
+35. Pink Floyd
+36. Muse
+37. 30 Seconds to Mars
+38. U2
+39. The Beatles
+40. Coldplay
+41. Radiohead
+42. Nirvana
+43. Linkin Park
+44. My Chemical Romance
+45. Green Day
+46. The Killers
+47. Arctic Monkeys
+48. Placebo
+49. Nine Inch Nails
+50. Metallica

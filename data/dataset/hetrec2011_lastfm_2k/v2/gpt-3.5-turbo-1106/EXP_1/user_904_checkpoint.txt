@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Radiohead
+3. The Killers
+4. Imagine Dragons
+5. The xx
+6. Bastille
+7. Arcade Fire
+8. The National
+9. Sigur Rós
+10. Keane
+11. The Cranberries
+12. The Script
+13. OneRepublic
+14. Snow Patrol
+15. Editors
+16. The Fray
+17. The Verve
+18. The Postal Service
+19. Death Cab for Cutie
+20. Interpol
+21. The Strokes
+22. The Libertines
+23. Bloc Party
+24. The Bravery
+25. Franz Ferdinand
+26. Arctic Monkeys
+27. Kaiser Chiefs
+28. The Kooks
+29. The Wombats
+30. Two Door Cinema Club
+31. Foster the People
+32. Vampire Weekend
+33. Phoenix
+34. MGMT
+35. Passion Pit
+36. Tame Impala
+37. Foals
+38. Alt-J
+39. Bombay Bicycle Club
+40. The 1975
+41. Hozier
+42. Florence + the Machine
+43. Lorde
+44. CHVRCHES
+45. Haim
+46. London Grammar
+47. Warpaint
+48. Daughter
+49. Of Monsters and Men
+50. CHVRCHES

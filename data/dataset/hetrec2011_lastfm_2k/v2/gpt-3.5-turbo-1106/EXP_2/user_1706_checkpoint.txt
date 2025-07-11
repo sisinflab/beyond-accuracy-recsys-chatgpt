@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Daft Punk
+2. Coldplay
+3. Lady Gaga
+4. Britney Spears
+5. Madonna
+6. Rihanna
+7. Black Eyed Peas
+8. Michael Jackson
+9. Katy Perry
+10. Beyoncé
+11. David Guetta
+12. Armin van Buuren
+13. Tiësto
+14. Justice
+15. Simian Mobile Disco
+16. Groove Armada
+17. 2NE1
+18. Infected Mushroom
+19. Fatboy Slim
+20. The Prodigy
+21. Digitalism
+22. Capsule
+23. Massive Attack
+24. Cansei de Ser Sexy
+25. Brown Eyed Girls
+26. Depeche Mode
+27. Paramore
+28. Shakira
+29. U2
+30. Muse
+31. Pink Floyd
+32. Miley Cyrus
+33. Radiohead
+34. Ke$ha
+35. Coldplay
+36. Blur
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. Nirvana
+41. Iron Maiden
+42. Amy Winehouse
+43. Led Zeppelin
+44. Metallica
+45. Pearl Jam
+46. a-ha
+47. Björk
+48. System of a Down
+49. Linkin Park
+50. The Cure
+
+This re-ranked list takes into account the user's liking for the given artists and suggests similar artists based on their preferences.

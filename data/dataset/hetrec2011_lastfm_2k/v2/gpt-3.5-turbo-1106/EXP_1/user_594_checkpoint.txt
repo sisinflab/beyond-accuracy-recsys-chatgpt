@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Avenged Sevenfold
+2. Bullet for My Valentine
+3. Five Finger Death Punch
+4. Disturbed
+5. Rise Against
+6. Breaking Benjamin
+7. Papa Roach
+8. Seether
+9. Shinedown
+10. Three Days Grace
+11. Chevelle
+12. Deftones
+13. Korn
+14. Slipknot
+15. System of a Down
+16. Stone Sour
+17. Tool
+18. A Perfect Circle
+19. P.O.D.
+20. Staind
+21. Godsmack
+22. Theory of a Deadman
+23. Sevendust
+24. Trivium
+25. In Flames
+26. All That Remains
+27. Killswitch Engage
+28. Lamb of God
+29. As I Lay Dying
+30. Parkway Drive
+31. August Burns Red
+32. Architects
+33. Bring Me The Horizon
+34. The Devil Wears Prada
+35. Underoath
+36. Beartooth
+37. Motionless In White
+38. Of Mice & Men
+39. Asking Alexandria
+40. Crown The Empire
+41. Memphis May Fire
+42. We Came As Romans
+43. A Day To Remember
+44. Atreyu
+45. Escape The Fate
+46. The Used
+47. Silverstein
+48. Senses Fail
+49. Hawthorne Heights
+50. Saosin
+
+These recommendations are based on the user's liking of rock, metal, and alternative music, and include similar artists that they may enjoy based on their preferences.

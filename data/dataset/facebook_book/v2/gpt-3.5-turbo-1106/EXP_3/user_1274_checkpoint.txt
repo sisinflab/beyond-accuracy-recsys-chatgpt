@@ -1,0 +1,54 @@
+Based on user 1274's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye
+2. Slaughterhouse-Five
+3. Catch-22
+4. Invisible Monsters
+5. Choke (novel)
+6. Diary (novel)
+7. Rant (novel)
+8. Haunted (Palahniuk novel)
+9. Lullaby (Palahniuk novel)
+10. Running with Scissors (memoir)
+11. The Great Gatsby
+12. The Picture of Dorian Gray
+13. The Lord of the Rings
+14. Lord of the Flies
+15. The Hunger Games
+16. The Da Vinci Code
+17. Interview with the Vampire
+18. The Fountainhead
+19. Brave New World
+20. The Tipping Point
+21. The Electric Kool-Aid Acid Test
+22. The Anarchist Cookbook
+23. Breakfast of Champions
+24. The Interpretation of Dreams
+25. The Secret (book)
+26. Atonement (novel)
+27. The Rules of Attraction
+28. The Heroin Diaries: A Year in the Life of a Shattered Rock Star
+29. The Dresden Files
+30. Love Hina
+31. Other Voices, Other Rooms (novel)
+32. The Cay
+33. A Great and Terrible Beauty
+34. Utopia (book)
+35. Strange Case of Dr Jekyll and Mr Hyde
+36. Necroscope (novel)
+37. Dramacon
+38. Inkheart
+39. Romeo and Juliet
+40. The Hamlet
+41. Under the Dome
+42. Iliad
+43. Breakfast at Tiffany's (novella)
+44. Harry Potter
+45. Bible
+46. To Kill a Mockingbird
+47. Inheritance Cycle
+48. House of Leaves
+49. Their Eyes Were Watching God
+50. Green Eggs and Ham
+
+These recommendations are based on the user's liking for similar genres and authors.

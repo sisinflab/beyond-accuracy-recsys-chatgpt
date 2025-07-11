@@ -1,0 +1,54 @@
+Based on user 30's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. Panic! At The Disco
+3. 5 Seconds of Summer
+4. Demi Lovato
+5. One Direction
+6. The All-American Rejects
+7. We The Kings
+8. The Pretty Reckless
+9. The Script
+10. Ed Sheeran
+11. The Fray
+12. Owl City
+13. Paramore
+14. McFly
+15. The Kooks
+16. Miley Cyrus
+17. Jonas Brothers
+18. Lady Gaga
+19. happysad
+20. Avril Lavigne
+21. Katy Perry
+22. Glee Cast
+23. Hilary Duff
+24. Green Day
+25. Boys Like Girls
+26. David Archuleta
+27. Rihanna
+28. The Veronicas
+29. Simple Plan
+30. Beyoncé
+31. Nirvana
+32. Pink
+33. The Killers
+34. Taylor Swift
+35. Camp Rock
+36. All Time Low
+37. Ashley Tisdale
+38. Jesse McCartney
+39. Muse
+40. Bon Jovi
+41. Kelly Clarkson
+42. Maroon 5
+43. Vanessa Hudgens
+44. Metro Station
+45. Jason Mraz
+46. Alexz Johnson
+47. Imagine Dragons
+48. Halsey
+49. Lorde
+50. Florence + The Machine
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands.

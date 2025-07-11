@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jimmy Eat World
+2. The All-American Rejects
+3. Weezer
+4. The Killers
+5. Death Cab for Cutie
+6. The Strokes
+7. Arctic Monkeys
+8. The Bravery
+9. The Wombats
+10. The 1975
+11. Foster the People
+12. The Neighbourhood
+13. Two Door Cinema Club
+14. Franz Ferdinand
+15. Bloc Party
+16. The Vaccines
+17. Phoenix
+18. The Black Keys
+19. Modest Mouse
+20. Spoon
+21. Interpol
+22. Silversun Pickups
+23. Cage the Elephant
+24. The Raconteurs
+25. The National
+26. Vampire Weekend
+27. The Shins
+28. Band of Horses
+29. Portugal. The Man
+30. The War on Drugs
+31. Tame Impala
+32. Foals
+33. Bombay Bicycle Club
+34. The Kooks
+35. The Fratellis
+36. The Libertines
+37. The Hives
+38. The Vines
+39. Jet
+40. OK Go
+41. Kasabian
+42. The Arctic Monkeys
+43. The Kooks
+44. The Fratellis
+45. The Libertines
+46. The Hives
+47. The Vines
+48. Jet
+49. OK Go
+50. Kasabian
+
+These recommendations are based on the user's liking of alternative and indie rock bands and artists.

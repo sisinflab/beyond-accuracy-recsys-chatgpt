@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Neuromancer by William Gibson
+2. Snow Crash by Neal Stephenson
+3. Hyperion by Dan Simmons
+4. Ender's Game by Orson Scott Card
+5. The Left Hand of Darkness by Ursula K. Le Guin
+6. The Dispossessed by Ursula K. Le Guin
+7. The Forever War by Joe Haldeman
+8. The Moon is a Harsh Mistress by Robert A. Heinlein
+9. The Windup Girl by Paolo Bacigalupi
+10. Altered Carbon by Richard K. Morgan
+11. The City & the City by China Miéville
+12. The Three-Body Problem by Liu Cixin
+13. The Fifth Season by N.K. Jemisin
+14. The Power by Naomi Alderman
+15. The Handmaid's Tale by Margaret Atwood
+16. The Hunger Games by Suzanne Collins
+17. Red Rising by Pierce Brown
+18. Wool by Hugh Howey
+19. The Maze Runner by James Dashner
+20. Ready Player One by Ernest Cline
+21. Dark Matter by Blake Crouch
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. The Expanse series by James S.A. Corey
+24. The Long Way to a Small, Angry Planet by Becky Chambers
+25. Leviathan Wakes by James S.A. Corey
+26. Old Man's War by John Scalzi
+27. The Collapsing Empire by John Scalzi
+28. The Calculating Stars by Mary Robinette Kowal
+29. The Martian by Andy Weir
+30. Red Mars by Kim Stanley Robinson
+31. The Quantum Thief by Hannu Rajaniemi
+32. The Diamond Age by Neal Stephenson
+33. The Lathe of Heaven by Ursula K. Le Guin
+34. The Yiddish Policemen's Union by Michael Chabon
+35. The Book of the New Sun by Gene Wolfe
+36. The Broken Earth series by N.K. Jemisin
+37. The Southern Reach Trilogy by Jeff VanderMeer
+38. The Wind's Twelve Quarters by Ursula K. Le Guin
+39. The Dispossessed by Ursula K. Le Guin
+40. The Left Hand of Darkness by Ursula K. Le Guin
+41. The Word for World is Forest by Ursula K. Le Guin
+42. The Lathe of Heaven by Ursula K. Le Guin
+43. The Telling by Ursula K. Le Guin
+44. The Hainish Cycle series by Ursula K. Le Guin
+45. The Inheritance Trilogy by N.K. Jemisin
+46. The Broken Earth series by N.K. Jemisin
+47. The Dreamblood series by N.K. Jemisin
+48. The City & the City by China Miéville
+49. Embassytown by China Miéville
+50. Perdido Street Station by China Miéville
+
+These recommendations are based on the user's interest in science fiction and fantasy novels.

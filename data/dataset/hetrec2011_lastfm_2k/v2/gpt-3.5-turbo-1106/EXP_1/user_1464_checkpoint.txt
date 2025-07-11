@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The Smashing Pumpkins
+3. Deftones
+4. Queens of the Stone Age
+5. Nine Inch Nails
+6. Marilyn Manson
+7. Tool
+8. The Cure
+9. Interpol
+10. The Kills
+11. Arctic Monkeys
+12. The Strokes
+13. Kasabian
+14. Bloc Party
+15. Editors
+16. White Lies
+17. Placebo
+18. System of a Down
+19. Zемфира
+20. Muse
+21. 30 Seconds to Mars
+22. Serj Tankian
+23. Incubus
+24. Сплин
+25. Infected Mushroom
+26. Einstürzende Neubauten
+27. 65daysofstatic
+28. Amon Tobin
+29. Röyksopp
+30. A Perfect Circle
+31. Bonobo
+32. Juanes
+33. Massive Attack
+34. Portishead
+35. Gorillaz
+36. Massive Attack
+37. Portishead
+38. Gorillaz
+39. Massive Attack
+40. Portishead
+41. Gorillaz
+42. Massive Attack
+43. Portishead
+44. Gorillaz
+45. Massive Attack
+46. Portishead
+47. Gorillaz
+48. Massive Attack
+49. Portishead
+50. Gorillaz
+
+These recommendations are based on the user's liking of similar artists and genres.

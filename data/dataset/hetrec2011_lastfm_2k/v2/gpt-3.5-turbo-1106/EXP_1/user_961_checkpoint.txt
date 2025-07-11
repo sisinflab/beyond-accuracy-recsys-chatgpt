@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Shins
+2. Bright Eyes
+3. The Killers
+4. Vampire Weekend
+5. The Strokes
+6. Arcade Fire
+7. Modest Mouse
+8. The National
+9. Sufjan Stevens
+10. Death Cab for Cutie
+11. The Postal Service
+12. The Decemberists
+13. Belle and Sebastian
+14. The Smiths
+15. The Cure
+16. Interpol
+17. Yeah Yeah Yeahs
+18. Bloc Party
+19. Franz Ferdinand
+20. Arctic Monkeys
+21. The White Stripes
+22. Spoon
+23. The Flaming Lips
+24. Beck
+25. Wilco
+26. My Morning Jacket
+27. Band of Horses
+28. Grizzly Bear
+29. Fleet Foxes
+30. Animal Collective
+31. MGMT
+32. Tame Impala
+33. Beach House
+34. The War on Drugs
+35. Father John Misty
+36. Courtney Barnett
+37. Mitski
+38. Phoebe Bridgers
+39. Angel Olsen
+40. Sharon Van Etten
+41. St. Vincent
+42. HAIM
+43. Florence + The Machine
+44. Lorde
+45. Lana Del Rey
+46. Mitski
+47. Phoebe Bridgers
+48. Angel Olsen
+49. Sharon Van Etten
+50. St. Vincent
+
+These recommendations are based on the user's liking of indie, alternative, and pop artists, and include similar artists that they may enjoy based on their preferences.

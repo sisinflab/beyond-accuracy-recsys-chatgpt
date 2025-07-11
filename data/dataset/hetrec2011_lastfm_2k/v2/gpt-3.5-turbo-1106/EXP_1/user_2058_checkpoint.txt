@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Britney Spears
+2. Christina Aguilera
+3. Mariah Carey
+4. Beyoncé
+5. Ariana Grande
+6. Taylor Swift
+7. Janet Jackson
+8. Shakira
+9. Adele
+10. Justin Timberlake
+11. Kelly Clarkson
+12. Demi Lovato
+13. Selena Gomez
+14. Ellie Goulding
+15. Miley Cyrus
+16. Nicki Minaj
+17. Justin Bieber
+18. Usher
+19. Pink Floyd
+20. Coldplay
+21. The Cranberries
+22. Alanis Morissette
+23. Sheryl Crow
+24. Nelly Furtado
+25. Janelle Monáe
+26. Lorde
+27. Halsey
+28. Florence + The Machine
+29. Lana Del Rey
+30. Sia
+31. Zara Larsson
+32. Tove Lo
+33. Charli XCX
+34. HAIM
+35. CHVRCHES
+36. Bastille
+37. Imagine Dragons
+38. OneRepublic
+39. The Killers
+40. Arctic Monkeys
+41. Kings of Leon
+42. The Strokes
+43. Vampire Weekend
+44. Foster the People
+45. The 1975
+46. Two Door Cinema Club
+47. Phoenix
+48. Passion Pit
+49. M83
+50. The Neighbourhood
+
+These recommendations are based on the user's liking of pop, dance, and electronic artists, as well as some rock and alternative bands.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dracula by Bram Stoker
+2. Interview with the Vampire by Anne Rice
+3. Let the Right One In by John Ajvide Lindqvist
+4. The Historian by Elizabeth Kostova
+5. The Strain by Guillermo del Toro and Chuck Hogan
+6. Salem's Lot by Stephen King
+7. The Passage by Justin Cronin
+8. Lost Souls by Poppy Z. Brite
+9. Sunshine by Robin McKinley
+10. The Gargoyle by Andrew Davidson
+11. The Night Circus by Erin Morgenstern
+12. The Shadow of the Wind by Carlos Ruiz Zafón
+13. The Book Thief by Markus Zusak
+14. The Thirteenth Tale by Diane Setterfield
+15. The Time Traveler's Wife by Audrey Niffenegger
+16. The Lovely Bones by Alice Sebold
+17. Because of Winn-Dixie by Kate DiCamillo
+18. Bridge to Terabithia by Katherine Paterson
+19. Holes by Louis Sachar
+20. Maniac Magee by Jerry Spinelli
+21. Stargirl by Jerry Spinelli
+22. Running with Scissors by Augusten Burroughs
+23. Dry by Augusten Burroughs
+24. A Wolf at the Table by Augusten Burroughs
+25. The Hunger Games by Suzanne Collins
+26. Divergent by Veronica Roth
+27. The Maze Runner by James Dashner
+28. Twilight series by Stephenie Meyer
+29. The Host by Stephenie Meyer
+30. Inkheart by Cornelia Funke
+31. The Thief Lord by Cornelia Funke
+32. Dragon Rider by Cornelia Funke
+33. I Am Legend by Richard Matheson
+34. The Passage by Justin Cronin
+35. The Strain by Guillermo del Toro and Chuck Hogan
+36. The Stand by Stephen King
+37. The Road by Cormac McCarthy
+38. The Amulet of Samarkand by Jonathan Stroud
+39. The Bartimaeus Trilogy by Jonathan Stroud
+40. The Golem's Eye by Jonathan Stroud
+41. A Time to Kill by John Grisham
+42. The Firm by John Grisham
+43. The Pelican Brief by John Grisham
+44. To Kill a Mockingbird by Harper Lee
+45. The Secret Garden by Frances Hodgson Burnett
+46. A Little Princess by Frances Hodgson Burnett
+47. Anne of Green Gables by L.M. Montgomery
+48. Little Women by Louisa May Alcott
+49. The Chronicles of Narnia by C.S. Lewis
+50. Harry Potter series by J.K. Rowling
+
+These recommendations are based on the user's interest in vampire-themed books, fantasy, coming-of-age stories, and legal thrillers.

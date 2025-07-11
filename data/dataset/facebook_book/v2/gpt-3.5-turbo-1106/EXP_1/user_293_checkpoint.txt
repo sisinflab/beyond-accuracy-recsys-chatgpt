@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Namesake by Jhumpa Lahiri
+2. The Kite Runner by Khaled Hosseini
+3. A Thousand Splendid Suns by Khaled Hosseini
+4. The Alchemist by Paulo Coelho
+5. Life of Pi by Yann Martel
+6. The God of Small Things by Arundhati Roy
+7. The Palace of Illusions by Chitra Banerjee Divakaruni
+8. Interpreter of Maladies by Jhumpa Lahiri
+9. The Lowland by Jhumpa Lahiri
+10. The Inheritance of Loss by Kiran Desai
+11. Midnight's Children by Salman Rushdie
+12. The White Castle by Orhan Pamuk
+13. The Forty Rules of Love by Elif Shafak
+14. The Glass Palace by Amitav Ghosh
+15. The Shadow Lines by Amitav Ghosh
+16. The Hungry Tide by Amitav Ghosh
+17. The Guide by R.K. Narayan
+18. Train to Pakistan by Khushwant Singh
+19. The Room on the Roof by Ruskin Bond
+20. The Blue Umbrella by Ruskin Bond
+21. The Elephant Vanishes by Haruki Murakami
+22. Kafka on the Shore by Haruki Murakami
+23. Norwegian Wood by Haruki Murakami
+24. The Wind-Up Bird Chronicle by Haruki Murakami
+25. The Godfather by Mario Puzo
+26. To Kill a Mockingbird by Harper Lee
+27. 1984 by George Orwell
+28. Animal Farm by George Orwell
+29. The Catcher in the Rye by J.D. Salinger
+30. The Great Gatsby by F. Scott Fitzgerald
+31. Brave New World by Aldous Huxley
+32. Slaughterhouse-Five by Kurt Vonnegut
+33. Catch-22 by Joseph Heller
+34. One Hundred Years of Solitude by Gabriel Garcia Marquez
+35. Love in the Time of Cholera by Gabriel Garcia Marquez
+36. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+37. The House of the Spirits by Isabel Allende
+38. Like Water for Chocolate by Laura Esquivel
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Lovely Bones by Alice Sebold
+41. The Secret Life of Bees by Sue Monk Kidd
+42. The Help by Kathryn Stockett
+43. The Book Thief by Markus Zusak
+44. The Night Circus by Erin Morgenstern
+45. The Goldfinch by Donna Tartt
+46. The Secret History by Donna Tartt
+47. The Girl on the Train by Paula Hawkins
+48. Gone Girl by Gillian Flynn
+49. Big Little Lies by Liane Moriarty
+50. The Husband's Secret by Liane Moriarty
+
+These recommendations are based on the user's interest in fiction, contemporary literature, and popular authors.

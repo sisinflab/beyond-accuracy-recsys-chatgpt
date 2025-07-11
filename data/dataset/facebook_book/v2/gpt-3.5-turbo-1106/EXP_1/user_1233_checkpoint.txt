@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Book Thief by Markus Zusak
+2. The Maze Runner by James Dashner
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Chronicles of Narnia by C.S. Lewis
+6. Eragon by Christopher Paolini
+7. The Lightning Thief by Rick Riordan
+8. The Alchemist by Paulo Coelho
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Catcher in the Rye by J.D. Salinger
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. The Night Circus by Erin Morgenstern
+13. The Secret History by Donna Tartt
+14. The Name of the Wind by Patrick Rothfuss
+15. The Shadow of the Wind by Carlos Ruiz Zafón
+16. The Goldfinch by Donna Tartt
+17. The Handmaid's Tale by Margaret Atwood
+18. The Martian by Andy Weir
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Kite Runner by Khaled Hosseini
+21. The Help by Kathryn Stockett
+22. The Lovely Bones by Alice Sebold
+23. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+24. The Nightingale by Kristin Hannah
+25. The Glass Castle by Jeannette Walls
+26. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+27. The Hunger Games by Suzanne Collins
+28. Catching Fire by Suzanne Collins
+29. Mockingjay by Suzanne Collins
+30. The Giver by Lois Lowry
+31. Gathering Blue by Lois Lowry
+32. Messenger by Lois Lowry
+33. Son by Lois Lowry
+34. The Hobbit by J.R.R. Tolkien
+35. The Lord of the Rings by J.R.R. Tolkien
+36. The Silmarillion by J.R.R. Tolkien
+37. The Children of Húrin by J.R.R. Tolkien
+38. The Wolves of Mercy Falls by Maggie Stiefvater
+39. Shiver by Maggie Stiefvater
+40. Linger by Maggie Stiefvater
+41. Forever by Maggie Stiefvater
+42. Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
+43. Son of a Witch by Gregory Maguire
+44. A Lion Among Men by Gregory Maguire
+45. Out of Oz by Gregory Maguire
+46. Nineteen Eighty-Four by George Orwell
+47. Animal Farm by George Orwell
+48. Homage to Catalonia by George Orwell
+49. Down and Out in Paris and London by George Orwell
+50. Artemis Fowl by Eoin Colfer

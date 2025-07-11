@@ -1,0 +1,54 @@
+Based on user 37's preferences, here are the top 50 recommendations for them:
+
+1. Nine Inch Nails
+2. The Beatles
+3. Michael Jackson
+4. Björk
+5. David Bowie
+6. Einstürzende Neubauten
+7. The Dillinger Escape Plan
+8. Venetian Snares
+9. 宇多田ヒカル
+10. Shpongle
+11. The Dresden Dolls
+12. Frédéric Chopin
+13. Depeche Mode
+14. Lady Gaga
+15. Christina Aguilera
+16. Madonna
+17. Rihanna
+18. The Killers
+19. Muse
+20. Radiohead
+21. Nirvana
+22. Metallica
+23. Iron Maiden
+24. Led Zeppelin
+25. Pink Floyd
+26. U2
+27. Coldplay
+28. Blur
+29. Arctic Monkeys
+30. Placebo
+31. Duran Duran
+32. Ke$ha
+33. Katy Perry
+34. Taylor Swift
+35. Avril Lavigne
+36. Paramore
+37. Evanescence
+38. Glee Cast
+39. Beyoncé
+40. Miley Cyrus
+41. Shakira
+42. Britney Spears
+43. Linkin Park
+44. System of a Down
+45. Daft Punk
+46. Kelly Clarkson
+47. P!nk
+48. Avenged Sevenfold
+49. My Chemical Romance
+50. Green Day
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

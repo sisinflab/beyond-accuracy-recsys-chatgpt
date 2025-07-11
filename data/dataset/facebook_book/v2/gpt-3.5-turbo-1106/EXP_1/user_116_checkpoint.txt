@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. The Grapes of Wrath by John Steinbeck
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Adventures of Huckleberry Finn by Mark Twain
+10. The Bell Jar by Sylvia Plath
+11. The Stranger by Albert Camus
+12. The Road by Cormac McCarthy
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Sun Also Rises by Ernest Hemingway
+15. The Brothers Karamazov by Fyodor Dostoyevsky
+16. Anna Karenina by Leo Tolstoy
+17. Crime and Punishment by Fyodor Dostoyevsky
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Scarlet Pimpernel by Emma Orczy
+20. Confessions by St. Augustine
+21. The Divine Comedy by Dante Alighieri
+22. Don Quixote by Miguel de Cervantes
+23. Moby-Dick by Herman Melville
+24. War and Peace by Leo Tolstoy
+25. Les Misérables by Victor Hugo
+26. The Odyssey by Homer
+27. The Iliad by Homer
+28. The Canterbury Tales by Geoffrey Chaucer
+29. The Aeneid by Virgil
+30. Beowulf by Unknown
+31. The Inferno by Dante Alighieri
+32. Paradise Lost by John Milton
+33. The Republic by Plato
+34. The Prince by Niccolò Machiavelli
+35. Gulliver's Travels by Jonathan Swift
+36. The Divine Comedy by Dante Alighieri
+37. The Canterbury Tales by Geoffrey Chaucer
+38. The Aeneid by Virgil
+39. Beowulf by Unknown
+40. The Inferno by Dante Alighieri
+41. Paradise Lost by John Milton
+42. The Republic by Plato
+43. The Prince by Niccolò Machiavelli
+44. Gulliver's Travels by Jonathan Swift
+45. The Divine Comedy by Dante Alighieri
+46. The Canterbury Tales by Geoffrey Chaucer
+47. The Aeneid by Virgil
+48. Beowulf by Unknown
+49. The Inferno by Dante Alighieri
+50. Paradise Lost by John Milton
+
+These recommendations are based on the user's interest in classic literature and philosophical works.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. ABNKKBSNPLAko?! by Bob Ong
+2. Macarthur by Bob Ong
+3. Alamat ng Gubat by Bob Ong
+4. Si by Bob Ong
+5. Lumayo Ka Nga Sa Akin by Bob Ong
+6. The Da Vinci Code by Dan Brown
+7. The Lost Symbol by Dan Brown
+8. Inferno by Dan Brown
+9. Angels & Demons by Dan Brown
+10. The Alchemist by Paulo Coelho
+11. Brida by Paulo Coelho
+12. Veronika Decides to Die by Paulo Coelho
+13. Eleven Minutes by Paulo Coelho
+14. The Zahir by Paulo Coelho
+15. The Catcher in the Rye by J.D. Salinger
+16. Franny and Zooey by J.D. Salinger
+17. Nine Stories by J.D. Salinger
+18. Raise High the Roof Beam, Carpenters and Seymour: An Introduction by J.D. Salinger
+19. The Great Gatsby by F. Scott Fitzgerald
+20. Tender Is the Night by F. Scott Fitzgerald
+21. This Side of Paradise by F. Scott Fitzgerald
+22. The Beautiful and Damned by F. Scott Fitzgerald
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Importance of Being Earnest by Oscar Wilde
+25. Lady Windermere's Fan by Oscar Wilde
+26. An Ideal Husband by Oscar Wilde
+27. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+28. The Hound of the Baskervilles by Arthur Conan Doyle
+29. A Study in Scarlet by Arthur Conan Doyle
+30. The Sign of the Four by Arthur Conan Doyle
+31. The Count of Monte Cristo by Alexandre Dumas
+32. The Three Musketeers by Alexandre Dumas
+33. Twenty Years After by Alexandre Dumas
+34. The Man in the Iron Mask by Alexandre Dumas
+35. The Brothers Karamazov by Fyodor Dostoevsky
+36. Crime and Punishment by Fyodor Dostoevsky
+37. The Idiot by Fyodor Dostoevsky
+38. Demons by Fyodor Dostoevsky
+39. The Stranger by Albert Camus
+40. The Plague by Albert Camus
+41. The Fall by Albert Camus
+42. The First Man by Albert Camus
+43. One Hundred Years of Solitude by Gabriel Garcia Marquez
+44. Love in the Time of Cholera by Gabriel Garcia Marquez
+45. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+46. Of Love and Other Demons by Gabriel Garcia Marquez
+47. The Name of the Rose by Umberto Eco
+48. Foucault's Pendulum by Umberto Eco
+49. Baudolino by Umberto Eco
+50. The Island of the Day Before by Umberto Eco
+
+These recommendations are based on the user's interest in books by Bob Ong, Mary Higgins Clark, Jane Austen, and Victor Hugo, as well as classic literature and popular fiction.

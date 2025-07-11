@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Silmarillion by J. R. R. Tolkien
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. American Psycho by Bret Easton Ellis
+4. The Shining by Stephen King
+5. The Stand by Stephen King
+6. The Girl on the Train by Paula Hawkins
+7. The Da Vinci Code by Dan Brown
+8. The Lovely Bones by Alice Sebold
+9. The Hunger Games by Suzanne Collins
+10. The Girl Who Played with Fire by Stieg Larsson
+11. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+12. The Silence of the Lambs by Thomas Harris
+13. Hannibal by Thomas Harris
+14. Black Sunday by Thomas Harris
+15. The Bone Collector by Jeffery Deaver
+16. The Road by Cormac McCarthy
+17. Old Yeller by Fred Gipson
+18. The Call of the Wild by Jack London
+19. White Fang by Jack London
+20. Dracula by Bram Stoker
+21. Interview with the Vampire by Anne Rice
+22. The Witching Hour by Anne Rice
+23. The Coven by Cate Tiernan
+24. The Lost by James Patterson
+25. The Beach House by James Patterson
+26. Girl, Interrupted by Susanna Kaysen
+27. The Bell Jar by Sylvia Plath
+28. My Sweet Audrina by V. C. Andrews
+29. Petals on the Wind by V. C. Andrews
+30. Son of a Witch by Gregory Maguire
+31. Wicked by Gregory Maguire
+32. The Two Towers by J. R. R. Tolkien
+33. The Return of the King by J. R. R. Tolkien
+34. The Fellowship of the Ring by J. R. R. Tolkien
+35. Dead Witch Walking by Kim Harrison
+36. Every Which Way But Dead by Kim Harrison
+37. The Good, the Bad, and the Undead by Kim Harrison
+38. The Witching Hour by Kim Harrison
+39. The Witch of Portobello by Paulo Coelho
+40. Veronika Decides to Die by Paulo Coelho
+41. The Alchemist by Paulo Coelho
+42. Prozac Diary by Lauren Slater
+43. Girl, Interrupted by Susanna Kaysen
+44. The Virgin Suicides by Jeffrey Eugenides
+45. Flowers for Algernon by Daniel Keyes
+46. My Sister's Keeper by Jodi Picoult
+47. The Glass Castle by Jeannette Walls
+48. The Secret Life of Bees by Sue Monk Kidd
+49. The Joy Luck Club by Amy Tan
+50. The Color Purple by Alice Walker
+
+These recommendations are based on the user's interest in fantasy, horror, psychological thrillers, coming-of-age stories, and books by specific authors.

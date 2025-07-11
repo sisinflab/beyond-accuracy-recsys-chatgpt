@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Crime and Punishment by Fyodor Dostoyevsky
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Count of Monte Cristo by Alexandre Dumas
+10. The Hobbit by J.R.R. Tolkien
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. The Alchemist by Paulo Coelho
+13. The Little Prince by Antoine de Saint-Exupéry
+14. The Kite Runner by Khaled Hosseini
+15. The Book Thief by Markus Zusak
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Da Vinci Code by Dan Brown
+18. The Shining by Stephen King
+19. The Road by Cormac McCarthy
+20. The Grapes of Wrath by John Steinbeck
+21. The Handmaid's Tale by Margaret Atwood
+22. The Sun Also Rises by Ernest Hemingway
+23. The Bell Jar by Sylvia Plath
+24. The Stand by Stephen King
+25. The Name of the Wind by Patrick Rothfuss
+26. The Night Circus by Erin Morgenstern
+27. The Goldfinch by Donna Tartt
+28. The Secret History by Donna Tartt
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Martian by Andy Weir
+31. The Girl on the Train by Paula Hawkins
+32. The Help by Kathryn Stockett
+33. The Hunger Games by Suzanne Collins
+34. The Catcher in the Rye by J.D. Salinger
+35. The Bourne Identity by Robert Ludlum
+36. The Trial by Franz Kafka
+37. The Idiot by Fyodor Dostoyevsky
+38. Peter Pan by J.M. Barrie
+39. War and Peace by Leo Tolstoy
+40. Anna Karenina by Leo Tolstoy
+41. Wuthering Heights by Emily Brontë
+42. Jane Eyre by Charlotte Brontë
+43. Moby-Dick by Herman Melville
+44. The Odyssey by Homer
+45. The Iliad by Homer
+46. The Divine Comedy by Dante Alighieri
+47. Les Misérables by Victor Hugo
+48. Don Quixote by Miguel de Cervantes
+49. The Canterbury Tales by Geoffrey Chaucer
+50. The Complete Works of William Shakespeare
+
+These recommendations are based on the user's interest in classic literature, fantasy, mystery, and adventure novels.

@@ -1,0 +1,54 @@
+Based on the preferences of user 1273, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Alchemist by Paulo Coelho
+5. The Kite Runner by Khaled Hosseini
+6. The Book Thief by Markus Zusak
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Picture of Dorian Gray by Oscar Wilde
+9. Brave New World by Aldous Huxley
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. The Bell Jar by Sylvia Plath
+12. One Hundred Years of Solitude by Gabriel Garcia Marquez
+13. The Road by Cormac McCarthy
+14. The Stranger by Albert Camus
+15. The Sun Also Rises by Ernest Hemingway
+16. The Handmaid's Tale by Margaret Atwood
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Grapes of Wrath by John Steinbeck
+19. The Secret History by Donna Tartt
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Name of the Wind by Patrick Rothfuss
+22. The Night Circus by Erin Morgenstern
+23. The Goldfinch by Donna Tartt
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Glass Castle by Jeannette Walls
+26. The Poisonwood Bible by Barbara Kingsolver
+27. The Color Purple by Alice Walker
+28. The Joy Luck Club by Amy Tan
+29. The Help by Kathryn Stockett
+30. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+31. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+32. The House on Mango Street by Sandra Cisneros
+33. The Things They Carried by Tim O'Brien
+34. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+35. The Lovely Bones by Alice Sebold
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Hunger Games by Suzanne Collins
+38. The Da Vinci Code by Dan Brown
+39. The Girl on the Train by Paula Hawkins
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Help by Kathryn Stockett
+42. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+43. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+44. The House on Mango Street by Sandra Cisneros
+45. The Things They Carried by Tim O'Brien
+46. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+47. The Lovely Bones by Alice Sebold
+48. The Girl with the Dragon Tattoo by Stieg Larsson
+49. The Hunger Games by Suzanne Collins
+50. The Da Vinci Code by Dan Brown
+
+These recommendations are based on the user's preference for classic literature, contemporary fiction, and non-fiction works.

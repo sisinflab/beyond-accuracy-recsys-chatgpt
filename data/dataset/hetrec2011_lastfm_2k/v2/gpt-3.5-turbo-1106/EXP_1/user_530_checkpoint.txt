@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Massive Attack
+2. Air
+3. Morcheeba
+4. Hooverphonic
+5. Zero 7
+6. Goldfrapp
+7. Lamb
+8. Röyksopp
+9. Moby
+10. Thievery Corporation
+11. The xx
+12. Bonobo
+13. The Cinematic Orchestra
+14. Tricky
+15. Boards of Canada
+16. Little Dragon
+17. Rhye
+18. London Grammar
+19. FKA twigs
+20. Chet Faker
+21. Glass Animals
+22. Beach House
+23. Warpaint
+24. The Knife
+25. Fever Ray
+26. Grimes
+27. Purity Ring
+28. Sylvan Esso
+29. Phantogram
+30. Chairlift
+31. AlunaGeorge
+32. HÆLOS
+33. Jungle
+34. Tame Impala
+35. Alt-J
+36. Foals
+37. The War on Drugs
+38. Interpol
+39. Editors
+40. White Lies
+41. The Horrors
+42. The Kills
+43. Yeah Yeah Yeahs
+44. Metric
+45. Silversun Pickups
+46. The Naked and Famous
+47. CHVRCHES
+48. Purity Ring
+49. Grimes
+50. Sylvan Esso
+
+These recommendations are based on the user's liking of artists with similar musical styles and genres.

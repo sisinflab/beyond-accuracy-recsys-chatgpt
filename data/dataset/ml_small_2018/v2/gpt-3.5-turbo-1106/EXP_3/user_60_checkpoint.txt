@@ -1,0 +1,14 @@
+Based on user 60's preferences, here are the top-50 movie recommendations:
+
+1. The Dark Knight (2008) - Since the user enjoyed "Batman & Robin," they may also like this darker and more critically acclaimed Batman film.
+2. The Godfather: Part II (1974) - Given the user's high rating for "The Godfather," they may appreciate the sequel.
+3. The Shawshank Redemption (1994) - This film has a similar dramatic and emotional tone to "City of God" and "Schindler's List."
+4. The Silence of the Lambs (1991) - This psychological thriller may appeal to the user's interest in intense and thought-provoking films.
+5. The Bourne Ultimatum (2007) - If the user enjoyed action-packed movies like "The Dark Knight," they may also like this high-octane thriller.
+6. The Matrix (1999) - Given the user's enjoyment of "Batman & Robin," they may appreciate the visually stunning and action-packed nature of "The Matrix."
+7. Inception (2010) - This mind-bending thriller may appeal to the user's interest in thought-provoking and complex narratives.
+8. Star Wars: Episode V - The Empire Strikes Back (1980) - If the user enjoyed "Star Wars: Episode IV - A New Hope," they may also appreciate this iconic sequel.
+9. The Lord of the Rings: The Fellowship of the Ring (2001) - This epic fantasy film may appeal to the user's interest in grand storytelling and adventure.
+10. Pulp Fiction (1994) - Given the user's high ratings for "Do the Right Thing" and "JFK," they may appreciate the complex and non-linear storytelling in "Pulp Fiction."
+
+These recommendations are based on the user's previous ratings and the thematic and stylistic similarities between the recommended movies and the user's preferences.

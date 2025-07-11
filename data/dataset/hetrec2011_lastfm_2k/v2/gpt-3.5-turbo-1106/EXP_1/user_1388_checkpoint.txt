@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. Panic! At The Disco
+3. Florence + The Machine
+4. The Black Keys
+5. Lorde
+6. Halsey
+7. Marina and the Diamonds
+8. The Neighbourhood
+9. Tove Lo
+10. CHVRCHES
+11. Charli XCX
+12. Bastille
+13. The 1975
+14. Lana Del Rey
+15. Twenty One Pilots
+16. Imagine Dragons
+17. Foster The People
+18. The Killers
+19. Vampire Weekend
+20. Arctic Monkeys
+21. The Strokes
+22. Cage The Elephant
+23. The xx
+24. Two Door Cinema Club
+25. The Naked and Famous
+26. Metric
+27. Grouplove
+28. Of Monsters and Men
+29. Young the Giant
+30. Passion Pit
+31. MGMT
+32. The Wombats
+33. The Kooks
+34. Franz Ferdinand
+35. The Vaccines
+36. The Hives
+37. The Ting Tings
+38. The Fratellis
+39. The Bravery
+40. The White Stripes
+41. The Raconteurs
+42. The Vines
+43. The Libertines
+44. The Zutons
+45. The Coral
+46. The Strokes
+47. The Kooks
+48. The Fratellis
+49. The Bravery
+50. The White Stripes
+
+These recommendations are based on the user's liking of similar artists and genres.

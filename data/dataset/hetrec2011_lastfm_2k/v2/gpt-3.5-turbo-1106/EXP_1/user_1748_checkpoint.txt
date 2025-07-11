@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Evanescence
+2. Delain
+3. Epica
+4. Amaranthe
+5. Tarja
+6. The Pretty Reckless
+7. Halestorm
+8. Sirenia
+9. In Flames
+10. Breaking Benjamin
+11. 30 Seconds to Mars
+12. Three Days Grace
+13. We Are the Fallen
+14. Halsey
+15. The Cranberries
+16. The Rasmus
+17. Apocalyptica
+18. My Chemical Romance
+19. Paramore
+20. Flyleaf
+21. Demi Lovato
+22. Florence + the Machine
+23. Sonata Arctica
+24. Linkin Park
+25. Eminem
+26. Katy Perry
+27. In This Moment
+28. You Me At Six
+29. Marina & the Diamonds
+30. The Gathering
+31. Green Day
+32. Jay-Z
+33. Ellie Goulding
+34. Skillet
+35. Kelly Clarkson
+36. Ke$ha
+37. Papa Roach
+38. Nightwish
+39. Lacuna Coil
+40. Within Temptation
+41. The Birthday Massacre
+42. Xandria
+43. Lacrimosa
+44. Otep
+45. The Agonist
+46. Arch Enemy
+47. Lacuna Coil
+48. Nightwish
+49. Delain
+50. Epica
+
+These recommendations are based on the user's liking of similar artists and genres.

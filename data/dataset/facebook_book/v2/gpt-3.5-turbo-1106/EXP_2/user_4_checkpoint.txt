@@ -1,0 +1,52 @@
+Based on the user's liking of the books provided, here are the re-ranked top-50 recommendations:
+
+1. The Outsiders (novel) by S. E. Hinton
+2. Cut (novel) by Patricia McCormick (author)
+3. Petals on the Wind by V. C. Andrews
+4. If There Be Thorns by V. C. Andrews
+5. Deenie by Judy Blume
+6. The Picture of Dorian Gray
+7. The Great Gatsby
+8. The Catcher in the Rye
+9. The Unbearable Lightness of Being
+10. Dracula
+11. The Hobbit
+12. The Lord of the Rings
+13. The Stand
+14. The Maze Runner
+15. The City of Ember
+16. The Southern Vampire Mysteries
+17. The Giver
+18. Brave New World
+19. Harry Potter
+20. Twilight Eyes
+21. World War Z
+22. Frankenstein
+23. Crime and Punishment
+24. The Scarlet Letter
+25. The Phantom of the Opera
+26. The Lost Books (novel series)
+27. The Silmarillion
+28. The House of Mirth
+29. The Rapture (novel)
+30. The Pillowman
+31. The Tenant of Wildfell Hall
+32. Invisible Man
+33. Lady Chatterley's Lover
+34. The Picture of Dorian Gray
+35. The Great Gatsby
+36. The Catcher in the Rye
+37. The Unbearable Lightness of Being
+38. Dracula
+39. The Hobbit
+40. The Lord of the Rings
+41. The Stand
+42. Through the Looking-Glass
+43. Pygmalion (play)
+44. Shakespeares sonnets
+45. A Series of Unfortunate Events
+46. The Rapture (novel)
+47. The House of Mirth
+48. The Lord of the Rings
+49. Through the Looking-Glass
+50. Pygmalion (play)

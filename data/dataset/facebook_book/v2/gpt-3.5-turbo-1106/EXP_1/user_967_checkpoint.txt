@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. The Shining by Stephen King
+3. Pet Sematary by Stephen King
+4. It by Stephen King
+5. Carrie by Stephen King
+6. The Dark Tower series by Stephen King
+7. Under the Dome by Stephen King
+8. 11/22/63 by Stephen King
+9. The Dead Zone by Stephen King
+10. The Gunslinger by Stephen King
+11. The Tommyknockers by Stephen King
+12. The Dark Half by Stephen King
+13. Bag of Bones by Stephen King
+14. The Green Mile by Stephen King
+15. Doctor Sleep by Stephen King
+16. The Regulators by Stephen King (writing as Richard Bachman)
+17. Desperation by Stephen King (writing as Richard Bachman)
+18. The Outsider by Stephen King
+19. Misery by Stephen King
+20. The Institute by Stephen King
+21. The Talisman by Stephen King and Peter Straub
+22. Black House by Stephen King and Peter Straub
+23. The Eyes of the Dragon by Stephen King
+24. Needful Things by Stephen King
+25. Insomnia by Stephen King
+26. The Girl Who Loved Tom Gordon by Stephen King
+27. The Long Walk by Stephen King (writing as Richard Bachman)
+28. The Running Man by Stephen King (writing as Richard Bachman)
+29. The Bachman Books by Stephen King (writing as Richard Bachman)
+30. The Regulators by Stephen King (writing as Richard Bachman)
+31. The Mist by Stephen King
+32. The Kite Runner by Khaled Hosseini
+33. A Thousand Splendid Suns by Khaled Hosseini
+34. And the Mountains Echoed by Khaled Hosseini
+35. The Book Thief by Markus Zusak
+36. The Night Circus by Erin Morgenstern
+37. The Time Traveler's Wife by Audrey Niffenegger
+38. The Lovely Bones by Alice Sebold
+39. Lucky by Alice Sebold
+40. The Almost Moon by Alice Sebold
+41. The Secret Life of Bees by Sue Monk Kidd
+42. The Invention of Wings by Sue Monk Kidd
+43. The Mermaid Chair by Sue Monk Kidd
+44. Water for Elephants by Sara Gruen
+45. At the Water's Edge by Sara Gruen
+46. Ape House by Sara Gruen
+47. The Glass Castle by Jeannette Walls
+48. Half Broke Horses by Jeannette Walls
+49. The Silver Star by Jeannette Walls
+50. The Glass Castle by Jeannette Walls
+
+These recommendations are based on the user's preference for books by Stephen King, Khaled Hosseini, Alice Sebold, and Sara Gruen, as well as other popular and critically acclaimed books in similar genres.

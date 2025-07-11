@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 633:
+
+1. Nirvana
+2. Metallica
+3. Guns N' Roses
+4. AC/DC
+5. Pearl Jam
+6. Rage Against the Machine
+7. Led Zeppelin
+8. Pantera
+9. Radiohead
+10. Foo Fighters
+11. My Chemical Romance
+12. Slipknot
+13. Alter Bridge
+14. Oasis
+15. Depeche Mode
+16. Paramore
+17. Three Days Grace
+18. Papa Roach
+19. Blink-182
+20. The Beatles
+21. U2
+22. Creed
+23. Stone Sour
+24. Audioslave
+25. The Strokes
+26. Green Day
+27. Linkin Park
+28. Coldplay
+29. Gorillaz
+30. MGMT
+31. The Kooks
+32. AFI
+33. The Word Alive
+34. The Devil Wears Prada
+35. Good Charlotte
+36. All That Remains
+37. Rise Against
+38. 36 Crazyfists
+39. Comeback Kid
+40. Keane
+41. Slash
+42. Avenged Sevenfold
+43. As I Lay Dying
+44. Aerosmith
+45. Lamb of God
+46. CPM 22
+47. Jota Quest
+48. Dead Fish
+49. Charlie Brown Jr.
+50. Red Hot Chili Peppers
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists that align with their musical tastes.

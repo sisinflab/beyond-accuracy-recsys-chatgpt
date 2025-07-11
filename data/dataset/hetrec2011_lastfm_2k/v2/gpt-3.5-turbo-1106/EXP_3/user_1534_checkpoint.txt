@@ -1,0 +1,54 @@
+Based on user 1534's preferences, here are the top 50 recommendations for the given artists:
+
+1. Radiohead
+2. Pink Floyd
+3. The Beatles
+4. Queen
+5. Led Zeppelin
+6. The Cure
+7. David Gilmour
+8. Rush
+9. Dire Straits
+10. The Doors
+11. Van Halen
+12. Nick Drake
+13. Sigur Rós
+14. Tool
+15. King Crimson
+16. Morrissey
+17. John Mayer
+18. George Michael
+19. Fleetwood Mac
+20. The Smiths
+21. Iron Maiden
+22. Cream
+23. The Prodigy
+24. M83
+25. Type O Negative
+26. Jethro Tull
+27. Goldfrapp
+28. Snow Patrol
+29. The Birthday Massacre
+30. IAMX
+31. Crystal Castles
+32. Coheed and Cambria
+33. Escape The Fate
+34. Underoath
+35. Funeral for a Friend
+36. Brand New
+37. Bon Iver
+38. Florence + the Machine
+39. Death Cab for Cutie
+40. Mindless Self Indulgence
+41. Hadouken!
+42. Rammstein
+43. Bombay Bicycle Club
+44. Poets of the Fall
+45. David Gray
+46. Pendulum
+47. The Blackout
+48. Hadouken!
+49. Enter Shikari
+50. Porcupine Tree
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

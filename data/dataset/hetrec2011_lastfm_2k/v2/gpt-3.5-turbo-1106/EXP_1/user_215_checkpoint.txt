@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smiths
+2. Portishead
+3. The Cure
+4. Radiohead
+5. The Stone Roses
+6. Blur
+7. The Verve
+8. The Cranberries
+9. The Libertines
+10. Pulp
+11. Joy Division
+12. New Order
+13. The Strokes
+14. Arctic Monkeys
+15. Interpol
+16. The Killers
+17. The White Stripes
+18. Franz Ferdinand
+19. The Black Keys
+20. The Raconteurs
+21. The National
+22. Vampire Weekend
+23. Tame Impala
+24. Foals
+25. Alt-J
+26. Cage the Elephant
+27. The War on Drugs
+28. Kings of Leon
+29. Modest Mouse
+30. Spoon
+31. The Shins
+32. Death Cab for Cutie
+33. Silversun Pickups
+34. Band of Horses
+35. The Decemberists
+36. Fleet Foxes
+37. My Morning Jacket
+38. Wilco
+39. The Avett Brothers
+40. The Lumineers
+41. Mumford & Sons
+42. Hozier
+43. Florence + The Machine
+44. Lana Del Rey
+45. Lorde
+46. Haim
+47. CHVRCHES
+48. Bastille
+49. Imagine Dragons
+50. Twenty One Pilots
+
+These recommendations are based on the user's liking of artists with similar genres and styles.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Neil Gaiman, Terry Pratchett
+2. Speaker for the Dead by Orson Scott Card
+3. Pride and Prejudice by Jane Austen
+4. Mistborn: The Final Empire by Brandon Sanderson
+5. The Restaurant at the End of the Universe by Douglas Adams
+6. Junky by William S. Burroughs
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. Through the Looking-Glass by Lewis Carroll
+9. Fight Club by Chuck Palahniuk
+10. Franny and Zooey by J.D. Salinger
+11. American Gods by Neil Gaiman
+12. The Salmon of Doubt by Douglas Adams
+13. The War of the Worlds by H.G. Wells
+14. The Martian by Andy Weir
+15. The Name of the Wind by Patrick Rothfuss
+16. The Hobbit by J.R.R. Tolkien
+17. The Graveyard Book by Neil Gaiman
+18. The Dark Tower: The Gunslinger by Stephen King
+19. The Road by Cormac McCarthy
+20. The Stand by Stephen King
+21. The Shining by Stephen King
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Da Vinci Code by Dan Brown
+24. The Hunger Games by Suzanne Collins
+25. The Catcher in the Rye by J.D. Salinger
+26. The Great Gatsby by F. Scott Fitzgerald
+27. To Kill a Mockingbird by Harper Lee
+28. 1984 by George Orwell
+29. Brave New World by Aldous Huxley
+30. Fahrenheit 451 by Ray Bradbury
+31. Slaughterhouse-Five by Kurt Vonnegut
+32. The Road by Cormac McCarthy
+33. The Handmaid's Tale by Margaret Atwood
+34. The Alchemist by Paulo Coelho
+35. The Book Thief by Markus Zusak
+36. The Kite Runner by Khaled Hosseini
+37. The Help by Kathryn Stockett
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Lovely Bones by Alice Sebold
+40. The Girl on the Train by Paula Hawkins
+41. Gone Girl by Gillian Flynn
+42. The Goldfinch by Donna Tartt
+43. The Night Circus by Erin Morgenstern
+44. The Time Traveler's Wife by Audrey Niffenegger
+45. The Giver by Lois Lowry
+46. The Maze Runner by James Dashner
+47. The Hunger Games by Suzanne Collins
+48. The Lightning Thief by Rick Riordan
+49. The Fault in Our Stars by John Green
+50. The Perks of Being a Wallflower by Stephen Chbosky
+
+These recommendations are based on the user's liking for specific authors and genres.

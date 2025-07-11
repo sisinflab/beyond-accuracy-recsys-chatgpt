@@ -1,0 +1,52 @@
+Based on the user's liking of the artists, I would recommend the following re-ranked top-50 artists:
+
+1. Amy Winehouse
+2. Lady Gaga
+3. Rihanna
+4. Beyoncé
+5. Madonna
+6. Christina Aguilera
+7. Britney Spears
+8. Adele
+9. Sade
+10. Norah Jones
+11. Tori Amos
+12. Shakira
+13. Katy Perry
+14. Taylor Swift
+15. Paramore
+16. Avril Lavigne
+17. Pink Floyd
+18. Muse
+19. The Beatles
+20. Coldplay
+21. U2
+22. Radiohead
+23. Nirvana
+24. Metallica
+25. Linkin Park
+26. Green Day
+27. The Killers
+28. Arctic Monkeys
+29. Miley Cyrus
+30. Ke$ha
+31. P!nk
+32. Kelly Clarkson
+33. Evanescence
+34. My Chemical Romance
+35. 30 Seconds to Mars
+36. Placebo
+37. The Cure
+38. Depeche Mode
+39. Duran Duran
+40. Blur
+41. The Cranberries
+42. The Smashing Pumpkins
+43. Pearl Jam
+44. Red Hot Chili Peppers
+45. Oasis
+46. The White Stripes
+47. The Strokes
+48. Franz Ferdinand
+49. The Libertines
+50. The Verve

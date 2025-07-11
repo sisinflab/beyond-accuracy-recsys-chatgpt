@@ -1,0 +1,54 @@
+Based on user 1618's preferences, here are the top 50 recommendations:
+
+1. Red Hot Chili Peppers
+2. Jimi Hendrix
+3. Steve Vai
+4. Eric Johnson
+5. Tom Morello
+6. Soundgarden
+7. Audioslave
+8. Nine Inch Nails
+9. Depeche Mode
+10. Joy Division
+11. New Order
+12. The Cure
+13. Siouxsie and the Banshees
+14. Bauhaus
+15. Gary Numan
+16. Tangerine Dream
+17. Jean-Michel Jarre
+18. Philip Glass
+19. Ludovico Einaudi
+20. Ólafur Arnalds
+21. Max Richter
+22. Brian Eno
+23. David Bowie
+24. The Velvet Underground
+25. The Jesus and Mary Chain
+26. My Bloody Valentine
+27. Cocteau Twins
+28. Slowdive
+29. The Smiths
+30. Echo & the Bunnymen
+31. The Psychedelic Furs
+32. The Sisters of Mercy
+33. Killing Joke
+34. Ministry
+35. Front 242
+36. Nitzer Ebb
+37. Skinny Puppy
+38. Throbbing Gristle
+39. Fad Gadget
+40. John Cage
+41. Arvo Pärt
+42. Steve Reich
+43. Terry Riley
+44. La Monte Young
+45. Morton Feldman
+46. Karlheinz Stockhausen
+47. György Ligeti
+48. Krzysztof Penderecki
+49. Henryk Górecki
+50. Arvo Pärt
+
+These recommendations are based on the user's liking of artists with similar musical styles and genres.

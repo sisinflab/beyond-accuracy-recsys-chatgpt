@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Brave New World by Aldous Huxley
+5. The Bell Jar by Sylvia Plath
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Handmaid's Tale by Margaret Atwood
+8. Beloved by Toni Morrison
+9. The Stranger by Albert Camus
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. The Road by Cormac McCarthy
+12. The Grapes of Wrath by John Steinbeck
+13. The Sun Also Rises by Ernest Hemingway
+14. The Picture of Dorian Gray by Oscar Wilde
+15. Crime and Punishment by Fyodor Dostoevsky
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. The Sound and the Fury by William Faulkner
+18. Heart of Darkness by Joseph Conrad
+19. Moby-Dick by Herman Melville
+20. The Scarlet Letter by Nathaniel Hawthorne
+21. Wuthering Heights by Emily Bronte
+22. The Count of Monte Cristo by Alexandre Dumas
+23. Anna Karenina by Leo Tolstoy
+24. War and Peace by Leo Tolstoy
+25. Madame Bovary by Gustave Flaubert
+26. The Trial by Franz Kafka
+27. The Metamorphosis by Franz Kafka
+28. The Stranger by Albert Camus
+29. The Plague by Albert Camus
+30. The Master and Margarita by Mikhail Bulgakov
+31. Lolita by Vladimir Nabokov
+32. The Catcher in the Rye by J.D. Salinger
+33. A Clockwork Orange by Anthony Burgess
+34. The Handmaid's Tale by Margaret Atwood
+35. The Road by Cormac McCarthy
+36. The Grapes of Wrath by John Steinbeck
+37. The Sun Also Rises by Ernest Hemingway
+38. The Picture of Dorian Gray by Oscar Wilde
+39. Crime and Punishment by Fyodor Dostoevsky
+40. The Brothers Karamazov by Fyodor Dostoevsky
+41. The Sound and the Fury by William Faulkner
+42. Heart of Darkness by Joseph Conrad
+43. Moby-Dick by Herman Melville
+44. The Scarlet Letter by Nathaniel Hawthorne
+45. Wuthering Heights by Emily Bronte
+46. The Count of Monte Cristo by Alexandre Dumas
+47. Anna Karenina by Leo Tolstoy
+48. War and Peace by Leo Tolstoy
+49. Madame Bovary by Gustave Flaubert
+50. The Trial by Franz Kafka
+
+These recommendations are based on the user's preference for classic literature and thought-provoking novels.

@@ -1,0 +1,54 @@
+Based on user 2029's preferences, here are the top 50 recommendations for the given artists:
+
+1. Radiohead
+2. Interpol
+3. Muse
+4. Deftones
+5. Marilyn Manson
+6. System of a Down
+7. The Smashing Pumpkins
+8. Sigur Rós
+9. Florence + the Machine
+10. Queens of the Stone Age
+11. Metallica
+12. Tool
+13. Nine Inch Nails
+14. Rammstein
+15. Gorillaz
+16. The Kills
+17. The Dresden Dolls
+18. Yeah Yeah Yeahs
+19. The Cult
+20. Joy Division
+21. Skinny Puppy
+22. La Roux
+23. LCD Soundsystem
+24. Daft Punk
+25. Justice
+26. Primal Scream
+27. The Verve
+28. Phoenix
+29. Klaxons
+30. Mystery Jets
+31. Soulwax
+32. Two Door Cinema Club
+33. OK Go
+34. Black Eyed Peas
+35. Maroon 5
+36. Los Hermanos
+37. Jamiroquai
+38. Mombojó
+39. Fischerspooner
+40. Vive la Fête
+41. Lenine
+42. The Beatles
+43. Dream Theater
+44. Megadeth
+45. Mastodon
+46. Incubus
+47. Kings of Leon
+48. Deerhunter
+49. Monster Magnet
+50. Porcupine Tree
+
+These recommendations are based on similar genres and artists liked by user 2029.

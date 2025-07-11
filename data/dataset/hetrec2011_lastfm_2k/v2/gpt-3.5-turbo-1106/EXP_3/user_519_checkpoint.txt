@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the re-ranked top-50 recommendations:
+
+1. Metallica
+2. Black Sabbath
+3. Iron Maiden
+4. Megadeth
+5. System of a Down
+6. Judas Priest
+7. Helloween
+8. Dream Theater
+9. Katatonia
+10. Sonata Arctica
+11. Depeche Mode
+12. Bruce Dickinson
+13. Kamelot
+14. Annihilator
+15. Kreator
+16. Mötley Crüe
+17. Linkin Park
+18. Nirvana
+19. Queen
+20. Avantasia
+21. Symphony X
+22. Ozzy Osbourne
+23. Guns N' Roses
+24. Rammstein
+25. Nightwish
+26. Korn
+27. Red Hot Chili Peppers
+28. Slayer
+29. Alice in Chains
+30. Avenged Sevenfold
+31. Dio
+32. Anthrax
+33. Overkill
+34. Children of Bodom
+35. Skid Row
+36. Journey
+37. Three Days Grace
+38. Mr. Big
+39. HammerFall
+40. Cradle of Filth
+41. Johnny Cash
+42. KISS
+43. Sodom
+44. Apocalyptica
+45. Eluveitie
+46. Jethro Tull
+47. Scorpions
+48. Angra
+49. Nevermore
+50. Blind Guardian
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for their enjoyment.

@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 661:
+
+1. The Bell Jar by Sylvia Plath
+2. Lolita by Vladimir Nabokov
+3. Dracula by Bram Stoker
+4. Girl, Interrupted by Susanna Kaysen
+5. Revolutionary Road by Richard Yates (novelist)
+6. Prozac Nation by Elizabeth Wurtzel
+7. Jarhead (book) by Anthony Swofford
+8. Bunnicula: A Rabbit-Tale of Mystery by Deborah Howe, James Howe
+9. Goodnight Moon by Margaret Wise Brown
+10. To the Lighthouse
+11. Neverwhere (novel)
+12. Love in the Time of Cholera
+13. Frankenstein
+14. Love, Stargirl
+15. Nineteen Eighty-Four
+16. The Lord of the Rings
+17. Adventures of Huckleberry Finn
+18. Twisted (book)
+19. Holes (novel)
+20. Twilight (series)
+21. Rose Madder (novel)
+22. A Midsummer Night's Dream
+23. Wuthering Heights
+24. The Shadow of the Wind
+25. The Graveyard Book
+26. A Swiftly Tilting Planet
+27. Inferno (Dante)
+28. Divine Comedy
+29. Sin City
+30. Angels & Demons
+31. Go Ask Alice
+32. The Zombie Survival Guide
+33. Carmilla
+34. Interview with the Vampire
+35. Let the Right One In (novel)
+36. Choke (novel)
+37. The Stranger (novel)
+38. The Lovely Bones
+39. Jane Eyre
+40. The Vampire Chronicles
+41. The Watchmen (novel)
+42. The Great Gatsby
+43. Fahrenheit 451
+44. The Mists of Avalon
+45. The Picture of Dorian Gray
+46. Memoirs of a Geisha
+47. The Metamorphosis
+48. Twenty Thousand Leagues Under the Sea
+49. The Fountainhead
+50. Dune (novel)
+
+These recommendations are based on the user's liking for certain books and the similarity of other books to those preferences.

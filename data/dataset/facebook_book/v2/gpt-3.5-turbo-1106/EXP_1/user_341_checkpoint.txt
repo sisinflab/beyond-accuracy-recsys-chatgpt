@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Crime and Punishment by Fyodor Dostoevsky
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Brothers Karamazov by Fyodor Dostoevsky
+8. The Stranger by Albert Camus
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Road by Cormac McCarthy
+11. The Bell Jar by Sylvia Plath
+12. The Grapes of Wrath by John Steinbeck
+13. The Sun Also Rises by Ernest Hemingway
+14. The Old Man and the Sea by Ernest Hemingway
+15. A Clockwork Orange by Anthony Burgess
+16. The Handmaid's Tale by Margaret Atwood
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Stand by Stephen King
+19. The Shining by Stephen King
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Da Vinci Code by Dan Brown
+22. The Alchemist by Paulo Coelho
+23. The Kite Runner by Khaled Hosseini
+24. The Book Thief by Markus Zusak
+25. The Night Circus by Erin Morgenstern
+26. The Goldfinch by Donna Tartt
+27. The Secret History by Donna Tartt
+28. The Name of the Wind by Patrick Rothfuss
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Help by Kathryn Stockett
+32. The Lovely Bones by Alice Sebold
+33. The Hunger Games by Suzanne Collins
+34. The Girl on the Train by Paula Hawkins
+35. The Martian by Andy Weir
+36. The Handmaid's Tale by Margaret Atwood
+37. The Catcher in the Rye by J.D. Salinger
+38. The Lord of the Rings by J.R.R. Tolkien
+39. The Scarlet Letter by Nathaniel Hawthorne
+40. To Kill a Mockingbird by Harper Lee
+41. Lolita by Vladimir Nabokov
+42. The Monk by Matthew Gregory Lewis
+43. The Canterville Ghost by Oscar Wilde
+44. Macbeth by William Shakespeare
+45. Rose Madder by Stephen King
+46. Eat This, Not That by David Zinczenko
+47. The Catcher in the Rye by J.D. Salinger
+48. The Lord of the Rings by J.R.R. Tolkien
+49. The Scarlet Letter by Nathaniel Hawthorne
+50. Lolita by Vladimir Nabokov

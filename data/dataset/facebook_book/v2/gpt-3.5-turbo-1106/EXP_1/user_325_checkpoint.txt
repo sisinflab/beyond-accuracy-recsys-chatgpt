@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. One Flew Over the Cuckoo's Nest by Ken Kesey
+3. Less Than Zero by Bret Easton Ellis
+4. A Clockwork Orange by Anthony Burgess
+5. Trainspotting by Irvine Welsh
+6. The Bell Jar by Sylvia Plath
+7. Girl, Interrupted by Susanna Kaysen
+8. Junky by William S. Burroughs
+9. The Basketball Diaries by Jim Carroll
+10. Prozac Nation by Elizabeth Wurtzel
+11. Tweak: Growing Up on Methamphetamines by Nic Sheff
+12. Smack by Melvin Burgess
+13. Crank by Ellen Hopkins
+14. Impulse by Ellen Hopkins
+15. Tricks by Ellen Hopkins
+16. Perfect by Ellen Hopkins
+17. Fallout by Ellen Hopkins
+18. Identical by Ellen Hopkins
+19. Burned by Ellen Hopkins
+20. Glass by Ellen Hopkins
+21. Go Ask Alice by Anonymous
+22. It's Kind of a Funny Story by Ned Vizzini
+23. The Virgin Suicides by Jeffrey Eugenides
+24. The Perks of Being a Wallflower by Stephen Chbosky
+25. Speak by Laurie Halse Anderson
+26. Wintergirls by Laurie Halse Anderson
+27. Thirteen Reasons Why by Jay Asher
+28. Looking for Alaska by John Green
+29. Paper Towns by John Green
+30. Will Grayson, Will Grayson by John Green and David Levithan
+31. The Fault in Our Stars by John Green
+32. We Were Liars by E. Lockhart
+33. Before I Fall by Lauren Oliver
+34. If I Stay by Gayle Forman
+35. Just Listen by Sarah Dessen
+36. The Truth About Forever by Sarah Dessen
+37. Speak by Laurie Halse Anderson
+38. The Lovely Bones by Alice Sebold
+39. The Outsiders by S.E. Hinton
+40. The Giver by Lois Lowry
+41. The Hunger Games by Suzanne Collins
+42. Divergent by Veronica Roth
+43. The Maze Runner by James Dashner
+44. The Book Thief by Markus Zusak
+45. Room by Emma Donoghue
+46. The Road by Cormac McCarthy
+47. Into the Wild by Jon Krakauer
+48. On the Road by Jack Kerouac
+49. Fear and Loathing in Las Vegas by Hunter S. Thompson
+50. Breaking Point by Alex Flinn
+
+These recommendations are based on the user's interest in books with themes of coming-of-age, personal struggles, and psychological exploration.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Speaker for the Dead by Orson Scott Card
+2. Wuthering Heights by Emily Brontë
+3. The Hobbit by J.R.R. Tolkien
+4. The Name of the Wind by Patrick Rothfuss
+5. The Hunger Games by Suzanne Collins
+6. Mistborn: The Final Empire by Brandon Sanderson
+7. The Night Circus by Erin Morgenstern
+8. The Giver by Lois Lowry
+9. The Golden Compass by Philip Pullman
+10. Dragonflight by Anne McCaffrey
+11. Dune by Frank Herbert
+12. The Martian by Andy Weir
+13. The Alchemist by Paulo Coelho
+14. The Book Thief by Markus Zusak
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Maze Runner by James Dashner
+17. The Lightning Thief by Rick Riordan
+18. The Secret Garden by Frances Hodgson Burnett
+19. The Catcher in the Rye by J.D. Salinger
+20. The Great Gatsby by F. Scott Fitzgerald
+21. To Kill a Mockingbird by Harper Lee
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Lord of the Rings by J.R.R. Tolkien
+24. The Da Vinci Code by Dan Brown
+25. The Girl on the Train by Paula Hawkins
+26. The Help by Kathryn Stockett
+27. The Lovely Bones by Alice Sebold
+28. The Kite Runner by Khaled Hosseini
+29. The Fault in Our Stars by John Green
+30. The Perks of Being a Wallflower by Stephen Chbosky
+31. The Handmaid's Tale by Margaret Atwood
+32. The Road by Cormac McCarthy
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The Count of Monte Cristo by Alexandre Dumas
+35. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+36. The Stand by Stephen King
+37. The Shining by Stephen King
+38. The Silence of the Lambs by Thomas Harris
+39. The Girl with the Pearl Earring by Tracy Chevalier
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Shadow of the Wind by Carlos Ruiz Zafón
+42. The Nightingale by Kristin Hannah
+43. The Goldfinch by Donna Tartt
+44. The Handmaid's Tale by Margaret Atwood
+45. The Road by Cormac McCarthy
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Count of Monte Cristo by Alexandre Dumas
+48. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+49. The Stand by Stephen King
+50. The Shining by Stephen King
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1166 likes.

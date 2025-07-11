@@ -1,0 +1,54 @@
+Based on the preferences of user 274, here are the top 50 book recommendations:
+
+1. Fruits Basket by Natsuki Takaya
+2. Death Note by Tsugumi Ohba
+3. Nana by Ai Yazawa
+4. Paradise Kiss by Ai Yazawa
+5. Black Bird by Kanoko Sakurakoji
+6. Ouran High School Host Club by Bisco Hatori
+7. Fullmetal Alchemist by Hiromu Arakawa
+8. Tokyo Ghoul by Sui Ishida
+9. Attack on Titan by Hajime Isayama
+10. One Piece by Eiichiro Oda
+11. Naruto by Masashi Kishimoto
+12. Bleach by Tite Kubo
+13. One Punch Man by ONE
+14. My Hero Academia by Kohei Horikoshi
+15. Assassination Classroom by Yusei Matsui
+16. The Promised Neverland by Kaiu Shirai
+17. Haikyu!! by Haruichi Furudate
+18. Food Wars! by Yuto Tsukuda
+19. The Ancient Magus' Bride by Kore Yamazaki
+20. Akame ga Kill! by Takahiro
+21. Tokyo Babylon by CLAMP
+22. Cardcaptor Sakura by CLAMP
+23. Tsubasa: Reservoir Chronicle by CLAMP
+24. xxxHolic by CLAMP
+25. Sailor Moon by Naoko Takeuchi
+26. Yu Yu Hakusho by Yoshihiro Togashi
+27. Rurouni Kenshin by Nobuhiro Watsuki
+28. Inuyasha by Rumiko Takahashi
+29. Ranma 1/2 by Rumiko Takahashi
+30. Dragon Ball by Akira Toriyama
+31. Yu-Gi-Oh! by Kazuki Takahashi
+32. D.Gray-man by Katsura Hoshino
+33. Blue Exorcist by Kazue Kato
+34. Soul Eater by Atsushi Ōkubo
+35. Fairy Tail by Hiro Mashima
+36. Magi: The Labyrinth of Magic by Shinobu Ohtaka
+37. Black Butler by Yana Toboso
+38. Pandora Hearts by Jun Mochizuki
+39. The Melancholy of Haruhi Suzumiya by Nagaru Tanigawa
+40. Lucky Star by Kagami Yoshimizu
+41. Azumanga Daioh by Kiyohiko Azuma
+42. Love Hina by Ken Akamatsu
+43. Negima! Magister Negi Magi by Ken Akamatsu
+44. Elfen Lied by Lynn Okamoto
+45. Claymore by Norihiro Yagi
+46. Berserk by Kentaro Miura
+47. Vagabond by Takehiko Inoue
+48. Vinland Saga by Makoto Yukimura
+49. Monster by Naoki Urasawa
+50. 20th Century Boys by Naoki Urasawa
+
+These recommendations are based on the genres and themes of the books liked by user 274.

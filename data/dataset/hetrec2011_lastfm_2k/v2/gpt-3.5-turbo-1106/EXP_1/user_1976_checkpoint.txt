@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Sufjan Stevens
+2. Nick Cave & The Bad Seeds
+3. Radiohead
+4. Sigur Rós
+5. The National
+6. Arcade Fire
+7. Bon Iver
+8. Fleet Foxes
+9. The Decemberists
+10. Grizzly Bear
+11. Andrew Bird
+12. Iron & Wine
+13. José González
+14. The Tallest Man on Earth
+15. Father John Misty
+16. The War on Drugs
+17. The Shins
+18. Wilco
+19. My Morning Jacket
+20. Band of Horses
+21. The Avett Brothers
+22. The Lumineers
+23. First Aid Kit
+24. Hozier
+25. Lord Huron
+26. The Head and the Heart
+27. Dawes
+28. The Milk Carton Kids
+29. The Civil Wars
+30. The Staves
+31. Laura Marling
+32. Daughter
+33. Ben Howard
+34. Angus & Julia Stone
+35. Gregory Alan Isakov
+36. Ray LaMontagne
+37. Amos Lee
+38. Damien Rice
+39. Glen Hansard
+40. Foy Vance
+41. John Mayer
+42. Jack Johnson
+43. Ben Harper
+44. Xavier Rudd
+45. Citizen Cope
+46. Michael Kiwanuka
+47. Bahamas
+48. Shakey Graves
+49. Nathaniel Rateliff & The Night Sweats
+50. The Lone Bellow
+
+These recommendations are based on the user's liking of artists with similar styles and genres.

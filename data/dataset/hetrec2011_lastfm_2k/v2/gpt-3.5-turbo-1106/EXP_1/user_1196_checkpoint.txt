@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Smashing Pumpkins
+2. 311
+3. Stone Sour
+4. Seether
+5. Three Days Grace
+6. Staind
+7. System of a Down
+8. The Smashing Pumpkins
+9. The Verve
+10. The White Stripes
+11. The Strokes
+12. The Killers
+13. The Hives
+14. The Cranberries
+15. The Black Keys
+16. The All-American Rejects
+17. Sum 41
+18. Sublime
+19. Sugar Ray
+20. Soundgarden
+21. Silverchair
+22. Shinedown
+23. Sevendust
+24. Red Hot Chili Peppers
+25. Queens of the Stone Age
+26. Puddle of Mudd
+27. Placebo
+28. Papa Roach
+29. Oasis
+30. My Chemical Romance
+31. Muse
+32. Modest Mouse
+33. Linkin Park
+34. Korn
+35. Kings of Leon
+36. Incubus
+37. Green Day
+38. Foo Fighters
+39. Fall Out Boy
+40. Evanescence
+41. Chevelle
+42. Bush
+43. Breaking Benjamin
+44. Audioslave
+45. Alice in Chains
+46. AFI
+47. 30 Seconds to Mars
+48. 3 Doors Down
+49. 311
+50. 10 Years
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of options within the same genre.

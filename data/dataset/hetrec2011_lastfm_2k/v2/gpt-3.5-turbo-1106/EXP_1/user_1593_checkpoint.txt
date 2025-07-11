@@ -1,0 +1,54 @@
+Based on the preferences of user 1593, here are the top 50 recommendations:
+
+1. Ariana Grande
+2. Lady Gaga
+3. Justin Timberlake
+4. Katy Perry
+5. Jennifer Lopez
+6. Alicia Keys
+7. Janelle Monáe
+8. Demi Lovato
+9. Selena Gomez
+10. Bruno Mars
+11. Jhené Aiko
+12. The Weeknd
+13. Dua Lipa
+14. H.E.R.
+15. SZA
+16. Cardi B
+17. Lizzo
+18. Khalid
+19. Megan Thee Stallion
+20. Normani
+21. Doja Cat
+22. Shawn Mendes
+23. Camila Cabello
+24. Zara Larsson
+25. Tinashe
+26. Miguel
+27. Ella Mai
+28. Kehlani
+29. Normani
+30. Sam Smith
+31. Halsey
+32. Alessia Cara
+33. Becky G
+34. Fifth Harmony
+35. Little Mix
+36. Zayn
+37. Hailee Steinfeld
+38. Rita Ora
+39. Troye Sivan
+40. Charlie Puth
+41. Shawn Mendes
+42. Alessia Cara
+43. Becky G
+44. Fifth Harmony
+45. Little Mix
+46. Zayn
+47. Hailee Steinfeld
+48. Rita Ora
+49. Troye Sivan
+50. Charlie Puth
+
+These recommendations are based on the similar music tastes and preferences of user 1593.

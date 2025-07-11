@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glass (Hopkins novel) by Ellen Hopkins
+2. Identical (novel) by Ellen Hopkins
+3. Tricks (novel) by Ellen Hopkins
+4. Perfect (Hopkins novel) by Ellen Hopkins
+5. Tilt (Hopkins novel) by Ellen Hopkins
+6. Impulse (Hopkins novel) by Ellen Hopkins
+7. Burned (Hopkins novel) by Ellen Hopkins
+8. Smoke (Hopkins novel) by Ellen Hopkins
+9. The Lovely Bones by Alice Sebold
+10. Wintergirls by Laurie Halse Anderson
+11. Speak by Laurie Halse Anderson
+12. Thirteen Reasons Why by Jay Asher
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. It's Kind of a Funny Story by Ned Vizzini
+15. Girl, Interrupted by Susanna Kaysen
+16. The Bell Jar by Sylvia Plath
+17. Prozac Nation by Elizabeth Wurtzel
+18. The Catcher in the Rye by J.D. Salinger
+19. Looking for Alaska by John Green
+20. Paper Towns by John Green
+21. An Abundance of Katherines by John Green
+22. Will Grayson, Will Grayson by John Green and David Levithan
+23. The Fault in Our Stars by John Green
+24. Eleanor & Park by Rainbow Rowell
+25. Fangirl by Rainbow Rowell
+26. Landline by Rainbow Rowell
+27. Attachments by Rainbow Rowell
+28. Carry On by Rainbow Rowell
+29. The Hate U Give by Angie Thomas
+30. Dear Martin by Nic Stone
+31. All American Boys by Jason Reynolds and Brendan Kiely
+32. Long Way Down by Jason Reynolds
+33. Ghost by Jason Reynolds
+34. The Poet X by Elizabeth Acevedo
+35. With the Fire on High by Elizabeth Acevedo
+36. Clap When You Land by Elizabeth Acevedo
+37. The Sun Is Also a Star by Nicola Yoon
+38. Everything, Everything by Nicola Yoon
+39. The Book Thief by Markus Zusak
+40. I Am the Messenger by Markus Zusak
+41. Bridge to Terabithia by Katherine Paterson
+42. Holes by Louis Sachar
+43. Stargirl by Jerry Spinelli
+44. Maniac Magee by Jerry Spinelli
+45. The Giver by Lois Lowry
+46. Number the Stars by Lois Lowry
+47. The Outsiders by S.E. Hinton
+48. Tangerine by Edward Bloor
+49. The Chocolate War by Robert Cormier
+50. The House on Mango Street by Sandra Cisneros
+
+These recommendations are based on similar themes, genres, and authors to the books liked by user 1182.

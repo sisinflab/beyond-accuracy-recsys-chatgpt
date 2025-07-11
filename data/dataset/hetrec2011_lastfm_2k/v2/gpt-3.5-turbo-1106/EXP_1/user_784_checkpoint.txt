@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Belle and Sebastian
+2. Elliott Smith
+3. Arcade Fire
+4. Fleet Foxes
+5. The Decemberists
+6. Wilco
+7. Grizzly Bear
+8. The National
+9. Modest Mouse
+10. Tame Impala
+11. The Smiths
+12. Pavement
+13. Yo La Tengo
+14. Bright Eyes
+15. The Strokes
+16. The Velvet Underground
+17. Beck
+18. Spoon
+19. The White Stripes
+20. The Cure
+21. Interpol
+22. The War on Drugs
+23. Father John Misty
+24. The Black Keys
+25. Spoon
+26. The Flaming Lips
+27. Death Cab for Cutie
+28. Phoenix
+29. Bon Iver
+30. Clap Your Hands Say Yeah
+31. Animal Collective
+32. M83
+33. Boards of Canada
+34. Ben Folds
+35. The Postal Service
+36. Queen
+37. Vampire Weekend
+38. LCD Soundsystem
+39. The Magnetic Fields
+40. The Beach Boys
+41. Coldplay
+42. The Smiths
+43. Pavement
+44. Yo La Tengo
+45. Bright Eyes
+46. The Strokes
+47. The Velvet Underground
+48. Beck
+49. Spoon
+50. The White Stripes
+
+These recommendations are based on the user's liking of similar artists and genres.

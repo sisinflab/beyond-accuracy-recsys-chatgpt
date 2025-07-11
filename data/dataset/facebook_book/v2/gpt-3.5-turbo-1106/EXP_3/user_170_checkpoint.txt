@@ -1,0 +1,54 @@
+Based on user 170's preferences, here are the top 50 book recommendations:
+
+1. Haunted (Palahniuk novel)
+2. Lullaby (Palahniuk novel)
+3. Diary (novel)
+4. Rant (novel)
+5. Invisible Monsters by Chuck Palahniuk
+6. Romeo and Juliet
+7. Inkheart by Cornelia Funke
+8. Love Hina by Ken Akamatsu
+9. Alchemy (novel) by Margaret Mahy
+10. Dramacon
+11. A Thousand Splendid Suns
+12. The Tale of Despereaux
+13. Angels & Demons
+14. Dry (memoir)
+15. The Da Vinci Code
+16. John Dies at the End
+17. The Bean Trees
+18. Magical Thinking (book)
+19. A Tree Grows in Brooklyn (novel)
+20. Lord of the Flies
+21. Twilight (series)
+22. A Modest Proposal
+23. Sellevision
+24. Atonement (novel)
+25. The Jungle Book
+26. The Cat Who Saw Red
+27. Dracula
+28. The Picture of Dorian Gray
+29. The Reader
+30. To Kill a Mockingbird
+31. The Great Gatsby
+32. Player Piano (novel)
+33. So Long, and Thanks for All the Fish
+34. Dragon Rider (novel)
+35. Eragon
+36. A Swiftly Tilting Planet
+37. Guardians of Ga'Hoole: The Capture
+38. Bible
+39. Inkspell
+40. The Catcher in the Rye
+41. Running with Scissors (memoir)
+42. Cirque du Freak
+43. Nineteen Eighty-Four
+44. The Watchmen (novel)
+45. Animorphs
+46. Ender's Game
+47. Skeleton Creek (novel)
+48. Manga
+49. The Outsiders (novel)
+50. The Alchemist (novel)
+
+These recommendations are based on the user's previous likes and are tailored to their specific tastes.

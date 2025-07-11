@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Perks of Being a Wallflower by Stephen Chbosky
+3. The Secret Garden by Frances Hodgson Burnett
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Hunger Games by Suzanne Collins
+7. The Outsiders by S.E. Hinton
+8. The Book Thief by Markus Zusak
+9. Eleanor & Park by Rainbow Rowell
+10. The Catcher in the Rye by J.D. Salinger
+11. Little Women by Louisa May Alcott
+12. The Maze Runner by James Dashner
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Alchemist by Paulo Coelho
+15. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+16. The Sisterhood of the Traveling Pants by Ann Brashares
+17. The House on Mango Street by Sandra Cisneros
+18. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+19. The Lightning Thief by Rick Riordan
+20. The Princess Diaries by Meg Cabot
+21. The Lovely Bones by Alice Sebold
+22. The Kite Runner by Khaled Hosseini
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Help by Kathryn Stockett
+25. The Night Circus by Erin Morgenstern
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Glass Castle by Jeannette Walls
+28. The Handmaid's Tale by Margaret Atwood
+29. The Goldfinch by Donna Tartt
+30. The Martian by Andy Weir
+31. The Girl on the Train by Paula Hawkins
+32. The Hunger Games by Suzanne Collins
+33. The Fault in Our Stars by John Green
+34. The Book Thief by Markus Zusak
+35. The Great Gatsby by F. Scott Fitzgerald
+36. The Catcher in the Rye by J.D. Salinger
+37. The Hobbit by J.R.R. Tolkien
+38. The Help by Kathryn Stockett
+39. The Night Circus by Erin Morgenstern
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Glass Castle by Jeannette Walls
+42. The Handmaid's Tale by Margaret Atwood
+43. The Goldfinch by Donna Tartt
+44. The Martian by Andy Weir
+45. The Girl on the Train by Paula Hawkins
+46. The Hunger Games by Suzanne Collins
+47. The Fault in Our Stars by John Green
+48. The Book Thief by Markus Zusak
+49. The Great Gatsby by F. Scott Fitzgerald
+50. The Catcher in the Rye by J.D. Salinger
+
+These recommendations are based on the user's liking of similar books and authors.

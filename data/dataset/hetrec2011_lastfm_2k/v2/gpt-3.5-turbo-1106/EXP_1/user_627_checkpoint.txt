@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Angra
+2. Kamelot
+3. Epica
+4. Sonata Arctica
+5. Rhapsody of Fire
+6. Avantasia
+7. Symphony X
+8. Edguy
+9. Stratovarius
+10. Blind Guardian
+11. Gamma Ray
+12. Nightwish
+13. Ayreon
+14. Within Temptation
+15. Amorphis
+16. Sabaton
+17. Powerwolf
+18. HammerFall
+19. Sirenia
+20. Delain
+21. Xandria
+22. Leaves' Eyes
+23. Therion
+24. Tarja
+25. After Forever
+26. Visions of Atlantis
+27. Serenity
+28. Battle Beast
+29. Eluveitie
+30. Arkona
+31. Korpiklaani
+32. Turisas
+33. Ensiferum
+34. Wintersun
+35. Equilibrium
+36. Elvenking
+37. Alestorm
+38. Finntroll
+39. Moonsorrow
+40. Tyr
+41. Korpiklaani
+42. Ensiferum
+43. Wintersun
+44. Equilibrium
+45. Elvenking
+46. Alestorm
+47. Finntroll
+48. Moonsorrow
+49. Tyr
+50. Korpiklaani
+
+These recommendations are based on the user's liking of power metal, symphonic metal, and progressive metal bands, as well as related genres and artists.

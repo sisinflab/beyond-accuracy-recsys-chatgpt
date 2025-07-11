@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Sigur Rós
+2. Porcupine Tree
+3. Anathema
+4. Tool
+5. Placebo
+6. Interpol
+7. Mogwai
+8. The Smashing Pumpkins
+9. Nine Inch Nails
+10. A Perfect Circle
+11. The National
+12. Editors
+13. The Smashing Pumpkins
+14. The xx
+15. The Flaming Lips
+16. The Mars Volta
+17. The War on Drugs
+18. Tame Impala
+19. The Antlers
+20. Explosions in the Sky
+21. Hammock
+22. This Will Destroy You
+23. Mono
+24. Godspeed You! Black Emperor
+25. Russian Circles
+26. If These Trees Could Talk
+27. Caspian
+28. Maybeshewill
+29. And So I Watch You From Afar
+30. Long Distance Calling
+31. 65daysofstatic
+32. Pelican
+33. Cult of Luna
+34. Alcest
+35. Chelsea Wolfe
+36. Emma Ruth Rundle
+37. My Bloody Valentine
+38. Slowdive
+39. Cocteau Twins
+40. Lush
+41. Ride
+42. Chapterhouse
+43. Swervedriver
+44. Catherine Wheel
+45. Pale Saints
+46. Medicine
+47. The Jesus and Mary Chain
+48. Curve
+49. Cranes
+50. Lush
+
+These recommendations are based on the user's liking of similar artists and genres.

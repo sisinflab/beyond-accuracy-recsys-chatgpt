@@ -1,0 +1,54 @@
+Based on user 401's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The Strokes
+2. Kings of Leon
+3. Death Cab for Cutie
+4. Rise Against
+5. The Smiths
+6. Foo Fighters
+7. The Shins
+8. Morrissey
+9. System of a Down
+10. Joy Division
+11. The Smashing Pumpkins
+12. Paramore
+13. Arctic Monkeys
+14. Coldplay
+15. Raimundos
+16. Gogol Bordello
+17. Taylor Swift
+18. Regina Spektor
+19. MGMT
+20. Built to Spill
+21. Asking Alexandria
+22. Animal Collective
+23. Avenged Sevenfold
+24. Anti-Flag
+25. Cat Power
+26. The 69 Eyes
+27. The Beatles
+28. All Time Low
+29. Misfits
+30. Social Distortion
+31. Los Hermanos
+32. Bowling for Soup
+33. HIM
+34. Stereophonics
+35. Dave Matthews Band
+36. The Black Keys
+37. Oasis
+38. She & Him
+39. The Cure
+40. Alexisonfire
+41. A Day to Remember
+42. Brandon Flowers
+43. Three Days Grace
+44. Johnny Cash
+45. Black Rebel Motorcycle Club
+46. John Mayer
+47. Flyleaf
+48. Kings of Convenience
+49. Lily Allen
+50. O Teatro Mágico
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for their enjoyment.

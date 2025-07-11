@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. A Day to Remember
+2. Breaking Benjamin
+3. Bullet for My Valentine
+4. Coheed and Cambria
+5. Deftones
+6. Disturbed
+7. Evanescence
+8. Five Finger Death Punch
+9. Green Day
+10. Incubus
+11. Korn
+12. Linkin Park
+13. My Chemical Romance
+14. Nine Inch Nails
+15. Papa Roach
+16. Red Hot Chili Peppers
+17. Seether
+18. Shinedown
+19. Slipknot
+20. Stone Sour
+21. System of a Down
+22. The Offspring
+23. Three Days Grace
+24. Tool
+25. Trivium
+26. 30 Seconds to Mars
+27. AFI
+28. Avenged Sevenfold
+29. Chevelle
+30. Foo Fighters
+31. Muse
+32. Nirvana
+33. Paramore
+34. Rise Against
+35. Thrice
+36. Atreyu
+37. Beartooth
+38. Bring Me the Horizon
+39. Halestorm
+40. In This Moment
+41. Motionless in White
+42. Of Mice & Men
+43. Parkway Drive
+44. Pop Evil
+45. Royal Blood
+46. Sevendust
+47. Skillet
+48. Starset
+49. The Pretty Reckless
+50. Theory of a Deadman
+
+These recommendations are based on the user's liking of similar artists and genres.

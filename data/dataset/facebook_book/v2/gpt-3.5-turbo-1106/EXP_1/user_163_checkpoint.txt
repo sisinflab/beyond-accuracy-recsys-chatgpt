@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel García Márquez
+2. Chronicle of a Death Foretold by Gabriel García Márquez
+3. The General in His Labyrinth by Gabriel García Márquez
+4. The Autumn of the Patriarch by Gabriel García Márquez
+5. The House of the Spirits by Isabel Allende
+6. The Vampire Lestat by Anne Rice
+7. Interview with the Vampire by Anne Rice
+8. The Historian by Elizabeth Kostova
+9. The Bloody Chamber by Angela Carter
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Frankenstein by Mary Shelley
+12. Wuthering Heights by Emily Brontë
+13. Jane Eyre by Charlotte Brontë
+14. Rebecca by Daphne du Maurier
+15. The Bell Jar by Sylvia Plath
+16. The Catcher in the Rye by J.D. Salinger
+17. To Kill a Mockingbird by Harper Lee
+18. The Great Gatsby by F. Scott Fitzgerald
+19. Pride and Prejudice by Jane Austen
+20. Sense and Sensibility by Jane Austen
+21. Emma by Jane Austen
+22. Persuasion by Jane Austen
+23. Northanger Abbey by Jane Austen
+24. Mansfield Park by Jane Austen
+25. The Secret History by Donna Tartt
+26. The Goldfinch by Donna Tartt
+27. The Shadow of the Wind by Carlos Ruiz Zafón
+28. The Angel's Game by Carlos Ruiz Zafón
+29. The Thirteenth Tale by Diane Setterfield
+30. The Night Circus by Erin Morgenstern
+31. The Book Thief by Markus Zusak
+32. The Kite Runner by Khaled Hosseini
+33. A Thousand Splendid Suns by Khaled Hosseini
+34. The Alchemist by Paulo Coelho
+35. Like Water for Chocolate by Laura Esquivel
+36. The House of the Spirits by Isabel Allende
+37. The Time Traveler's Wife by Audrey Niffenegger
+38. The Lovely Bones by Alice Sebold
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Name of the Wind by Patrick Rothfuss
+41. The Night Circus by Erin Morgenstern
+42. The Golem and the Jinni by Helene Wecker
+43. The Snow Child by Eowyn Ivey
+44. The Ocean at the End of the Lane by Neil Gaiman
+45. The Night Circus by Erin Morgenstern
+46. The Golem and the Jinni by Helene Wecker
+47. The Snow Child by Eowyn Ivey
+48. The Ocean at the End of the Lane by Neil Gaiman
+49. The Night Circus by Erin Morgenstern
+50. The Golem and the Jinni by Helene Wecker
+
+These recommendations are based on the user's interest in magical realism, gothic literature, and classic novels.

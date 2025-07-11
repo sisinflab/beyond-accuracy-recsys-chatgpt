@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. Green Day
+3. My Chemical Romance
+4. Panic! At The Disco
+5. All Time Low
+6. Twenty One Pilots
+7. Paramore
+8. Glee Cast
+9. The Runaways
+10. AC/DC
+11. The Cure
+12. The Who
+13. Gloria
+14. McFly
+15. Elis Regina
+16. Nando Reis
+17. Marisa Monte
+18. Ramones
+19. Pink Floyd
+20. Michael Bublé
+21. Britney Spears
+22. Engenheiros do Hawaii
+23. The Jackson 5
+24. Nickelback
+25. Nirvana
+26. Cueio Limão
+27. Cássia Eller
+28. Daughtry
+29. Camila
+30. Flyleaf
+31. Duffy
+32. Dire Straits
+33. The Kooks
+34. RBD
+35. Christina Aguilera
+36. Evanescence
+37. The Beatles
+38. Queen
+39. Led Zeppelin
+40. The Rolling Stones
+41. Arctic Monkeys
+42. The Strokes
+43. Red Hot Chili Peppers
+44. Foo Fighters
+45. Muse
+46. The Killers
+47. Imagine Dragons
+48. Florence + The Machine
+49. Halsey
+50. Lorde
+
+These recommendations are based on the user's liking of similar artists and genres.

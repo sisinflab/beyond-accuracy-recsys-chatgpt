@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Piece by Eiichiro Oda
+2. Bleach by Tite Kubo
+3. Attack on Titan by Hajime Isayama
+4. Fullmetal Alchemist by Hiromu Arakawa
+5. Death Note by Tsugumi Ohba
+6. Dragon Ball by Akira Toriyama
+7. My Hero Academia by Kohei Horikoshi
+8. Tokyo Ghoul by Sui Ishida
+9. Fairy Tail by Hiro Mashima
+10. One Punch Man by ONE
+11. Assassination Classroom by Yusei Matsui
+12. Hunter x Hunter by Yoshihiro Togashi
+13. Sword Art Online by Reki Kawahara
+14. The Promised Neverland by Kaiu Shirai
+15. Demon Slayer: Kimetsu no Yaiba by Koyoharu Gotouge
+16. Black Clover by Yūki Tabata
+17. Haikyu!! by Haruichi Furudate
+18. The Seven Deadly Sins by Nakaba Suzuki
+19. Magi: The Labyrinth of Magic by Shinobu Ohtaka
+20. Noragami by Adachitoka
+21. Blue Exorcist by Kazue Kato
+22. Soul Eater by Atsushi Ōkubo
+23. D.Gray-man by Katsura Hoshino
+24. Seraph of the End by Takaya Kagami
+25. Akame ga Kill! by Takahiro
+26. Pandora Hearts by Jun Mochizuki
+27. The Ancient Magus' Bride by Kore Yamazaki
+28. Claymore by Norihiro Yagi
+29. Rurouni Kenshin by Nobuhiro Watsuki
+30. Inuyasha by Rumiko Takahashi
+31. Yu Yu Hakusho by Yoshihiro Togashi
+32. Nura: Rise of the Yokai Clan by Hiroshi Shiibashi
+33. The Rising of the Shield Hero by Aneko Yusagi
+34. Re:Zero - Starting Life in Another World by Tappei Nagatsuki
+35. That Time I Got Reincarnated as a Slime by Fuse
+36. Overlord by Kugane Maruyama
+37. Log Horizon by Mamare Touno
+38. No Game No Life by Yuu Kamiya
+39. The Devil Is a Part-Timer! by Satoshi Wagahara
+40. Konosuba: God's Blessing on This Wonderful World! by Natsume Akatsuki
+41. Grimgar of Fantasy and Ash by Ao Jyumonji
+42. Goblin Slayer by Kumo Kagyu
+43. The Rising of the Shield Hero by Aneko Yusagi
+44. Re:Zero - Starting Life in Another World by Tappei Nagatsuki
+45. That Time I Got Reincarnated as a Slime by Fuse
+46. Overlord by Kugane Maruyama
+47. Log Horizon by Mamare Touno
+48. No Game No Life by Yuu Kamiya
+49. The Devil Is a Part-Timer! by Satoshi Wagahara
+50. Konosuba: God's Blessing on This Wonderful World! by Natsume Akatsuki
+
+These recommendations are based on the user's interest in manga and fantasy novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The National
+3. Grizzly Bear
+4. Tame Impala
+5. Arcade Fire
+6. Bon Iver
+7. The War on Drugs
+8. Sharon Van Etten
+9. Angel Olsen
+10. Father John Misty
+11. The xx
+12. Beach House
+13. Mew
+14. Janelle Monáe
+15. Ólafur Arnalds
+16. Camera Obscura
+17. Suede
+18. Dead Can Dance
+19. Bat for Lashes
+20. Fleet Foxes
+21. Tom Waits
+22. Slowdive
+23. Sigur Rós
+24. Jónsi
+25. Nina Simone
+26. The Velvet Underground
+27. The Radio Dept.
+28. The Pains of Being Pure at Heart
+29. Elbow
+30. These New Puritans
+31. PJ Harvey
+32. The Antlers
+33. Fleetwood Mac
+34. The Smiths
+35. The Cure
+36. New Order
+37. Cocteau Twins
+38. My Bloody Valentine
+39. The Jesus and Mary Chain
+40. Mazzy Star
+41. Cat Power
+42. Yo La Tengo
+43. Spiritualized
+44. The Flaming Lips
+45. Neutral Milk Hotel
+46. Belle and Sebastian
+47. The Magnetic Fields
+48. The Shins
+49. Broken Social Scene
+50. The Decemberists
+
+These recommendations are based on the user's liking of similar artists and genres.

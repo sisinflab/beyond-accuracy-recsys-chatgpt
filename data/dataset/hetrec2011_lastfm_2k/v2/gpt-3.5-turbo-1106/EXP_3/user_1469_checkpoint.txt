@@ -1,0 +1,54 @@
+Based on user 1469's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Arctic Monkeys
+2. Foo Fighters
+3. Queens of the Stone Age
+4. Panic! At the Disco
+5. The Offspring
+6. Rammstein
+7. The Clash
+8. Ramones
+9. System of a Down
+10. Bullet for My Valentine
+11. Good Charlotte
+12. Avenged Sevenfold
+13. Skillet
+14. Mötley Crüe
+15. The Rasmus
+16. Die Toten Hosen
+17. Garbage
+18. Serj Tankian
+19. NOFX
+20. The Libertines
+21. Vampire Weekend
+22. Bowling for Soup
+23. The Kooks
+24. Simple Plan
+25. Matchbox Twenty
+26. 3 Doors Down
+27. The Ting Tings
+28. Blue October
+29. Eels
+30. Placebo
+31. Hole
+32. Evanescence
+33. Archive
+34. Moby
+35. Depeche Mode
+36. Third Eye Blind
+37. David Gray
+38. Madonna
+39. The Kinks
+40. The Rasmus
+41. Enter Shikari
+42. The Strokes
+43. The Kooks
+44. Oasis
+45. Radiohead
+46. Muse
+47. Pink Floyd
+48. The Beatles
+49. Nirvana
+50. Linkin Park
+
+These recommendations are based on the similarity of the listed artists to the user's preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. LCD Soundsystem
+2. Hot Chip
+3. Phoenix
+4. Bloc Party
+5. The Strokes
+6. Arctic Monkeys
+7. Vampire Weekend
+8. Franz Ferdinand
+9. The Black Keys
+10. Tame Impala
+11. M83
+12. The National
+13. Spoon
+14. Modest Mouse
+15. Death Cab for Cutie
+16. The Postal Service
+17. Grizzly Bear
+18. Animal Collective
+19. The Flaming Lips
+20. Spoon
+21. The Shins
+22. The War on Drugs
+23. Beach House
+24. Real Estate
+25. Foals
+26. Two Door Cinema Club
+27. Foster the People
+28. Passion Pit
+29. Cage the Elephant
+30. The Vaccines
+31. The xx
+32. HAIM
+33. CHVRCHES
+34. Alt-J
+35. Foster the People
+36. Portugal. The Man
+37. The Neighbourhood
+38. Glass Animals
+39. Jungle
+40. Unknown Mortal Orchestra
+41. Future Islands
+42. Caribou
+43. Toro y Moi
+44. Washed Out
+45. Neon Indian
+46. Tycho
+47. Cut Copy
+48. Empire of the Sun
+49. Miike Snow
+50. Passion Pit
+
+These recommendations are based on the user's liking of similar artists and genres.

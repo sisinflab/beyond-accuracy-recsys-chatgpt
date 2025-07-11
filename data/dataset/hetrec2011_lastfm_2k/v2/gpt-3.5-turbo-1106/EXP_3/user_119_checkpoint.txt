@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Dream Theater
+2. In Flames
+3. Symphony X
+4. Blind Guardian
+5. Mylène Farmer
+6. Metallica
+7. Evanescence
+8. Queen
+9. Slipknot
+10. Apocalyptica
+11. Therion
+12. Avantasia
+13. Stratovarius
+14. HammerFall
+15. Kamelot
+16. Nightwish
+17. Children of Bodom
+18. Arch Enemy
+19. Sonata Arctica
+20. Dark Tranquillity
+21. Opeth
+22. Norther
+23. Megadeth
+24. Ozzy Osbourne
+25. Katatonia
+26. Agalloch
+27. Nevermore
+28. As I Lay Dying
+29. Ensiferum
+30. Hypocrisy
+31. Gojira
+32. Amon Amarth
+33. Bloodbath
+34. Scar Symmetry
+35. Amorphis
+36. Slayer
+37. Soilwork
+38. VNV Nation
+39. Rise Against
+40. BoA
+41. Sigur Rós
+42. Andrew Lloyd Webber
+43. Cynic
+44. Blackfield
+45. Tokio Hotel
+46. Mew
+47. Tiësto
+48. Infected Mushroom
+49. BIG BANG
+50. Beck
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

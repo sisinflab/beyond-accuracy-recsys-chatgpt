@@ -1,0 +1,40 @@
+experiment:
+  gpu: 1 # Run on GPU
+  #                                           #
+  # Dataset pre-processing and configuration  #
+  #                                           #
+  dataset: hetrec
+  data_config:
+    strategy: fixed
+    train_path: ../../data/dataset/hetrec2011_lastfm_2k/splitting/0/train.tsv
+    test_path: ../../data/dataset/hetrec2011_lastfm_2k/splitting/0/test.tsv
+    side_information:
+      - dataloader: ItemAttributes
+        attribute_file: ../../data/dataset/hetrec2011_lastfm_2k/map_hetrec.tsv
+  top_k: 50
+  #                   #
+  # Evaluation Setup  #
+  #                   #
+  evaluation:
+    cutoffs: [5, 10, 20]
+    simple_metrics: [nDCG, Recall, Precision, nDCGRendle2020, HR, F1, MAP, MAR, MRR, ACLT, APLT, ARP, PopREO, PopRSP, ItemCoverage, NumRetrived, UserCoverage, Gini, SEntropy, EFD, EPC]
+    paired_ttest: True
+    wilcoxon_test: True
+  print_results_as_triplets: True
+  external_models_path: ../external/models/__init__.py
+  #               #
+  # Models Setup  #
+  #               #
+  models:
+    #                                                             #
+    # RecommendationFolder to compute metrics on the best models  #
+    #                                                             #
+#    ProxyRecommender:
+#      path: ../data/dataset/facebook_book/v2/gpt-3.5-turbo-1106/clean/EXP_1_w_duplicate.tsv
+    RecommendationFolder:
+      folder: ../data/dataset/hetrec2011_lastfm_2k/v2/gpt-3.5-turbo-1106/ProxyDir/clean_inverted_rank
+
+  #path_output_rec_result: this/is/the/path/
+  #path_output_rec_weight: this/is/the/path/
+  #path_output_rec_performance: .
+  #path_log_folder: .

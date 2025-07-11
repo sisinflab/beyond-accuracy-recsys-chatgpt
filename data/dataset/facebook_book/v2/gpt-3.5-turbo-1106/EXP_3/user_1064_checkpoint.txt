@@ -1,0 +1,54 @@
+Based on user 1064's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code
+2. Angels & Demons
+3. Battle Royale
+4. The Walking Dead (comic book)
+5. Eragon
+6. The Lord of the Rings
+7. Harry Potter
+8. Pride and Prejudice and Zombies
+9. Bitten (novel)
+10. The Hunger Games
+11. Twilight (series)
+12. The Zombie Survival Guide
+13. American Psycho
+14. The Notebook (novel)
+15. The Lost World (Crichton novel)
+16. The Lovely Bones
+17. The Alchemist (novel)
+18. The Chronicles of Narnia: Prince Caspian
+19. Inferno (Dante)
+20. The Great Gatsby
+21. Flowers for Algernon
+22. The Picture of Dorian Gray
+23. Fear and Loathing in Las Vegas
+24. Dracula
+25. Never Let Me Go (novel)
+26. The Phantom of the Opera
+27. The Stranger (novel)
+28. Frankenstein
+29. The Good Earth
+30. The Hours (novel)
+31. The Purpose Driven Life
+32. Tuesdays with Morrie
+33. Pygmy (novel)
+34. Malazan Book of the Fallen
+35. Burned (Hopkins novel)
+36. Pride and Prejudice
+37. Notes from Underground
+38. A Thousand Splendid Suns
+39. The Shack
+40. Jurassic Park (novel)
+41. Twisted (book)
+42. Manga
+43. At the Mountains of Madness
+44. Nineteen Eighty-Four
+45. Holes (novel)
+46. His Dark Materials
+47. Impulse economy
+48. Cut (novel)
+49. The Wardstone Chronicles
+50. Jitterbug Perfume
+
+These recommendations are based on the user's previous likes and are ranked according to their potential appeal to the user.

@@ -1,0 +1,54 @@
+Based on user 80's preferences, here are the top 50 book recommendations:
+
+1. Inkheart by Cornelia Funke
+2. Inkspell by Cornelia Funke
+3. Inkdeath by Cornelia Funke
+4. The Giver by Lois Lowry
+5. A Wrinkle in Time by Madeleine L'Engle
+6. A Wind in the Door by Madeleine L'Engle
+7. Many Waters by Madeleine L'Engle
+8. Tuck Everlasting by Natalie Babbitt
+9. The Doll People by Ann M. Martin
+10. The Notebook by Nicholas Sparks
+11. The Memoirs of Sherlock Holmes
+12. Harry Potter
+13. Ella Enchanted
+14. The Looking Glass Wars
+15. Mockingjay
+16. The Lovely Bones
+17. Emma by Jane Austen
+18. Angels & Demons
+19. Animorphs
+20. The Secret Garden
+21. The Hunger Games
+22. Thirteen Reasons Why
+23. Alice's Adventures in Wonderland
+24. Seabiscuit: An American Legend
+25. The Dresden Files
+26. Ender's Game
+27. Sabriel
+28. Abhorsen
+29. Twilight (series)
+30. Nineteen Eighty-Four
+31. Naked
+32. Green Eggs and Ham
+33. The Watchmen
+34. Island of the Blue Dolphins
+35. Catching Fire
+36. The Time Traveler's Wife
+37. The City of Ember
+38. Dragon Rider
+39. Out of the Dust
+40. Me Talk Pretty One Day
+41. Goosebumps
+42. Johnny Tremain
+43. The Horse and His Boy
+44. The Lord of the Rings
+45. Romeo and Juliet
+46. Brilliance of the Moon
+47. Book of Revelation
+48. Cirque du Freak
+49. Sense and Sensibility and Sea Monsters
+50. Peeps
+
+These recommendations are based on the user's liking for similar genres and authors.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. The Hunger Games by Suzanne Collins
+8. The Da Vinci Code by Dan Brown
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Hobbit by J.R.R. Tolkien
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Road by Cormac McCarthy
+13. The Kite Runner by Khaled Hosseini
+14. The Secret History by Donna Tartt
+15. The Lovely Bones by Alice Sebold
+16. The Handmaid's Tale by Margaret Atwood
+17. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+18. The Shadow of the Wind by Carlos Ruiz Zafón
+19. The Name of the Wind by Patrick Rothfuss
+20. The Night Circus by Erin Morgenstern
+21. The Goldfinch by Donna Tartt
+22. The Book Thief by Markus Zusak
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Help by Kathryn Stockett
+25. The Glass Castle by Jeannette Walls
+26. The Poisonwood Bible by Barbara Kingsolver
+27. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+28. The Fault in Our Stars by John Green
+29. The Perks of Being a Wallflower by Stephen Chbosky
+30. The Bell Jar by Sylvia Plath
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Road Less Traveled by M. Scott Peck
+33. The Power of Now by Eckhart Tolle
+34. The Art of Happiness by Dalai Lama XIV
+35. The Four Agreements by Don Miguel Ruiz
+36. The Celestine Prophecy by James Redfield
+37. The Prophet by Kahlil Gibran
+38. The Road to Character by David Brooks
+39. The 7 Habits of Highly Effective People by Stephen R. Covey
+40. The Power of Positive Thinking by Norman Vincent Peale
+41. The Subtle Art of Not Giving a F*ck by Mark Manson
+42. The Life-Changing Magic of Tidying Up by Marie Kondo
+43. The Alchemist by Paulo Coelho
+44. The 5 Love Languages by Gary Chapman
+45. The Gifts of Imperfection by Brené Brown
+46. The Happiness Project by Gretchen Rubin
+47. The Untethered Soul by Michael A. Singer
+48. The Art of War by Sun Tzu
+49. The Prince by Niccolò Machiavelli
+50. The 48 Laws of Power by Robert Greene
+
+These recommendations are based on the user's interest in a variety of genres and themes.

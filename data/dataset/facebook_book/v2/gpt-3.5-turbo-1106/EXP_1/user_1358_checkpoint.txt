@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Outsiders by S.E. Hinton
+2. Lord of the Flies by William Golding
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. A Child Called "It" by Dave Pelzer
+5. The Bell Jar by Sylvia Plath
+6. The Road by Cormac McCarthy
+7. The Giver by Lois Lowry
+8. The Glass Castle by Jeannette Walls
+9. The Lovely Bones by Alice Sebold
+10. The Hunger Games by Suzanne Collins
+11. To Kill a Mockingbird by Harper Lee
+12. The Kite Runner by Khaled Hosseini
+13. The Alchemist by Paulo Coelho
+14. The Book Thief by Markus Zusak
+15. The Fault in Our Stars by John Green
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Handmaid's Tale by Margaret Atwood
+18. The Road Less Traveled by M. Scott Peck
+19. The Stand by Stephen King
+20. The Shining by Stephen King
+21. The Da Vinci Code by Dan Brown
+22. The Girl on the Train by Paula Hawkins
+23. The Help by Kathryn Stockett
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Color Purple by Alice Walker
+26. The Joy Luck Club by Amy Tan
+27. The Poisonwood Bible by Barbara Kingsolver
+28. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+29. The Handmaid's Tale by Margaret Atwood
+30. The Road Less Traveled by M. Scott Peck
+31. The Stand by Stephen King
+32. The Shining by Stephen King
+33. The Da Vinci Code by Dan Brown
+34. The Girl on the Train by Paula Hawkins
+35. The Help by Kathryn Stockett
+36. The Secret Life of Bees by Sue Monk Kidd
+37. The Color Purple by Alice Walker
+38. The Joy Luck Club by Amy Tan
+39. The Poisonwood Bible by Barbara Kingsolver
+40. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+41. The Handmaid's Tale by Margaret Atwood
+42. The Road Less Traveled by M. Scott Peck
+43. The Stand by Stephen King
+44. The Shining by Stephen King
+45. The Da Vinci Code by Dan Brown
+46. The Girl on the Train by Paula Hawkins
+47. The Help by Kathryn Stockett
+48. The Secret Life of Bees by Sue Monk Kidd
+49. The Color Purple by Alice Walker
+50. The Joy Luck Club by Amy Tan
+
+These recommendations are based on the user's interest in novels, memoirs, and religious books.

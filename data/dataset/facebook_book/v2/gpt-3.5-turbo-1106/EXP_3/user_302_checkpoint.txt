@@ -1,0 +1,52 @@
+Based on user 302's likes and the list of books provided, here are the top 50 recommendations:
+
+1. The Hunger Games
+2. Catching Fire
+3. Mockingjay
+4. Divergent (novel)
+5. Insurgent
+6. Allegiant
+7. The Maze Runner
+8. The Scorch Trials
+9. The Death Cure
+10. The Kill Order
+11. The Outsiders (novel)
+12. Looking for Alaska
+13. Paper Towns
+14. The Fault in Our Stars
+15. Turtles All the Way Down
+16. The Giver
+17. Gathering Blue
+18. Messenger
+19. Son
+20. The Time Traveler's Wife
+21. The Host (novel)
+22. The Chemist
+23. The Alchemist (novel)
+24. The Valkyries
+25. The Boy in the Striped Pyjamas
+26. The Book Thief
+27. The Messenger (Markus Zusak novel)
+28. The Dead and the Gone
+29. The Forest of Hands and Teeth
+30. The Dead-Tossed Waves
+31. The Lovely Bones
+32. The Almost Moon
+33. The Wolves of Mercy Falls
+34. Shiver
+35. Linger
+36. Forever
+37. The Land of Elyon
+38. Stargirl (novel)
+39. Love, Stargirl
+40. The Tale of Despereaux
+41. The Miraculous Journey of Edward Tulane
+42. The Magician's Elephant
+43. The Last Days (Masterson novel)
+44. The Final Warning
+45. Max
+46. Fang
+47. Angel
+48. Nevermore
+49. The Angel Experiment
+50. School's Out—Forever

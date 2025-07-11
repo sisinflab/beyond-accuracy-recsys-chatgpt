@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pet Shop Boys
+2. INXS
+3. George Michael
+4. Janet Jackson
+5. Whitney Houston
+6. A-ha
+7. Kylie Minogue
+8. The Cranberries
+9. New Order
+10. Simple Minds
+11. Culture Club
+12. Eurythmics
+13. The Human League
+14. Pet Shop Boys
+15. INXS
+16. George Michael
+17. Janet Jackson
+18. Whitney Houston
+19. A-ha
+20. Kylie Minogue
+21. The Cranberries
+22. New Order
+23. Simple Minds
+24. Culture Club
+25. Eurythmics
+26. The Human League
+27. Pet Shop Boys
+28. INXS
+29. George Michael
+30. Janet Jackson
+31. Whitney Houston
+32. A-ha
+33. Kylie Minogue
+34. The Cranberries
+35. New Order
+36. Simple Minds
+37. Culture Club
+38. Eurythmics
+39. The Human League
+40. Pet Shop Boys
+41. INXS
+42. George Michael
+43. Janet Jackson
+44. Whitney Houston
+45. A-ha
+46. Kylie Minogue
+47. The Cranberries
+48. New Order
+49. Simple Minds
+50. Culture Club
+
+These recommendations are based on the user's liking of similar artists and are intended to provide a diverse range of options for the user to explore.

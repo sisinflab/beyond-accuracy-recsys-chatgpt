@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. The Offspring
+3. Rancid
+4. Bad Religion
+5. NOFX
+6. The Clash
+7. Misfits
+8. Dead Kennedys
+9. Black Flag
+10. Descendents
+11. Pennywise
+12. Dropkick Murphys
+13. Flogging Molly
+14. Social Distortion
+15. Ramones
+16. The Gaslight Anthem
+17. Against Me!
+18. Alkaline Trio
+19. Bouncing Souls
+20. The Lawrence Arms
+21. Hot Water Music
+22. The Menzingers
+23. Dave Matthews Band
+24. John Mayer
+25. Incubus
+26. Kings of Leon
+27. Stereophonics
+28. Anti-Flag
+29. Kings of Convenience
+30. Three Days Grace
+31. Matanza
+32. O Teatro Mágico
+33. Raimundos
+34. The Cure
+35. Arctic Monkeys
+36. Cine
+37. Faith No More
+38. Foo Fighters
+39. The Smashing Pumpkins
+40. The Fratellis
+41. Weezer
+42. Red Hot Chili Peppers
+43. Pearl Jam
+44. Nirvana
+45. Soundgarden
+46. Alice in Chains
+47. Stone Temple Pilots
+48. Bush
+49. The White Stripes
+50. The Strokes
+
+These recommendations are based on the user's liking for punk, alternative, and rock music, and include similar artists and bands that they might enjoy.

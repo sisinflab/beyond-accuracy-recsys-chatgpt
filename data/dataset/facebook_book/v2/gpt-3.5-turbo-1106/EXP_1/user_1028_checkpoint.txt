@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Pact by Jodi Picoult
+2. Identical by Ellen Hopkins
+3. Thr3e by Ted Dekker
+4. Handle with Care by Jodi Picoult
+5. Tricks by Ellen Hopkins
+6. Skin by Ted Dekker
+7. Change of Heart by Jodi Picoult
+8. Glass by Ellen Hopkins
+9. Blink by Ted Dekker
+10. The Tenth Circle by Jodi Picoult
+11. Fallout by Ellen Hopkins
+12. Chosen by Ted Dekker
+13. Perfect Match by Jodi Picoult
+14. Smoke by Ellen Hopkins
+15. Obsessed by Ted Dekker
+16. Mercy by Jodi Picoult
+17. Burned by Ellen Hopkins
+18. House by Ted Dekker
+19. Plain Truth by Jodi Picoult
+20. Crank by Ellen Hopkins
+21. Saint by Ted Dekker
+22. Vanishing Acts by Jodi Picoult
+23. Impulse by Ellen Hopkins
+24. Showdown by Ted Dekker
+25. The Storyteller by Jodi Picoult
+26. Glass by Ellen Hopkins
+27. Skin by Ted Dekker
+28. Change of Heart by Jodi Picoult
+29. Tricks by Ellen Hopkins
+30. Blink by Ted Dekker
+31. The Tenth Circle by Jodi Picoult
+32. Fallout by Ellen Hopkins
+33. Chosen by Ted Dekker
+34. Perfect Match by Jodi Picoult
+35. Smoke by Ellen Hopkins
+36. Obsessed by Ted Dekker
+37. Mercy by Jodi Picoult
+38. Burned by Ellen Hopkins
+39. House by Ted Dekker
+40. Plain Truth by Jodi Picoult
+41. Crank by Ellen Hopkins
+42. Saint by Ted Dekker
+43. Vanishing Acts by Jodi Picoult
+44. Impulse by Ellen Hopkins
+45. Showdown by Ted Dekker
+46. The Storyteller by Jodi Picoult
+47. Glass by Ellen Hopkins
+48. Skin by Ted Dekker
+49. Change of Heart by Jodi Picoult
+50. Tricks by Ellen Hopkins
+
+These recommendations are based on the user's liking for books by Jodi Picoult, Ellen Hopkins, and Ted Dekker.

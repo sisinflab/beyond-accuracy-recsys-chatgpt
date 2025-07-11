@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bring Me The Horizon
+2. System of a Down
+3. Three Days Grace
+4. Breaking Benjamin
+5. Bullet for My Valentine
+6. Papa Roach
+7. A Day to Remember
+8. Slipknot
+9. Avenged Sevenfold
+10. Linkin Park
+11. Stone Sour
+12. Trivium
+13. As I Lay Dying
+14. In Flames
+15. All That Remains
+16. Killswitch Engage
+17. Parkway Drive
+18. Atreyu
+19. August Burns Red
+20. Architects
+21. The Amity Affliction
+22. Of Mice & Men
+23. Motionless In White
+24. Beartooth
+25. Crown The Empire
+26. Memphis May Fire
+27. We Came As Romans
+28. Asking Alexandria
+29. The Devil Wears Prada
+30. Underoath
+31. Norma Jean
+32. Every Time I Die
+33. The Ghost Inside
+34. Blessthefall
+35. Silverstein
+36. Senses Fail
+37. Thrice
+38. Saosin
+39. Finch
+40. Story of the Year
+41. Funeral for a Friend
+42. From First to Last
+43. Hawthorne Heights
+44. Emery
+45. The Used
+46. Taking Back Sunday
+47. My Chemical Romance
+48. AFI
+49. Thrice
+50. Anberlin
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games (series) by Suzanne Collins
+2. The Princess Diaries (series) by Meg Cabot
+3. The Da Vinci Code by Dan Brown
+4. The Alchemist by Paulo Coelho
+5. The Catcher in the Rye by J.D. Salinger
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Secret Garden by Frances Hodgson Burnett
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Lovely Bones by Alice Sebold
+10. The Help by Kathryn Stockett
+11. The Kite Runner by Khaled Hosseini
+12. The Fault in Our Stars by John Green
+13. The Maze Runner (series) by James Dashner
+14. The Perks of Being a Wallflower by Stephen Chbosky
+15. The Book Thief by Markus Zusak
+16. The Giver by Lois Lowry
+17. The Lightning Thief (Percy Jackson & the Olympians) by Rick Riordan
+18. The Outsiders by S.E. Hinton
+19. The Chronicles of Narnia (series) by C.S. Lewis
+20. The Mortal Instruments (series) by Cassandra Clare
+21. The Infernal Devices (series) by Cassandra Clare
+22. The Fault in Our Stars by John Green
+23. The Maze Runner (series) by James Dashner
+24. The Perks of Being a Wallflower by Stephen Chbosky
+25. The Book Thief by Markus Zusak
+26. The Giver by Lois Lowry
+27. The Lightning Thief (Percy Jackson & the Olympians) by Rick Riordan
+28. The Outsiders by S.E. Hinton
+29. The Chronicles of Narnia (series) by C.S. Lewis
+30. The Mortal Instruments (series) by Cassandra Clare
+31. The Infernal Devices (series) by Cassandra Clare
+32. The Fault in Our Stars by John Green
+33. The Maze Runner (series) by James Dashner
+34. The Perks of Being a Wallflower by Stephen Chbosky
+35. The Book Thief by Markus Zusak
+36. The Giver by Lois Lowry
+37. The Lightning Thief (Percy Jackson & the Olympians) by Rick Riordan
+38. The Outsiders by S.E. Hinton
+39. The Chronicles of Narnia (series) by C.S. Lewis
+40. The Mortal Instruments (series) by Cassandra Clare
+41. The Infernal Devices (series) by Cassandra Clare
+42. The Fault in Our Stars by John Green
+43. The Maze Runner (series) by James Dashner
+44. The Perks of Being a Wallflower by Stephen Chbosky
+45. The Book Thief by Markus Zusak
+46. The Giver by Lois Lowry
+47. The Lightning Thief (Percy Jackson & the Olympians) by Rick Riordan
+48. The Outsiders by S.E. Hinton
+49. The Chronicles of Narnia (series) by C.S. Lewis
+50. The Mortal Instruments (series) by Cassandra Clare
+
+These recommendations are based on the user's interest in fiction, young adult literature, and mystery/thriller genres.

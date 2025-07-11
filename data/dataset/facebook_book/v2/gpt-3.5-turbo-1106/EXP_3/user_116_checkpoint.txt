@@ -1,0 +1,54 @@
+Based on user 116's preferences, here are the top 50 book recommendations for them:
+
+1. The Brothers Karamazov
+2. Crime and Punishment
+3. Ulysses (novel)
+4. Nineteen Eighty-Four
+5. The Old Man and the Sea
+6. The Scarlet Pimpernel
+7. The Three Musketeers
+8. The Lord of the Rings
+9. The Hobbit
+10. The Great Gatsby
+11. Pride and Prejudice
+12. Wuthering Heights
+13. The Sound and the Fury
+14. The War of the Worlds
+15. The Chronicles of Narnia: Prince Caspian
+16. The Little Prince
+17. The Secret Life of Bees
+18. The Girl Who Leapt Through Time
+19. The Taming of the Shrew
+20. The Time Machine
+21. The Sandman (book)
+22. Inferno (Dante)
+23. The Trial
+24. The Unbearable Lightness of Being
+25. Brave New World
+26. Surely You're Joking, Mr. Feynman!
+27. The Merchant of Venice
+28. The Great Gatsby
+29. The Walking Dead (comic book)
+30. The Chronicles of Narnia: Prince Caspian
+31. Waiting for Godot
+32. Teaching with Calvin and Hobbes
+33. Titus Groan
+34. Les Fleurs du mal
+35. Angels & Demons
+36. The Merchant of Venice
+37. The Time Machine
+38. Battle Royale
+39. Tess of the d'Urbervilles
+40. Good Omens
+41. The Sound and the Fury
+42. Emma (novel)
+43. The Great Gatsby
+44. Inferno (Dante)
+45. Harry Potter
+46. The War of the Worlds
+47. Mrs Dalloway
+48. Jurassic Park (novel)
+49. The Great Gatsby
+50. Emma (novel)
+
+These recommendations are based on the user's previous likes and are ranked according to their potential interest.

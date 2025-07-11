@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jean-Michel Jarre
+2. Tangerine Dream
+3. Mike Oldfield
+4. Enya
+5. Jean-Michel Jarre
+6. Moby
+7. Delerium
+8. Dead Can Dance
+9. Massive Attack
+10. The Alan Parsons Project
+11. Kraftwerk
+12. Brian Eno
+13. Yann Tiersen
+14. Ludovico Einaudi
+15. Ólafur Arnalds
+16. Max Richter
+17. Nils Frahm
+18. Agnes Obel
+19. A Winged Victory for the Sullen
+20. Goldfrapp
+21. Portishead
+22. Hooverphonic
+23. Morcheeba
+24. Lamb
+25. Zero 7
+26. Air
+27. Thievery Corporation
+28. Bonobo
+29. Röyksopp
+30. Boards of Canada
+31. Tycho
+32. Ulrich Schnauss
+33. Solar Fields
+34. Carbon Based Lifeforms
+35. Jon Hopkins
+36. Helios
+37. Emancipator
+38. Tycho
+39. Hammock
+40. Explosions in the Sky
+41. God is an Astronaut
+42. This Will Destroy You
+43. Sigur Rós
+44. Ólafur Arnalds
+45. Jóhann Jóhannsson
+46. A Winged Victory for the Sullen
+47. Stars of the Lid
+48. Eluvium
+49. Grouper
+50. Tim Hecker
+
+These recommendations are based on the user's liking of ambient, electronic, and classical music, as well as similar artists to the ones the user already likes.

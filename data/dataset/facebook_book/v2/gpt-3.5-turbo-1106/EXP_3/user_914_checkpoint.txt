@@ -1,0 +1,54 @@
+Based on user 914's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J. D. Salinger
+2. Crime and Punishment by Fyodor Dostoyevsky
+3. The Picture of Dorian Gray by Oscar Wilde
+4. Lord of the Flies by William Golding
+5. Jane Eyre by Charlotte Brontë
+6. Misery (novel) by Stephen King
+7. The Girl Who Loved Tom Gordon by Stephen King
+8. Kick Ass (book) by Carl Hiaasen
+9. Adam (novel) by Ted Dekker
+10. Ballet Shoes (novel) by Noel Streatfeild
+11. The Good Earth
+12. The Hobbit
+13. The Outsiders (novel)
+14. The Kite Runner
+15. Fahrenheit 451
+16. The Great Gatsby
+17. The Shadow of the Wind
+18. Harry Potter
+19. Dracula
+20. Frankenstein
+21. Nineteen Eighty-Four
+22. The Lord of the Rings
+23. Brave New World
+24. Wuthering Heights
+25. Pride and Prejudice
+26. Alice's Adventures in Wonderland
+27. The Most Dangerous Game (novel)
+28. Inferno (Dante)
+29. Of Mice and Men
+30. The Red Tent
+31. The Unbearable Lightness of Being
+32. Angels & Demons
+33. The Silver Wolf
+34. Rebecca (novel)
+35. The Queen of the Damned
+36. Choke (novel)
+37. Stargirl (novel)
+38. The Screwtape Letters
+39. The Giver
+40. The Things They Carried
+41. Vanity Fair (novel)
+42. The Call of the Wild
+43. All Quiet on the Western Front
+44. Lolita
+45. Black Butler
+46. Slaughterhouse-Five
+47. Forever... (Blume novel)
+48. Because of Winn-Dixie
+49. Diary of a Wimpy Kid (series)
+50. This Is Your Brain On Music
+
+These recommendations are based on the user's previous preferences and are tailored to their specific tastes.

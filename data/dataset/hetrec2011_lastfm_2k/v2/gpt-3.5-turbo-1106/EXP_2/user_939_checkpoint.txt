@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. My Chemical Romance
+2. Paramore
+3. Avenged Sevenfold
+4. Green Day
+5. The Killers
+6. Muse
+7. Linkin Park
+8. Nirvana
+9. Metallica
+10. Pink Floyd
+11. Radiohead
+12. The Beatles
+13. Iron Maiden
+14. Pearl Jam
+15. Nine Inch Nails
+16. System of a Down
+17. A Day to Remember
+18. Slipknot
+19. Bullet for My Valentine
+20. Escape The Fate
+21. AFI
+22. Story of the Year
+23. Funeral for a Friend
+24. Lostprophets
+25. Coheed and Cambria
+26. Saosin
+27. Yellowcard
+28. Stone Sour
+29. Volbeat
+30. Asking Alexandria
+31. August Burns Red
+32. The Dillinger Escape Plan
+33. Theory of a Deadman
+34. Incubus
+35. In This Moment
+36. VersaEmerge
+37. Mariah Carey
+38. Pixie Lott
+39. Keri Hilson
+40. Lady Gaga
+41. Britney Spears
+42. Rihanna
+43. Christina Aguilera
+44. Madonna
+45. Shakira
+46. Beyoncé
+47. Katy Perry
+48. Avril Lavigne
+49. Taylor Swift
+50. Miley Cyrus
+
+This re-ranked list takes into account the user's liking for rock and alternative rock bands and suggests similar artists in those genres.

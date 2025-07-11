@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Human League
+2. Duran Duran
+3. A-ha
+4. Pet Shop Boys
+5. New Order
+6. Yazoo
+7. Erasure
+8. Tears for Fears
+9. Orchestral Manoeuvres in the Dark
+10. Simple Minds
+11. Soft Cell
+12. Ultravox
+13. Visage
+14. Spandau Ballet
+15. Thompson Twins
+16. ABC
+17. Eurythmics
+18. Culture Club
+19. Devo
+20. Talk Talk
+21. The Smiths
+22. The Psychedelic Furs
+23. The Cure
+24. Siouxsie and the Banshees
+25. Joy Division
+26. Echo & the Bunnymen
+27. The Jesus and Mary Chain
+28. Cocteau Twins
+29. The Chameleons
+30. The Sisters of Mercy
+31. Bauhaus
+32. Clan of Xymox
+33. The Mission
+34. Love and Rockets
+35. Dead Can Dance
+36. The Church
+37. The Cult
+38. The Bolshoi
+39. The Damned
+40. The Birthday Party
+41. The Cramps
+42. The Gun Club
+43. The Fall
+44. Magazine
+45. Wire
+46. Public Image Ltd
+47. Killing Joke
+48. The Sound
+49. The Teardrop Explodes
+50. Echo & the Bunnymen

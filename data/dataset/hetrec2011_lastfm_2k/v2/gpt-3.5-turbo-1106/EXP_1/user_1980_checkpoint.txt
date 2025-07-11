@@ -1,0 +1,54 @@
+Based on user 1980's preferences, here are the top 50 recommendations:
+
+1. Ray LaMontagne
+2. Fleet Foxes
+3. Sufjan Stevens
+4. The Shins
+5. Iron & Wine
+6. Bon Iver
+7. The National
+8. Ben Howard
+9. Hozier
+10. James Bay
+11. The Lumineers
+12. City and Colour
+13. Angus & Julia Stone
+14. José González
+15. Ben Harper
+16. James Blunt
+17. Damien Jurado
+18. Gregory Alan Isakov
+19. The Avett Brothers
+20. Ryan Adams
+21. The Tallest Man on Earth
+22. José González
+23. Foy Vance
+24. Amos Lee
+25. Brett Dennen
+26. Matt Corby
+27. Noah Gundersen
+28. The Head and the Heart
+29. Vance Joy
+30. Alexi Murdoch
+31. William Fitzsimmons
+32. The Paper Kites
+33. The Milk Carton Kids
+34. Blind Pilot
+35. The Civil Wars
+36. The Weepies
+37. The Swell Season
+38. Glen Hansard
+39. Iron & Wine
+40. The Decemberists
+41. First Aid Kit
+42. Laura Marling
+43. The Staves
+44. Daughter
+45. Lucy Rose
+46. Lisa Hannigan
+47. RY X
+48. Novo Amor
+49. Keaton Henson
+50. Nick Mulvey
+
+These recommendations are based on the similar musical styles and genres of the artists liked by user 1980.

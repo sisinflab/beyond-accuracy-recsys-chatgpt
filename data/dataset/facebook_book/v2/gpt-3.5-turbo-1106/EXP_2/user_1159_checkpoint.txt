@@ -1,0 +1,54 @@
+Based on the user's liking for the previously mentioned books, here are the top 50 recommendations re-ranked for user 1159:
+
+1. The Great Gatsby
+2. The Picture of Dorian Gray
+3. The Catcher in the Rye
+4. The Hobbit
+5. The Lord of the Rings
+6. The Stand
+7. The Unbearable Lightness of Being
+8. The Giver
+9. The Maze Runner
+10. The City of Ember
+11. The Southern Vampire Mysteries
+12. The Lost Books (novel series)
+13. The House of Mirth
+14. The Phantom of the Opera
+15. The Scarlet Letter
+16. The Silmarillion
+17. The Rapture (novel)
+18. The Outsiders (novel)
+19. The Tenant of Wildfell Hall
+20. The Pillowman
+21. Through the Looking-Glass
+22. Strange Case of Dr Jekyll and Mr Hyde
+23. Shakespeares sonnets
+24. Pygmalion (play)
+25. Petals on the Wind
+26. Perfect Chemistry
+27. Sense and Sensibility
+28. Keeping the Moon
+29. The Last Lecture
+30. The Book Thief
+31. The Host (novel)
+32. Wuthering Heights
+33. Villette (novel)
+34. The Lost Books (novel series)
+35. The Picture of Dorian Gray
+36. The Great Gatsby
+37. Brave New World
+38. Harry Potter
+39. The Pillowman
+40. The Maze Runner
+41. Across the Universe (novel)
+42. Gravitys Rainbow
+43. The Southern Vampire Mysteries
+44. The Hobbit
+45. Delta of Venus
+46. Medea (play)
+47. Dexter in the Dark
+48. The Silmarillion
+49. And the Ass Saw the Angel
+50. Incarceron
+
+These recommendations are based on the user's liking for similar books and are re-ranked to provide the most relevant suggestions.

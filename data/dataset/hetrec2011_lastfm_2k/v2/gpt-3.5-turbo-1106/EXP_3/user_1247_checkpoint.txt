@@ -1,0 +1,54 @@
+Based on user 1247's preferences, here are the top 50 recommendations for the given artists:
+
+1. Lady Gaga
+2. Black Eyed Peas
+3. Jennifer Lopez
+4. Christina Aguilera
+5. Backstreet Boys
+6. Cher
+7. Girls Aloud
+8. Aly & AJ
+9. Nicole Scherzinger
+10. Leona Lewis
+11. David Archuleta
+12. High School Musical
+13. Ashley Tisdale
+14. Lily Allen
+15. Colbie Caillat
+16. The Killers
+17. Sophie Ellis-Bextor
+18. Sugababes
+19. Ciara
+20. Adam Lambert
+21. Taylor Swift
+22. Duffy
+23. Cyndi Lauper
+24. Anahí
+25. RBD
+26. Keri Hilson
+27. Pixie Lott
+28. Adele
+29. Shania Twain
+30. Cassie
+31. Hans Zimmer
+32. 3OH!3
+33. 30 Seconds to Mars
+34. Glee Cast
+35. Jeffree Star
+36. Janet Jackson
+37. 3 Doors Down
+38. Emma Bunton
+39. Scissor Sisters
+40. t.A.T.u.
+41. Natalie Imbruglia
+42. Capital Inicial
+43. Ashlee Simpson
+44. Vanessa Hudgens
+45. Amy Winehouse
+46. Colbie Caillat
+47. Blake Lewis
+48. 倖田來未
+49. 浜崎あゆみ
+50. Sophie Ellis-Bextor
+
+These recommendations are based on similar genres, styles, and popularity to the artists that user 1247 likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. Madonna
+3. Pet Shop Boys
+4. Erasure
+5. George Michael
+6. Prince
+7. The Human League
+8. Janet Jackson
+9. Tears for Fears
+10. A-ha
+11. INXS
+12. Culture Club
+13. The B-52's
+14. Devo
+15. The Pet Shop Boys
+16. The Cars
+17. The Go-Go's
+18. The Bangles
+19. The Pretenders
+20. The Eurythmics
+21. The Thompson Twins
+22. The Psychedelic Furs
+23. The Fixx
+24. The Talking Heads
+25. The Smiths
+26. The Cure
+27. The Police
+28. The Clash
+29. The Jam
+30. The Specials
+31. The English Beat
+32. The Selecter
+33. The Damned
+34. The Buzzcocks
+35. The Undertones
+36. The Stranglers
+37. The Rezillos
+38. The Adverts
+39. The Vibrators
+40. The Ruts
+41. The Slits
+42. The X-Ray Spex
+43. The Raincoats
+44. The Au Pairs
+45. The Delta 5
+46. The Essential Logic
+47. The Mo-Dettes
+48. The Bush Tetras
+49. The Liliput
+50. The Kleenex
+
+These recommendations are based on the user's liking of similar artists and genres.

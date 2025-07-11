@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Beach Boys
+2. The Beatles
+3. Fleetwood Mac
+4. Simon & Garfunkel
+5. Bob Dylan
+6. The Rolling Stones
+7. Bruce Springsteen
+8. Neil Young
+9. Tom Petty and the Heartbreakers
+10. The Byrds
+11. Creedence Clearwater Revival
+12. The Kinks
+13. The Band
+14. The Doors
+15. The Who
+16. The Velvet Underground
+17. The Allman Brothers Band
+18. The Grateful Dead
+19. The Yardbirds
+20. The Animals
+21. The Hollies
+22. The Monkees
+23. The Turtles
+24. The Lovin' Spoonful
+25. The Mamas & the Papas
+26. The Everly Brothers
+27. The Shangri-Las
+28. The Ronettes
+29. The Supremes
+30. The Temptations
+31. The Four Tops
+32. The Marvelettes
+33. The Crystals
+34. The Shirelles
+35. The Chiffons
+36. The Ronettes
+37. The Chordettes
+38. The Shirelles
+39. The Supremes
+40. The Crystals
+41. The Marvelettes
+42. The Shangri-Las
+43. The Angels
+44. The Shirelles
+45. The Chiffons
+46. The Ronettes
+47. The Crystals
+48. The Supremes
+49. The Marvelettes
+50. The Shangri-Las
+
+These recommendations are based on the user's liking of artists and are aimed at providing a diverse range of similar artists for the user to explore.

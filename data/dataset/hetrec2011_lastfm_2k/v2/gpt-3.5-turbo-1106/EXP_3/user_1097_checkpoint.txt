@@ -1,0 +1,54 @@
+Based on the preferences of user 1097, here are the top 50 recommendations for the listed artists:
+
+1. Shakira
+2. Cat Power
+3. Vampire Weekend
+4. Ciara
+5. Devendra Banhart
+6. Anathema
+7. Fever Ray
+8. Jordin Sparks
+9. Zемфира
+10. A Perfect Circle
+11. The National
+12. Ashley Tisdale
+13. Architecture in Helsinki
+14. Goldfrapp
+15. of Montreal
+16. Scissor Sisters
+17. PJ Harvey
+18. Beck
+19. Pixie Lott
+20. M.I.A.
+21. Yelle
+22. Lily Allen
+23. Moby
+24. Billie Holiday
+25. Justice
+26. Emilie Simon
+27. Ke$ha
+28. Jessie J
+29. Sigur Rós
+30. Evanescence
+31. Radiohead
+32. Kerli
+33. Belle and Sebastian
+34. Kylie Minogue
+35. Eminem
+36. Metallica
+37. Black Eyed Peas
+38. Beirut
+39. Robyn
+40. Norah Jones
+41. Ludwig van Beethoven
+42. Korn
+43. Placebo
+44. Frédéric Chopin
+45. Pink Floyd
+46. Bat for Lashes
+47. Slipknot
+48. Gorillaz
+49. Mika
+50. Tori Amos
+
+These recommendations are based on the similar music preferences of user 1097 and are ranked accordingly.

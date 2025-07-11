@@ -1,0 +1,54 @@
+Based on the preferences of user 261, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. Brave New World by Aldous Huxley
+8. The Bell Jar by Sylvia Plath
+9. The Handmaid's Tale by Margaret Atwood
+10. The Road by Cormac McCarthy
+11. The Grapes of Wrath by John Steinbeck
+12. One Hundred Years of Solitude by Gabriel Garcia Marquez
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Sun Also Rises by Ernest Hemingway
+15. A Farewell to Arms by Ernest Hemingway
+16. The Sound and the Fury by William Faulkner
+17. As I Lay Dying by William Faulkner
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. Moby-Dick by Herman Melville
+20. Crime and Punishment by Fyodor Dostoevsky
+21. The Brothers Karamazov by Fyodor Dostoevsky
+22. Anna Karenina by Leo Tolstoy
+23. War and Peace by Leo Tolstoy
+24. The Idiot by Fyodor Dostoevsky
+25. The Count of Monte Cristo by Alexandre Dumas
+26. Les Misérables by Victor Hugo
+27. The Picture of Dorian Gray by Oscar Wilde
+28. Dracula by Bram Stoker
+29. Frankenstein by Mary Shelley
+30. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+31. Heart of Darkness by Joseph Conrad
+32. Lord of the Flies by William Golding
+33. The Lord of the Rings by J.R.R. Tolkien
+34. The Hobbit by J.R.R. Tolkien
+35. A Game of Thrones by George R.R. Martin
+36. The Name of the Wind by Patrick Rothfuss
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Way of Kings by Brandon Sanderson
+39. Mistborn: The Final Empire by Brandon Sanderson
+40. The Night Circus by Erin Morgenstern
+41. The Alchemist by Paulo Coelho
+42. The Kite Runner by Khaled Hosseini
+43. A Thousand Splendid Suns by Khaled Hosseini
+44. The Book Thief by Markus Zusak
+45. The Shadow of the Wind by Carlos Ruiz Zafón
+46. The Nightingale by Kristin Hannah
+47. All the Light We Cannot See by Anthony Doerr
+48. The Goldfinch by Donna Tartt
+49. The Secret History by Donna Tartt
+50. The Girl with the Dragon Tattoo by Stieg Larsson
+
+These recommendations are based on the genres and themes of the books that user 261 enjoys.

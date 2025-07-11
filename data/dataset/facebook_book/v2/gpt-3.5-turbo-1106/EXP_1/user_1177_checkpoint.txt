@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Fault in Our Stars by John Green
+3. To Kill a Mockingbird by Harper Lee
+4. The Perks of Being a Wallflower by Stephen Chbosky
+5. Eleanor & Park by Rainbow Rowell
+6. The Book Thief by Markus Zusak
+7. Divergent by Veronica Roth
+8. The Maze Runner by James Dashner
+9. If I Stay by Gayle Forman
+10. The Giver by Lois Lowry
+11. The Outsiders by S.E. Hinton
+12. Looking for Alaska by John Green
+13. Paper Towns by John Green
+14. The Sisterhood of the Traveling Pants by Ann Brashares
+15. The Princess Diaries by Meg Cabot
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Lovely Bones by Alice Sebold
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Girl on the Train by Paula Hawkins
+20. Me Before You by Jojo Moyes
+21. The Night Circus by Erin Morgenstern
+22. The Help by Kathryn Stockett
+23. Water for Elephants by Sara Gruen
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. The Alchemist by Paulo Coelho
+27. The Secret Garden by Frances Hodgson Burnett
+28. Anne of Green Gables by L.M. Montgomery
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Hobbit by J.R.R. Tolkien
+31. The Lord of the Rings by J.R.R. Tolkien
+32. The Catcher in the Rye by J.D. Salinger
+33. The Bell Jar by Sylvia Plath
+34. The Handmaid's Tale by Margaret Atwood
+35. The Great Gatsby by F. Scott Fitzgerald
+36. 1984 by George Orwell
+37. Brave New World by Aldous Huxley
+38. Fahrenheit 451 by Ray Bradbury
+39. Animal Farm by George Orwell
+40. Lord of the Flies by William Golding
+41. Catch-22 by Joseph Heller
+42. Slaughterhouse-Five by Kurt Vonnegut
+43. One Hundred Years of Solitude by Gabriel Garcia Marquez
+44. The Picture of Dorian Gray by Oscar Wilde
+45. Wuthering Heights by Emily Bronte
+46. Jane Eyre by Charlotte Bronte
+47. Pride and Prejudice by Jane Austen
+48. Sense and Sensibility by Jane Austen
+49. Emma by Jane Austen
+50. Persuasion by Jane Austen
+
+These recommendations are based on the user's interest in young adult fiction, romance, and contemporary literature.

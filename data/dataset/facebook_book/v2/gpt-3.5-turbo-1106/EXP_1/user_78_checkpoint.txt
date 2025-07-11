@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Catching Fire by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Giver by Lois Lowry
+6. Uglies by Scott Westerfeld
+7. The Golden Compass by Philip Pullman
+8. The Subtle Knife by Philip Pullman
+9. The Amber Spyglass by Philip Pullman
+10. Dragon Rider by Cornelia Funke
+11. Inkheart by Cornelia Funke
+12. Snow Flower and the Secret Fan by Lisa See
+13. Memoirs of a Geisha by Arthur Golden
+14. The Joy Luck Club by Amy Tan
+15. The Alchemyst by Michael Scott
+16. The Bartimaeus Trilogy by Jonathan Stroud
+17. The Abhorsen Trilogy by Garth Nix
+18. The Uglies Series by Scott Westerfeld
+19. Leviathan by Scott Westerfeld
+20. Specials by Scott Westerfeld
+21. Extras by Scott Westerfeld
+22. The Looking Glass Wars by Frank Beddor
+23. ArchEnemy by Frank Beddor
+24. The Hunger Games Trilogy Boxed Set by Suzanne Collins
+25. The Divergent Series Box Set by Veronica Roth
+26. The Maze Runner Series by James Dashner
+27. The Giver Quartet by Lois Lowry
+28. The Inkheart Trilogy by Cornelia Funke
+29. The Red Queen by Philippa Gregory
+30. The Other Boleyn Girl by Philippa Gregory
+31. The White Queen by Philippa Gregory
+32. The Constant Princess by Philippa Gregory
+33. The Boleyn Inheritance by Philippa Gregory
+34. The Taming of the Queen by Philippa Gregory
+35. The Lady of the Rivers by Philippa Gregory
+36. The Kingmaker's Daughter by Philippa Gregory
+37. The White Princess by Philippa Gregory
+38. The Last Tudor by Philippa Gregory
+39. The Other Queen by Philippa Gregory
+40. The Virgin's Lover by Philippa Gregory
+41. The Queen's Fool by Philippa Gregory
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Name of the Wind by Patrick Rothfuss
+44. The Slow Regard of Silent Things by Patrick Rothfuss
+45. The Doors of Stone by Patrick Rothfuss
+46. The Wise Man's Fear by Patrick Rothfuss
+47. The Slow Regard of Silent Things by Patrick Rothfuss
+48. The Doors of Stone by Patrick Rothfuss
+49. The Wise Man's Fear by Patrick Rothfuss
+50. The Slow Regard of Silent Things by Patrick Rothfuss
+
+These recommendations are based on the user's interest in dystopian fiction, fantasy, and historical fiction.

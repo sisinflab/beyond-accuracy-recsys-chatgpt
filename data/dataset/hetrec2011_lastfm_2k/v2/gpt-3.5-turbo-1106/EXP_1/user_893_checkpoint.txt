@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Nine Inch Nails
+3. New Order
+4. Placebo
+5. Muse
+6. The Prodigy
+7. Radiohead
+8. Marilyn Manson
+9. Garbage
+10. The Chemical Brothers
+11. Massive Attack
+12. Portishead
+13. The Killers
+14. Interpol
+15. Editors
+16. Bloc Party
+17. The Strokes
+18. Kasabian
+19. Queens of the Stone Age
+20. Foo Fighters
+21. Red Hot Chili Peppers
+22. Linkin Park
+23. Korn
+24. Slipknot
+25. Disturbed
+26. Papa Roach
+27. Evanescence
+28. Breaking Benjamin
+29. Three Days Grace
+30. Skillet
+31. Shinedown
+32. Seether
+33. Chevelle
+34. Staind
+35. P.O.D.
+36. 30 Seconds to Mars
+37. My Chemical Romance
+38. Fall Out Boy
+39. Panic! At The Disco
+40. Paramore
+41. All Time Low
+42. Bring Me The Horizon
+43. Sleeping With Sirens
+44. Pierce The Veil
+45. A Day To Remember
+46. Of Mice & Men
+47. Asking Alexandria
+48. Motionless In White
+49. Crown The Empire
+50. Beartooth
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 20's preferences, here are the top 50 recommendations for them:
+
+1. The Picture of Dorian Gray
+2. Inkheart
+3. The Little Prince
+4. The Chronicles of Narnia: Prince Caspian
+5. The Outsiders (novel)
+6. The Stand
+7. The Vampire Chronicles
+8. The Hunger Games
+9. Romeo and Juliet
+10. The Lord of the Rings
+11. The Notebook (novel)
+12. Fahrenheit 451
+13. Stranger than Fiction: True Stories
+14. The Giver
+15. Angels & Demons
+16. The Catcher in the Rye
+17. The Southern Vampire Mysteries
+18. The Source (novel)
+19. The Bean Trees
+20. The Purpose Driven Life
+21. The Fire Within (novel)
+22. The Secret Garden
+23. The Frog Princess (novel)
+24. The Grand Design (book)
+25. The Wardstone Chronicles
+26. The Murders in the Rue Morgue
+27. The Birth of Tragedy
+28. The Five People You Meet in Heaven
+29. The Great Gatsby
+30. Dracula
+31. Blood and Chocolate (novel)
+32. Inkspell
+33. Naked (book)
+34. I Am Number Four
+35. Twilight (series)
+36. Leaves of Grass
+37. Blue Is for Nightmares (series)
+38. Ariel (book)
+39. Macbeth
+40. Halo: Contact Harvest
+41. Les Misérables
+42. Inferno (Dante)
+43. Night (book)
+44. Cujo
+45. Moby-Dick
+46. The Notebook (novel)
+47. Les Misérables
+48. Inferno (Dante)
+49. Night (book)
+50. Cujo
+
+These recommendations are based on the user's previous likes and are ranked according to their potential interest.

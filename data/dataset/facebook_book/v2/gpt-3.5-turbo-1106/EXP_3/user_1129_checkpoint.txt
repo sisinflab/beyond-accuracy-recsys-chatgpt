@@ -1,0 +1,52 @@
+Based on user 1129's preferences, here is a re-ranked list of top-50 book recommendations:
+
+1. The Stranger (novel) by Albert Camus
+2. The Catcher in the Rye by J.D. Salinger
+3. One Hundred Years of Solitude by Gabriel Garcia Marquez
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. Fear and Loathing in Las Vegas by Hunter S. Thompson
+6. The Rum Diary (novel) by Hunter S. Thompson
+7. The Da Vinci Code by Dan Brown
+8. Angels & Demons by Dan Brown
+9. American Gods by Neil Gaiman
+10. The Dark Tower: The Gunslinger by Stephen King
+11. The Vampire Lestat by Anne Rice
+12. The Watchmen (novel) by Alan Moore
+13. Ender's Game by Orson Scott Card
+14. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+15. Dune (novel) by Frank Herbert
+16. The Lord of the Rings by J.R.R. Tolkien
+17. Harry Potter series by J.K. Rowling
+18. The Little Prince by Antoine de Saint-Exupéry
+19. The Old Man and the Sea by Ernest Hemingway
+20. Fahrenheit 451 by Ray Bradbury
+21. The Silmarillion by J.R.R. Tolkien
+22. A Clockwork Orange by Anthony Burgess
+23. The 48 Laws of Power by Robert Greene
+24. The Secret (book) by Rhonda Byrne
+25. The Stranger (novel) by Harlan Coben
+26. The Electric Kool-Aid Acid Test by Tom Wolfe
+27. Nightmares & Dreamscapes by Stephen King
+28. Northern Lights (novel) by Philip Pullman
+29. The Lord of the Flies by William Golding
+30. Germinal (novel) by Émile Zola
+31. Anathem by Neal Stephenson
+32. The Iliad by Homer
+33. The Odyssey by Homer
+34. The Bible
+35. The Bhagavad Gita
+36. The Silmarillion by J.R.R. Tolkien
+37. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+38. The Little Prince by Antoine de Saint-Exupéry
+39. The Old Man and the Sea by Ernest Hemingway
+40. The 48 Laws of Power by Robert Greene
+41. The Secret (book) by Rhonda Byrne
+42. The Stranger (novel) by Harlan Coben
+43. The Electric Kool-Aid Acid Test by Tom Wolfe
+44. Nightmares & Dreamscapes by Stephen King
+45. Northern Lights (novel) by Philip Pullman
+46. Germinal (novel) by Émile Zola
+47. Anathem by Neal Stephenson
+48. The Iliad by Homer
+49. The Odyssey by Homer
+50. The Bible

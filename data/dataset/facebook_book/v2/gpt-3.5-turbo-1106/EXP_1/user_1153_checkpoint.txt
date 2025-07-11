@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Brave New World by Aldous Huxley
+8. Animal Farm by George Orwell
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Dracula by Bram Stoker
+12. Frankenstein by Mary Shelley
+13. Wuthering Heights by Emily Brontë
+14. The Tell-Tale Heart and Other Writings by Edgar Allan Poe
+15. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+16. The Complete Tales and Poems by Edgar Allan Poe
+17. The Complete Sherlock Holmes by Arthur Conan Doyle
+18. The War of the Worlds by H.G. Wells
+19. The Time Machine by H.G. Wells
+20. The Invisible Man by H.G. Wells
+21. The Island of Doctor Moreau by H.G. Wells
+22. The Complete Works of William Shakespeare
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Importance of Being Earnest by Oscar Wilde
+25. The Complete Works of Jane Austen
+26. Sense and Sensibility by Jane Austen
+27. Emma by Jane Austen
+28. Mansfield Park by Jane Austen
+29. Persuasion by Jane Austen
+30. Northanger Abbey by Jane Austen
+31. The Complete Works of Charles Dickens
+32. Great Expectations by Charles Dickens
+33. A Tale of Two Cities by Charles Dickens
+34. Oliver Twist by Charles Dickens
+35. David Copperfield by Charles Dickens
+36. Bleak House by Charles Dickens
+37. Little Women by Louisa May Alcott
+38. The Complete Works of Mark Twain
+39. The Adventures of Tom Sawyer by Mark Twain
+40. The Adventures of Huckleberry Finn by Mark Twain
+41. A Connecticut Yankee in King Arthur's Court by Mark Twain
+42. The Prince and the Pauper by Mark Twain
+43. The Complete Works of Edgar Allan Poe
+44. The Raven and Other Poems by Edgar Allan Poe
+45. The Fall of the House of Usher and Other Writings by Edgar Allan Poe
+46. The Complete Works of H.P. Lovecraft
+47. At the Mountains of Madness by H.P. Lovecraft
+48. The Shadow over Innsmouth by H.P. Lovecraft
+49. The Dunwich Horror and Others by H.P. Lovecraft
+50. The Call of Cthulhu and Other Weird Stories by H.P. Lovecraft
+
+These recommendations are based on the user's interest in classic literature, horror, and fantasy genres.

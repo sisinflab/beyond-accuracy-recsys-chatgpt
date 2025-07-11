@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Paramore
+2. Blink-182
+3. Foo Fighters
+4. Red Hot Chili Peppers
+5. System of a Down
+6. Three Days Grace
+7. Breaking Benjamin
+8. The Offspring
+9. Papa Roach
+10. Korn
+11. Good Charlotte
+12. AFI
+13. The Used
+14. Limp Bizkit
+15. P.O.D.
+16. Seether
+17. Chevelle
+18. Staind
+19. Disturbed
+20. 30 Seconds to Mars
+21. Incubus
+22. Shinedown
+23. Puddle of Mudd
+24. Hoobastank
+25. Theory of a Deadman
+26. Nickelback
+27. Hinder
+28. Sevendust
+29. Saliva
+30. Trapt
+31. Crossfade
+32. Drowning Pool
+33. Alien Ant Farm
+34. Fuel
+35. Adema
+36. Smile Empty Soul
+37. Evans Blue
+38. Default
+39. Tantric
+40. 12 Stones
+41. Egypt Central
+42. Art of Dying
+43. Sick Puppies
+44. Pop Evil
+45. Nonpoint
+46. Trust Company
+47. Earshot
+48. Cold
+49. Powerman 5000
+50. Soil
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's liking of artists such as Grace Jones, Cher, and Madonna, as well as their interest in Michael Jackson and Janet Jackson, the following re-ranked top-50 recommendations are provided:
+
+1. Madonna
+2. Michael Jackson
+3. Lady Gaga
+4. Britney Spears
+5. Cher
+6. Beyoncé
+7. Rihanna
+8. Christina Aguilera
+9. Janet Jackson
+10. Shakira
+11. Katy Perry
+12. Aretha Franklin
+13. Grace Jones
+14. David Bowie
+15. Billie Holiday
+16. Simply Red
+17. Depeche Mode
+18. U2
+19. The Beatles
+20. Taylor Swift
+21. Paramore
+22. Muse
+23. Pink Floyd
+24. Kylie Minogue
+25. Avril Lavigne
+26. Glee Cast
+27. Evanescence
+28. 30 Seconds to Mars
+29. Coldplay
+30. Radiohead
+31. Duran Duran
+32. Miley Cyrus
+33. Ke$ha
+34. Blur
+35. Arctic Monkeys
+36. The Killers
+37. Nirvana
+38. Iron Maiden
+39. Amy Winehouse
+40. Led Zeppelin
+41. Metallica
+42. Pearl Jam
+43. a-ha
+44. Björk
+45. System of a Down
+46. Daft Punk
+47. Nine Inch Nails
+48. Linkin Park
+49. Kelly Clarkson
+50. All Time Low
+
+These recommendations are based on the user's existing preferences and are designed to align with their music taste.

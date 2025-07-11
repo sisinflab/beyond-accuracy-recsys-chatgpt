@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 101:
+
+1. The Fountainhead by Ayn Rand
+2. Atlas Shrugged by Ayn Rand
+3. Capitalism and Freedom by Milton Friedman
+4. The Wealth of Nations by Adam Smith
+5. The God Delusion by Richard Dawkins
+6. The Selfish Gene by Richard Dawkins
+7. The Antichrist (book) by Friedrich Nietzsche
+8. The Age of Reason (novel) by Jean-Paul Sartre
+9. God Is Not Great by Christopher Hitchens
+10. The Communist Manifesto
+11. The Structure of Scientific Revolutions
+12. The Diary of a Young Girl
+13. The Double Helix
+14. The Picture of Dorian Gray
+15. The Name of the Rose
+16. A Brief History of Time
+17. Dracula
+18. Frankenstein
+19. Inferno (Dante)
+20. Les Misérables
+21. Earthsea
+22. Dune (novel)
+23. Nineteen Eighty-Four
+24. The Great Gatsby
+25. Brave New World
+26. Thus Spoke Zarathustra
+27. The Maltese Falcon (novel)
+28. A History of Western Philosophy
+29. The Story of My Experiments with Truth
+30. G�del, Escher, Bach
+31. The Mill on the Floss
+32. Hannibal (novel)
+33. Jaws (novel)
+34. Harry Potter
+35. If Tomorrow Comes
+36. Alice's Adventures in Wonderland
+37. The Gathering (Enright novel)
+38. One Night @ the Call Center
+39. Sun Bin's Art of War
+40. Candy Girl: A Year in the Life of an Unlikely Stripper
+41. The Elegant Universe
+42. The Spirit Catches You and You Fall Down
+43. Billions and Billions: Thoughts on Life and Death at the Brink of the Millennium
+44. Gates of Fire
+45. A Great and Terrible Beauty
+46. The Hatchet (novel)
+47. The Silence of the Lambs (novel)
+48. The Fabric of the Cosmos
+49. Anthem (novella)
+50. Outliers (book)
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended books to the ones the user already likes.

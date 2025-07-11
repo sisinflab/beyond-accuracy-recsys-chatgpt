@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. The Grapes of Wrath by John Steinbeck
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Bell Jar by Sylvia Plath
+9. The Picture of Dorian Gray by Oscar Wilde
+10. Wuthering Heights by Emily Bronte
+11. The Brothers Karamazov by Fyodor Dostoyevsky
+12. The Stranger by Albert Camus
+13. The Road by Cormac McCarthy
+14. The Handmaid's Tale by Margaret Atwood
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Sun Also Rises by Ernest Hemingway
+17. A Clockwork Orange by Anthony Burgess
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Count of Monte Cristo by Alexandre Dumas
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Metamorphosis by Franz Kafka
+23. The Trial by Franz Kafka
+24. The Idiot by Fyodor Dostoyevsky
+25. The Master and Margarita by Mikhail Bulgakov
+26. The Plague by Albert Camus
+27. The Sound and the Fury by William Faulkner
+28. The Stranger by Albert Camus
+29. The Unbearable Lightness of Being by Milan Kundera
+30. The Name of the Rose by Umberto Eco
+31. The Secret History by Donna Tartt
+32. The Goldfinch by Donna Tartt
+33. The Shadow of the Wind by Carlos Ruiz Zafon
+34. The Night Circus by Erin Morgenstern
+35. The Book Thief by Markus Zusak
+36. The Kite Runner by Khaled Hosseini
+37. The Alchemist by Paulo Coelho
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Help by Kathryn Stockett
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Da Vinci Code by Dan Brown
+42. The Lost Symbol by Dan Brown
+43. Inferno by Dan Brown
+44. Digital Fortress by Dan Brown
+45. The Girl on the Train by Paula Hawkins
+46. Gone Girl by Gillian Flynn
+47. Sharp Objects by Gillian Flynn
+48. Dark Places by Gillian Flynn
+49. The Lovely Bones by Alice Sebold
+50. Room by Emma Donoghue
+
+These recommendations are based on the user's liking for classic literature, psychological thrillers, and thought-provoking novels.

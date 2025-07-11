@@ -1,0 +1,54 @@
+Based on the preferences of user 1544, here are the top-50 recommendations for the listed artists:
+
+1. Evanescence
+2. Paramore
+3. In Flames
+4. Florence + the Machine
+5. Shakira
+6. Daft Punk
+7. Katy Perry
+8. Miley Cyrus
+9. Michael Jackson
+10. Mariah Carey
+11. Justin Timberlake
+12. Rihanna
+13. Christina Aguilera
+14. Jennifer Lopez
+15. Beyoncé
+16. Usher
+17. Bruno Mars
+18. Adam Lambert
+19. Leona Lewis
+20. Lykke Li
+21. Pixie Lott
+22. Hilary Duff
+23. Lily Allen
+24. Ke$ha
+25. Taylor Swift
+26. The Pussycat Dolls
+27. The Saturdays
+28. Black Eyed Peas
+29. Glee Cast
+30. Ashley Tisdale
+31. Colbie Caillat
+32. Capital Inicial
+33. Bon Jovi
+34. RBD
+35. The Cranberries
+36. Fear Factory
+37. Arch Enemy
+38. Dark Tranquillity
+39. Killswitch Engage
+40. DevilDriver
+41. Static-X
+42. Ayria
+43. Cascada
+44. Kylie Minogue
+45. Pitty
+46. The Veronicas
+47. Madonna
+48. Lady Gaga
+49. Muse
+50. Avril Lavigne
+
+These recommendations are based on the similar music preferences of user 1544 and are tailored to their specific tastes.

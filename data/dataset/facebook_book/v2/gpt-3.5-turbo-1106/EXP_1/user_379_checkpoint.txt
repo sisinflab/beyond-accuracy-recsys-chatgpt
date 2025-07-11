@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Bronte
+3. Jane Eyre by Charlotte Bronte
+4. Anna Karenina by Leo Tolstoy
+5. Crime and Punishment by Fyodor Dostoevsky
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. Brave New World by Aldous Huxley
+9. The Catcher in the Rye by J.D. Salinger
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. Moby-Dick by Herman Melville
+14. The Count of Monte Cristo by Alexandre Dumas
+15. The Grapes of Wrath by John Steinbeck
+16. The Bell Jar by Sylvia Plath
+17. The Road by Cormac McCarthy
+18. The Kite Runner by Khaled Hosseini
+19. The Alchemist by Paulo Coelho
+20. The Book Thief by Markus Zusak
+21. The Secret History by Donna Tartt
+22. The Goldfinch by Donna Tartt
+23. The Night Circus by Erin Morgenstern
+24. The Shadow of the Wind by Carlos Ruiz Zafon
+25. The Name of the Wind by Patrick Rothfuss
+26. The Handmaid's Tale by Margaret Atwood
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Help by Kathryn Stockett
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Lovely Bones by Alice Sebold
+32. The Hunger Games by Suzanne Collins
+33. The Fault in Our Stars by John Green
+34. The Girl on the Train by Paula Hawkins
+35. The Martian by Andy Weir
+36. The Nightingale by Kristin Hannah
+37. The Silent Patient by Alex Michaelides
+38. The Tattooist of Auschwitz by Heather Morris
+39. The Alice Network by Kate Quinn
+40. The Light Between Oceans by M.L. Stedman
+41. The Night Manager by John le Carré
+42. The Rosie Project by Graeme Simsion
+43. The Husband's Secret by Liane Moriarty
+44. The Girl Who Played with Fire by Stieg Larsson
+45. The Thirteenth Tale by Diane Setterfield
+46. The Snowman by Jo Nesbø
+47. The Dry by Jane Harper
+48. The Woman in the Window by A.J. Finn
+49. The Girl in the Spider's Web by David Lagercrantz
+50. The Couple Next Door by Shari Lapena
+
+These recommendations are based on the user's liking for classic literature, contemporary fiction, and some mystery novels.

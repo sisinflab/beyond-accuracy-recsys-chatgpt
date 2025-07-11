@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Erykah Badu
+2. Lauryn Hill
+3. D'Angelo
+4. Jill Scott
+5. Maxwell
+6. India.Arie
+7. John Legend
+8. Mary J. Blige
+9. Usher
+10. OutKast
+11. Kanye West
+12. Janelle Monáe
+13. Frank Ocean
+14. Kendrick Lamar
+15. Childish Gambino
+16. Solange
+17. Miguel
+18. Anderson .Paak
+19. Jhene Aiko
+20. The Weeknd
+21. Alicia Keys
+22. Brandy
+23. TLC
+24. Destiny's Child
+25. Janet Jackson
+26. Prince
+27. Lionel Richie
+28. Earth, Wind & Fire
+29. Marvin Gaye
+30. Al Green
+31. Otis Redding
+32. Aretha Franklin
+33. Gladys Knight & The Pips
+34. The Temptations
+35. The Supremes
+36. Smokey Robinson & The Miracles
+37. The Isley Brothers
+38. Curtis Mayfield
+39. Bill Withers
+40. Stevie Wonder
+41. Marvin Gaye
+42. Diana Ross
+43. The O'Jays
+44. The Spinners
+45. The Four Tops
+46. The Stylistics
+47. The Chi-Lites
+48. The Delfonics
+49. The Dramatics
+50. The Commodores
+
+These recommendations are based on the user's liking for artists with similar styles and genres.

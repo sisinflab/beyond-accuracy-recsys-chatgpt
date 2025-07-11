@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Led Zeppelin
+2. Deep Purple
+3. The Rolling Stones
+4. Jimi Hendrix
+5. AC/DC
+6. The Doors
+7. Queen
+8. Van Halen
+9. Aerosmith
+10. Guns N' Roses
+11. Rush
+12. Yes
+13. The Who
+14. Cream
+15. Alice Cooper
+16. Thin Lizzy
+17. Judas Priest
+18. Iron Maiden
+19. Megadeth
+20. Motorhead
+21. Pantera
+22. Anthrax
+23. Testament
+24. Exodus
+25. Kreator
+26. Overkill
+27. Sepultura
+28. Morbid Angel
+29. Death
+30. Carcass
+31. Entombed
+32. At The Gates
+33. Dark Tranquillity
+34. In Flames
+35. Opeth
+36. Katatonia
+37. Amorphis
+38. Paradise Lost
+39. My Dying Bride
+40. Anathema
+41. Tiamat
+42. Moonspell
+43. Lacuna Coil
+44. Theatre of Tragedy
+45. Tristania
+46. Sirenia
+47. Epica
+48. Nightwish
+49. Within Temptation
+50. Delain
+
+These recommendations are based on the user's liking of classic rock, metal, and progressive rock artists, and are intended to provide a diverse range of similar artists for the user to explore.

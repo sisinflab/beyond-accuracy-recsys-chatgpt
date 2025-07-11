@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. In Flames
+2. Sabaton
+3. Dark Tranquillity
+4. Amorphis
+5. Eluveitie
+6. Korpiklaani
+7. Insomnium
+8. Sonata Arctica
+9. Epica
+10. Darkthrone
+11. Wintersun
+12. Opeth
+13. Lamb of God
+14. At the Gates
+15. Katatonia
+16. Behemoth
+17. Carcass
+18. Gojira
+19. Mastodon
+20. Parkway Drive
+21. Lamb of God
+22. At the Gates
+23. Katatonia
+24. Behemoth
+25. Carcass
+26. Gojira
+27. Mastodon
+28. Parkway Drive
+29. Bullet for My Valentine
+30. Five Finger Death Punch
+31. Avenged Sevenfold
+32. Disturbed
+33. Korn
+34. Tool
+35. Deftones
+36. Pantera
+37. Megadeth
+38. Anthrax
+39. Testament
+40. Exodus
+41. Overkill
+42. Kreator
+43. Sodom
+44. Destruction
+45. Sepultura
+46. Soulfly
+47. Machine Head
+48. Chimaira
+49. Fear Factory
+50. Whitechapel
+
+These recommendations are based on the user's liking of similar artists and genres.

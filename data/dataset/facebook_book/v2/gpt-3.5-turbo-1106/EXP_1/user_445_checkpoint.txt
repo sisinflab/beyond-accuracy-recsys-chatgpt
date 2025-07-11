@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. Dracula by Bram Stoker
+3. Twilight by Stephenie Meyer
+4. Frankenstein by Mary Shelley
+5. The Historian by Elizabeth Kostova
+6. Let the Right One In by John Ajvide Lindqvist
+7. Salem's Lot by Stephen King
+8. The Vampire Lestat by Anne Rice
+9. Carmilla by Joseph Sheridan Le Fanu
+10. Dead Until Dark by Charlaine Harris
+11. The Bloody Chamber by Angela Carter
+12. Lost Souls by Poppy Z. Brite
+13. Sunshine by Robin McKinley
+14. The Strain by Guillermo del Toro and Chuck Hogan
+15. The Passage by Justin Cronin
+16. The Gargoyle by Andrew Davidson
+17. The Witching Hour by Anne Rice
+18. The Silver Kiss by Annette Curtis Klause
+19. Let Me In by John Ajvide Lindqvist
+20. The Vampire Armand by Anne Rice
+21. The Vampire Diaries by L.J. Smith
+22. The Historian by Elizabeth Kostova
+23. The Vampire Tapestry by Suzy McKee Charnas
+24. The Vampire's Assistant by Darren Shan
+25. The Vampire Shrink by Lynda Hilburn
+26. The Vampire Queen's Servant by Joey W. Hill
+27. The Vampire's Beautiful Daughter by S.P. Somtow
+28. The Vampire of New York by Lee Hunt
+29. The Vampire's Seduction by Raven Hart
+30. The Vampire's Bride by Gena Showalter
+31. The Vampire's Kiss by Raven Hart
+32. The Vampire's Betrayal by Raven Hart
+33. The Vampire's Secret by Raven Hart
+34. The Vampire's Desire by Raven Hart
+35. The Vampire's Seduction by Raven Hart
+36. The Vampire's Secret by Raven Hart
+37. The Vampire's Betrayal by Raven Hart
+38. The Vampire's Desire by Raven Hart
+39. The Vampire's Seduction by Raven Hart
+40. The Vampire's Secret by Raven Hart
+41. The Vampire's Betrayal by Raven Hart
+42. The Vampire's Desire by Raven Hart
+43. The Vampire's Seduction by Raven Hart
+44. The Vampire's Secret by Raven Hart
+45. The Vampire's Betrayal by Raven Hart
+46. The Vampire's Desire by Raven Hart
+47. The Vampire's Seduction by Raven Hart
+48. The Vampire's Secret by Raven Hart
+49. The Vampire's Betrayal by Raven Hart
+50. The Vampire's Desire by Raven Hart
+
+These recommendations are based on the user's interest in vampire-themed books and gothic literature.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Rammstein
+3. Marilyn Manson
+4. Soundgarden
+5. Nirvana
+6. Pearl Jam
+7. Tool
+8. Nine Inch Nails
+9. Stone Temple Pilots
+10. Faith No More
+11. The Smashing Pumpkins
+12. Red Hot Chili Peppers
+13. Jane's Addiction
+14. Alice in Chains
+15. Deftones
+16. System of a Down
+17. Korn
+18. Rob Zombie
+19. Ministry
+20. White Zombie
+21. A Perfect Circle
+22. Queens of the Stone Age
+23. Foo Fighters
+24. Audioslave
+25. Bush
+26. Helmet
+27. Chevelle
+28. Seether
+29. Breaking Benjamin
+30. Three Days Grace
+31. Shinedown
+32. Theory of a Deadman
+33. Puddle of Mudd
+34. Staind
+35. Godsmack
+36. Disturbed
+37. Slipknot
+38. Mudvayne
+39. Lamb of God
+40. Mastodon
+41. Gojira
+42. Opeth
+43. Meshuggah
+44. Pantera
+45. Slayer
+46. Anthrax
+47. Testament
+48. Exodus
+49. Kreator
+50. Overkill
+
+These recommendations are based on the user's liking of rock, metal, and alternative artists, and include similar bands and artists within those genres.

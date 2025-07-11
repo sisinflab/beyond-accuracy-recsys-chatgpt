@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Atonement by Ian McEwan
+2. The Road by Cormac McCarthy
+3. The Catcher in the Rye by J.D. Salinger
+4. The Handmaid's Tale by Margaret Atwood
+5. The Remains of the Day by Kazuo Ishiguro
+6. The Bell Jar by Sylvia Plath
+7. The Secret History by Donna Tartt
+8. The Goldfinch by Donna Tartt
+9. The Kite Runner by Khaled Hosseini
+10. The Poisonwood Bible by Barbara Kingsolver
+11. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+12. The Namesake by Jhumpa Lahiri
+13. The God of Small Things by Arundhati Roy
+14. The Shadow of the Wind by Carlos Ruiz Zafón
+15. The Book Thief by Markus Zusak
+16. The Night Circus by Erin Morgenstern
+17. The Alchemist by Paulo Coelho
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Glass Castle by Jeannette Walls
+20. The Color Purple by Alice Walker
+21. The Handmaid's Tale by Margaret Atwood
+22. The Remains of the Day by Kazuo Ishiguro
+23. The Bell Jar by Sylvia Plath
+24. The Secret History by Donna Tartt
+25. The Goldfinch by Donna Tartt
+26. The Kite Runner by Khaled Hosseini
+27. The Poisonwood Bible by Barbara Kingsolver
+28. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+29. The Namesake by Jhumpa Lahiri
+30. The God of Small Things by Arundhati Roy
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Book Thief by Markus Zusak
+33. The Night Circus by Erin Morgenstern
+34. The Alchemist by Paulo Coelho
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Glass Castle by Jeannette Walls
+37. The Color Purple by Alice Walker
+38. The Handmaid's Tale by Margaret Atwood
+39. The Remains of the Day by Kazuo Ishiguro
+40. The Bell Jar by Sylvia Plath
+41. The Secret History by Donna Tartt
+42. The Goldfinch by Donna Tartt
+43. The Kite Runner by Khaled Hosseini
+44. The Poisonwood Bible by Barbara Kingsolver
+45. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+46. The Namesake by Jhumpa Lahiri
+47. The God of Small Things by Arundhati Roy
+48. The Shadow of the Wind by Carlos Ruiz Zafón
+49. The Book Thief by Markus Zusak
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the user's preference for literary fiction and classic novels.

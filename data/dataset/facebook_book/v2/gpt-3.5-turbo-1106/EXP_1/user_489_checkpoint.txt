@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Diviners by Libba Bray
+2. A Great and Terrible Beauty by Libba Bray
+3. The Gemma Doyle Trilogy by Libba Bray
+4. The Luxe by Anna Godbersen
+5. Wicked Lovely by Melissa Marr
+6. Hush, Hush by Becca Fitzpatrick
+7. Shiver by Maggie Stiefvater
+8. The Dark Divine by Bree Despain
+9. The Mortal Instruments series by Cassandra Clare
+10. The Infernal Devices series by Cassandra Clare
+11. The Coldest Girl in Coldtown by Holly Black
+12. Tithe: A Modern Faerie Tale by Holly Black
+13. The Iron Fey series by Julie Kagawa
+14. The Vampire Diaries series by L.J. Smith
+15. Blue Bloods series by Melissa de la Cruz
+16. House of Night series by P.C. Cast and Kristin Cast
+17. The Secret Circle series by L.J. Smith
+18. The Forbidden Game series by L.J. Smith
+19. The Mediator series by Meg Cabot
+20. The Chronicles of Vladimir Tod by Heather Brewer
+21. The Demonata series by Darren Shan
+22. The Strain Trilogy by Guillermo del Toro and Chuck Hogan
+23. The Passage by Justin Cronin
+24. The Strain by Guillermo del Toro and Chuck Hogan
+25. The Historian by Elizabeth Kostova
+26. The Thirteenth Tale by Diane Setterfield
+27. The Shadow of the Wind by Carlos Ruiz Zafón
+28. The Night Circus by Erin Morgenstern
+29. The Gargoyle by Andrew Davidson
+30. The Historian by Elizabeth Kostova
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Night Circus by Erin Morgenstern
+33. The Gargoyle by Andrew Davidson
+34. The Witching Hour by Anne Rice
+35. The Historian by Elizabeth Kostova
+36. The Shadow of the Wind by Carlos Ruiz Zafón
+37. The Night Circus by Erin Morgenstern
+38. The Gargoyle by Andrew Davidson
+39. The Witching Hour by Anne Rice
+40. The Historian by Elizabeth Kostova
+41. The Shadow of the Wind by Carlos Ruiz Zafón
+42. The Night Circus by Erin Morgenstern
+43. The Gargoyle by Andrew Davidson
+44. The Witching Hour by Anne Rice
+45. The Historian by Elizabeth Kostova
+46. The Shadow of the Wind by Carlos Ruiz Zafón
+47. The Night Circus by Erin Morgenstern
+48. The Gargoyle by Andrew Davidson
+49. The Witching Hour by Anne Rice
+50. The Historian by Elizabeth Kostova
+
+These recommendations are based on the user's interest in supernatural and fantasy novels.

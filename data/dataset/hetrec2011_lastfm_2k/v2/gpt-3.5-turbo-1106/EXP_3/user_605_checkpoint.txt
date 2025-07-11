@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 605:
+
+1. The Rolling Stones
+2. The Velvet Underground
+3. The Beatles
+4. David Bowie
+5. Radiohead
+6. Pink Floyd
+7. The White Stripes
+8. The Killers
+9. Arctic Monkeys
+10. Oasis
+11. Blur
+12. The Libertines
+13. The Smiths
+14. The Jesus and Mary Chain
+15. The Police
+16. The Stooges
+17. Sonic Youth
+18. Nick Cave and the Bad Seeds
+19. The Raveonettes
+20. The Knife
+21. The Dresden Dolls
+22. Tori Amos
+23. Pulp
+24. Suede
+25. Jeff Buckley
+26. José González
+27. Death Cab for Cutie
+28. Bloc Party
+29. Metallica
+30. Beastie Boys
+31. T. Rex
+32. Iron & Wine
+33. John Mayer
+34. Miles Davis
+35. Jethro Tull
+36. Blondie
+37. Iggy Pop
+38. Moby
+39. Roxy Music
+40. Weezer
+41. Tom Waits
+42. Amy Winehouse
+43. Bauhaus
+44. Billy Idol
+45. Captain Beefheart & His Magic Band
+46. Crystal Castles
+47. Andrew Bird
+48. Nine Inch Nails
+49. Placebo
+50. Aphex Twin
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

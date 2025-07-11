@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Led Zeppelin
+2. Deep Purple
+3. AC/DC
+4. The Rolling Stones
+5. Guns N' Roses
+6. Aerosmith
+7. The Who
+8. Jimi Hendrix
+9. Van Halen
+10. Lynyrd Skynyrd
+11. Cream
+12. The Doors
+13. Fleetwood Mac
+14. Rush
+15. Pink Floyd
+16. The Beatles
+17. Elton John
+18. Uriah Heep
+19. Scorpions
+20. Blackmore's Night
+21. Metallica
+22. The Rasmus
+23. Bon Jovi
+24. Rainbow
+25. Good Charlotte
+26. Bowling for Soup
+27. Dire Straits
+28. Robbie Williams
+29. Simon & Garfunkel
+30. System of a Down
+31. Queen
+32. Avril Lavigne
+33. Travis
+34. KISS
+35. ABBA
+36. Green Day
+37. Weird Al Yankovic
+38. The Corrs
+39. Juanes
+40. Nickelback
+41. Simple Plan
+42. Iron Maiden
+43. Sonata Arctica
+44. Gary Moore
+45. Electric Light Orchestra
+46. Eric Clapton
+47. Alice Cooper
+48. Yellowcard
+49. Mägo de Oz
+50. The Moody Blues
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and bands that align with their current likes.

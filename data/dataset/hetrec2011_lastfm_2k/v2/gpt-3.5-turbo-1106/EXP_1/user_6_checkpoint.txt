@@ -1,0 +1,54 @@
+Based on user 6's preferences, here are the top 50 recommendations:
+
+1. Lauryn Hill
+2. Alicia Keys
+3. Sade
+4. Aaliyah
+5. Maxwell
+6. Jill Scott
+7. India.Arie
+8. D'Angelo
+9. John Legend
+10. Usher
+11. Beyoncé
+12. Janelle Monáe
+13. Miguel
+14. Frank Ocean
+15. Solange
+16. The Roots
+17. Lauryn Hill
+18. Jill Scott
+19. Erykah Badu
+20. Alicia Keys
+21. Sade
+22. Aaliyah
+23. Maxwell
+24. Jill Scott
+25. India.Arie
+26. D'Angelo
+27. John Legend
+28. Usher
+29. Beyoncé
+30. Janelle Monáe
+31. Miguel
+32. Frank Ocean
+33. Solange
+34. The Roots
+35. Lauryn Hill
+36. Jill Scott
+37. Erykah Badu
+38. Alicia Keys
+39. Sade
+40. Aaliyah
+41. Maxwell
+42. Jill Scott
+43. India.Arie
+44. D'Angelo
+45. John Legend
+46. Usher
+47. Beyoncé
+48. Janelle Monáe
+49. Miguel
+50. Frank Ocean
+
+These recommendations are based on the user's liking of similar artists and genres.

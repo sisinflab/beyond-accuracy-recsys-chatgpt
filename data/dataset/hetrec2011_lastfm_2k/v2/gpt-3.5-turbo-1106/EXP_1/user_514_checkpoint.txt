@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Selena Gomez
+2. The Veronicas
+3. Britney Spears
+4. Gwen Stefani
+5. Ariana Grande
+6. Demi Lovato
+7. Taylor Swift
+8. Katy Perry
+9. Lady Gaga
+10. Avril Lavigne
+11. P!nk
+12. Rihanna
+13. Kelly Clarkson
+14. Christina Aguilera
+15. Hilary Duff
+16. Ashlee Simpson
+17. Miley Cyrus
+18. Madonna
+19. Adam Lambert
+20. Lindsay Lohan
+21. Ashley Tisdale
+22. Paris Hilton
+23. Amy Winehouse
+24. Ryan Cabrera
+25. Shakira
+26. Skye Sweetnam
+27. My Chemical Romance
+28. Jonathan Larson
+29. Amy Macdonald
+30. Metro Station
+31. Jennifer Lopez
+32. Darin
+33. Alice in Videoland
+34. The Pussycat Dolls
+35. 30 Seconds to Mars
+36. The Pretty Reckless
+37. Danny
+38. Christina Milian
+39. Hilary Duff
+40. Kelly Clarkson
+41. Madonna
+42. The Veronicas
+43. Britney Spears
+44. Gwen Stefani
+45. Ariana Grande
+46. Demi Lovato
+47. Taylor Swift
+48. Katy Perry
+49. Lady Gaga
+50. Avril Lavigne
+
+These recommendations are based on the user's liking of similar artists and are intended to provide a diverse range of options that align with their preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Marina and the Diamonds
+2. Robyn
+3. Tove Lo
+4. Charli XCX
+5. Grimes
+6. CHVRCHES
+7. St. Vincent
+8. Haim
+9. Lorde
+10. Lykke Li
+11. Santigold
+12. Bat for Lashes
+13. The Knife
+14. Purity Ring
+15. FKA twigs
+16. Róisín Murphy
+17. Sleigh Bells
+18. Metric
+19. The Ting Tings
+20. Little Boots
+21. Kate Nash
+22. Le Tigre
+23. Garbage
+24. The Cardigans
+25. No Doubt
+26. The Cranberries
+27. Alanis Morissette
+28. Fiona Apple
+29. PJ Harvey
+30. Tori Amos
+31. Siouxsie and the Banshees
+32. The Breeders
+33. Hole
+34. Veruca Salt
+35. Sleater-Kinney
+36. Bikini Kill
+37. The Distillers
+38. Yeah Yeah Yeahs
+39. The Kills
+40. The Raveonettes
+41. Warpaint
+42. Dum Dum Girls
+43. Best Coast
+44. Vivian Girls
+45. Bleached
+46. La Sera
+47. Alvvays
+48. Frankie Cosmos
+49. Snail Mail
+50. Soccer Mommy
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 1302's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The Smiths
+2. Pink Floyd
+3. The National
+4. The xx
+5. Interpol
+6. The Cure
+7. The Kinks
+8. The Who
+9. Franz Ferdinand
+10. Death Cab for Cutie
+11. U2
+12. My Chemical Romance
+13. Pearl Jam
+14. Arctic Monkeys
+15. Kings of Leon
+16. Queens of the Stone Age
+17. Kasabian
+18. The Strokes
+19. Radiohead
+20. Coldplay
+21. Muse
+22. The White Stripes
+23. Bob Dylan
+24. Johnny Cash
+25. Sigur Rós
+26. Paolo Nutini
+27. Ben Harper
+28. Manu Chao
+29. Damien Rice
+30. PJ Harvey
+31. Kate Nash
+32. Portishead
+33. A Fine Frenzy
+34. Devendra Banhart
+35. Editors
+36. The Jimi Hendrix Experience
+37. George Harrison
+38. The Beatles
+39. Jason Mraz
+40. Little Joy
+41. Joss Stone
+42. Justin Nozuka
+43. Feist
+44. Elliott Smith
+45. MGMT
+46. Amy Winehouse
+47. The Kooks
+48. Alanis Morissette
+49. Kaiser Chiefs
+50. Snow Patrol
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

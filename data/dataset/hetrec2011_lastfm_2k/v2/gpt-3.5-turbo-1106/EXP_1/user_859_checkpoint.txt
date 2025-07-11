@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pet Shop Boys
+2. Erasure
+3. Duran Duran
+4. The Chemical Brothers
+5. Garbage
+6. The Killers
+7. Goldfrapp
+8. Massive Attack
+9. The Cure
+10. Nine Inch Nails
+11. Placebo
+12. The Cardigans
+13. The Knife
+14. La Roux
+15. Robyn
+16. Björk
+17. Portishead
+18. IAMX
+19. Chvrches
+20. Grimes
+21. Tove Lo
+22. Marina and the Diamonds
+23. Florence + The Machine
+24. CHVRCHES
+25. Purity Ring
+26. Crystal Castles
+27. M83
+28. Empire of the Sun
+29. The xx
+30. Moby
+31. Santigold
+32. Lykke Li
+33. Metric
+34. Phantogram
+35. Bat for Lashes
+36. The Naked and Famous
+37. Haim
+38. St. Vincent
+39. Charli XCX
+40. Lorde
+41. Halsey
+42. BANKS
+43. Grimes
+44. FKA twigs
+45. Aurora
+46. Zola Jesus
+47. Kate Bush
+48. Siouxsie and the Banshees
+49. Cocteau Twins
+50. Dead Can Dance
+
+These recommendations are based on the user's liking of electronic, alternative, and pop artists, and are aimed at providing a diverse range of similar artists for the user to explore.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Notebook by Nicholas Sparks
+2. A Walk to Remember by Nicholas Sparks
+3. Speak by Laurie Halse Anderson
+4. Thirteen Reasons Why by Jay Asher
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. If I Stay by Gayle Forman
+7. The Fault in Our Stars by John Green
+8. Before I Fall by Lauren Oliver
+9. The Hunger Games by Suzanne Collins
+10. Divergent by Veronica Roth
+11. The Maze Runner by James Dashner
+12. The Giver by Lois Lowry
+13. The Outsiders by S.E. Hinton
+14. Looking for Alaska by John Green
+15. Paper Towns by John Green
+16. Eleanor & Park by Rainbow Rowell
+17. The Book Thief by Markus Zusak
+18. The Lovely Bones by Alice Sebold
+19. Room by Emma Donoghue
+20. The Girl on the Train by Paula Hawkins
+21. Gone Girl by Gillian Flynn
+22. Sharp Objects by Gillian Flynn
+23. Dark Places by Gillian Flynn
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Girl Who Played with Fire by Stieg Larsson
+26. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+27. Big Little Lies by Liane Moriarty
+28. The Husband's Secret by Liane Moriarty
+29. Truly Madly Guilty by Liane Moriarty
+30. Me Before You by Jojo Moyes
+31. The Night Circus by Erin Morgenstern
+32. Water for Elephants by Sara Gruen
+33. The Time Traveler's Wife by Audrey Niffenegger
+34. The Light Between Oceans by M.L. Stedman
+35. The Secret Life of Bees by Sue Monk Kidd
+36. The Help by Kathryn Stockett
+37. The Kite Runner by Khaled Hosseini
+38. A Thousand Splendid Suns by Khaled Hosseini
+39. And the Mountains Echoed by Khaled Hosseini
+40. The Alchemist by Paulo Coelho
+41. The Nightingale by Kristin Hannah
+42. The Great Alone by Kristin Hannah
+43. Firefly Lane by Kristin Hannah
+44. The Nightingale by Kristin Hannah
+45. The Silent Patient by Alex Michaelides
+46. The Woman in the Window by A.J. Finn
+47. The Wife Between Us by Greer Hendricks and Sarah Pekkanen
+48. The Last Mrs. Parrish by Liv Constantine
+49. Behind Closed Doors by B.A. Paris
+50. The Girl Before by J.P. Delaney
+
+These recommendations are based on the user's interest in novels by Nicholas Sparks and other popular young adult and contemporary fiction books.

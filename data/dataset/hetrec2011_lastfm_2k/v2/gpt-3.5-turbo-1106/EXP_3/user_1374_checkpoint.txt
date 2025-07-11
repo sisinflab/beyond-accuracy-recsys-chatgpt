@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. Bullet for My Valentine
+3. A Day to Remember
+4. Goo Goo Dolls
+5. Avenged Sevenfold
+6. Paramore
+7. Bring Me The Horizon
+8. Skillet
+9. Shinedown
+10. The Pretty Reckless
+11. Seether
+12. Fall Out Boy
+13. P!nk
+14. Lady Gaga
+15. Katy Perry
+16. Eminem
+17. Kanye West
+18. Demi Lovato
+19. Marina & the Diamonds
+20. Florence + the Machine
+21. Anberlin
+22. Third Eye Blind
+23. Hinder
+24. Thrice
+25. AFI
+26. Breaking Benjamin
+27. Trapt
+28. Lacuna Coil
+29. Evanescence
+30. Deftones
+31. A Perfect Circle
+32. Red
+33. Limp Bizkit
+34. blink-182
+35. Tool
+36. Korn
+37. 3 Doors Down
+38. Papa Roach
+39. AC/DC
+40. Michael Jackson
+41. Gwen Stefani
+42. 浜崎あゆみ
+43. Eyes Set to Kill
+44. Rammstein
+45. Nightwish
+46. Within Temptation
+47. Epica
+48. Flyleaf
+49. Taking Back Sunday
+50. Queen
+
+These recommendations are based on the user's existing preferences and aim to provide similar artists that they may enjoy.

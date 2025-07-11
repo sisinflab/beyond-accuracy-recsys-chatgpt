@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Alchemist by Paulo Coelho
+6. The Book Thief by Markus Zusak
+7. The Kite Runner by Khaled Hosseini
+8. The Night Circus by Erin Morgenstern
+9. The Secret History by Donna Tartt
+10. The Goldfinch by Donna Tartt
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Bell Jar by Sylvia Plath
+13. One Hundred Years of Solitude by Gabriel Garcia Marquez
+14. The Shadow of the Wind by Carlos Ruiz Zafón
+15. The Name of the Wind by Patrick Rothfuss
+16. The Handmaid's Tale by Margaret Atwood
+17. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+18. The Martian by Andy Weir
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Help by Kathryn Stockett
+21. The Road by Cormac McCarthy
+22. The Giver by Lois Lowry
+23. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+24. The Lovely Bones by Alice Sebold
+25. The Hunger Games by Suzanne Collins
+26. The Fault in Our Stars by John Green
+27. The Perks of Being a Wallflower by Stephen Chbosky
+28. The Handmaid's Tale by Margaret Atwood
+29. The Road by Cormac McCarthy
+30. The Giver by Lois Lowry
+31. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+32. The Lovely Bones by Alice Sebold
+33. The Hunger Games by Suzanne Collins
+34. The Fault in Our Stars by John Green
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. The Stand by Stephen King
+37. The Shining by Stephen King
+38. The Girl on the Train by Paula Hawkins
+39. The Help by Kathryn Stockett
+40. The Secret Life of Bees by Sue Monk Kidd
+41. The Color Purple by Alice Walker
+42. The Glass Castle by Jeannette Walls
+43. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+44. The Handmaid's Tale by Margaret Atwood
+45. The Road by Cormac McCarthy
+46. The Giver by Lois Lowry
+47. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+48. The Lovely Bones by Alice Sebold
+49. The Hunger Games by Suzanne Collins
+50. The Fault in Our Stars by John Green
+
+These recommendations are based on the user's liking of the mentioned books and are aimed at providing a diverse range of genres and authors.

@@ -1,0 +1,52 @@
+Based on user 1012's preferences, here are the top 50 book recommendations:
+
+1. The Stand
+2. The Girl Who Kicked the Hornets' Nest
+3. The Queen of the Damned
+4. The God Delusion
+5. Congo (novel)
+6. The Mummy!
+7. The Talisman (Scott novel)
+8. The Host (novel)
+9. The Demon in the Freezer
+10. Servant of the Bones
+11. Sphere (novel)
+12. Eaters of the Dead
+13. Timeline (novel)
+14. Resident Evil
+15. A Great and Terrible Beauty
+16. The Andromeda Strain
+17. The Princess Diaries (novel)
+18. The Lord of the Rings
+19. The Girl with the Dragon Tattoo
+20. Harry Potter
+21. Dune (novel)
+22. Water for Elephants
+23. Into Thin Air
+24. Duma Key
+25. Northern Lights (novel)
+26. Crooked Little Vein
+27. Insomnia (novel)
+28. Misery (novel)
+29. Of Mice and Men
+30. Eragon
+31. The Outsiders (novel)
+32. Haunted (The Mediator)
+33. Brilliance of the Moon
+34. Snakehead (novel)
+35. The Dragons of Eden
+36. Bible
+37. Eagle Strike
+38. Lasher
+39. Brisingr
+40. East of Eden (novel)
+41. Gospel of Matthew
+42. Gospel of Mark
+43. Fast Food Nation
+44. The Selfish Gene
+45. Artemis Fowl (novel)
+46. The Girl Who Played with Fire
+47. I Am Legend (novel)
+48. Rhett Butler's People
+49. Higurashi When They Cry
+50. Odd Thomas (novel)

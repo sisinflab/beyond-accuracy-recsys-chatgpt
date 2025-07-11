@@ -1,0 +1,54 @@
+Based on the preferences of user 1154, here are the top 50 book recommendations:
+
+1. The Nightingale by Kristin Hannah
+2. The Kite Runner by Khaled Hosseini
+3. The Help by Kathryn Stockett
+4. The Book Thief by Markus Zusak
+5. The Lovely Bones by Alice Sebold
+6. The Glass Castle by Jeannette Walls
+7. The Alchemist by Paulo Coelho
+8. The Goldfinch by Donna Tartt
+9. The Girl on the Train by Paula Hawkins
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Catcher in the Rye by J.D. Salinger
+12. The Hunger Games by Suzanne Collins
+13. The Fault in Our Stars by John Green
+14. The Handmaid's Tale by Margaret Atwood
+15. The Martian by Andy Weir
+16. The Da Vinci Code by Dan Brown
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Help by Kathryn Stockett
+19. The Road by Cormac McCarthy
+20. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Secret History by Donna Tartt
+23. The Night Circus by Erin Morgenstern
+24. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+25. The Poisonwood Bible by Barbara Kingsolver
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Thirteenth Tale by Diane Setterfield
+28. The Art of Racing in the Rain by Garth Stein
+29. The Light Between Oceans by M.L. Stedman
+30. The Snow Child by Eowyn Ivey
+31. The Orphan Master's Son by Adam Johnson
+32. The Rosie Project by Graeme Simsion
+33. The Night Circus by Erin Morgenstern
+34. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+35. The Poisonwood Bible by Barbara Kingsolver
+36. The Shadow of the Wind by Carlos Ruiz Zafón
+37. The Thirteenth Tale by Diane Setterfield
+38. The Art of Racing in the Rain by Garth Stein
+39. The Light Between Oceans by M.L. Stedman
+40. The Snow Child by Eowyn Ivey
+41. The Orphan Master's Son by Adam Johnson
+42. The Rosie Project by Graeme Simsion
+43. The Night Circus by Erin Morgenstern
+44. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+45. The Poisonwood Bible by Barbara Kingsolver
+46. The Shadow of the Wind by Carlos Ruiz Zafón
+47. The Thirteenth Tale by Diane Setterfield
+48. The Art of Racing in the Rain by Garth Stein
+49. The Light Between Oceans by M.L. Stedman
+50. The Snow Child by Eowyn Ivey
+
+These recommendations are based on the similar themes and genres of the books that user 1154 likes.

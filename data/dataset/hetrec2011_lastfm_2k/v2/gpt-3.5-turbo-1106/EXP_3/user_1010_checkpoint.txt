@@ -1,0 +1,54 @@
+Based on user 1010's preferences, here are the top-50 recommendations for the given artists:
+
+1. David Bowie
+2. The Beatles
+3. Madonna
+4. U2
+5. INXS
+6. Pet Shop Boys
+7. Morrissey
+8. The B-52's
+9. Sigur Rós
+10. Blondie
+11. Cyndi Lauper
+12. George Harrison
+13. Simple Minds
+14. Culture Club
+15. The Cure
+16. Spandau Ballet
+17. Kim Wilde
+18. Nik Kershaw
+19. Visage
+20. Icehouse
+21. Maroon 5
+22. Muse
+23. Ladytron
+24. Scissor Sisters
+25. Nine Inch Nails
+26. Front 242
+27. Heaven 17
+28. Simply Red
+29. Girls Aloud
+30. Spice Girls
+31. Kylie Minogue
+32. Britney Spears
+33. Sugababes
+34. George Michael
+35. Wham!
+36. New Order
+37. Depeche Mode
+38. Erasure
+39. Yazoo
+40. A-ha
+41. Alphaville
+42. Duran Duran
+43. Tears for Fears
+44. The Human League
+45. Thompson Twins
+46. Soft Cell
+47. Frankie Goes to Hollywood
+48. Eurythmics
+49. Ultravox
+50. Orchestral Manoeuvres in the Dark
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for further exploration.

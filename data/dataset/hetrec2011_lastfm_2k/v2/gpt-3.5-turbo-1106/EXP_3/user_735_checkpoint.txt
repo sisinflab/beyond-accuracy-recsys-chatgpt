@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 735:
+
+1. AC/DC
+2. KISS
+3. Motörhead
+4. Alice Cooper
+5. Pearl Jam
+6. Avenged Sevenfold
+7. Slayer
+8. David Gilmour
+9. Pain
+10. Eisbrecher
+11. Queensrÿche
+12. Within Temptation
+13. Rammstein
+14. Blind Guardian
+15. HammerFall
+16. Stratovarius
+17. Avantasia
+18. Mr. Big
+19. Dokken
+20. Scorpions
+21. Toto
+22. La Roux
+23. Janet Jackson
+24. Taio Cruz
+25. Christina Aguilera
+26. Kamelot
+27. Judas Priest
+28. Nirvana
+29. Pink Floyd
+30. Edguy
+31. Paradise Lost
+32. Clint Mansell
+33. Howard Shore
+34. Eluveitie
+35. Ария
+36. Nautilus Pompilius
+37. Hans Zimmer
+38. Korpiklaani
+39. Slayer
+40. Eric Clapton
+41. Ratt
+42. Bon Jovi
+43. The Jimi Hendrix Experience
+44. Jethro Tull
+45. Korn
+46. Santana
+47. W.A.S.P.
+48. Helloween
+49. Cream
+50. Nirvana
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

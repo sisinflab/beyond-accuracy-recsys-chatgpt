@@ -1,0 +1,54 @@
+Based on user 2019's liking of artists such as John Mayer, Switchfoot, and Florence + the Machine, here is a re-ranked list of artists for top-50 recommendations:
+
+1. Coldplay
+2. Muse
+3. Radiohead
+4. The Beatles
+5. U2
+6. Nirvana
+7. Pink Floyd
+8. The Killers
+9. Arctic Monkeys
+10. Kings of Leon
+11. Mika
+12. Mumford & Sons
+13. James Morrison
+14. Ke$ha
+15. Lady Gaga
+16. Katy Perry
+17. Rihanna
+18. Madonna
+19. Christina Aguilera
+20. Britney Spears
+21. Paramore
+22. Evanescence
+23. Glee Cast
+24. Beyoncé
+25. 30 Seconds to Mars
+26. Avril Lavigne
+27. Taylor Swift
+28. Shakira
+29. Miley Cyrus
+30. Kelly Clarkson
+31. P!nk
+32. Avenged Sevenfold
+33. My Chemical Romance
+34. Green Day
+35. Linkin Park
+36. Nine Inch Nails
+37. System of a Down
+38. Metallica
+39. Iron Maiden
+40. Pearl Jam
+41. Led Zeppelin
+42. Michael Jackson
+43. Black Eyed Peas
+44. Placebo
+45. Blur
+46. Duran Duran
+47. a-ha
+48. Daft Punk
+49. The Cure
+50. Björk
+
+These recommendations are based on similar genres and styles to the artists that user 2019 likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Book Thief by Markus Zusak
+5. The Giver by Lois Lowry
+6. The Hunger Games by Suzanne Collins
+7. The Fault in Our Stars by John Green
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. The Kite Runner by Khaled Hosseini
+10. The Alchemist by Paulo Coelho
+11. The Secret Life of Bees by Sue Monk Kidd
+12. The Lovely Bones by Alice Sebold
+13. The Help by Kathryn Stockett
+14. The Girl on the Train by Paula Hawkins
+15. The Night Circus by Erin Morgenstern
+16. The Goldfinch by Donna Tartt
+17. The Handmaid's Tale by Margaret Atwood
+18. The Bell Jar by Sylvia Plath
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Secret Garden by Frances Hodgson Burnett
+21. The Little Prince by Antoine de Saint-Exupéry
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Hobbit by J.R.R. Tolkien
+24. The Lord of the Rings by J.R.R. Tolkien
+25. The Da Vinci Code by Dan Brown
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Help by Kathryn Stockett
+28. The Road by Cormac McCarthy
+29. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+30. The Glass Castle by Jeannette Walls
+31. The Color Purple by Alice Walker
+32. The Joy Luck Club by Amy Tan
+33. The Poisonwood Bible by Barbara Kingsolver
+34. The Secret History by Donna Tartt
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Thorn Birds by Colleen McCullough
+37. The Shadow of the Wind by Carlos Ruiz Zafón
+38. The Nightingale by Kristin Hannah
+39. The Light Between Oceans by M.L. Stedman
+40. The Martian by Andy Weir
+41. The Help by Kathryn Stockett
+42. The Glass Castle by Jeannette Walls
+43. The Color Purple by Alice Walker
+44. The Joy Luck Club by Amy Tan
+45. The Poisonwood Bible by Barbara Kingsolver
+46. The Secret History by Donna Tartt
+47. The Time Traveler's Wife by Audrey Niffenegger
+48. The Thorn Birds by Colleen McCullough
+49. The Shadow of the Wind by Carlos Ruiz Zafón
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's preference for classic literature, young adult fiction, and coming-of-age stories.

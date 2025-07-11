@@ -1,0 +1,54 @@
+Based on user 96's preferences, here are the top 50 recommendations:
+
+1. Michael Jackson
+2. Prince
+3. Whitney Houston
+4. George Michael
+5. Cyndi Lauper
+6. Duran Duran
+7. Janet Jackson
+8. David Bowie
+9. The Bangles
+10. Eurythmics
+11. Pet Shop Boys
+12. Depeche Mode
+13. Blondie
+14. The Police
+15. Fleetwood Mac
+16. Queen
+17. The Cure
+18. A-ha
+19. Roxette
+20. Billy Joel
+21. Tina Turner
+22. Phil Collins
+23. Kate Bush
+24. The Human League
+25. Simple Minds
+26. The Cars
+27. Pat Benatar
+28. Talking Heads
+29. The Pretenders
+30. Billy Idol
+31. The Go-Go's
+32. The B-52's
+33. Culture Club
+34. Madonna
+35. ABBA
+36. Icehouse
+37. Kelly Rowland
+38. Alanis Morissette
+39. Hall & Oates
+40. The Pussycat Dolls
+41. Thompson Twins
+42. Beyoncé
+43. Maroon 5
+44. Jeff Buckley
+45. Elton John
+46. Tears for Fears
+47. Skid Row
+48. Toto
+49. Spandau Ballet
+50. Britney Spears
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fleet Foxes
+2. The Shins
+3. Belle and Sebastian
+4. Vampire Weekend
+5. Regina Spektor
+6. The Decemberists
+7. Beirut
+8. Arcade Fire
+9. The National
+10. Death Cab for Cutie
+11. Grizzly Bear
+12. The xx
+13. Beach House
+14. Animal Collective
+15. Bonobo
+16. Lykke Li
+17. The Postal Service
+18. Tame Impala
+19. HAIM
+20. Lorde
+21. Florence + The Machine
+22. Lana Del Rey
+23. Hozier
+24. CHVRCHES
+25. Alt-J
+26. London Grammar
+27. The War on Drugs
+28. St. Vincent
+29. Father John Misty
+30. Mitski
+31. Angel Olsen
+32. Sharon Van Etten
+33. Courtney Barnett
+34. Mitski
+35. Sylvan Esso
+36. Big Thief
+37. Snail Mail
+38. Soccer Mommy
+39. Japanese Breakfast
+40. Phoebe Bridgers
+41. Lucy Dacus
+42. Waxahatchee
+43. Julien Baker
+44. FKA twigs
+45. Mitski
+46. Snail Mail
+47. Soccer Mommy
+48. Japanese Breakfast
+49. Phoebe Bridgers
+50. Lucy Dacus
+
+These recommendations are based on the user's liking of indie, folk, and alternative artists, as well as some pop and R&B influences.

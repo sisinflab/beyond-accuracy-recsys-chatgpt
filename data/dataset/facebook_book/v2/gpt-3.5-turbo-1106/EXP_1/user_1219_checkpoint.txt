@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. Harry Potter series by J.K. Rowling
+3. The Hunger Games series by Suzanne Collins
+4. Eragon by Christopher Paolini
+5. Percy Jackson & the Olympians series by Rick Riordan
+6. The Maze Runner series by James Dashner
+7. Divergent series by Veronica Roth
+8. The Giver by Lois Lowry
+9. The Golden Compass by Philip Pullman
+10. The Lightning Thief by Rick Riordan
+11. The Alchemist by Paulo Coelho
+12. The Catcher in the Rye by J.D. Salinger
+13. To Kill a Mockingbird by Harper Lee
+14. The Great Gatsby by F. Scott Fitzgerald
+15. The Catcher in the Rye by J.D. Salinger
+16. The Book Thief by Markus Zusak
+17. The Fault in Our Stars by John Green
+18. The Perks of Being a Wallflower by Stephen Chbosky
+19. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Kite Runner by Khaled Hosseini
+22. The Help by Kathryn Stockett
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Girl on the Train by Paula Hawkins
+25. Gone Girl by Gillian Flynn
+26. The Night Circus by Erin Morgenstern
+27. The Name of the Wind by Patrick Rothfuss
+28. The Shadow of the Wind by Carlos Ruiz Zafón
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Lovely Bones by Alice Sebold
+31. The Girl with the Pearl Earring by Tracy Chevalier
+32. The Secret History by Donna Tartt
+33. The Goldfinch by Donna Tartt
+34. The Martian by Andy Weir
+35. Ready Player One by Ernest Cline
+36. Dark Matter by Blake Crouch
+37. The Silent Patient by Alex Michaelides
+38. Where the Crawdads Sing by Delia Owens
+39. Educated by Tara Westover
+40. Little Fires Everywhere by Celeste Ng
+41. The Nightingale by Kristin Hannah
+42. All the Light We Cannot See by Anthony Doerr
+43. The Tattooist of Auschwitz by Heather Morris
+44. The Alice Network by Kate Quinn
+45. The Nightingale by Kristin Hannah
+46. The Light Between Oceans by M.L. Stedman
+47. The Glass Castle by Jeannette Walls
+48. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+49. The Underground Railroad by Colson Whitehead
+50. The Invention of Wings by Sue Monk Kidd
+
+These recommendations are based on the user's interest in fantasy, mystery, adventure, and classic literature.

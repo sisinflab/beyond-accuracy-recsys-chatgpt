@@ -1,0 +1,52 @@
+Based on user 234's preferences, here are the top 50 book recommendations:
+
+1. Thus Spoke Zarathustra by Friedrich Nietzsche
+2. Brave New World by Aldous Huxley
+3. A Confederacy of Dunces by John Kennedy Toole
+4. Dune (novel) by Frank Herbert
+5. The Stranger (novel)
+6. The Communist Manifesto
+7. Nineteen Eighty-Four
+8. The Hunger Games
+9. The Giver
+10. Romeo and Juliet
+11. The Hobbit
+12. Ulysses (novel)
+13. The Fountainhead
+14. The Grapes of Wrath
+15. Don Quixote
+16. A Series of Unfortunate Events
+17. Speak (novel)
+18. A Light in the Attic
+19. The Universe in a Nutshell
+20. Self-Reliance
+21. Misery (novel)
+22. Lord of the Flies
+23. The Hunchback of Notre-Dame
+24. High Fidelity (novel)
+25. Breakfast at Tiffany's (novella)
+26. The Hamlet
+27. Earthsea
+28. Girl, Interrupted
+29. The Girl Who Played with Fire
+30. A Memory of Light
+31. Manga
+32. A Midsummer Night's Dream
+33. Johnny Got His Gun
+34. The Umbrella Academy
+35. Night (book)
+36. Blindness (novel)
+37. Go Ask Alice
+38. Requiem for a Dream (novel)
+39. Atlas Shrugged
+40. Starship Troopers
+41. D.Gray-man
+42. The Communist Manifesto
+43. The Phantom Tollbooth
+44. A Christmas Carol
+45. Disco Bloodbath
+46. Uglies
+47. Symposium (Plato)
+48. Cirque du Freak
+49. The Social Contract
+50. The Hitchhiker's Guide to the Galaxy (novel)

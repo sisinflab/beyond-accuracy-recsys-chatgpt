@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Metallica
+2. Iron Maiden
+3. Slayer
+4. Machine Head
+5. Sepultura
+6. Arch Enemy
+7. Children of Bodom
+8. Kreator
+9. In Flames
+10. Dimmu Borgir
+11. Hatebreed
+12. Cannibal Corpse
+13. Bloodbath
+14. Hypocrisy
+15. Vader
+16. 12 Stones
+17. Nirvana
+18. Pearl Jam
+19. Led Zeppelin
+20. Black Sabbath
+21. Judas Priest
+22. Megadeth
+23. Pantera
+24. Anthrax
+25. Lamb of God
+26. Testament
+27. Exodus
+28. Overkill
+29. Death
+30. Morbid Angel
+31. Carcass
+32. Obituary
+33. Entombed
+34. At the Gates
+35. Dark Tranquillity
+36. Opeth
+37. Meshuggah
+38. Gojira
+39. Mastodon
+40. Behemoth
+41. Amon Amarth
+42. Sabaton
+43. Nightwish
+44. Epica
+45. Within Temptation
+46. Lacuna Coil
+47. Amorphis
+48. Soilwork
+49. Arch Enemy
+50. Dark Funeral
+
+This list is based on the user's liking of heavy metal and related genres, and the recommendations are made to align with their preferences.

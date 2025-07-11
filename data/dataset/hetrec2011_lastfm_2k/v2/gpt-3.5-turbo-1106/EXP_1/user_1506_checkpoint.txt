@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The National
+2. Arctic Monkeys
+3. The Strokes
+4. The Cure
+5. Franz Ferdinand
+6. The Libertines
+7. The Jesus and Mary Chain
+8. Echo & the Bunnymen
+9. The War on Drugs
+10. Tame Impala
+11. The Horrors
+12. Editors
+13. The Psychedelic Furs
+14. New Order
+15. The Charlatans
+16. The Verve
+17. The Stone Roses
+18. Slowdive
+19. My Bloody Valentine
+20. Ride
+21. The Jesus and Mary Chain
+22. The Chameleons
+23. The Sound
+24. The Teardrop Explodes
+25. The House of Love
+26. The Wedding Present
+27. The Smithereens
+28. The Replacements
+29. The Feelies
+30. The dB's
+31. The Go-Betweens
+32. The Chills
+33. The Clean
+34. The Bats
+35. The Verlaines
+36. The Triffids
+37. The Church
+38. The Goon Sax
+39. The Saints
+40. The Easybeats
+41. The Hoodoo Gurus
+42. The Sunnyboys
+43. The Scientists
+44. The Triffids
+45. The Birthday Party
+46. The Boys Next Door
+47. The Go-Betweens
+48. The Apartments
+49. The Church
+50. The Hummingbirds
+
+These recommendations are based on the user's liking of similar artists and genres.

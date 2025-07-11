@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. LCD Soundsystem
+2. Moby
+3. Hot Chip
+4. Simian Mobile Disco
+5. Soulwax
+6. Basement Jaxx
+7. Groove Armada
+8. The Presets
+9. Cut Copy
+10. Trentemøller
+11. Caribou
+12. Crystal Castles
+13. The Knife
+14. Air
+15. Boards of Canada
+16. Goldfrapp
+17. Röyksopp
+18. Digitalism
+19. The Chemical Brothers
+20. Daft Punk
+21. Underworld
+22. Orbital
+23. The Prodigy
+24. Justice
+25. The Bloody Beetroots
+26. Calvin Harris
+27. Prefuse 73
+28. Fatboy Slim
+29. Radiohead
+30. Capsule
+31. Aphex Twin
+32. Cansei de Ser Sexy
+33. Klaxons
+34. Squarepusher
+35. Gorillaz
+36. Flume
+37. Tame Impala
+38. Grimes
+39. Purity Ring
+40. CHVRCHES
+41. Empire of the Sun
+42. Phoenix
+43. Foster the People
+44. Passion Pit
+45. The xx
+46. Vampire Weekend
+47. Arctic Monkeys
+48. Foals
+49. Two Door Cinema Club
+50. The Strokes
+
+These recommendations are based on the user's liking of electronic, dance, and alternative artists, and include similar artists and bands that the user might enjoy based on their preferences.

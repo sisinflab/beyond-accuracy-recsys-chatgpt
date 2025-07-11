@@ -1,0 +1,54 @@
+Based on the preferences of user 320, here are the top 50 recommendations for the given artists:
+
+1. The Beatles
+2. The Who
+3. Johnny Cash
+4. Queen
+5. The Smiths
+6. Joy Division
+7. The Cure
+8. Elvis Presley
+9. Modest Mouse
+10. Stars
+11. Thievery Corporation
+12. Regina Spektor
+13. Goldfrapp
+14. Gorillaz
+15. VNV Nation
+16. Demi Lovato
+17. John Lee Hooker
+18. HorrorPops
+19. Apoptygma Berzerk
+20. Frank Sinatra
+21. Grace Jones
+22. Duran Duran
+23. God Is an Astronaut
+24. John Mayer
+25. Dave Matthews Band
+26. Timbaland
+27. Carrie Underwood
+28. Keith Urban
+29. Lynyrd Skynyrd
+30. Jimmy Eat World
+31. Fall Out Boy
+32. Siouxsie and the Banshees
+33. The Jesus and Mary Chain
+34. Nitzer Ebb
+35. AC/DC
+36. Hilary Duff
+37. Recoil
+38. Sublime
+39. Buddy Holly
+40. Incubus
+41. Chuck Berry
+42. Brad Paisley
+43. Nine Inch Nails
+44. Kate Bush
+45. Coldplay
+46. Madonna
+47. Kasabian
+48. Marilyn Manson
+49. Eric Clapton
+50. Foo Fighters
+
+These recommendations are based on similar genres and artists liked by user 320.

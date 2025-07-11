@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 308:
+
+1. Muse
+2. Iron Maiden
+3. Led Zeppelin
+4. System of a Down
+5. Metallica
+6. Nirvana
+7. Pink Floyd
+8. The Beatles
+9. Radiohead
+10. Linkin Park
+11. Green Day
+12. My Chemical Romance
+13. Avenged Sevenfold
+14. Nine Inch Nails
+15. Black Eyed Peas
+16. The Killers
+17. Coldplay
+18. Paramore
+19. 30 Seconds to Mars
+20. Evanescence
+21. Glee Cast
+22. Katy Perry
+23. Lady Gaga
+24. Rihanna
+25. Britney Spears
+26. Madonna
+27. Christina Aguilera
+28. Shakira
+29. Avril Lavigne
+30. Taylor Swift
+31. Beyoncé
+32. U2
+33. Ke$ha
+34. Miley Cyrus
+35. Kylie Minogue
+36. Michael Jackson
+37. Amy Winehouse
+38. Kelly Clarkson
+39. P!nk
+40. The Cure
+41. Depeche Mode
+42. Duran Duran
+43. Arctic Monkeys
+44. Placebo
+45. Blur
+46. a-ha
+47. Björk
+48. Daft Punk
+49. Madonna
+50. Pearl Jam
+
+These recommendations are based on the user's liking of similar artists and are ranked accordingly.

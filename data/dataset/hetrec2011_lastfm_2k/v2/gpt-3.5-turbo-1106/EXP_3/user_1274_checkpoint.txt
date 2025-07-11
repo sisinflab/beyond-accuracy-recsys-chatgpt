@@ -1,0 +1,54 @@
+Based on user 1274's preferences, here are the top-50 recommendations for the listed artists:
+
+1. The Beatles
+2. The Rolling Stones
+3. Led Zeppelin
+4. Pink Floyd
+5. Nirvana
+6. The Doors
+7. Metallica
+8. Aerosmith
+9. Queen
+10. Black Sabbath
+11. Jimi Hendrix
+12. U2
+13. The Who
+14. Guns N' Roses
+15. Red Hot Chili Peppers
+16. Pearl Jam
+17. AC/DC
+18. Van Halen
+19. The Clash
+20. Fleetwood Mac
+21. Rush
+22. The White Stripes
+23. Soundgarden
+24. Alice Cooper
+25. Cream
+26. The Jimi Hendrix Experience
+27. Boston
+28. The Cure
+29. Stone Temple Pilots
+30. The Rolling Stones
+31. ZZ Top
+32. Bruce Springsteen
+33. Eric Clapton
+34. Heart
+35. Deep Purple
+36. P!nk
+37. Elton John
+38. Stevie Ray Vaughan and Double Trouble
+39. Bon Jovi
+40. Joan Jett and the Blackhearts
+41. Eagles
+42. Neil Young
+43. Fleetwood Mac
+44. Van Morrison
+45. Black Label Society
+46. Black Sabbath
+47. Scorpions
+48. The Doors
+49. Green Day
+50. Metallica
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for further exploration.

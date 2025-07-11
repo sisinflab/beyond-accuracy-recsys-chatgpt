@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Angels & Demons by Dan Brown
+2. The Lost Symbol by Dan Brown
+3. Inferno by Dan Brown
+4. Deception Point by Dan Brown
+5. Digital Fortress by Dan Brown
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Girl Who Played with Fire by Stieg Larsson
+8. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+9. The Hunger Games by Suzanne Collins
+10. Catching Fire by Suzanne Collins
+11. Mockingjay by Suzanne Collins
+12. Divergent by Veronica Roth
+13. Insurgent by Veronica Roth
+14. Allegiant by Veronica Roth
+15. The Maze Runner by James Dashner
+16. The Scorch Trials by James Dashner
+17. The Death Cure by James Dashner
+18. The Giver by Lois Lowry
+19. Gathering Blue by Lois Lowry
+20. Messenger by Lois Lowry
+21. Son by Lois Lowry
+22. The Alchemist by Paulo Coelho
+23. Brida by Paulo Coelho
+24. Eleven Minutes by Paulo Coelho
+25. The Zahir by Paulo Coelho
+26. The Hobbit by J.R.R. Tolkien
+27. The Lord of the Rings by J.R.R. Tolkien
+28. The Silmarillion by J.R.R. Tolkien
+29. The Children of Húrin by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Magician's Nephew by C.S. Lewis
+32. The Lion, the Witch and the Wardrobe by C.S. Lewis
+33. The Horse and His Boy by C.S. Lewis
+34. Prince Caspian by C.S. Lewis
+35. The Voyage of the Dawn Treader by C.S. Lewis
+36. The Silver Chair by C.S. Lewis
+37. The Last Battle by C.S. Lewis
+38. The Golden Compass by Philip Pullman
+39. The Subtle Knife by Philip Pullman
+40. The Amber Spyglass by Philip Pullman
+41. Twilight by Stephenie Meyer
+42. New Moon by Stephenie Meyer
+43. Eclipse by Stephenie Meyer
+44. Breaking Dawn by Stephenie Meyer
+45. Midnight Sun by Stephenie Meyer
+46. The Host by Stephenie Meyer
+47. The Chemist by Stephenie Meyer
+48. The Short Second Life of Bree Tanner by Stephenie Meyer
+49. Life and Death: Twilight Reimagined by Stephenie Meyer
+50. The Twilight Saga: The Official Illustrated Guide by Stephenie Meyer
+
+These recommendations are based on the user's interest in books by Dan Brown, J.R.R. Tolkien, and vampire-themed books.

@@ -1,0 +1,54 @@
+Based on user 1173's preferences, here are the top-50 recommendations for them:
+
+1. Radiohead
+2. Depeche Mode
+3. Nine Inch Nails
+4. The Beatles
+5. Talking Heads
+6. Joy Division
+7. Pet Shop Boys
+8. Massive Attack
+9. LCD Soundsystem
+10. The Smiths
+11. R.E.M.
+12. David Bowie
+13. My Bloody Valentine
+14. Air
+15. Aphex Twin
+16. Boards of Canada
+17. Primal Scream
+18. Hot Chip
+19. Animal Collective
+20. Saint Etienne
+21. XTC
+22. Serge Gainsbourg
+23. Electronic
+24. Cabaret Voltaire
+25. The Jesus and Mary Chain
+26. M83
+27. Yeah Yeah Yeahs
+28. Crystal Castles
+29. Madonna
+30. Lady Gaga
+31. Beyoncé
+32. Rihanna
+33. Britney Spears
+34. Shakira
+35. Christina Aguilera
+36. Kylie Minogue
+37. Katy Perry
+38. Taylor Swift
+39. Paramore
+40. Avril Lavigne
+41. Glee Cast
+42. U2
+43. Muse
+44. Pink Floyd
+45. 30 Seconds to Mars
+46. Ke$ha
+47. Duran Duran
+48. Coldplay
+49. Blur
+50. Arctic Monkeys
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

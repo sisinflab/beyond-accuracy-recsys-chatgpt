@@ -1,0 +1,52 @@
+Based on user 315's preferences, here are the top 50 book recommendations:
+
+1. Neuromancer
+2. Ender's Game
+3. The Name of the Wind
+4. The Dark Tower: The Gunslinger
+5. A Clockwork Orange
+6. Brave New World
+7. The Stainless Steel Rat
+8. Foundation (novel)
+9. Xenocide
+10. The Ruins (novel)
+11. The Castle of Otranto
+12. Batman: Year One
+13. Dracula
+14. Paradise Lost
+15. The Zombie Survival Guide
+16. Halo: Ghosts of Onyx
+17. Halo: The Flood
+18. Good Omens
+19. The Hunger Games
+20. Catching Fire
+21. The Watchmen (novel)
+22. The Prince
+23. Les Fleurs du mal
+24. The Art of Deception
+25. The Crying of Lot 49
+26. Macbeth
+27. Never Let Me Go (novel)
+28. Johnny the Homicidal Maniac
+29. I, Robot
+30. John Dies at the End
+31. The Sirens of Titan
+32. Nightmares & Dreamscapes
+33. On Writing
+34. Armor (novel)
+35. Divine Comedy
+36. Peter and the Shadow Thieves
+37. Children of the Mind
+38. Journey to the West
+39. Looking for Alaska
+40. Sin City
+41. Ulysses (novel)
+42. Winnie-the-Pooh (book)
+43. Old Man's War
+44. Batman: The Killing Joke
+45. Twilight (series)
+46. Waiting for Godot
+47. Harry Potter
+48. Through the Looking-Glass
+49. The Raw Shark Texts
+50. Zen and the Art of Motorcycle Maintenance

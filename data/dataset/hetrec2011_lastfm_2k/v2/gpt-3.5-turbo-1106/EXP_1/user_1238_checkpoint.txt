@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. David Bowie
+2. Patti Smith
+3. Joy Division
+4. The Cure
+5. Nick Cave and the Bad Seeds
+6. Arcade Fire
+7. Sonic Youth
+8. PJ Harvey
+9. The Strokes
+10. Talking Heads
+11. The Clash
+12. Beck
+13. Interpol
+14. The Smithereens
+15. R.E.M.
+16. The National
+17. The Kinks
+18. The Doors
+19. The Black Keys
+20. Fleetwood Mac
+21. The War on Drugs
+22. Tame Impala
+23. The Libertines
+24. The Jesus and Mary Chain
+25. The Replacements
+26. The Stone Roses
+27. The Shins
+28. Modest Mouse
+29. Spoon
+30. The Flaming Lips
+31. The White Stripes
+32. The Raconteurs
+33. The Kills
+34. The Dead Weather
+35. The Black Angels
+36. The Brian Jonestown Massacre
+37. The Horrors
+38. The Raveonettes
+39. The Verve
+40. The Charlatans
+41. The Psychedelic Furs
+42. The Church
+43. The Chameleons
+44. The Sound
+45. The Teardrop Explodes
+46. The House of Love
+47. The Jesus and Mary Chain
+48. The Mission
+49. The Sisters of Mercy
+50. The Cult
+
+These recommendations are based on the user's liking of similar artists and genres.

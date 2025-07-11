@@ -1,0 +1,54 @@
+Based on user 987's preferences, here are the top-50 book recommendations:
+
+1. The Stranger (novel)
+2. Lolita
+3. The Myth of Sisyphus
+4. The Giver
+5. The Doors of Perception
+6. The God Delusion
+7. Divine Comedy
+8. Complete Works of Shakespeare
+9. The Electric Kool-Aid Acid Test
+10. White Noise (novel)
+11. The Cricket in Times Square
+12. Matilda (novel)
+13. A Light in the Attic
+14. The Return of the King
+15. Blood Meridian
+16. The Shack
+17. Inferno (Dante)
+18. On the Road
+19. The Witch of Portobello
+20. The Unbearable Lightness of Being
+21. One Hundred Years of Solitude
+22. Iliad
+23. At Swim, Two Boys
+24. Bhagavad Gita
+25. The Prodigal Daughter
+26. Through the Looking-Glass
+27. The Plague
+28. Strange Case of Dr Jekyll and Mr Hyde
+29. The Chronicles of Narnia: Prince Caspian
+30. Brave New World
+31. Franny and Zooey
+32. Leaves of Grass
+33. Fingersmith (novel)
+34. The Last Unicorn
+35. The Fellowship of the Ring
+36. Wuthering Heights
+37. Harry Potter
+38. Red Inferno: 1945
+39. The Good Earth
+40. The Little Prince
+41. Nineteen Eighty-Four
+42. Like Water for Chocolate
+43. Infinite Jest
+44. The Namesake
+45. The Catcher in the Rye
+46. The Mists of Avalon
+47. Life of Pi
+48. Pride and Prejudice
+49. Affinity (novel)
+50. To Kill a Mockingbird
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of books that align with their interests.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. Delirium by Lauren Oliver
+3. The Maze Runner by James Dashner
+4. The Selection by Kiera Cass
+5. Legend by Marie Lu
+6. The 5th Wave by Rick Yancey
+7. Shatter Me by Tahereh Mafi
+8. The Darkest Minds by Alexandra Bracken
+9. Cinder by Marissa Meyer
+10. The Host by Stephenie Meyer
+11. The Knife of Never Letting Go by Patrick Ness
+12. The City of Ember by Jeanne DuPrau
+13. The Uglies Series by Scott Westerfeld
+14. The Giver Quartet by Lois Lowry
+15. The Lunar Chronicles by Marissa Meyer
+16. The Testing by Joelle Charbonneau
+17. The Delirium Series by Lauren Oliver
+18. The Matched Trilogy by Ally Condie
+19. The Chaos Walking Trilogy by Patrick Ness
+20. The Legend Series by Marie Lu
+21. The 5th Wave Series by Rick Yancey
+22. The Shatter Me Series by Tahereh Mafi
+23. The Darkest Minds Series by Alexandra Bracken
+24. The Cinder Series by Marissa Meyer
+25. The Host Series by Stephenie Meyer
+26. The Maze Runner Series by James Dashner
+27. The Selection Series by Kiera Cass
+28. The City of Ember Series by Jeanne DuPrau
+29. The Matched Series by Ally Condie
+30. The Testing Series by Joelle Charbonneau
+31. The Chaos Walking Series by Patrick Ness
+32. The Lunar Chronicles Series by Marissa Meyer
+33. The Hunger Games Series by Suzanne Collins
+34. The Beautiful Creatures Series by Kami Garcia and Margaret Stohl
+35. The Last Days by Andrew Masterson
+36. The Twilight Saga by Stephenie Meyer
+37. The Mortal Instruments Series by Cassandra Clare
+38. The Infernal Devices Series by Cassandra Clare
+39. The Harry Potter Series by J.K. Rowling
+40. The Percy Jackson Series by Rick Riordan
+41. The Chronicles of Narnia by C.S. Lewis
+42. The Lord of the Rings Series by J.R.R. Tolkien
+43. The Hobbit by J.R.R. Tolkien
+44. The Hunger Games by Suzanne Collins
+45. The Giver by Lois Lowry
+46. The Last Days by Andrew Masterson
+47. The Maze Runner by James Dashner
+48. The Host by Stephenie Meyer
+49. The City of Ember by Jeanne DuPrau
+50. The Uglies by Scott Westerfeld
+
+These recommendations are based on the user's interest in dystopian and young adult fiction.

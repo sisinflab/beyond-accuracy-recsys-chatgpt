@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Maze Runner by James Dashner
+2. Uglies by Scott Westerfeld
+3. The Giver by Lois Lowry
+4. The Hunger Games by Suzanne Collins
+5. Divergent by Veronica Roth
+6. The Knife of Never Letting Go by Patrick Ness
+7. The 5th Wave by Rick Yancey
+8. The Darkest Minds by Alexandra Bracken
+9. Legend by Marie Lu
+10. Delirium by Lauren Oliver
+11. The Selection by Kiera Cass
+12. Matched by Ally Condie
+13. The Testing by Joelle Charbonneau
+14. Red Queen by Victoria Aveyard
+15. Cinder by Marissa Meyer
+16. Shatter Me by Tahereh Mafi
+17. The Host by Stephenie Meyer
+18. The Lunar Chronicles by Marissa Meyer
+19. The Mortal Instruments: City of Fallen Angels by Cassandra Clare
+20. The 100 by Kass Morgan
+21. The Fifth Wave by Rick Yancey
+22. The Unbecoming of Mara Dyer by Michelle Hodkin
+23. The Program by Suzanne Young
+24. The Chemical Garden Trilogy by Lauren DeStefano
+25. The Delirium Trilogy by Lauren Oliver
+26. The Darkest Minds Series by Alexandra Bracken
+27. The Selection Series by Kiera Cass
+28. The Maze Runner Series by James Dashner
+29. The Giver Quartet by Lois Lowry
+30. The Hunger Games Trilogy by Suzanne Collins
+31. The Divergent Series by Veronica Roth
+32. The Knife of Never Letting Go by Patrick Ness
+33. The 5th Wave Series by Rick Yancey
+34. The Legend Series by Marie Lu
+35. The Matched Trilogy by Ally Condie
+36. The Testing Trilogy by Joelle Charbonneau
+37. The Red Queen Series by Victoria Aveyard
+38. The Cinder Series by Marissa Meyer
+39. The Shatter Me Series by Tahereh Mafi
+40. The Host Series by Stephenie Meyer
+41. The Lunar Chronicles Series by Marissa Meyer
+42. The Mortal Instruments Series by Cassandra Clare
+43. The 100 Series by Kass Morgan
+44. The Unbecoming of Mara Dyer Series by Michelle Hodkin
+45. The Program Series by Suzanne Young
+46. The Chemical Garden Series by Lauren DeStefano
+47. The Delirium Series by Lauren Oliver
+48. The Darkest Minds Series by Alexandra Bracken
+49. The Selection Series by Kiera Cass
+50. The Maze Runner Series by James Dashner
+
+These recommendations are based on the user's interest in dystopian and young adult fiction.

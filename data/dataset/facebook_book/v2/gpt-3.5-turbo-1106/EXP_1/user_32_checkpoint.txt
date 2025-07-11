@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Night Circus by Erin Morgenstern
+2. The Alchemist by Paulo Coelho
+3. The Shadow of the Wind by Carlos Ruiz Zafón
+4. The Secret History by Donna Tartt
+5. The Goldfinch by Donna Tartt
+6. The Name of the Wind by Patrick Rothfuss
+7. The Secret Life of Bees by Sue Monk Kidd
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Help by Kathryn Stockett
+10. The Catcher in the Rye by J.D. Salinger
+11. The Great Gatsby by F. Scott Fitzgerald
+12. To Kill a Mockingbird by Harper Lee
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. The Handmaid's Tale by Margaret Atwood
+16. The Bell Jar by Sylvia Plath
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Road by Cormac McCarthy
+19. The Martian by Andy Weir
+20. The Hunger Games by Suzanne Collins
+21. Catching Fire by Suzanne Collins
+22. Mockingjay by Suzanne Collins
+23. Divergent by Veronica Roth
+24. Insurgent by Veronica Roth
+25. Allegiant by Veronica Roth
+26. The Maze Runner by James Dashner
+27. The Scorch Trials by James Dashner
+28. The Death Cure by James Dashner
+29. The Giver by Lois Lowry
+30. Gathering Blue by Lois Lowry
+31. Messenger by Lois Lowry
+32. Son by Lois Lowry
+33. The Book of Lost Things by John Connolly
+34. The Lovely Bones by Alice Sebold
+35. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+36. Life of Pi by Yann Martel
+37. The Glass Castle by Jeannette Walls
+38. The Road Less Traveled by M. Scott Peck
+39. The Perks of Being a Wallflower by Stephen Chbosky
+40. The Fault in Our Stars by John Green
+41. Looking for Alaska by John Green
+42. Paper Towns by John Green
+43. An Abundance of Katherines by John Green
+44. The Catcher Was a Spy by Nicholas Dawidoff
+45. The Nightingale by Kristin Hannah
+46. All the Light We Cannot See by Anthony Doerr
+47. The Night Manager by John le Carré
+48. The Night Watch by Sarah Waters
+49. The Night Circus by Erin Morgenstern
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's preference for fiction, including contemporary and classic literature, as well as some fantasy and science fiction.

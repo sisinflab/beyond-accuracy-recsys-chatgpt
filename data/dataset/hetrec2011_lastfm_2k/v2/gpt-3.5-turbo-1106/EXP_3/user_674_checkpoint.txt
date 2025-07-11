@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. Rihanna
+2. Avril Lavigne
+3. The Pussycat Dolls
+4. Christina Aguilera
+5. Shakira
+6. Madonna
+7. Beyoncé
+8. Lady Gaga
+9. Jessie J
+10. Adele
+11. Kylie Minogue
+12. Little Boots
+13. La Roux
+14. 4minute
+15. BoA
+16. Girlicious
+17. Nicole Scherzinger
+18. Ke$ha
+19. Cheryl Cole
+20. 동방신기
+21. Akon
+22. Florence + the Machine
+23. Katy Perry
+24. Pixie Lott
+25. P!nk
+26. Miley Cyrus
+27. Black Eyed Peas
+28. Hannah Montana
+29. Leighton Meester
+30. Natalia Kills
+31. B2ST
+32. Willow Smith
+33. Britney Spears
+34. Dev
+35. Gwen Stefani
+36. t.A.T.u.
+37. Selena Gomez & the Scene
+38. Jeffree Star
+39. Cascada
+40. Ashlee Simpson
+41. Vanessa Hudgens
+42. The Killers
+43. Lily Allen
+44. Robyn
+45. nevershoutnever!
+46. Emily Osment
+47. Ciara
+48. Marina & the Diamonds
+49. Nelly Furtado
+50. Kerli
+
+This ranking is based on the similarity of the recommended artists to the user's known preferences.

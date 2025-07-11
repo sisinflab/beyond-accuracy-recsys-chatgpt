@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The National
+2. Bon Iver
+3. The Shins
+4. Death Cab for Cutie
+5. The Decemberists
+6. Sufjan Stevens
+7. Iron & Wine
+8. The Avett Brothers
+9. Band of Horses
+10. The Tallest Man on Earth
+11. Beirut
+12. Father John Misty
+13. First Aid Kit
+14. The War on Drugs
+15. Fleetwood Mac
+16. Hozier
+17. The Lumineers
+18. Vance Joy
+19. Of Monsters and Men
+20. The Head and the Heart
+21. Lord Huron
+22. The Paper Kites
+23. The Staves
+24. Ben Howard
+25. José González
+26. Angus & Julia Stone
+27. Laura Marling
+28. Gregory Alan Isakov
+29. Phoebe Bridgers
+30. Big Thief
+31. Sharon Van Etten
+32. Angel Olsen
+33. Mitski
+34. Julien Baker
+35. Lucy Dacus
+36. Waxahatchee
+37. Soccer Mommy
+38. Snail Mail
+39. Japanese Breakfast
+40. Courtney Barnett
+41. Car Seat Headrest
+42. Pinegrove
+43. Hop Along
+44. The Mountain Goats
+45. The New Pornographers
+46. Neko Case
+47. Rilo Kiley
+48. Jenny Lewis
+49. Tegan and Sara
+50. Sleater-Kinney
+
+These recommendations are based on the user's liking of indie, folk, and alternative rock artists, and are aimed at providing a diverse range of similar artists for the user to explore.

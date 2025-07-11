@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Brave New World by Aldous Huxley
+5. One Flew Over the Cuckoo's Nest by Ken Kesey
+6. The Bell Jar by Sylvia Plath
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Road by Cormac McCarthy
+9. The Kite Runner by Khaled Hosseini
+10. The Handmaid's Tale by Margaret Atwood
+11. The Stranger by Albert Camus
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Sun Also Rises by Ernest Hemingway
+14. The Grapes of Wrath by John Steinbeck
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Alchemist by Paulo Coelho
+17. The Book Thief by Markus Zusak
+18. The Secret History by Donna Tartt
+19. The Goldfinch by Donna Tartt
+20. The Night Circus by Erin Morgenstern
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Name of the Wind by Patrick Rothfuss
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Poisonwood Bible by Barbara Kingsolver
+25. The Lovely Bones by Alice Sebold
+26. The Help by Kathryn Stockett
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Hunger Games by Suzanne Collins
+29. The Road by Cormac McCarthy
+30. The Martian by Andy Weir
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Shining by Stephen King
+33. The Stand by Stephen King
+34. The Da Vinci Code by Dan Brown
+35. The Girl on the Train by Paula Hawkins
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Handmaid's Tale by Margaret Atwood
+38. The Help by Kathryn Stockett
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Hunger Games by Suzanne Collins
+41. The Road by Cormac McCarthy
+42. The Martian by Andy Weir
+43. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+44. The Shining by Stephen King
+45. The Stand by Stephen King
+46. The Da Vinci Code by Dan Brown
+47. The Girl on the Train by Paula Hawkins
+48. The Time Traveler's Wife by Audrey Niffenegger
+49. The Handmaid's Tale by Margaret Atwood
+50. The Help by Kathryn Stockett
+
+These recommendations are based on the user's preference for literary fiction, psychological thrillers, and thought-provoking novels.

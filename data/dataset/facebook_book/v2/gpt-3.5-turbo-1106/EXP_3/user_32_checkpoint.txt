@@ -1,0 +1,52 @@
+Based on user 32's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. A Thousand Splendid Suns by Khaled Hosseini
+3. The Time Traveler's Wife by Audrey Niffenegger
+4. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+5. Abhorsen by Garth Nix
+6. Norwegian Wood (novel) by Haruki Murakami
+7. The Hobbit by J. R. R. Tolkien
+8. Never Let Me Go (novel) by Kazuo Ishiguro
+9. Sabriel by Garth Nix
+10. The Book Thief by Markus Zusak
+11. Life of Pi
+12. The Picture of Dorian Gray
+13. The Lord of the Rings
+14. The Help
+15. Flowers in the Attic
+16. Water for Elephants
+17. Romeo and Juliet
+18. The Da Vinci Code
+19. One Hundred Years of Solitude
+20. The Outsiders (novel)
+21. The Catcher in the Rye
+22. The Thief Lord
+23. The Fire Eternal
+24. The Sight (novel)
+25. The Last Hero
+26. Chinese Cinderella
+27. Brisingr
+28. Petals on the Wind
+29. Eragon
+30. Civil War (comics)
+31. Icefire (2003 novel)
+32. The War of the Worlds
+33. Poison Study
+34. Eldest
+35. The Importance of Being Earnest
+36. Magic Study
+37. The Historian
+38. My Sister's Keeper (novel)
+39. The Bourne Identity (novel)
+40. Oedipus the King
+41. His Dark Materials
+42. The Watchmen (novel)
+43. I Am Legend (novel)
+44. Mystic River (novel)
+45. Eleven Minutes
+46. Dune (novel)
+47. Wuthering Heights
+48. The Fire Within (novel)
+49. Small Gods
+50. Harry Potter

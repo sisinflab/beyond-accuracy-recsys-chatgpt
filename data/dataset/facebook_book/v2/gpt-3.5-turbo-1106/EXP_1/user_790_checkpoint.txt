@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Outsiders by S.E. Hinton
+4. The Hunger Games by Suzanne Collins
+5. The Book Thief by Markus Zusak
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. The Fault in Our Stars by John Green
+8. 1984 by George Orwell
+9. Animal Farm by George Orwell
+10. Lord of the Flies by William Golding
+11. Fahrenheit 451 by Ray Bradbury
+12. Brave New World by Aldous Huxley
+13. The Maze Runner by James Dashner
+14. Divergent by Veronica Roth
+15. The Alchemist by Paulo Coelho
+16. The Road by Cormac McCarthy
+17. The Kite Runner by Khaled Hosseini
+18. A Thousand Splendid Suns by Khaled Hosseini
+19. The Lovely Bones by Alice Sebold
+20. Room by Emma Donoghue
+21. The Girl on the Train by Paula Hawkins
+22. Gone Girl by Gillian Flynn
+23. Sharp Objects by Gillian Flynn
+24. Dark Places by Gillian Flynn
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Girl Who Played with Fire by Stieg Larsson
+27. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+28. The Da Vinci Code by Dan Brown
+29. Angels & Demons by Dan Brown
+30. Inferno by Dan Brown
+31. The Girl in the Spider's Web by David Lagercrantz
+32. The Night Circus by Erin Morgenstern
+33. The Goldfinch by Donna Tartt
+34. The Secret History by Donna Tartt
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Angel's Game by Carlos Ruiz Zafón
+37. The Prisoner of Heaven by Carlos Ruiz Zafón
+38. The Labyrinth of the Spirits by Carlos Ruiz Zafón
+39. The Name of the Wind by Patrick Rothfuss
+40. The Wise Man's Fear by Patrick Rothfuss
+41. The Slow Regard of Silent Things by Patrick Rothfuss
+42. The Doors of Stone by Patrick Rothfuss
+43. The Nightingale by Kristin Hannah
+44. Winter Garden by Kristin Hannah
+45. The Great Alone by Kristin Hannah
+46. Firefly Lane by Kristin Hannah
+47. The Nightingale by Kristin Hannah
+48. The Nightingale by Kristin Hannah
+49. The Nightingale by Kristin Hannah
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's interest in fiction, young adult literature, and classic novels.

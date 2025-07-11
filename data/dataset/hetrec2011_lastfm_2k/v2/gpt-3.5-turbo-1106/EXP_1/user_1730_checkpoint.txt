@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Gazette
+2. X Japan
+3. L'Arc~en~Ciel
+4. Gackt
+5. Miyavi
+6. Versailles
+7. Malice Mizer
+8. Luna Sea
+9. Buck Tick
+10. Dir en Grey
+11. Vamps
+12. Hyde
+13. An Cafe
+14. D'espairsRay
+15. Acid Black Cherry
+16. Alice Nine
+17. Girugamesh
+18. SID
+19. Nightmare
+20. Plastic Tree
+21. Sugizo
+22. 12012
+23. Kagrra,
+24. LM.C
+25. the GazettE
+26. D
+27. Versailles Philharmonic Quintet
+28. Moi dix Mois
+29. Matenrou Opera
+30. Sadie
+31. Phantasmagoria
+32. Kra
+33. Rentrer en Soi
+34. Merry
+35. UnsraW
+36. D'espairsRay
+37. MUCC
+38. Alice Nine
+39. Girugamesh
+40. SID
+41. Nightmare
+42. Plastic Tree
+43. Sugizo
+44. 12012
+45. Kagrra,
+46. LM.C
+47. the GazettE
+48. D
+49. Versailles Philharmonic Quintet
+50. Moi dix Mois
+
+These recommendations are based on the user's liking of similar artists and genres.

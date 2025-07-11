@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Avril Lavigne
+2. The All-American Rejects
+3. Kelly Clarkson
+4. Demi Lovato
+5. Miley Cyrus
+6. Selena Gomez
+7. The Pretty Reckless
+8. Simple Plan
+9. Good Charlotte
+10. We the Kings
+11. Boys Like Girls
+12. The Maine
+13. 5 Seconds of Summer
+14. Hey Monday
+15. The Cab
+16. The Summer Set
+17. Tonight Alive
+18. Mayday Parade
+19. All Time Low
+20. Fall Out Boy
+21. My Chemical Romance
+22. Panic! At the Disco
+23. Paramore
+24. The Academy Is...
+25. Cobra Starship
+26. The Veronicas
+27. Hey Violet
+28. Echosmith
+29. Against the Current
+30. PVRIS
+31. Halsey
+32. Twenty One Pilots
+33. New Found Glory
+34. Yellowcard
+35. State Champs
+36. Set It Off
+37. Sleeping with Sirens
+38. Pierce the Veil
+39. A Day to Remember
+40. Bring Me the Horizon
+41. Neck Deep
+42. Knuckle Puck
+43. Real Friends
+44. The Story So Far
+45. Seaway
+46. As It Is
+47. Waterparks
+48. With Confidence
+49. Broadside
+50. Grayscale
+
+These recommendations are based on the user's liking of similar artists and genres.

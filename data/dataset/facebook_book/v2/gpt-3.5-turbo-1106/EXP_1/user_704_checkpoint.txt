@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Night Circus by Erin Morgenstern
+2. The Secret History by Donna Tartt
+3. The Book Thief by Markus Zusak
+4. The Shadow of the Wind by Carlos Ruiz Zafón
+5. The Time Traveler's Wife by Audrey Niffenegger
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Name of the Wind by Patrick Rothfuss
+8. The Bell Jar by Sylvia Plath
+9. The Handmaid's Tale by Margaret Atwood
+10. The Catcher in the Rye by J.D. Salinger
+11. The Alchemist by Paulo Coelho
+12. The Giver by Lois Lowry
+13. The Lovely Bones by Alice Sebold
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Kite Runner by Khaled Hosseini
+16. The Help by Kathryn Stockett
+17. The Goldfinch by Donna Tartt
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Hunger Games by Suzanne Collins
+20. The Martian by Andy Weir
+21. The Nightingale by Kristin Hannah
+22. The Road by Cormac McCarthy
+23. The Secret Garden by Frances Hodgson Burnett
+24. The Sun Also Rises by Ernest Hemingway
+25. The Thorn Birds by Colleen McCullough
+26. The Unbearable Lightness of Being by Milan Kundera
+27. The Wind-Up Bird Chronicle by Haruki Murakami
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Name of the Wind by Patrick Rothfuss
+30. The Bell Jar by Sylvia Plath
+31. The Handmaid's Tale by Margaret Atwood
+32. The Catcher in the Rye by J.D. Salinger
+33. The Alchemist by Paulo Coelho
+34. The Giver by Lois Lowry
+35. The Lovely Bones by Alice Sebold
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Kite Runner by Khaled Hosseini
+38. The Help by Kathryn Stockett
+39. The Goldfinch by Donna Tartt
+40. The Great Gatsby by F. Scott Fitzgerald
+41. The Hunger Games by Suzanne Collins
+42. The Martian by Andy Weir
+43. The Nightingale by Kristin Hannah
+44. The Road by Cormac McCarthy
+45. The Secret Garden by Frances Hodgson Burnett
+46. The Sun Also Rises by Ernest Hemingway
+47. The Thorn Birds by Colleen McCullough
+48. The Unbearable Lightness of Being by Milan Kundera
+49. The Wind-Up Bird Chronicle by Haruki Murakami
+50. The Picture of Dorian Gray by Oscar Wilde
+
+These recommendations are based on the user's preference for classic literature, fantasy, and historical fiction.

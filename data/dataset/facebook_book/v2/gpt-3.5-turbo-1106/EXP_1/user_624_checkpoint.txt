@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Impulse by Ellen Hopkins
+2. Thirteen Reasons Why by Jay Asher
+3. Wintergirls by Laurie Halse Anderson
+4. Speak by Laurie Halse Anderson
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. It's Kind of a Funny Story by Ned Vizzini
+7. Girl, Interrupted by Susanna Kaysen
+8. Willow by Julia Hoban
+9. Before I Fall by Lauren Oliver
+10. The Bell Jar by Sylvia Plath
+11. The Fault in Our Stars by John Green
+12. Paper Towns by John Green
+13. If I Stay by Gayle Forman
+14. Just Listen by Sarah Dessen
+15. The Lovely Bones by Alice Sebold
+16. The Catcher in the Rye by J.D. Salinger
+17. The Outsiders by S.E. Hinton
+18. We Were Liars by E. Lockhart
+19. The Hate U Give by Angie Thomas
+20. All the Bright Places by Jennifer Niven
+21. Eleanor & Park by Rainbow Rowell
+22. The Book Thief by Markus Zusak
+23. The Maze Runner by James Dashner
+24. Divergent by Veronica Roth
+25. The Hunger Games by Suzanne Collins
+26. Delirium by Lauren Oliver
+27. Uglies by Scott Westerfeld
+28. The Giver by Lois Lowry
+29. The 5th Wave by Rick Yancey
+30. Legend by Marie Lu
+31. Shatter Me by Tahereh Mafi
+32. The Selection by Kiera Cass
+33. Red Queen by Victoria Aveyard
+34. Cinder by Marissa Meyer
+35. The Darkest Minds by Alexandra Bracken
+36. The Knife of Never Letting Go by Patrick Ness
+37. The Astonishing Color of After by Emily X.R. Pan
+38. The Sun Is Also a Star by Nicola Yoon
+39. Everything, Everything by Nicola Yoon
+40. Simon vs. the Homo Sapiens Agenda by Becky Albertalli
+41. To All the Boys I've Loved Before by Jenny Han
+42. Fangirl by Rainbow Rowell
+43. The Hate U Give by Angie Thomas
+44. The Poet X by Elizabeth Acevedo
+45. Aristotle and Dante Discover the Secrets of the Universe by Benjamin Alire Sáenz
+46. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+47. The House on Mango Street by Sandra Cisneros
+48. I Am Not Your Perfect Mexican Daughter by Erika L. Sánchez
+49. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+50. The Joy Luck Club by Amy Tan
+
+These recommendations are based on the user's interest in young adult fiction, contemporary novels, and books with themes of self-discovery and personal struggles.

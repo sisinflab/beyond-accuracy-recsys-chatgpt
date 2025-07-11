@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 962:
+
+1. The Doors
+2. Pink Floyd
+3. Led Zeppelin
+4. Genesis
+5. King Crimson
+6. Frank Zappa
+7. The Beatles
+8. Bob Dylan
+9. Nick Drake
+10. Yann Tiersen
+11. Os Mutantes
+12. Gentle Giant
+13. Françoise Hardy
+14. Arctic Monkeys
+15. The Who
+16. Jethro Tull
+17. Paul McCartney
+18. Deep Purple
+19. UFO
+20. Alice in Chains
+21. Kansas
+22. Neutral Milk Hotel
+23. The Adicts
+24. Rush
+25. Muse
+26. Iron Maiden
+27. The Rolling Stones
+28. NOFX
+29. Judas Priest
+30. Syd Barrett
+31. The Mars Volta
+32. of Montreal
+33. Tool
+34. Opeth
+35. Los Hermanos
+36. Jeff Buckley
+37. Elliott Smith
+38. Yes
+39. Belle and Sebastian
+40. Amy Winehouse
+41. Uriah Heep
+42. Emerson, Lake & Palmer
+43. David Gilmour
+44. Porcupine Tree
+45. Metallica
+46. Bob Marley
+47. AC/DC
+48. Jamiroquai
+49. Faith No More
+50. Sigur Rós
+
+These recommendations are based on the user's current preferences and aim to provide a diverse range of artists that align with their existing tastes.

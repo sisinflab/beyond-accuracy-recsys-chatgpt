@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Radiohead
+3. Coldplay
+4. Oasis
+5. The Killers
+6. Placebo
+7. R.E.M.
+8. Duran Duran
+9. Pet Shop Boys
+10. New Order
+11. Blur
+12. The Smiths
+13. Joy Division
+14. Simple Minds
+15. INXS
+16. Tears for Fears
+17. Echo & the Bunnymen
+18. The Cranberries
+19. The Verve
+20. Devo
+21. Talking Heads
+22. Siouxsie and the Banshees
+23. The Psychedelic Furs
+24. The Human League
+25. Orchestral Manoeuvres in the Dark
+26. Thompson Twins
+27. Spandau Ballet
+28. A Flock of Seagulls
+29. Ultravox
+30. Visage
+31. Soft Cell
+32. ABC
+33. Heaven 17
+34. Yazoo
+35. Eurythmics
+36. Dead or Alive
+37. Bronski Beat
+38. Culture Club
+39. Frankie Goes to Hollywood
+40. Erasure
+41. Howard Jones
+42. Thomas Dolby
+43. Gary Numan
+44. Kraftwerk
+45. Cabaret Voltaire
+46. Front 242
+47. Nitzer Ebb
+48. Ministry
+49. Skinny Puppy
+50. Front Line Assembly
+
+These recommendations are based on the user's liking of similar artists and genres.

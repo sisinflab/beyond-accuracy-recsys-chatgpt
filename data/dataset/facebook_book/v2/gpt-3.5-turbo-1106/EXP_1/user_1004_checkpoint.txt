@@ -1,0 +1,54 @@
+Based on user 1004's preferences for the mentioned books, here are the top 50 recommendations:
+
+1. One Piece by Eiichiro Oda
+2. Naruto by Masashi Kishimoto
+3. Bleach by Tite Kubo
+4. Attack on Titan by Hajime Isayama
+5. Death Note by Tsugumi Ohba
+6. My Hero Academia by Kohei Horikoshi
+7. Tokyo Ghoul by Sui Ishida
+8. Black Clover by Yūki Tabata
+9. Fairy Tail by Hiro Mashima
+10. One Punch Man by ONE
+11. Hunter x Hunter by Yoshihiro Togashi
+12. Sword Art Online by Reki Kawahara
+13. Fullmetal Alchemist: Brotherhood by Hiromu Arakawa
+14. Berserk by Kentaro Miura
+15. JoJo's Bizarre Adventure by Hirohiko Araki
+16. The Seven Deadly Sins by Nakaba Suzuki
+17. Magi: The Labyrinth of Magic by Shinobu Ohtaka
+18. Soul Eater by Atsushi Ōkubo
+19. Blue Exorcist by Kazue Kato
+20. D.Gray-man by Katsura Hoshino
+21. Inuyasha by Rumiko Takahashi
+22. Black Butler by Yana Toboso
+23. Claymore by Norihiro Yagi
+24. Akame ga Kill! by Takahiro
+25. Parasyte by Hitoshi Iwaaki
+26. Hellsing by Kouta Hirano
+27. Trigun by Yasuhiro Nightow
+28. Neon Genesis Evangelion by Yoshiyuki Sadamoto
+29. Code Geass by Ichirō Ōkouchi
+30. Mobile Suit Gundam by Yoshiyuki Tomino
+31. Full Metal Panic! by Shoji Gatoh
+32. Rurouni Kenshin by Nobuhiro Watsuki
+33. Fist of the North Star by Buronson
+34. Shaman King by Hiroyuki Takei
+35. Yu Yu Hakusho by Yoshihiro Togashi
+36. Dragon Ball by Akira Toriyama
+37. High School DxD by Ichiei Ishibumi
+38. Rosario + Vampire by Akihisa Ikeda
+39. The Testament of Sister New Devil by Tetsuto Uesu
+40. Is This a Zombie? by Shinichi Kimura
+41. Highschool of the Dead by Daisuke Satō
+42. Elfen Lied by Lynn Okamoto
+43. Gantz by Hiroya Oku
+44. Tokyo Mew Mew by Reiko Yoshida
+45. Cardcaptor Sakura by CLAMP
+46. Sailor Moon by Naoko Takeuchi
+47. Magic Knight Rayearth by CLAMP
+48. Revolutionary Girl Utena by Chiho Saito
+49. Fushigi Yûgi by Yuu Watase
+50. The Rose of Versailles by Riyoko Ikeda
+
+These recommendations are based on the user's interest in action, adventure, fantasy, and supernatural genres.

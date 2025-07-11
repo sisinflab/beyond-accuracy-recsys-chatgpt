@@ -1,0 +1,54 @@
+Based on user 514's preferences, here are the top-50 recommendations for the given artists:
+
+1. Paramore
+2. Linkin Park
+3. Evanescence
+4. All Time Low
+5. Fall Out Boy
+6. Panic! At the Disco
+7. Green Day
+8. My Chemical Romance
+9. Boys Like Girls
+10. The Pretty Reckless
+11. 30 Seconds to Mars
+12. Ashlee Simpson
+13. Avril Lavigne
+14. Selena Gomez
+15. Katy Perry
+16. Lady Gaga
+17. Rihanna
+18. P!nk
+19. Taylor Swift
+20. Demi Lovato
+21. Miley Cyrus
+22. Madonna
+23. Adam Lambert
+24. Lindsay Lohan
+25. Ashley Tisdale
+26. Amy Winehouse
+27. Ryan Cabrera
+28. Shakira
+29. Amy Macdonald
+30. Christina Milian
+31. Jennifer Lopez
+32. Hilary Duff
+33. The Pussycat Dolls
+34. Kelly Clarkson
+35. Britney Spears
+36. Carrie Underwood
+37. Beyoncé
+38. Céline Dion
+39. Alanis Morissette
+40. Michelle Branch
+41. Jessie J
+42. Third Eye Blind
+43. Mariah Carey
+44. Dido
+45. Kings of Leon
+46. New Found Glory
+47. Timbaland
+48. Nicki Minaj
+49. Ke$ha
+50. Vanessa Hudgens
+
+These recommendations are based on similar artists and genres that user 514 already enjoys.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Survivor by Chuck Palahniuk
+3. Invisible Monsters by Chuck Palahniuk
+4. Rant by Chuck Palahniuk
+5. Haunted by Chuck Palahniuk
+6. Diary by Chuck Palahniuk
+7. Snuff by Chuck Palahniuk
+8. Pygmy by Chuck Palahniuk
+9. Damned by Chuck Palahniuk
+10. Doomed by Chuck Palahniuk
+11. Beautiful You by Chuck Palahniuk
+12. Adjustment Day by Chuck Palahniuk
+13. The Fight Club 2 by Chuck Palahniuk
+14. Survivor by Chuck Palahniuk
+15. The Invention of Sound by Chuck Palahniuk
+16. The Pale King by David Foster Wallace
+17. Infinite Jest by David Foster Wallace
+18. Less Than Zero by Bret Easton Ellis
+19. Lunar Park by Bret Easton Ellis
+20. Glamorama by Bret Easton Ellis
+21. Imperial Bedrooms by Bret Easton Ellis
+22. The Rules of Attraction by Bret Easton Ellis
+23. American Psycho by Bret Easton Ellis
+24. The Informers by Bret Easton Ellis
+25. The Secret History by Donna Tartt
+26. Special Topics in Calamity Physics by Marisha Pessl
+27. The Goldfinch by Donna Tartt
+28. The Little Friend by Donna Tartt
+29. The Secret History by Donna Tartt
+30. The Night Circus by Erin Morgenstern
+31. The Starless Sea by Erin Morgenstern
+32. The Invisible Life of Addie LaRue by V.E. Schwab
+33. Vicious by V.E. Schwab
+34. The Song of Achilles by Madeline Miller
+35. Circe by Madeline Miller
+36. The Silence of the Girls by Pat Barker
+37. The Song of Achilles by Madeline Miller
+38. The Iliad by Homer
+39. The Odyssey by Homer
+40. The Aeneid by Virgil
+41. The Metamorphoses by Ovid
+42. The Divine Comedy by Dante Alighieri
+43. The Inferno by Dante Alighieri
+44. The Odyssey by Homer
+45. The Aeneid by Virgil
+46. The Metamorphoses by Ovid
+47. The Divine Comedy by Dante Alighieri
+48. The Inferno by Dante Alighieri
+49. The Odyssey by Homer
+50. The Aeneid by Virgil
+
+These recommendations are based on the user's interest in specific authors and genres.

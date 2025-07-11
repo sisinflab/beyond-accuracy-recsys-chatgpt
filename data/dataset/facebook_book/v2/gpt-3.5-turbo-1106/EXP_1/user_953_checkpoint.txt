@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J. R. R. Tolkien
+2. The Ask and the Answer by Patrick Ness
+3. Inkheart by Cornelia Funke
+4. The Amulet of Samarkand by Jonathan Stroud
+5. The Book Thief by Markus Zusak
+6. Eragon by Christopher Paolini
+7. The Name of the Wind by Patrick Rothfuss
+8. The Hunger Games by Suzanne Collins
+9. The Magicians' Guild by Trudi Canavan
+10. The Way of Kings by Brandon Sanderson
+11. Mistborn: The Final Empire by Brandon Sanderson
+12. The Lies of Locke Lamora by Scott Lynch
+13. The Night Circus by Erin Morgenstern
+14. The Maze Runner by James Dashner
+15. The Golden Compass by Philip Pullman
+16. The Graveyard Book by Neil Gaiman
+17. The Giver by Lois Lowry
+18. The Alchemist by Paulo Coelho
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Catcher in the Rye by J.D. Salinger
+22. The Secret History by Donna Tartt
+23. The Perks of Being a Wallflower by Stephen Chbosky
+24. The Fault in Our Stars by John Green
+25. The Great Gatsby by F. Scott Fitzgerald
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Bell Jar by Sylvia Plath
+28. The Handmaid's Tale by Margaret Atwood
+29. The Road by Cormac McCarthy
+30. The Kite Runner by Khaled Hosseini
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Nightingale by Kristin Hannah
+33. The Book of Lost Things by John Connolly
+34. The Thirteenth Tale by Diane Setterfield
+35. The Historian by Elizabeth Kostova
+36. The Night Watch by Sergei Lukyanenko
+37. The Secret Life of Bees by Sue Monk Kidd
+38. The Lovely Bones by Alice Sebold
+39. The Help by Kathryn Stockett
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Glass Castle by Jeannette Walls
+42. The Poisonwood Bible by Barbara Kingsolver
+43. The Color Purple by Alice Walker
+44. The Joy Luck Club by Amy Tan
+45. The Handmaid's Tale by Margaret Atwood
+46. The Road by Cormac McCarthy
+47. The Kite Runner by Khaled Hosseini
+48. The Shadow of the Wind by Carlos Ruiz Zafón
+49. The Nightingale by Kristin Hannah
+50. The Book of Lost Things by John Connolly
+
+These recommendations are based on the user's interest in fantasy, dystopian, and young adult literature.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. Camouflage
+3. Covenant
+4. Blutengel
+5. Mesh
+6. VNV Nation
+7. Assemblage 23
+8. The Cure
+9. A-ha
+10. OMD (Orchestral Manoeuvres in the Dark)
+11. Apoptygma Berzerk
+12. De/Vision
+13. And One
+14. Depeche Mode
+15. Dave Gahan
+16. Martin L. Gore
+17. Yazoo
+18. Erasure
+19. Pet Shop Boys
+20. Duran Duran
+21. Tears for Fears
+22. Simple Minds
+23. The Human League
+24. Visage
+25. Ultravox
+26. Gary Numan
+27. Kraftwerk
+28. Front 242
+29. Nitzer Ebb
+30. Front Line Assembly
+31. Skinny Puppy
+32. Nine Inch Nails
+33. Ministry
+34. KMFDM
+35. Rammstein
+36. Eisbrecher
+37. Megaherz
+38. In Strict Confidence
+39. Diary of Dreams
+40. Project Pitchfork
+41. Blutengel
+42. Ashbury Heights
+43. Rotersand
+44. Solar Fake
+45. Neuroticfish
+46. Frozen Plasma
+47. Solitary Experiments
+48. Seabound
+49. And One
+50. De/Vision
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the preferences of user 640, here are the top 50 book recommendations:
+
+1. Percy Jackson & the Olympians series by Rick Riordan
+2. The Heroes of Olympus series by Rick Riordan
+3. The Trials of Apollo series by Rick Riordan
+4. Magnus Chase and the Gods of Asgard series by Rick Riordan
+5. The Dark Artifices series by Cassandra Clare
+6. The Mortal Instruments series by Cassandra Clare
+7. The Infernal Devices series by Cassandra Clare
+8. The Bane Chronicles by Cassandra Clare
+9. The Twilight Saga series by Stephenie Meyer
+10. The Host by Stephenie Meyer
+11. The Chemist by Stephenie Meyer
+12. The Secret Circle series by L.J. Smith
+13. The Forbidden Game series by L.J. Smith
+14. Night World series by L.J. Smith
+15. Hush, Hush series by Becca Fitzpatrick
+16. Dangerous Lies by Becca Fitzpatrick
+17. Black Ice by Becca Fitzpatrick
+18. Wicked Lovely series by Melissa Marr
+19. Carnival of Souls series by Melissa Marr
+20. Seven Black Diamonds series by Melissa Marr
+21. The Vampire Diaries: The Return series by L.J. Smith
+22. The Vampire Diaries: The Hunters series by L.J. Smith
+23. The Vampire Diaries: The Salvation series by L.J. Smith
+24. The Hunger Games series by Suzanne Collins
+25. The Underland Chronicles series by Suzanne Collins
+26. The Ballad of Songbirds and Snakes by Suzanne Collins
+27. Eragon series by Christopher Paolini
+28. The Fork, the Witch, and the Worm by Christopher Paolini
+29. To Sleep in a Sea of Stars by Christopher Paolini
+30. The Fallen series by Lauren Kate
+31. Teardrop series by Lauren Kate
+32. The Betrayal of Natalie Hargrove by Lauren Kate
+33. The Darkest Minds series by Alexandra Bracken
+34. Passenger series by Alexandra Bracken
+35. The Dreadful Tale of Prosper Redding series by Alexandra Bracken
+36. The Maze Runner series by James Dashner
+37. The Mortality Doctrine series by James Dashner
+38. The 13th Reality series by James Dashner
+39. Divergent series by Veronica Roth
+40. Carve the Mark series by Veronica Roth
+41. The End and Other Beginnings by Veronica Roth
+42. The Lunar Chronicles series by Marissa Meyer
+43. Heartless by Marissa Meyer
+44. Renegades series by Marissa Meyer
+45. The Selection series by Kiera Cass
+46. The Siren by Kiera Cass
+47. The Betrothed by Kiera Cass
+48. The Red Queen series by Victoria Aveyard
+49. War Storm by Victoria Aveyard
+50. Broken Throne by Victoria Aveyard
+
+These recommendations are based on the similar themes and genres of the books that user 640 likes.

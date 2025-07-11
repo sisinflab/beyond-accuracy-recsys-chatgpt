@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. The Girl Who Loved Tom Gordon by Stephen King
+3. The Dark Tower series by Stephen King
+4. It by Stephen King
+5. Pet Sematary by Stephen King
+6. Duma Key by Stephen King
+7. The Dead Zone by Stephen King
+8. The Talisman by Stephen King and Peter Straub
+9. The Eyes of the Dragon by Stephen King
+10. The Outsider by Stephen King
+11. The Tommyknockers by Stephen King
+12. The Green Mile by Stephen King
+13. Bag of Bones by Stephen King
+14. Misery by Stephen King
+15. Needful Things by Stephen King
+16. The Regulators by Stephen King (as Richard Bachman)
+17. The Long Walk by Stephen King (as Richard Bachman)
+18. The Running Man by Stephen King (as Richard Bachman)
+19. The Stand by Stephen King
+20. Under the Dome by Stephen King
+21. The Hobbit by J.R.R. Tolkien
+22. The Lord of the Rings series by J.R.R. Tolkien
+23. The Silmarillion by J.R.R. Tolkien
+24. The Children of Húrin by J.R.R. Tolkien
+25. The Unfinished Tales of Númenor and Middle-earth by J.R.R. Tolkien
+26. The History of Middle-earth series by J.R.R. Tolkien
+27. The Chronicles of Narnia series by C.S. Lewis
+28. The Space Trilogy by C.S. Lewis
+29. The Screwtape Letters by C.S. Lewis
+30. Mere Christianity by C.S. Lewis
+31. Flowers for Algernon by Daniel Keyes
+32. The Minds of Billy Milligan by Daniel Keyes
+33. The Tempest by William Shakespeare
+34. A Midsummer Night's Dream by William Shakespeare
+35. Macbeth by William Shakespeare
+36. Hamlet by William Shakespeare
+37. Romeo and Juliet by William Shakespeare
+38. Othello by William Shakespeare
+39. King Lear by William Shakespeare
+40. The Servants of Twilight by Dean Koontz
+41. Phantoms by Dean Koontz
+42. Watchers by Dean Koontz
+43. Intensity by Dean Koontz
+44. Lightning by Dean Koontz
+45. Strangers by Dean Koontz
+46. The Taking by Dean Koontz
+47. Life Expectancy by Dean Koontz
+48. False Memory by Dean Koontz
+49. The Husband by Dean Koontz
+50. Velocity by Dean Koontz
+
+These recommendations are based on the user's interest in books by Stephen King, J.R.R. Tolkien, Dean Koontz, and Daniel Keyes, as well as related genres and themes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Vampire Lestat by Anne Rice
+2. The Giver by Lois Lowry
+3. The Lovely Bones by Alice Sebold
+4. The Thirteenth Tale by Diane Setterfield
+5. The Night Circus by Erin Morgenstern
+6. The Secret History by Donna Tartt
+7. The Book Thief by Markus Zusak
+8. The Shadow of the Wind by Carlos Ruiz Zafón
+9. The Historian by Elizabeth Kostova
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. The Bone Clocks by David Mitchell
+13. The Name of the Wind by Patrick Rothfuss
+14. The Goldfinch by Donna Tartt
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Nightingale by Kristin Hannah
+17. The Help by Kathryn Stockett
+18. The Kite Runner by Khaled Hosseini
+19. The Alchemist by Paulo Coelho
+20. The Bell Jar by Sylvia Plath
+21. The Catcher in the Rye by J.D. Salinger
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Handmaid's Tale by Margaret Atwood
+24. The Road by Cormac McCarthy
+25. The Stand by Stephen King
+26. The Shining by Stephen King
+27. The Girl on the Train by Paula Hawkins
+28. The Silent Patient by Alex Michaelides
+29. The Woman in the Window by A.J. Finn
+30. The Da Vinci Code by Dan Brown
+31. The Lost Symbol by Dan Brown
+32. The Hunger Games by Suzanne Collins
+33. The Maze Runner by James Dashner
+34. The Fault in Our Stars by John Green
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+37. The Martian by Andy Weir
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The War of the Worlds by H.G. Wells
+40. The Time Machine by H.G. Wells
+41. The Handmaid's Tale by Margaret Atwood
+42. The Road by Cormac McCarthy
+43. The Stand by Stephen King
+44. The Shining by Stephen King
+45. The Girl on the Train by Paula Hawkins
+46. The Silent Patient by Alex Michaelides
+47. The Woman in the Window by A.J. Finn
+48. The Da Vinci Code by Dan Brown
+49. The Lost Symbol by Dan Brown
+50. The Hunger Games by Suzanne Collins
+
+These recommendations are based on similar themes, genres, and authors to the books that user 610 likes.

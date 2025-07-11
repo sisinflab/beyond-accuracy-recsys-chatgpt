@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1695:
+
+1. Radiohead
+2. Muse
+3. Nirvana
+4. Pink Floyd
+5. The Beatles
+6. Arctic Monkeys
+7. Led Zeppelin
+8. The Killers
+9. Queens of the Stone Age
+10. The Strokes
+11. The Smiths
+12. The Last Shadow Puppets
+13. Franz Ferdinand
+14. Oasis
+15. The Libertines
+16. The Vines
+17. The Raconteurs
+18. The Velvet Underground
+19. Kings of Leon
+20. Sonic Youth
+21. The Fratellis
+22. The Radio Dept.
+23. Los Campesinos!
+24. Little Joy
+25. Jet
+26. Los Hermanos
+27. Moptop
+28. Kings of Convenience
+29. Belle and Sebastian
+30. Albert Hammond, Jr.
+31. The Subways
+32. Garbage
+33. Two Door Cinema Club
+34. The Cure
+35. My Chemical Romance
+36. Green Day
+37. Black Eyed Peas
+38. Avenged Sevenfold
+39. P!nk
+40. All Time Low
+41. Kelly Clarkson
+42. Linkin Park
+43. Nine Inch Nails
+44. Daft Punk
+45. System of a Down
+46. Björk
+47. a-ha
+48. Pearl Jam
+49. Metallica
+50. Iron Maiden
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that the user may enjoy.

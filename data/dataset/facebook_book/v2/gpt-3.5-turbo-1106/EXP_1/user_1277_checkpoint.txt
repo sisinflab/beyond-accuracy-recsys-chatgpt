@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Perks of Being a Wallflower by Stephen Chbosky
+3. The Outsiders by S.E. Hinton
+4. The Fault in Our Stars by John Green
+5. The Secret Life of Bees by Sue Monk Kidd
+6. The Book Thief by Markus Zusak
+7. The Lovely Bones by Alice Sebold
+8. The Hunger Games by Suzanne Collins
+9. The Glass Castle by Jeannette Walls
+10. The Kite Runner by Khaled Hosseini
+11. The Alchemist by Paulo Coelho
+12. The Help by Kathryn Stockett
+13. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+14. The Handmaid's Tale by Margaret Atwood
+15. The Night Circus by Erin Morgenstern
+16. The Goldfinch by Donna Tartt
+17. The Girl on the Train by Paula Hawkins
+18. The Martian by Andy Weir
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Name of the Wind by Patrick Rothfuss
+22. The Ocean at the End of the Lane by Neil Gaiman
+23. The Nightingale by Kristin Hannah
+24. The Light Between Oceans by M.L. Stedman
+25. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Great Gatsby by F. Scott Fitzgerald
+28. The Catcher Was a Spy by Nicholas Dawidoff
+29. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+30. The Road by Cormac McCarthy
+31. The Poisonwood Bible by Barbara Kingsolver
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Old Man and the Sea by Ernest Hemingway
+34. The Hobbit by J.R.R. Tolkien
+35. The Handmaid's Tale by Margaret Atwood
+36. The Grapes of Wrath by John Steinbeck
+37. The Girl with the Dragon Tattoo by Stieg Larsson
+38. The Da Vinci Code by Dan Brown
+39. The Count of Monte Cristo by Alexandre Dumas
+40. The Color Purple by Alice Walker
+41. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+42. The Book Thief by Markus Zusak
+43. The Bell Jar by Sylvia Plath
+44. The Alchemist by Paulo Coelho
+45. The Adventures of Huckleberry Finn by Mark Twain
+46. The 7 Habits of Highly Effective People by Stephen R. Covey
+47. The 5 Love Languages by Gary Chapman
+48. The 48 Laws of Power by Robert Greene
+49. The 7 Habits of Highly Effective People by Stephen R. Covey
+50. The 5 Love Languages by Gary Chapman
+
+These recommendations are based on the user's preference for classic literature, coming-of-age stories, and contemporary fiction.

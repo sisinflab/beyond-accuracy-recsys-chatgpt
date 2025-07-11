@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ed Sheeran
+2. Coldplay
+3. The Script
+4. Jason Mraz
+5. Maroon 5
+6. OneRepublic
+7. Train
+8. Imagine Dragons
+9. Hozier
+10. Vance Joy
+11. The Lumineers
+12. Bastille
+13. Ben Howard
+14. Of Monsters and Men
+15. The Fray
+16. Snow Patrol
+17. Keane
+18. James Blunt
+19. The Killers
+20. Death Cab for Cutie
+21. The Head and the Heart
+22. Foster the People
+23. The 1975
+24. Arctic Monkeys
+25. HAIM
+26. Tegan and Sara
+27. Metric
+28. CHVRCHES
+29. The Naked and Famous
+30. Two Door Cinema Club
+31. Passion Pit
+32. Young the Giant
+33. Grouplove
+34. Walk the Moon
+35. X Ambassadors
+36. Bleachers
+37. The Neighbourhood
+38. Lorde
+39. Florence + the Machine
+40. Paramore
+41. The Wombats
+42. Franz Ferdinand
+43. Kaiser Chiefs
+44. The Kooks
+45. The Vaccines
+46. The Strokes
+47. Arctic Monkeys
+48. Cage the Elephant
+49. Foals
+50. Vampire Weekend
+
+These recommendations are based on the user's liking of similar artists and genres.

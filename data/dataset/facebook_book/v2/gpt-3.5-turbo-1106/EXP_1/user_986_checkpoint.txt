@@ -1,0 +1,54 @@
+Based on the preferences of user 986, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. The Fault in Our Stars by John Green
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. The Book Thief by Markus Zusak
+9. The Giver by Lois Lowry
+10. The Maze Runner by James Dashner
+11. Divergent by Veronica Roth
+12. The Girl on the Train by Paula Hawkins
+13. Gone Girl by Gillian Flynn
+14. The Da Vinci Code by Dan Brown
+15. The Alchemist by Paulo Coelho
+16. The Kite Runner by Khaled Hosseini
+17. The Help by Kathryn Stockett
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Lovely Bones by Alice Sebold
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Night Circus by Erin Morgenstern
+24. The Goldfinch by Donna Tartt
+25. The Handmaid's Tale by Margaret Atwood
+26. The Martian by Andy Weir
+27. The Silent Patient by Alex Michaelides
+28. The Nightingale by Kristin Hannah
+29. The Tattooist of Auschwitz by Heather Morris
+30. The Light Between Oceans by M.L. Stedman
+31. The Glass Castle by Jeannette Walls
+32. The Rosie Project by Graeme Simsion
+33. The Night Circus by Erin Morgenstern
+34. The Goldfinch by Donna Tartt
+35. The Handmaid's Tale by Margaret Atwood
+36. The Martian by Andy Weir
+37. The Silent Patient by Alex Michaelides
+38. The Nightingale by Kristin Hannah
+39. The Tattooist of Auschwitz by Heather Morris
+40. The Light Between Oceans by M.L. Stedman
+41. The Glass Castle by Jeannette Walls
+42. The Rosie Project by Graeme Simsion
+43. The Night Circus by Erin Morgenstern
+44. The Goldfinch by Donna Tartt
+45. The Handmaid's Tale by Margaret Atwood
+46. The Martian by Andy Weir
+47. The Silent Patient by Alex Michaelides
+48. The Nightingale by Kristin Hannah
+49. The Tattooist of Auschwitz by Heather Morris
+50. The Light Between Oceans by M.L. Stedman
+
+These recommendations are based on the genres and themes of the books that user 986 has enjoyed.

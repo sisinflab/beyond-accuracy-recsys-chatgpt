@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Nine Inch Nails
+3. Joy Division
+4. The Smiths
+5. New Order
+6. Siouxsie and the Banshees
+7. The Sisters of Mercy
+8. Bauhaus
+9. Echo & the Bunnymen
+10. Cocteau Twins
+11. The Jesus and Mary Chain
+12. My Bloody Valentine
+13. The Chameleons
+14. The Mission
+15. The Psychedelic Furs
+16. Killing Joke
+17. Clan of Xymox
+18. The Damned
+19. The Birthday Massacre
+20. She Wants Revenge
+21. Interpol
+22. Editors
+23. White Lies
+24. The Horrors
+25. Placebo
+26. Depeche Mode
+27. The Smashing Pumpkins
+28. Garbage
+29. Marilyn Manson
+30. Rammstein
+31. KMFDM
+32. Ministry
+33. Front Line Assembly
+34. Skinny Puppy
+35. VNV Nation
+36. Covenant
+37. And One
+38. Assemblage 23
+39. Apoptygma Berzerk
+40. Blutengel
+41. Combichrist
+42. Grendel
+43. Rotersand
+44. Aesthetic Perfection
+45. Solar Fake
+46. Ashbury Heights
+47. Frozen Plasma
+48. Neuroticfish
+49. SITD
+50. [:SITD:]

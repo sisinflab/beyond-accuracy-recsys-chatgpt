@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. One Flew Over the Cuckoo's Nest by Ken Kesey
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Stranger by Albert Camus
+8. The Road by Cormac McCarthy
+9. The Bell Jar by Sylvia Plath
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Sun Also Rises by Ernest Hemingway
+12. The Grapes of Wrath by John Steinbeck
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Sound and the Fury by William Faulkner
+15. A Farewell to Arms by Ernest Hemingway
+16. Heart of Darkness by Joseph Conrad
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. Crime and Punishment by Fyodor Dostoevsky
+19. The Idiot by Fyodor Dostoevsky
+20. The Master and Margarita by Mikhail Bulgakov
+21. Lolita by Vladimir Nabokov
+22. The Trial by Franz Kafka
+23. The Metamorphosis by Franz Kafka
+24. The Plague by Albert Camus
+25. The Outsider by Albert Camus
+26. The Myth of Sisyphus by Albert Camus
+27. The Stranger by Albert Camus
+28. The Fall by Albert Camus
+29. The Rebel by Albert Camus
+30. The Unbearable Lightness of Being by Milan Kundera
+31. The Book Thief by Markus Zusak
+32. The Kite Runner by Khaled Hosseini
+33. A Thousand Splendid Suns by Khaled Hosseini
+34. The Alchemist by Paulo Coelho
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Name of the Wind by Patrick Rothfuss
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Blade Itself by Joe Abercrombie
+39. The Way of Kings by Brandon Sanderson
+40. The Final Empire by Brandon Sanderson
+41. Mistborn: The Final Empire by Brandon Sanderson
+42. The Lies of Locke Lamora by Scott Lynch
+43. The Name of the Wind by Patrick Rothfuss
+44. The Wise Man's Fear by Patrick Rothfuss
+45. The Blade Itself by Joe Abercrombie
+46. The Way of Kings by Brandon Sanderson
+47. The Final Empire by Brandon Sanderson
+48. Mistborn: The Final Empire by Brandon Sanderson
+49. The Lies of Locke Lamora by Scott Lynch
+50. The Name of the Wind by Patrick Rothfuss
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, and fantasy novels.

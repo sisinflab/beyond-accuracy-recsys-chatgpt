@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1650:
+
+1. Radiohead
+2. The Smiths
+3. Depeche Mode
+4. The Mars Volta
+5. Siouxsie and the Banshees
+6. The Who
+7. David Bowie
+8. The Clash
+9. The Offspring
+10. The Smashing Pumpkins
+11. The Cure
+12. Nirvana
+13. Pixies
+14. Joy Division
+15. Ramones
+16. The Beatles
+17. Led Zeppelin
+18. The Velvet Underground
+19. Guided by Voices
+20. Buzzcocks
+21. The Doors
+22. Pavement
+23. Flogging Molly
+24. ZZ Top
+25. Scissor Sisters
+26. Beirut
+27. Against Me!
+28. Millencolin
+29. Dead Kennedys
+30. Sublime
+31. Black Eyed Peas
+32. Four Year Strong
+33. Daft Punk
+34. She Wants Revenge
+35. Sonic Youth
+36. Alesana
+37. Pennywise
+38. In Flames
+39. Finch
+40. Kings of Leon
+41. Placebo
+42. Creedence Clearwater Revival
+43. Air
+44. Born of Osiris
+45. Metallica
+46. Rancid
+47. Rage Against the Machine
+48. Green Day
+49. AC/DC
+50. New Order
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

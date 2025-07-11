@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1296:
+
+1. Opeth
+2. In Flames
+3. Dark Tranquillity
+4. Gojira
+5. Lamb of God
+6. Death
+7. Metallica
+8. Sepultura
+9. Rammstein
+10. DevilDriver
+11. Apocalyptica
+12. Muse
+13. Soundgarden
+14. Katatonia
+15. Nevermore
+16. Slayer
+17. Korn
+18. Hypocrisy
+19. Children of Bodom
+20. King Diamond
+21. Slipknot
+22. Cradle of Filth
+23. Arch Enemy
+24. Marilyn Manson
+25. Megadeth
+26. System of a Down
+27. Bullet for My Valentine
+28. Pain of Salvation
+29. Linkin Park
+30. Vader
+31. The Mars Volta
+32. Breaking Benjamin
+33. Alter Bridge
+34. Porcupine Tree
+35. Anathema
+36. The Smashing Pumpkins
+37. Guano Apes
+38. Pixies
+39. Deep Purple
+40. Depeche Mode
+41. Glee Cast
+42. Maroon 5
+43. Jonas Brothers
+44. Slipknot
+45. Nickelback
+46. Marduk
+47. Trivium
+48. Amon Amarth
+49. Machine Head
+50. Scar Symmetry
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for the user to explore.

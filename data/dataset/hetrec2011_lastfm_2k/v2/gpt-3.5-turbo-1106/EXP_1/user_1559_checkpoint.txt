@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Maroon 5
+2. Coldplay
+3. Ed Sheeran
+4. The Killers
+5. Linkin Park
+6. Paramore
+7. Twenty One Pilots
+8. Imagine Dragons
+9. The Weeknd
+10. Adele
+11. Muse
+12. Green Day
+13. Taylor Swift
+14. Pink
+15. Florence + The Machine
+16. The Neighbourhood
+17. Hozier
+18. Lana Del Rey
+19. Bastille
+20. OneRepublic
+21. Lorde
+22. Sam Smith
+23. Sia
+24. The 1975
+25. Halsey
+26. Shawn Mendes
+27. Ariana Grande
+28. Khalid
+29. Billie Eilish
+30. Harry Styles
+31. Dua Lipa
+32. Zayn
+33. Camila Cabello
+34. Demi Lovato
+35. Selena Gomez
+36. Niall Horan
+37. Charlie Puth
+38. Justin Bieber (for more of his music)
+39. Eminem (for more of his music)
+40. Bruno Mars (for more of his music)
+41. James Blunt (for more of his music)
+42. Arctic Monkeys (for more of their music)
+43. Justin Timberlake (for more of his music)
+44. The Strokes (for more of their music)
+45. Usher (for more of his music)
+46. Fall Out Boy (for more of their music)
+47. Panic! At the Disco (for more of their music)
+48. Hawthorne Heights (for more of their music)
+49. Luan Santana (for more of his music)
+50. David Guetta (for more of his music)
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current likes.

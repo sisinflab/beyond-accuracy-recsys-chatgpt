@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jimmy Eat World
+2. The All-American Rejects
+3. Taking Back Sunday
+4. Paramore
+5. Yellowcard
+6. The Academy Is...
+7. Something Corporate
+8. The Starting Line
+9. Dashboard Confessional
+10. New Found Glory
+11. All Time Low
+12. We the Kings
+13. Boys Like Girls
+14. The Maine
+15. Cartel
+16. Motion City Soundtrack
+17. The Used
+18. Simple Plan
+19. Good Charlotte
+20. Sum 41
+21. Green Day
+22. Fall Out Boy
+23. My Chemical Romance
+24. 30 Seconds to Mars
+25. Linkin Park
+26. Three Days Grace
+27. Breaking Benjamin
+28. Seether
+29. Shinedown
+30. Papa Roach
+31. Evanescence
+32. 3 Doors Down
+33. Nickelback
+34. Hoobastank
+35. Puddle of Mudd
+36. Staind
+37. Creed
+38. Daughtry
+39. Lifehouse
+40. Goo Goo Dolls
+41. Matchbox Twenty
+42. The Fray
+43. OneRepublic
+44. Snow Patrol
+45. Keane
+46. The Script
+47. Imagine Dragons
+48. Bastille
+49. Foster the People
+50. The 1975
+
+These recommendations are based on the user's liking of alternative rock, pop punk, and emo bands.

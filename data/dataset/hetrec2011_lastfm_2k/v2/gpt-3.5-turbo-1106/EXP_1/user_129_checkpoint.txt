@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Britney Spears
+2. Rihanna
+3. Demi Lovato
+4. Kelly Clarkson
+5. Adele
+6. Shakira
+7. Ellie Goulding
+8. Sia
+9. Ariana Grande
+10. Demi Lovato
+11. Lana Del Rey
+12. Halsey
+13. Zara Larsson
+14. Jessie J
+15. Meghan Trainor
+16. Janelle Monáe
+17. Lorde
+18. Tove Lo
+19. Kesha
+20. Meghan Trainor
+21. Alessia Cara
+22. Dua Lipa
+23. Camila Cabello
+24. Bebe Rexha
+25. Hailee Steinfeld
+26. Zara Larsson
+27. Sabrina Carpenter
+28. Charli XCX
+29. Kacey Musgraves
+30. Tinashe
+31. Daya
+32. Julia Michaels
+33. Lauren Jauregui
+34. Madison Beer
+35. Hayley Kiyoko
+36. Sabrina Carpenter
+37. Bea Miller
+38. Grace VanderWaal
+39. Sofia Carson
+40. Olivia Holt
+41. Bridgit Mendler
+42. Sabrina Carpenter
+43. China Anne McClain
+44. Dove Cameron
+45. Laura Marano
+46. Zendaya
+47. Sabrina Carpenter
+48. Sofia Carson
+49. Olivia Holt
+50. Bridgit Mendler
+
+These recommendations are based on the user's liking of pop and female artists, and the list includes a mix of well-known and emerging artists in the pop music genre.

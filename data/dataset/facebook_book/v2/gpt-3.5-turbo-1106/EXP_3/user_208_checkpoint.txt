@@ -1,0 +1,52 @@
+Based on the user's preferences, here is a re-ranked list of books into a top-50 recommendations:
+
+1. The Hunger Games
+2. Catching Fire
+3. Mockingjay
+4. Inkheart
+5. Inkspell
+6. Inkdeath
+7. The Alchemyst: The Secrets of the Immortal Nicholas Flamel
+8. The Secrets of the Immortal Nicholas Flamel
+9. The Lovely Bones
+10. The Outsiders (novel)
+11. City of Glass (Mortal Instruments)
+12. Hush, Hush
+13. The Land of Elyon
+14. Fablehaven
+15. The Mysterious Benedict Society
+16. The Notebook (novel)
+17. The Host (novel)
+18. The Tenth Circle
+19. The Silver Kiss
+20. The Lost Boy (memoir)
+21. The Giver
+22. Inkheart
+23. Inkspell
+24. Inkdeath
+25. The Alchemist (novel)
+26. Uglies
+27. The Faerie Wars Chronicles
+28. The Name of this Book is Secret
+29. The Wheel of Time
+30. The Luxe
+31. The Smurfs
+32. The Secret Life of Bees
+33. The Heroin Diaries: A Year in the Life of a Shattered Rock Star
+34. The Work and the Glory
+35. The Host (novel)
+36. The Notebook (novel)
+37. The Silver Kiss
+38. The Lost Boy (memoir)
+39. The Giver
+40. The Alchemist (novel)
+41. Uglies
+42. The Faerie Wars Chronicles
+43. The Name of this Book is Secret
+44. The Wheel of Time
+45. The Luxe
+46. The Smurfs
+47. The Secret Life of Bees
+48. The Heroin Diaries: A Year in the Life of a Shattered Rock Star
+49. The Work and the Glory
+50. The Host (novel)

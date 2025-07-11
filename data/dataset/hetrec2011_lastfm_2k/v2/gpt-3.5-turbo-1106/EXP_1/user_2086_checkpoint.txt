@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nine Inch Nails
+2. Placebo
+3. Muse
+4. The Strokes
+5. Arctic Monkeys
+6. Interpol
+7. The Black Keys
+8. Queens of the Stone Age
+9. The Kills
+10. The Bravery
+11. The Raveonettes
+12. The Hives
+13. The Vines
+14. The Subways
+15. The Ting Tings
+16. The Kooks
+17. The Fratellis
+18. The Libertines
+19. The Wombats
+20. The Vaccines
+21. The Courteeners
+22. The Pigeon Detectives
+23. The Zutons
+24. The View
+25. The Futureheads
+26. The Cribs
+27. The Maccabees
+28. The Horrors
+29. The Drums
+30. The Big Pink
+31. The Naked and Famous
+32. The Joy Formidable
+33. The Boxer Rebellion
+34. The Airborne Toxic Event
+35. The Temper Trap
+36. The Naked and Famous
+37. The Joy Formidable
+38. The Boxer Rebellion
+39. The Airborne Toxic Event
+40. The Temper Trap
+41. The Naked and Famous
+42. The Joy Formidable
+43. The Boxer Rebellion
+44. The Airborne Toxic Event
+45. The Temper Trap
+46. The Naked and Famous
+47. The Joy Formidable
+48. The Boxer Rebellion
+49. The Airborne Toxic Event
+50. The Temper Trap
+
+These recommendations are based on the user's liking of similar artists and genres.

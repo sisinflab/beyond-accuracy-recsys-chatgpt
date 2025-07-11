@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The National
+3. Bon Iver
+4. Fleet Foxes
+5. Death Cab for Cutie
+6. The Shins
+7. Sufjan Stevens
+8. Arcade Fire
+9. The War on Drugs
+10. Tame Impala
+11. Vampire Weekend
+12. Grizzly Bear
+13. Beach House
+14. The Antlers
+15. Sigur Rós
+16. Interpol
+17. Modest Mouse
+18. The Decemberists
+19. Beirut
+20. The Black Keys
+21. Arctic Monkeys
+22. The Strokes
+23. Spoon
+24. Wilco
+25. My Morning Jacket
+26. Band of Horses
+27. Father John Misty
+28. The Avett Brothers
+29. Hozier
+30. Florence + The Machine
+31. Lana Del Rey
+32. Lorde
+33. Haim
+34. St. Vincent
+35. Mitski
+36. Angel Olsen
+37. Phoebe Bridgers
+38. Courtney Barnett
+39. Sharon Van Etten
+40. Warpaint
+41. Cat Power
+42. PJ Harvey
+43. Fiona Apple
+44. Feist
+45. Laura Marling
+46. Joanna Newsom
+47. First Aid Kit
+48. Daughter
+49. London Grammar
+50. The xx
+
+These recommendations are based on the user's liking of similar artists and genres.

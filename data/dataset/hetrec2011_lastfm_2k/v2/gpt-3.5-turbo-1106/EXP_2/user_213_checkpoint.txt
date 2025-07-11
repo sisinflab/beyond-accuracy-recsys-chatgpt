@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 213:
+
+1. Muse
+2. Metallica
+3. System of a Down
+4. The Killers
+5. Arctic Monkeys
+6. Avenged Sevenfold
+7. Nirvana
+8. Linkin Park
+9. Green Day
+10. My Chemical Romance
+11. Red Hot Chili Peppers
+12. Slipknot
+13. Rage Against the Machine
+14. Eminem
+15. Marilyn Manson
+16. Deftones
+17. Disturbed
+18. Bob Marley
+19. Bob Marley & The Wailers
+20. 50 Cent
+21. Dr. Dre
+22. The Prodigy
+23. Guns N' Roses
+24. Mastodon
+25. Fear Factory
+26. Korn
+27. Limp Bizkit
+28. 2Pac
+29. As I Lay Dying
+30. Walls of Jericho
+31. Comeback Kid
+32. Haste the Day
+33. Bring Me The Horizon
+34. Cypress Hill
+35. Kings of Leon
+36. Machine Head
+37. Slipknot
+38. 30 Seconds to Mars
+39. Pink Floyd
+40. Radiohead
+41. Coldplay
+42. Placebo
+43. Evanescence
+44. Paramore
+45. Avril Lavigne
+46. Katy Perry
+47. Lady Gaga
+48. Rihanna
+49. Christina Aguilera
+50. Britney Spears
+
+These recommendations are based on the user's liking of similar artists and genres.

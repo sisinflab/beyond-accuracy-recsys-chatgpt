@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of books into a top-50 recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. The Catcher in the Rye
+3. The Rules of Attraction by Bret Easton Ellis
+4. Franny and Zooey by J. D. Salinger
+5. A Tree Grows in Brooklyn by Betty Smith
+6. Bright Lights, Big City by Jay McInerney
+7. The Cask of Amontillado by Edgar Allan Poe
+8. Frankenstein by Mary Shelley
+9. The Hours by Michael Cunningham
+10. The Masque of the Red Death by Edgar Allan Poe
+11. Breakfast of Champions by Kurt Vonnegut
+12. The Picture of Dorian Gray
+13. The Perks of Being a Wallflower
+14. Wuthering Heights
+15. A Great and Terrible Beauty
+16. A Midsummer Night's Dream
+17. Nineteen Eighty-Four
+18. Memoirs of a Geisha
+19. A Wrinkle in Time
+20. Jane Eyre
+21. The Canterbury Tales
+22. The Great Gatsby
+23. Slaughterhouse-Five
+24. Little Women
+25. The Hobbit
+26. Pride and Prejudice
+27. Dracula
+28. To the Lighthouse
+29. Of Mice and Men
+30. The Wonderful Wizard of Oz
+31. The Glass Menagerie
+32. Uglies
+33. King Leary
+34. King James Version
+35. Common Sense (pamphlet)
+36. Anne of Green Gables
+37. The Giver
+38. The Last Storytellers: Tales from the Heart of Morocco
+39. Alice's Adventures in Wonderland
+40. Bluebeard (Vonnegut novel)
+41. The Count of Monte Cristo
+42. The Gold Bug Variations
+43. Inferno (Dante)
+44. Goodnight Moon
+45. Gospel of Mark
+46. Gospel of Matthew
+47. Fear and Loathing in Las Vegas
+48. Harry Potter
+49. The Diary of a Young Girl
+50. To Kill a Mockingbird
+
+This list is based on the user's liking of the provided books and the similarity of the recommended books to the user's preferences.

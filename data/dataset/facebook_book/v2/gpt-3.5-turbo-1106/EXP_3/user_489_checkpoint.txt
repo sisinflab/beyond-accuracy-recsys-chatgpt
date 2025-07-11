@@ -1,0 +1,57 @@
+Based on user 489's preferences, here are the top 50 book recommendations:
+
+1. Fallen (Kate novel) by ['Lauren Kate']
+2. Torment (novel) by ['Lauren Kate']
+3. Evernight (novel) by ['Claudia Gray']
+4. Angelology (novel) by ['Danielle Trussoni']
+5. Nightworld (novel) by ['F. Paul Wilson']
+6. Rebel Angels by ['Libba Bray']
+7. Blood and Chocolate (novel) by ['Annette Curtis Klause']
+8. The Immortals (novel) by []
+9. The Lost Boy (memoir) by ['David Pelzer']
+10. Twilight (series) by []
+
+And the remaining recommendations are:
+
+11. Vampire Academy (novel)
+12. Vampire Kisses
+13. Vampire Knight
+14. Black Dagger Brotherhood
+15. The Southern Vampire Mysteries
+16. The Silver Kiss
+17. Vampire Academy (novel)
+18. Hush, Hush
+19. City of Glass (Mortal Instruments)
+20. The Wolves of Mercy Falls
+21. The Awakening (Chopin novel)
+22. Inkheart
+23. The Hunger Games
+24. Catching Fire
+25. Mockingjay
+26. Percy Jackson & the Olympians
+27. Harry Potter
+28. Uglies
+29. The Luxe
+30. Pretty Little Liars (book)
+31. My Sister's Keeper (novel)
+32. Impulse economy
+33. Thirteen Reasons Why
+34. Before I Fall
+35. The Sweet Far Thing
+36. A Great and Terrible Beauty
+37. Full Moon o Sagashite
+38. Escape (David McMillan book)
+39. Through the Looking-Glass
+40. A Clockwork Orange
+41. Pride and Prejudice and Zombies
+42. Pride and Prejudice
+43. The Girl with the Dragon Tattoo
+44. The Girl Who Leapt Through Time
+45. Skeleton Creek (novel)
+46. Dark Visions
+47. In the Forests of the Night
+48. Bhagavad Gita
+49. Nineteen Minutes
+50. Go Ask Alice
+
+These recommendations are based on the user's preferences and are sorted in descending order of relevance.

@@ -1,0 +1,54 @@
+Based on the user's liking of the books provided, here are the top 50 recommendations for user 994:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. The Witch of Portobello by Paulo Coelho
+3. The Zahir (novel) by Paulo Coelho
+4. By the River Piedra I Sat Down and Wept by Paulo Coelho
+5. Eleven Minutes by Paulo Coelho
+6. Little Women by Louisa May Alcott
+7. The Unbearable Lightness of Being
+8. The Picture of Dorian Gray
+9. The Great Gatsby
+10. Brave New World
+11. The Hobbit
+12. Frankenstein
+13. The Stand
+14. The Lost Books (novel series)
+15. The Catcher in the Rye
+16. Harry Potter
+17. The Maze Runner
+18. The City of Ember
+19. The Southern Vampire Mysteries
+20. The Silmarillion
+21. World War Z
+22. The Lord of the Rings
+23. The House of Mirth
+24. Dracula
+25. The Phantom of the Opera
+26. The Giver
+27. The Scarlet Letter
+28. The Rapture (novel)
+29. The Tenant of Wildfell Hall
+30. Invisible Man
+31. The Outsiders (novel)
+32. The Lost Books (novel series)
+33. The Picture of Dorian Gray
+34. The Great Gatsby
+35. Brave New World
+36. The Hobbit
+37. Frankenstein
+38. The Stand
+39. The Lost Books (novel series)
+40. The Catcher in the Rye
+41. Harry Potter
+42. The Maze Runner
+43. The City of Ember
+44. The Southern Vampire Mysteries
+45. The Silmarillion
+46. World War Z
+47. The Lord of the Rings
+48. The House of Mirth
+49. Dracula
+50. The Phantom of the Opera
+
+These recommendations are based on the user's liking of similar books and authors and are ranked accordingly.

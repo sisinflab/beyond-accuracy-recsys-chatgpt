@@ -1,0 +1,54 @@
+Based on user 1987's preferences, here are the top 50 recommendations for them:
+
+1. The Beatles
+2. Pink Floyd
+3. David Bowie
+4. Depeche Mode
+5. Muse
+6. Coldplay
+7. Genesis
+8. Fleetwood Mac
+9. Frank Zappa
+10. The Cure
+11. Marillion
+12. Tom Waits
+13. Band of Horses
+14. Andrew Bird
+15. Manic Street Preachers
+16. Roger Waters
+17. Gogol Bordello
+18. Type O Negative
+19. Placebo
+20. White Lies
+21. Bruce Springsteen
+22. Rush
+23. The Smashing Pumpkins
+24. Nine Inch Nails
+25. Elvis Costello
+26. Friendly Fires
+27. Electric Light Orchestra
+28. Arcade Fire
+29. Blackfield
+30. Simple Minds
+31. The Human League
+32. The New Pornographers
+33. Shiny Toy Guns
+34. Best Coast
+35. CAKE
+36. Belle and Sebastian
+37. Prince
+38. Porcupine Tree
+39. Oingo Boingo
+40. Neutral Milk Hotel
+41. Spoon
+42. Tears for Fears
+43. Pixies
+44. The Killers
+45. U2
+46. Ben Folds
+47. The Smiths
+48. PJ Harvey
+49. Bob Dylan
+50. Kate Bush
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

@@ -1,0 +1,54 @@
+Based on user 1147's preferences, here is a re-ranked list of books into a top-50 recommendations:
+
+1. Ender's Game
+2. I Am Legend (novel)
+3. Abraham Lincoln, Vampire Hunter (novel)
+4. Brisingr
+5. Eldest
+6. The Lord of the Rings
+7. Eragon
+8. Inkheart
+9. The Thief Lord
+10. The Black Tattoo
+11. Uglies
+12. Pretties
+13. Halo: First Strike
+14. A Memory of Light
+15. Shadow of the Giant
+16. Ender's Shadow
+17. The Lost World: Jurassic Park
+18. The Things They Carried
+19. The Kite Runner
+20. The Boxcar Children
+21. The Adventures of Tom Sawyer
+22. The Truth About Forever
+23. Left Behind (novel)
+24. The Shack
+25. Alice's Adventures in Wonderland
+26. Animal Farm
+27. Twilight (series)
+28. Fablehaven
+29. Sense and Sensibility
+30. The Southern Vampire Mysteries
+31. The Queen of the Damned
+32. Percy Jackson & the Olympians
+33. Harry Potter
+34. Icefire (2003 novel)
+35. Catching Fire
+36. Angels & Demons
+37. Slaughterhouse-Five
+38. Lamb: The Gospel According to Biff, Christ's Childhood Pal
+39. Phantoms (novel)
+40. Dear Dumb Diary
+41. Diary of a Wimpy Kid (series)
+42. My Sister's Keeper (novel)
+43. Through the Looking-Glass
+44. Vampire Academy (novel)
+45. Nancy Drew
+46. Studies of the Book of Mormon
+47. Along for the Ride
+48. The Black Tattoo
+49. Jane Eyre
+50. City of Ashes
+
+This re-ranked list takes into account the user's previous likes and suggests similar books that they may enjoy based on their preferences.

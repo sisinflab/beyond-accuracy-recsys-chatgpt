@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bob Dylan
+2. The Rolling Stones
+3. David Bowie
+4. The Beatles
+5. Bob Marley & The Wailers
+6. The Beach Boys
+7. The Smiths
+8. Fleetwood Mac
+9. The Clash
+10. Queen
+11. Radiohead
+12. The Cure
+13. Nirvana
+14. Prince
+15. The Kinks
+16. The Velvet Underground
+17. Talking Heads
+18. The Ramones
+19. The Byrds
+20. The Band
+21. The Jimi Hendrix Experience
+22. The Who
+23. The Doors
+24. Led Zeppelin
+25. Pink Floyd
+26. Neil Young
+27. Jefferson Airplane
+28. Syd Barrett
+29. Elvis Presley
+30. Patti Smith
+31. Oasis
+32. Bruce Springsteen
+33. Johnny Cash
+34. Simon & Garfunkel
+35. John Lennon
+36. Joni Mitchell
+37. Creedence Clearwater Revival
+38. Janis Joplin
+39. ABBA
+40. Guns N' Roses
+41. Cream
+42. Eric Clapton
+43. AC/DC
+44. The Byrds
+45. The Velvet Underground
+46. The Kinks
+47. The Rolling Stones
+48. The Doors
+49. The Who
+50. The Beatles
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and bands that align with their musical tastes.

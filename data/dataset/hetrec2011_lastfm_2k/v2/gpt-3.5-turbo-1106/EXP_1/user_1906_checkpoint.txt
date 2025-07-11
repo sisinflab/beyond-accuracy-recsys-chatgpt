@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. All Time Low
+3. The Killers
+4. Arctic Monkeys
+5. Paramore
+6. Twenty One Pilots
+7. Bring Me The Horizon
+8. The Neighbourhood
+9. The 1975
+10. Halsey
+11. Florence + The Machine
+12. Lorde
+13. Bastille
+14. Imagine Dragons
+15. The Strokes
+16. Weezer
+17. The White Stripes
+18. The Black Keys
+19. Cage The Elephant
+20. Vampire Weekend
+21. Foster The People
+22. Panic! At The Disco
+23. My Chemical Romance
+24. Avril Lavigne
+25. Linkin Park
+26. 30 Seconds to Mars
+27. Pitty
+28. Fresno
+29. NX Zero
+30. Legião Urbana
+31. The Cure
+32. Good Charlotte
+33. Cinema Bizarre
+34. Los Hermanos
+35. Alanis Morissette
+36. Mando Diao
+37. Muse
+38. Vanguart
+39. Amy Winehouse
+40. Circa Survive
+41. Lady Gaga
+42. Coldplay
+43. Madonna
+44. Ana Carolina
+45. Detonautas Roque Clube
+46. Alesana
+47. Queen
+48. a-ha
+49. Nirvana
+50. Jamiroquai
+
+These recommendations are based on the user's liking of similar artists and genres.

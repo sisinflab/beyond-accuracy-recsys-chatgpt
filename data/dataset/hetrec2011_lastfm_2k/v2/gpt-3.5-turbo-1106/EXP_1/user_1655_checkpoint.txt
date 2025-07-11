@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tool
+2. Dream Theater
+3. Porcupine Tree
+4. Riverside
+5. Katatonia
+6. Steven Wilson
+7. Mastodon
+8. Gojira
+9. Haken
+10. Tesseract
+11. Devin Townsend
+12. Meshuggah
+13. Pain of Salvation
+14. The Ocean
+15. Soen
+16. Baroness
+17. Cynic
+18. Leprous
+19. Ne Obliviscaris
+20. Caligula's Horse
+21. The Contortionist
+22. Periphery
+23. Between the Buried and Me
+24. Karnivool
+25. Opeth (if not already in the user's library)
+26. AC/DC (if not already in the user's library)
+27. Anathema (if not already in the user's library)
+28. Jamiroquai (if not already in the user's library)
+29. Sigur Rós (if not already in the user's library)
+30. Led Zeppelin (if not already in the user's library)
+31. Pink Floyd (if not already in the user's library)
+32. Whitesnake (if not already in the user's library)
+33. Mr. Big (if not already in the user's library)
+34. The Mars Volta (if not already in the user's library)
+35. Alice in Chains (if not already in the user's library)
+36. Antimatter (if not already in the user's library)
+37. Portishead (if not already in the user's library)
+38. Damien Rice (if not already in the user's library)
+39. Lynyrd Skynyrd (if not already in the user's library)
+40. Agalloch (if not already in the user's library)
+41. Blackfield (if not already in the user's library)
+42. Poets of the Fall (if not already in the user's library)
+43. Destruction (if not already in the user's library)
+44. Blind Guardian (if not already in the user's library)
+45. Symphony X (if not already in the user's library)
+46. Tool (if not already in the user's library)
+47. Dream Theater (if not already in the user's library)
+48. Porcupine Tree (if not already in the user's library)
+49. Riverside (if not already in the user's library)
+50. Katatonia (if not already in the user's library)
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and genres.

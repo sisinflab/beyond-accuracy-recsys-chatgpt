@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Breaking Benjamin
+2. 30 Seconds to Mars
+3. The All-American Rejects
+4. Panic! At The Disco
+5. Avril Lavigne
+6. Fall Out Boy
+7. The Killers
+8. Green Day
+9. Red Hot Chili Peppers
+10. Nickelback
+11. The Fray
+12. 3 Doors Down
+13. Hoobastank
+14. Simple Plan
+15. The Cranberries
+16. Evan and Jaron
+17. The Calling
+18. Goo Goo Dolls
+19. Matchbox Twenty
+20. Daughtry
+21. Hinder
+22. Seether
+23. Puddle of Mudd
+24. Theory of a Deadman
+25. Shinedown
+26. Three Doors Down
+27. 3 Doors Down
+28. Lifehouse
+29. Keane
+30. Maroon 5
+31. Muse
+32. Our Lady Peace
+33. Lindsay Lohan
+34. The Veronicas
+35. Ashlee Simpson
+36. Michelle Branch
+37. Vanessa Carlton
+38. Kelly Osbourne
+39. Hilary Duff
+40. Ashanti
+41. Jessica Simpson
+42. Mandy Moore
+43. Jennifer Lopez
+44. Britney Spears
+45. Christina Aguilera
+46. Jessica Andrews
+47. LeAnn Rimes
+48. Faith Hill
+49. Shania Twain
+50. Dixie Chicks
+
+These recommendations are based on the user's liking of similar artists and genres.

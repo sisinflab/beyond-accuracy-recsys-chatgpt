@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 464:
+
+1. The Giver
+2. The Book Thief
+3. To Kill a Mockingbird
+4. Fahrenheit 451
+5. Thirteen Reasons Why
+6. The Perks of Being a Wallflower
+7. The Handmaid's Tale
+8. Brave New World
+9. The Little Prince
+10. The Legend of Sleepy Hollow
+11. Wuthering Heights
+12. The City of Ember
+13. The Last Song (novel)
+14. Extremely Loud and Incredibly Close
+15. Animal Farm
+16. Uglies
+17. Vampire Academy (novel)
+18. The Sisterhood of the Traveling Pants (novel)
+19. The Immortals (books)
+20. The Hunted (novel)
+21. Burned (Hopkins novel)
+22. The Summoning (novel)
+23. Tempted (Cast novel)
+24. Chosen (A House of Night novel)
+25. Need (novel series)
+26. Marked (novel)
+27. My Friend Leonard
+28. Dr. Franklin's Island
+29. The Messenger (Markus Zusak novel)
+30. Fear Street
+31. Lucy (novel)
+32. Extras (novel)
+33. Cut (novel)
+34. Vampire Kisses
+35. Blue Moon (Noel novel)
+36. I Hope They Serve Beer in Hell
+37. The Pigman
+38. A Million Little Pieces
+39. The Legend of Sleepy Hollow
+40. Harry Potter
+41. The Wolves of Mercy Falls
+42. Romeo and Juliet
+43. Glass (novel)
+44. Ink Exchange
+45. Lock and Key
+46. Tuck Everlasting
+47. Impulse economy
+48. Stargirl (novel)
+49. Fragile Eternity
+50. Twilight (series)
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended books to the ones the user already likes.

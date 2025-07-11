@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. Alice's Adventures in Wonderland by Lewis Carroll
+3. The Hunger Games by Suzanne Collins
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. 1984 by George Orwell
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Da Vinci Code by Dan Brown
+9. The Alchemist by Paulo Coelho
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Giver by Lois Lowry
+12. The Secret Garden by Frances Hodgson Burnett
+13. The Little Prince by Antoine de Saint-Exupéry
+14. The Outsiders by S.E. Hinton
+15. The Adventures of Huckleberry Finn by Mark Twain
+16. The Grapes of Wrath by John Steinbeck
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Road by Cormac McCarthy
+19. The Kite Runner by Khaled Hosseini
+20. The Book Thief by Markus Zusak
+21. The Handmaid's Tale by Margaret Atwood
+22. The Sun Also Rises by Ernest Hemingway
+23. One Hundred Years of Solitude by Gabriel García Márquez
+24. The Bell Jar by Sylvia Plath
+25. The Stand by Stephen King
+26. The Shining by Stephen King
+27. The Martian by Andy Weir
+28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Name of the Wind by Patrick Rothfuss
+31. The Night Circus by Erin Morgenstern
+32. The Shadow of the Wind by Carlos Ruiz Zafón
+33. The Goldfinch by Donna Tartt
+34. The Hand of Fatima by Ildefonso Falcones
+35. The Pillars of the Earth by Ken Follett
+36. The Help by Kathryn Stockett
+37. The Secret History by Donna Tartt
+38. The Poisonwood Bible by Barbara Kingsolver
+39. The Glass Castle by Jeannette Walls
+40. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+41. The Color Purple by Alice Walker
+42. The Joy Luck Club by Amy Tan
+43. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+44. The House on Mango Street by Sandra Cisneros
+45. The Things They Carried by Tim O'Brien
+46. The Road Less Traveled by M. Scott Peck
+47. The Power of Now by Eckhart Tolle
+48. The Art of Happiness by Dalai Lama XIV
+49. The Four Agreements by Don Miguel Ruiz
+50. The Celestine Prophecy by James Redfield
+
+These recommendations are based on the user's interest in fantasy, classics, and psychological thrillers.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Angels & Demons by Dan Brown
+2. The Alchemist by Paulo Coelho
+3. The Silmarillion by J. R. R. Tolkien
+4. The Fellowship of the Ring by J. R. R. Tolkien
+5. The Two Towers by J. R. R. Tolkien
+6. The Return of the King by J. R. R. Tolkien
+7. Animal Farm by George Orwell
+8. 1984 by George Orwell
+9. Franny and Zooey by J. D. Salinger
+10. Gone, Baby, Gone by Dennis Lehane
+11. Inkheart by Cornelia Funke
+12. Inkspell by Cornelia Funke
+13. Inkdeath by Cornelia Funke
+14. 2 States: The Story of My Marriage by Chetan Bhagat
+15. Revolution 2020 by Chetan Bhagat
+16. A Thousand Splendid Suns by Khaled Hosseini
+17. And the Mountains Echoed by Khaled Hosseini
+18. Dirk Gently's Holistic Detective Agency by Douglas Adams
+19. The Restaurant at the End of the Universe by Douglas Adams
+20. Life, the Universe and Everything by Douglas Adams
+21. So Long, and Thanks for All the Fish by Douglas Adams
+22. Mostly Harmless by Douglas Adams
+23. The Lost Symbol by Dan Brown
+24. Inferno by Dan Brown
+25. Origin by Dan Brown
+26. Veronika Decides to Die by Paulo Coelho
+27. Brida by Paulo Coelho
+28. The Zahir by Paulo Coelho
+29. The Children of Húrin by J. R. R. Tolkien
+30. Unfinished Tales of Númenor and Middle-earth by J. R. R. Tolkien
+31. The Adventures of Tom Bombadil by J. R. R. Tolkien
+32. The Catcher in the Rye by J. D. Salinger
+33. Nine Stories by J. D. Salinger
+34. Raise High the Roof Beam, Carpenters and Seymour: An Introduction by J. D. Salinger
+35. Shutter Island by Dennis Lehane
+36. Coronado: Stories by Dennis Lehane
+37. Dragon Rider by Cornelia Funke
+38. Ghost Knight by Cornelia Funke
+39. The Blue Umbrella by Ruskin Bond
+40. The Room on the Roof by Ruskin Bond
+41. The Night Train at Deoli and Other Stories by Ruskin Bond
+42. The 3 Mistakes of My Life by Chetan Bhagat
+43. One Night @ the Call Center by Chetan Bhagat
+44. Sea of Poppies by Amitav Ghosh
+45. The Glass Palace by Amitav Ghosh
+46. The Shadow Lines by Amitav Ghosh
+47. The Reluctant Fundamentalist by Mohsin Hamid
+48. Exit West by Mohsin Hamid
+49. How to Get Filthy Rich in Rising Asia by Mohsin Hamid
+50. The White Tiger by Aravind Adiga
+
+These recommendations are based on the user's liking of similar genres, authors, and themes found in the provided book list.

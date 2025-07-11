@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Hunger Games series by Suzanne Collins
+3. The Chronicles of Narnia series by C.S. Lewis
+4. The Lord of the Rings series by J.R.R. Tolkien
+5. The Mortal Instruments series by Cassandra Clare
+6. The Fault in Our Stars by John Green
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Alchemist by Paulo Coelho
+9. The Da Vinci Code by Dan Brown
+10. The Catcher in the Rye by J.D. Salinger
+11. The Great Gatsby by F. Scott Fitzgerald
+12. To Kill a Mockingbird by Harper Lee
+13. 1984 by George Orwell
+14. The Book Thief by Markus Zusak
+15. The Kite Runner by Khaled Hosseini
+16. The Giver by Lois Lowry
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Help by Kathryn Stockett
+20. The Night Circus by Erin Morgenstern
+21. The Goldfinch by Donna Tartt
+22. The Handmaid's Tale by Margaret Atwood
+23. The Martian by Andy Weir
+24. Ready Player One by Ernest Cline
+25. The Name of the Wind by Patrick Rothfuss
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Lovely Bones by Alice Sebold
+29. The Maze Runner series by James Dashner
+30. The Divergent series by Veronica Roth
+31. The Selection series by Kiera Cass
+32. The Lunar Chronicles series by Marissa Meyer
+33. The Red Queen series by Victoria Aveyard
+34. The Throne of Glass series by Sarah J. Maas
+35. The Grisha Trilogy by Leigh Bardugo
+36. The Raven Cycle series by Maggie Stiefvater
+37. The Infernal Devices series by Cassandra Clare
+38. The Dark Artifices series by Cassandra Clare
+39. The Kingkiller Chronicle series by Patrick Rothfuss
+40. The Stormlight Archive series by Brandon Sanderson
+41. Mistborn series by Brandon Sanderson
+42. The Wheel of Time series by Robert Jordan
+43. The Malazan Book of the Fallen series by Steven Erikson
+44. The First Law series by Joe Abercrombie
+45. The Broken Empire series by Mark Lawrence
+46. The Lightbringer series by Brent Weeks
+47. The Powder Mage trilogy by Brian McClellan
+48. The Black Prism by Brent Weeks
+49. The Lies of Locke Lamora by Scott Lynch
+50. The Way of Kings by Brandon Sanderson
+
+These recommendations are based on the user's interest in fantasy, science fiction, and manga/anime genres, as well as popular and critically acclaimed books in similar categories.

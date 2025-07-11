@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jimi Hendrix
+2. Led Zeppelin
+3. Pink Floyd
+4. The Rolling Stones
+5. Nirvana
+6. The Doors
+7. Fleetwood Mac
+8. David Bowie
+9. The Who
+10. Cream
+11. Stevie Ray Vaughan
+12. Janis Joplin
+13. The Allman Brothers Band
+14. Santana
+15. Creedence Clearwater Revival
+16. Chuck Berry
+17. Elvis Presley
+18. Buddy Guy
+19. Otis Redding
+20. Marvin Gaye
+21. Sam Cooke
+22. Al Green
+23. James Brown
+24. Stevie Wonder
+25. Prince
+26. Bob Dylan
+27. Neil Young
+28. The Kinks
+29. The Beach Boys
+30. The Byrds
+31. The Velvet Underground
+32. The Clash
+33. The Smiths
+34. Joy Division
+35. Talking Heads
+36. The Cure
+37. R.E.M.
+38. U2
+39. Pearl Jam
+40. Red Hot Chili Peppers
+41. Oasis
+42. Arctic Monkeys
+43. The Strokes
+44. Kings of Leon
+45. The Black Keys
+46. Tame Impala
+47. Alabama Shakes
+48. Gary Clark Jr.
+49. Hozier
+50. Leon Bridges
+
+These recommendations are based on the user's liking of blues, rock, and soul artists, and include a mix of classic and contemporary musicians across various genres.

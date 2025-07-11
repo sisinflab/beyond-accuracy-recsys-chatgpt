@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Truth About Forever by Sarah Dessen
+2. Just Listen by Sarah Dessen
+3. Eleanor & Park by Rainbow Rowell
+4. Stargirl by Jerry Spinelli
+5. Before I Fall by Lauren Oliver
+6. Paper Towns by John Green
+7. Looking for Alaska by John Green
+8. Thirteen Reasons Why by Jay Asher
+9. Speak by Laurie Halse Anderson
+10. The Fault in Our Stars by John Green
+11. If I Stay by Gayle Forman
+12. The Spectacular Now by Tim Tharp
+13. The Sky Is Everywhere by Jandy Nelson
+14. It's Kind of a Funny Story by Ned Vizzini
+15. The Catcher in the Rye by J.D. Salinger
+16. The Bell Jar by Sylvia Plath
+17. Girl, Interrupted by Susanna Kaysen
+18. Go Ask Alice by Anonymous
+19. The Virgin Suicides by Jeffrey Eugenides
+20. The Lovely Bones by Alice Sebold
+21. We Were Liars by E. Lockhart
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. A Million Little Pieces by James Frey
+24. The Outsiders by S.E. Hinton
+25. Looking for Alibrandi by Melina Marchetta
+26. The Sisterhood of the Traveling Pants by Ann Brashares
+27. The Princess Diaries by Meg Cabot
+28. Angus, Thongs and Full-Frontal Snogging by Louise Rennison
+29. The DUFF: Designated Ugly Fat Friend by Kody Keplinger
+30. Anna and the French Kiss by Stephanie Perkins
+31. To All the Boys I've Loved Before by Jenny Han
+32. Fangirl by Rainbow Rowell
+33. The Statistical Probability of Love at First Sight by Jennifer E. Smith
+34. The Sun Is Also a Star by Nicola Yoon
+35. Everything, Everything by Nicola Yoon
+36. Simon vs. the Homo Sapiens Agenda by Becky Albertalli
+37. Aristotle and Dante Discover the Secrets of the Universe by Benjamin Alire Sáenz
+38. The Hate U Give by Angie Thomas
+39. All the Bright Places by Jennifer Niven
+40. Me and Earl and the Dying Girl by Jesse Andrews
+41. The Book Thief by Markus Zusak
+42. The Perks of Being a Wallflower by Stephen Chbosky
+43. The Fault in Our Stars by John Green
+44. Thirteen Reasons Why by Jay Asher
+45. Speak by Laurie Halse Anderson
+46. Looking for Alaska by John Green
+47. If I Stay by Gayle Forman
+48. Paper Towns by John Green
+49. Before I Fall by Lauren Oliver
+50. The Spectacular Now by Tim Tharp
+
+These recommendations are based on the user's preference for young adult fiction and coming-of-age novels.

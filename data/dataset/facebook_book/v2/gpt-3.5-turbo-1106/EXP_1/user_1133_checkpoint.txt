@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. Pride and Prejudice by Jane Austen
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Kite Runner by Khaled Hosseini
+8. The Hunger Games by Suzanne Collins
+9. The Fault in Our Stars by John Green
+10. The Book Thief by Markus Zusak
+11. The Da Vinci Code by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. Gone Girl by Gillian Flynn
+14. The Help by Kathryn Stockett
+15. The Lovely Bones by Alice Sebold
+16. The Road by Cormac McCarthy
+17. The Goldfinch by Donna Tartt
+18. The Night Circus by Erin Morgenstern
+19. The Martian by Andy Weir
+20. The Handmaid's Tale by Margaret Atwood
+21. The Silent Patient by Alex Michaelides
+22. Where the Crawdads Sing by Delia Owens
+23. Educated by Tara Westover
+24. Little Fires Everywhere by Celeste Ng
+25. The Glass Castle by Jeannette Walls
+26. The Tattooist of Auschwitz by Heather Morris
+27. The Nightingale by Kristin Hannah
+28. The Alice Network by Kate Quinn
+29. The Light Between Oceans by M.L. Stedman
+30. The Rosie Project by Graeme Simsion
+31. Eleanor Oliphant Is Completely Fine by Gail Honeyman
+32. Big Little Lies by Liane Moriarty
+33. The Wife Between Us by Greer Hendricks and Sarah Pekkanen
+34. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+35. The Immortalists by Chloe Benjamin
+36. The Secret History by Donna Tartt
+37. The Power by Naomi Alderman
+38. The Night Circus by Erin Morgenstern
+39. The Name of the Wind by Patrick Rothfuss
+40. The Shadow of the Wind by Carlos Ruiz Zafón
+41. The Nightingale by Kristin Hannah
+42. The Alice Network by Kate Quinn
+43. The Light Between Oceans by M.L. Stedman
+44. The Rosie Project by Graeme Simsion
+45. Eleanor Oliphant Is Completely Fine by Gail Honeyman
+46. Big Little Lies by Liane Moriarty
+47. The Wife Between Us by Greer Hendricks and Sarah Pekkanen
+48. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+49. The Immortalists by Chloe Benjamin
+50. The Secret History by Donna Tartt

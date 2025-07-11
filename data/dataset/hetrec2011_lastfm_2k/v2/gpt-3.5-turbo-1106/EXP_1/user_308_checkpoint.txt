@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Black Sabbath
+3. Pantera
+4. Slayer
+5. Judas Priest
+6. Motorhead
+7. Slipknot
+8. Disturbed
+9. Five Finger Death Punch
+10. Tool
+11. Korn
+12. Lamb of God
+13. Opeth
+14. Nightwish
+15. In Flames
+16. Sepultura
+17. Mastodon
+18. Testament
+19. Gojira
+20. Meshuggah
+21. Queensryche
+22. Symphony X
+23. Kamelot
+24. Sabaton
+25. Epica
+26. Sonata Arctica
+27. Helloween
+28. Stratovarius
+29. Blind Guardian
+30. Rammstein
+31. Lacuna Coil
+32. Within Temptation
+33. Amorphis
+34. Arch Enemy
+35. Bon Jovi
+36. Rise Against
+37. Iron Maiden
+38. Muse
+39. KISS
+40. AC/DC
+41. Aerosmith
+42. Trivium
+43. Europe
+44. A Day to Remember
+45. Led Zeppelin
+46. Guns N' Roses
+47. Lynyrd Skynyrd
+48. As I Lay Dying
+49. Shinedown
+50. Hinder
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for their enjoyment.

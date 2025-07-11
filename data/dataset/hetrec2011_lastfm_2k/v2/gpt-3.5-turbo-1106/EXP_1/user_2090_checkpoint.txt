@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Anathema
+2. Paradise Lost
+3. My Dying Bride
+4. Opeth
+5. Swallow the Sun
+6. Tiamat
+7. Moonspell
+8. Amorphis
+9. The Gathering
+10. Katatonia
+11. Type O Negative
+12. Wire
+13. The Prodigy
+14. PJ Harvey
+15. Melvins
+16. Kyuss
+17. Joy Division
+18. Bauhaus
+19. The Sisters of Mercy
+20. The Distillers
+21. Dethklok
+22. Nirvana
+23. The Dresden Dolls
+24. Deftones
+25. Tool
+26. Nine Inch Nails
+27. Alice in Chains
+28. Soundgarden
+29. Smashing Pumpkins
+30. Stone Temple Pilots
+31. Faith No More
+32. Marilyn Manson
+33. Rammstein
+34. Ministry
+35. KMFDM
+36. Skinny Puppy
+37. Front Line Assembly
+38. VNV Nation
+39. Covenant
+40. Assemblage 23
+41. Apoptygma Berzerk
+42. And One
+43. Blutengel
+44. Combichrist
+45. Suicide Commando
+46. Hocico
+47. Grendel
+48. Aesthetic Perfection
+49. Rotersand
+50. Nachtmahr
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Stratovarius
+2. Nightwish
+3. Sabaton
+4. Epica
+5. HammerFall
+6. Powerwolf
+7. DragonForce
+8. Amaranthe
+9. Elvenking
+10. Iced Earth
+11. Freedom Call
+12. Primal Fear
+13. Sonata Arctica
+14. Blind Guardian
+15. Rhapsody
+16. Helloween
+17. Kamelot
+18. Gamma Ray
+19. Angra
+20. Edguy
+21. Avantasia
+22. Manowar
+23. Symphony X
+24. Iron Maiden
+25. Dream Theater
+26. Children of Bodom
+27. Firewind
+28. Orden Ogan
+29. Luca Turilli
+30. Avantasia
+31. Masterplan
+32. Rhapsody of Fire
+33. Edguy
+34. Kamelot
+35. Stratovarius
+36. Nightwish
+37. Sabaton
+38. Epica
+39. HammerFall
+40. Powerwolf
+41. DragonForce
+42. Amaranthe
+43. Elvenking
+44. Iced Earth
+45. Freedom Call
+46. Primal Fear
+47. Sonata Arctica
+48. Blind Guardian
+49. Helloween
+50. Gamma Ray
+
+These recommendations are based on the user's liking of similar power metal and symphonic metal bands.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Secret History by Donna Tartt
+2. The Night Circus by Erin Morgenstern
+3. The Shadow of the Wind by Carlos Ruiz Zafón
+4. The Goldfinch by Donna Tartt
+5. The Time Traveler's Wife by Audrey Niffenegger
+6. The Book Thief by Markus Zusak
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Catcher in the Rye by J.D. Salinger
+9. The Bell Jar by Sylvia Plath
+10. The Handmaid's Tale by Margaret Atwood
+11. The Great Gatsby by F. Scott Fitzgerald
+12. To Kill a Mockingbird by Harper Lee
+13. One Hundred Years of Solitude by Gabriel García Márquez
+14. Pride and Prejudice by Jane Austen
+15. Wuthering Heights by Emily Brontë
+16. Jane Eyre by Charlotte Brontë
+17. Crime and Punishment by Fyodor Dostoevsky
+18. Anna Karenina by Leo Tolstoy
+19. The Brothers Karamazov by Fyodor Dostoevsky
+20. War and Peace by Leo Tolstoy
+21. Middlemarch by George Eliot
+22. Beloved by Toni Morrison
+23. The Handmaid's Tale by Margaret Atwood
+24. The Road by Cormac McCarthy
+25. The Grapes of Wrath by John Steinbeck
+26. East of Eden by John Steinbeck
+27. The Catcher in the Rye by J.D. Salinger
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Bell Jar by Sylvia Plath
+30. The Great Gatsby by F. Scott Fitzgerald
+31. To Kill a Mockingbird by Harper Lee
+32. One Hundred Years of Solitude by Gabriel García Márquez
+33. Pride and Prejudice by Jane Austen
+34. Wuthering Heights by Emily Brontë
+35. Jane Eyre by Charlotte Brontë
+36. Crime and Punishment by Fyodor Dostoevsky
+37. Anna Karenina by Leo Tolstoy
+38. The Brothers Karamazov by Fyodor Dostoevsky
+39. War and Peace by Leo Tolstoy
+40. Middlemarch by George Eliot
+41. Beloved by Toni Morrison
+42. The Road by Cormac McCarthy
+43. The Grapes of Wrath by John Steinbeck
+44. East of Eden by John Steinbeck
+45. The Catcher in the Rye by J.D. Salinger
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Bell Jar by Sylvia Plath
+48. The Great Gatsby by F. Scott Fitzgerald
+49. To Kill a Mockingbird by Harper Lee
+50. One Hundred Years of Solitude by Gabriel García Márquez
+
+These recommendations are based on the user's liking for literary fiction, classic novels, and contemporary literature.

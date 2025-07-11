@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lost Symbol by Dan Brown
+2. The Lightning Thief by Rick Riordan
+3. The Last Song by Nicholas Sparks
+4. Eragon by Christopher Paolini
+5. Inferno by Dan Brown
+6. Wuthering Heights by Emily Brontë
+7. Eldest by Christopher Paolini
+8. Nancy Drew Mystery Stories by Carolyn Keene
+9. Green Eggs and Ham by Dr. Seuss
+10. Deception Point by Dan Brown
+11. The Titan's Curse by Rick Riordan
+12. Dear John by Nicholas Sparks
+13. The Alchemist by Paulo Coelho
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Catcher in the Rye by J.D. Salinger
+16. The Maze Runner by James Dashner
+17. The Great Gatsby by F. Scott Fitzgerald
+18. The Hunger Games by Suzanne Collins
+19. To Kill a Mockingbird by Harper Lee
+20. The Fault in Our Stars by John Green
+21. The Girl on the Train by Paula Hawkins
+22. The Help by Kathryn Stockett
+23. The Kite Runner by Khaled Hosseini
+24. The Book Thief by Markus Zusak
+25. The Night Circus by Erin Morgenstern
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Lovely Bones by Alice Sebold
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Girl Who Played with Fire by Stieg Larsson
+30. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+31. The Girl in the Spider's Web by David Lagercrantz
+32. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+33. The Girl Who Lived Twice by David Lagercrantz
+34. The Girl Who Wrote in Silk by Kelli Estes
+35. The Girl Who Chased the Moon by Sarah Addison Allen
+36. The Girl Who Fell from the Sky by Heidi W. Durrow
+37. The Girl Who Came Home by Hazel Gaynor
+38. The Girl Who Was Saturday Night by Heather O'Neill
+39. The Girl Who Drank the Moon by Kelly Barnhill
+40. The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making by Catherynne M. Valente
+41. The Girl Who Could Fly by Victoria Forester
+42. The Girl Who Played Go by Shan Sa
+43. The Girl Who Smiled Beads by Clemantine Wamariya
+44. The Girl Who Wrote Loneliness by Kyung-Sook Shin
+45. The Girl Who Knew Too Much by Amanda Quick
+46. The Girl Who Chased the Moon by Sarah Addison Allen
+47. The Girl Who Fell from the Sky by Heidi W. Durrow
+48. The Girl Who Came Home by Hazel Gaynor
+49. The Girl Who Was Saturday Night by Heather O'Neill
+50. The Girl Who Drank the Moon by Kelly Barnhill
+
+These recommendations are based on similar genres, authors, and themes to the books that user 1282 likes.

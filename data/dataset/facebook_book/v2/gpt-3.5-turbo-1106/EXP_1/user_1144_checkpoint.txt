@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hours by Michael Cunningham
+2. The Great Gatsby by F. Scott Fitzgerald
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. 1984 by George Orwell
+6. The Bell Jar by Sylvia Plath
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Handmaid's Tale by Margaret Atwood
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Road by Cormac McCarthy
+11. The Grapes of Wrath by John Steinbeck
+12. The Kite Runner by Khaled Hosseini
+13. The Alchemist by Paulo Coelho
+14. The Book Thief by Markus Zusak
+15. The Shadow of the Wind by Carlos Ruiz Zafón
+16. The God of Small Things by Arundhati Roy
+17. The Poisonwood Bible by Barbara Kingsolver
+18. The Namesake by Jhumpa Lahiri
+19. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+20. The Color Purple by Alice Walker
+21. The Joy Luck Club by Amy Tan
+22. The Glass Castle by Jeannette Walls
+23. The Night Circus by Erin Morgenstern
+24. The Goldfinch by Donna Tartt
+25. The Secret History by Donna Tartt
+26. The Hand That First Held Mine by Maggie O'Farrell
+27. The History of Love by Nicole Krauss
+28. The Unbearable Lightness of Being by Milan Kundera
+29. The House of the Spirits by Isabel Allende
+30. The Wind-Up Bird Chronicle by Haruki Murakami
+31. The Master and Margarita by Mikhail Bulgakov
+32. The Brothers Karamazov by Fyodor Dostoevsky
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The Road by Cormac McCarthy
+35. The Grapes of Wrath by John Steinbeck
+36. The Kite Runner by Khaled Hosseini
+37. The Alchemist by Paulo Coelho
+38. The Book Thief by Markus Zusak
+39. The Shadow of the Wind by Carlos Ruiz Zafón
+40. The God of Small Things by Arundhati Roy
+41. The Poisonwood Bible by Barbara Kingsolver
+42. The Namesake by Jhumpa Lahiri
+43. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+44. The Color Purple by Alice Walker
+45. The Joy Luck Club by Amy Tan
+46. The Glass Castle by Jeannette Walls
+47. The Night Circus by Erin Morgenstern
+48. The Goldfinch by Donna Tartt
+49. The Secret History by Donna Tartt
+50. The Hand That First Held Mine by Maggie O'Farrell
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1144 likes.

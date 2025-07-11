@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. The Lost Symbol by Dan Brown
+3. Inferno by Dan Brown
+4. Deception Point by Dan Brown
+5. The Pelican Brief by John Grisham
+6. A Time to Kill by John Grisham
+7. The Client by John Grisham
+8. The Chamber by John Grisham
+9. The Rainmaker by John Grisham
+10. The Testament by John Grisham
+11. The Partner by John Grisham
+12. The Street Lawyer by John Grisham
+13. The Runaway Jury by John Grisham
+14. The Brethren by John Grisham
+15. The Summons by John Grisham
+16. The King of Torts by John Grisham
+17. The Last Juror by John Grisham
+18. The Broker by John Grisham
+19. The Appeal by John Grisham
+20. The Associate by John Grisham
+21. The Litigators by John Grisham
+22. The Racketeer by John Grisham
+23. The Whistler by John Grisham
+24. The Rooster Bar by John Grisham
+25. The Reckoning by John Grisham
+26. The Guardians by John Grisham
+27. The Scarecrow by Michael Connelly
+28. The Lincoln Lawyer by Michael Connelly
+29. The Brass Verdict by Michael Connelly
+30. The Reversal by Michael Connelly
+31. The Fifth Witness by Michael Connelly
+32. The Gods of Guilt by Michael Connelly
+33. The Burning Room by Michael Connelly
+34. The Crossing by Michael Connelly
+35. The Wrong Side of Goodbye by Michael Connelly
+36. Two Kinds of Truth by Michael Connelly
+37. Dark Sacred Night by Michael Connelly
+38. The Night Fire by Michael Connelly
+39. The Law of Innocence by Michael Connelly
+40. The Black Box by Michael Connelly
+41. The Drop by Michael Connelly
+42. The Scarecrow by Michael Connelly
+43. The Narrows by Michael Connelly
+44. The Closers by Michael Connelly
+45. The Overlook by Michael Connelly
+46. The Brass Verdict by Michael Connelly
+47. The Reversal by Michael Connelly
+48. The Fifth Witness by Michael Connelly
+49. The Gods of Guilt by Michael Connelly
+50. The Burning Room by Michael Connelly
+
+These recommendations are based on the user's interest in books by Chetan Bhagat, John Grisham, and Dan Brown, as well as other popular authors in the thriller and mystery genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Godspeed You! Black Emperor
+2. Bonobo
+3. Múm
+4. Portishead
+5. Elbow
+6. Hammock
+7. Max Richter
+8. Massive Attack
+9. This Will Destroy You
+10. Yann Tiersen
+11. Ólafur Arnalds
+12. Boards of Canada
+13. The Album Leaf
+14. Explosions in the Sky
+15. Hammock
+16. God Is An Astronaut
+17. The xx
+18. Tycho
+19. Nils Frahm
+20. Kiasmos
+21. Jóhann Jóhannsson
+22. Helios
+23. A Winged Victory for the Sullen
+24. Stars of the Lid
+25. Olafur Arnalds
+26. Goldmund
+27. Balmorhea
+28. Rachel's
+29. Gregor Samsa
+30. The American Dollar
+31. The Tallest Man on Earth
+32. The Antlers
+33. The National
+34. Sufjan Stevens
+35. Iron & Wine
+36. Fleet Foxes
+37. José González
+38. Ben Howard
+39. Nick Drake
+40. Damien Rice
+41. Ray LaMontagne
+42. Sufjan Stevens
+43. Elliott Smith
+44. Bright Eyes
+45. The Shins
+46. Death Cab for Cutie
+47. The Decemberists
+48. Band of Horses
+49. Fleet Foxes
+50. Bon Iver
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 888's preferences, here are the top 50 recommendations for them:
+
+1. Linkin Park
+2. Evanescence
+3. Within Temptation
+4. Nightwish
+5. Delain
+6. Lacuna Coil
+7. Leaves' Eyes
+8. Epica
+9. Tarja
+10. Apocalyptica
+11. Kamelot
+12. Rammstein
+13. System of a Down
+14. Serj Tankian
+15. Muse
+16. The Strokes
+17. Radiohead
+18. Arcade Fire
+19. Florence + the Machine
+20. Kings of Leon
+21. OneRepublic
+22. My Chemical Romance
+23. Paramore
+24. Three Days Grace
+25. Papa Roach
+26. 30 Seconds to Mars
+27. Flyleaf
+28. Lifehouse
+29. The Kooks
+30. Switchfoot
+31. Jimmy Eat World
+32. Dead Can Dance
+33. Enigma
+34. Delerium
+35. Gregorian
+36. Leaves' Eyes
+37. Benny Benassi
+38. Moby
+39. Paul van Dyk
+40. ATB
+41. Tiësto
+42. Armin van Buuren
+43. Schiller
+44. Sia
+45. Marina & the Diamonds
+46. Lady Gaga
+47. Katy Perry
+48. Rihanna
+49. Shakira
+50. Britney Spears
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

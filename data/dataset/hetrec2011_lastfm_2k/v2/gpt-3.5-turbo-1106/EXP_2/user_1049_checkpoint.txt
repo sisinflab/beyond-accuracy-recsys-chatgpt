@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 1049:
+
+1. Depeche Mode
+2. Radiohead
+3. Nirvana
+4. Placebo
+5. The Cure
+6. Blur
+7. Daft Punk
+8. Madonna
+9. The Beatles
+10. Lady Gaga
+11. Muse
+12. The Killers
+13. Nine Inch Nails
+14. Paramore
+15. Pink Floyd
+16. Metallica
+17. Arctic Monkeys
+18. The Smashing Pumpkins
+19. Queens of the Stone Age
+20. PJ Harvey
+21. Portishead
+22. Yeah Yeah Yeahs
+23. Kaiser Chiefs
+24. Metric
+25. Siouxsie and the Banshees
+26. Cat Power
+27. New Order
+28. Pixies
+29. Garbage
+30. Joy Division
+31. She Wants Revenge
+32. Beirut
+33. Air
+34. David Bowie
+35. The Smiths
+36. The Mars Volta
+37. These New Puritans
+38. Los Hermanos
+39. R.E.M.
+40. Fever Ray
+41. Stone Temple Pilots
+42. The Velvet Underground
+43. Johnny Cash
+44. Audioslave
+45. Elvis Presley
+46. Britney Spears
+47. Christina Aguilera
+48. Rihanna
+49. Shakira
+50. Beyoncé
+
+These recommendations are based on the user's liking of similar artists and genres.

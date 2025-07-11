@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Joy Division
+2. Siouxsie and the Banshees
+3. The Sisters of Mercy
+4. Bauhaus
+5. The Human League
+6. OMD
+7. Gary Numan
+8. Yazoo
+9. Soft Cell
+10. Visage
+11. Ultravox
+12. The Jesus and Mary Chain
+13. Cocteau Twins
+14. The Mission
+15. The Chameleons
+16. The Psychedelic Furs
+17. Echo & the Bunnymen
+18. New Model Army
+19. Killing Joke
+20. The Cult
+21. The Damned
+22. Public Image Ltd
+23. Magazine
+24. The Sound
+25. The Teardrop Explodes
+26. The Stranglers
+27. The Fall
+28. Wire
+29. Gang of Four
+30. Magazine
+31. The Birthday Party
+32. The Pop Group
+33. The Slits
+34. The Raincoats
+35. The Au Pairs
+36. The Flying Lizards
+37. The Normal
+38. Throbbing Gristle
+39. Cabaret Voltaire
+40. Clock DVA
+41. Fad Gadget
+42. Front 242
+43. Nitzer Ebb
+44. Skinny Puppy
+45. Front Line Assembly
+46. Covenant
+47. VNV Nation
+48. Assemblage 23
+49. Rotersand
+50. Aesthetic Perfection
+
+These recommendations are based on the user's liking of similar artists and genres.

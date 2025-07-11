@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Hobbit by J.R.R. Tolkien
+6. The Hunger Games by Suzanne Collins
+7. The Alchemist by Paulo Coelho
+8. The Book Thief by Markus Zusak
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Da Vinci Code by Dan Brown
+11. The Fault in Our Stars by John Green
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Road by Cormac McCarthy
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Help by Kathryn Stockett
+17. The Lovely Bones by Alice Sebold
+18. The Giver by Lois Lowry
+19. The Maze Runner by James Dashner
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+22. The Night Circus by Erin Morgenstern
+23. The Goldfinch by Donna Tartt
+24. The Handmaid's Tale by Margaret Atwood
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Sun Also Rises by Ernest Hemingway
+27. The Bell Jar by Sylvia Plath
+28. The Road Not Taken by Robert Frost
+29. The Old Man and the Sea by Ernest Hemingway
+30. The Stranger by Albert Camus
+31. The Grapes of Wrath by John Steinbeck
+32. The Scarlet Letter by Nathaniel Hawthorne
+33. The Count of Monte Cristo by Alexandre Dumas
+34. The Brothers Karamazov by Fyodor Dostoevsky
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Sun Also Rises by Ernest Hemingway
+37. The Bell Jar by Sylvia Plath
+38. The Road Not Taken by Robert Frost
+39. The Old Man and the Sea by Ernest Hemingway
+40. The Stranger by Albert Camus
+41. The Grapes of Wrath by John Steinbeck
+42. The Scarlet Letter by Nathaniel Hawthorne
+43. The Count of Monte Cristo by Alexandre Dumas
+44. The Brothers Karamazov by Fyodor Dostoevsky
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Sun Also Rises by Ernest Hemingway
+47. The Bell Jar by Sylvia Plath
+48. The Road Not Taken by Robert Frost
+49. The Old Man and the Sea by Ernest Hemingway
+50. The Stranger by Albert Camus
+
+These recommendations are based on the user's liking of classic literature, young adult fiction, and fantasy novels.

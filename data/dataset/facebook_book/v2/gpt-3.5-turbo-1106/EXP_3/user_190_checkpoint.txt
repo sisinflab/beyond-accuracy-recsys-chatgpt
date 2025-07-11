@@ -1,0 +1,54 @@
+Based on user 190's preferences, here are the top 50 book recommendations for them:
+
+1. The Catcher in the Rye by J. D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. A Wrinkle in Time by Madeleine L'Engle
+4. The Little Prince by Antoine de Saint-Exupéry
+5. The Alchemist by Paulo Coelho
+6. Looking for Alaska by John Green
+7. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+8. The Old Man and the Sea by Ernest Hemingway
+9. A Separate Peace by John Knowles
+10. Mockingjay by Suzanne Collins
+11. Catching Fire by Suzanne Collins
+12. Uglies by Scott Westerfeld
+13. Pretties by Scott Westerfeld
+14. Pretty Little Liars by Sara Shepard
+15. Perfect Chemistry by Simone Elkeles
+16. Kira-Kira by Cynthia Kadohata
+17. The Lovely Bones by Alice Sebold
+18. Franny and Zooey by J.D. Salinger
+19. Brave New World by Aldous Huxley
+20. Fahrenheit 451 by Ray Bradbury
+21. Lord of the Flies by William Golding
+22. Inkheart by Cornelia Funke
+23. Paper Towns by John Green
+24. Ender's Game by Orson Scott Card
+25. The Giver by Lois Lowry
+26. Alice's Adventures in Wonderland by Lewis Carroll
+27. Jane Eyre by Charlotte Brontë
+28. The Notebook by Nicholas Sparks
+29. The Outsiders by S.E. Hinton
+30. Inkspell by Cornelia Funke
+31. The Hunger Games by Suzanne Collins
+32. The Wolves of Mercy Falls by Maggie Stiefvater
+33. Diary of a Wimpy Kid by Jeff Kinney
+34. Harry Potter series by J.K. Rowling
+35. Go Ask Alice by Beatrice Sparks
+36. Thirteen Reasons Why by Jay Asher
+37. The Heroin Diaries by Nikki Sixx
+38. The Land of Elyon by Patrick Carman
+39. Ella Enchanted by Gail Carson Levine
+40. The Last Days by Scott Westerfeld
+41. Beautiful Creatures by Kami Garcia and Margaret Stohl
+42. Fallen by Lauren Kate
+43. Unwind by Neal Shusterman
+44. Speaker for the Dead by Orson Scott Card
+45. Inkdeath by Cornelia Funke
+46. An Abundance of Katherines by John Green
+47. Will Grayson, Will Grayson by John Green and David Levithan
+48. The Tenth Circle by Jodi Picoult
+49. The Key by Lynsay Sands
+50. Impulse by Ellen Hopkins
+
+These recommendations are based on the user's existing preferences and are designed to provide a diverse range of books that align with their interests.

@@ -1,0 +1,54 @@
+Based on user 65's preferences, here are the top-50 recommendations for the given artists:
+
+1. 30 Seconds to Mars
+2. Avenged Sevenfold
+3. Bullet for My Valentine
+4. Korn
+5. Bring Me The Horizon
+6. The Devil Wears Prada
+7. A Rocket to the Moon
+8. Attack Attack!
+9. Staind
+10. Chevelle
+11. The Red Jumpsuit Apparatus
+12. The Maine
+13. Eyes Set to Kill
+14. Zebrahead
+15. Metallica
+16. Foo Fighters
+17. Breaking Benjamin
+18. Dead by April
+19. Fightstar
+20. Nickelback
+21. John Mayer
+22. VersaEmerge
+23. Evanescence
+24. In Flames
+25. Chiodos
+26. The Word Alive
+27. Lifehouse
+28. blink-182
+29. Boys Like Girls
+30. The Kooks
+31. nevershoutnever!
+32. Lostprophets
+33. Oomph!
+34. Mayday Parade
+35. Fall Out Boy
+36. Asking Alexandria
+37. 3 Doors Down
+38. Breathe Carolina
+39. Lights
+40. All Time Low
+41. Killswitch Engage
+42. Hawthorne Heights
+43. Thousand Foot Krutch
+44. Trapt
+45. A Skylit Drive
+46. Papa Roach
+47. Stone Sour
+48. Eminem
+49. Linkin Park
+50. Rise Against
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for their enjoyment.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catch-22 by Joseph Heller
+2. One Flew Over the Cuckoo's Nest by Ken Kesey
+3. On the Road by Jack Kerouac
+4. The Catcher in the Rye by J.D. Salinger
+5. Brave New World by Aldous Huxley
+6. Fahrenheit 451 by Ray Bradbury
+7. To Kill a Mockingbird by Harper Lee
+8. The Road by Cormac McCarthy
+9. The Sun Also Rises by Ernest Hemingway
+10. The Old Man and the Sea by Ernest Hemingway
+11. The Grapes of Wrath by John Steinbeck
+12. East of Eden by John Steinbeck
+13. The Sound and the Fury by William Faulkner
+14. As I Lay Dying by William Faulkner
+15. The Stranger by Albert Camus
+16. The Plague by Albert Camus
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Trial by Franz Kafka
+20. The Metamorphosis by Franz Kafka
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Road to Wigan Pier by George Orwell
+23. Animal Farm by George Orwell
+24. Lord of the Flies by William Golding
+25. Heart of Darkness by Joseph Conrad
+26. The Secret History by Donna Tartt
+27. The Goldfinch by Donna Tartt
+28. Infinite Jest by David Foster Wallace
+29. White Noise by Don DeLillo
+30. Underworld by Don DeLillo
+31. The Corrections by Jonathan Franzen
+32. Freedom by Jonathan Franzen
+33. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+34. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+35. The Road by Cormac McCarthy
+36. Blood Meridian by Cormac McCarthy
+37. The Handmaid's Tale by Margaret Atwood
+38. Oryx and Crake by Margaret Atwood
+39. The Wind-Up Bird Chronicle by Haruki Murakami
+40. Kafka on the Shore by Haruki Murakami
+41. The Master and Margarita by Mikhail Bulgakov
+42. One Hundred Years of Solitude by Gabriel García Márquez
+43. Love in the Time of Cholera by Gabriel García Márquez
+44. The Name of the Rose by Umberto Eco
+45. If on a winter's night a traveler by Italo Calvino
+46. The Shadow of the Wind by Carlos Ruiz Zafón
+47. The Book Thief by Markus Zusak
+48. The Kite Runner by Khaled Hosseini
+49. A Thousand Splendid Suns by Khaled Hosseini
+50. The Alchemist by Paulo Coelho
+
+These recommendations are based on the user's interest in classic literature, existential themes, and thought-provoking narratives.

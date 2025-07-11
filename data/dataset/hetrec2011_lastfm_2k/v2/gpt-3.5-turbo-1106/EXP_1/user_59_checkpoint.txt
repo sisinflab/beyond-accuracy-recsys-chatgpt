@@ -1,0 +1,54 @@
+Based on user 59's preferences, here are the top 50 recommendations:
+
+1. System of a Down
+2. Radiohead
+3. Queens of the Stone Age
+4. Red Hot Chili Peppers
+5. The Smashing Pumpkins
+6. Faith No More
+7. Pearl Jam
+8. Alice in Chains
+9. Soundgarden
+10. Depeche Mode
+11. The Cure
+12. Joy Division
+13. Interpol
+14. The Strokes
+15. Arctic Monkeys
+16. Placebo
+17. The Killers
+18. Muse
+19. Foo Fighters
+20. Nirvana
+21. Green Day
+22. Linkin Park
+23. Korn
+24. Marilyn Manson
+25. Rammstein
+26. Nine Inch Nails
+27. Tool
+28. A Perfect Circle
+29. Deftones
+30. HIM
+31. Apocalyptica
+32. Lacuna Coil
+33. Nightwish
+34. Within Temptation
+35. Epica
+36. Kamelot
+37. Sonata Arctica
+38. Amorphis
+39. Anathema
+40. Paradise Lost
+41. My Dying Bride
+42. Katatonia
+43. Opeth
+44. Porcupine Tree
+45. Riverside
+46. Anathema
+47. Tiamat
+48. Moonspell
+49. Type O Negative
+50. Lacrimosa
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for further exploration.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. The Notebook by Nicholas Sparks
+3. The Catcher in the Rye by J.D. Salinger
+4. The Fault in Our Stars by John Green
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. The Kite Runner by Khaled Hosseini
+8. The Secret Life of Bees by Sue Monk Kidd
+9. The Glass Castle by Jeannette Walls
+10. The Help by Kathryn Stockett
+11. The Girl on the Train by Paula Hawkins
+12. The Night Circus by Erin Morgenstern
+13. Water for Elephants by Sara Gruen
+14. The Time Traveler's Wife by Audrey Niffenegger
+15. The Lovely Bones by Alice Sebold
+16. The Hunger Games by Suzanne Collins
+17. The Book Thief by Markus Zusak
+18. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Martian by Andy Weir
+21. The Goldfinch by Donna Tartt
+22. The Rosie Project by Graeme Simsion
+23. The Nightingale by Kristin Hannah
+24. The Light Between Oceans by M.L. Stedman
+25. The Husband's Secret by Liane Moriarty
+26. The Invention of Wings by Sue Monk Kidd
+27. The Secret Garden by Frances Hodgson Burnett
+28. The Giver by Lois Lowry
+29. The Maze Runner by James Dashner
+30. The Outsiders by S.E. Hinton
+31. The Sun Also Rises by Ernest Hemingway
+32. The Road by Cormac McCarthy
+33. The Bell Jar by Sylvia Plath
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Old Man and the Sea by Ernest Hemingway
+36. The Stranger by Albert Camus
+37. The Count of Monte Cristo by Alexandre Dumas
+38. The Brothers Karamazov by Fyodor Dostoevsky
+39. The Grapes of Wrath by John Steinbeck
+40. The Scarlet Letter by Nathaniel Hawthorne
+41. The Adventures of Tom Sawyer by Mark Twain
+42. The War of the Worlds by H.G. Wells
+43. The Jungle Book by Rudyard Kipling
+44. The Wind in the Willows by Kenneth Grahame
+45. The Secret Garden by Frances Hodgson Burnett
+46. The Call of the Wild by Jack London
+47. The Swiss Family Robinson by Johann David Wyss
+48. The Adventures of Huckleberry Finn by Mark Twain
+49. The Three Musketeers by Alexandre Dumas
+50. The Time Machine by H.G. Wells

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jay-Z
+2. Nas
+3. Kendrick Lamar
+4. Snoop Dogg
+5. Linkin Park
+6. Metallica
+7. Jay Rock
+8. System of a Down
+9. Red Hot Chili Peppers
+10. Lil Uzi Vert
+11. Green Day
+12. The Game
+13. Nirvana
+14. Dr. Dre
+15. Wiz Khalifa
+16. Guns N' Roses
+17. A$AP Rocky
+18. Beastie Boys
+19. The Notorious B.I.G.
+20. Pearl Jam
+21. Ice Cube
+22. Korn
+23. OutKast
+24. 2 Chainz
+25. Marilyn Manson
+26. The Rolling Stones
+27. Wu-Tang Clan
+28. Cypress Hill
+29. 311
+30. The Weeknd
+31. Three Days Grace
+32. Lil Jon
+33. Disturbed
+34. 3 Doors Down
+35. Young Jeezy
+36. The Offspring
+37. Limp Bizkit
+38. Tech N9ne
+39. Rammstein
+40. Rob Zombie
+41. Slipknot
+42. Nine Inch Nails
+43. Busta Rhymes
+44. Run-D.M.C.
+45. Public Enemy
+46. N.W.A
+47. Ice-T
+48. LL Cool J
+49. Eazy-E
+50. Public Enemy
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 715:
+
+1. AC/DC
+2. Metallica
+3. Iron Maiden
+4. Black Sabbath
+5. Judas Priest
+6. Slayer
+7. Megadeth
+8. Pantera
+9. Ozzy Osbourne
+10. Motörhead
+11. Anthrax
+12. KISS
+13. Guns N' Roses
+14. Deep Purple
+15. Rainbow
+16. Scorpions
+17. Queensrÿche
+18. Avenged Sevenfold
+19. Nightwish
+20. System of a Down
+21. Slipknot
+22. Testament
+23. Alice Cooper
+24. Rammstein
+25. HammerFall
+26. Helloween
+27. Blind Guardian
+28. Avantasia
+29. Stratovarius
+30. Saxon
+31. Edguy
+32. Accept
+33. Def Leppard
+34. Overkill
+35. Pain
+36. Cream
+37. Jethro Tull
+38. Eric Clapton
+39. Santana
+40. David Gilmour
+41. Nirvana
+42. Jimi Hendrix
+43. The Jimi Hendrix Experience
+44. Pearl Jam
+45. Van Halen
+46. Queen
+47. Toto
+48. Uriah Heep
+49. Mötley Crüe
+50. Mr. Big
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and bands that align with their musical tastes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. American Psycho by Bret Easton Ellis
+3. The Girl with the Dragon Tattoo by Stieg Larsson
+4. Gone Girl by Gillian Flynn
+5. The Silence of the Lambs by Thomas Harris
+6. Misery by Stephen King
+7. We Have Always Lived in the Castle by Shirley Jackson
+8. The Tell-Tale Heart by Edgar Allan Poe
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Catcher in the Rye by J.D. Salinger
+11. The Hunger Games by Suzanne Collins
+12. The Giver by Lois Lowry
+13. The Maze Runner by James Dashner
+14. The Book Thief by Markus Zusak
+15. The Lovely Bones by Alice Sebold
+16. The Handmaid's Tale by Margaret Atwood
+17. Oryx and Crake by Margaret Atwood
+18. Alias Grace by Margaret Atwood
+19. The Testaments by Margaret Atwood
+20. Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
+21. Mirror Mirror by Gregory Maguire
+22. After Alice by Gregory Maguire
+23. Animal Farm by George Orwell
+24. Brave New World by Aldous Huxley
+25. Fahrenheit 451 by Ray Bradbury
+26. A Clockwork Orange by Anthony Burgess
+27. Lolita by Vladimir Nabokov
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Road by Cormac McCarthy
+31. The Handmaid's Tale by Margaret Atwood
+32. The Blind Assassin by Margaret Atwood
+33. The Robber Bride by Margaret Atwood
+34. The Penelopiad by Margaret Atwood
+35. The Edible Woman by Margaret Atwood
+36. The Year of the Flood by Margaret Atwood
+37. The Heart Goes Last by Margaret Atwood
+38. The Stone Diaries by Carol Shields
+39. The Stinky Cheese Man and Other Fairly Stupid Tales by Jon Scieszka
+40. The True Story of the 3 Little Pigs by Jon Scieszka
+41. Math Curse by Jon Scieszka
+42. The Old Farmer's Almanac by Robert B. Thomas
+43. The Almanac of American Politics by Richard E. Cohen
+44. The World Almanac and Book of Facts by Sarah Janssen
+45. The Almanac of American History by Arthur M. Schlesinger Jr.
+46. The Almanac of American Education by David Garoogian
+47. The Almanac of American Employers by Jack W. Plunkett
+48. The Almanac of American Politics by Michael Barone
+49. The Almanac of American Military History by Spencer C. Tucker
+50. The Almanac of American Letters by Leonard S. Marcus
+
+These recommendations are based on the user's interest in psychological thrillers, classic literature, and alternative retellings of familiar stories.

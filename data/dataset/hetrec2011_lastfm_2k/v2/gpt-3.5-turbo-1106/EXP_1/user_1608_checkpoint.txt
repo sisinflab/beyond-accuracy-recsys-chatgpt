@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Madonna
+2. Katy Perry
+3. Florence + The Machine
+4. Ladyhawke
+5. Robyn
+6. Paramore
+7. Tegan and Sara
+8. Lana Del Rey
+9. HAIM
+10. Charli XCX
+11. Lorde
+12. Ellie Goulding
+13. Marina and the Diamonds
+14. CHVRCHES
+15. La Roux
+16. Carly Rae Jepsen
+17. The Cardigans
+18. Garbage
+19. No Doubt
+20. The Cranberries
+21. Alanis Morissette
+22. Hole
+23. Veruca Salt
+24. Sleater-Kinney
+25. Bikini Kill
+26. The Breeders
+27. Yeah Yeah Yeahs
+28. Metric
+29. The Distillers
+30. P!nk
+31. Kelly Clarkson
+32. Gwen Stefani
+33. Avril Lavigne
+34. The Veronicas
+35. The Pussycat Dolls
+36. Sugababes
+37. Girls Aloud
+38. Spice Girls
+39. Destiny's Child
+40. TLC
+41. En Vogue
+42. Janet Jackson
+43. Jennifer Lopez
+44. Nelly Furtado
+45. Shakira
+46. Kylie Minogue
+47. Christina Aguilera
+48. Jessica Simpson
+49. Mandy Moore
+50. Hilary Duff
+
+These recommendations are based on the user's liking of pop, rock, and alternative artists, and include similar artists and bands that the user may enjoy based on their existing preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1536:
+
+1. Black Sabbath
+2. Megadeth
+3. Pantera
+4. Alice Cooper
+5. Ozzy Osbourne
+6. KISS
+7. Scorpions
+8. Avenged Sevenfold
+9. W.A.S.P.
+10. Helloween
+11. HammerFall
+12. Saxon
+13. Dark Tranquillity
+14. In Flames
+15. Blind Guardian
+16. Arch Enemy
+17. Eluveitie
+18. Stratovarius
+19. Nightwish
+20. Opeth
+21. Queensrÿche
+22. UFO
+23. Rainbow
+24. Uriah Heep
+25. David Gilmour
+26. Pink Floyd
+27. Nirvana
+28. Matanza
+29. Korn
+30. Ensiferum
+31. Paradise Lost
+32. Avantasia
+33. Toto
+34. Jethro Tull
+35. Korpiklaani
+36. Nautilus Pompilius
+37. Queen
+38. The Black Keys
+39. Led Zeppelin
+40. Bon Jovi
+41. Kamelot
+42. Mr. Big
+43. Ratt
+44. Queens of the Stone Age
+45. Paramore
+46. Megadeth
+47. Cradle of Filth
+48. Mägo de Oz
+49. Dokken
+50. Mr. Big
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists that align with their current tastes.

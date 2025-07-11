@@ -1,0 +1,52 @@
+Based on user 337's preferences, here are the top 50 book recommendations:
+
+1. Cat's Cradle by Kurt Vonnegut
+2. The Color Purple by Alice Walker
+3. The Hobbit by J.R.R. Tolkien
+4. Beloved by Toni Morrison
+5. Lolita by Vladimir Nabokov
+6. Bloodline by Claudia Gray
+7. Bridget Jones's Diary by Helen Fielding
+8. Interview with the Vampire by Anne Rice
+9. The Selfish Gene by Richard Dawkins
+10. Fight Club by Chuck Palahniuk
+11. Fig Pudding by Ralph Fletcher
+12. The Exorcist by William Peter Blatty
+13. A Game of Thrones by George R.R. Martin
+14. Interview with the Vampire: The Masquerade by Mark Rein-Hagen
+15. The Beach by Alex Garland
+16. The Nanny Diaries by Emma McLaughlin
+17. Through the Looking-Glass by Lewis Carroll
+18. The Mists of Avalon by Marion Zimmer Bradley
+19. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+20. Wild by Cheryl Strayed
+21. Lord of the Flies by William Golding
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Catcher in the Rye by J.D. Salinger
+24. The Bell Jar by Sylvia Plath
+25. The Handmaid's Tale by Margaret Atwood
+26. The Great Gatsby by F. Scott Fitzgerald
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Road by Cormac McCarthy
+29. The Stand by Stephen King
+30. The Shining by Stephen King
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Da Vinci Code by Dan Brown
+33. The Hunger Games by Suzanne Collins
+34. The Help by Kathryn Stockett
+35. The Lovely Bones by Alice Sebold
+36. The Kite Runner by Khaled Hosseini
+37. The Alchemist by Paulo Coelho
+38. The Book Thief by Markus Zusak
+39. The Fault in Our Stars by John Green
+40. The Perks of Being a Wallflower by Stephen Chbosky
+41. The Secret History by Donna Tartt
+42. The Goldfinch by Donna Tartt
+43. The Night Circus by Erin Morgenstern
+44. The Time Traveler's Wife by Audrey Niffenegger
+45. The Girl on the Train by Paula Hawkins
+46. The Girl with the Pearl Earring by Tracy Chevalier
+47. The Help by Kathryn Stockett
+48. The Lovely Bones by Alice Sebold
+49. The Kite Runner by Khaled Hosseini
+50. The Alchemist by Paulo Coelho

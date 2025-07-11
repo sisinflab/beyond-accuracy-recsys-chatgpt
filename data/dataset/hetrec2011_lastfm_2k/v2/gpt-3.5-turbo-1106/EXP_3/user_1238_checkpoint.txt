@@ -1,0 +1,54 @@
+Based on user 1238's preferences, here are the top 50 recommendations for the given artists:
+
+1. The Doors
+2. The Who
+3. The Beach Boys
+4. Paul McCartney
+5. John Lennon
+6. Queen
+7. The Kinks
+8. The Jimi Hendrix Experience
+9. The Byrds
+10. The Rolling Stones
+11. The Velvet Underground
+12. Pink Floyd
+13. Led Zeppelin
+14. Nirvana
+15. Radiohead
+16. The Beatles
+17. Bob Dylan
+18. The White Stripes
+19. The Smiths
+20. Belle and Sebastian
+21. Arctic Monkeys
+22. Kasabian
+23. MGMT
+24. The National
+25. Oasis
+26. Fleetwood Mac
+27. The Flaming Lips
+28. Pixies
+29. Sonic Youth
+30. Fugazi
+31. Manic Street Preachers
+32. The Smashing Pumpkins
+33. Tom Waits
+34. Gustavo Cerati
+35. Sigur Rós
+36. Vampire Weekend
+37. Gorillaz
+38. Radiohead
+39. The National
+40. The Flaming Lips
+41. The White Stripes
+42. Belle and Sebastian
+43. The Smiths
+44. Bob Marley
+45. Kings of Leon
+46. Ladytron
+47. Édith Piaf
+48. The Rolling Stones
+49. Pink Floyd
+50. Led Zeppelin
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

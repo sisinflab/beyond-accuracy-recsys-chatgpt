@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Mogwai
+2. The xx
+3. Moby
+4. Portishead
+5. Air
+6. The National
+7. Interpol
+8. The Antlers
+9. Elbow
+10. The Cinematic Orchestra
+11. Boards of Canada
+12. Tycho
+13. Explosions in the Sky
+14. God Is an Astronaut
+15. Archive
+16. Radiohead
+17. Sigur Rós
+18. Balmorhea
+19. Röyksopp
+20. Bonobo
+21. Massive Attack
+22. Coldplay
+23. Massive Attack
+24. Archive
+25. Radiohead
+26. Sigur Rós
+27. Balmorhea
+28. Röyksopp
+29. Bonobo
+30. Coldplay
+31. Eminem
+32. 30 Seconds to Mars
+33. Sting
+34. múm
+35. Amiina
+36. The Album Leaf
+37. Hammock
+38. This Will Destroy You
+39. Godspeed You! Black Emperor
+40. Mono
+41. Caspian
+42. Russian Circles
+43. If These Trees Could Talk
+44. Maybeshewill
+45. Yndi Halda
+46. Tides From Nebula
+47. Long Distance Calling
+48. 65daysofstatic
+49. And So I Watch You From Afar
+50. Red Sparowes
+
+These recommendations are based on the user's liking of similar artists and genres.

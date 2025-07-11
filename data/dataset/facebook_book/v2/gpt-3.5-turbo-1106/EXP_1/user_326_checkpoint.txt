@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Giver by Lois Lowry
+4. The Maze Runner by James Dashner
+5. The Fault in Our Stars by John Green
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. The Book Thief by Markus Zusak
+8. Thirteen Reasons Why by Jay Asher
+9. The Lovely Bones by Alice Sebold
+10. Eleanor & Park by Rainbow Rowell
+11. If I Stay by Gayle Forman
+12. The Outsiders by S.E. Hinton
+13. Looking for Alaska by John Green
+14. Paper Towns by John Green
+15. The Catcher in the Rye by J.D. Salinger
+16. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+17. Speak by Laurie Halse Anderson
+18. Stargirl by Jerry Spinelli
+19. The House on Mango Street by Sandra Cisneros
+20. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Alchemist by Paulo Coelho
+23. The Kite Runner by Khaled Hosseini
+24. The Night Circus by Erin Morgenstern
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. Water for Elephants by Sara Gruen
+27. The Help by Kathryn Stockett
+28. The Girl on the Train by Paula Hawkins
+29. Gone Girl by Gillian Flynn
+30. Big Little Lies by Liane Moriarty
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. Sharp Objects by Gillian Flynn
+33. Dark Places by Gillian Flynn
+34. The Goldfinch by Donna Tartt
+35. All the Light We Cannot See by Anthony Doerr
+36. The Nightingale by Kristin Hannah
+37. The Silent Patient by Alex Michaelides
+38. Where the Crawdads Sing by Delia Owens
+39. Educated by Tara Westover
+40. Little Fires Everywhere by Celeste Ng
+41. The Tattooist of Auschwitz by Heather Morris
+42. Before We Were Yours by Lisa Wingate
+43. The Great Alone by Kristin Hannah
+44. The Alice Network by Kate Quinn
+45. The Light Between Oceans by M.L. Stedman
+46. The Nightingale by Kristin Hannah
+47. The Silent Patient by Alex Michaelides
+48. Where the Crawdads Sing by Delia Owens
+49. Educated by Tara Westover
+50. Little Fires Everywhere by Celeste Ng

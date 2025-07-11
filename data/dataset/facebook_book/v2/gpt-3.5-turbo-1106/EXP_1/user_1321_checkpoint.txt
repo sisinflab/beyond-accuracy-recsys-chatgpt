@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Survivor by Chuck Palahniuk
+3. Choke by Chuck Palahniuk
+4. Rant by Chuck Palahniuk
+5. Lullaby by Chuck Palahniuk
+6. Diary by Chuck Palahniuk
+7. Haunted by Chuck Palahniuk
+8. Damned by Chuck Palahniuk
+9. Snuff by Chuck Palahniuk
+10. Pygmy by Chuck Palahniuk
+11. Bitter Fruit by Chuck Palahniuk
+12. Make Something Up: Stories You Can't Unread by Chuck Palahniuk
+13. Walt Whitman's America: A Cultural Biography by David S. Reynolds
+14. The Complete Poems of Walt Whitman by Walt Whitman
+15. Walt Whitman: Poetry and Prose by Walt Whitman
+16. The Portable Walt Whitman by Walt Whitman
+17. The Norton Anthology of American Literature by Walt Whitman
+18. The Journals of Walt Whitman by Walt Whitman
+19. The Essential Walt Whitman by Walt Whitman
+20. The Poetry of Walt Whitman by Walt Whitman
+21. The Collected Poems of Walt Whitman by Walt Whitman
+22. The Complete Walt Whitman: Drum-Taps, Leaves of Grass, Patriotic Poems, Complete Prose Works, The Wound Dresser, Letters by Walt Whitman
+23. Jodi Picoult: The Collection by Jodi Picoult
+24. My Sister's Keeper by Jodi Picoult
+25. Nineteen Minutes by Jodi Picoult
+26. The Pact by Jodi Picoult
+27. Plain Truth by Jodi Picoult
+28. The Tenth Circle by Jodi Picoult
+29. Salem Falls by Jodi Picoult
+30. Perfect Match by Jodi Picoult
+31. Mercy by Jodi Picoult
+32. Change of Heart by Jodi Picoult
+33. Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
+34. Confessions of an Ugly Stepsister by Gregory Maguire
+35. Lost by Gregory Maguire
+36. After Alice by Gregory Maguire
+37. Mirror Mirror by Gregory Maguire
+38. Out of Oz by Gregory Maguire
+39. The Next Queen of Heaven by Gregory Maguire
+40. Egg & Spoon by Gregory Maguire
+41. The Good Liar by Gregory Maguire
+42. The Dream Stealer by Gregory Maguire
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. It by Stephen King
+45. The Shining by Stephen King
+46. Misery by Stephen King
+47. Pet Sematary by Stephen King
+48. 11/22/63 by Stephen King
+49. The Stand by Stephen King
+50. Doctor Sleep by Stephen King
+
+These recommendations are based on the user's interest in specific authors and genres.

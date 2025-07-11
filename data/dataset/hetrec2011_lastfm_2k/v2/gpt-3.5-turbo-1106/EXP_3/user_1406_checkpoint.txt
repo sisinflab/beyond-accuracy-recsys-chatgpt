@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1406:
+
+1. Radiohead
+2. Biffy Clyro
+3. Blood Red Shoes
+4. Death Cab for Cutie
+5. Ben Folds
+6. Final Fantasy
+7. Interpol
+8. Foals
+9. Rage Against the Machine
+10. Nirvana
+11. The Cribs
+12. Queens of the Stone Age
+13. Mansun
+14. Fugazi
+15. Kings of Leon
+16. Muse
+17. Black Flag
+18. PJ Harvey
+19. Frightened Rabbit
+20. Antony and the Johnsons
+21. Arcade Fire
+22. The Mars Volta
+23. Placebo
+24. Metric
+25. Death from Above 1979
+26. Morrissey
+27. A Tribe Called Quest
+28. Beck
+29. Pixies
+30. Sigur Rós
+31. The Killers
+32. Arctic Monkeys
+33. Feist
+34. Two Door Cinema Club
+35. The Beatles
+36. José González
+37. Crystal Castles
+38. Pink Floyd
+39. Massive Attack
+40. The Smiths
+41. Bloc Party
+42. R.E.M.
+43. Björk
+44. Porcupine Tree
+45. Lamb of God
+46. IAMX
+47. Queen
+48. Suede
+49. Travis
+50. The Doors
+
+These recommendations are based on similar genres, styles, and themes to the user's liked artists.

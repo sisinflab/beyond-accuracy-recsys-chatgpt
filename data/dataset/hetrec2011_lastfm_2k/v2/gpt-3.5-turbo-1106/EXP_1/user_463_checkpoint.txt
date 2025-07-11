@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Enya
+2. Within Temptation
+3. Enigma
+4. Sarah Brightman
+5. Delerium
+6. Clannad
+7. Epica
+8. Ramin Djawadi
+9. Vangelis
+10. Lisa Gerrard
+11. Yanni
+12. Secret Garden
+13. Loreena McKennitt & The Chieftains
+14. Two Steps From Hell
+15. Blackmore's Night
+16. Celtic Woman
+17. David Arkenstone
+18. Era
+19. Moya Brennan
+20. E.S. Posthumus
+21. Mylène Farmer
+22. Tarja
+23. Mike Oldfield
+24. Gregorian
+25. Anúna
+26. Karunesh
+27. Faun
+28. Loreena McKennitt & The Prague Symphony Orchestra
+29. Loreena McKennitt & The Bulgarian Symphony Orchestra
+30. Loreena McKennitt & The Hungarian State Opera Orchestra
+31. Loreena McKennitt & The Moscow Symphony Orchestra
+32. Loreena McKennitt & The Royal Philharmonic Orchestra
+33. Loreena McKennitt & The London Symphony Orchestra
+34. Loreena McKennitt & The City of Prague Philharmonic Orchestra
+35. Loreena McKennitt & The Royal Philharmonic Concert Orchestra
+36. Loreena McKennitt & The Czech Philharmonic Orchestra
+37. Loreena McKennitt & The National Philharmonic Orchestra
+38. Loreena McKennitt & The Vienna Symphony Orchestra
+39. Loreena McKennitt & The Berlin Symphony Orchestra
+40. Loreena McKennitt & The Munich Symphony Orchestra
+41. Loreena McKennitt & The Budapest Symphony Orchestra
+42. Loreena McKennitt & The Warsaw Philharmonic Orchestra
+43. Loreena McKennitt & The Oslo Philharmonic Orchestra
+44. Loreena McKennitt & The Stockholm Symphony Orchestra
+45. Loreena McKennitt & The Helsinki Philharmonic Orchestra
+46. Loreena McKennitt & The Copenhagen Philharmonic Orchestra
+47. Loreena McKennitt & The Brussels Philharmonic Orchestra
+48. Loreena McKennitt & The Amsterdam Symphony Orchestra
+49. Loreena McKennitt & The Madrid Symphony Orchestra
+50. Loreena McKennitt & The Lisbon Symphony Orchestra
+
+These recommendations are based on the user's liking of similar artists and genres.

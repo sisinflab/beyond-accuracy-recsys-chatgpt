@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Handmaid's Tale by Margaret Atwood
+6. The Road by Cormac McCarthy
+7. The Kite Runner by Khaled Hosseini
+8. The Alchemist by Paulo Coelho
+9. The Book Thief by Markus Zusak
+10. The Sun Also Rises by Ernest Hemingway
+11. A Farewell to Arms by Ernest Hemingway
+12. The Grapes of Wrath by John Steinbeck
+13. East of Eden by John Steinbeck
+14. The Old Man and the Sea by Ernest Hemingway
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. Cat's Cradle by Kurt Vonnegut
+17. The Stranger by Albert Camus
+18. The Plague by Albert Camus
+19. Crime and Punishment by Fyodor Dostoevsky
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. Anna Karenina by Leo Tolstoy
+22. War and Peace by Leo Tolstoy
+23. The Count of Monte Cristo by Alexandre Dumas
+24. Les Misérables by Victor Hugo
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Importance of Being Earnest by Oscar Wilde
+27. The Scarlet Letter by Nathaniel Hawthorne
+28. Moby-Dick by Herman Melville
+29. The Sound and the Fury by William Faulkner
+30. As I Lay Dying by William Faulkner
+31. Beloved by Toni Morrison
+32. Song of Solomon by Toni Morrison
+33. The Color Purple by Alice Walker
+34. Their Eyes Were Watching God by Zora Neale Hurston
+35. One Flew Over the Cuckoo's Nest by Ken Kesey
+36. The Bell Jar by Sylvia Plath
+37. The Handmaid's Tale by Margaret Atwood
+38. The Road by Cormac McCarthy
+39. The Kite Runner by Khaled Hosseini
+40. The Alchemist by Paulo Coelho
+41. The Book Thief by Markus Zusak
+42. The Sun Also Rises by Ernest Hemingway
+43. A Farewell to Arms by Ernest Hemingway
+44. The Grapes of Wrath by John Steinbeck
+45. East of Eden by John Steinbeck
+46. The Old Man and the Sea by Ernest Hemingway
+47. Slaughterhouse-Five by Kurt Vonnegut
+48. Cat's Cradle by Kurt Vonnegut
+49. The Stranger by Albert Camus
+50. The Plague by Albert Camus
+
+These recommendations are based on the user's liking of classic and contemporary literature, as well as their interest in thought-provoking and emotionally impactful stories.

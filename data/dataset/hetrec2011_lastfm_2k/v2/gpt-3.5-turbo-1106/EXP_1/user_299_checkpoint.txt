@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Killers
+2. Florence + The Machine
+3. The 1975
+4. Tame Impala
+5. HAIM
+6. Vampire Weekend
+7. Two Door Cinema Club
+8. Foster The People
+9. MGMT
+10. Phoenix
+11. The Neighbourhood
+12. Lorde
+13. CHVRCHES
+14. Bastille
+15. The xx
+16. Foals
+17. Imagine Dragons
+18. Cage The Elephant
+19. Arctic Monkeys
+20. Bloc Party
+21. Colbie Caillat
+22. Kanye West
+23. Amy Winehouse
+24. Lykke Li
+25. Lily Allen
+26. Kylie Minogue
+27. Britney Spears
+28. KT Tunstall
+29. The Kooks
+30. The Strokes
+31. Coldplay
+32. Cássia Eller
+33. James Blunt
+34. Jack Johnson
+35. Kaiser Chiefs
+36. Madonna
+37. Lady Gaga
+38. Kate Nash
+39. Nando Reis
+40. The Ting Tings
+41. Vanessa da Mata
+42. Los Hermanos
+43. Black Kids
+44. Beyoncé
+45. Travis
+46. Keane
+47. Ben Harper
+48. The Fratellis
+49. Paramore
+50. Franz Ferdinand
+
+These recommendations are based on the user's liking of similar artists and genres.

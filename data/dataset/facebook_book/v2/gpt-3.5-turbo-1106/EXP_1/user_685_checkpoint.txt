@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. The Catcher in the Rye by J.D. Salinger
+6. Animal Farm by George Orwell
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Bell Jar by Sylvia Plath
+9. The Road by Cormac McCarthy
+10. The Handmaid's Tale by Margaret Atwood
+11. The Stranger by Albert Camus
+12. One Hundred Years of Solitude by Gabriel Garcia Marquez
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Alchemist by Paulo Coelho
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Kite Runner by Khaled Hosseini
+17. The Book Thief by Markus Zusak
+18. The Sun Also Rises by Ernest Hemingway
+19. The Grapes of Wrath by John Steinbeck
+20. The Road Not Taken by Robert Frost
+21. The Scarlet Letter by Nathaniel Hawthorne
+22. The Count of Monte Cristo by Alexandre Dumas
+23. The Brothers Karamazov by Fyodor Dostoevsky
+24. Crime and Punishment by Fyodor Dostoevsky
+25. The Odyssey by Homer
+26. The Iliad by Homer
+27. The Divine Comedy by Dante Alighieri
+28. The Canterbury Tales by Geoffrey Chaucer
+29. Don Quixote by Miguel de Cervantes
+30. War and Peace by Leo Tolstoy
+31. Anna Karenina by Leo Tolstoy
+32. The Master and Margarita by Mikhail Bulgakov
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The Metamorphosis by Franz Kafka
+35. The Trial by Franz Kafka
+36. The Stranger by Albert Camus
+37. The Plague by Albert Camus
+38. The Unbearable Lightness of Being by Milan Kundera
+39. The Name of the Rose by Umberto Eco
+40. The Shadow of the Wind by Carlos Ruiz Zafón
+41. The Book of Disquiet by Fernando Pessoa
+42. The Wind-Up Bird Chronicle by Haruki Murakami
+43. Norwegian Wood by Haruki Murakami
+44. Kafka on the Shore by Haruki Murakami
+45. The Handmaid's Tale by Margaret Atwood
+46. The Blind Assassin by Margaret Atwood
+47. Cat's Eye by Margaret Atwood
+48. Alias Grace by Margaret Atwood
+49. The Robber Bride by Margaret Atwood
+50. Oryx and Crake by Margaret Atwood
+
+These recommendations are based on the user's interest in classic literature, mystery, and psychological thrillers.

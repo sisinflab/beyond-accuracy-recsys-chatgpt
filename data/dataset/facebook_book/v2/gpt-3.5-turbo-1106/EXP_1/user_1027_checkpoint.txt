@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Name of the Wind by Patrick Rothfuss
+4. The Alchemist by Paulo Coelho
+5. To Kill a Mockingbird by Harper Lee
+6. Pride and Prejudice by Jane Austen
+7. The Catcher in the Rye by J.D. Salinger
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hunger Games by Suzanne Collins
+11. The Da Vinci Code by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+14. The Handmaid's Tale by Margaret Atwood
+15. The Giver by Lois Lowry
+16. The Road by Cormac McCarthy
+17. The Stand by Stephen King
+18. The Shining by Stephen King
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Count of Monte Cristo by Alexandre Dumas
+21. The Kite Runner by Khaled Hosseini
+22. The Book Thief by Markus Zusak
+23. The Night Circus by Erin Morgenstern
+24. The Secret History by Donna Tartt
+25. The Goldfinch by Donna Tartt
+26. The Bell Jar by Sylvia Plath
+27. The Handmaid's Tale by Margaret Atwood
+28. The Giver by Lois Lowry
+29. The Road by Cormac McCarthy
+30. The Stand by Stephen King
+31. The Shining by Stephen King
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Count of Monte Cristo by Alexandre Dumas
+34. The Kite Runner by Khaled Hosseini
+35. The Book Thief by Markus Zusak
+36. The Night Circus by Erin Morgenstern
+37. The Secret History by Donna Tartt
+38. The Goldfinch by Donna Tartt
+39. The Bell Jar by Sylvia Plath
+40. The Handmaid's Tale by Margaret Atwood
+41. The Giver by Lois Lowry
+42. The Road by Cormac McCarthy
+43. The Stand by Stephen King
+44. The Shining by Stephen King
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Count of Monte Cristo by Alexandre Dumas
+47. The Kite Runner by Khaled Hosseini
+48. The Book Thief by Markus Zusak
+49. The Night Circus by Erin Morgenstern
+50. The Secret History by Donna Tartt
+
+These recommendations are based on the user's interest in fantasy, classics, dystopian literature, and gothic fiction.

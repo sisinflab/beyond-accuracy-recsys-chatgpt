@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Maroon 5
+2. Usher
+3. Drake
+4. Nicki Minaj
+5. Lady Gaga
+6. Rihanna
+7. Katy Perry
+8. Eminem
+9. Black Eyed Peas
+10. Kanye West
+11. David Guetta
+12. B.o.B
+13. Paramore
+14. Taylor Swift
+15. Justin Bieber
+16. Enrique Iglesias
+17. Far East Movement
+18. Adam Lambert
+19. Avril Lavigne
+20. Beyoncé
+21. Jay-Z
+22. P!nk
+23. Jessie J
+24. Adele
+25. Jason Mraz
+26. Taio Cruz
+27. Timbaland
+28. 3OH!3
+29. Pixie Lott
+30. Christina Aguilera
+31. Ke$ha
+32. Jorge & Mateus
+33. Scracho
+34. Willow Smith
+35. Luan Santana
+36. Fall Out Boy
+37. The Veronicas
+38. Charlie Brown Jr.
+39. Eva Simons
+40. Lil' Wayne
+41. Jordin Sparks
+42. T.I.
+43. Cobra Starship
+44. Anahí
+45. Cascada
+46. Kelly Rowland
+47. Miley Cyrus
+48. Ciara
+49. Duffy
+50. 30 Seconds to Mars
+
+These recommendations are based on similar artists and genres liked by the user.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Giver by Lois Lowry
+2. Percy Jackson & the Olympians series by Rick Riordan
+3. The Hunger Games series by Suzanne Collins
+4. The Lightning Thief by Rick Riordan
+5. The Maze Runner series by James Dashner
+6. The Outsiders by S.E. Hinton
+7. The Fault in Our Stars by John Green
+8. The Chronicles of Narnia series by C.S. Lewis
+9. The Alchemist by Paulo Coelho
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. To Kill a Mockingbird by Harper Lee
+12. The Catcher in the Rye by J.D. Salinger
+13. The Secret Garden by Frances Hodgson Burnett
+14. The Little Prince by Antoine de Saint-Exupéry
+15. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+16. The Sisterhood of the Traveling Pants by Ann Brashares
+17. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+18. The Princess Diaries series by Meg Cabot
+19. The Inheritance Cycle series by Christopher Paolini
+20. The Chronicles of Prydain series by Lloyd Alexander
+21. The Phantom Tollbooth by Norton Juster
+22. The Westing Game by Ellen Raskin
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The House on Mango Street by Sandra Cisneros
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+27. The Princess Diaries series by Meg Cabot
+28. The Inheritance Cycle series by Christopher Paolini
+29. The Chronicles of Prydain series by Lloyd Alexander
+30. The Phantom Tollbooth by Norton Juster
+31. The Westing Game by Ellen Raskin
+32. The Secret Life of Bees by Sue Monk Kidd
+33. The House on Mango Street by Sandra Cisneros
+34. The Perks of Being a Wallflower by Stephen Chbosky
+35. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+36. The Princess Diaries series by Meg Cabot
+37. The Inheritance Cycle series by Christopher Paolini
+38. The Chronicles of Prydain series by Lloyd Alexander
+39. The Phantom Tollbooth by Norton Juster
+40. The Westing Game by Ellen Raskin
+41. The Secret Life of Bees by Sue Monk Kidd
+42. The House on Mango Street by Sandra Cisneros
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+45. The Princess Diaries series by Meg Cabot
+46. The Inheritance Cycle series by Christopher Paolini
+47. The Chronicles of Prydain series by Lloyd Alexander
+48. The Phantom Tollbooth by Norton Juster
+49. The Westing Game by Ellen Raskin
+50. The Secret Life of Bees by Sue Monk Kidd
+
+These recommendations are based on the user's liking for young adult fiction, fantasy, and coming-of-age novels.

@@ -1,0 +1,54 @@
+Based on user 122's preferences, here are the top 50 recommendations for them:
+
+1. The Beatles
+2. The Rolling Stones
+3. David Bowie
+4. The Velvet Underground
+5. Bob Dylan
+6. The Kinks
+7. The Who
+8. Elvis Presley
+9. Jimi Hendrix
+10. Miles Davis
+11. Leonard Cohen
+12. Joy Division
+13. The Stooges
+14. Iggy Pop
+15. Nick Cave and the Bad Seeds
+16. The Jimi Hendrix Experience
+17. The Sisters of Mercy
+18. Echo & The Bunnymen
+19. The Residents
+20. The Jesus and Mary Chain
+21. Frank Zappa
+22. Red Hot Chili Peppers
+23. AC/DC
+24. Ramones
+25. The Libertines
+26. Oasis
+27. U2
+28. Moby
+29. The Donnas
+30. Kasabian
+31. Modest Mouse
+32. Misfits
+33. Babyshambles
+34. Stone Temple Pilots
+35. John Lennon
+36. The Who
+37. Nick Cave and the Bad Seeds
+38. The Beatles
+39. The Rolling Stones
+40. David Bowie
+41. The Velvet Underground
+42. Bob Dylan
+43. The Kinks
+44. The Who
+45. Elvis Presley
+46. Jimi Hendrix
+47. Miles Davis
+48. Leonard Cohen
+49. Joy Division
+50. The Stooges
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

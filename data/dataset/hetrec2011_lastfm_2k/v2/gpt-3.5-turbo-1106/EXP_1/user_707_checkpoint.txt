@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fleetwood Mac
+2. Journey
+3. The Doobie Brothers
+4. Toto
+5. REO Speedwagon
+6. Foreigner
+7. Chicago
+8. Styx
+9. Supertramp
+10. The Alan Parsons Project
+11. America
+12. The Cars
+13. Kansas
+14. Heart
+15. Pat Benatar
+16. Bonnie Raitt
+17. Linda Ronstadt
+18. Carly Simon
+19. Sheryl Crow
+20. Joan Baez
+21. Joni Mitchell
+22. Carole King
+23. Tracy Chapman
+24. Norah Jones
+25. Diana Krall
+26. Eva Cassidy
+27. Sarah McLachlan
+28. Tori Amos
+29. Enigma
+30. Vangelis
+31. Jean Michel Jarre
+32. Kitaro
+33. Yiruma
+34. Ludovico Einaudi
+35. David Lanz
+36. George Winston
+37. Jim Brickman
+38. Yiruma
+39. Ludovico Einaudi
+40. David Lanz
+41. George Winston
+42. Jim Brickman
+43. Alison Krauss
+44. Emmylou Harris
+45. Dolly Parton
+46. Shania Twain
+47. Miranda Lambert
+48. Kacey Musgraves
+49. LeAnn Rimes
+50. Trisha Yearwood
+
+These recommendations are based on the user's liking of artists with similar musical styles and genres.

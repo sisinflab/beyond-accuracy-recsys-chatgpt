@@ -1,0 +1,54 @@
+Based on user 348's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels & Demons by Dan Brown
+3. Digital Fortress by Dan Brown
+4. Deception Point by Dan Brown
+5. The Lost Symbol by Dan Brown
+6. The Silence of the Lambs (novel)
+7. The Godfather (novel)
+8. Hannibal (novel)
+9. The Firm (novel)
+10. The Chronicles of Narnia: Prince Caspian
+11. The Lord of the Rings
+12. Harry Potter
+13. The Kite Runner
+14. The Lovely Bones
+15. A Thousand Splendid Suns
+16. The Zahir (novel)
+17. The Winner Stands Alone
+18. The Class (Erich Segal novel)
+19. Love Story (novel) by Erich Segal
+20. The Fountainhead
+21. Atlas Shrugged
+22. The Catcher in the Rye
+23. To Kill a Mockingbird by Harper Lee
+24. Lolita by Vladimir Nabokov
+25. Gone with the Wind
+26. Pride and Prejudice and Zombies
+27. Sense and Sensibility and Sea Monsters
+28. Nineteen Eighty-Four
+29. The Great Gatsby
+30. The Adventures of Huckleberry Finn
+31. Moby-Dick
+32. The Grapes of Wrath
+33. One Night @ the Call Center
+34. If You Could See Me Now (Cecelia Ahern novel)
+35. The Dirt
+36. Dracula
+37. Timeline (novel)
+38. Teaching with Calvin and Hobbes
+39. Holes (novel)
+40. Christine (novel)
+41. The Argumentative Indian
+42. Touching the Void
+43. Made in America (book)
+44. The Doomsday Conspiracy
+45. Congo (novel)
+46. Losing My Virginity
+47. Fox in Socks
+48. Gaunt's Ghosts
+49. Anthem (novella)
+50. Gray's Anatomy
+
+These recommendations are based on user 348's preferences and the similarity of the recommended books to the ones they have already liked.

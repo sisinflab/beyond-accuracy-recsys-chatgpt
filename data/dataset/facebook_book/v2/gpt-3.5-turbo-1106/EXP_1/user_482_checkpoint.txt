@@ -1,0 +1,54 @@
+Based on the preferences of user 482, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Silmarillion by J.R.R. Tolkien
+3. It by Stephen King
+4. Pet Sematary by Stephen King
+5. Wicked by Gregory Maguire
+6. Cinder by Marissa Meyer
+7. The Night Circus by Erin Morgenstern
+8. Stardust by Neil Gaiman
+9. American Gods by Neil Gaiman
+10. Good Omens by Neil Gaiman and Terry Pratchett
+11. Neverwhere by Neil Gaiman
+12. The Graveyard Book by Neil Gaiman
+13. The Name of the Wind by Patrick Rothfuss
+14. Mistborn: The Final Empire by Brandon Sanderson
+15. Warbreaker by Brandon Sanderson
+16. The Way of Kings by Brandon Sanderson
+17. Elantris by Brandon Sanderson
+18. The Final Empire by Brandon Sanderson
+19. The Gunslinger by Stephen King
+20. The Dark Tower series by Stephen King
+21. The Shining by Stephen King
+22. Carrie by Stephen King
+23. The Talisman by Stephen King and Peter Straub
+24. The Eyes of the Dragon by Stephen King
+25. The Dark Tower series by Stephen King
+26. The Magicians by Lev Grossman
+27. The Lies of Locke Lamora by Scott Lynch
+28. The Blade Itself by Joe Abercrombie
+29. The Name of the Wind by Patrick Rothfuss
+30. The Lies of Locke Lamora by Scott Lynch
+31. The Blade Itself by Joe Abercrombie
+32. The Way of Shadows by Brent Weeks
+33. The Black Prism by Brent Weeks
+34. The Night Angel Trilogy by Brent Weeks
+35. The Lies of Locke Lamora by Scott Lynch
+36. The Blade Itself by Joe Abercrombie
+37. The Way of Shadows by Brent Weeks
+38. The Black Prism by Brent Weeks
+39. The Night Angel Trilogy by Brent Weeks
+40. The Way of Shadows by Brent Weeks
+41. The Black Prism by Brent Weeks
+42. The Night Angel Trilogy by Brent Weeks
+43. The Way of Shadows by Brent Weeks
+44. The Black Prism by Brent Weeks
+45. The Night Angel Trilogy by Brent Weeks
+46. The Way of Shadows by Brent Weeks
+47. The Black Prism by Brent Weeks
+48. The Night Angel Trilogy by Brent Weeks
+49. The Way of Shadows by Brent Weeks
+50. The Black Prism by Brent Weeks
+
+These recommendations are based on similar themes, genres, and authors to the books that user 482 likes.

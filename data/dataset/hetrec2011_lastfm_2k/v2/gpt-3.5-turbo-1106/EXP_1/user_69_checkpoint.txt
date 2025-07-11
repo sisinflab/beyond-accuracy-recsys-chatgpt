@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Animal Collective
+3. Tame Impala
+4. Kendrick Lamar
+5. Caribou
+6. LCD Soundsystem
+7. The Strokes
+8. Arcade Fire
+9. Vampire Weekend
+10. Grimes
+11. Sufjan Stevens
+12. Beach House
+13. The National
+14. Bon Iver
+15. Fleet Foxes
+16. The War on Drugs
+17. Mac DeMarco
+18. King Krule
+19. Tyler, the Creator
+20. Frank Ocean
+21. The Avalanches
+22. MGMT
+23. Spoon
+24. The Black Keys
+25. Father John Misty
+26. Unknown Mortal Orchestra
+27. Parquet Courts
+28. Real Estate
+29. Angel Olsen
+30. Sharon Van Etten
+31. Mitski
+32. Courtney Barnett
+33. The xx
+34. Foals
+35. HAIM
+36. St. Vincent
+37. The Antlers
+38. Warpaint
+39. Future Islands
+40. Perfume Genius
+41. Alvvays
+42. Mac Miller
+43. King Gizzard & The Lizard Wizard
+44. Thundercat
+45. Kamasi Washington
+46. Run the Jewels
+47. Danny Brown
+48. Earl Sweatshirt
+49. Noname
+50. Janelle Monáe
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

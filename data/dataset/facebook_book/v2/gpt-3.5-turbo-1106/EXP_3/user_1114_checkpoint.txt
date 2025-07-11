@@ -1,0 +1,52 @@
+Based on user 1114's preferences, here are the top 50 book recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. The Perks of Being a Wallflower by Stephen Chbosky
+3. Jane Eyre by Charlotte Brontë
+4. The Time Traveler's Wife by Audrey Niffenegger
+5. Girl with a Pearl Earring by Tracy Chevalier
+6. Revolutionary Road by Richard Yates
+7. The Book Thief by Markus Zusak
+8. Nineteen Eighty-Four by George Orwell
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Other Boleyn Girl by Philippa Gregory
+11. A Great and Terrible Beauty
+12. The Help
+13. The Secret Garden
+14. The Hunger Games
+15. The Graveyard Book
+16. The Da Vinci Code
+17. The Hobbit
+18. The Great Gatsby
+19. One Hundred Years of Solitude
+20. The Saga of Darren Shan
+21. The Glass Menagerie
+22. The Sweet Far Thing
+23. A Clockwork Orange
+24. Sabriel
+25. Franny and Zooey
+26. Frankenstein
+27. My Sister's Keeper
+28. Death Note
+29. The Sirens of Titan
+30. The Shadow of the Wind
+31. Anansi Boys
+32. Naked Lunch
+33. A Brief History of Time
+34. To the Lighthouse
+35. Angels & Demons
+36. Cat's Cradle
+37. Inkheart
+38. Wuthering Heights
+39. Rebel Angels
+40. A Thousand Splendid Suns
+41. Slaughterhouse-Five
+42. Stargirl
+43. Spring Awakening
+44. Oedipus the King
+45. Water for Elephants
+46. Book of Revelation
+47. The Facebook Effect
+48. Dracula
+49. Choke
+50. Inferno

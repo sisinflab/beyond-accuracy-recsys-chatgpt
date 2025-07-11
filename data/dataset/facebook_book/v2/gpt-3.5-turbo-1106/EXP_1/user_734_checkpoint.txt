@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. The Shining by Stephen King
+3. Pet Sematary by Stephen King
+4. Misery by Stephen King
+5. It by Stephen King
+6. Needful Things by Stephen King
+7. The Dark Half by Stephen King
+8. The Dead Zone by Stephen King
+9. The Tommyknockers by Stephen King
+10. Gerald's Game by Stephen King
+11. Bag of Bones by Stephen King
+12. The Talisman by Stephen King and Peter Straub
+13. Doctor Sleep by Stephen King
+14. The Outsider by Stephen King
+15. The Institute by Stephen King
+16. The Eyes of the Dragon by Stephen King
+17. The Girl Who Loved Tom Gordon by Stephen King
+18. The Regulators by Richard Bachman (Stephen King)
+19. The Long Walk by Richard Bachman (Stephen King)
+20. The Running Man by Richard Bachman (Stephen King)
+21. The Green Mile by Stephen King
+22. 11/22/63 by Stephen King
+23. Under the Dome by Stephen King
+24. Lisey's Story by Stephen King
+25. Revival by Stephen King
+26. The Dark Tower series by Stephen King
+27. The Witching Hour by Anne Rice
+28. Interview with the Vampire by Anne Rice
+29. The Vampire Lestat by Anne Rice
+30. The Queen of the Damned by Anne Rice
+31. The Tale of the Body Thief by Anne Rice
+32. Memnoch the Devil by Anne Rice
+33. The Vampire Armand by Anne Rice
+34. Merrick by Anne Rice
+35. Blood and Gold by Anne Rice
+36. Blackwood Farm by Anne Rice
+37. Blood Canticle by Anne Rice
+38. Prince Lestat by Anne Rice
+39. The Wolf Gift by Anne Rice
+40. The Mummy or Ramses the Damned by Anne Rice
+41. Servant of the Bones by Anne Rice
+42. Violin by Anne Rice
+43. The Witching Hour by Anne Rice
+44. The Mayfair Witches series by Anne Rice
+45. The Lives of the Mayfair Witches series by Anne Rice
+46. The Sleeping Beauty Quartet by Anne Rice
+47. The Claiming of Sleeping Beauty by Anne Rice
+48. Beauty's Punishment by Anne Rice
+49. Beauty's Release by Anne Rice
+50. Beauty's Kingdom by Anne Rice
+
+These recommendations are based on the user's interest in books by Stephen King and Dean Koontz, as well as the genres and themes present in the mentioned books.

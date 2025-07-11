@@ -1,0 +1,54 @@
+Based on user 1483's preferences, here are the top-50 recommendations:
+
+1. My Chemical Romance
+2. Linkin Park
+3. Paramore
+4. 30 Seconds to Mars
+5. Nightwish
+6. Slipknot
+7. System of a Down
+8. Tokio Hotel
+9. Evanescence
+10. Korn
+11. Queen
+12. Nirvana
+13. Maroon 5
+14. Panic! At the Disco
+15. Avril Lavigne
+16. Lady Gaga
+17. Britney Spears
+18. Ramones
+19. Escape The Fate
+20. Asking Alexandria
+21. Far East Movement
+22. Rage Against the Machine
+23. The Used
+24. A Rocket to the Moon
+25. Black Veil Brides
+26. The Runaways
+27. McFly
+28. Kerli
+29. Gloria
+30. RBD
+31. Legião Urbana
+32. Charlie Brown Jr.
+33. 3OH!3
+34. blessthefall
+35. Tarja
+36. Epica
+37. Sonata Arctica
+38. A Day to Remember
+39. Papa Roach
+40. Fall Out Boy
+41. Good Charlotte
+42. The Maine
+43. Three Days Grace
+44. The Killers
+45. Megadeth
+46. Metallica
+47. Iron Maiden
+48. Mötley Crüe
+49. Skid Row
+50. AC/DC
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

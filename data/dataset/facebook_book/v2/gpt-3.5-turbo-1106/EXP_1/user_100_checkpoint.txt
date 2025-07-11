@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Jane Eyre by Charlotte Brontë
+6. Brave New World by Aldous Huxley
+7. Catch-22 by Joseph Heller
+8. One Flew Over the Cuckoo's Nest by Ken Kesey
+9. The Bell Jar by Sylvia Plath
+10. The Handmaid's Tale by Margaret Atwood
+11. The Picture of Dorian Gray by Oscar Wilde
+12. A Clockwork Orange by Anthony Burgess
+13. The Grapes of Wrath by John Steinbeck
+14. Slaughterhouse-Five by Kurt Vonnegut
+15. The Road by Cormac McCarthy
+16. The Stranger by Albert Camus
+17. The Sun Also Rises by Ernest Hemingway
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Sound and the Fury by William Faulkner
+20. A Farewell to Arms by Ernest Hemingway
+21. The Scarlet Letter by Nathaniel Hawthorne
+22. The Count of Monte Cristo by Alexandre Dumas
+23. Crime and Punishment by Fyodor Dostoevsky
+24. The Brothers Karamazov by Fyodor Dostoevsky
+25. Anna Karenina by Leo Tolstoy
+26. War and Peace by Leo Tolstoy
+27. Moby-Dick by Herman Melville
+28. The Adventures of Huckleberry Finn by Mark Twain
+29. The Grapes of Wrath by John Steinbeck
+30. The Sound and the Fury by William Faulkner
+31. The Old Man and the Sea by Ernest Hemingway
+32. A Farewell to Arms by Ernest Hemingway
+33. The Scarlet Letter by Nathaniel Hawthorne
+34. The Count of Monte Cristo by Alexandre Dumas
+35. Crime and Punishment by Fyodor Dostoevsky
+36. The Brothers Karamazov by Fyodor Dostoevsky
+37. Anna Karenina by Leo Tolstoy
+38. War and Peace by Leo Tolstoy
+39. Moby-Dick by Herman Melville
+40. The Adventures of Huckleberry Finn by Mark Twain
+41. The Grapes of Wrath by John Steinbeck
+42. The Sound and the Fury by William Faulkner
+43. The Old Man and the Sea by Ernest Hemingway
+44. A Farewell to Arms by Ernest Hemingway
+45. The Scarlet Letter by Nathaniel Hawthorne
+46. The Count of Monte Cristo by Alexandre Dumas
+47. Crime and Punishment by Fyodor Dostoevsky
+48. The Brothers Karamazov by Fyodor Dostoevsky
+49. Anna Karenina by Leo Tolstoy
+50. War and Peace by Leo Tolstoy
+
+These recommendations are based on the user's interest in classic literature, psychological themes, and memoirs.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Megadeth
+2. Anthrax
+3. Motorhead
+4. Kreator
+5. Testament
+6. Exodus
+7. Queensryche
+8. Dream Theater
+9. Scorpions
+10. Sepultura
+11. Pantera
+12. Symphony X
+13. Mastodon
+14. Opeth
+15. Children of Bodom
+16. Arch Enemy
+17. In Flames
+18. Lamb of God
+19. Gojira
+20. Trivium
+21. Machine Head
+22. Rammstein
+23. Slipknot
+24. Korn
+25. Tool
+26. Alice in Chains
+27. Soundgarden
+28. Pearl Jam
+29. Nirvana
+30. Alice Cooper
+31. Motley Crue
+32. KISS
+33. Van Halen
+34. AC/DC
+35. Guns N' Roses
+36. Aerosmith
+37. Whitesnake
+38. Bon Jovi
+39. Journey
+40. Foreigner
+41. Boston
+42. Kansas
+43. Styx
+44. Rush
+45. Yes
+46. Genesis
+47. The Who
+48. Led Zeppelin
+49. The Rolling Stones
+50. The Beatles
+
+These recommendations are based on the user's liking of heavy metal and hard rock bands, as well as related genres and classic rock bands.

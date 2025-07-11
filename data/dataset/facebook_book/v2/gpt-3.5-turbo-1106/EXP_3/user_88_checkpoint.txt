@@ -1,0 +1,52 @@
+Based on user 88's preferences, here are the top 50 book recommendations:
+
+1. The Way of Kings by Brandon Sanderson
+2. The Unbearable Lightness of Being by Milan Kundera
+3. The Plague by Albert Camus
+4. Illusions (Bach novel) by Richard Bach
+5. Animal Farm by George Orwell
+6. Tigana by Guy Gavriel Kay
+7. American Gods by Neil Gaiman
+8. The Kite Runner by Khaled Hosseini
+9. Brave New World by Aldous Huxley
+10. The Things They Carried by Tim O'Brien
+11. Dune (novel) by Frank Herbert
+12. By the River Piedra I Sat Down and Wept by Paulo Coelho
+13. The Power of Myth
+14. The Psychedelic Experience
+15. Like Water for Chocolate
+16. Macbeth
+17. Civil Disobedience (Thoreau)
+18. Thus Spoke Zarathustra
+19. Lolita
+20. Fear and Loathing in Las Vegas
+21. The Sandman (book)
+22. Johnny the Homicidal Maniac
+23. A Handful of Dust
+24. The Great Gatsby
+25. A Clockwork Orange
+26. Good to Great
+27. The Vampire Chronicles
+28. Northern Lights (novel)
+29. One Hundred Years of Solitude
+30. Atlas Shrugged
+31. The Namesake
+32. Confessions of an Economic Hit Man
+33. The Last Temptation of Christ
+34. Dracula
+35. The Elegant Universe
+36. Good Omens
+37. Running with Scissors (memoir)
+38. Ghost Wars
+39. The Witch of Portobello
+40. The Master and Margarita
+41. Eva Luna
+42. Divine Comedy
+43. The Rigveda: A Historical Analysis
+44. Ulysses (novel)
+45. The Satanic Verses
+46. Das Nibelungenlied: Ein Heldenepos in 39 Abenteuern
+47. The Seven Habits of Highly Effective People
+48. Don Quixote
+49. Inferno (Dante)
+50. Lords of Chaos (book)

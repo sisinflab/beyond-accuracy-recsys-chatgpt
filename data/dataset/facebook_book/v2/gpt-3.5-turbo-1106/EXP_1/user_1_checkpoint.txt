@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. To Kill a Mockingbird by Harper Lee
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Brothers Karamazov by Fyodor Dostoyevsky
+6. The Stranger by Albert Camus
+7. The Road by Cormac McCarthy
+8. The Bell Jar by Sylvia Plath
+9. The Handmaid's Tale by Margaret Atwood
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Alchemist by Paulo Coelho
+12. The Book Thief by Markus Zusak
+13. The Kite Runner by Khaled Hosseini
+14. The Grapes of Wrath by John Steinbeck
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Sound and the Fury by William Faulkner
+18. The Heart is a Lonely Hunter by Carson McCullers
+19. The Catcher in the Rye by J.D. Salinger
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. Choke by Chuck Palahniuk
+23. Crime and Punishment by Fyodor Dostoyevsky
+24. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+25. The Unbearable Lightness of Being by Milan Kundera
+26. Brave New World by Aldous Huxley
+27. Musashi by Eiji Yoshikawa
+28. Dracula by Bram Stoker
+29. The Great Gatsby by F. Scott Fitzgerald
+30. The Lord of the Rings by J.R.R. Tolkien
+31. The Chronicles of Narnia by C.S. Lewis
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Da Vinci Code by Dan Brown
+34. The Hunger Games by Suzanne Collins
+35. The Help by Kathryn Stockett
+36. The Secret Life of Bees by Sue Monk Kidd
+37. The Lovely Bones by Alice Sebold
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+40. The Night Circus by Erin Morgenstern
+41. The Goldfinch by Donna Tartt
+42. The Martian by Andy Weir
+43. The Handmaid's Tale by Margaret Atwood
+44. The Road by Cormac McCarthy
+45. The Catcher in the Rye by J.D. Salinger
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Shadow of the Wind by Carlos Ruiz Zafón
+48. Choke by Chuck Palahniuk
+49. Crime and Punishment by Fyodor Dostoyevsky
+50. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+
+These recommendations are based on the user's interest in literary fiction, classic literature, and some contemporary novels.

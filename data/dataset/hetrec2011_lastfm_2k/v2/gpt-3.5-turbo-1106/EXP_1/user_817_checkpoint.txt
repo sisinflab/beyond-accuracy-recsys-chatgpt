@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Foo Fighters
+2. Red Hot Chili Peppers
+3. Incubus
+4. Muse
+5. Kings of Leon
+6. Arctic Monkeys
+7. The Black Keys
+8. Coldplay
+9. Oasis
+10. Bon Jovi
+11. The Strokes
+12. Linkin Park
+13. Imagine Dragons
+14. The Smashing Pumpkins
+15. Nirvana
+16. The White Stripes
+17. The Rolling Stones
+18. R.E.M.
+19. The National
+20. The War on Drugs
+21. Interpol
+22. The Lumineers
+23. Death Cab for Cutie
+24. Vampire Weekend
+25. Florence + The Machine
+26. The Avett Brothers
+27. Mumford & Sons
+28. The Shins
+29. Modest Mouse
+30. Silversun Pickups
+31. Cage the Elephant
+32. The Raconteurs
+33. The Gaslight Anthem
+34. Band of Horses
+35. The Decemberists
+36. Spoon
+37. Wilco
+38. My Morning Jacket
+39. The Flaming Lips
+40. Tame Impala
+41. Portugal. The Man
+42. The Head and the Heart
+43. Fleet Foxes
+44. Of Monsters and Men
+45. Hozier
+46. Bastille
+47. Foster the People
+48. Young the Giant
+49. Two Door Cinema Club
+50. Passion Pit
+
+These recommendations are based on the user's liking of alternative and rock artists and are aimed at providing a diverse range of similar artists for the user to explore.

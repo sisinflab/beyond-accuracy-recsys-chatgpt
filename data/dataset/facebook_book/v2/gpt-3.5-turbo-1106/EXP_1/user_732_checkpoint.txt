@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Animal Farm by George Orwell
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Handmaid's Tale by Margaret Atwood
+5. The Road by Cormac McCarthy
+6. The Stand by Stephen King
+7. The Leftovers by Tom Perrotta
+8. The Hunger Games by Suzanne Collins
+9. Divergent by Veronica Roth
+10. The Maze Runner by James Dashner
+11. The Giver by Lois Lowry
+12. The Alchemist by Paulo Coelho
+13. The Celestine Prophecy by James Redfield
+14. The Shack by William P. Young
+15. The Da Vinci Code by Dan Brown
+16. Angels & Demons by Dan Brown
+17. The Left Behind Collection by Tim LaHaye, Jerry B. Jenkins
+18. Tribulation Force by Tim LaHaye, Jerry B. Jenkins
+19. Nicolae by Tim LaHaye, Jerry B. Jenkins
+20. Soul Harvest by Tim LaHaye, Jerry B. Jenkins
+21. Apollyon by Tim LaHaye, Jerry B. Jenkins
+22. Assassins by Tim LaHaye, Jerry B. Jenkins
+23. The Indwelling by Tim LaHaye, Jerry B. Jenkins
+24. The Mark by Tim LaHaye, Jerry B. Jenkins
+25. Desecration by Tim LaHaye, Jerry B. Jenkins
+26. The Remnant by Tim LaHaye, Jerry B. Jenkins
+27. Armageddon by Tim LaHaye, Jerry B. Jenkins
+28. Glorious Appearing by Tim LaHaye, Jerry B. Jenkins
+29. Kingdom Come by Tim LaHaye, Jerry B. Jenkins
+30. Go Ask Alice by Anonymous
+31. It's Kind of a Funny Story by Ned Vizzini
+32. Thirteen Reasons Why by Jay Asher
+33. Speak by Laurie Halse Anderson
+34. Wintergirls by Laurie Halse Anderson
+35. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+36. Harry Potter and the Chamber of Secrets by J.K. Rowling
+37. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+38. Harry Potter and the Goblet of Fire by J.K. Rowling
+39. Harry Potter and the Order of the Phoenix by J.K. Rowling
+40. Harry Potter and the Half-Blood Prince by J.K. Rowling
+41. Harry Potter and the Deathly Hallows by J.K. Rowling
+42. The Golden Compass by Philip Pullman
+43. The Subtle Knife by Philip Pullman
+44. The Amber Spyglass by Philip Pullman
+45. Great Expectations by Charles Dickens
+46. A Tale of Two Cities by Charles Dickens
+47. Bleak House by Charles Dickens
+48. Black Butler by Yana Toboso
+49. Ouran High School Host Club by Bisco Hatori
+50. Fruits Basket by Natsuki Takaya
+
+These recommendations are based on the user's interest in dystopian fiction, religious-themed novels, young adult fantasy, classic literature, and manga.

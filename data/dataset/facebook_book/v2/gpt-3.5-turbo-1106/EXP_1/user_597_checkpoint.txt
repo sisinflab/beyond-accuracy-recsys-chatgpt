@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Catch-22 by Joseph Heller
+4. The Catcher in the Rye by J.D. Salinger
+5. One Flew Over the Cuckoo's Nest by Ken Kesey
+6. The Road by Cormac McCarthy
+7. The Stranger by Albert Camus
+8. The Bell Jar by Sylvia Plath
+9. The Handmaid's Tale by Margaret Atwood
+10. A Clockwork Orange by Anthony Burgess
+11. The Stand by Stephen King
+12. Neuromancer by William Gibson
+13. Do Androids Dream of Electric Sheep? by Philip K. Dick
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Martian by Andy Weir
+16. Snow Crash by Neal Stephenson
+17. The Left Hand of Darkness by Ursula K. Le Guin
+18. The Dispossessed by Ursula K. Le Guin
+19. Dune by Frank Herbert
+20. The Foundation Trilogy by Isaac Asimov
+21. The Hand of Oberon by Roger Zelazny
+22. The Moon is a Harsh Mistress by Robert A. Heinlein
+23. The City & the City by China Miéville
+24. The Wind-Up Bird Chronicle by Haruki Murakami
+25. The Master and Margarita by Mikhail Bulgakov
+26. The Name of the Wind by Patrick Rothfuss
+27. American Gods by Neil Gaiman
+28. The Lies of Locke Lamora by Scott Lynch
+29. The Blade Itself by Joe Abercrombie
+30. The Way of Kings by Brandon Sanderson
+31. The Night Circus by Erin Morgenstern
+32. The Book Thief by Markus Zusak
+33. The Shadow of the Wind by Carlos Ruiz Zafón
+34. The Alchemist by Paulo Coelho
+35. The Kite Runner by Khaled Hosseini
+36. Life of Pi by Yann Martel
+37. The Secret History by Donna Tartt
+38. The Goldfinch by Donna Tartt
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. Gone Girl by Gillian Flynn
+41. The Girl on the Train by Paula Hawkins
+42. Sharp Objects by Gillian Flynn
+43. Dark Places by Gillian Flynn
+44. The Thirteenth Tale by Diane Setterfield
+45. The Nightingale by Kristin Hannah
+46. All the Light We Cannot See by Anthony Doerr
+47. The Goldfinch by Donna Tartt
+48. The Secret History by Donna Tartt
+49. The Girl with the Dragon Tattoo by Stieg Larsson
+50. Gone Girl by Gillian Flynn
+
+These recommendations are based on the user's interest in dystopian literature, classic literature, and contemporary fiction.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ed Sheeran
+2. Taylor Swift
+3. John Mayer
+4. Colbie Caillat
+5. James Blunt
+6. Norah Jones
+7. Ingrid Michaelson
+8. Jason Mraz
+9. Sara Bareilles
+10. Corinne Bailey Rae
+11. Gavin DeGraw
+12. Adele
+13. The Cardigans
+14. Paolo Nutini
+15. Jamie Cullum
+16. Billy Joel
+17. Michael Jackson
+18. Mika
+19. Regina Spektor
+20. Coldplay
+21. The Cranberries
+22. Kate Nash
+23. Duffy
+24. Mariah Carey
+25. Rilo Kiley
+26. Ke$ha
+27. Shania Twain
+28. City and Colour
+29. The Corrs
+30. Train
+31. OneRepublic
+32. The Fray
+33. Kelly Clarkson
+34. Christina Perri
+35. Hozier
+36. Vance Joy
+37. Birdy
+38. The Script
+39. Colbie Caillat
+40. James Blunt
+41. Norah Jones
+42. Ingrid Michaelson
+43. Jason Mraz
+44. Sara Bareilles
+45. Corinne Bailey Rae
+46. Gavin DeGraw
+47. Adele
+48. The Cardigans
+49. Paolo Nutini
+50. Jamie Cullum
+
+These recommendations are based on the user's liking of similar artists and genres.

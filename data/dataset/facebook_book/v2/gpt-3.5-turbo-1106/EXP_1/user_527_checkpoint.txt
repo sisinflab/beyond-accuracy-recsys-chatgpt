@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Animal Farm by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Road by Cormac McCarthy
+4. World War Z by Max Brooks
+5. Prozac Nation by Elizabeth Wurtzel
+6. The Bell Jar by Sylvia Plath
+7. The Lion, the Witch and the Wardrobe by C.S. Lewis
+8. The Magician's Nephew by C.S. Lewis
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. The Outsiders by S.E. Hinton
+11. The Great Gatsby by F. Scott Fitzgerald
+12. The Kite Runner by Khaled Hosseini
+13. Snow Flower and the Secret Fan by Lisa See
+14. The Alchemist by Paulo Coelho
+15. The Old Man and the Sea by Ernest Hemingway
+16. Lord of the Flies by William Golding
+17. The Giver by Lois Lowry
+18. Dune by Frank Herbert
+19. The Maze Runner by James Dashner
+20. The Road by Cormac McCarthy
+21. The Book Thief by Markus Zusak
+22. The Lovely Bones by Alice Sebold
+23. The Glass Castle by Jeannette Walls
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Color Purple by Alice Walker
+26. The Joy Luck Club by Amy Tan
+27. The Handmaid's Tale by Margaret Atwood
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Help by Kathryn Stockett
+30. The Fault in Our Stars by John Green
+31. The Perks of Being a Wallflower by Stephen Chbosky
+32. The Road by Cormac McCarthy
+33. The Catcher in the Rye by J.D. Salinger
+34. The Glass Castle by Jeannette Walls
+35. The Lovely Bones by Alice Sebold
+36. The Secret Life of Bees by Sue Monk Kidd
+37. The Color Purple by Alice Walker
+38. The Joy Luck Club by Amy Tan
+39. The Handmaid's Tale by Margaret Atwood
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Help by Kathryn Stockett
+42. The Fault in Our Stars by John Green
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. The Road by Cormac McCarthy
+45. The Catcher in the Rye by J.D. Salinger
+46. The Glass Castle by Jeannette Walls
+47. The Lovely Bones by Alice Sebold
+48. The Secret Life of Bees by Sue Monk Kidd
+49. The Color Purple by Alice Walker
+50. The Joy Luck Club by Amy Tan
+
+These recommendations are based on the user's interest in dystopian fiction, coming-of-age stories, and classic literature.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Oasis
+2. Arctic Monkeys
+3. Tame Impala
+4. The Smiths
+5. David Bowie
+6. The Flaming Lips
+7. Arcade Fire
+8. The Cure
+9. The Doors
+10. Joy Division
+11. The Clash
+12. Fleetwood Mac
+13. The Smashing Pumpkins
+14. The National
+15. Interpol
+16. The Black Keys
+17. The War on Drugs
+18. The xx
+19. Vampire Weekend
+20. Beck
+21. Modest Mouse
+22. The Killers
+23. The Shins
+24. Spoon
+25. Wilco
+26. LCD Soundsystem
+27. Yeah Yeah Yeahs
+28. The Decemberists
+29. Grizzly Bear
+30. Spoon
+31. The Flaming Lips
+32. The National
+33. Interpol
+34. The Black Keys
+35. The War on Drugs
+36. The xx
+37. Vampire Weekend
+38. Beck
+39. Modest Mouse
+40. The Killers
+41. The Shins
+42. Spoon
+43. Wilco
+44. LCD Soundsystem
+45. Yeah Yeah Yeahs
+46. The Decemberists
+47. Grizzly Bear
+48. Spoon
+49. The Flaming Lips
+50. The National
+
+These recommendations are based on the user's liking of similar artists and genres.

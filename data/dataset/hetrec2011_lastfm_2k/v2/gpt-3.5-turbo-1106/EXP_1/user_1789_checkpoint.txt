@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Belle and Sebastian
+2. The National
+3. Tame Impala
+4. Real Estate
+5. The War on Drugs
+6. Vampire Weekend
+7. Phoenix
+8. Spoon
+9. The Postal Service
+10. The xx
+11. Grizzly Bear
+12. The Antlers
+13. Interpol
+14. The New Pornographers
+15. Yo La Tengo
+16. Animal Collective
+17. Modest Mouse
+18. The Decemberists
+19. Neutral Milk Hotel
+20. Sufjan Stevens
+21. The Flaming Lips
+22. Arcade Fire
+23. The Strokes
+24. LCD Soundsystem
+25. Foals
+26. Bombay Bicycle Club
+27. Two Door Cinema Club
+28. The Wombats
+29. The Vaccines
+30. Arctic Monkeys
+31. The Kooks
+32. Foster the People
+33. Passion Pit
+34. Grouplove
+35. The Naked and Famous
+36. The 1975
+37. HAIM
+38. CHVRCHES
+39. Alvvays
+40. Beach Fossils
+41. DIIV
+42. Wild Nothing
+43. Craft Spells
+44. Tennis
+45. Best Coast
+46. Warpaint
+47. The Horrors
+48. Foxygen
+49. Beach House
+50. The Radio Dept.
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

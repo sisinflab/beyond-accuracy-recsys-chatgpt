@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Eric Clapton
+2. Jimi Hendrix
+3. Gary Clark Jr.
+4. Derek Trucks
+5. Joe Bonamassa
+6. Albert King
+7. Freddie King
+8. Robert Cray
+9. Kenny Wayne Shepherd
+10. Susan Tedeschi
+11. Bonnie Raitt
+12. Taj Mahal
+13. Keb' Mo'
+14. Sonny Landreth
+15. Jeff Beck
+16. The Allman Brothers Band
+17. Tedeschi Trucks Band
+18. Rory Gallagher
+19. Luther Allison
+20. Otis Rush
+21. Elmore James
+22. Junior Wells
+23. Magic Sam
+24. Albert Collins
+25. Johnny Winter
+26. Peter Green
+27. The Derek Trucks Band
+28. Chris Whitley
+29. Ry Cooder
+30. Hound Dog Taylor
+31. T-Bone Walker
+32. Lonnie Mack
+33. Johnny Copeland
+34. Coco Montoya
+35. Walter Trout
+36. Robben Ford
+37. John Mayall & The Bluesbreakers
+38. Canned Heat
+39. The Fabulous Thunderbirds
+40. Stevie Ray Vaughan
+41. John Mayer
+42. Ben Harper
+43. B.B. King
+44. John Lee Hooker
+45. The John Butler Trio
+46. Muddy Waters
+47. Buddy Guy
+48. Howlin' Wolf
+49. Andrew Bird
+50. The Rolling Stones
+
+These recommendations are based on the user's liking of blues, rock, and folk artists, and are aimed at providing a diverse range of similar artists for the user to explore.

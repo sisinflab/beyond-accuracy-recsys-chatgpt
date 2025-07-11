@@ -1,0 +1,54 @@
+Based on user 301's preferences, here are the top-50 recommendations for the given artists:
+
+1. The Beatles
+2. The Rolling Stones
+3. Queen
+4. Guns N' Roses
+5. Lady Gaga
+6. Rihanna
+7. Beyoncé
+8. Madonna
+9. Katy Perry
+10. Miley Cyrus
+11. Paramore
+12. P!nk
+13. Adele
+14. Christina Aguilera
+15. Amy Winehouse
+16. ABBA
+17. Foo Fighters
+18. Kings of Leon
+19. Panic! At the Disco
+20. Gwen Stefani
+21. The Subways
+22. Duffy
+23. The Cure
+24. Arctic Monkeys
+25. Muse
+26. The Killers
+27. 30 Seconds to Mars
+28. Taylor Swift
+29. U2
+30. Interpol
+31. The Kooks
+32. Gorillaz
+33. Katie Melua
+34. David Guetta
+35. Jason Mraz
+36. Norah Jones
+37. Kylie Minogue
+38. Nelly Furtado
+39. Franz Ferdinand
+40. Bloc Party
+41. Death Cab for Cutie
+42. Soundgarden
+43. Phoenix
+44. The Who
+45. Radiohead
+46. Oasis
+47. Led Zeppelin
+48. The Clash
+49. Ramones
+50. The Jimi Hendrix Experience
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their current tastes.

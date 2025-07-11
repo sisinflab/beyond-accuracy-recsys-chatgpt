@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Albert King
+2. Cream
+3. Otis Redding
+4. John Mayall & The Bluesbreakers
+5. T-Bone Walker
+6. Freddie King
+7. The Allman Brothers Band
+8. Elmore James
+9. Bonnie Raitt
+10. Muddy Waters & The Rolling Stones
+11. Little Walter
+12. Derek and the Dominos
+13. Sonny Boy Williamson
+14. The Yardbirds
+15. Joe Bonamassa
+16. Gary Moore
+17. Junior Wells
+18. Rory Gallagher
+19. Koko Taylor
+20. The Paul Butterfield Blues Band
+21. Jeff Beck
+22. Johnny Winter
+23. Canned Heat
+24. Peter Green's Fleetwood Mac
+25. Luther Allison
+26. The Animals
+27. Big Mama Thornton
+28. Johnny Copeland
+29. Lonnie Johnson
+30. Magic Sam
+31. Susan Tedeschi
+32. The Fabulous Thunderbirds
+33. John Lee Hooker & Canned Heat
+34. Stevie Ray Vaughan & Double Trouble
+35. Robert Cray
+36. Taj Mahal
+37. Hound Dog Taylor
+38. John Lee Hooker & Bonnie Raitt
+39. The Black Keys
+40. The Derek Trucks Band
+41. The Robert Cray Band
+42. The Vaughan Brothers
+43. The Jeff Healey Band
+44. The Jon Spencer Blues Explosion
+45. The North Mississippi Allstars
+46. The White Stripes
+47. The Black Crowes
+48. The Tedeschi Trucks Band
+49. The Marcus King Band
+50. The Record Company
+
+These recommendations are based on the user's liking of blues, rock, and soul artists, and include similar artists and bands that the user may enjoy based on their preferences.

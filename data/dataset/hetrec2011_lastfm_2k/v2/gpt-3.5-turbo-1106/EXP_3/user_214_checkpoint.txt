@@ -1,0 +1,54 @@
+Based on user 214's preferences, here are the top-50 recommendations for them:
+
+1. Pink Floyd
+2. The Who
+3. Nirvana
+4. Aerosmith
+5. Queen
+6. Led Zeppelin
+7. The Beatles
+8. Prince
+9. Madonna
+10. Michael Jackson
+11. Lady Gaga
+12. Rihanna
+13. Beyoncé
+14. Justin Timberlake
+15. Katy Perry
+16. Miley Cyrus
+17. Paramore
+18. Amy Winehouse
+19. Adele
+20. Maroon 5
+21. Usher
+22. Gwen Stefani
+23. Avril Lavigne
+24. Shakira
+25. Nelly Furtado
+26. Kelly Rowland
+27. Hilary Duff
+28. Ke$ha
+29. Christina Aguilera
+30. Britney Spears
+31. P!nk
+32. The Pretty Reckless
+33. The Runaways
+34. Joan Jett and the Blackhearts
+35. Cyndi Lauper
+36. The Pussycat Dolls
+37. RBD
+38. Destiny's Child
+39. Janet Jackson
+40. Ne-Yo
+41. Kanye West
+42. T.I.
+43. Bruno Mars
+44. Janelle Monáe
+45. Rihanna
+46. Justin Timberlake
+47. Jennifer Lopez
+48. Madonna
+49. Beyoncé
+50. The Rolling Stones
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

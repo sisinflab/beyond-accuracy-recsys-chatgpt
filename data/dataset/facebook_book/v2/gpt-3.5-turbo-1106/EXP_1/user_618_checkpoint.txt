@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. The Kite Runner by Khaled Hosseini
+8. The Book Thief by Markus Zusak
+9. The Fault in Our Stars by John Green
+10. The Girl on the Train by Paula Hawkins
+11. Gone Girl by Gillian Flynn
+12. The Help by Kathryn Stockett
+13. The Night Circus by Erin Morgenstern
+14. The Goldfinch by Donna Tartt
+15. The Secret History by Donna Tartt
+16. The Shadow of the Wind by Carlos Ruiz Zafón
+17. The Name of the Wind by Patrick Rothfuss
+18. The Martian by Andy Weir
+19. Ready Player One by Ernest Cline
+20. The Handmaid's Tale by Margaret Atwood
+21. The Road by Cormac McCarthy
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Lovely Bones by Alice Sebold
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Glass Castle by Jeannette Walls
+26. The Nightingale by Kristin Hannah
+27. The Light Between Oceans by M.L. Stedman
+28. The Night Manager by John le Carré
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Girl Who Played with Fire by Stieg Larsson
+31. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+32. The Da Vinci Code by Dan Brown
+33. Angels & Demons by Dan Brown
+34. Inferno by Dan Brown
+35. Digital Fortress by Dan Brown
+36. Deception Point by Dan Brown
+37. Origin by Dan Brown
+38. The Lost Symbol by Dan Brown
+39. The Alchemist by Paulo Coelho
+40. Eleven Minutes by Paulo Coelho
+41. Veronika Decides to Die by Paulo Coelho
+42. Brida by Paulo Coelho
+43. The Zahir by Paulo Coelho
+44. By the River Piedra I Sat Down and Wept by Paulo Coelho
+45. The Witch of Portobello by Paulo Coelho
+46. The Valkyries by Paulo Coelho
+47. The Fifth Mountain by Paulo Coelho
+48. The Devil and Miss Prym by Paulo Coelho
+49. Manuscript Found in Accra by Paulo Coelho
+50. Like the Flowing River by Paulo Coelho
+
+These recommendations are based on the user's interest in mystery, thriller, and fiction genres, as well as the authors they have previously enjoyed.

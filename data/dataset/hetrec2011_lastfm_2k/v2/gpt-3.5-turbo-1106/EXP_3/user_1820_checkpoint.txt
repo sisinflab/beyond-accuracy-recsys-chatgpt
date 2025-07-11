@@ -1,0 +1,54 @@
+Based on user 1820's preferences, here are the top 50 recommendations for the given artists:
+
+1. Alicia Keys
+2. Beyoncé
+3. Ne-Yo
+4. Maroon 5
+5. Rihanna
+6. Lady Gaga
+7. Katy Perry
+8. Michael Jackson
+9. Bruno Mars
+10. Justin Timberlake
+11. Madonna
+12. Enrique Iglesias
+13. Chris Brown
+14. Eminem
+15. Taylor Swift
+16. Jennifer Lopez
+17. P!nk
+18. David Guetta
+19. Usher
+20. Mariah Carey
+21. Shakira
+22. Britney Spears
+23. Jason Derülo
+24. Fergie
+25. Nicole Scherzinger
+26. Kesha
+27. Black Eyed Peas
+28. Owl City
+29. Far East Movement
+30. Cobra Starship
+31. Taio Cruz
+32. Flo Rida
+33. Adam Lambert
+34. Glee Cast
+35. Leona Lewis
+36. Demi Lovato
+37. Paramore
+38. Green Day
+39. Panic! At the Disco
+40. Simple Plan
+41. Boys Like Girls
+42. OneRepublic
+43. Kings of Leon
+44. Coldplay
+45. Ellie Goulding
+46. B.o.B
+47. Timbaland
+48. Jessie J
+49. Leighton Meester
+50. Willow Smith
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

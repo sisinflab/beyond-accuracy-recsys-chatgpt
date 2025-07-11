@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. The Witching Hour by Anne Rice
+3. The Tale of the Body Thief by Anne Rice
+4. Memnoch the Devil by Anne Rice
+5. The Mummy or Ramses the Damned by Anne Rice
+6. The Stand by Stephen King
+7. It by Stephen King
+8. Pet Sematary by Stephen King
+9. Misery by Stephen King
+10. Carrie by Stephen King
+11. 11/22/63 by Stephen King
+12. The Shining by Stephen King
+13. The Dark Tower series by Stephen King
+14. The Girl Who Loved Tom Gordon by Stephen King
+15. The Outsider by Stephen King
+16. The Tommyknockers by Stephen King
+17. The Green Mile by Stephen King
+18. The Dead Zone by Stephen King
+19. The Gunslinger by Stephen King
+20. The Drawing of the Three by Stephen King
+21. The Waste Lands by Stephen King
+22. Wizard and Glass by Stephen King
+23. Wolves of the Calla by Stephen King
+24. Song of Susannah by Stephen King
+25. The Dark Tower by Stephen King
+26. The Eyes of the Dragon by Stephen King
+27. The Talisman by Stephen King and Peter Straub
+28. Black House by Stephen King and Peter Straub
+29. Doctor Sleep by Stephen King
+30. The Institute by Stephen King
+31. The Vampire Chronicles by Anne Rice
+32. The Mayfair Witches series by Anne Rice
+33. The Witching Hour by Anne Rice
+34. Lasher by Anne Rice
+35. Taltos by Anne Rice
+36. The Wolf Gift by Anne Rice
+37. The Vampire Armand by Anne Rice
+38. Merrick by Anne Rice
+39. Blood Canticle by Anne Rice
+40. Prince Lestat by Anne Rice
+41. Prince Lestat and the Realms of Atlantis by Anne Rice
+42. Blood Communion by Anne Rice
+43. The Vampire Chronicles by Anne Rice
+44. The Witching Hour by Anne Rice
+45. The Vampire Lestat by Anne Rice
+46. The Tale of the Body Thief by Anne Rice
+47. Memnoch the Devil by Anne Rice
+48. The Mummy or Ramses the Damned by Anne Rice
+49. The Vampire Armand by Anne Rice
+50. Merrick by Anne Rice
+
+These recommendations are based on the user's interest in vampire fiction, horror, and fantasy genres.

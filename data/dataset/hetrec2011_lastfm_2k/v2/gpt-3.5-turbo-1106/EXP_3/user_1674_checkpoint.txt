@@ -1,0 +1,54 @@
+Based on user 1674's preferences, here are the top-50 recommendations for the given artists:
+
+1. Radiohead
+2. The Beatles
+3. Arcade Fire
+4. The Killers
+5. Florence + the Machine
+6. Franz Ferdinand
+7. Queen
+8. The Smashing Pumpkins
+9. U2
+10. Kasabian
+11. Bloc Party
+12. Moby
+13. Death Cab for Cutie
+14. Goldfrapp
+15. Keane
+16. Lily Allen
+17. Jack Johnson
+18. Hurts
+19. 30 Seconds to Mars
+20. Beyoncé
+21. Red Hot Chili Peppers
+22. Linkin Park
+23. Paramore
+24. Justice
+25. Korn
+26. Garbage
+27. Simple Plan
+28. Panic! At the Disco
+29. John Mayer
+30. System of a Down
+31. Marilyn Manson
+32. In Flames
+33. Papa Roach
+34. Glee Cast
+35. Dolphin
+36. Noize MC
+37. IAMX
+38. God Is an Astronaut
+39. Nickelback
+40. Travis
+41. Sopor Aeternus & The Ensemble of Shadows
+42. Protest The Hero
+43. The Last Shadow Puppets
+44. Placebo
+45. The Strokes
+46. Arctic Monkeys
+47. My Chemical Romance
+48. Gorillaz
+49. Coldplay
+50. Muse
+
+These recommendations are based on similar genres and artist preferences of user 1674.

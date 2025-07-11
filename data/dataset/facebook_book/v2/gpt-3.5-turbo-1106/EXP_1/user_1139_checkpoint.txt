@@ -1,0 +1,54 @@
+Based on user 1139's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. The Handmaid's Tale by Margaret Atwood
+7. Fahrenheit 451 by Ray Bradbury
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Bell Jar by Sylvia Plath
+10. The Road by Cormac McCarthy
+11. The Kite Runner by Khaled Hosseini
+12. The Book Thief by Markus Zusak
+13. The Alchemist by Paulo Coelho
+14. The Night Circus by Erin Morgenstern
+15. The Shadow of the Wind by Carlos Ruiz Zafón
+16. The Secret History by Donna Tartt
+17. The Goldfinch by Donna Tartt
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Lovely Bones by Alice Sebold
+21. The Help by Kathryn Stockett
+22. The Glass Castle by Jeannette Walls
+23. The Poisonwood Bible by Barbara Kingsolver
+24. The Color Purple by Alice Walker
+25. The Joy Luck Club by Amy Tan
+26. The Namesake by Jhumpa Lahiri
+27. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+28. The House on Mango Street by Sandra Cisneros
+29. The God of Small Things by Arundhati Roy
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Nightingale by Kristin Hannah
+32. The Light Between Oceans by M.L. Stedman
+33. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows
+34. The Thirteenth Tale by Diane Setterfield
+35. The Snow Child by Eowyn Ivey
+36. The Night Circus by Erin Morgenstern
+37. The Miniaturist by Jessie Burton
+38. The Essex Serpent by Sarah Perry
+39. The Bear and the Nightingale by Katherine Arden
+40. The Immortalists by Chloe Benjamin
+41. The Alice Network by Kate Quinn
+42. The Nightingale by Kristin Hannah
+43. The Light Between Oceans by M.L. Stedman
+44. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows
+45. The Thirteenth Tale by Diane Setterfield
+46. The Snow Child by Eowyn Ivey
+47. The Miniaturist by Jessie Burton
+48. The Essex Serpent by Sarah Perry
+49. The Bear and the Nightingale by Katherine Arden
+50. The Immortalists by Chloe Benjamin
+
+These recommendations are based on the user's preference for literary fiction, historical fiction, and psychological thrillers.

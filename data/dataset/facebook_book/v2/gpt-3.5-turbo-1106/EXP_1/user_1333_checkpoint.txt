@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Outliers: The Story of Success by Malcolm Gladwell
+2. Predictably Irrational: The Hidden Forces That Shape Our Decisions by Dan Ariely
+3. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+4. The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg
+5. The Alchemist by Paulo Coelho
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Da Vinci Code by Dan Brown
+8. The Catcher in the Rye by J.D. Salinger
+9. To Kill a Mockingbird by Harper Lee
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Hunger Games by Suzanne Collins
+12. Gone Girl by Gillian Flynn
+13. The Girl on the Train by Paula Hawkins
+14. The Help by Kathryn Stockett
+15. The Fault in Our Stars by John Green
+16. The Book Thief by Markus Zusak
+17. The Night Circus by Erin Morgenstern
+18. The Goldfinch by Donna Tartt
+19. The Martian by Andy Weir
+20. The Handmaid's Tale by Margaret Atwood
+21. The Road by Cormac McCarthy
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Lovely Bones by Alice Sebold
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Glass Castle by Jeannette Walls
+26. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+27. The Help by Kathryn Stockett
+28. The Nightingale by Kristin Hannah
+29. The Silent Patient by Alex Michaelides
+30. The Tattooist of Auschwitz by Heather Morris
+31. The Alice Network by Kate Quinn
+32. The Light Between Oceans by M.L. Stedman
+33. The Night Circus by Erin Morgenstern
+34. The Goldfinch by Donna Tartt
+35. The Martian by Andy Weir
+36. The Handmaid's Tale by Margaret Atwood
+37. The Road by Cormac McCarthy
+38. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+39. The Lovely Bones by Alice Sebold
+40. The Secret Life of Bees by Sue Monk Kidd
+41. The Glass Castle by Jeannette Walls
+42. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+43. The Help by Kathryn Stockett
+44. The Nightingale by Kristin Hannah
+45. The Silent Patient by Alex Michaelides
+46. The Tattooist of Auschwitz by Heather Morris
+47. The Alice Network by Kate Quinn
+48. The Light Between Oceans by M.L. Stedman
+49. The Night Circus by Erin Morgenstern
+50. The Goldfinch by Donna Tartt
+
+These recommendations are based on the user's interest in non-fiction, mystery, and contemporary fiction books.

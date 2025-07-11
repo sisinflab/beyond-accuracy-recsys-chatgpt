@@ -1,0 +1,54 @@
+Based on user 1995's preferences, here are the top 50 recommendations for them:
+
+1. Moby
+2. Imogen Heap
+3. Death Cab for Cutie
+4. Radiohead
+5. The National
+6. Snow Patrol
+7. Coldplay
+8. Massive Attack
+9. Portishead
+10. Boards of Canada
+11. Belle and Sebastian
+12. Röyksopp
+13. Air
+14. The Album Leaf
+15. múm
+16. Arovane
+17. God Is an Astronaut
+18. Digitalism
+19. Yann Tiersen
+20. Foals
+21. Keane
+22. James Blunt
+23. Balmorhea
+24. A Perfect Circle
+25. Stars
+26. Apparat
+27. Ólafur Arnalds
+28. Tiësto
+29. Max Richter
+30. Ani DiFranco
+31. Bloc Party
+32. Mogwai
+33. The Beatles
+34. Carla Bruni
+35. CocoRosie
+36. OneRepublic
+37. Antônio Carlos Jobim
+38. Underworld
+39. Damien Rice
+40. Joanna Newsom
+41. The Police
+42. Vanessa da Mata
+43. Dashboard Confessional
+44. Emilíana Torrini
+45. The American Dollar
+46. Brian Eno
+47. Maroon 5
+48. Soundtrack
+49. The Killers
+50. Rise Against
+
+These recommendations are based on similarities in musical style and genre to the user's existing preferences.

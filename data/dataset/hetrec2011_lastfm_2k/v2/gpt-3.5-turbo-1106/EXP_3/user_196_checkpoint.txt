@@ -1,0 +1,54 @@
+Based on user 196's preferences, here are the top 50 recommendations for the given artists:
+
+1. U2
+2. Depeche Mode
+3. The Who
+4. The Beatles
+5. Bob Marley & The Wailers
+6. Oasis
+7. Janis Joplin
+8. The Fratellis
+9. The Last Shadow Puppets
+10. The Offspring
+11. The Bravery
+12. The Strokes
+13. Arctic Monkeys
+14. The Killers
+15. Red Hot Chili Peppers
+16. Nirvana
+17. Foo Fighters
+18. Coldplay
+19. Radiohead
+20. Queens of the Stone Age
+21. The Black Keys
+22. The Doors
+23. Led Zeppelin
+24. Paul McCartney & Wings
+25. David Bowie
+26. Editors
+27. John Mayer
+28. Kasabian
+29. Beck
+30. Lily Allen
+31. Florence + the Machine
+32. Sigur Rós
+33. Zемфира
+34. System of a Down
+35. Death Cab for Cutie
+36. Blur
+37. Bloc Party
+38. Bob Marley
+39. White Lies
+40. Kings of Leon
+41. Arcade Fire
+42. Björk
+43. Mindless Self Indulgence
+44. Echo & The Bunnymen
+45. Joy Division
+46. Snow Patrol
+47. Incubus
+48. Regina Spektor
+49. Placebo
+50. Franz Ferdinand
+
+These recommendations are based on similar genres and artist preferences to user 196's existing likes.

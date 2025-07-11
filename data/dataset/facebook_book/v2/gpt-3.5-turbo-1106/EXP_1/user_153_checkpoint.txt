@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Neil Gaiman, Terry Pratchett
+2. Mort by Terry Pratchett
+3. Small Gods by Terry Pratchett
+4. The Wee Free Men by Terry Pratchett
+5. Going Postal by Terry Pratchett
+6. The Colour of Magic by Terry Pratchett
+7. Equal Rites by Terry Pratchett
+8. The Light Fantastic by Terry Pratchett
+9. Night Watch by Terry Pratchett
+10. Reaper Man by Terry Pratchett
+11. The Fifth Elephant by Terry Pratchett
+12. Lords and Ladies by Terry Pratchett
+13. Maskerade by Terry Pratchett
+14. Sourcery by Terry Pratchett
+15. Wyrd Sisters by Terry Pratchett
+16. The Amazing Maurice and His Educated Rodents by Terry Pratchett
+17. The Long Earth by Terry Pratchett, Stephen Baxter
+18. The Long War by Terry Pratchett, Stephen Baxter
+19. The Long Mars by Terry Pratchett, Stephen Baxter
+20. The Long Utopia by Terry Pratchett, Stephen Baxter
+21. The Long Cosmos by Terry Pratchett, Stephen Baxter
+22. The Carpet People by Terry Pratchett
+23. Dodger by Terry Pratchett
+24. Nation by Terry Pratchett
+25. Johnny and the Dead by Terry Pratchett
+26. Johnny and the Bomb by Terry Pratchett
+27. The Bromeliad Trilogy by Terry Pratchett
+28. The Dark Side of the Sun by Terry Pratchett
+29. Strata by Terry Pratchett
+30. The Unadulterated Cat by Terry Pratchett
+31. The Science of Discworld by Terry Pratchett, Ian Stewart, Jack Cohen
+32. The Science of Discworld II: The Globe by Terry Pratchett, Ian Stewart, Jack Cohen
+33. The Science of Discworld III: Darwin's Watch by Terry Pratchett, Ian Stewart, Jack Cohen
+34. The Discworld Almanak by Terry Pratchett, Bernard Pearson
+35. The Streets of Ankh-Morpork by Terry Pratchett, Stephen Briggs
+36. The Discworld Companion by Terry Pratchett, Stephen Briggs
+37. The Discworld Mapp by Terry Pratchett, Stephen Briggs
+38. The Art of Discworld by Terry Pratchett, Paul Kidby
+39. The Wit and Wisdom of Discworld by Terry Pratchett, Stephen Briggs
+40. The Folklore of Discworld by Terry Pratchett, Jacqueline Simpson
+41. The Discworld Emporium by Terry Pratchett, Bernard Pearson
+42. The Discworld Graphic Novels by Terry Pratchett, Stephen Briggs
+43. The Discworld Diaries by Terry Pratchett
+44. The Discworld Stamps by Terry Pratchett
+45. The Discworld Plays by Terry Pratchett, Stephen Briggs
+46. The Discworld Quizbook by Terry Pratchett, David Langford
+47. The Discworld Portfolio by Terry Pratchett, Paul Kidby
+48. The Discworld Calendar by Terry Pratchett
+49. The Discworld Colouring Book by Terry Pratchett, Paul Kidby
+50. The Discworld Collector's Library by Terry Pratchett
+
+These recommendations are based on the user's preference for books by Terry Pratchett and may align with their interests in fantasy, humor, and satire.

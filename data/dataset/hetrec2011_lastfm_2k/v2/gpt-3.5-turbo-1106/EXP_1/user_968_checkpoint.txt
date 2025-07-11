@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tame Impala
+2. The War on Drugs
+3. Real Estate
+4. Wild Nothing
+5. DIIV
+6. Grizzly Bear
+7. Yo La Tengo
+8. Caribou
+9. Washed Out
+10. Mac DeMarco
+11. The National
+12. Fleet Foxes
+13. Vampire Weekend
+14. Spoon
+15. The Shins
+16. Modest Mouse
+17. Pavement
+18. Neutral Milk Hotel
+19. The Strokes
+20. Arctic Monkeys
+21. Interpol
+22. Foals
+23. The Black Keys
+24. Phoenix
+25. LCD Soundsystem
+26. Hot Chip
+27. Cut Copy
+28. Passion Pit
+29. Foster the People
+30. Two Door Cinema Club
+31. Bombay Bicycle Club
+32. The Wombats
+33. The Vaccines
+34. The Kooks
+35. Bloc Party
+36. Franz Ferdinand
+37. The Libertines
+38. The Cribs
+39. The Pains of Being Pure at Heart
+40. Alvvays
+41. Beach Fossils
+42. Surfer Blood
+43. Best Coast
+44. Wavves
+45. The Drums
+46. The Raveonettes
+47. The Horrors
+48. The Jesus and Mary Chain
+49. Ride
+50. Slowdive
+
+These recommendations are based on the user's liking of indie, dream pop, shoegaze, and alternative rock artists.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Chronicles of Narnia by C.S. Lewis
+3. Eragon by Christopher Paolini
+4. The Hobbit by J.R.R. Tolkien
+5. The Mortal Instruments series by Cassandra Clare
+6. A Song of Ice and Fire series by George R.R. Martin
+7. The Name of the Wind by Patrick Rothfuss
+8. The Wheel of Time series by Robert Jordan
+9. Mistborn series by Brandon Sanderson
+10. The Kingkiller Chronicle series by Patrick Rothfuss
+11. The Dark Tower series by Stephen King
+12. The Magicians by Lev Grossman
+13. The Dresden Files series by Jim Butcher
+14. The Inheritance Cycle series by Christopher Paolini
+15. The Witcher series by Andrzej Sapkowski
+16. The Black Prism by Brent Weeks
+17. The Way of Kings by Brandon Sanderson
+18. The Lies of Locke Lamora by Scott Lynch
+19. The Stormlight Archive series by Brandon Sanderson
+20. The Riyria Revelations series by Michael J. Sullivan
+21. The First Law series by Joe Abercrombie
+22. The Broken Empire series by Mark Lawrence
+23. The Lightbringer series by Brent Weeks
+24. The Demon Cycle series by Peter V. Brett
+25. The Powder Mage trilogy by Brian McClellan
+26. The Farseer Trilogy by Robin Hobb
+27. The Night Angel Trilogy by Brent Weeks
+28. The Gentleman Bastard series by Scott Lynch
+29. The Malazan Book of the Fallen series by Steven Erikson
+30. The Black Company series by Glen Cook
+31. The Codex Alera series by Jim Butcher
+32. The Belgariad series by David Eddings
+33. The Malloreon series by David Eddings
+34. The Elenium series by David Eddings
+35. The Tamuli series by David Eddings
+36. The Sword of Truth series by Terry Goodkind
+37. The Shannara series by Terry Brooks
+38. The Earthsea series by Ursula K. Le Guin
+39. The Drenai series by David Gemmell
+40. The Rigante series by David Gemmell
+41. The Troy series by David Gemmell
+42. The Saxon Stories series by Bernard Cornwell
+43. The Grisha trilogy by Leigh Bardugo
+44. The Red Queen series by Victoria Aveyard
+45. The Lunar Chronicles series by Marissa Meyer
+46. The Selection series by Kiera Cass
+47. The Maze Runner series by James Dashner
+48. The Divergent series by Veronica Roth
+49. The Uglies series by Scott Westerfeld
+50. The Giver quartet by Lois Lowry
+
+These recommendations are based on the user's interest in fantasy, science fiction, and young adult literature.

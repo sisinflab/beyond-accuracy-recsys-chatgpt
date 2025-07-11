@@ -1,0 +1,54 @@
+Based on user 1809's preferences, here are the top-50 recommendations for the user:
+
+1. Green Day
+2. My Chemical Romance
+3. Megadeth
+4. Sum 41
+5. Beastie Boys
+6. Rancid
+7. Fall Out Boy
+8. Avenged Sevenfold
+9. Pantera
+10. Guns N' Roses
+11. Slayer
+12. Judas Priest
+13. Skillet
+14. AC/DC
+15. Red Hot Chili Peppers
+16. 30 Seconds to Mars
+17. Helloween
+18. New Found Glory
+19. Bon Jovi
+20. Sex Pistols
+21. Toto
+22. Bullet for My Valentine
+23. Alice Cooper
+24. Rammstein
+25. Nirvana
+26. Korn
+27. Metallica
+28. Placebo
+29. Millencolin
+30. The Adicts
+31. Sonata Arctica
+32. Lostprophets
+33. Toto
+34. Jethro Tull
+35. Anti-Flag
+36. Hinder
+37. Shinedown
+38. Bruce Dickinson
+39. Coldplay
+40. David Guetta
+41. Poets of the Fall
+42. Lacuna Coil
+43. Korpiklaani
+44. Mr. Big
+45. Bloodhound Gang
+46. Scorpions
+47. HIM
+48. Paradise Lost
+49. Dokken
+50. Elvis Presley
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their music taste.

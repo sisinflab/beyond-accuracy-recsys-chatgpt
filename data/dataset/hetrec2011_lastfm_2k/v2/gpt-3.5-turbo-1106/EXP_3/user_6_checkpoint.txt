@@ -1,0 +1,54 @@
+Based on user 6's preferences, here are the top 50 recommendations for them:
+
+1. Beyoncé
+2. Jay-Z
+3. Michael Jackson
+4. Rihanna
+5. Kanye West
+6. Alicia Keys
+7. Mariah Carey
+8. Whitney Houston
+9. Nas
+10. Mary J. Blige
+11. Erykah Badu
+12. Common
+13. Sade
+14. Janet Jackson
+15. George Michael
+16. Madonna
+17. Aretha Franklin
+18. OutKast
+19. Lupe Fiasco
+20. Usher
+21. Aaliyah
+22. Brandy
+23. Joss Stone
+24. Jennifer Hudson
+25. Norah Jones
+26. Adele
+27. Corinne Bailey Rae
+28. Alanis Morissette
+29. The Roots
+30. Bob Marley & The Wailers
+31. Bob Marley
+32. 2Pac
+33. Nas
+34. Gang Starr
+35. MF DOOM
+36. Notorious B.I.G.
+37. The Game
+38. Kid Cudi
+39. Jamie Cullum
+40. Kid Abelha
+41. Ana Carolina
+42. Lara Fabian
+43. Goldfrapp
+44. Timbaland
+45. Amerie
+46. Kylie Minogue
+47. Madonna
+48. Katy Perry
+49. Lady Gaga
+50. M.I.A.
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

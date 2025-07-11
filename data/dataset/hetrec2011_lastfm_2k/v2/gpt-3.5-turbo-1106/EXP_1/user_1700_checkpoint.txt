@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. John Coltrane
+2. Herbie Hancock
+3. Thelonious Monk
+4. Charles Mingus
+5. Chet Baker
+6. Bill Evans
+7. Sonny Rollins
+8. Art Blakey & The Jazz Messengers
+9. Ornette Coleman
+10. Wayne Shorter
+11. Kamasi Washington
+12. Robert Glasper
+13. Esperanza Spalding
+14. BadBadNotGood
+15. Snarky Puppy
+16. The Cinematic Orchestra
+17. Portico Quartet
+18. GoGo Penguin
+19. Nils Frahm
+20. Bonobo
+21. Tycho
+22. Boards of Canada
+23. Four Tet
+24. Caribou
+25. Röyksopp
+26. Air
+27. Zero 7
+28. Bon Iver
+29. Sufjan Stevens
+30. José González
+31. Iron & Wine
+32. Fleet Foxes
+33. The Tallest Man on Earth
+34. Nick Drake
+35. Elliott Smith
+36. Sufjan Stevens
+37. José González
+38. Iron & Wine
+39. Fleet Foxes
+40. The Tallest Man on Earth
+41. Nick Drake
+42. Elliott Smith
+43. Sigur Rós
+44. Mogwai
+45. Godspeed You! Black Emperor
+46. Explosions in the Sky
+47. Mono
+48. This Will Destroy You
+49. Caspian
+50. Hammock
+
+These recommendations are based on the user's liking of jazz, alternative rock, electronic, and ambient music, as well as similar artists to the ones they already enjoy.

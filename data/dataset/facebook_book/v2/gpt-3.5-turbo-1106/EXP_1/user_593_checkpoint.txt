@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Memoirs of a Geisha by Arthur Golden
+2. The Adventures of Huckleberry Finn by Mark Twain
+3. Frankenstein by Mary Shelley
+4. The Lord of the Rings by J.R.R. Tolkien
+5. Pride and Prejudice by Jane Austen
+6. Wuthering Heights by Emily Bronte
+7. The Count of Monte Cristo by Alexandre Dumas
+8. War and Peace by Leo Tolstoy
+9. The Pillars of the Earth by Ken Follett
+10. The Secret Garden by Frances Hodgson Burnett
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. The Catcher in the Rye by J.D. Salinger
+15. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+16. The Brothers Karamazov by Fyodor Dostoyevsky
+17. The Pillars of the Earth by Ken Follett
+18. The Grapes of Wrath by John Steinbeck
+19. The Secret History by Donna Tartt
+20. The Night Circus by Erin Morgenstern
+21. The Book Thief by Markus Zusak
+22. The Kite Runner by Khaled Hosseini
+23. The Alchemist by Paulo Coelho
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Name of the Wind by Patrick Rothfuss
+26. The Goldfinch by Donna Tartt
+27. The Handmaid's Tale by Margaret Atwood
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Martian by Andy Weir
+30. The Hunger Games by Suzanne Collins
+31. The Help by Kathryn Stockett
+32. The Lovely Bones by Alice Sebold
+33. The Road by Cormac McCarthy
+34. The Time Traveler's Wife by Audrey Niffenegger
+35. The Da Vinci Code by Dan Brown
+36. The Girl on the Train by Paula Hawkins
+37. The Fault in Our Stars by John Green
+38. The Maze Runner by James Dashner
+39. The Giver by Lois Lowry
+40. The Lightning Thief by Rick Riordan
+41. The Hunger Games by Suzanne Collins
+42. The Hobbit by J.R.R. Tolkien
+43. The Catcher in the Rye by J.D. Salinger
+44. The Adventures of Tom Sawyer by Mark Twain
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Scarlet Letter by Nathaniel Hawthorne
+47. The Old Man and the Sea by Ernest Hemingway
+48. The Bell Jar by Sylvia Plath
+49. The Color Purple by Alice Walker
+50. The Handmaid's Tale by Margaret Atwood
+
+These recommendations are based on the user's liking for classic literature, historical fiction, and fantasy genres.

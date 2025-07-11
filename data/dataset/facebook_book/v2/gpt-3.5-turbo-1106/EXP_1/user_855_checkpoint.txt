@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lost Symbol by Dan Brown
+2. Inferno by Dan Brown
+3. Digital Fortress by Dan Brown
+4. Deception Point by Dan Brown
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Girl Who Played with Fire by Stieg Larsson
+7. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+8. The Reversal by Michael Connelly
+9. The Lincoln Lawyer by Michael Connelly
+10. The Black Echo by Michael Connelly
+11. The Cuckoo's Calling by Robert Galbraith
+12. The Silkworm by Robert Galbraith
+13. Career of Evil by Robert Galbraith
+14. The Casual Vacancy by J.K. Rowling
+15. The Goldfinch by Donna Tartt
+16. The Secret History by Donna Tartt
+17. The Little Friend by Donna Tartt
+18. The Night Circus by Erin Morgenstern
+19. The Starless Sea by Erin Morgenstern
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. Her Fearful Symmetry by Audrey Niffenegger
+22. The Lovely Bones by Alice Sebold
+23. The Almost Moon by Alice Sebold
+24. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+25. The Help by Kathryn Stockett
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Invention of Wings by Sue Monk Kidd
+28. The Book Thief by Markus Zusak
+29. I Am the Messenger by Markus Zusak
+30. The Shadow of the Wind by Carlos Ruiz Zafón
+31. The Angel's Game by Carlos Ruiz Zafón
+32. The Prisoner of Heaven by Carlos Ruiz Zafón
+33. The Nightingale by Kristin Hannah
+34. Winter Garden by Kristin Hannah
+35. The Great Alone by Kristin Hannah
+36. The Alchemist by Paulo Coelho
+37. Brida by Paulo Coelho
+38. Veronika Decides to Die by Paulo Coelho
+39. The Kite Runner by Khaled Hosseini
+40. A Thousand Splendid Suns by Khaled Hosseini
+41. And the Mountains Echoed by Khaled Hosseini
+42. The Secret History of Twin Peaks by Mark Frost
+43. The Final Dossier by Mark Frost
+44. The Secret Diary of Laura Palmer by Jennifer Lynch
+45. The Secret History by Donna Tartt
+46. The Goldfinch by Donna Tartt
+47. The Little Friend by Donna Tartt
+48. The Night Circus by Erin Morgenstern
+49. The Starless Sea by Erin Morgenstern
+50. The Time Traveler's Wife by Audrey Niffenegger
+
+These recommendations are based on the user's interest in mystery, thriller, and historical fiction genres, as well as the authors and themes of the books they have already enjoyed.

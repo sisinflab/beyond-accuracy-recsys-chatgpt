@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Midnight's Children by Salman Rushdie
+2. The Satanic Verses by Salman Rushdie
+3. One Hundred Years of Solitude by Gabriel Garcia Marquez
+4. Love in the Time of Cholera by Gabriel Garcia Marquez
+5. The Alchemist by Paulo Coelho
+6. Don Quixote by Miguel de Cervantes
+7. The Brothers Karamazov by Fyodor Dostoevsky
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Ministry of Utmost Happiness by Arundhati Roy
+10. The God of Small Things by Arundhati Roy
+11. What the Body Remembers by Shauna Singh Baldwin
+12. Surely You're Joking, Mr. Feynman! by Richard Feynman, Ralph Leighton
+13. "What Do You Care What Other People Think?" by Richard Feynman, Ralph Leighton
+14. The Pleasure of Finding Things Out by Richard Feynman
+15. She: A History of Adventure by H. Rider Haggard
+16. King Solomon's Mines by H. Rider Haggard
+17. The Restaurant at the End of the Universe by Douglas Adams
+18. Life, the Universe and Everything by Douglas Adams
+19. To Kill a Mockingbird by Harper Lee
+20. Go Set a Watchman by Harper Lee
+21. Swami and Friends by R.K. Narayan
+22. The Guide by R.K. Narayan
+23. I, Robot by Isaac Asimov
+24. The Caves of Steel by Isaac Asimov
+25. The Blind Watchmaker by Richard Dawkins
+26. The Selfish Gene by Richard Dawkins
+27. God Is Not Great by Christopher Hitchens
+28. The Portable Atheist by Christopher Hitchens
+29. The End of Faith by Sam Harris
+30. Letter to a Christian Nation by Sam Harris
+31. The Golden House by Salman Rushdie
+32. The Enchantress of Florence by Salman Rushdie
+33. The Ground Beneath Her Feet by Salman Rushdie
+34. The Moor's Last Sigh by Salman Rushdie
+35. The White Tiger by Aravind Adiga
+36. The Inheritance of Loss by Kiran Desai
+37. The Lowland by Jhumpa Lahiri
+38. The Namesake by Jhumpa Lahiri
+39. The Shadow Lines by Amitav Ghosh
+40. Sea of Poppies by Amitav Ghosh
+41. The Glass Palace by Amitav Ghosh
+42. The Hungry Tide by Amitav Ghosh
+43. The Invention of Nature by Andrea Wulf
+44. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+45. The Gene: An Intimate History by Siddhartha Mukherjee
+46. The Emperor of All Maladies by Siddhartha Mukherjee
+47. The Elegant Universe by Brian Greene
+48. A Brief History of Time by Stephen Hawking
+49. The Fabric of the Cosmos by Brian Greene
+50. The Hidden Reality by Brian Greene
+
+These recommendations are based on the user's interest in specific authors and genres.

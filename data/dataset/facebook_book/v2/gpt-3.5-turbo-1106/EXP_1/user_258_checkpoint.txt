@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. War and Peace by Leo Tolstoy
+3. The Brothers Karamazov by Fyodor Dostoevsky
+4. Anna Karenina by Leo Tolstoy
+5. The Picture of Dorian Gray by Oscar Wilde
+6. Wuthering Heights by Emily Bronte
+7. Pride and Prejudice by Jane Austen
+8. Jane Eyre by Charlotte Bronte
+9. 1984 by George Orwell
+10. Brave New World by Aldous Huxley
+11. The Catcher in the Rye by J.D. Salinger
+12. The Great Gatsby by F. Scott Fitzgerald
+13. One Hundred Years of Solitude by Gabriel Garcia Marquez
+14. The Alchemist by Paulo Coelho
+15. The Kite Runner by Khaled Hosseini
+16. The Book Thief by Markus Zusak
+17. The Grapes of Wrath by John Steinbeck
+18. The Old Man and the Sea by Ernest Hemingway
+19. The Count of Monte Cristo by Alexandre Dumas
+20. Don Quixote by Miguel de Cervantes
+21. The Little Prince by Antoine de Saint-Exupery
+22. Siddhartha by Hermann Hesse
+23. The Stranger by Albert Camus
+24. The Bell Jar by Sylvia Plath
+25. The Road by Cormac McCarthy
+26. The Handmaid's Tale by Margaret Atwood
+27. Beloved by Toni Morrison
+28. The Color Purple by Alice Walker
+29. The Joy Luck Club by Amy Tan
+30. The God of Small Things by Arundhati Roy
+31. The Namesake by Jhumpa Lahiri
+32. The Poisonwood Bible by Barbara Kingsolver
+33. The Glass Castle by Jeannette Walls
+34. The Night Circus by Erin Morgenstern
+35. The Shadow of the Wind by Carlos Ruiz Zafon
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Girl with the Dragon Tattoo by Stieg Larsson
+38. The Help by Kathryn Stockett
+39. The Hunger Games by Suzanne Collins
+40. The Fault in Our Stars by John Green
+41. Gone Girl by Gillian Flynn
+42. The Girl on the Train by Paula Hawkins
+43. The Goldfinch by Donna Tartt
+44. All the Light We Cannot See by Anthony Doerr
+45. Educated by Tara Westover
+46. Where the Crawdads Sing by Delia Owens
+47. Little Fires Everywhere by Celeste Ng
+48. Normal People by Sally Rooney
+49. Circe by Madeline Miller
+50. The Silent Patient by Alex Michaelides
+
+These recommendations are based on the user's interest in classic literature, contemporary fiction, and popular novels.

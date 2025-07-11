@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smashing Pumpkins
+2. Weezer
+3. The White Stripes
+4. Franz Ferdinand
+5. The Black Keys
+6. Radiohead
+7. The Libertines
+8. The Kooks
+9. The Verve
+10. The Fratellis
+11. The Hives
+12. The Raconteurs
+13. The Cranberries
+14. The Offspring
+15. Sum 41
+16. Good Charlotte
+17. Yellowcard
+18. Jimmy Eat World
+19. Taking Back Sunday
+20. New Found Glory
+21. AFI
+22. The All-American Rejects
+23. Simple Plan
+24. Bowling for Soup
+25. The Ataris
+26. Motion City Soundtrack
+27. Something Corporate
+28. Jack's Mannequin
+29. The Starting Line
+30. Saves the Day
+31. Brand New
+32. Say Anything
+33. The Get Up Kids
+34. Alkaline Trio
+35. Bayside
+36. Senses Fail
+37. Silverstein
+38. Hawthorne Heights
+39. The Early November
+40. The Movielife
+41. The Juliana Theory
+42. Further Seems Forever
+43. Copeland
+44. Mae
+45. Anberlin
+46. Acceptance
+47. The Spill Canvas
+48. The Maine
+49. The Dangerous Summer
+50. The Wonder Years
+
+These recommendations are based on the user's liking of similar artists and genres.

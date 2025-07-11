@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Eleanor & Park by Rainbow Rowell
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. Thirteen Reasons Why by Jay Asher
+5. If I Stay by Gayle Forman
+6. The Maze Runner by James Dashner
+7. Divergent by Veronica Roth
+8. The Book Thief by Markus Zusak
+9. Looking for Alaska by John Green
+10. Paper Towns by John Green
+11. The Giver by Lois Lowry
+12. The Outsiders by S.E. Hinton
+13. Speak by Laurie Halse Anderson
+14. Stargirl by Jerry Spinelli
+15. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+16. The Hate U Give by Angie Thomas
+17. The Catcher in the Rye by J.D. Salinger
+18. The House on Mango Street by Sandra Cisneros
+19. The Alchemist by Paulo Coelho
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Kite Runner by Khaled Hosseini
+22. A Thousand Splendid Suns by Khaled Hosseini
+23. The Night Circus by Erin Morgenstern
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Lovely Bones by Alice Sebold
+26. The Girl on the Train by Paula Hawkins
+27. Gone Girl by Gillian Flynn
+28. Big Little Lies by Liane Moriarty
+29. Sharp Objects by Gillian Flynn
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Help by Kathryn Stockett
+32. Me Before You by Jojo Moyes
+33. The Girl You Left Behind by Jojo Moyes
+34. The Light Between Oceans by M.L. Stedman
+35. The Nightingale by Kristin Hannah
+36. All the Light We Cannot See by Anthony Doerr
+37. The Goldfinch by Donna Tartt
+38. The Secret History by Donna Tartt
+39. The Silent Patient by Alex Michaelides
+40. Where the Crawdads Sing by Delia Owens
+41. Educated by Tara Westover
+42. Little Fires Everywhere by Celeste Ng
+43. Everything I Never Told You by Celeste Ng
+44. The Immortalists by Chloe Benjamin
+45. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+46. Daisy Jones & The Six by Taylor Jenkins Reid
+47. The Night Circus by Erin Morgenstern
+48. The Starless Sea by Erin Morgenstern
+49. The Nightingale by Kristin Hannah
+50. The Great Alone by Kristin Hannah
+
+These recommendations are based on the user's interest in contemporary fiction, young adult literature, and popular book series.

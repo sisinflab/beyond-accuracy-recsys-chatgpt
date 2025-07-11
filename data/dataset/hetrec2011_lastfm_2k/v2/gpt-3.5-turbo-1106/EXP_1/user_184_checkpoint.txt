@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The xx
+2. Lana Del Rey
+3. Sia
+4. London Grammar
+5. CHVRCHES
+6. Hozier
+7. Lorde
+8. The National
+9. Bon Iver
+10. Grimes
+11. The Kills
+12. Lykke Li
+13. Tame Impala
+14. The War on Drugs
+15. St. Vincent
+16. Arctic Monkeys
+17. Alt-J
+18. Arcade Fire
+19. The Black Keys
+20. Fleet Foxes
+21. The Strokes
+22. Interpol
+23. The Neighbourhood
+24. Phantogram
+25. Warpaint
+26. Beach House
+27. Daughter
+28. The Antlers
+29. Foals
+30. The Horrors
+31. Editors
+32. White Lies
+33. Wild Beasts
+34. The Naked and Famous
+35. Metric
+36. Silversun Pickups
+37. The Joy Formidable
+38. Wolf Alice
+39. Cat Power
+40. Bat for Lashes
+41. Warpaint
+42. Daughter
+43. The Antlers
+44. Foals
+45. The Horrors
+46. Editors
+47. White Lies
+48. Wild Beasts
+49. The Naked and Famous
+50. Metric
+
+These recommendations are based on the user's liking of similar artists and genres.

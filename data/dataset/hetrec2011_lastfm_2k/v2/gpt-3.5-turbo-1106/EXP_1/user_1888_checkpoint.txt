@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Pearl Jam
+3. Foo Fighters
+4. Red Hot Chili Peppers
+5. Arctic Monkeys
+6. The Strokes
+7. Green Day
+8. The Smashing Pumpkins
+9. Weezer
+10. The Killers
+11. Queens of the Stone Age
+12. The Black Keys
+13. Muse
+14. The Flaming Lips
+15. Beck
+16. The Raconteurs
+17. The Kooks
+18. The Hives
+19. The Vines
+20. The Libertines
+21. The Cranberries
+22. The Fratellis
+23. The Vaccines
+24. The Wombats
+25. The Kinks
+26. The Clash
+27. The Smiths
+28. The Cure
+29. The Stone Roses
+30. The Jesus and Mary Chain
+31. The Velvet Underground
+32. The National
+33. The War on Drugs
+34. The Shins
+35. The Decemberists
+36. The Avett Brothers
+37. The Lumineers
+38. The Head and the Heart
+39. The Tallest Man on Earth
+40. The Mountain Goats
+41. The Decemberists
+42. The Avett Brothers
+43. The Lumineers
+44. The Head and the Heart
+45. The Tallest Man on Earth
+46. The Mountain Goats
+47. The Black Angels
+48. The Brian Jonestown Massacre
+49. The Horrors
+50. The Kills
+
+These recommendations are based on the user's liking of alternative, rock, and indie music, and are similar to the artists they already enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nine Inch Nails
+2. Rammstein
+3. Tool
+4. Deftones
+5. Alice in Chains
+6. Type O Negative
+7. The Smashing Pumpkins
+8. Opeth
+9. Lacuna Coil
+10. A Perfect Circle
+11. In Flames
+12. Cradle of Filth
+13. The Cure
+14. Evanescence
+15. Lacrimosa
+16. Paradise Lost
+17. Nightwish
+18. AFI
+19. The Sisters of Mercy
+20. The Birthday Massacre
+21. Within Temptation
+22. KMFDM
+23. Ministry
+24. Rob Zombie
+25. Marilyn Manson & The Spooky Kids
+26. Nirvana
+27. Katatonia
+28. Dimmu Borgir
+29. Papa Roach
+30. Bush
+31. My Chemical Romance
+32. HIM
+33. Slayer
+34. Antimatter
+35. Anathema
+36. Amorphis
+37. Hypocrisy
+38. Metallica
+39. Robbie Williams
+40. Camel
+41. Sepultura
+42. System of a Down
+43. Blind Guardian
+44. Amy Winehouse
+45. Slipknot
+46. Led Zeppelin
+47. Pantera
+48. Megadeth
+49. Sex Pistols
+50. Korn
+
+These recommendations are based on the user's liking of similar artists and genres.

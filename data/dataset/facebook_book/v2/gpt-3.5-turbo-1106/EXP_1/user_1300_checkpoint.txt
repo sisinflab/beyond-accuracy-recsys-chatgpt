@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. Percy Jackson & the Olympians series by Rick Riordan
+3. The Hunger Games series by Suzanne Collins
+4. Divergent series by Veronica Roth
+5. The Maze Runner series by James Dashner
+6. The Chronicles of Narnia series by C.S. Lewis
+7. The Giver by Lois Lowry
+8. Eragon series by Christopher Paolini
+9. The Mortal Instruments series by Cassandra Clare
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings series by J.R.R. Tolkien
+12. The Golden Compass by Philip Pullman
+13. The Lightning Thief by Rick Riordan
+14. The Alchemyst by Michael Scott
+15. The Inheritance Cycle series by Christopher Paolini
+16. The Magicians by Lev Grossman
+17. The Name of the Wind by Patrick Rothfuss
+18. The Night Circus by Erin Morgenstern
+19. The Book Thief by Markus Zusak
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Secret History by Donna Tartt
+23. The Da Vinci Code by Dan Brown
+24. The Girl on the Train by Paula Hawkins
+25. The Fault in Our Stars by John Green
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Catcher in the Rye by J.D. Salinger
+28. To Kill a Mockingbird by Harper Lee
+29. 1984 by George Orwell
+30. Brave New World by Aldous Huxley
+31. Fahrenheit 451 by Ray Bradbury
+32. The Handmaid's Tale by Margaret Atwood
+33. The Road by Cormac McCarthy
+34. The Stand by Stephen King
+35. The Shining by Stephen King
+36. Pet Sematary by Stephen King
+37. It by Stephen King
+38. Misery by Stephen King
+39. The Outsider by Stephen King
+40. The Girl Who Loved Tom Gordon by Stephen King
+41. The Green Mile by Stephen King
+42. The Dark Tower series by Stephen King
+43. The Talisman by Stephen King and Peter Straub
+44. The Eyes of the Dragon by Stephen King
+45. The Dead Zone by Stephen King
+46. The Tommyknockers by Stephen King
+47. Needful Things by Stephen King
+48. Bag of Bones by Stephen King
+49. Lisey's Story by Stephen King
+50. Doctor Sleep by Stephen King
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and supernatural themes.

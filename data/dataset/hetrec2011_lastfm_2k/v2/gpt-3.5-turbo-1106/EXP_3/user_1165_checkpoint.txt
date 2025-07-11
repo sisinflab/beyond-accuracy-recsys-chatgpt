@@ -1,0 +1,54 @@
+Based on user 1165's preferences, here are the top 50 recommendations for the given artists:
+
+1. Nirvana
+2. Radiohead
+3. Queen
+4. Metallica
+5. Pink Floyd
+6. Oasis
+7. Red Hot Chili Peppers
+8. The Smiths
+9. Soundgarden
+10. Alice in Chains
+11. Led Zeppelin
+12. The Cranberries
+13. Joy Division
+14. New Order
+15. The Chemical Brothers
+16. Massive Attack
+17. Portishead
+18. Blur
+19. Elliott Smith
+20. Hooverphonic
+21. Morcheeba
+22. Everything but the Girl
+23. Goldfrapp
+24. Röyksopp
+25. Talk Talk
+26. Underworld
+27. The Cure
+28. The Rolling Stones
+29. U2
+30. The Who
+31. The Smashing Pumpkins
+32. Bruce Springsteen
+33. Placebo
+34. Guns N' Roses
+35. Eddie Vedder
+36. Ryan Adams
+37. Rascal Flatts
+38. Dave Gahan
+39. John Mayer
+40. R.E.M.
+41. The Killers
+42. David Gray
+43. Phil Collins
+44. Neil Young
+45. Incubus
+46. Bon Jovi
+47. Green Day
+48. Spandau Ballet
+49. Jason Mraz
+50. Franz Ferdinand
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists that align with their current tastes.

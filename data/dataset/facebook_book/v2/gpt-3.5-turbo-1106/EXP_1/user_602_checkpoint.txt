@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. Percy Jackson & the Olympians by Rick Riordan
+3. The Hobbit by J.R.R. Tolkien
+4. The Golden Compass by Philip Pullman
+5. Inkheart by Cornelia Funke
+6. Coraline by Neil Gaiman
+7. The Lightning Thief by Rick Riordan
+8. The Maze Runner by James Dashner
+9. Divergent by Veronica Roth
+10. The Mortal Instruments by Cassandra Clare
+11. The Alchemyst by Michael Scott
+12. The Secret Garden by Frances Hodgson Burnett
+13. The Princess Diaries by Meg Cabot
+14. The Sisterhood of the Traveling Pants by Ann Brashares
+15. The Perks of Being a Wallflower by Stephen Chbosky
+16. The Fault in Our Stars by John Green
+17. The Outsiders by S.E. Hinton
+18. The Book Thief by Markus Zusak
+19. The Catcher in the Rye by J.D. Salinger
+20. To Kill a Mockingbird by Harper Lee
+21. The Hunger Games by Suzanne Collins
+22. Catching Fire by Suzanne Collins
+23. Mockingjay by Suzanne Collins
+24. The Giver by Lois Lowry
+25. Gathering Blue by Lois Lowry
+26. Messenger by Lois Lowry
+27. Son by Lois Lowry
+28. The Lost Boy by David Pelzer
+29. A Child Called "It" by Dave Pelzer
+30. The Lovely Bones by Alice Sebold
+31. The Almost Moon by Alice Sebold
+32. The Lovely Reckless by Kami Garcia
+33. The Great and Terrible Beauty by Libba Bray
+34. Rebel Angels by Libba Bray
+35. The Sweet Far Thing by Libba Bray
+36. Brisingr by Christopher Paolini
+37. Inheritance by Christopher Paolini
+38. Eldest by Christopher Paolini
+39. Feed by M.T. Anderson
+40. Thirsty by M.T. Anderson
+41. Ella Enchanted by Gail Carson Levine
+42. Fairest by Gail Carson Levine
+43. The Two Princesses of Bamarre by Gail Carson Levine
+44. The Named by Marianne Curley
+45. The Dark by Marianne Curley
+46. The Key by Marianne Curley
+47. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+48. Harry Potter and the Chamber of Secrets by J.K. Rowling
+49. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+50. Harry Potter and the Goblet of Fire by J.K. Rowling
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and coming-of-age stories.

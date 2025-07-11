@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arcade Fire
+2. The National
+3. Tame Impala
+4. Vampire Weekend
+5. Bon Iver
+6. The xx
+7. Grizzly Bear
+8. Beach House
+9. Alt-J
+10. Fleet Foxes
+11. The War on Drugs
+12. Animal Collective
+13. St. Vincent
+14. M83
+15. Foals
+16. The Antlers
+17. Beach House
+18. Caribou
+19. Father John Misty
+20. Sharon Van Etten
+21. Angel Olsen
+22. Mitski
+23. Perfume Genius
+24. Chromatics
+25. Weyes Blood
+26. Big Thief
+27. Phoebe Bridgers
+28. King Krule
+29. Mac DeMarco
+30. Parquet Courts
+31. Courtney Barnett
+32. Kurt Vile
+33. Real Estate
+34. DIIV
+35. Unknown Mortal Orchestra
+36. Alvvays
+37. Warpaint
+38. Future Islands
+39. The Horrors
+40. Wild Beasts
+41. Temples
+42. Pond
+43. Ty Segall
+44. King Gizzard & The Lizard Wizard
+45. Unknown Mortal Orchestra
+46. Whitney
+47. Hinds
+48. Car Seat Headrest
+49. Snail Mail
+50. Soccer Mommy
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 1150's preferences, here are the top 50 book recommendations:
+
+1. The Maze Runner by James Dashner
+2. Divergent by Veronica Roth
+3. The Giver by Lois Lowry
+4. The Host by Stephenie Meyer
+5. The Mortal Instruments series by Cassandra Clare
+6. The Fault in Our Stars by John Green
+7. The Book Thief by Markus Zusak
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. The Alchemist by Paulo Coelho
+10. The Night Circus by Erin Morgenstern
+11. The Girl on the Train by Paula Hawkins
+12. Gone Girl by Gillian Flynn
+13. The Lovely Bones by Alice Sebold
+14. The Help by Kathryn Stockett
+15. Water for Elephants by Sara Gruen
+16. The Kite Runner by Khaled Hosseini
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Goldfinch by Donna Tartt
+20. The Handmaid's Tale by Margaret Atwood
+21. The Catcher in the Rye by J.D. Salinger
+22. To Kill a Mockingbird by Harper Lee
+23. 1984 by George Orwell
+24. Brave New World by Aldous Huxley
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Great Gatsby by F. Scott Fitzgerald
+27. The Bell Jar by Sylvia Plath
+28. One Hundred Years of Solitude by Gabriel Garcia Marquez
+29. The Road by Cormac McCarthy
+30. The Stand by Stephen King
+31. The Shining by Stephen King
+32. It by Stephen King
+33. Pet Sematary by Stephen King
+34. Misery by Stephen King
+35. Carrie by Stephen King
+36. The Outsider by Stephen King
+37. Doctor Sleep by Stephen King
+38. The Institute by Stephen King
+39. The Dark Tower series by Stephen King
+40. The Green Mile by Stephen King
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. City of Bones by Cassandra Clare
+43. Hush, Hush by Becca Fitzpatrick
+44. Beautiful Creatures by Kami Garcia and Margaret Stohl
+45. Shiver by Maggie Stiefvater
+46. Uglies by Scott Westerfeld
+47. The Selection by Kiera Cass
+48. Legend by Marie Lu
+49. Cinder by Marissa Meyer
+50. Red Queen by Victoria Aveyard
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1150 likes.

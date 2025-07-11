@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 1009:
+
+1. Paramore
+2. Evanescence
+3. My Chemical Romance
+4. 30 Seconds to Mars
+5. Muse
+6. Linkin Park
+7. Green Day
+8. The Killers
+9. Nirvana
+10. Fall Out Boy
+11. Panic! At the Disco
+12. Good Charlotte
+13. All Time Low
+14. The All-American Rejects
+15. Blink-182
+16. Sum 41
+17. New Found Glory
+18. Boys Like Girls
+19. Goo Goo Dolls
+20. Nickelback
+21. Razorlight
+22. 3 Doors Down
+23. Feeder
+24. HIM
+25. Papa Roach
+26. Billy Talent
+27. Lostprophets
+28. Franz Ferdinand
+29. Snow Patrol
+30. Kasabian
+31. Jet
+32. Hard-Fi
+33. Relient K
+34. Dashboard Confessional
+35. Augustana
+36. Dirty Pretty Things
+37. Apoptygma Berzerk
+38. Paradise Lost
+39. Depeche Mode
+40. Lady Gaga
+41. Christina Aguilera
+42. Rihanna
+43. Shakira
+44. Madonna
+45. Britney Spears
+46. Katy Perry
+47. Avril Lavigne
+48. Taylor Swift
+49. Glee Cast
+50. Beyoncé
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

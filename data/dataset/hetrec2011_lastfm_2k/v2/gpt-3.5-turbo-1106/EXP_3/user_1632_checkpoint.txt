@@ -1,0 +1,54 @@
+Based on user 1632's preferences, here are the top-50 recommendations:
+
+1. My Chemical Romance
+2. Green Day
+3. Eminem
+4. Nirvana
+5. The Doors
+6. Fall Out Boy
+7. Led Zeppelin
+8. Panic! At the Disco
+9. Arctic Monkeys
+10. The Strokes
+11. David Guetta
+12. Bob Marley
+13. Taylor Swift
+14. Demi Lovato
+15. James Blunt
+16. Jeffree Star
+17. RBD
+18. Justin Timberlake
+19. Adam Lambert
+20. Carrie Underwood
+21. Madonna
+22. Florence + the Machine
+23. Mariah Carey
+24. Shakira
+25. Red Hot Chili Peppers
+26. La Roux
+27. Cine
+28. The Script
+29. Jonas Brothers
+30. Selena Gomez & the Scene
+31. The Pretty Reckless
+32. 3OH!3
+33. Claudia Leitte
+34. Mitchel Musso
+35. Lady Antebellum
+36. Christina Aguilera
+37. Beyoncé
+38. Glee Cast
+39. Miranda Cosgrove
+40. The Pussycat Dolls
+41. Hawthorne Heights
+42. Amy Winehouse
+43. Camp Rock
+44. Kelly Clarkson
+45. Justin Bieber
+46. Enrique Iglesias
+47. Miley Cyrus
+48. JLS
+49. Lady Gaga
+50. Rihanna
+
+These recommendations are based on similar genres and artists liked by user 1632.

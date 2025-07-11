@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. System of a Down
+3. Disturbed
+4. Rammstein
+5. Marilyn Manson
+6. Papa Roach
+7. Chevelle
+8. Three Days Grace
+9. Bullet for My Valentine
+10. Deftones
+11. Tool
+12. Nine Inch Nails
+13. Rob Zombie
+14. Avenged Sevenfold
+15. Limp Bizkit
+16. Godsmack
+17. Evanescence
+18. Sevendust
+19. Staind
+20. Trivium
+21. Skillet
+22. The Offspring
+23. P.O.D.
+24. 10 Years
+25. Shinedown
+26. A Perfect Circle
+27. Breaking Benjamin
+28. Korn
+29. HIM
+30. Akira Yamaoka
+31. Pain
+32. In Flames
+33. Demon Hunter
+34. Saliva
+35. Static-X
+36. Rise Against
+37. Slipknot
+38. Celldweller
+39. Stone Sour
+40. 3 Doors Down
+41. DIR EN GREY
+42. Seether
+43. Mindless Self Indulgence
+44. Nickelback
+45. Sonata Arctica
+46. Fear Factory
+47. All That Remains
+48. Poets of the Fall
+49. Deathstars
+50. Pendulum
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Carrie Underwood
+2. Miley Cyrus
+3. Kelly Clarkson
+4. Katy Perry
+5. Ariana Grande
+6. Adele
+7. Beyoncé
+8. Rihanna
+9. Demi Lovato
+10. Selena Gomez
+11. Christina Aguilera
+12. Shakira
+13. Pink
+14. Meghan Trainor
+15. Halsey
+16. Ellie Goulding
+17. Sia
+18. Lorde
+19. Alessia Cara
+20. Camila Cabello
+21. Dua Lipa
+22. Zara Larsson
+23. Hailee Steinfeld
+24. Tove Lo
+25. Bebe Rexha
+26. Julia Michaels
+27. Anne-Marie
+28. Daya
+29. Sabrina Carpenter
+30. Madison Beer
+31. Kelsea Ballerini
+32. Lauren Alaina
+33. Kacey Musgraves
+34. Carly Rae Jepsen
+35. Tinashe
+36. Charli XCX
+37. Zedd
+38. Calvin Harris
+39. The Chainsmokers
+40. Marshmello
+41. Kygo
+42. David Guetta
+43. Martin Garrix
+44. Avicii
+45. Alan Walker
+46. Alesso
+47. Steve Aoki
+48. Galantis
+49. DJ Snake
+50. Major Lazer
+
+These recommendations are based on the user's liking of pop, country, and female artists, as well as similar artists to those the user already likes.

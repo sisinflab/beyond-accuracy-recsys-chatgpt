@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Alchemist by Paulo Coelho
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Grapes of Wrath by John Steinbeck
+9. The Bell Jar by Sylvia Plath
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. The Stranger by Albert Camus
+12. Crime and Punishment by Fyodor Dostoyevsky
+13. The Road by Cormac McCarthy
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Sun Also Rises by Ernest Hemingway
+16. The Brothers Karamazov by Fyodor Dostoyevsky
+17. The Sound and the Fury by William Faulkner
+18. A Clockwork Orange by Anthony Burgess
+19. The Handmaid's Tale by Margaret Atwood
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Secret History by Donna Tartt
+22. The Shadow of the Wind by Carlos Ruiz Zafon
+23. The Name of the Wind by Patrick Rothfuss
+24. The Night Circus by Erin Morgenstern
+25. The Book Thief by Markus Zusak
+26. The Kite Runner by Khaled Hosseini
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Poisonwood Bible by Barbara Kingsolver
+29. The Glass Castle by Jeannette Walls
+30. The Joy Luck Club by Amy Tan
+31. The Color Purple by Alice Walker
+32. The Help by Kathryn Stockett
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Girl on the Train by Paula Hawkins
+35. The Goldfinch by Donna Tartt
+36. The Martian by Andy Weir
+37. The Hunger Games by Suzanne Collins
+38. The Da Vinci Code by Dan Brown
+39. The Girl with the Pearl Earring by Tracy Chevalier
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Lovely Bones by Alice Sebold
+42. The Handmaid's Tale by Margaret Atwood
+43. The Road by Cormac McCarthy
+44. The Help by Kathryn Stockett
+45. The Secret Life of Bees by Sue Monk Kidd
+46. The Poisonwood Bible by Barbara Kingsolver
+47. The Glass Castle by Jeannette Walls
+48. The Joy Luck Club by Amy Tan
+49. The Color Purple by Alice Walker
+50. The Book Thief by Markus Zusak
+
+These recommendations are based on the user's interest in a mix of classic literature, contemporary fiction, and thought-provoking works.

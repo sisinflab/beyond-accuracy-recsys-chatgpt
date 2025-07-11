@@ -1,0 +1,54 @@
+Based on user 1203's preferences, here are the top-50 book recommendations:
+
+1. A Thousand Splendid Suns
+2. In Cold Blood
+3. Crime and Punishment
+4. The Immortal Life of Henrietta Lacks
+5. The Big Short
+6. For Whom the Bell Tolls
+7. Napalm and Silly Putty
+8. The God Delusion
+9. Romeo and Juliet
+10. The Blind Assassin
+11. Goosebumps
+12. The Unbearable Lightness of Being
+13. Emma (novel)
+14. Tuesdays with Morrie
+15. Brave New World
+16. Tropic of Cancer (novel)
+17. The Alchemist (novel)
+18. To Kill a Mockingbird
+19. Thank You for Smoking (novel)
+20. Lady Chatterley's Lover
+21. Flowers for Algernon
+22. Strange Case of Dr Jekyll and Mr Hyde
+23. Game Change
+24. Frankenstein
+25. Jurassic Park (novel)
+26. The Catcher in the Rye
+27. The Zombie Survival Guide
+28. Angels & Demons
+29. Eat This, Not That
+30. The Death and Life of Great American Cities
+31. The Da Vinci Code
+32. The Phantom of the Opera
+33. A Brief History of Time
+34. Das Kapital
+35. Pinheads and Patriots
+36. Nineteen Eighty-Four
+37. Three Cups of Tea
+38. The Scarlet Letter
+39. The Grapes of Wrath
+40. The God of Small Things
+41. In Defense of Food
+42. PS, I Love You (novel)
+43. Lamb: The Gospel According to Biff, Christ's Childhood Pal
+44. Team of Rivals
+45. Twilight (series)
+46. Dracula
+47. The Boy in the Striped Pyjamas
+48. God Is Not Great
+49. Decision Points
+50. The Giver
+
+These recommendations are based on the user's previous book preferences and aim to provide a diverse range of options that align with their interests.

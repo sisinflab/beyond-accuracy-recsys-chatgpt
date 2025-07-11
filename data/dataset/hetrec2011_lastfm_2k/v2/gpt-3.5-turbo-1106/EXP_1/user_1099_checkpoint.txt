@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smiths
+2. Joy Division
+3. The Rolling Stones
+4. Arctic Monkeys
+5. Oasis
+6. The Strokes
+7. The Smithereens
+8. The Clash
+9. The Police
+10. Blondie
+11. The Velvet Underground
+12. The Kinks
+13. The Doors
+14. The Who
+15. The Cure
+16. Radiohead
+17. The White Stripes
+18. The Killers
+19. The Beatles
+20. U2
+21. Muse
+22. Placebo
+23. Depeche Mode
+24. New Order
+25. R.E.M.
+26. Talking Heads
+27. Duran Duran
+28. Echo & the Bunnymen
+29. The Psychedelic Furs
+30. Siouxsie and the Banshees
+31. The Jesus and Mary Chain
+32. The Stone Roses
+33. The Charlatans
+34. The Verve
+35. Suede
+36. Pulp
+37. Blur
+38. Supergrass
+39. The Libertines
+40. Franz Ferdinand
+41. Interpol
+42. Bloc Party
+43. Kaiser Chiefs
+44. The Fratellis
+45. The Hives
+46. The Vines
+47. The Raconteurs
+48. The Black Keys
+49. The Arctic Monkeys
+50. The Vaccines
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for the user to explore.

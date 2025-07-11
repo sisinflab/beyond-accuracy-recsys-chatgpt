@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Backstreet Boys
+2. Boyzone
+3. Spice Girls
+4. Britney Spears
+5. N'Sync
+6. Christina Aguilera
+7. Savage Garden
+8. The Corrs
+9. Robbie Williams
+10. Steps
+11. S Club 7
+12. Atomic Kitten
+13. All Saints
+14. 98 Degrees
+15. A1
+16. Five
+17. B*Witched
+18. Mandy Moore
+19. Jennifer Lopez
+20. Kelly Clarkson
+21. Avril Lavigne
+22. P!nk
+23. Destiny's Child
+24. TLC
+25. Janet Jackson
+26. Usher
+27. Justin Timberlake
+28. Kelly Rowland
+29. Beyoncé
+30. Rihanna
+31. Katy Perry
+32. Ariana Grande
+33. Taylor Swift
+34. Demi Lovato
+35. Selena Gomez
+36. Miley Cyrus
+37. Jonas Brothers
+38. One Direction
+39. Little Mix
+40. Zara Larsson
+41. Camila Cabello
+42. Dua Lipa
+43. Shawn Mendes
+44. Ed Sheeran
+45. Sam Smith
+46. Adele
+47. Bruno Mars
+48. Justin Bieber
+49. Shawn Mendes
+50. Harry Styles
+
+These recommendations are based on the user's liking for pop, rock, and R&B artists, and are aimed at providing a diverse range of similar artists for the user to explore.

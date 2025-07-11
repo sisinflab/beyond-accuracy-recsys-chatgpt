@@ -1,0 +1,54 @@
+Based on user 1100's preferences, here are the top 50 recommendations for the user:
+
+1. Nine Inch Nails
+2. Radiohead
+3. Björk
+4. Portishead
+5. Massive Attack
+6. Pixies
+7. Swans
+8. The Dillinger Escape Plan
+9. Melvins
+10. Type O Negative
+11. Captain Beefheart & His Magic Band
+12. Ulver
+13. Mindless Self Indulgence
+14. Mark Lanegan
+15. Mr. Bungle
+16. Philip Glass
+17. Fantômas
+18. Beck
+19. Eels
+20. The Residents
+21. Faith No More
+22. Nirvana
+23. Metallica
+24. Pearl Jam
+25. Iron Maiden
+26. Led Zeppelin
+27. The Beatles
+28. Muse
+29. Pink Floyd
+30. U2
+31. The Killers
+32. Placebo
+33. Arctic Monkeys
+34. Duran Duran
+35. Coldplay
+36. Blur
+37. Green Day
+38. My Chemical Romance
+39. The Cure
+40. System of a Down
+41. Linkin Park
+42. Avenged Sevenfold
+43. Black Eyed Peas
+44. Michael Jackson
+45. Madonna
+46. Lady Gaga
+47. Rihanna
+48. Britney Spears
+49. Christina Aguilera
+50. Beyoncé
+
+These recommendations are based on the user's liking of similar artists and genres.

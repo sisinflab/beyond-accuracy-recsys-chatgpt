@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. Interpol
+3. The Kooks
+4. The White Stripes
+5. The Black Keys
+6. Vampire Weekend
+7. The Hives
+8. The Vaccines
+9. Bloc Party
+10. The Killers
+11. The Wombats
+12. The Raconteurs
+13. The Vines
+14. The Bravery
+15. The Ting Tings
+16. The Pigeon Detectives
+17. The Fratellis
+18. The Zutons
+19. The View
+20. The Futureheads
+21. The Rapture
+22. The Subways
+23. The Cribs
+24. The Maccabees
+25. The Courteeners
+26. The Libertines
+27. The Rakes
+28. The Jam
+29. The Smiths
+30. Joy Division
+31. New Order
+32. The Horrors
+33. Belle and Sebastian
+34. Cut Copy
+35. Franz Ferdinand
+36. The Cure
+37. Dirty Pretty Things
+38. Kaiser Chiefs
+39. The Pains of Being Pure at Heart
+40. The Drums
+41. The Naked and Famous
+42. Two Door Cinema Club
+43. Foals
+44. Arctic Monkeys
+45. The Last Shadow Puppets
+46. Miles Kane
+47. Alex Turner
+48. The Arctic Monkeys
+49. The Last Shadow Puppets
+50. Miles Kane
+
+These recommendations are based on the user's liking of similar artists and genres.

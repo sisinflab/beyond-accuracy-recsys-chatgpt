@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 739:
+
+1. The Beatles
+2. Nina Simone
+3. Cat Power
+4. Billie Holiday
+5. Miles Davis
+6. Radiohead
+7. Sigur Rós
+8. Belle and Sebastian
+9. Coldplay
+10. Florence + the Machine
+11. R.E.M.
+12. Beirut
+13. Jack Johnson
+14. Feist
+15. Erykah Badu
+16. Pink Floyd
+17. Elvis Presley
+18. The Beach Boys
+19. Johann Sebastian Bach
+20. Metallica
+21. The Cranberries
+22. Gorillaz
+23. Madonna
+24. Sade
+25. Cyndi Lauper
+26. The Chemical Brothers
+27. MGMT
+28. Arctic Monkeys
+29. Imogen Heap
+30. Björk
+31. Prince
+32. Mariah Carey
+33. Morcheeba
+34. Kylie Minogue
+35. Los Hermanos
+36. Glee Cast
+37. Tegan and Sara
+38. The Killers
+39. Simon & Garfunkel
+40. Green Day
+41. Legião Urbana
+42. Caetano Veloso
+43. Marcelo Camelo
+44. NX Zero
+45. Britney Spears
+46. Keane
+47. Gorillaz
+48. Oingo Boingo
+49. Metallica
+50. Guns N' Roses
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists and genres that align with their tastes.

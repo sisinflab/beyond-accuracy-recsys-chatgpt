@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. The Alchemist by Paulo Coelho
+7. The Book Thief by Markus Zusak
+8. The Kite Runner by Khaled Hosseini
+9. The Night Circus by Erin Morgenstern
+10. The Secret History by Donna Tartt
+11. The Goldfinch by Donna Tartt
+12. The Girl on the Train by Paula Hawkins
+13. Gone Girl by Gillian Flynn
+14. The Help by Kathryn Stockett
+15. The Lovely Bones by Alice Sebold
+16. The Time Traveler's Wife by Audrey Niffenegger
+17. The Hunger Games by Suzanne Collins
+18. The Fault in Our Stars by John Green
+19. The Martian by Andy Weir
+20. Ready Player One by Ernest Cline
+21. The Handmaid's Tale by Margaret Atwood
+22. The Road by Cormac McCarthy
+23. The Giver by Lois Lowry
+24. The Maze Runner by James Dashner
+25. Divergent by Veronica Roth
+26. The Da Vinci Code by Dan Brown
+27. Angels & Demons by Dan Brown
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Help by Kathryn Stockett
+30. The Lovely Bones by Alice Sebold
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Hunger Games by Suzanne Collins
+33. The Fault in Our Stars by John Green
+34. The Martian by Andy Weir
+35. Ready Player One by Ernest Cline
+36. The Handmaid's Tale by Margaret Atwood
+37. The Road by Cormac McCarthy
+38. The Giver by Lois Lowry
+39. The Maze Runner by James Dashner
+40. Divergent by Veronica Roth
+41. The Da Vinci Code by Dan Brown
+42. Angels & Demons by Dan Brown
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Help by Kathryn Stockett
+45. The Lovely Bones by Alice Sebold
+46. The Time Traveler's Wife by Audrey Niffenegger
+47. The Hunger Games by Suzanne Collins
+48. The Fault in Our Stars by John Green
+49. The Martian by Andy Weir
+50. Ready Player One by Ernest Cline
+
+These recommendations are based on the user's interest in a mix of classic literature, contemporary fiction, and fantasy novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. Animal Farm by George Orwell
+6. The Alchemist by Paulo Coelho
+7. The Kite Runner by Khaled Hosseini
+8. The Book Thief by Markus Zusak
+9. The Hunger Games by Suzanne Collins
+10. The Da Vinci Code by Dan Brown
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Road by Cormac McCarthy
+13. The Handmaid's Tale by Margaret Atwood
+14. The Bell Jar by Sylvia Plath
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Sun Also Rises by Ernest Hemingway
+18. One Hundred Years of Solitude by Gabriel Garcia Marquez
+19. The Stranger by Albert Camus
+20. The Old Man and the Sea by Ernest Hemingway
+21. The Grapes of Wrath by John Steinbeck
+22. The Sound and the Fury by William Faulkner
+23. Crime and Punishment by Fyodor Dostoevsky
+24. The Brothers Karamazov by Fyodor Dostoevsky
+25. The Count of Monte Cristo by Alexandre Dumas
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Road by Cormac McCarthy
+28. The Handmaid's Tale by Margaret Atwood
+29. The Bell Jar by Sylvia Plath
+30. Slaughterhouse-Five by Kurt Vonnegut
+31. The Sun Also Rises by Ernest Hemingway
+32. One Hundred Years of Solitude by Gabriel Garcia Marquez
+33. The Stranger by Albert Camus
+34. The Old Man and the Sea by Ernest Hemingway
+35. The Grapes of Wrath by John Steinbeck
+36. The Sound and the Fury by William Faulkner
+37. Crime and Punishment by Fyodor Dostoevsky
+38. The Brothers Karamazov by Fyodor Dostoevsky
+39. The Count of Monte Cristo by Alexandre Dumas
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Road by Cormac McCarthy
+42. The Handmaid's Tale by Margaret Atwood
+43. The Bell Jar by Sylvia Plath
+44. Slaughterhouse-Five by Kurt Vonnegut
+45. The Sun Also Rises by Ernest Hemingway
+46. One Hundred Years of Solitude by Gabriel Garcia Marquez
+47. The Stranger by Albert Camus
+48. The Old Man and the Sea by Ernest Hemingway
+49. The Grapes of Wrath by John Steinbeck
+50. The Sound and the Fury by William Faulkner
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, and psychological thrillers.

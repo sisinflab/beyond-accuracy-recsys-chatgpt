@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. Percy Jackson & the Olympians series by Rick Riordan
+3. The Hunger Games series by Suzanne Collins
+4. Twilight series by Stephenie Meyer
+5. The Mortal Instruments series by Cassandra Clare
+6. Divergent series by Veronica Roth
+7. The Hobbit by J.R.R. Tolkien
+8. The Maze Runner series by James Dashner
+9. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+10. The Giver by Lois Lowry
+11. Eragon series by Christopher Paolini
+12. The Golden Compass by Philip Pullman
+13. The Lightning Thief by Rick Riordan
+14. The Fault in Our Stars by John Green
+15. The Alchemist by Paulo Coelho
+16. The Book Thief by Markus Zusak
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Night Circus by Erin Morgenstern
+19. The Name of the Wind by Patrick Rothfuss
+20. The Secret History by Donna Tartt
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Lovely Bones by Alice Sebold
+24. The Kite Runner by Khaled Hosseini
+25. The Help by Kathryn Stockett
+26. The Girl on the Train by Paula Hawkins
+27. Gone Girl by Gillian Flynn
+28. The Da Vinci Code by Dan Brown
+29. The Girl with the Pearl Earring by Tracy Chevalier
+30. The Secret Life of Bees by Sue Monk Kidd
+31. The Glass Castle by Jeannette Walls
+32. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+33. The Handmaid's Tale by Margaret Atwood
+34. The Color Purple by Alice Walker
+35. The Bell Jar by Sylvia Plath
+36. The Catcher in the Rye by J.D. Salinger
+37. To Kill a Mockingbird by Harper Lee
+38. 1984 by George Orwell
+39. Brave New World by Aldous Huxley
+40. Fahrenheit 451 by Ray Bradbury
+41. Animal Farm by George Orwell
+42. Slaughterhouse-Five by Kurt Vonnegut
+43. One Hundred Years of Solitude by Gabriel García Márquez
+44. Beloved by Toni Morrison
+45. The Handmaid's Tale by Margaret Atwood
+46. The Road by Cormac McCarthy
+47. The Grapes of Wrath by John Steinbeck
+48. East of Eden by John Steinbeck
+49. The Catcher in the Rye by J.D. Salinger
+50. The Great Gatsby by F. Scott Fitzgerald
+
+These recommendations are based on the user's interest in fantasy, mythology, and young adult fiction.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Elis Regina
+2. Gal Costa
+3. Tom Jobim
+4. João Gilberto
+5. Gilberto Gil
+6. Vinicius de Moraes
+7. Adriana Calcanhotto
+8. Cazuza
+9. Djavan
+10. Maroon 5
+11. Amy Winehouse
+12. Pink Floyd
+13. Oasis
+14. Pearl Jam
+15. U2
+16. The Beatles
+17. Led Zeppelin
+18. Bob Dylan
+19. David Bowie
+20. Queen
+21. The Doors
+22. Janis Joplin
+23. Jimi Hendrix
+24. Eric Clapton
+25. Santana
+26. The Cure
+27. Depeche Mode
+28. New Order
+29. Joy Division
+30. The Smiths
+31. The Strokes
+32. Arctic Monkeys
+33. Florence + The Machine
+34. Lana Del Rey
+35. Adele
+36. Ed Sheeran
+37. Sam Smith
+38. Hozier
+39. Lorde
+40. Sia
+41. Tame Impala
+42. The Weeknd
+43. HAIM
+44. Vampire Weekend
+45. Arcade Fire
+46. The National
+47. Bon Iver
+48. Fleet Foxes
+49. Mumford & Sons
+50. The Lumineers
+
+These recommendations are based on the user's liking of artists and are aimed at providing a diverse range of similar and complementary music choices.

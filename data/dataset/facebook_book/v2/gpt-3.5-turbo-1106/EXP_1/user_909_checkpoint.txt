@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+2. The Chronicles of Narnia by C.S. Lewis
+3. Percy Jackson & the Olympians by Rick Riordan
+4. The Hobbit by J.R.R. Tolkien
+5. The Lightning Thief by Rick Riordan
+6. The Maze Runner by James Dashner
+7. Divergent by Veronica Roth
+8. The Giver by Lois Lowry
+9. The Golden Compass by Philip Pullman
+10. Eragon by Christopher Paolini
+11. The Alchemist by Paulo Coelho
+12. The Fault in Our Stars by John Green
+13. The Book Thief by Markus Zusak
+14. The Hunger Games Trilogy Box Set by Suzanne Collins
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Da Vinci Code by Dan Brown
+17. The Help by Kathryn Stockett
+18. The Kite Runner by Khaled Hosseini
+19. To Kill a Mockingbird by Harper Lee
+20. The Catcher in the Rye by J.D. Salinger
+21. The Great Gatsby by F. Scott Fitzgerald
+22. 1984 by George Orwell
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. Animal Farm by George Orwell
+26. Lord of the Flies by William Golding
+27. The Handmaid's Tale by Margaret Atwood
+28. The Road by Cormac McCarthy
+29. The Stand by Stephen King
+30. The Shining by Stephen King
+31. It by Stephen King
+32. Pet Sematary by Stephen King
+33. Misery by Stephen King
+34. Carrie by Stephen King
+35. Doctor Sleep by Stephen King
+36. The Outsiders by S.E. Hinton
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. The Fault in Our Stars by John Green
+39. Looking for Alaska by John Green
+40. Paper Towns by John Green
+41. An Abundance of Katherines by John Green
+42. Turtles All the Way Down by John Green
+43. The Sun Is Also a Star by Nicola Yoon
+44. Everything, Everything by Nicola Yoon
+45. To All the Boys I've Loved Before by Jenny Han
+46. The Hate U Give by Angie Thomas
+47. Simon vs. the Homo Sapiens Agenda by Becky Albertalli
+48. Aristotle and Dante Discover the Secrets of the Universe by Benjamin Alire Sáenz
+49. Eleanor & Park by Rainbow Rowell
+50. Fangirl by Rainbow Rowell
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and popular contemporary novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Bell Jar by Sylvia Plath
+5. One Flew Over the Cuckoo's Nest by Ken Kesey
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Brave New World by Aldous Huxley
+9. The Road by Cormac McCarthy
+10. The Stranger by Albert Camus
+11. Norwegian Wood by Haruki Murakami
+12. The Kite Runner by Khaled Hosseini
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Sun Also Rises by Ernest Hemingway
+15. A Clockwork Orange by Anthony Burgess
+16. The Road to Wigan Pier by George Orwell
+17. The Glass Castle by Jeannette Walls
+18. The Outsiders by S.E. Hinton
+19. The Alchemist by Paulo Coelho
+20. The Book Thief by Markus Zusak
+21. The Grapes of Wrath by John Steinbeck
+22. The Handmaid's Tale by Margaret Atwood
+23. The Secret History by Donna Tartt
+24. The Goldfinch by Donna Tartt
+25. The Virgin Suicides by Jeffrey Eugenides
+26. The Lovely Bones by Alice Sebold
+27. The Poisonwood Bible by Barbara Kingsolver
+28. The Road by Cormac McCarthy
+29. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+30. The Namesake by Jhumpa Lahiri
+31. The God of Small Things by Arundhati Roy
+32. The Shadow of the Wind by Carlos Ruiz Zafón
+33. The Night Circus by Erin Morgenstern
+34. The Time Traveler's Wife by Audrey Niffenegger
+35. The Nightingale by Kristin Hannah
+36. The Help by Kathryn Stockett
+37. The Girl on the Train by Paula Hawkins
+38. The Martian by Andy Weir
+39. The Hunger Games by Suzanne Collins
+40. The Fault in Our Stars by John Green
+41. The Perks of Being a Wallflower by Stephen Chbosky
+42. The Old Man and the Sea by Ernest Hemingway
+43. In Cold Blood by Truman Capote
+44. Choke by Chuck Palahniuk
+45. Girl, Interrupted by Susanna Kaysen
+46. The Little Prince by Antoine de Saint-Exupéry
+47. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+48. Lullabies for Little Criminals by Heather O'Neill
+49. Cat's Cradle by Kurt Vonnegut
+50. On the Road by Jack Kerouac
+
+These recommendations are based on the user's liking for literary fiction, coming-of-age stories, and classic literature.

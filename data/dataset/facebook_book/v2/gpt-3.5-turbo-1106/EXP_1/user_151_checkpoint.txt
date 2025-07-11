@@ -1,0 +1,54 @@
+Based on the preferences of user 151, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Book Thief by Markus Zusak
+3. The Fault in Our Stars by John Green
+4. The Perks of Being a Wallflower by Stephen Chbosky
+5. The Catcher in the Rye by J.D. Salinger
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Pride and Prejudice by Jane Austen
+8. 1984 by George Orwell
+9. Animal Farm by George Orwell
+10. The Bell Jar by Sylvia Plath
+11. The Handmaid's Tale by Margaret Atwood
+12. The Kite Runner by Khaled Hosseini
+13. A Thousand Splendid Suns by Khaled Hosseini
+14. The Alchemist by Paulo Coelho
+15. The Night Circus by Erin Morgenstern
+16. The Secret History by Donna Tartt
+17. The Goldfinch by Donna Tartt
+18. The Girl on the Train by Paula Hawkins
+19. Gone Girl by Gillian Flynn
+20. Sharp Objects by Gillian Flynn
+21. Dark Places by Gillian Flynn
+22. The Help by Kathryn Stockett
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Color Purple by Alice Walker
+25. Beloved by Toni Morrison
+26. The Handmaid's Tale by Margaret Atwood
+27. The Road by Cormac McCarthy
+28. The Glass Castle by Jeannette Walls
+29. Educated by Tara Westover
+30. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+31. The Martian by Andy Weir
+32. Ready Player One by Ernest Cline
+33. The Hunger Games by Suzanne Collins
+34. Catching Fire by Suzanne Collins
+35. Mockingjay by Suzanne Collins
+36. Divergent by Veronica Roth
+37. Insurgent by Veronica Roth
+38. Allegiant by Veronica Roth
+39. The Maze Runner by James Dashner
+40. The Scorch Trials by James Dashner
+41. The Death Cure by James Dashner
+42. The Giver by Lois Lowry
+43. Gathering Blue by Lois Lowry
+44. Messenger by Lois Lowry
+45. Son by Lois Lowry
+46. The City of Ember by Jeanne DuPrau
+47. The People of Sparks by Jeanne DuPrau
+48. The Prophet of Yonwood by Jeanne DuPrau
+49. The Diamond of Darkhold by Jeanne DuPrau
+50. The Hunger Games by Suzanne Collins
+
+These recommendations are based on the genres and themes of the books liked by user 151.

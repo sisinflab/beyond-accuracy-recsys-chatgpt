@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 511:
+
+1. Radiohead
+2. Nirvana
+3. Pink Floyd
+4. The Beatles
+5. Muse
+6. The Killers
+7. Coldplay
+8. Pearl Jam
+9. U2
+10. The Smashing Pumpkins
+11. Arctic Monkeys
+12. The Strokes
+13. Oasis
+14. The White Stripes
+15. Beck
+16. The Velvet Underground
+17. The Clash
+18. Joy Division
+19. The Mars Volta
+20. Led Zeppelin
+21. Soundgarden
+22. Pixies
+23. The Who
+24. Alice in Chains
+25. Kings of Leon
+26. Thom Yorke
+27. Foo Fighters
+28. Hans Zimmer
+29. The Doors
+30. Ministry
+31. Kyuss
+32. Atlas Sound
+33. Rise Against
+34. Phoenix
+35. MGMT
+36. Talking Heads
+37. The Dead Weather
+38. Tool
+39. Wilco
+40. Sonic Youth
+41. The Cure
+42. Depeche Mode
+43. Nine Inch Nails
+44. System of a Down
+45. Metallica
+46. Iron Maiden
+47. Avenged Sevenfold
+48. My Chemical Romance
+49. Green Day
+50. Linkin Park
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

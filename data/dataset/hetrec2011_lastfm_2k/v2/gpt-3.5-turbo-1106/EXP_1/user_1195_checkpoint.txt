@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Sufjan Stevens
+2. Animal Collective
+3. Grizzly Bear
+4. Bon Iver
+5. Tame Impala
+6. Vampire Weekend
+7. Arcade Fire
+8. Caribou
+9. The War on Drugs
+10. Father John Misty
+11. Angel Olsen
+12. Mac DeMarco
+13. Kurt Vile
+14. Sharon Van Etten
+15. Deerhunter
+16. The Shins
+17. St. Vincent
+18. The Antlers
+19. Real Estate
+20. Dirty Projectors
+21. Yo La Tengo
+22. Spoon
+23. The Flaming Lips
+24. LCD Soundsystem
+25. Modest Mouse
+26. The Decemberists
+27. Neutral Milk Hotel
+28. Wilco
+29. Fleetwood Mac
+30. The xx
+31. The Black Keys
+32. The Strokes
+33. Beck
+34. Phoenix
+35. MGMT
+36. The Smiths
+37. Belle and Sebastian
+38. The Cure
+39. Joy Division
+40. New Order
+41. Talking Heads
+42. R.E.M.
+43. Pavement
+44. Sonic Youth
+45. My Bloody Valentine
+46. Pixies
+47. Dinosaur Jr.
+48. Built to Spill
+49. Guided by Voices
+50. The Replacements
+
+These recommendations are based on the user's liking of similar artists and genres.

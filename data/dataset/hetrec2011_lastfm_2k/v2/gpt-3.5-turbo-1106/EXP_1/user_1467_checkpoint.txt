@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. OneRepublic
+2. Maroon 5
+3. Imagine Dragons
+4. Coldplay
+5. The Script
+6. Fall Out Boy
+7. Paramore
+8. Red Hot Chili Peppers
+9. Panic! At The Disco
+10. 3 Doors Down
+11. Green Day
+12. The Fray
+13. Nickelback
+14. My Chemical Romance
+15. Evanescence
+16. 30 Seconds to Mars
+17. Good Charlotte
+18. Simple Plan
+19. The All-American Rejects
+20. Three Days Grace
+21. Hoobastank
+22. Sum 41
+23. Blink-182
+24. The Offspring
+25. Breaking Benjamin
+26. Seether
+27. Shinedown
+28. Theory of a Deadman
+29. Hinder
+30. Daughtry
+31. Lifehouse
+32. Goo Goo Dolls
+33. Train
+34. Keane
+35. Snow Patrol
+36. The Killers
+37. Kings of Leon
+38. Foster the People
+39. Bastille
+40. The Lumineers
+41. Of Monsters and Men
+42. Florence + The Machine
+43. Hozier
+44. Vance Joy
+45. Ed Sheeran
+46. James Bay
+47. Sam Smith
+48. Halsey
+49. Lorde
+50. Alessia Cara
+
+These recommendations are based on the user's liking of similar artists and genres.

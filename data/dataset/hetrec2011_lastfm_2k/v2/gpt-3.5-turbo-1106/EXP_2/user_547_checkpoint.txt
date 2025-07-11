@@ -1,0 +1,59 @@
+Based on the user's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. The Beatles
+2. Pink Floyd
+3. Nine Inch Nails
+4. Iron Maiden
+5. Pearl Jam
+6. Black Sabbath
+7. Queen
+8. The Clash
+9. The Who
+10. David Gilmour
+11. Jimi Hendrix
+12. The Black Keys
+13. The White Stripes
+14. The Mars Volta
+15. Soundgarden
+16. Rush
+17. The Smashing Pumpkins
+18. Megadeth
+19. Death from Above 1979
+20. The Dead Weather
+21. Mark Lanegan
+22. Melvins
+23. Faith No More
+24. Bad Brains
+25. Fugazi
+26. Mike Oldfield
+27. Wu-Tang Clan
+28. Cypress Hill
+29. Brian Eno
+30. Elliott Smith
+31. PJ Harvey
+32. The Roots
+
+Based on the user's liking for the above artists, the following artists from the provided list could be recommended as top-50 recommendations:
+
+- Nirvana
+- Muse
+- Radiohead
+- Metallica
+- Led Zeppelin
+- System of a Down
+- Linkin Park
+- Green Day
+- My Chemical Romance
+- The Killers
+- Arctic Monkeys
+- Placebo
+- 30 Seconds to Mars
+- U2
+- Michael Jackson
+- Madonna
+- Lady Gaga
+- Christina Aguilera
+- Rihanna
+- Britney Spears
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended artists to those the user already likes.

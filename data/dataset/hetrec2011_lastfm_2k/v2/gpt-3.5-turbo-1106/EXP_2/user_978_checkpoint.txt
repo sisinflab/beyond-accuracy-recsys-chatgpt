@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 978:
+
+1. Opeth
+2. Porcupine Tree
+3. Devin Townsend
+4. Dream Theater
+5. Pain of Salvation
+6. Sigur Rós
+7. Therion
+8. Blackfield
+9. Amorphis
+10. Cynic
+11. Stratovarius
+12. Children of Bodom
+13. Katatonia
+14. Ulver
+15. Ayreon
+16. Explosions in the Sky
+17. Dark Tranquillity
+18. Agalloch
+19. God Is an Astronaut
+20. Isis
+21. VNV Nation
+22. Beirut
+23. Madonna
+24. Radiohead
+25. Muse
+26. Pink Floyd
+27. U2
+28. The Beatles
+29. Lady Gaga
+30. Britney Spears
+31. Rihanna
+32. Christina Aguilera
+33. Shakira
+34. Beyoncé
+35. Katy Perry
+36. Paramore
+37. Taylor Swift
+38. Avril Lavigne
+39. Evanescence
+40. Glee Cast
+41. 30 Seconds to Mars
+42. Kylie Minogue
+43. Miley Cyrus
+44. Ke$ha
+45. Duran Duran
+46. Coldplay
+47. Blur
+48. Arctic Monkeys
+49. Placebo
+50. The Killers
+
+These recommendations are based on the user's liking of similar artists and may help in discovering new music that aligns with their preferences.

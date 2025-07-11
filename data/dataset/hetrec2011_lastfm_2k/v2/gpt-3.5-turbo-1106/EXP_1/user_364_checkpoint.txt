@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Leonard Cohen
+2. Nick Cave & The Bad Seeds
+3. Tom Waits
+4. Pixies
+5. David Bowie
+6. The Velvet Underground
+7. Patti Smith
+8. Cat Power
+9. Arcade Fire
+10. The Smiths
+11. PJ Harvey
+12. Sonic Youth
+13. The National
+14. Wilco
+15. Sufjan Stevens
+16. Fleet Foxes
+17. The Flaming Lips
+18. Modest Mouse
+19. Neutral Milk Hotel
+20. My Bloody Valentine
+21. The Shins
+22. Yo La Tengo
+23. The Strokes
+24. Interpol
+25. The White Stripes
+26. Arctic Monkeys
+27. Vampire Weekend
+28. Tame Impala
+29. Beach House
+30. Grizzly Bear
+31. The War on Drugs
+32. Father John Misty
+33. Mac DeMarco
+34. Kurt Vile
+35. Sharon Van Etten
+36. Angel Olsen
+37. Mitski
+38. Courtney Barnett
+39. Car Seat Headrest
+40. Parquet Courts
+41. King Krule
+42. Big Thief
+43. Soccer Mommy
+44. Snail Mail
+45. HAIM
+46. Phoebe Bridgers
+47. Mitski
+48. St. Vincent
+49. Perfume Genius
+50. Aldous Harding
+
+These recommendations are based on the user's liking of folk, rock, and indie artists, and include similar artists across various genres and eras.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 2019:
+
+1. Coldplay
+2. Muse
+3. Snow Patrol
+4. The Fray
+5. Lifehouse
+6. Kings of Leon
+7. Florence + the Machine
+8. Mumford & Sons
+9. James Morrison
+10. John Mayer
+11. Imogen Heap
+12. Relient K
+13. Paramore
+14. Flyleaf
+15. Pitty
+16. Thousand Foot Krutch
+17. Mika
+18. Red Hot Chili Peppers
+19. Incubus
+20. Oasis
+21. Linkin Park
+22. Evanescence
+23. Belle and Sebastian
+24. Eric Clapton
+25. Goo Goo Dolls
+26. Damien Rice
+27. Jack Johnson
+28. Death Cab for Cutie
+29. Zero 7
+30. Jason Mraz
+31. KT Tunstall
+32. Michael Bublé
+33. The Beatles
+34. P.O.D.
+35. 3OH!3
+36. Sandy Leah
+37. Hanson
+38. Green Day
+39. Ryan Adams
+40. Dixie Chicks
+41. As I Lay Dying
+42. Eddie Vedder
+43. Pink
+44. Katy Perry
+45. Joss Stone
+46. Lady Gaga
+47. P!nk
+48. Timbaland
+49. 30 Seconds to Mars
+50. U2
+
+These recommendations are based on the user's existing preferences and are designed to introduce new artists that align with their musical tastes.

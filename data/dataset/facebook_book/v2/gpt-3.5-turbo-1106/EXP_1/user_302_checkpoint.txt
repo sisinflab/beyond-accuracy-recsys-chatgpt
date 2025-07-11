@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Maze Runner by James Dashner
+2. The Giver by Lois Lowry
+3. The Selection by Kiera Cass
+4. The 5th Wave by Rick Yancey
+5. Matched by Ally Condie
+6. Delirium by Lauren Oliver
+7. Legend by Marie Lu
+8. The Host by Stephenie Meyer
+9. The Knife of Never Letting Go by Patrick Ness
+10. The Darkest Minds by Alexandra Bracken
+11. Red Queen by Victoria Aveyard
+12. The Lunar Chronicles by Marissa Meyer
+13. The Testing by Joelle Charbonneau
+14. The City of Ember by Jeanne DuPrau
+15. The Uglies series by Scott Westerfeld
+16. The Divergent series by Veronica Roth
+17. The Hunger Games series by Suzanne Collins
+18. The Twilight series by Stephenie Meyer
+19. The Mortal Instruments series by Cassandra Clare
+20. The Infernal Devices series by Cassandra Clare
+21. The Chronicles of Narnia by C.S. Lewis
+22. The Percy Jackson series by Rick Riordan
+23. The Heroes of Olympus series by Rick Riordan
+24. The Kane Chronicles series by Rick Riordan
+25. The Lord of the Rings series by J.R.R. Tolkien
+26. The Hobbit by J.R.R. Tolkien
+27. The Chronicles of Prydain series by Lloyd Alexander
+28. The Earthsea series by Ursula K. Le Guin
+29. The Dark is Rising sequence by Susan Cooper
+30. The Abhorsen series by Garth Nix
+31. The Bartimaeus Trilogy by Jonathan Stroud
+32. The Inheritance Cycle series by Christopher Paolini
+33. The His Dark Materials series by Philip Pullman
+34. The Mistborn series by Brandon Sanderson
+35. The Kingkiller Chronicle series by Patrick Rothfuss
+36. The Stormlight Archive series by Brandon Sanderson
+37. The Wheel of Time series by Robert Jordan
+38. The Malazan Book of the Fallen series by Steven Erikson
+39. The First Law series by Joe Abercrombie
+40. The Broken Empire series by Mark Lawrence
+41. The Lightbringer series by Brent Weeks
+42. The Powder Mage series by Brian McClellan
+43. The Black Prism by Brent Weeks
+44. The Night Angel Trilogy by Brent Weeks
+45. The Farseer Trilogy by Robin Hobb
+46. The Liveship Traders Trilogy by Robin Hobb
+47. The Tawny Man Trilogy by Robin Hobb
+48. The Rain Wild Chronicles by Robin Hobb
+49. The Fitz and the Fool Trilogy by Robin Hobb
+50. The Soldier Son Trilogy by Robin Hobb
+
+These recommendations are based on the user's interest in dystopian and fantasy novels, as well as young adult fiction.

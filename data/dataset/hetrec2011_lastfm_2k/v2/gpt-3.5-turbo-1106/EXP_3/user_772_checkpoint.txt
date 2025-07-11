@@ -1,0 +1,52 @@
+Based on user 772's preferences, here are the re-ranked top-50 recommendations:
+
+1. Black Label Society
+2. AC/DC
+3. Metallica
+4. Foo Fighters
+5. Rammstein
+6. Led Zeppelin
+7. Linkin Park
+8. Jimi Hendrix
+9. System of a Down
+10. KISS
+11. Iron Maiden
+12. Guns N' Roses
+13. Pantera
+14. Slayer
+15. Marilyn Manson
+16. Anthrax
+17. Lamb of God
+18. Cream
+19. Whitesnake
+20. Testament
+21. Megadeth
+22. Aerosmith
+23. Pink Floyd
+24. Alice Cooper
+25. Rush
+26. The Doors
+27. The Beatles
+28. The Chemical Brothers
+29. Janis Joplin
+30. The Stooges
+31. The Animals
+32. The Jimi Hendrix Experience
+33. Eagles
+34. Creedence Clearwater Revival
+35. Kyuss
+36. Eric Clapton
+37. The Eagles
+38. The Rolling Stones
+39. The Who
+40. The Kinks
+41. The Yardbirds
+42. The Byrds
+43. The Velvet Underground
+44. The Beach Boys
+45. The Band
+46. The Allman Brothers Band
+47. The Grateful Dead
+48. The Doors
+49. The Byrds
+50. The Yardbirds

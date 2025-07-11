@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. Ender's Game by Orson Scott Card
+3. Dune by Frank Herbert
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. To Kill a Mockingbird by Harper Lee
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Animal Farm by George Orwell
+9. Fahrenheit 451 by Ray Bradbury
+10. Brave New World by Aldous Huxley
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Alchemist by Paulo Coelho
+13. The Giver by Lois Lowry
+14. The Hunger Games by Suzanne Collins
+15. The Road by Cormac McCarthy
+16. The Stand by Stephen King
+17. The Martian by Andy Weir
+18. The Name of the Wind by Patrick Rothfuss
+19. American Gods by Neil Gaiman
+20. The Handmaid's Tale by Margaret Atwood
+21. The Time Machine by H.G. Wells
+22. Neuromancer by William Gibson
+23. Snow Crash by Neal Stephenson
+24. The Left Hand of Darkness by Ursula K. Le Guin
+25. The Dispossessed by Ursula K. Le Guin
+26. The Windup Girl by Paolo Bacigalupi
+27. The City & the City by China Miéville
+28. The Three-Body Problem by Liu Cixin
+29. The Fifth Season by N.K. Jemisin
+30. The Lies of Locke Lamora by Scott Lynch
+31. The Blade Itself by Joe Abercrombie
+32. The Way of Kings by Brandon Sanderson
+33. Mistborn: The Final Empire by Brandon Sanderson
+34. The Black Prism by Brent Weeks
+35. The Name of the Wind by Patrick Rothfuss
+36. The Lies of Locke Lamora by Scott Lynch
+37. The Blade Itself by Joe Abercrombie
+38. The Way of Kings by Brandon Sanderson
+39. Mistborn: The Final Empire by Brandon Sanderson
+40. The Black Prism by Brent Weeks
+41. The Eye of the World by Robert Jordan
+42. The Final Empire by Michael J. Sullivan
+43. The Painted Man by Peter V. Brett
+44. The Warded Man by Peter V. Brett
+45. The Way of Shadows by Brent Weeks
+46. The Emperor's Blades by Brian Staveley
+47. The Name of the Wind by Patrick Rothfuss
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Blade Itself by Joe Abercrombie
+50. The Way of Kings by Brandon Sanderson
+
+These recommendations are based on similar themes, genres, and authors to the books that user 744 likes.

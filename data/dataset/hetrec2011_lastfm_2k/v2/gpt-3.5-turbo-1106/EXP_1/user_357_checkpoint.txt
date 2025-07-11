@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Interpol
+2. New Order
+3. The National
+4. Arcade Fire
+5. LCD Soundsystem
+6. Placebo
+7. Siouxsie and the Banshees
+8. The Strokes
+9. Arctic Monkeys
+10. PJ Harvey
+11. Massive Attack
+12. Portishead
+13. The Cure
+14. Talking Heads
+15. Echo & the Bunnymen
+16. The War on Drugs
+17. Tame Impala
+18. Foals
+19. Vampire Weekend
+20. The Horrors
+21. Grimes
+22. Pulp
+23. Suede
+24. The Jesus and Mary Chain
+25. My Bloody Valentine
+26. Slowdive
+27. Cocteau Twins
+28. The Raveonettes
+29. The Black Angels
+30. The Chameleons
+31. The Psychedelic Furs
+32. The Church
+33. The Sound
+34. The Sisters of Mercy
+35. Bauhaus
+36. The Mission
+37. The Birthday Party
+38. Nick Cave & The Bad Seeds
+39. The Velvet Underground
+40. Joy Division (Unknown Pleasures)
+41. White Lies (To Lose My Life...)
+42. The xx (xx)
+43. The Knife (Silent Shout)
+44. The Killers (Hot Fuss)
+45. Radiohead (OK Computer)
+46. Kylie Minogue (Fever)
+47. Depeche Mode (Violator)
+48. Кино (Группа крови)
+49. Fever Ray (Fever Ray)
+50. Beyoncé (Lemonade)
+
+These recommendations are based on the user's liking of similar artists and genres.

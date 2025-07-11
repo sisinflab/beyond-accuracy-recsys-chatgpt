@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Riverside
+2. Porcupine Tree
+3. Haken
+4. Steven Wilson
+5. Katatonia
+6. Devin Townsend
+7. Tesseract
+8. Ayreon
+9. Symphony X
+10. Fates Warning
+11. Leprous
+12. The Pineapple Thief
+13. Soen
+14. Cynic
+15. The Dear Hunter
+16. Karnivool
+17. Oceansize
+18. The Mars Volta
+19. Coheed and Cambria
+20. Pain of Salvation
+21. The Beatles
+22. Paradise Lost
+23. Agalloch
+24. Opeth
+25. Dream Theater
+26. dredg
+27. Pink Floyd
+28. The Smashing Pumpkins
+29. Daddy Yankee
+30. Yanni
+31. Muse
+32. Marillion
+33. Frank Zappa
+34. Blackfield
+35. Tool
+36. King Diamond
+37. Anathema
+38. Massive Attack
+39. Alice in Chains
+40. Soundgarden
+41. Radiohead
+42. Queens of the Stone Age
+43. Rush
+44. Yes
+45. Camel
+46. Genesis
+47. Jethro Tull
+48. Emerson, Lake & Palmer
+49. Gentle Giant
+50. Van der Graaf Generator
+
+These recommendations are based on the user's liking of progressive rock, metal, and alternative music, and include similar artists and bands that the user may enjoy based on their existing preferences.

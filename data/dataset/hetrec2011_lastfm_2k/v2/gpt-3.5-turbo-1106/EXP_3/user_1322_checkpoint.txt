@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1322:
+
+1. Tool
+2. Björk
+3. Mogwai
+4. Explosions in the Sky
+5. AFX
+6. Telefon Tel Aviv
+7. Tycho
+8. M83
+9. Autechre
+10. Sigur Rós
+11. Aphex Twin
+12. Enigma
+13. Air
+14. Fleet Foxes
+15. Enya
+16. The Album Leaf
+17. Bonobo
+18. The Flashbulb
+19. Plaid
+20. R.E.M.
+21. The Cure
+22. The Mountain Goats
+23. Ennio Morricone
+24. Ólafur Arnalds
+25. Schiller
+26. Parov Stelar
+27. Lady Gaga
+28. Crystal Castles
+29. Four Tet
+30. Green Day
+31. The Prodigy
+32. Duran Duran
+33. Animal Collective
+34. José González
+35. Ani DiFranco
+36. Sting
+37. Nina Simone
+38. Billie Holiday
+39. Venetian Snares
+40. Shpongle
+41. Kettel
+42. The Fall of Troy
+43. Deftones
+44. Linkin Park
+45. Groove Armada
+46. Cut Copy
+47. Proem
+48. Fleet Foxes
+49. Flying Lotus
+50. The Flashbulb
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists and genres that align with their tastes.

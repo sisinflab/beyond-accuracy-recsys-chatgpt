@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Guns N' Roses
+2. The Who
+3. Lynyrd Skynyrd
+4. Def Leppard
+5. Queen
+6. The Beatles
+7. Jimi Hendrix
+8. The Kinks
+9. The Allman Brothers Band
+10. Creedence Clearwater Revival
+11. The Beach Boys
+12. Bob Dylan
+13. The Clash
+14. The Byrds
+15. Santana
+16. The Doobie Brothers
+17. The Police
+18. Dire Straits
+19. The Rolling Stones
+20. ZZ Top
+21. Bruce Springsteen
+22. Aerosmith
+23. Eric Clapton
+24. Heart
+25. Deep Purple
+26. Led Zeppelin
+27. P!nk
+28. Elton John
+29. Stevie Ray Vaughan and Double Trouble
+30. Bon Jovi
+31. Pink Floyd
+32. Pearl Jam
+33. Joan Jett and the Blackhearts
+34. Eagles
+35. Neil Young
+36. Rush
+37. Fleetwood Mac
+38. Van Morrison
+39. Black Label Society
+40. Van Halen
+41. Black Sabbath
+42. Scorpions
+43. Nirvana
+44. The Doors
+45. Green Day
+46. Metallica
+47. Alice Cooper
+48. Elvis Presley
+49. U2
+50. AC/DC
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for potential discovery.

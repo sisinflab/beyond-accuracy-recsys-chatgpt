@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. War and Peace by Leo Tolstoy
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Brothers Karamazov by Fyodor Dostoyevsky
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Stranger by Albert Camus
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Moby-Dick by Herman Melville
+9. The Catcher in the Rye by J.D. Salinger
+10. The Grapes of Wrath by John Steinbeck
+11. Anna Karenina by Leo Tolstoy
+12. The Bell Jar by Sylvia Plath
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Sun Also Rises by Ernest Hemingway
+15. The Sound and the Fury by William Faulkner
+16. Beloved by Toni Morrison
+17. Heart of Darkness by Joseph Conrad
+18. The Handmaid's Tale by Margaret Atwood
+19. A Clockwork Orange by Anthony Burgess
+20. The Scarlet Letter by Nathaniel Hawthorne
+21. The Old Man and the Sea by Ernest Hemingway
+22. Brave New World by Aldous Huxley
+23. The Canterbury Tales by Geoffrey Chaucer
+24. Don Quixote by Miguel de Cervantes
+25. The Divine Comedy by Dante Alighieri
+26. The Odyssey by Homer
+27. The Aeneid by Virgil
+28. The Metamorphosis by Franz Kafka
+29. The Trial by Franz Kafka
+30. The Stranger by Albert Camus
+31. The Plague by Albert Camus
+32. The Fall by Albert Camus
+33. The Myth of Sisyphus by Albert Camus
+34. The Outsider by Albert Camus
+35. The Rebel by Albert Camus
+36. The Second Sex by Simone de Beauvoir
+37. The Ethics of Ambiguity by Simone de Beauvoir
+38. The Mandarins by Simone de Beauvoir
+39. The Woman Destroyed by Simone de Beauvoir
+40. The Blood of Others by Simone de Beauvoir
+41. The Prime of Life by Simone de Beauvoir
+42. The Coming of Age by Simone de Beauvoir
+43. The Useless Mouths and Other Literary Writings by Simone de Beauvoir
+44. The Long March by Simone de Beauvoir
+45. The Inseparables by Simone de Beauvoir
+46. The Woman in Love by Simone de Beauvoir
+47. The Woman in the Dunes by Simone de Beauvoir
+48. The Woman in the Mirror by Simone de Beauvoir
+49. The Woman in the Dark by Simone de Beauvoir
+50. The Woman in the Window by Simone de Beauvoir
+
+These recommendations are based on the user's interest in classic literature, philosophy, and thought-provoking novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. It by Stephen King
+2. Twilight by Stephenie Meyer
+3. The Shining by Stephen King
+4. Fallen by Lauren Kate
+5. A Walk to Remember by Nicholas Sparks
+6. The Catcher in the Rye by J.D. Salinger
+7. The Stand by Stephen King
+8. The Lovely Bones by Alice Sebold
+9. The Hunger Games by Suzanne Collins
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Fault in Our Stars by John Green
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Maze Runner by James Dashner
+15. The Da Vinci Code by Dan Brown
+16. The Alchemist by Paulo Coelho
+17. The Book Thief by Markus Zusak
+18. The Help by Kathryn Stockett
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Road by Cormac McCarthy
+21. The Kite Runner by Khaled Hosseini
+22. The Hobbit by J.R.R. Tolkien
+23. The Giver by Lois Lowry
+24. The Fault in Our Stars by John Green
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Turn of the Screw by Henry James
+27. The Dark Tower II: The Drawing of the Three by Stephen King
+28. The Dark Tower IV: Wizard and Glass by Stephen King
+29. Rose Madder by Stephen King
+30. The Dark Half by Stephen King
+31. Hush, Hush by Becca Fitzpatrick
+32. The Notebook by Nicholas Sparks
+33. The Dark Tower I: The Gunslinger by Stephen King
+34. The Dark Tower III: The Waste Lands by Stephen King
+35. The Dark Tower V: Wolves of the Calla by Stephen King
+36. The Dark Tower VI: Song of Susannah by Stephen King
+37. The Dark Tower VII: The Dark Tower by Stephen King
+38. The Turn of the Screw by Henry James
+39. The Portrait of a Lady by Henry James
+40. The Wings of the Dove by Henry James
+41. Far from the Madding Crowd by Thomas Hardy
+42. Jude the Obscure by Thomas Hardy
+43. The Mayor of Casterbridge by Thomas Hardy
+44. The Return of the Native by Thomas Hardy
+45. The Woodlanders by Thomas Hardy
+46. The Trumpet-Major by Thomas Hardy
+47. The Hand of Ethelberta by Thomas Hardy
+48. Desperate Remedies by Thomas Hardy
+49. A Pair of Blue Eyes by Thomas Hardy
+50. Under the Greenwood Tree by Thomas Hardy
+
+These recommendations are based on the user's interest in books by Stephen King, Nicholas Sparks, and other classic authors.

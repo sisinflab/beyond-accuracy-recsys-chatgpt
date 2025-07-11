@@ -1,0 +1,54 @@
+Based on user 1994's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The Strokes
+3. Florence + The Machine
+4. The White Stripes
+5. Franz Ferdinand
+6. Arcade Fire
+7. The Kooks
+8. The Libertines
+9. Interpol
+10. The Cranberries
+11. The Cure
+12. PJ Harvey
+13. Blur
+14. Oasis
+15. The Flaming Lips
+16. Modest Mouse
+17. The Black Keys
+18. Vampire Weekend
+19. The National
+20. Arctic Monkeys
+21. The Smiths
+22. Yeah Yeah Yeahs
+23. David Bowie
+24. The Beatles
+25. Ladyhawke
+26. Metric
+27. Placebo
+28. Amy Winehouse
+29. Lily Allen
+30. Roxy Music
+31. Weezer
+32. Crystal Castles
+33. Yelle
+34. Cansei de Ser Sexy
+35. Vive la Fête
+36. The Killers
+37. Klaxons
+38. The Sounds
+39. Dream Theater
+40. Lady Gaga
+41. Kate Nash
+42. Chico Buarque
+43. T. Rex
+44. Cat Stevens
+45. MGMT
+46. Iggy Pop
+47. Joy Division
+48. Le Tigre
+49. Rilo Kiley
+50. Muse
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

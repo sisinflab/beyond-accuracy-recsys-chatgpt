@@ -1,0 +1,54 @@
+Based on the preferences of user 157, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. 1984 by George Orwell
+6. The Alchemist by Paulo Coelho
+7. The Book Thief by Markus Zusak
+8. The Hunger Games by Suzanne Collins
+9. The Fault in Our Stars by John Green
+10. The Girl on the Train by Paula Hawkins
+11. Gone Girl by Gillian Flynn
+12. The Night Circus by Erin Morgenstern
+13. The Goldfinch by Donna Tartt
+14. The Help by Kathryn Stockett
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Lovely Bones by Alice Sebold
+17. The Kite Runner by Khaled Hosseini
+18. The Da Vinci Code by Dan Brown
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Maze Runner by James Dashner
+21. The Giver by Lois Lowry
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Glass Castle by Jeannette Walls
+26. The Road by Cormac McCarthy
+27. The Secret Garden by Frances Hodgson Burnett
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Bell Jar by Sylvia Plath
+30. The Sun Also Rises by Ernest Hemingway
+31. The Old Man and the Sea by Ernest Hemingway
+32. The Stranger by Albert Camus
+33. The Brothers Karamazov by Fyodor Dostoevsky
+34. The Count of Monte Cristo by Alexandre Dumas
+35. The Three Musketeers by Alexandre Dumas
+36. The Scarlet Letter by Nathaniel Hawthorne
+37. The Adventures of Huckleberry Finn by Mark Twain
+38. The Adventures of Tom Sawyer by Mark Twain
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Importance of Being Earnest by Oscar Wilde
+41. The Canterbury Tales by Geoffrey Chaucer
+42. The Divine Comedy by Dante Alighieri
+43. The Iliad by Homer
+44. The Odyssey by Homer
+45. The Aeneid by Virgil
+46. The Inferno by Dante Alighieri
+47. The Republic by Plato
+48. The Prince by Niccolò Machiavelli
+49. The Art of War by Sun Tzu
+50. The Prince and the Pauper by Mark Twain
+
+These recommendations are based on the genres and themes of the books that user 157 likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Neverwhere by Neil Gaiman
+2. Stardust by Neil Gaiman
+3. Good Omens by Neil Gaiman and Terry Pratchett
+4. Coraline by Neil Gaiman
+5. The Graveyard Book by Neil Gaiman
+6. Anansi Boys by Neil Gaiman
+7. Norse Mythology by Neil Gaiman
+8. The Ocean at the End of the Lane by Neil Gaiman
+9. Fragile Things by Neil Gaiman
+10. Smoke and Mirrors by Neil Gaiman
+11. The Sandman series by Neil Gaiman
+12. The Hobbit by J.R.R. Tolkien
+13. The Lord of the Rings series by J.R.R. Tolkien
+14. The Silmarillion by J.R.R. Tolkien
+15. The Chronicles of Narnia series by C.S. Lewis
+16. The Magicians by Lev Grossman
+17. The Night Circus by Erin Morgenstern
+18. Jonathan Strange & Mr Norrell by Susanna Clarke
+19. The Name of the Wind by Patrick Rothfuss
+20. The Lies of Locke Lamora by Scott Lynch
+21. The Dresden Files series by Jim Butcher
+22. The Graveyard Shift by Darynda Jones
+23. The Shadow of the Wind by Carlos Ruiz Zafón
+24. The Thirteenth Tale by Diane Setterfield
+25. The Historian by Elizabeth Kostova
+26. The Secret History by Donna Tartt
+27. The Night Watch by Sarah Waters
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Lovely Bones by Alice Sebold
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Golem and the Jinni by Helene Wecker
+32. The Night Circus by Erin Morgenstern
+33. The Book Thief by Markus Zusak
+34. The Alchemist by Paulo Coelho
+35. The Kite Runner by Khaled Hosseini
+36. The Shadow of the Wind by Carlos Ruiz Zafón
+37. The Girl with the Dragon Tattoo by Stieg Larsson
+38. The Help by Kathryn Stockett
+39. The Goldfinch by Donna Tartt
+40. The Nightingale by Kristin Hannah
+41. The Great Gatsby by F. Scott Fitzgerald
+42. To Kill a Mockingbird by Harper Lee
+43. 1984 by George Orwell
+44. Brave New World by Aldous Huxley
+45. Fahrenheit 451 by Ray Bradbury
+46. The Catcher in the Rye by J.D. Salinger
+47. One Hundred Years of Solitude by Gabriel García Márquez
+48. The Picture of Dorian Gray by Oscar Wilde
+49. Wuthering Heights by Emily Brontë
+50. Pride and Prejudice by Jane Austen
+
+These recommendations are based on the user's interest in authors like Neil Gaiman and Edgar Allan Poe, as well as their preference for dark and mysterious themes.

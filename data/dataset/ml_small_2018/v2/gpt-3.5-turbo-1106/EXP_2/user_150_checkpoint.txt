@@ -1,0 +1,22 @@
+Based on user 150's preferences, here are the top-50 movie recommendations:
+
+1. Twelve Monkeys (a.k.a. 12 Monkeys) (1995) - Since the user rated this movie 5/5, it is likely to be a favorite.
+2. Star Wars: Episode IV - A New Hope (1977) - This classic sci-fi film may appeal to the user's interest in Star Trek: First Contact.
+3. Inception (2010) - Given the user's high ratings for thrillers like Seven and Silence of the Lambs, Inception could be a good fit.
+4. Pulp Fiction (1994) - This highly acclaimed crime film may resonate with the user's preference for intense and well-crafted movies.
+5. The Shawshank Redemption (1994) - With the user's positive ratings for dramas like Leaving Las Vegas and Dead Man Walking, this film could be a great choice.
+6. The Dark Knight (2008) - Given the user's high rating for Heat, this action-packed superhero film might be well-received.
+7. The Sixth Sense (1999) - Since the user enjoyed thrillers like A Time to Kill and Broken Arrow, this psychological horror film could be a good match.
+8. The Silence of the Lambs (1991) - This acclaimed thriller may appeal to the user's interest in intense and gripping movies.
+9. Fargo (1996) - With the user's positive ratings for quirky comedies like Grumpier Old Men, this dark comedy-drama might be a good fit.
+10. Forrest Gump (1994) - Given the user's high ratings for heartwarming films like Mr. Holland's Opus and Father of the Bride Part II, this classic drama could be a great choice.
+11. The Shining (1980) - Since the user enjoyed horror films like Leaving Las Vegas and Dead Man Walking, this psychological horror film might be well-received.
+12. The Lion King (1994) - With the user's positive ratings for animated films like Willy Wonka & the Chocolate Factory, this beloved Disney classic could be a good match.
+13. Jurassic Park (1993) - Given the user's high rating for action-packed films like Mission: Impossible, this thrilling adventure film might be a good fit.
+14. Finding Nemo (2003) - Since the user enjoyed animated films like Willy Wonka & the Chocolate Factory, this heartwarming Pixar movie could be well-received.
+15. Beauty and the Beast (1991) - With the user's positive ratings for family-friendly films like Willy Wonka & the Chocolate Factory, this beloved Disney classic might be a good match.
+16. Aladdin (1992) - Given the user's high rating for family-friendly films like Willy Wonka & the Chocolate Factory, this beloved Disney classic might be a good fit.
+17. The Usual Suspects (1995) - Since the user enjoyed intense and well-crafted movies like Leaving Las Vegas and Dead Man Walking, this crime thriller might be well-received.
+18. The Matrix (1999) - Given the user's high rating for action-packed films like Mission: Impossible, this iconic sci-fi action film might be a good fit.
+19. Fight Club (1999) - With the user's positive ratings for intense and well-crafted movies like Leaving Las Vegas and Dead Man Walking, this psychological thriller might be a good match.
+20. Schindler's List (1993) - Since the user enjoyed intense and well-crafted movies like Leaving Las Vegas and Dead Man Walking, this powerful historical drama might be well-received

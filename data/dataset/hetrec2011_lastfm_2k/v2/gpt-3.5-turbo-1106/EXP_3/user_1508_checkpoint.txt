@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1508:
+
+1. The Beatles
+2. Pixies
+3. Soundgarden
+4. The Smiths
+5. Feist
+6. Zero 7
+7. The Cranberries
+8. Rise Against
+9. A Tribe Called Quest
+10. Sigur Rós
+11. Infected Mushroom
+12. Metric
+13. Thom Yorke
+14. System of a Down
+15. Massive Attack
+16. Foo Fighters
+17. Sonic Youth
+18. Beach House
+19. Kings of Leon
+20. Stars
+21. Boards of Canada
+22. AC/DC
+23. Travis
+24. The Kooks
+25. Aerosmith
+26. Adele
+27. Two Door Cinema Club
+28. Mumford & Sons
+29. Pearl Jam
+30. Kings of Convenience
+31. Queen
+32. Glee Cast
+33. David Gilmour
+34. Crystal Castles
+35. Sade
+36. Death from Above 1979
+37. Red Hot Chili Peppers
+38. De La Soul
+39. Robbie Williams
+40. Duran Duran
+41. The Doors
+42. Yeah Yeah Yeahs
+43. Madonna
+44. Tokyo Police Club
+45. Kid Cudi
+46. Tears for Fears
+47. Placebo
+48. Amethystium
+49. The White Stripes
+50. Marilyn Manson (based on similar style to some of the user's liked artists)

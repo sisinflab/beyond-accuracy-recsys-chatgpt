@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Boards of Canada
+2. Tycho
+3. Bonobo
+4. Ulrich Schnauss
+5. Emancipator
+6. Röyksopp
+7. Jon Hopkins
+8. Plaid
+9. Helios
+10. Bibio
+11. Shigeto
+12. Nosaj Thing
+13. Com Truise
+14. Little People
+15. Gold Panda
+16. Apparat
+17. Trentemøller
+18. Caribou
+19. Clark
+20. Lusine
+21. Odesza
+22. Maribou State
+23. Lapalux
+24. Beacon
+25. Bicep
+26. Mount Kimbie
+27. Yppah
+28. Lone
+29. Max Cooper
+30. Dauwd
+31. Christian Löffler
+32. Kiasmos
+33. Synkro
+34. Eskmo
+35. Nosaj Thing
+36. Lapalux
+37. Beacon
+38. Bicep
+39. Mount Kimbie
+40. Yppah
+41. Lone
+42. Max Cooper
+43. Dauwd
+44. Christian Löffler
+45. Kiasmos
+46. Synkro
+47. Eskmo
+48. Nosaj Thing
+49. Lapalux
+50. Beacon
+
+These recommendations are based on the user's liking of similar artists and genres.

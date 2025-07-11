@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 643:
+
+1. The Cure
+2. Depeche Mode
+3. New Order
+4. R.E.M.
+5. U2
+6. The Smiths
+7. Pixies
+8. PJ Harvey
+9. The Beatles
+10. Madonna
+11. George Michael
+12. Elton John
+13. Pet Shop Boys
+14. Erasure
+15. George Harrison
+16. Tori Amos
+17. Amy Winehouse
+18. Muse
+19. Fleetwood Mac
+20. Elliott Smith
+21. Ryan Adams
+22. Marina & the Diamonds
+23. Florence + the Machine
+24. Lady Gaga
+25. Arcade Fire
+26. The Jesus and Mary Chain
+27. Suede
+28. Travis
+29. The Smashing Pumpkins
+30. Mansun
+31. The Kinks
+32. Crowded House
+33. Fleet Foxes
+34. Bruce Springsteen
+35. Madness
+36. ABC
+37. Babyshambles
+38. Wham!
+39. Helloween
+40. Mr. Bungle
+41. No Doubt
+42. Scissor Sisters
+43. Stone Temple Pilots
+44. Orchestral Manoeuvres in the Dark
+45. Thompson Twins
+46. Archive
+47. Nik Kershaw
+48. Faith No More
+49. Spandau Ballet
+50. Icehouse
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

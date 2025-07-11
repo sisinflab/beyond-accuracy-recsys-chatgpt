@@ -1,0 +1,54 @@
+Based on user 234's preferences, here are the top-50 recommendations for the user:
+
+1. OutKast
+2. A Tribe Called Quest
+3. Kanye West
+4. Aaliyah
+5. Snoop Dogg
+6. Common
+7. Jay-Z
+8. Lupe Fiasco
+9. Erykah Badu
+10. Jimi Hendrix
+11. Eminem
+12. The Black Keys
+13. The Beatles
+14. Kid Cudi
+15. The White Stripes
+16. Bob Marley & The Wailers
+17. The Killers
+18. Rush
+19. Sublime
+20. The Prodigy
+21. Pink Floyd
+22. De La Soul
+23. Nas
+24. Raekwon
+25. Mobb Deep
+26. GZA/Genius
+27. DJ Shadow
+28. Beastie Boys
+29. Cypress Hill
+30. Gang Starr
+31. Digitalism
+32. Mos Def
+33. Daft Punk
+34. Linkin Park
+35. Rage Against the Machine
+36. Dr. Dre
+37. T.I.
+38. Drake
+39. Lil' Wayne
+40. B.o.B
+41. Ice Cube
+42. The Ting Tings
+43. Madlib
+44. Trey Songz
+45. The Smashing Pumpkins
+46. The Fray
+47. Fall Out Boy
+48. Hadouken!
+49. Fatboy Slim
+50. 2Pac
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

@@ -1,0 +1,54 @@
+Based on user 123's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. Muse
+3. Radiohead
+4. The Strokes
+5. Tame Impala
+6. The Killers
+7. Vampire Weekend
+8. Alt-J
+9. The Neighbourhood
+10. Two Door Cinema Club
+11. Foster the People
+12. Phoenix
+13. MGMT
+14. The Black Keys
+15. Cage the Elephant
+16. The 1975
+17. Imagine Dragons
+18. Florence + The Machine
+19. Hozier
+20. Bastille
+21. The National
+22. Arcade Fire
+23. The War on Drugs
+24. Portugal. The Man
+25. Foals
+26. Glass Animals
+27. Young the Giant
+28. The Wombats
+29. Bombay Bicycle Club
+30. The xx
+31. The Kooks
+32. Franz Ferdinand
+33. Bloc Party
+34. The Vaccines
+35. The Fratellis
+36. The Libertines
+37. Kasabian
+38. The Hives
+39. The Vines
+40. The Raconteurs
+41. The White Stripes
+42. The Bravery
+43. The Rapture
+44. Interpol
+45. Editors
+46. Maxïmo Park
+47. The Futureheads
+48. Kaiser Chiefs
+49. The Pigeon Detectives
+50. The Maccabees
+
+These recommendations are based on the user's liking of indie, alternative, and electronic music, and include similar artists that they may enjoy.

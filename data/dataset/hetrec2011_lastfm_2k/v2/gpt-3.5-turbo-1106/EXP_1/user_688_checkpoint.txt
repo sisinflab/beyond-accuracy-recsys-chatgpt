@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. Florence + The Machine
+3. The 1975
+4. Bastille
+5. Hozier
+6. Lana Del Rey
+7. Imagine Dragons
+8. The Lumineers
+9. Vampire Weekend
+10. Two Door Cinema Club
+11. Lorde
+12. Foster The People
+13. Arctic Monkeys
+14. The Kooks
+15. Franz Ferdinand
+16. The Black Keys
+17. Cage The Elephant
+18. The Neighbourhood
+19. Tame Impala
+20. The Wombats
+21. The Vaccines
+22. Foals
+23. The Killers
+24. Coldplay
+25. U2
+26. Keane
+27. Muse
+28. Aqualung
+29. Demi Lovato
+30. The Beatles
+31. My Chemical Romance
+32. Taylor Swift
+33. Alanis Morissette
+34. Justin Timberlake
+35. Lady Gaga
+36. Kings of Leon
+37. Oasis
+38. Nando Reis
+39. Moby
+40. Adele
+41. Green Day
+42. Paramore
+43. Red Hot Chili Peppers
+44. Ke$ha
+45. Madonna
+46. Rihanna
+47. Kylie Minogue
+48. Maroon 5
+49. Ed Sheeran
+50. Bruno Mars
+
+These recommendations are based on the user's liking of similar artists and genres.

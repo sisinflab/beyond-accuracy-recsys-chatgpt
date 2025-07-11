@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Taylor Momsen
+2. The Veronicas
+3. The Pretty Reckless
+4. Leighton Meester
+5. Hilary Duff
+6. Katy Perry
+7. Avril Lavigne
+8. McFly
+9. Lindsay Lohan
+10. Placebo
+11. Jonas Brothers
+12. Far East Movement
+13. Demi Lovato
+14. Lady Gaga
+15. Selena Gomez & the Scene
+16. Coldplay
+17. Cobra Starship
+18. Black Eyed Peas
+19. Miley Cyrus
+20. Paramore
+21. Dulce María
+22. Willow Smith
+23. Paris Hilton
+24. Nicole Scherzinger
+25. Lykke Li
+26. Kate Nash
+27. Kerli
+28. Bruno Mars
+29. Rihanna
+30. The All-American Rejects
+31. Kelly Clarkson
+32. P!nk
+33. Gwen Stefani
+34. Fergie
+35. Demi Lovato
+36. The Cranberries
+37. The Cardigans
+38. No Doubt
+39. Alanis Morissette
+40. Garbage
+41. Hole
+42. Veruca Salt
+43. L7
+44. Elastica
+45. Sleeper
+46. Echobelly
+47. Republica
+48. Letters to Cleo
+49. The Breeders
+50. Belly
+
+These recommendations are based on similar artists and genres liked by the user.

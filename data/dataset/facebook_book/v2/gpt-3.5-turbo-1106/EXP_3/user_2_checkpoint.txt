@@ -1,0 +1,52 @@
+Based on user 2's preferences, here are the top 50 recommendations:
+
+1. The Hunger Games
+2. Catching Fire
+3. Mockingjay
+4. The Maze Runner
+5. The City of Ember
+6. The Dead and the Gone
+7. Across the Universe (novel)
+8. Uglies
+9. Matched
+10. Nightshade (novel)
+11. The Legend of Sleepy Hollow
+12. The Catcher in the Rye
+13. The Lovely Bones
+14. Maximum Ride
+15. Fire (Cashore novel)
+16. The Umbrella Academy
+17. Sarah's Key (novel)
+18. Island of the Blue Dolphins
+19. Ingo (novel)
+20. The Morganville Vampires
+21. His Dark Materials
+22. Peeps (novel)
+23. Holes (novel)
+24. Go Ask Alice
+25. Inferno (Dante)
+26. The Pigman
+27. The Last Sin Eater
+28. Perfect Chemistry
+29. Glass (novel)
+30. A Ring of Endless Light
+31. The Wolves of Mercy Falls
+32. Sabriel
+33. Identical (novel)
+34. Little Women
+35. Impulse economy
+36. Gone (novel series)
+37. City of Bones (Mortal Instruments)
+38. Stargirl (novel)
+39. Harry Potter
+40. A Series of Unfortunate Events
+41. Romeo and Juliet
+42. The Time Traveler's Wife
+43. The Messenger (Markus Zusak novel)
+44. The Boy in the Striped Pyjamas
+45. Abhorsen
+46. The Book Thief
+47. The Kingdom Keepers
+48. If I Stay
+49. A Midsummer Night's Dream
+50. Dracula

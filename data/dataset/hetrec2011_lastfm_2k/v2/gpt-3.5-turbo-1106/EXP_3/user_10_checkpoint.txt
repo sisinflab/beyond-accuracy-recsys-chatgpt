@@ -1,0 +1,54 @@
+Based on user 10's preferences, here are the top 50 recommendations for them:
+
+1. Radiohead
+2. The Strokes
+3. Arcade Fire
+4. Interpol
+5. The National
+6. Yeah Yeah Yeahs
+7. The Killers
+8. Kings of Leon
+9. Joy Division
+10. The Libertines
+11. The Smashing Pumpkins
+12. Spoon
+13. Bon Iver
+14. M. Ward
+15. Manu Chao
+16. The Cribs
+17. Broken Social Scene
+18. Bat for Lashes
+19. Beirut
+20. Sigur Rós
+21. Tokyo Police Club
+22. The Kills
+23. Gogol Bordello
+24. Los Hermanos
+25. She Wants Revenge
+26. Silverchair
+27. Jónsi
+28. Hot Chip
+29. Oasis
+30. The Kooks
+31. Morrissey
+32. Muse
+33. The New Pornographers
+34. Arctic Monkeys
+35. Depeche Mode
+36. R.E.M.
+37. of Montreal
+38. Regina Spektor
+39. Two Door Cinema Club
+40. Kasabian
+41. Sufjan Stevens
+42. Queens of the Stone Age
+43. Bright Eyes
+44. Editors
+45. The Verve
+46. New Order
+47. Pink Floyd
+48. Beach House
+49. Blur
+50. U2
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for them to explore.

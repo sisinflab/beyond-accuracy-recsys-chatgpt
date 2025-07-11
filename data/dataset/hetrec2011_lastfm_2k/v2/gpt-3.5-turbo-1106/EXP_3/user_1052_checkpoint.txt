@@ -1,0 +1,54 @@
+Based on user 1052's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Radiohead
+2. The White Stripes
+3. The Strokes
+4. Franz Ferdinand
+5. Arctic Monkeys
+6. The Killers
+7. The Libertines
+8. The Kooks
+9. The Verve
+10. The Who
+11. The Rolling Stones
+12. Led Zeppelin
+13. Pearl Jam
+14. Nirvana
+15. The Cure
+16. Joy Division
+17. The Smiths
+18. Interpol
+19. Editors
+20. The xx
+21. Death Cab for Cutie
+22. Manic Street Preachers
+23. Sonic Youth
+24. Rage Against the Machine
+25. Social Distortion
+26. Incubus
+27. Jet
+28. The Jimi Hendrix Experience
+29. U2
+30. Bob Dylan
+31. Neil Young
+32. Ryan Adams
+33. Iron & Wine
+34. José González
+35. Jack Johnson
+36. Broken Social Scene
+37. Kings of Convenience
+38. Stereophonics
+39. Creedence Clearwater Revival
+40. Johnny Cash
+41. Bruce Springsteen
+42. Paul McCartney
+43. ZZ Top
+44. AC/DC
+45. Anti-Flag
+46. The Clash
+47. Ramones
+48. The Raveonettes
+49. The Jesus and Mary Chain
+50. Sigur Rós
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

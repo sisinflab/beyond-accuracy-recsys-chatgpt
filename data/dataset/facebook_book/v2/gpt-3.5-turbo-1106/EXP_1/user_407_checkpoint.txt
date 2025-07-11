@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Notebook by Nicholas Sparks
+2. The Great Gatsby by F. Scott Fitzgerald
+3. Pride and Prejudice by Jane Austen
+4. The Catcher in the Rye by J.D. Salinger
+5. The Fault in Our Stars by John Green
+6. The Hunger Games by Suzanne Collins
+7. 1984 by George Orwell
+8. The Alchemist by Paulo Coelho
+9. The Da Vinci Code by Dan Brown
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Help by Kathryn Stockett
+12. The Kite Runner by Khaled Hosseini
+13. The Lovely Bones by Alice Sebold
+14. The Secret Life of Bees by Sue Monk Kidd
+15. Water for Elephants by Sara Gruen
+16. The Time Traveler's Wife by Audrey Niffenegger
+17. The Road by Cormac McCarthy
+18. The Book Thief by Markus Zusak
+19. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+20. The Glass Castle by Jeannette Walls
+21. The Night Circus by Erin Morgenstern
+22. The Goldfinch by Donna Tartt
+23. The Martian by Andy Weir
+24. The Nightingale by Kristin Hannah
+25. The Handmaid's Tale by Margaret Atwood
+26. The Sun Also Rises by Ernest Hemingway
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Bell Jar by Sylvia Plath
+29. The Road Less Traveled by M. Scott Peck
+30. The Stranger by Albert Camus
+31. The Old Man and the Sea by Ernest Hemingway
+32. The Grapes of Wrath by John Steinbeck
+33. The Color Purple by Alice Walker
+34. The Joy Luck Club by Amy Tan
+35. The Poisonwood Bible by Barbara Kingsolver
+36. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+37. The Glass Menagerie by Tennessee Williams
+38. The Crucible by Arthur Miller
+39. The Scarlet Letter by Nathaniel Hawthorne
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Count of Monte Cristo by Alexandre Dumas
+42. The Brothers Karamazov by Fyodor Dostoevsky
+43. The Stranger by Albert Camus
+44. The Road Less Traveled by M. Scott Peck
+45. The Old Man and the Sea by Ernest Hemingway
+46. The Grapes of Wrath by John Steinbeck
+47. The Color Purple by Alice Walker
+48. The Joy Luck Club by Amy Tan
+49. The Poisonwood Bible by Barbara Kingsolver
+50. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+
+These recommendations are based on the user's preference for novels by Nicholas Sparks, classic literature like To Kill a Mockingbird, and other popular fiction and non-fiction books.

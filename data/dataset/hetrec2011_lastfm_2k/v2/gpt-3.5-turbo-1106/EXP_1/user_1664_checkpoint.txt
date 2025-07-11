@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Breaking Benjamin
+2. Three Days Grace
+3. Paramore
+4. Red Hot Chili Peppers
+5. Green Day
+6. My Chemical Romance
+7. Fall Out Boy
+8. Muse
+9. The Killers
+10. Panic! At The Disco
+11. Bring Me The Horizon
+12. Avenged Sevenfold
+13. Bullet For My Valentine
+14. Rise Against
+15. A Day To Remember
+16. The Offspring
+17. Sum 41
+18. Good Charlotte
+19. Simple Plan
+20. Seether
+21. Shinedown
+22. Papa Roach
+23. 10 Years
+24. Chevelle
+25. Stone Sour
+26. Sevendust
+27. Theory of a Deadman
+28. Skillet
+29. HEVO84
+30. Forfun
+31. Anberlin
+32. Five Finger Death Punch
+33. Angra
+34. All Time Low
+35. Gloria
+36. The Used
+37. Arctic Monkeys
+38. Linkin Park
+39. Eisley
+40. Before Their Eyes
+41. 30 Seconds to Mars
+42. Hey Monday
+43. Forever the Sickest Kids
+44. Dream Theater
+45. Cute Is What We Aim For
+46. Michael Jackson
+47. Katy Perry
+48. Fresno
+49. Cine
+50. Charlie Brown Jr.
+
+These recommendations are based on the user's liking of similar artists and genres.

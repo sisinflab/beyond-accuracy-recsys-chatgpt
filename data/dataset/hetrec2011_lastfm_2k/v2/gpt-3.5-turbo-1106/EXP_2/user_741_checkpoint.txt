@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 741:
+
+1. Linkin Park
+2. Daft Punk
+3. The Killers
+4. 30 Seconds to Mars
+5. Muse
+6. Avril Lavigne
+7. Paramore
+8. Coldplay
+9. Radiohead
+10. U2
+11. The Bravery
+12. AFI
+13. Fall Out Boy
+14. Marilyn Manson
+15. Papa Roach
+16. Good Charlotte
+17. Simple Plan
+18. The Fray
+19. Rise Against
+20. Thirteen Senses
+21. Britney Spears
+22. Lady Gaga
+23. Christina Aguilera
+24. Madonna
+25. Rihanna
+26. Shakira
+27. Katy Perry
+28. Taylor Swift
+29. Evanescence
+30. Beyoncé
+31. Pink Floyd
+32. Kylie Minogue
+33. Miley Cyrus
+34. Ke$ha
+35. Duran Duran
+36. Blur
+37. Arctic Monkeys
+38. Placebo
+39. Nirvana
+40. Iron Maiden
+41. Amy Winehouse
+42. Led Zeppelin
+43. Metallica
+44. Michael Jackson
+45. Pearl Jam
+46. a-ha
+47. Björk
+48. System of a Down
+49. Nine Inch Nails
+50. Kelly Clarkson
+
+These recommendations are based on the user's liking of similar artists and are re-ranked to reflect their preferences.

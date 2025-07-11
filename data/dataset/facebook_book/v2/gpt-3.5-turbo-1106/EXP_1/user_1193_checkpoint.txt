@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Giver by Lois Lowry
+4. The Maze Runner by James Dashner
+5. The Lightning Thief by Rick Riordan
+6. Percy Jackson & the Olympians by Rick Riordan
+7. The Fault in Our Stars by John Green
+8. The Outsiders by S.E. Hinton
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Alchemist by Paulo Coelho
+11. The Book Thief by Markus Zusak
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. To Kill a Mockingbird by Harper Lee
+14. The Catcher in the Rye by J.D. Salinger
+15. The Secret Garden by Frances Hodgson Burnett
+16. The Little Prince by Antoine de Saint-Exupéry
+17. The Hobbit by J.R.R. Tolkien
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Chronicles of Prydain by Lloyd Alexander
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Sisterhood of the Traveling Pants by Ann Brashares
+22. The House on Mango Street by Sandra Cisneros
+23. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+24. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Fault in Our Stars by John Green
+27. The Book Thief by Markus Zusak
+28. The Catcher in the Rye by J.D. Salinger
+29. The Secret Garden by Frances Hodgson Burnett
+30. The Little Prince by Antoine de Saint-Exupéry
+31. The Hobbit by J.R.R. Tolkien
+32. The Lord of the Rings by J.R.R. Tolkien
+33. The Chronicles of Prydain by Lloyd Alexander
+34. The Secret Life of Bees by Sue Monk Kidd
+35. The Sisterhood of the Traveling Pants by Ann Brashares
+36. The House on Mango Street by Sandra Cisneros
+37. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+38. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+39. The Perks of Being a Wallflower by Stephen Chbosky
+40. The Fault in Our Stars by John Green
+41. The Book Thief by Markus Zusak
+42. The Catcher in the Rye by J.D. Salinger
+43. The Secret Garden by Frances Hodgson Burnett
+44. The Little Prince by Antoine de Saint-Exupéry
+45. The Hobbit by J.R.R. Tolkien
+46. The Lord of the Rings by J.R.R. Tolkien
+47. The Chronicles of Prydain by Lloyd Alexander
+48. The Secret Life of Bees by Sue Monk Kidd
+49. The Sisterhood of the Traveling Pants by Ann Brashares
+50. The House on Mango Street by Sandra Cisneros
+
+These recommendations are based on the user's interest in young adult fiction, fantasy, and coming-of-age novels.

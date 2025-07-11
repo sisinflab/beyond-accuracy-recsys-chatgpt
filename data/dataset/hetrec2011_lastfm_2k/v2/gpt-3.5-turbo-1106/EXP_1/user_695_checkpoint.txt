@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Sigur Rós
+2. M83
+3. Tycho
+4. Hammock
+5. Air
+6. Bonobo
+7. Godspeed You! Black Emperor
+8. The Cinematic Orchestra
+9. Explosions in the Sky
+10. Mogwai
+11. Boards of Canada
+12. The Album Leaf
+13. Radiohead
+14. God Is an Astronaut
+15. Arovane
+16. W.A.S.P.
+17. Richard Ashcroft
+18. Pink Floyd
+19. Eluvium
+20. Manic Street Preachers
+21. Travis
+22. Stereophonics
+23. The Verve
+24. Coldplay
+25. Ratt
+26. This Will Destroy You
+27. Ulrich Schnauss
+28. Minus the Bear
+29. Van Halen
+30. Explosions in the Sky
+31. Mogwai
+32. Boards of Canada
+33. The Album Leaf
+34. Radiohead
+35. God Is an Astronaut
+36. Arovane
+37. W.A.S.P.
+38. Richard Ashcroft
+39. Pink Floyd
+40. Eluvium
+41. Manic Street Preachers
+42. Travis
+43. Stereophonics
+44. The Verve
+45. Coldplay
+46. Ratt
+47. This Will Destroy You
+48. Ulrich Schnauss
+49. Minus the Bear
+50. Van Halen
+
+These recommendations are based on the user's liking of similar artists and genres.

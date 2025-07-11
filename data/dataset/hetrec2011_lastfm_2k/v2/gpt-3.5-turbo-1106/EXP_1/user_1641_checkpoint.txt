@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Amy Winehouse
+2. Otis Redding
+3. Billie Holiday
+4. Marvin Gaye
+5. Stevie Wonder
+6. Diana Ross
+7. Sam Cooke
+8. Etta James
+9. The Supremes
+10. Al Green
+11. James Brown
+12. Curtis Mayfield
+13. The Temptations
+14. Gladys Knight & The Pips
+15. Smokey Robinson & The Miracles
+16. The Isley Brothers
+17. Wilson Pickett
+18. The Four Tops
+19. Jackie Wilson
+20. Ike & Tina Turner
+21. The Ronettes
+22. The Shirelles
+23. The Drifters
+24. The Platters
+25. The Coasters
+26. The Chiffons
+27. The Marvelettes
+28. The Crystals
+29. The Shangri-Las
+30. The Ronettes
+31. The Supremes
+32. The Shirelles
+33. The Chiffons
+34. The Marvelettes
+35. The Crystals
+36. The Shangri-Las
+37. The Ronettes
+38. The Supremes
+39. The Shirelles
+40. The Chiffons
+41. The Marvelettes
+42. The Crystals
+43. The Shangri-Las
+44. The Ronettes
+45. The Supremes
+46. The Shirelles
+47. The Chiffons
+48. The Marvelettes
+49. The Crystals
+50. The Shangri-Las
+
+These recommendations are based on the user's liking for classic and influential artists in the genres of soul, R&B, and pop, similar to the ones they already enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. Breaking Benjamin
+3. System of a Down
+4. Rise Against
+5. Chevelle
+6. Seether
+7. Shinedown
+8. Three Days Grace
+9. Papa Roach
+10. Avenged Sevenfold
+11. Disturbed
+12. My Chemical Romance
+13. Bullet for My Valentine
+14. Slipknot
+15. Stone Sour
+16. Korn
+17. Bring Me The Horizon
+18. A Day to Remember
+19. Five Finger Death Punch
+20. Halestorm
+21. Skillet
+22. Theory of a Deadman
+23. Sevendust
+24. Trivium
+25. Atreyu
+26. In This Moment
+27. Motionless In White
+28. Asking Alexandria
+29. Beartooth
+30. Of Mice & Men
+31. The Pretty Reckless
+32. Pop Evil
+33. Nothing More
+34. All That Remains
+35. P.O.D.
+36. 10 Years
+37. Red Sun Rising
+38. Adelitas Way
+39. Nonpoint
+40. Art of Dying
+41. Drowning Pool
+42. Crossfade
+43. Evans Blue
+44. 12 Stones
+45. Egypt Central
+46. Trapt
+47. Sick Puppies
+48. Red
+49. Cavo
+50. Rev Theory
+
+These recommendations are based on the user's liking of similar rock and alternative artists.

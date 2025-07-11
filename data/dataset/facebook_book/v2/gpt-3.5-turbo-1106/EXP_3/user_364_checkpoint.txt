@@ -1,0 +1,54 @@
+Based on the user's preferences and the provided list of books, here are the top 50 recommendations for user 364:
+
+1. The Hitchhiker's Guide to the Galaxy (novel)
+2. The Lord of the Rings
+3. The Hobbit
+4. American Gods
+5. The Things They Carried
+6. The Call of the Wild
+7. The Walking Dead (comic book)
+8. The Giver
+9. The Name of the Rose
+10. The Alienist
+11. The Big Sleep
+12. The Last Book in the Universe
+13. The Transall Saga
+14. The Chronicles of Narnia: Prince Caspian
+15. The Perks of Being a Wallflower
+16. The Lovely Bones
+17. The Civil War: A Narrative
+18. The Vampire Chronicles
+19. The Vampire Lestat
+20. The Sandman (book)
+21. The Watchmen (novel)
+22. The Hatchet (novel)
+23. The Vampire Lestat
+24. The Sandman (book)
+25. The Alienist
+26. The Last Book in the Universe
+27. The Transall Saga
+28. The Chronicles of Narnia: Prince Caspian
+29. The Perks of Being a Wallflower
+30. The Lovely Bones
+31. The Civil War: A Narrative
+32. The Vampire Chronicles
+33. The Vampire Lestat
+34. The Sandman (book)
+35. The Watchmen (novel)
+36. The Hatchet (novel)
+37. The Vampire Lestat
+38. The Sandman (book)
+39. The Alienist
+40. The Last Book in the Universe
+41. The Transall Saga
+42. The Chronicles of Narnia: Prince Caspian
+43. The Perks of Being a Wallflower
+44. The Lovely Bones
+45. The Civil War: A Narrative
+46. The Vampire Chronicles
+47. The Vampire Lestat
+48. The Sandman (book)
+49. The Watchmen (novel)
+50. The Hatchet (novel)
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended books to the ones the user already likes.

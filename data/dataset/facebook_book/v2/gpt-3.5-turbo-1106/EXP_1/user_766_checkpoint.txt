@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Siddhartha by Hermann Hesse
+2. Crime and Punishment by Fyodor Dostoyevsky
+3. Love in the Time of Cholera by Gabriel García Márquez
+4. The Catcher in the Rye by J.D. Salinger
+5. The Little Prince by Antoine de Saint-Exupéry
+6. The Kite Runner by Khaled Hosseini
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Count of Monte Cristo by Alexandre Dumas
+11. The Shadow of the Wind by Carlos Ruiz Zafón
+12. The Book Thief by Markus Zusak
+13. The Power of Now by Eckhart Tolle
+14. The Prophet by Kahlil Gibran
+15. The Art of Happiness by Dalai Lama XIV
+16. The Road Less Traveled by M. Scott Peck
+17. The Stranger by Albert Camus
+18. The Unbearable Lightness of Being by Milan Kundera
+19. The Bell Jar by Sylvia Plath
+20. The Sun Also Rises by Ernest Hemingway
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Joy Luck Club by Amy Tan
+24. The Namesake by Jhumpa Lahiri
+25. The God of Small Things by Arundhati Roy
+26. The Poisonwood Bible by Barbara Kingsolver
+27. The Color Purple by Alice Walker
+28. The Handmaid's Tale by Margaret Atwood
+29. The Alchemist's Daughter by Katharine McMahon
+30. The Night Circus by Erin Morgenstern
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Glass Castle by Jeannette Walls
+33. The Help by Kathryn Stockett
+34. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+35. The Martian by Andy Weir
+36. The Hunger Games by Suzanne Collins
+37. The Girl with the Dragon Tattoo by Stieg Larsson
+38. The Da Vinci Code by Dan Brown
+39. The Girl on the Train by Paula Hawkins
+40. The Goldfinch by Donna Tartt
+41. The Handmaid's Tale by Margaret Atwood
+42. The Nightingale by Kristin Hannah
+43. The Silent Patient by Alex Michaelides
+44. The Tattooist of Auschwitz by Heather Morris
+45. The Alice Network by Kate Quinn
+46. The Light Between Oceans by M.L. Stedman
+47. The Nightingale by Kristin Hannah
+48. The Silent Patient by Alex Michaelides
+49. The Tattooist of Auschwitz by Heather Morris
+50. The Alice Network by Kate Quinn
+
+These recommendations are based on the user's preference for literary fiction, philosophical themes, and historical settings.

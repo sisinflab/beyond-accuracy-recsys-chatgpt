@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Handmaid's Tale by Margaret Atwood
+4. Brave New World by Aldous Huxley
+5. The Kite Runner by Khaled Hosseini
+6. The Road by Cormac McCarthy
+7. The Grapes of Wrath by John Steinbeck
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Sun Also Rises by Ernest Hemingway
+11. Slaughterhouse-Five by Kurt Vonnegut
+12. The Stranger by Albert Camus
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Alchemist by Paulo Coelho
+15. The Book Thief by Markus Zusak
+16. The Secret History by Donna Tartt
+17. The Goldfinch by Donna Tartt
+18. The Night Circus by Erin Morgenstern
+19. The Shadow of the Wind by Carlos Ruiz Zafon
+20. The Name of the Wind by Patrick Rothfuss
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Poisonwood Bible by Barbara Kingsolver
+23. The Glass Castle by Jeannette Walls
+24. The Color Purple by Alice Walker
+25. The Joy Luck Club by Amy Tan
+26. The House on Mango Street by Sandra Cisneros
+27. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+28. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+29. The Road to Character by David Brooks
+30. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+31. The Boys in the Boat by Daniel James Brown
+32. The Devil in the White City by Erik Larson
+33. The Warmth of Other Suns by Isabel Wilkerson
+34. The Glass Menagerie by Tennessee Williams
+35. The Cider House Rules by John Irving
+36. The Shipping News by Annie Proulx
+37. The Corrections by Jonathan Franzen
+38. The Brief History of the Dead by Kevin Brockmeier
+39. The History of Love by Nicole Krauss
+40. The Art of Racing in the Rain by Garth Stein
+41. The Nightingale by Kristin Hannah
+42. The Light Between Oceans by M.L. Stedman
+43. The Girl on the Train by Paula Hawkins
+44. The Help by Kathryn Stockett
+45. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows
+46. The Time Traveler's Wife by Audrey Niffenegger
+47. The Lovely Bones by Alice Sebold
+48. The Hunger Games by Suzanne Collins
+49. The Girl with the Dragon Tattoo by Stieg Larsson
+50. The Da Vinci Code by Dan Brown
+
+These recommendations are based on the user's interest in literary fiction, historical fiction, and classic literature.

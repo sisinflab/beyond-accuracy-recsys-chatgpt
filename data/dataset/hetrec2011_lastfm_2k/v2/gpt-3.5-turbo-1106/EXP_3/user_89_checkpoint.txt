@@ -1,0 +1,54 @@
+Based on user 89's preferences, here are the top 50 recommendations:
+
+1. Paramore
+2. Avril Lavigne
+3. 30 Seconds to Mars
+4. Lady Gaga
+5. Muse
+6. Avenged Sevenfold
+7. Three Days Grace
+8. Kings of Leon
+9. P!nk
+10. Linkin Park
+11. Bring Me The Horizon
+12. All Time Low
+13. Panic! At the Disco
+14. Arctic Monkeys
+15. Sum 41
+16. 3OH!3
+17. Mayday Parade
+18. Asking Alexandria
+19. The Pretty Reckless
+20. Escape The Fate
+21. McFly
+22. The Veronicas
+23. Evanescence
+24. Breathe Carolina
+25. From First to Last
+26. Backstreet Boys
+27. Amy Winehouse
+28. Tokio Hotel
+29. Gwen Stefani
+30. Porcelain and the Tramps
+31. Jonas Brothers
+32. Aloha From Hell
+33. Hilary Duff
+34. Lily Allen
+35. Katy Perry
+36. Rihanna
+37. Selena Gomez & the Scene
+38. Selena Gomez
+39. Demi Lovato
+40. Miley Cyrus
+41. Hannah Montana
+42. Aly & AJ
+43. Kelly Clarkson
+44. Simple Plan
+45. Green Day
+46. Ne-Yo
+47. Britney Spears
+48. Jordin Sparks
+49. Taylor Swift
+50. Coldplay
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for the user to explore.

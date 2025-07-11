@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1689:
+
+1. Björk
+2. Autechre
+3. Aphex Twin
+4. Tycho
+5. Bonobo
+6. Massive Attack
+7. Air
+8. Telefon Tel Aviv
+9. Plaid
+10. Thievery Corporation
+11. Fleet Foxes
+12. Vampire Weekend
+13. Explosions in the Sky
+14. Mogwai
+15. José González
+16. The Cure
+17. Deftones
+18. The Prodigy
+19. Venetian Snares
+20. Robbie Williams
+21. Madonna
+22. Lady Gaga
+23. Enigma
+24. Schiller
+25. Queen
+26. Crystal Castles
+27. Four Tet
+28. Groove Armada
+29. Kate Nash
+30. Sigur Rós
+31. The Album Leaf
+32. Foals
+33. The Mountain Goats
+34. Pink Floyd
+35. Muse
+36. The Doors
+37. Tool
+38. Shpongle
+39. The Flashbulb
+40. Animal Collective
+41. Coldplay
+42. Billie Holiday
+43. The Pains of Being Pure at Heart
+44. Ólafur Arnalds
+45. Isis
+46. Weezer
+47. Cut Copy
+48. David Gilmour
+49. Nirvana
+50. The Fall of Troy
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

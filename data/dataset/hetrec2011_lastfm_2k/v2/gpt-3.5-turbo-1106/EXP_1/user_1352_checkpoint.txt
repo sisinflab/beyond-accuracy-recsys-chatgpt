@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Opeth
+2. Mastodon
+3. Deftones
+4. Tool
+5. Meshuggah
+6. Gojira
+7. System of a Down
+8. Slipknot
+9. Lamb of God
+10. Trivium
+11. Rammstein
+12. A Perfect Circle
+13. Chevelle
+14. The Dillinger Escape Plan
+15. At the Drive-In
+16. The Mars Volta
+17. Queens of the Stone Age
+18. Incubus
+19. Puscifer
+20. Porcupine Tree
+21. Coheed and Cambria
+22. The Smashing Pumpkins
+23. Alice in Chains
+24. Soundgarden
+25. Stone Temple Pilots
+26. Pearl Jam
+27. Faith No More
+28. Red Hot Chili Peppers
+29. Jane's Addiction
+30. Alice Cooper
+31. Marilyn Manson
+32. Rob Zombie
+33. Ministry
+34. White Zombie
+35. Fear Factory
+36. Static-X
+37. Coal Chamber
+38. Dope
+39. Powerman 5000
+40. Orgy
+41. Filter
+42. Stabbing Westward
+43. 3Teeth
+44. Crosses
+45. AFI
+46. My Chemical Romance
+47. Taking Back Sunday
+48. Brand New
+49. Thrice
+50. Thursday
+
+These recommendations are based on the user's liking of similar artists and genres.

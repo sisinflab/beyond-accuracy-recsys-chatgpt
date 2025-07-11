@@ -1,0 +1,54 @@
+Based on user 268's preferences, here are the re-ranked top-50 recommendations:
+
+1. Metallica
+2. Nirvana
+3. Iron Maiden
+4. Guns N' Roses
+5. Slayer
+6. Alice Cooper
+7. KISS
+8. Def Leppard
+9. Mötley Crüe
+10. W.A.S.P.
+11. Skid Row
+12. Poison
+13. Twisted Sister
+14. Dokken
+15. Whitesnake
+16. Ratt
+17. Amon Amarth
+18. Kreator
+19. Hanoi Rocks
+20. CRASHDÏET
+21. Alestorm
+22. Modern Talking
+23. Bee Gees
+24. Escape The Fate
+25. Britney Spears
+26. Lady Gaga
+27. Christina Aguilera
+28. Rihanna
+29. Shakira
+30. Madonna
+31. Katy Perry
+32. Avril Lavigne
+33. Taylor Swift
+34. Miley Cyrus
+35. Ke$ha
+36. Beyoncé
+37. Kelly Clarkson
+38. Paramore
+39. Glee Cast
+40. Avenged Sevenfold
+41. My Chemical Romance
+42. Green Day
+43. The Killers
+44. 30 Seconds to Mars
+45. Muse
+46. Linkin Park
+47. System of a Down
+48. Nine Inch Nails
+49. P!nk
+50. Pink Floyd
+
+These recommendations are based on the user's liking of similar artists and are re-ranked to reflect their preferences.

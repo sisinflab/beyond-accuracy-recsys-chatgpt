@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. My Chemical Romance
+3. Fall Out Boy
+4. Evanescence
+5. Three Days Grace
+6. Panic! At The Disco
+7. All Time Low
+8. The All-American Rejects
+9. Paramore
+10. Green Day
+11. Simple Plan
+12. Good Charlotte
+13. Sum 41
+14. 30 Seconds to Mars
+15. The Used
+16. Breaking Benjamin
+17. Papa Roach
+18. Red Hot Chili Peppers
+19. Nickelback
+20. Seether
+21. 3 Doors Down
+22. Hoobastank
+23. Staind
+24. Puddle of Mudd
+25. Theory of a Deadman
+26. Shinedown
+27. Chevelle
+28. Alter Bridge
+29. Daughtry
+30. Hinder
+31. Skillet
+32. 12 Stones
+33. Sevendust
+34. Crossfade
+35. Trapt
+36. Fuel
+37. Saliva
+38. Drowning Pool
+39. Adelitas Way
+40. Art of Dying
+41. Sick Puppies
+42. Pop Evil
+43. Rev Theory
+44. Saving Abel
+45. Egypt Central
+46. Aranda
+47. Cavo
+48. Black Stone Cherry
+49. Nonpoint
+50. 10 Years
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smashing Pumpkins
+2. Muse
+3. Nine Inch Nails
+4. The Strokes
+5. Arctic Monkeys
+6. The White Stripes
+7. Placebo
+8. The National
+9. Interpol
+10. The Black Keys
+11. R.E.M.
+12. Oasis
+13. The Smiths
+14. Joy Division
+15. The Flaming Lips
+16. Modest Mouse
+17. The Shins
+18. Death Cab for Cutie
+19. The Postal Service
+20. Franz Ferdinand
+21. Bloc Party
+22. The Libertines
+23. The Verve
+24. The Cranberries
+25. Garbage
+26. PJ Harvey
+27. Sonic Youth
+28. My Bloody Valentine
+29. Cocteau Twins
+30. Siouxsie and the Banshees
+31. The Jesus and Mary Chain
+32. New Order
+33. Echo & the Bunnymen
+34. The Psychedelic Furs
+35. The Church
+36. The Chameleons
+37. The Mission
+38. The Cult
+39. Bauhaus
+40. Love and Rockets
+41. Tones on Tail
+42. The Birthday Party
+43. Nick Cave and the Bad Seeds
+44. The Velvet Underground
+45. Joy Division
+46. The Jesus and Mary Chain
+47. The Psychedelic Furs
+48. The Church
+49. The Chameleons
+50. The Mission
+
+These recommendations are based on the user's liking of alternative, rock, and post-punk artists, and are aimed at providing a diverse range of similar artists for the user to explore.

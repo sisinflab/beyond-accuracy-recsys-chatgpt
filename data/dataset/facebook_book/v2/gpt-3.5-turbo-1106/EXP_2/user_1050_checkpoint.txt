@@ -1,0 +1,54 @@
+Based on the user's liking for the mentioned books, here are the top 50 recommendations for user 1050:
+
+1. The Great Gatsby
+2. The Picture of Dorian Gray
+3. The Catcher in the Rye
+4. The Unbearable Lightness of Being
+5. The Hobbit
+6. The Lord of the Rings
+7. The Stand
+8. The Maze Runner
+9. Gravity's Rainbow
+10. Brave New World
+11. Dracula
+12. Frankenstein
+13. The Silmarillion
+14. World War Z
+15. The Giver
+16. Crime and Punishment
+17. The Scarlet Letter
+18. The Phantom of the Opera
+19. The House of Mirth
+20. Through the Looking-Glass
+21. Alice's Adventures in Wonderland
+22. Fahrenheit 451
+23. Lord of the Flies
+24. The Outsiders (novel)
+25. The City of Ember
+26. The Watchmen (novel)
+27. The Southern Vampire Mysteries
+28. The Lost Books (novel series)
+29. The Rapture (novel)
+30. The Pillowman
+31. The Outsiders (novel)
+32. The Tenant of Wildfell Hall
+33. Invisible Man
+34. Lady Chatterley's Lover
+35. The Giver
+36. Strange Case of Dr Jekyll and Mr Hyde
+37. A Series of Unfortunate Events
+38. Shakespeares sonnets
+39. The Hamlet
+40. The Watchmen
+41. The Pit and the Pendulum
+42. The Picture of Dorian Gray
+43. The Great Gatsby
+44. The Unbearable Lightness of Being
+45. The Hobbit
+46. The Lord of the Rings
+47. The Stand
+48. The Maze Runner
+49. Gravity's Rainbow
+50. Brave New World
+
+These recommendations are based on the user's liking for similar books and are ranked accordingly.

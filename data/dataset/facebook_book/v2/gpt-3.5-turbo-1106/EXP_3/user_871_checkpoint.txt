@@ -1,0 +1,52 @@
+Based on user 871's preferences, here are the top 50 book recommendations:
+
+1. The Little Prince
+2. The Lord of the Rings
+3. Crime and Punishment
+4. The Chronicles of Narnia: Prince Caspian
+5. Alice's Adventures in Wonderland
+6. One Hundred Years of Solitude
+7. Finnegans Wake
+8. Romeo and Juliet
+9. How the García Girls Lost Their Accents
+10. The Age of Innocence
+11. Frankenstein
+12. The Stranger (novel)
+13. It (novel)
+14. Slaughterhouse-Five
+15. The Illustrated Man
+16. The Amazing Adventures of Kavalier & Clay
+17. Dracula
+18. East of Eden (novel)
+19. The Satanic Verses
+20. Of Mice and Men
+21. The Picture of Dorian Gray
+22. To Kill a Mockingbird
+23. The Five People You Meet in Heaven
+24. The Memory Keeper's Daughter
+25. A Room with a View
+26. The Secret Life of Bees
+27. The Time Traveler's Wife
+28. Atonement (novel)
+29. The Unbearable Lightness of Being
+30. War and Peace
+31. Where the Heart Is (novel)
+32. The Horse Whisperer (novel)
+33. Into Thin Air
+34. The Joy Luck Club (novel)
+35. The Bluest Eye
+36. Another Roadside Attraction
+37. A Prayer for Owen Meany
+38. A Separate Peace
+39. Where the Sidewalk Ends (book)
+40. Gospel of Matthew
+41. Harry Potter
+42. The Demon in the Freezer
+43. The Host (novel)
+44. Speak (novel)
+45. Fences (play)
+46. Fantastic Mr Fox
+47. Water for Elephants
+48. The Wedding (Steel novel)
+49. The Glass Bead Game
+50. Halo (series)

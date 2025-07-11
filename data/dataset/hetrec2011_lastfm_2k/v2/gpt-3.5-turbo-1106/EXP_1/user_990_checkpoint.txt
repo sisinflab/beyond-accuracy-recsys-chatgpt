@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The National
+2. Arcade Fire
+3. The Smiths
+4. The War on Drugs
+5. Tame Impala
+6. The xx
+7. Beach House
+8. Grizzly Bear
+9. Sufjan Stevens
+10. Vampire Weekend
+11. Fleet Foxes
+12. Bon Iver
+13. Animal Collective
+14. Spoon
+15. Modest Mouse
+16. Belle and Sebastian
+17. The Strokes
+18. Spoon
+19. LCD Soundsystem
+20. Yeah Yeah Yeahs
+21. The Flaming Lips
+22. My Bloody Valentine
+23. The Shins
+24. Death Cab for Cutie
+25. Neutral Milk Hotel
+26. Yo La Tengo
+27. Real Estate
+28. The Antlers
+29. Deerhunter
+30. Explosions in the Sky
+31. Mogwai
+32. Spiritualized
+33. The Jesus and Mary Chain
+34. Ride
+35. Slowdive
+36. Cocteau Twins
+37. Galaxie 500
+38. Stereolab
+39. Broadcast
+40. The Avalanches
+41. Caribou
+42. Four Tet
+43. Boards of Canada
+44. Tycho
+45. Washed Out
+46. Toro y Moi
+47. MGMT
+48. Phoenix
+49. Hot Chip
+50. Cut Copy
+
+These recommendations are based on the user's liking of indie, alternative, and electronic music, as well as their affinity for artists with a dreamy and atmospheric sound.

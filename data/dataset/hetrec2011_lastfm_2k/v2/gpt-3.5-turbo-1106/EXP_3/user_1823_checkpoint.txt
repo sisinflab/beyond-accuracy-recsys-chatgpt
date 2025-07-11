@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1823:
+
+1. Radiohead
+2. The Killers
+3. The Strokes
+4. Arctic Monkeys
+5. Florence + the Machine
+6. The Who
+7. 30 Seconds to Mars
+8. Oasis
+9. The Maine
+10. Daft Punk
+11. MGMT
+12. VersaEmerge
+13. Death Cab for Cutie
+14. James Blunt
+15. Tegan and Sara
+16. Ramones
+17. The Birthday Massacre
+18. The Veronicas
+19. Bon Jovi
+20. Fall Out Boy
+21. She & Him
+22. Gorillaz
+23. Marisa Monte
+24. Saosin
+25. Hawthorne Heights
+26. Soundtrack
+27. The Runaways
+28. Aloha From Hell
+29. McFly
+30. Taylor Swift
+31. Kate Nash
+32. Red Hot Chili Peppers
+33. Kelly Clarkson
+34. AC/DC
+35. Rihanna
+36. The Fray
+37. Gloria
+38. nevershoutnever!
+39. Pixie Lott
+40. Atreyu
+41. The Cure
+42. Blur
+43. Lily Allen
+44. Cute Is What We Aim For
+45. Marduk
+46. Them Crooked Vultures
+47. Katatonia
+48. CAKE
+49. The Cranberries
+50. Keane
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

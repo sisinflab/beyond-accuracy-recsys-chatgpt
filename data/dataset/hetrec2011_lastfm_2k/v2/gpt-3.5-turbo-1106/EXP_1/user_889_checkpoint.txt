@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Modest Mouse
+2. Wilco
+3. The Strokes
+4. The White Stripes
+5. Beck
+6. The National
+7. LCD Soundsystem
+8. Vampire Weekend
+9. Spoon
+10. Interpol
+11. The Shins
+12. Tame Impala
+13. Arctic Monkeys
+14. The Smiths
+15. Pavement
+16. 植松伸夫
+17. The Beatles
+18. Radiohead
+19. The Flaming Lips
+20. Bob Dylan
+21. Fugazi
+22. At the Drive-In
+23. Tom Waits
+24. Gorillaz
+25. Pixies
+26. Manic Street Preachers
+27. Daft Punk
+28. Madvillain
+29. Mastodon
+30. Sonic Youth
+31. Talking Heads
+32. My Bloody Valentine
+33. Arcade Fire
+34. Oasis
+35. Weezer
+36. The Black Keys
+37. Pink Floyd
+38. The Rolling Stones
+39. Built to Spill
+40. Neutral Milk Hotel
+41. Them Crooked Vultures
+42. Modest Mouse
+43. Wilco
+44. The Strokes
+45. The White Stripes
+46. Beck
+47. The National
+48. LCD Soundsystem
+49. Vampire Weekend
+50. Spoon
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and bands that align with their current tastes.

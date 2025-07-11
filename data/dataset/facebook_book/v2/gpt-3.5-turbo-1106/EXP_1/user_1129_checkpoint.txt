@@ -1,0 +1,54 @@
+Based on user 1129's preferences, here are the top 50 book recommendations:
+
+1. World War Z by Max Brooks
+2. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+3. The Great Shark Hunt by Hunter S. Thompson
+4. The Lost Symbol by Dan Brown
+5. V for Vendetta by Alan Moore
+6. Inferno by Dan Brown
+7. Cat's Cradle by Kurt Vonnegut
+8. The Stand by Stephen King
+9. Wild by Cheryl Strayed
+10. The Power by Rhonda Byrne
+11. Norse Mythology by Neil Gaiman
+12. The Road by Cormac McCarthy
+13. The Walking Dead: Rise of the Governor by Robert Kirkman
+14. The Catcher in the Rye by J.D. Salinger
+15. The Shining by Stephen King
+16. Big Magic by Elizabeth Gilbert
+17. The Alchemist by Paulo Coelho
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Road to Woodbury by Robert Kirkman
+20. The Art of War by Sun Tzu
+21. The Stand: Soul Survivors by Stephen King
+22. The Martian by Andy Weir
+23. The Girl Who Played with Fire by Stieg Larsson
+24. The Dark Tower II: The Drawing of the Three by Stephen King
+25. The Joy Luck Club by Amy Tan
+26. The Walking Dead: The Fall of the Governor by Robert Kirkman
+27. The Catcher in the Rye by J.D. Salinger
+28. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+29. The Dark Tower III: The Waste Lands by Stephen King
+30. The Glass Castle by Jeannette Walls
+31. The Walking Dead: The Road to Woodbury by Robert Kirkman
+32. The Catcher in the Rye by J.D. Salinger
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Dark Tower IV: Wizard and Glass by Stephen King
+35. The Glass Castle by Jeannette Walls
+36. The Walking Dead: The Fall of the Governor by Robert Kirkman
+37. The Catcher in the Rye by J.D. Salinger
+38. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+39. The Dark Tower III: The Waste Lands by Stephen King
+40. The Glass Castle by Jeannette Walls
+41. The Walking Dead: The Road to Woodbury by Robert Kirkman
+42. The Catcher in the Rye by J.D. Salinger
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Dark Tower IV: Wizard and Glass by Stephen King
+45. The Glass Castle by Jeannette Walls
+46. The Walking Dead: The Fall of the Governor by Robert Kirkman
+47. The Catcher in the Rye by J.D. Salinger
+48. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+49. The Dark Tower III: The Waste Lands by Stephen King
+50. The Glass Castle by Jeannette Walls
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1129 enjoys.

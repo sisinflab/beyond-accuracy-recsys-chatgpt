@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 281:
+
+1. Iron Maiden
+2. Nirvana
+3. Pearl Jam
+4. Linkin Park
+5. Black Sabbath
+6. Guns N' Roses
+7. Alice in Chains
+8. Judas Priest
+9. Ozzy Osbourne
+10. Megadeth
+11. Scorpions
+12. Alice Cooper
+13. Bon Jovi
+14. UFO
+15. Ratt
+16. Dokken
+17. Yngwie Malmsteen
+18. Slash
+19. Mötley Crüe
+20. Accept
+21. Bruce Dickinson
+22. KISS
+23. Toto
+24. Kaiser Chiefs
+25. Skid Row
+26. A Flock of Seagulls
+27. Metallica
+28. Led Zeppelin
+29. System of a Down
+30. Nine Inch Nails
+31. Avenged Sevenfold
+32. The Beatles
+33. U2
+34. Muse
+35. Pink Floyd
+36. Radiohead
+37. Coldplay
+38. Blur
+39. Arctic Monkeys
+40. Placebo
+41. The Killers
+42. Amy Winehouse
+43. Michael Jackson
+44. a-ha
+45. Björk
+46. Daft Punk
+47. The Cure
+48. Green Day
+49. My Chemical Romance
+50. Nine Inch Nails
+
+These recommendations are based on the user's liking of similar artists and are ranked accordingly.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bob Dylan
+2. The Rolling Stones
+3. The Beatles
+4. Led Zeppelin
+5. Pink Floyd
+6. David Bowie
+7. The Doors
+8. Jimi Hendrix
+9. Fleetwood Mac
+10. Queen
+11. The Who
+12. The Kinks
+13. Neil Young
+14. Bruce Springsteen
+15. Tom Petty and the Heartbreakers
+16. The Beach Boys
+17. Elvis Presley
+18. Chuck Berry
+19. Buddy Holly
+20. Roy Orbison
+21. Little Richard
+22. Jerry Lee Lewis
+23. Fats Domino
+24. Ray Charles
+25. Sam Cooke
+26. Otis Redding
+27. Aretha Franklin
+28. Stevie Wonder
+29. Marvin Gaye
+30. Al Green
+31. Curtis Mayfield
+32. Sly and the Family Stone
+33. Prince
+34. Michael Jackson
+35. Stevie Ray Vaughan
+36. Eric Clapton
+37. B.B. King
+38. Muddy Waters
+39. Howlin' Wolf
+40. John Lee Hooker
+41. Robert Johnson
+42. T-Bone Walker
+43. Son House
+44. Lead Belly
+45. Blind Lemon Jefferson
+46. Skip James
+47. Mississippi John Hurt
+48. Big Bill Broonzy
+49. Lightnin' Hopkins
+50. Sonny Boy Williamson

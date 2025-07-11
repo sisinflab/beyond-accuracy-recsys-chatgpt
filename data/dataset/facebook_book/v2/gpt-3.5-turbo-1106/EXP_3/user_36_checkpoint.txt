@@ -1,0 +1,54 @@
+Based on user 36's preferences, here are the top 50 book recommendations for them:
+
+1. The Great Gatsby
+2. Brave New World
+3. Nineteen Eighty-Four
+4. Animal Farm
+5. Moby-Dick
+6. The Lord of the Rings
+7. The Hobbit
+8. The Silmarillion
+9. The Stand
+10. The Giver
+11. Harry Potter
+12. The Time Machine
+13. Night (book)
+14. Romeo and Juliet
+15. Lies My Teacher Told Me
+16. The Art of Seduction
+17. It (novel)
+18. Macbeth
+19. Bhagavad Gita
+20. The War of the Worlds
+21. Quran
+22. War and Peace
+23. Wuthering Heights
+24. Gone with the Wind
+25. Great Expectations
+26. The Catcher in the Rye
+27. The Adventures of Tom Sawyer
+28. Little Women
+29. Atlas Shrugged
+30. Ulysses (novel)
+31. The Last Storytellers: Tales from the Heart of Morocco
+32. And Then There Were None
+33. The Lost World (Crichton novel)
+34. Oliver Twist
+35. The Boy in the Striped Pyjamas
+36. Christine (novel)
+37. Girl, Interrupted
+38. Love Story (novel)
+39. Sin City
+40. Sun Bin's Art of War
+41. Green Eggs and Ham
+42. Percy Jackson & the Olympians
+43. The Girl Next Door (novel)
+44. Iliad
+45. Azumanga Daioh
+46. No Country for Old Men
+47. Stalingrad (book)
+48. Children of the Mind
+49. Emma (novel)
+50. Fullmetal Alchemist
+
+These recommendations are based on the user's previous likes and are tailored to their specific tastes.

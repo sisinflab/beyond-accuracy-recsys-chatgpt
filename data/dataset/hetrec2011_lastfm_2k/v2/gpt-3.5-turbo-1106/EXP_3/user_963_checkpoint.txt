@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 963:
+
+1. Madonna
+2. Lady Gaga
+3. Kylie Minogue
+4. Erasure
+5. Cher
+6. Michael Jackson
+7. Ladytron
+8. Amy Winehouse
+9. Alphaville
+10. Black Eyed Peas
+11. Pet Shop Boys
+12. Blondie
+13. Eurythmics
+14. The B-52's
+15. Mika
+16. Ana Carolina
+17. a-ha
+18. U2
+19. Janet Jackson
+20. Gwen Stefani
+21. David Guetta
+22. Nicki Minaj
+23. Rihanna
+24. Shakira
+25. Beyoncé
+26. Justin Bieber
+27. Katy Perry
+28. Jennifer Lopez
+29. Daft Punk
+30. Ke$ha
+31. Green Day
+32. Taylor Swift
+33. Glee Cast
+34. Backstreet Boys
+35. Red Hot Chili Peppers
+36. David Archuleta
+37. Lindsay Lohan
+38. Lifehouse
+39. Jamiroquai
+40. Lily Allen
+41. Tokio Hotel
+42. Elvis Presley
+43. Dido
+44. Kelly Clarkson
+45. Marisa Monte
+46. ABBA
+47. Cyndi Lauper
+48. Aretha Franklin
+49. The Mamas & The Papas
+50. Britney Spears
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

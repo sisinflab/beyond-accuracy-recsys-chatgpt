@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Metallica
+2. Iron Maiden
+3. Slayer
+4. Hatebreed
+5. In Flames
+6. Despised Icon
+7. Kreator
+8. Death
+9. Exodus
+10. Sodom
+11. Machine Head
+12. Marduk
+13. Destruction
+14. All Shall Perish
+15. The Dillinger Escape Plan
+16. Converge
+17. Suicide Silence
+18. Caliban
+19. Hypocrisy
+20. Fear Factory
+21. Walls of Jericho
+22. Britney Spears
+23. Lady Gaga
+24. Christina Aguilera
+25. Rihanna
+26. Paramore
+27. Madonna
+28. Shakira
+29. Avril Lavigne
+30. Katy Perry
+31. Taylor Swift
+32. Evanescence
+33. Beyoncé
+34. 30 Seconds to Mars
+35. Muse
+36. Pink Floyd
+37. Kylie Minogue
+38. Miley Cyrus
+39. Ke$ha
+40. Duran Duran
+41. Coldplay
+42. Blur
+43. Arctic Monkeys
+44. Placebo
+45. The Killers
+46. Nirvana
+47. Amy Winehouse
+48. Led Zeppelin
+49. Michael Jackson
+50. U2
+
+This re-ranked list takes into account the user's liking for heavy metal and related genres, and suggests similar artists as well as some popular mainstream artists.

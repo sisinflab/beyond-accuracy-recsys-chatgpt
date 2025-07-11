@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 118:
+
+1. Linkin Park
+2. Paramore
+3. Avenged Sevenfold
+4. Three Days Grace
+5. In This Moment
+6. Disturbed
+7. Korn
+8. In Flames
+9. Good Charlotte
+10. Machine Head
+11. Black Label Society
+12. Five Finger Death Punch
+13. The Offspring
+14. Adema
+15. Eyes Set to Kill
+16. Thousand Foot Krutch
+17. Dope
+18. Guano Apes
+19. Atreyu
+20. Eels
+21. Muse
+22. 30 Seconds to Mars
+23. Evanescence
+24. My Chemical Romance
+25. Green Day
+26. The Killers
+27. Nirvana
+28. Metallica
+29. Iron Maiden
+30. Pearl Jam
+31. System of a Down
+32. Nine Inch Nails
+33. Radiohead
+34. Coldplay
+35. Placebo
+36. Arctic Monkeys
+37. Blur
+38. The Cure
+39. Depeche Mode
+40. U2
+41. The Beatles
+42. Led Zeppelin
+43. Pink Floyd
+44. Michael Jackson
+45. Madonna
+46. Beyoncé
+47. Lady Gaga
+48. Rihanna
+49. Christina Aguilera
+50. Britney Spears
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

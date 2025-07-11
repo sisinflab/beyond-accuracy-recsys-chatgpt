@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Emma by Jane Austen
+3. Persuasion by Jane Austen
+4. Northanger Abbey by Jane Austen
+5. 1984 by George Orwell
+6. Brave New World by Aldous Huxley
+7. The Martian Chronicles by Ray Bradbury
+8. The Illustrated Man by Ray Bradbury
+9. Dune by Frank Herbert
+10. Dracula by Bram Stoker
+11. The Picture of Dorian Gray by Oscar Wilde
+12. Wuthering Heights by Emily Brontë
+13. Villette by Charlotte Brontë
+14. The Princess Diarist by Carrie Fisher
+15. A Tale of Two Cities by Charles Dickens
+16. Great Expectations by Charles Dickens
+17. Oliver Twist by Charles Dickens
+18. The Hobbit by J.R.R. Tolkien
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Chronicles of Narnia by C.S. Lewis
+21. His Dark Materials by Philip Pullman
+22. The Hunger Games by Suzanne Collins
+23. Divergent by Veronica Roth
+24. The Maze Runner by James Dashner
+25. The Giver by Lois Lowry
+26. To Kill a Mockingbird by Harper Lee
+27. The Catcher in the Rye by J.D. Salinger
+28. The Great Gatsby by F. Scott Fitzgerald
+29. The Adventures of Huckleberry Finn by Mark Twain
+30. Moby-Dick by Herman Melville
+31. The Count of Monte Cristo by Alexandre Dumas
+32. Les Misérables by Victor Hugo
+33. The Hunchback of Notre-Dame by Victor Hugo
+34. The Alchemist by Paulo Coelho
+35. One Hundred Years of Solitude by Gabriel García Márquez
+36. Love in the Time of Cholera by Gabriel García Márquez
+37. The Name of the Wind by Patrick Rothfuss
+38. Mistborn by Brandon Sanderson
+39. The Lies of Locke Lamora by Scott Lynch
+40. The Way of Kings by Brandon Sanderson
+41. The Night Circus by Erin Morgenstern
+42. The Book Thief by Markus Zusak
+43. The Kite Runner by Khaled Hosseini
+44. A Thousand Splendid Suns by Khaled Hosseini
+45. The Secret History by Donna Tartt
+46. The Goldfinch by Donna Tartt
+47. The Shadow of the Wind by Carlos Ruiz Zafón
+48. The Nightingale by Kristin Hannah
+49. All the Light We Cannot See by Anthony Doerr
+50. The Help by Kathryn Stockett
+
+These recommendations are based on the user's interest in classic literature, fantasy, and some contemporary fiction.

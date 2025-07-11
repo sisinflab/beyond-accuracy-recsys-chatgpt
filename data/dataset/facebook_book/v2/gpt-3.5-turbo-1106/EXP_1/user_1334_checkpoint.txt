@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Kite Runner by Khaled Hosseini
+5. The Alchemist by Paulo Coelho
+6. The Road by Cormac McCarthy
+7. The Handmaid's Tale by Margaret Atwood
+8. The Bell Jar by Sylvia Plath
+9. One Hundred Years of Solitude by Gabriel García Márquez
+10. The Stranger by Albert Camus
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Sun Also Rises by Ernest Hemingway
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Grapes of Wrath by John Steinbeck
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Color Purple by Alice Walker
+17. The Glass Castle by Jeannette Walls
+18. The Road Less Traveled by M. Scott Peck
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Poisonwood Bible by Barbara Kingsolver
+21. The Joy Luck Club by Amy Tan
+22. The Namesake by Jhumpa Lahiri
+23. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+24. The House on Mango Street by Sandra Cisneros
+25. The God of Small Things by Arundhati Roy
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Night Circus by Erin Morgenstern
+28. The Goldfinch by Donna Tartt
+29. The Secret History by Donna Tartt
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Help by Kathryn Stockett
+33. The Martian by Andy Weir
+34. The Hunger Games by Suzanne Collins
+35. The Girl on the Train by Paula Hawkins
+36. The Da Vinci Code by Dan Brown
+37. The Girl with the Pearl Earring by Tracy Chevalier
+38. The Lovely Bones by Alice Sebold
+39. The Catcher in the Rye by J.D. Salinger
+40. The Book Thief by Markus Zusak
+41. To Kill a Mockingbird by Harper Lee
+42. The Great Gatsby by F. Scott Fitzgerald
+43. The Rapture by Tim LaHaye, Jerry B. Jenkins
+44. The Gargoyle by Andrew Davidson
+45. The Reluctant Fundamentalist by Mohsin Hamid
+46. My Name Is Red by Orhan Pamuk
+47. The Catcher Was a Spy by Nicholas Dawidoff
+48. The Nightingale by Kristin Hannah
+49. The Night Circus by Erin Morgenstern
+50. The Night Manager by John le Carré
+
+These recommendations are based on the user's preferences and include a mix of classic and contemporary literature across various genres.

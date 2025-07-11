@@ -1,0 +1,52 @@
+Based on user 30's preferences, here are the top 50 book recommendations:
+
+1. Twilight (series)
+2. Uglies
+3. The Blue Sword
+4. The Hero and the Crown
+5. City of Ashes
+6. Anne of Green Gables
+7. A Little Princess
+8. The Gift (Croggon novel)
+9. Haunted (The Mediator)
+10. Chosen (A House of Night novel)
+11. The Messenger (Markus Zusak novel)
+12. The Hobbit
+13. The Last Storytellers: Tales from the Heart of Morocco
+14. The Tommyknockers
+15. Sounder
+16. Harry Potter
+17. Memoirs of a Geisha
+18. Black Beauty
+19. Chibi Vampire
+20. Sold (McCormick novel)
+21. Vampire Academy (novel)
+22. Bram Stoker's Dracula
+23. The Lord of the Rings
+24. Kira-Kira
+25. Fushigi Yûgi
+26. Crown Duel
+27. Rebel Angels
+28. Frankenstein
+29. Thirteen Reasons Why
+30. Crank (novel)
+31. Ceres, Celestial Legend
+32. The Hunger Games
+33. The Amulet of Samarkand
+34. Valiant: A Modern Tale of Faerie
+35. The Call of the Wild
+36. Pretties
+37. The Bell Jar
+38. Through the Looking-Glass
+39. The Count of Monte Cristo
+40. A Great and Terrible Beauty
+41. Ironside: A Modern Faery's Tale
+42. Manga
+43. Beauty: A Retelling of the Story of Beauty and the Beast
+44. The Sweet Far Thing
+45. The Giver
+46. Pride and Prejudice
+47. My Sister's Keeper (novel)
+48. The Accidental Billionaires
+49. The Diary of a Young Girl
+50. The Most Dangerous Game (novel)

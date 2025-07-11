@@ -1,0 +1,54 @@
+Based on the preferences of user 343, here are the top 50 book recommendations:
+
+1. Beloved by Toni Morrison
+2. The Color Purple by Alice Walker
+3. Song of Solomon by Toni Morrison
+4. I Know Why the Caged Bird Sings by Maya Angelou
+5. The Bluest Eye by Toni Morrison
+6. Invisible Man by Ralph Ellison
+7. Native Son by Richard Wright
+8. Go Tell It on the Mountain by James Baldwin
+9. Their Eyes Were Watching God by Zora Neale Hurston
+10. The Crow (novel) by Alison Croggon
+11. The Left Hand of Darkness by Ursula K. Le Guin
+12. The Dispossessed by Ursula K. Le Guin
+13. Parable of the Sower by Octavia Butler
+14. Parable of the Talents by Octavia Butler
+15. Bloodchild and Other Stories by Octavia Butler
+16. The Autobiography of Malcolm X by Malcolm X
+17. Black Boy by Richard Wright
+18. The Souls of Black Folk by W.E.B. Du Bois
+19. The Fire Next Time by James Baldwin
+20. Giovanni's Room by James Baldwin
+21. Another Country by James Baldwin
+22. The Street by Ann Petry
+23. Passing by Nella Larsen
+24. Quicksand by Nella Larsen
+25. The Known World by Edward P. Jones
+26. The Underground Railroad by Colson Whitehead
+27. The Water Dancer by Ta-Nehisi Coates
+28. The Nickel Boys by Colson Whitehead
+29. The Warmth of Other Suns by Isabel Wilkerson
+30. The Hate U Give by Angie Thomas
+31. An American Marriage by Tayari Jones
+32. The Vanishing Half by Brit Bennett
+33. Homegoing by Yaa Gyasi
+34. The Book of Night Women by Marlon James
+35. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+36. The House on Mango Street by Sandra Cisneros
+37. Like Water for Chocolate by Laura Esquivel
+38. One Hundred Years of Solitude by Gabriel García Márquez
+39. Love in the Time of Cholera by Gabriel García Márquez
+40. The Alchemist by Paulo Coelho
+41. The Shadow of the Wind by Carlos Ruiz Zafón
+42. The Night Circus by Erin Morgenstern
+43. The Name of the Wind by Patrick Rothfuss
+44. The Secret History by Donna Tartt
+45. The Goldfinch by Donna Tartt
+46. The Nightingale by Kristin Hannah
+47. All the Light We Cannot See by Anthony Doerr
+48. The Kite Runner by Khaled Hosseini
+49. A Thousand Splendid Suns by Khaled Hosseini
+50. The Book Thief by Markus Zusak
+
+These recommendations are based on the user's interest in literature, fantasy, and historical fiction, as well as a focus on diverse voices and perspectives.

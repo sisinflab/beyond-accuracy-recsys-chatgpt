@@ -1,0 +1,54 @@
+Based on user 205's liking of the books you provided, here are the top 50 recommendations for them:
+
+1. The Great Gatsby
+2. The Catcher in the Rye
+3. The Picture of Dorian Gray
+4. The Hobbit
+5. The Lord of the Rings
+6. Dracula
+7. Frankenstein
+8. The Stand
+9. The Giver
+10. Crime and Punishment
+11. The Scarlet Letter
+12. The Phantom of the Opera
+13. The Unbearable Lightness of Being
+14. Brave New World
+15. Harry Potter
+16. The Maze Runner
+17. The City of Ember
+18. Gravity's Rainbow
+19. The Southern Vampire Mysteries
+20. Delta of Venus
+21. Medea (play)
+22. The Silmarillion
+23. Incarceron
+24. World War Z
+25. The Outsiders (novel)
+26. Invisible Man
+27. Lady Chatterley's Lover
+28. Strange Case of Dr Jekyll and Mr Hyde
+29. A Series of Unfortunate Events
+30. The Last Song (novel)
+31. The Shack
+32. The Lost Books (novel series)
+33. The Rapture (novel)
+34. Shakespeares sonnets
+35. The House of Mirth
+36. Pygmalion (play)
+37. The Last Song (novel)
+38. The Shack
+39. The Lost Books (novel series)
+40. The Rapture (novel)
+41. Shakespeares sonnets
+42. The House of Mirth
+43. Pygmalion (play)
+44. The Last Song (novel)
+45. The Shack
+46. The Lost Books (novel series)
+47. The Rapture (novel)
+48. Shakespeares sonnets
+49. The House of Mirth
+50. Pygmalion (play)
+
+These recommendations are based on the user's liking of the provided books and are ranked in order of likelihood of enjoyment.

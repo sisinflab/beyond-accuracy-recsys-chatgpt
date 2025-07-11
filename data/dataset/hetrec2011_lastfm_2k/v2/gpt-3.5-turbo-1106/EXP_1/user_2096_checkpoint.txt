@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Nine Inch Nails
+3. The Killers
+4. Depeche Mode
+5. R.E.M.
+6. The Strokes
+7. Arctic Monkeys
+8. The White Stripes
+9. Interpol
+10. The Smiths
+11. Arcade Fire
+12. The Libertines
+13. The Jesus and Mary Chain
+14. Echo & the Bunnymen
+15. New Order
+16. The National
+17. The Black Keys
+18. The Flaming Lips
+19. Modest Mouse
+20. The War on Drugs
+21. Spoon
+22. Vampire Weekend
+23. Tame Impala
+24. The Shins
+25. Death Cab for Cutie
+26. Bloc Party
+27. Franz Ferdinand
+28. Yeah Yeah Yeahs
+29. LCD Soundsystem
+30. MGMT
+31. The Postal Service
+32. Phoenix
+33. The xx
+34. Grizzly Bear
+35. Animal Collective
+36. Beach House
+37. Spoon
+38. The Decemberists
+39. Belle and Sebastian
+40. Suede
+41. Supergrass
+42. The Charlatans
+43. The Stone Roses
+44. Primal Scream
+45. Happy Mondays
+46. Inspiral Carpets
+47. The La's
+48. The House of Love
+49. Ride
+50. Lush
+
+These recommendations are based on the user's liking of alternative rock, indie rock, and post-punk artists.

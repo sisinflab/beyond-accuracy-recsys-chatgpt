@@ -1,0 +1,54 @@
+Based on the user's liking of the books provided, here is a re-ranked top-50 recommendation list for user 432:
+
+1. The Great Gatsby
+2. The Picture of Dorian Gray
+3. The Catcher in the Rye
+4. The Unbearable Lightness of Being
+5. The Hobbit
+6. The Stand
+7. The Lord of the Rings
+8. The Maze Runner
+9. The City of Ember
+10. The Southern Vampire Mysteries
+11. The Lost Books (novel series)
+12. The Giver
+13. The House of Mirth
+14. The Phantom of the Opera
+15. The Scarlet Letter
+16. The Rapture (novel)
+17. The Outsiders (novel)
+18. The Lovely Bones
+19. The Silmarillion
+20. The Tenant of Wildfell Hall
+21. The Pillowman
+22. Through the Looking-Glass
+23. Strange Case of Dr Jekyll and Mr Hyde
+24. Shakespeares sonnets
+25. Crime and Punishment
+26. Pygmalion (play)
+27. Lady Chatterleys Lover
+28. Invisible Man
+29. Frankenstein
+30. Delta of Venus
+31. Deception Point
+32. Dracula
+33. Angels & Demons
+34. Outliers (book)
+35. To Kill a Mockingbird
+36. Holes (novel)
+37. The Lost Books (novel series)
+38. The Giver
+39. The Lovely Bones
+40. The Stand
+41. The Maze Runner
+42. The City of Ember
+43. Gravitys Rainbow
+44. The Southern Vampire Mysteries
+45. The Hobbit
+46. Delta of Venus
+47. Medea (play)
+48. The Picture of Dorian Gray
+49. The Great Gatsby
+50. Brave New World
+
+These recommendations are based on the user's liking of the provided books and are re-ranked to provide a top-50 list for user 432.

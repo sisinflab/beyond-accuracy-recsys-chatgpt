@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Pearl Jam
+3. U2
+4. The Rolling Stones
+5. Muse
+6. The Smiths
+7. Oasis
+8. The Doors
+9. Green Day
+10. Foo Fighters
+11. Black Sabbath
+12. The White Stripes
+13. The Smashing Pumpkins
+14. The Kinks
+15. The Velvet Underground
+16. The Flaming Lips
+17. Sonic Youth
+18. R.E.M.
+19. The Black Keys
+20. The Beach Boys
+21. The Kooks
+22. The Libertines
+23. The Verve
+24. The Killers
+25. The Strokes
+26. The Stone Roses
+27. The Clash
+28. The Cure
+29. The Smiths
+30. The Pixies
+31. The Jam
+32. The Police
+33. The Stranglers
+34. The Specials
+35. The Damned
+36. The Buzzcocks
+37. The Undertones
+38. The Adicts
+39. The Exploited
+40. The Misfits
+41. The Ramones
+42. The Sex Pistols
+43. The Dead Kennedys
+44. The Clash
+45. The Stooges
+46. The New York Dolls
+47. The Modern Lovers
+48. The Replacements
+49. The Cramps
+50. The Gun Club
+
+These recommendations are based on the user's liking of classic rock, alternative, and indie music, and include similar artists and bands that the user may enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. John Coltrane
+2. Kendrick Lamar
+3. Herbie Hancock
+4. Nas
+5. OutKast
+6. Ella Fitzgerald
+7. Jay-Z
+8. Erykah Badu
+9. Billie Holiday
+10. Lauryn Hill
+11. D'Angelo
+12. Miles Davis Quintet
+13. The Notorious B.I.G.
+14. Amy Winehouse
+15. Robert Glasper
+16. A$AP Rocky
+17. Duke Ellington
+18. Chance the Rapper
+19. Thelonious Monk
+20. Sade
+21. Childish Gambino
+22. Ella Fitzgerald & Louis Armstrong
+23. J. Cole
+24. Bill Evans
+25. Fugees
+26. Louis Armstrong
+27. Anderson .Paak
+28. Tony Bennett
+29. Janelle Monáe
+30. Freddie Gibbs
+31. Sarah Vaughan
+32. Vince Guaraldi Trio
+33. Joey Bada$$
+34. Art Blakey & The Jazz Messengers
+35. Solange
+36. Gil Scott-Heron
+37. The Pharcyde
+38. Chet Baker
+39. Digable Planets
+40. Esperanza Spalding
+41. The Internet
+42. Roy Hargrove
+43. Thundercat
+44. Kamasi Washington
+45. Hiatus Kaiyote
+46. Terrace Martin
+47. Roberta Flack
+48. Rapsody
+49. The Cinematic Orchestra
+50. Hiatus Kaiyote
+
+These recommendations are based on the user's liking of jazz, hip-hop, and soul artists, as well as their affinity for artists with a similar vibe to those they already enjoy.

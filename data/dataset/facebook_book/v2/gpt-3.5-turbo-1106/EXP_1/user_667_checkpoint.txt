@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Mortal Instruments series by Cassandra Clare
+5. The Twilight Saga by Stephenie Meyer
+6. The Host by Stephenie Meyer
+7. The Chemist by Stephenie Meyer
+8. The Notebook by Nicholas Sparks
+9. A Walk to Remember by Nicholas Sparks
+10. Dear John by Nicholas Sparks
+11. The Lucky One by Nicholas Sparks
+12. The Last Song by Nicholas Sparks
+13. Safe Haven by Nicholas Sparks
+14. The Guardian by Nicholas Sparks
+15. Message in a Bottle by Nicholas Sparks
+16. Nights in Rodanthe by Nicholas Sparks
+17. The Rescue by Nicholas Sparks
+18. The Wedding by Nicholas Sparks
+19. True Believer by Nicholas Sparks
+20. At First Sight by Nicholas Sparks
+21. The Choice by Nicholas Sparks
+22. The Best of Me by Nicholas Sparks
+23. The Longest Ride by Nicholas Sparks
+24. See Me by Nicholas Sparks
+25. Two by Two by Nicholas Sparks
+26. Every Breath by Nicholas Sparks
+27. The Return by Nicholas Sparks
+28. The Search by Nicholas Sparks
+29. The Guardian by Nicholas Sparks
+30. The Hardy Boys series by Franklin W. Dixon
+31. Nancy Drew series by Carolyn Keene
+32. The Secret of the Old Clock by Carolyn Keene
+33. The Hidden Staircase by Carolyn Keene
+34. The Bungalow Mystery by Carolyn Keene
+35. The Mystery at Lilac Inn by Carolyn Keene
+36. The Secret of Shadow Ranch by Carolyn Keene
+37. The Secret of Red Gate Farm by Carolyn Keene
+38. The Clue in the Diary by Carolyn Keene
+39. The Clue of the Broken Locket by Carolyn Keene
+40. The Message in the Hollow Oak by Carolyn Keene
+41. The Mystery of the Ivory Charm by Carolyn Keene
+42. The Whispering Statue by Carolyn Keene
+43. The Haunted Bridge by Carolyn Keene
+44. The Clue of the Tapping Heels by Carolyn Keene
+45. The Mystery of the Brass-Bound Trunk by Carolyn Keene
+46. The Mystery of the Moss-Covered Mansion by Carolyn Keene
+47. The Quest of the Missing Map by Carolyn Keene
+48. The Clue in the Jewel Box by Carolyn Keene
+49. The Secret in the Old Attic by Carolyn Keene
+50. The Clue in the Crumbling Wall by Carolyn Keene
+
+These recommendations are based on the user's interest in romance, mystery, and young adult fiction.

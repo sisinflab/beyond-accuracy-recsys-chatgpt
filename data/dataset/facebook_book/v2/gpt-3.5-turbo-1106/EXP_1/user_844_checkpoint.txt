@@ -1,0 +1,54 @@
+Based on the preferences of user 844, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Alchemist by Paulo Coelho
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. Pride and Prejudice by Jane Austen
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. Gone Girl by Gillian Flynn
+10. The Kite Runner by Khaled Hosseini
+11. The Hunger Games by Suzanne Collins
+12. The Help by Kathryn Stockett
+13. The Secret Life of Bees by Sue Monk Kidd
+14. The Lovely Bones by Alice Sebold
+15. The Book Thief by Markus Zusak
+16. The Night Circus by Erin Morgenstern
+17. The Goldfinch by Donna Tartt
+18. The Girl on the Train by Paula Hawkins
+19. The Martian by Andy Weir
+20. The Handmaid's Tale by Margaret Atwood
+21. The Road by Cormac McCarthy
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Help by Kathryn Stockett
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Lovely Bones by Alice Sebold
+27. The Book Thief by Markus Zusak
+28. The Night Circus by Erin Morgenstern
+29. The Goldfinch by Donna Tartt
+30. The Girl on the Train by Paula Hawkins
+31. The Martian by Andy Weir
+32. The Handmaid's Tale by Margaret Atwood
+33. The Road by Cormac McCarthy
+34. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Help by Kathryn Stockett
+37. The Secret Life of Bees by Sue Monk Kidd
+38. The Lovely Bones by Alice Sebold
+39. The Book Thief by Markus Zusak
+40. The Night Circus by Erin Morgenstern
+41. The Goldfinch by Donna Tartt
+42. The Girl on the Train by Paula Hawkins
+43. The Martian by Andy Weir
+44. The Handmaid's Tale by Margaret Atwood
+45. The Road by Cormac McCarthy
+46. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+47. The Time Traveler's Wife by Audrey Niffenegger
+48. The Help by Kathryn Stockett
+49. The Secret Life of Bees by Sue Monk Kidd
+50. The Lovely Bones by Alice Sebold
+
+These recommendations are based on the genres and themes of the books that user 844 likes.

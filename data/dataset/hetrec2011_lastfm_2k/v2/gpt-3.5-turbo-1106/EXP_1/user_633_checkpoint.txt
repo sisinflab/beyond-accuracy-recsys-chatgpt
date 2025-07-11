@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Foo Fighters
+2. System of a Down
+3. Muse
+4. Incubus
+5. Pearl Jam
+6. The Offspring
+7. Rage Against the Machine
+8. Audioslave
+9. Stone Temple Pilots
+10. Soundgarden
+11. Three Days Grace
+12. Breaking Benjamin
+13. Chevelle
+14. Seether
+15. Shinedown
+16. P.O.D.
+17. Papa Roach
+18. Staind
+19. Deftones
+20. Korn
+21. Slipknot
+22. Disturbed
+23. Godsmack
+24. Avenged Sevenfold
+25. Bullet for My Valentine
+26. Trivium
+27. Atreyu
+28. Parkway Drive
+29. As I Lay Dying
+30. Killswitch Engage
+31. All That Remains
+32. August Burns Red
+33. Parkway Drive
+34. Architects
+35. Bring Me the Horizon
+36. A Day to Remember
+37. The Amity Affliction
+38. Beartooth
+39. Of Mice & Men
+40. Memphis May Fire
+41. The Devil Wears Prada
+42. Underoath
+43. Silverstein
+44. Senses Fail
+45. Hawthorne Heights
+46. AFI
+47. Thrice
+48. Taking Back Sunday
+49. Brand New
+50. The Used
+
+These recommendations are based on the user's liking of rock, punk, and metal bands, and include similar artists within those genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Fault in Our Stars by John Green
+3. The Outsiders by S.E. Hinton
+4. The Perks of Being a Wallflower by Stephen Chbosky
+5. The Catcher in the Rye by J.D. Salinger
+6. The Book Thief by Markus Zusak
+7. Wonder by R.J. Palacio
+8. The Maze Runner by James Dashner
+9. Divergent by Veronica Roth
+10. The Alchemist by Paulo Coelho
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Secret Garden by Frances Hodgson Burnett
+13. The Hobbit by J.R.R. Tolkien
+14. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+15. The Girl on the Train by Paula Hawkins
+16. The Night Circus by Erin Morgenstern
+17. The Goldfinch by Donna Tartt
+18. The Help by Kathryn Stockett
+19. The Kite Runner by Khaled Hosseini
+20. The Lovely Bones by Alice Sebold
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Handmaid's Tale by Margaret Atwood
+23. The Road by Cormac McCarthy
+24. The Glass Castle by Jeannette Walls
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Da Vinci Code by Dan Brown
+27. The Girl Who Played with Fire by Stieg Larsson
+28. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+29. The Help by Kathryn Stockett
+30. The Kite Runner by Khaled Hosseini
+31. The Lovely Bones by Alice Sebold
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Handmaid's Tale by Margaret Atwood
+34. The Road by Cormac McCarthy
+35. The Glass Castle by Jeannette Walls
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Da Vinci Code by Dan Brown
+38. The Girl Who Played with Fire by Stieg Larsson
+39. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+40. The Help by Kathryn Stockett
+41. The Kite Runner by Khaled Hosseini
+42. The Lovely Bones by Alice Sebold
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Handmaid's Tale by Margaret Atwood
+45. The Road by Cormac McCarthy
+46. The Glass Castle by Jeannette Walls
+47. The Girl with the Dragon Tattoo by Stieg Larsson
+48. The Da Vinci Code by Dan Brown
+49. The Girl Who Played with Fire by Stieg Larsson
+50. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+
+These recommendations are based on the user's interest in young adult fiction, dystopian novels, and classic literature.

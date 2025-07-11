@@ -1,0 +1,54 @@
+Based on user 1221's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby
+2. The Count of Monte Cristo
+3. Harry Potter
+4. Neverwhere (novel) by Neil Gaiman
+5. The Outsiders (novel)
+6. The Dresden Files by Jim Butcher
+7. Lolita by Vladimir Nabokov
+8. Petals on the Wind
+9. The Vampire Chronicles
+10. It (novel) by Stephen King
+11. Through the Looking-Glass by Lewis Carroll
+12. Reading Lolita in Tehran
+13. Manga
+14. The Historian by Elizabeth Kostova
+15. The Book Thief by Markus Zusak
+16. 'Salem's Lot by Stephen King
+17. Carrie (novel) by Stephen King
+18. Persepolis (comics)
+19. Eighth Grade Bites
+20. Never Let Me Go (novel)
+21. Bless Me, Ultima
+22. Hunger (Hamsun novel)
+23. Mockingjay
+24. A Portrait of the Artist as a Young Man
+25. The Little Prince
+26. PiHKAL
+27. Dark-Hunter (series)
+28. Crank (novel)
+29. The Sicilian
+30. Glass (novel)
+31. The Two Towers
+32. Memoirs of a Geisha
+33. The Age of Innocence
+34. Digital Fortress
+35. The Lord of the Rings
+36. Nineteen Eighty-Four
+37. The Waste Land
+38. Dracula
+39. Paradise Lost
+40. The Giver
+41. Wuthering Heights
+42. Beloved (novel)
+43. Flowers in the Attic
+44. The Last Unicorn
+45. The Time Machine
+46. Marked (novel)
+47. And the Hippos Were Boiled in Their Tanks
+48. Franny and Zooey
+49. The Time Traveler's Wife
+50. Candide
+
+These recommendations are based on the user's existing preferences and are designed to provide a diverse range of options that align with their interests.

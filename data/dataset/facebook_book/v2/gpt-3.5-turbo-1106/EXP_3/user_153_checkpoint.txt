@@ -1,0 +1,52 @@
+Based on user 153's preferences, here are the top 50 book recommendations:
+
+1. The Watchmen (novel)
+2. The Last Hero by ['Terry Pratchett']
+3. Thief of Time by ['Terry Pratchett']
+4. Monstrous Regiment (novel) by ['Terry Pratchett']
+5. Hogfather by ['Terry Pratchett']
+6. Interesting Times by ['Terry Pratchett']
+7. The Truth (novel) by ['Terry Pratchett']
+8. Carpe Jugulum by ['Terry Pratchett']
+9. Witches Abroad by ['Terry Pratchett']
+10. Feet of Clay (novel) by ['Terry Pratchett']
+11. Eric (novel) by ['Terry Pratchett']
+12. The Master and Margarita by ['Mikhail Bulgakov']
+13. The Great Gatsby
+14. Dracula
+15. Nineteen Eighty-Four
+16. The Dresden Files
+17. Ender's Game
+18. The Farseer Trilogy
+19. The Catcher in the Rye
+20. The Last Storytellers: Tales from the Heart of Morocco
+21. The Kane Chronicles
+22. Pride and Prejudice
+23. The Wardstone Chronicles
+24. Skulduggery Pleasant
+25. Still Life with Woodpecker
+26. The Big Sleep
+27. The Zombie Survival Guide
+28. The Cask of Amontillado
+29. Les Misérables
+30. Tales of the Otori
+31. Neuromancer
+32. Journey to the West
+33. The Lost World (Crichton novel)
+34. Kafka on the Shore
+35. Dune (novel)
+36. 100 Bullets
+37. Batman: The Killing Joke
+38. The Namesake
+39. The Mysterious Stranger
+40. Wicked: The Life and Times of the Wicked Witch of the West
+41. I, Lucifer
+42. Angels & Demons
+43. Old Farmer's Almanac
+44. Brave New World
+45. The Stainless Steel Rat
+46. The Anarchist Cookbook
+47. Age of the Five
+48. Choke (novel)
+49. 1Q84
+50. God Is Not Great

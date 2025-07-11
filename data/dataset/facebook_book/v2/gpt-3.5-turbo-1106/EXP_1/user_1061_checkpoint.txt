@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. It by Stephen King
+3. Pet Sematary by Stephen King
+4. Salem's Lot by Stephen King
+5. The Shining by Stephen King
+6. Dracula by Bram Stoker
+7. Interview with the Vampire by Anne Rice
+8. The Dark Tower series by Stephen King
+9. The Road by Cormac McCarthy
+10. 1984 by George Orwell
+11. Fahrenheit 451 by Ray Bradbury
+12. The Martian by Andy Weir
+13. Dune by Frank Herbert
+14. The Name of the Wind by Patrick Rothfuss
+15. The Gunslinger by Stephen King
+16. The Talisman by Stephen King and Peter Straub
+17. The Outsider by Stephen King
+18. The Girl with All the Gifts by M.R. Carey
+19. The Passage by Justin Cronin
+20. The Road by Cormac McCarthy
+21. The Book of Lost Things by John Connolly
+22. The Dark Tower series by Stephen King
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Girl Who Played with Fire by Stieg Larsson
+25. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+26. The Girl in the Spider's Web by David Lagercrantz
+27. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+28. The Girl Who Lived Twice by David Lagercrantz
+29. The Girl Who Wrote in Silk by Kelli Estes
+30. The Girl Who Smiled Beads by Clemantine Wamariya
+31. The Girl Who Drank the Moon by Kelly Barnhill
+32. The Girl Who Chased the Moon by Sarah Addison Allen
+33. The Girl Who Fell from the Sky by Heidi W. Durrow
+34. The Girl Who Was Saturday Night by Heather O'Neill
+35. The Girl Who Came Home by Hazel Gaynor
+36. The Girl Who Knew Too Much by Amanda Quick
+37. The Girl Who Played Go by Shan Sa
+38. The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making by Catherynne M. Valente
+39. The Girl Who Could Move Sh*t with Her Mind by Jackson Ford
+40. The Girl Who Could Fly by Victoria Forester
+41. The Girl Who Was Supposed to Die by April Henry
+42. The Girl Who Was Taken by Charlie Donlea
+43. The Girl Who Lived by Christopher Greyson
+44. The Girl Who Lied by Sue Fortin
+45. The Girl Who Dared to Think by Bella Forrest
+46. The Girl Who Dared to Stand by Bella Forrest
+47. The Girl Who Dared to Descend by Bella Forrest
+48. The Girl Who Dared to Rise by Bella Forrest
+49. The Girl Who Dared to Lead by Bella Forrest
+50. The Girl Who Dared to Endure by Bella Forrest
+
+These recommendations are based on the user's interest in fantasy, horror, and science fiction genres, as well as specific authors such as J.R.R. Tolkien, Stephen King, and Richard Matheson.

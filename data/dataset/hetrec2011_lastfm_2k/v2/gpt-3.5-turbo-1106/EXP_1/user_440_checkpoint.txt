@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Sigur Rós
+3. Beach House
+4. Tame Impala
+5. Grizzly Bear
+6. The xx
+7. M83
+8. Beach Fossils
+9. Washed Out
+10. Real Estate
+11. Deerhunter
+12. Sufjan Stevens
+13. The War on Drugs
+14. Youth Lagoon
+15. Wild Nothing
+16. Tycho
+17. Chromatics
+18. The Antlers
+19. Explosions in the Sky
+20. The Radio Dept.
+21. Slowdive
+22. The National
+23. My Bloody Valentine
+24. Car Seat Headrest
+25. Parquet Courts
+26. DIIV
+27. Mac DeMarco
+28. Unknown Mortal Orchestra
+29. King Krule
+30. Angel Olsen
+31. Alvvays
+32. Whitney
+33. Future Islands
+34. Kurt Vile
+35. Sharon Van Etten
+36. Warpaint
+37. The Avalanches
+38. Foxygen
+39. Father John Misty
+40. Courtney Barnett
+41. Mitski
+42. Big Thief
+43. Snail Mail
+44. Soccer Mommy
+45. Japanese Breakfast
+46. Phoebe Bridgers
+47. Julien Baker
+48. Lucy Dacus
+49. HAIM
+50. Fleetwood Mac
+
+These recommendations are based on the user's liking of similar artists and genres.

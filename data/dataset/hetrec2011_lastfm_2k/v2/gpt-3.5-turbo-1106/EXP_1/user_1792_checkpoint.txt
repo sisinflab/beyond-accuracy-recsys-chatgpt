@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Black Sabbath
+2. AC/DC
+3. Rush
+4. King Crimson
+5. The Allman Brothers Band
+6. Lynyrd Skynyrd
+7. The Kinks
+8. The Byrds
+9. The Moody Blues
+10. Steppenwolf
+11. The Doors
+12. The Animals
+13. Cream
+14. The Yardbirds
+15. The Rolling Stones
+16. The Who
+17. Pink Floyd
+18. Deep Purple
+19. Jethro Tull
+20. Led Zeppelin
+21. The Beatles
+22. Yes
+23. Genesis
+24. Queen
+25. The Velvet Underground
+26. David Bowie
+27. Howlin' Wolf
+28. Muddy Waters
+29. Scorpions
+30. Judas Priest
+31. Janis Joplin
+32. Metallica
+33. Eric Clapton
+34. Syd Barrett
+35. Rainbow
+36. Gentle Giant
+37. Creedence Clearwater Revival
+38. Dio
+39. B.B. King
+40. The Jimi Hendrix Experience
+41. Chuck Berry
+42. Robert Johnson
+43. Jefferson Airplane
+44. Wolfmother
+45. Alice Cooper
+46. The Band
+47. The Beach Boys
+48. The Doors
+49. The Zombies
+50. The Turtles
+
+These recommendations are based on the user's liking of classic rock, blues, and psychedelic rock artists, and are aimed at providing a diverse range of similar artists for the user to explore.

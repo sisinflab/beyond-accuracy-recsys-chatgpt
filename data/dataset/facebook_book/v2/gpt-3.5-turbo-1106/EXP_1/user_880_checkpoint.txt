@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Neil Gaiman, Terry Pratchett
+2. Bossypants by Tina Fey
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. The Hunger Games by Suzanne Collins
+6. The Da Vinci Code by Dan Brown
+7. The Catcher in the Rye by J.D. Salinger
+8. The Great Gatsby by F. Scott Fitzgerald
+9. To Kill a Mockingbird by Harper Lee
+10. 1984 by George Orwell
+11. The Alchemist by Paulo Coelho
+12. The Kite Runner by Khaled Hosseini
+13. The Book Thief by Markus Zusak
+14. The Fault in Our Stars by John Green
+15. The Giver by Lois Lowry
+16. The Maze Runner by James Dashner
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Help by Kathryn Stockett
+20. The Lovely Bones by Alice Sebold
+21. The Road by Cormac McCarthy
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Glass Castle by Jeannette Walls
+24. The Night Circus by Erin Morgenstern
+25. The Goldfinch by Donna Tartt
+26. The Martian by Andy Weir
+27. The Handmaid's Tale by Margaret Atwood
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Name of the Wind by Patrick Rothfuss
+31. The Nightingale by Kristin Hannah
+32. The Help by Kathryn Stockett
+33. The Light Between Oceans by M.L. Stedman
+34. The Book Thief by Markus Zusak
+35. The Night Circus by Erin Morgenstern
+36. The Goldfinch by Donna Tartt
+37. The Martian by Andy Weir
+38. The Handmaid's Tale by Margaret Atwood
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Shadow of the Wind by Carlos Ruiz Zafón
+41. The Name of the Wind by Patrick Rothfuss
+42. The Nightingale by Kristin Hannah
+43. The Help by Kathryn Stockett
+44. The Light Between Oceans by M.L. Stedman
+45. The Book Thief by Markus Zusak
+46. The Night Circus by Erin Morgenstern
+47. The Goldfinch by Donna Tartt
+48. The Martian by Andy Weir
+49. The Handmaid's Tale by Margaret Atwood
+50. The Time Traveler's Wife by Audrey Niffenegger
+
+These recommendations are based on the user's interest in fantasy, science fiction, and thriller genres, as well as popular and critically acclaimed books.

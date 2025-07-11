@@ -1,0 +1,54 @@
+Based on user 2018's preferences, here are the top-50 recommendations for the user:
+
+1. Lady Gaga
+2. Beyoncé
+3. Rihanna
+4. Katy Perry
+5. Taylor Swift
+6. Adele
+7. P!nk
+8. Madonna
+9. Jennifer Lopez
+10. Ciara
+11. Selena Gomez
+12. Miley Cyrus
+13. Britney Spears
+14. Shakira
+15. Kelly Clarkson
+16. Hilary Duff
+17. Avril Lavigne
+18. Demi Lovato
+19. Ellie Goulding
+20. Sara Bareilles
+21. Natasha Bedingfield
+22. Duffy
+23. Cheryl Cole
+24. Pixie Lott
+25. JoJo
+26. Diana Vickers
+27. Emily Osment
+28. Ashley Tisdale
+29. Miranda Cosgrove
+30. Jessica Simpson
+31. Lindsay Lohan
+32. Nicole Scherzinger
+33. Céline Dion
+34. Carrie Underwood
+35. Black Eyed Peas
+36. Usher
+37. Justin Bieber
+38. Lady Antebellum
+39. Boys Like Girls
+40. Girls Aloud
+41. Paramore
+42. My Chemical Romance
+43. Lily Allen
+44. Backstreet Boys
+45. The Pussycat Dolls
+46. Simple Plan
+47. Colbie Caillat
+48. Mary J. Blige
+49. Christina Aguilera
+50. Cher
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists that align with their current tastes.

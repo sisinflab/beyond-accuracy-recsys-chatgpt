@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. Pride and Prejudice by Jane Austen
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. The Hunger Games by Suzanne Collins
+7. The Fault in Our Stars by John Green
+8. The Alchemist by Paulo Coelho
+9. The Girl on the Train by Paula Hawkins
+10. The Kite Runner by Khaled Hosseini
+11. The Book Thief by Markus Zusak
+12. Gone Girl by Gillian Flynn
+13. The Help by Kathryn Stockett
+14. The Night Circus by Erin Morgenstern
+15. The Lovely Bones by Alice Sebold
+16. The Goldfinch by Donna Tartt
+17. The Handmaid's Tale by Margaret Atwood
+18. The Martian by Andy Weir
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Glass Castle by Jeannette Walls
+23. The Perks of Being a Wallflower by Stephen Chbosky
+24. The Bell Jar by Sylvia Plath
+25. The Road by Cormac McCarthy
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Sun Also Rises by Ernest Hemingway
+28. The Old Man and the Sea by Ernest Hemingway
+29. The Grapes of Wrath by John Steinbeck
+30. The Sound and the Fury by William Faulkner
+31. The Color Purple by Alice Walker
+32. The Joy Luck Club by Amy Tan
+33. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+34. The Namesake by Jhumpa Lahiri
+35. The Poisonwood Bible by Barbara Kingsolver
+36. The Secret History by Donna Tartt
+37. The Shadow of the Wind by Carlos Ruiz Zafón
+38. The Nightingale by Kristin Hannah
+39. The Book of Lost Things by John Connolly
+40. The Thirteenth Tale by Diane Setterfield
+41. The Historian by Elizabeth Kostova
+42. The Secret Garden by Frances Hodgson Burnett
+43. The Little Prince by Antoine de Saint-Exupéry
+44. The Wind in the Willows by Kenneth Grahame
+45. The Chronicles of Narnia by C.S. Lewis
+46. The Hobbit by J.R.R. Tolkien
+47. The Lord of the Rings by J.R.R. Tolkien
+48. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+49. The Giver by Lois Lowry
+50. The Maze Runner by James Dashner
+
+These recommendations are based on the user's interest in various genres and themes.

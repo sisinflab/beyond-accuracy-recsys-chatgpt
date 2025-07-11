@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Perks of Being a Wallflower by Stephen Chbosky
+3. The Road by Cormac McCarthy
+4. The Outsiders by S.E. Hinton
+5. The Bell Jar by Sylvia Plath
+6. The Lovely Bones by Alice Sebold
+7. The Secret History by Donna Tartt
+8. The Virgin Suicides by Jeffrey Eugenides
+9. The Kite Runner by Khaled Hosseini
+10. A Clockwork Orange by Anthony Burgess
+11. The Book Thief by Markus Zusak
+12. The Fault in Our Stars by John Green
+13. The Giver by Lois Lowry
+14. The Hunger Games by Suzanne Collins
+15. Divergent by Veronica Roth
+16. The Maze Runner by James Dashner
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. Gone Girl by Gillian Flynn
+19. Sharp Objects by Gillian Flynn
+20. Dark Places by Gillian Flynn
+21. The Shining by Stephen King
+22. Misery by Stephen King
+23. Carrie by Stephen King
+24. Pet Sematary by Stephen King
+25. Doctor Sleep by Stephen King
+26. The Stand by Stephen King
+27. It by Stephen King
+28. 11/22/63 by Stephen King
+29. The Girl on the Train by Paula Hawkins
+30. Sharp Objects by Gillian Flynn
+31. Dark Places by Gillian Flynn
+32. The Woman in the Window by A.J. Finn
+33. Big Little Lies by Liane Moriarty
+34. The Silent Patient by Alex Michaelides
+35. Before I Go to Sleep by S.J. Watson
+36. The Girl Before by J.P. Delaney
+37. The Wife Between Us by Greer Hendricks and Sarah Pekkanen
+38. The Girl in the Ice by Robert Bryndza
+39. The Couple Next Door by Shari Lapena
+40. The Girl with a Clock for a Heart by Peter Swanson
+41. The Woman in Cabin 10 by Ruth Ware
+42. In a Dark, Dark Wood by Ruth Ware
+43. The Lying Game by Ruth Ware
+44. The Death of Mrs. Westaway by Ruth Ware
+45. The Turn of the Key by Ruth Ware
+46. The Girl in the Red Coat by Kate Hamer
+47. The Girl Before by Rena Olsen
+48. The Girl Before by J.P. Delaney
+49. The Girl Before by Rena Olsen
+50. The Girl Before by J.P. Delaney
+
+These recommendations are based on the user's interest in psychological thrillers, mystery, and coming-of-age novels.

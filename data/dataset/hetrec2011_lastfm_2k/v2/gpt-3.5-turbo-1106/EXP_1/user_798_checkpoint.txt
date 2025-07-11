@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Gojira
+2. In Flames
+3. Opeth
+4. Mastodon
+5. Trivium
+6. Children of Bodom
+7. Arch Enemy
+8. Parkway Drive
+9. DevilDriver
+10. Whitechapel
+11. At The Gates
+12. Dark Tranquillity
+13. Testament
+14. Kreator
+15. Carcass
+16. Insomnium
+17. Soilwork
+18. Amorphis
+19. The Black Dahlia Murder
+20. Chimaira
+21. Fear Factory
+22. Obituary
+23. Entombed
+24. Decapitated
+25. Immortal
+26. Dimmu Borgir
+27. Cradle of Filth
+28. Emperor
+29. Watain
+30. Enslaved
+31. Belphegor
+32. Gorgoroth
+33. Marduk
+34. Dark Funeral
+35. Behexen
+36. Satyricon
+37. Mayhem
+38. 1349
+39. Taake
+40. Tsjuder
+41. Rotting Christ
+42. Samael
+43. Moonspell
+44. Septicflesh
+45. Paradise Lost
+46. My Dying Bride
+47. Anathema
+48. Katatonia
+49. Swallow the Sun
+50. Draconian
+
+These recommendations are based on the user's liking of similar artists and genres.

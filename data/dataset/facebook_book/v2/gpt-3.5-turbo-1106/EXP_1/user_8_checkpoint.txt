@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Secret Garden by Frances Hodgson Burnett
+4. Little Women by Louisa May Alcott
+5. Anne of Green Gables by L.M. Montgomery
+6. Wuthering Heights by Emily Brontë
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. Animal Farm by George Orwell
+11. The Catcher in the Rye by J.D. Salinger
+12. The Grapes of Wrath by John Steinbeck
+13. Moby-Dick by Herman Melville
+14. The Adventures of Huckleberry Finn by Mark Twain
+15. The Scarlet Letter by Nathaniel Hawthorne
+16. Frankenstein by Mary Shelley
+17. Dracula by Bram Stoker
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+20. Treasure Island by Robert Louis Stevenson
+21. The Three Musketeers by Alexandre Dumas
+22. Les Misérables by Victor Hugo
+23. War and Peace by Leo Tolstoy
+24. Crime and Punishment by Fyodor Dostoevsky
+25. Anna Karenina by Leo Tolstoy
+26. The Brothers Karamazov by Fyodor Dostoevsky
+27. One Hundred Years of Solitude by Gabriel García Márquez
+28. Love in the Time of Cholera by Gabriel García Márquez
+29. Don Quixote by Miguel de Cervantes
+30. The Canterbury Tales by Geoffrey Chaucer
+31. The Divine Comedy by Dante Alighieri
+32. The Iliad by Homer
+33. The Odyssey by Homer
+34. The Aeneid by Virgil
+35. The Inferno by Dante Alighieri
+36. The Republic by Plato
+37. The Prince by Niccolò Machiavelli
+38. The Art of War by Sun Tzu
+39. The Book Thief by Markus Zusak
+40. The Kite Runner by Khaled Hosseini
+41. A Thousand Splendid Suns by Khaled Hosseini
+42. The Alchemist by Paulo Coelho
+43. The Name of the Wind by Patrick Rothfuss
+44. Mistborn: The Final Empire by Brandon Sanderson
+45. The Lies of Locke Lamora by Scott Lynch
+46. The Way of Kings by Brandon Sanderson
+47. The Night Circus by Erin Morgenstern
+48. The Shadow of the Wind by Carlos Ruiz Zafón
+49. The Girl with the Dragon Tattoo by Stieg Larsson
+50. The Hunger Games by Suzanne Collins

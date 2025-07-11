@@ -1,0 +1,52 @@
+Based on user 123's preferences, here are the top 50 book recommendations:
+
+1. The Book Thief by Markus Zusak
+2. Wintergirls by Laurie Halse Anderson
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. The Sky Is Everywhere by Jandy Nelson
+5. Speak (novel) by 
+6. The Sisterhood of the Traveling Pants (novel) by Ann Brashares
+7. Ella Enchanted by Gail Carson Levine
+8. Suzanne's Diary for Nicholas by 
+9. The Realm of Possibility (novel) by 
+10. Without You (book) by Anthony Rapp
+11. Deadline (Grant novel) by Seanan McGuire
+12. Lamb: The Gospel According to Biff, Christ's Childhood Pal by Christopher Moore (author)
+13. Twilight (series) by 
+14. The Graveyard Book
+15. The Hunger Games
+16. The Time Traveler's Wife
+17. The Picture of Dorian Gray
+18. The Chronicles of Narnia: Prince Caspian
+19. The Lord of the Rings
+20. The Wolves of Mercy Falls
+21. The Sight (novel)
+22. The Immortals (books)
+23. The Bell Jar
+24. Someone like You (novel)
+25. The Outsiders (novel)
+26. The Boy in the Striped Pyjamas
+27. The Last Song (novel)
+28. The Saga of Darren Shan
+29. The Sisterhood of the Traveling Pants (novel)
+30. The Time Traveler's Wife
+31. The Chronicles of Narnia: Prince Caspian
+32. The Lord of the Rings
+33. The Wolves of Mercy Falls
+34. The Sight (novel)
+35. The Immortals (books)
+36. The Bell Jar
+37. Someone like You (novel)
+38. The Outsiders (novel)
+39. The Boy in the Striped Pyjamas
+40. The Last Song (novel)
+41. The Saga of Darren Shan
+42. The Sisterhood of the Traveling Pants (novel)
+43. The Time Traveler's Wife
+44. The Chronicles of Narnia: Prince Caspian
+45. The Lord of the Rings
+46. The Wolves of Mercy Falls
+47. The Sight (novel)
+48. The Immortals (books)
+49. The Bell Jar
+50. Someone like You (novel)

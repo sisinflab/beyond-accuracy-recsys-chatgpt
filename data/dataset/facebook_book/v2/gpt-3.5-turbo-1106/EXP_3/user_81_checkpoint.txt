@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 81:
+
+1. Nineteen Eighty-Four by George Orwell
+2. Jane Eyre by Charlotte Brontë
+3. The Five People You Meet in Heaven by Mitch Albom
+4. Night (book) by Elie Wiesel
+5. Sarah's Key (novel) by Tatiana de Rosnay
+6. Mockingjay by Suzanne Collins
+7. The Hunger Games by Suzanne Collins
+8. Anthem (novella) by Ayn Rand
+9. Harry Potter by J.K. Rowling
+10. The Hobbit by J.R.R. Tolkien
+11. A Clockwork Orange by Anthony Burgess
+12. Crime and Punishment by Fyodor Dostoevsky
+13. A Midsummer Night's Dream by William Shakespeare
+14. The Notebook (novel) by Nicholas Sparks
+15. The Stranger (novel) by Albert Camus
+16. Frankenstein by Mary Shelley
+17. The Little Prince by Antoine de Saint-Exupéry
+18. Of Mice and Men by John Steinbeck
+19. Catching Fire by Suzanne Collins
+20. The Giver by Lois Lowry
+21. The Great Gatsby by F. Scott Fitzgerald
+22. Brave New World by Aldous Huxley
+23. Inferno (Dante) by Dante Alighieri
+24. The Catcher in the Rye by J.D. Salinger
+25. High Fidelity (novel) by Nick Hornby
+26. Girl, Interrupted by Susanna Kaysen
+27. The Alchemist (novel) by Paulo Coelho
+28. This Is Your Brain On Music by Daniel J. Levitin
+29. Bone (comics) by Jeff Smith
+30. Tuesdays with Morrie by Mitch Albom
+31. A Northern Light by Jennifer Donnelly
+32. Dear John (novel) by Nicholas Sparks
+33. The Fabric of the Cosmos by Brian Greene
+34. For One More Day by Mitch Albom
+35. Villette (novel) by Charlotte Brontë
+36. The Idiot by Fyodor Dostoevsky
+37. D.Gray-man by Katsura Hoshino
+38. The Key (Curley novel) by Junichiro Tanizaki
+39. Diary of a Wimpy Kid (series) by Jeff Kinney
+40. Interview with the Vampire by Anne Rice
+41. Aeneid by Virgil
+42. The Doors of Perception by Aldous Huxley
+43. Neverwhere (novel) by Neil Gaiman
+44. A Great and Terrible Beauty by Libba Bray
+45. American Gods by Neil Gaiman
+46. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+47. Eragon by Christopher Paolini
+48. The Maze Runner by James Dashner
+49. Alice's Adventures in Wonderland by Lewis Carroll
+50. Warriors (anthology) by Erin Hunter
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended books to the ones the user already likes.

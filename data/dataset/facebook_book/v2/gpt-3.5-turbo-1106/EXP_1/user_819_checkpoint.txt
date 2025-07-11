@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Pet Sematary by Stephen King
+3. Misery by Stephen King
+4. It by Stephen King
+5. Salem's Lot by Stephen King
+6. Carrie by Stephen King
+7. The Stand by Stephen King
+8. Doctor Sleep by Stephen King
+9. 11/22/63 by Stephen King
+10. The Outsider by Stephen King
+11. The Dark Tower series by Stephen King
+12. The Girl Who Loved Tom Gordon by Stephen King
+13. Bag of Bones by Stephen King
+14. The Dead Zone by Stephen King
+15. Needful Things by Stephen King
+16. The Tommyknockers by Stephen King
+17. The Green Mile by Stephen King
+18. The Institute by Stephen King
+19. The Talisman by Stephen King and Peter Straub
+20. Black House by Stephen King and Peter Straub
+21. The Eyes of the Dragon by Stephen King
+22. The Dark Half by Stephen King
+23. Firestarter by Stephen King
+24. Christine by Stephen King
+25. Cujo by Stephen King
+26. The Twilight Saga by Stephenie Meyer
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Girl Who Played with Fire by Stieg Larsson
+29. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+30. The Scarlet Letter by Nathaniel Hawthorne
+31. The House of the Seven Gables by Nathaniel Hawthorne
+32. The Blithedale Romance by Nathaniel Hawthorne
+33. Deception Point by Dan Brown
+34. Angels & Demons by Dan Brown
+35. Inferno by Dan Brown
+36. Origin by Dan Brown
+37. Digital Fortress by Dan Brown
+38. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+39. Harry Potter and the Chamber of Secrets by J.K. Rowling
+40. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+41. Harry Potter and the Goblet of Fire by J.K. Rowling
+42. Harry Potter and the Order of the Phoenix by J.K. Rowling
+43. Harry Potter and the Half-Blood Prince by J.K. Rowling
+44. Harry Potter and the Deathly Hallows by J.K. Rowling
+45. The Da Vinci Code by Dan Brown
+46. Angels & Demons by Dan Brown
+47. Inferno by Dan Brown
+48. Origin by Dan Brown
+49. The Lost Symbol by Dan Brown
+50. The Little Prince by Antoine de Saint-Exupéry
+
+These recommendations are based on the user's interest in specific authors and genres.

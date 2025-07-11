@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. Duran Duran
+3. The Human League
+4. Yazoo
+5. OMD (Orchestral Manoeuvres in the Dark)
+6. Simple Minds
+7. Eurythmics
+8. Visage
+9. Camouflage
+10. Soft Cell
+11. Spandau Ballet
+12. Thompson Twins
+13. Heaven 17
+14. Blancmange
+15. Gary Numan
+16. Pet Shop Boys
+17. Erasure
+18. Tears for Fears
+19. Depeche Mode
+20. a-ha
+21. Alphaville
+22. And One
+23. Guano Apes
+24. Ultravox
+25. Talk Talk
+26. Travis
+27. Snow Patrol
+28. George Michael
+29. Howard Jones
+30. The Cure
+31. Joy Division
+32. Siouxsie and the Banshees
+33. The Smiths
+34. Echo & the Bunnymen
+35. The Psychedelic Furs
+36. The Jesus and Mary Chain
+37. Cocteau Twins
+38. The Chameleons
+39. The Sisters of Mercy
+40. Bauhaus
+41. Killing Joke
+42. The Mission
+43. Clan of Xymox
+44. The Bolshoi
+45. The Cult
+46. The Church
+47. The Sound
+48. The Comsat Angels
+49. The Teardrop Explodes
+50. The Birthday Party
+
+These recommendations are based on the user's liking of similar artists and are tailored to their music preferences.

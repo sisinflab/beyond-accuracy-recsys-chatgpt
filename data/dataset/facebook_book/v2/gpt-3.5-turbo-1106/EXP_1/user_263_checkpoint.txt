@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glass Houses (Morganville Vampires) by Rachel Caine
+2. Hush, Hush by Becca Fitzpatrick
+3. Shiver by Maggie Stiefvater
+4. Evernight by Claudia Gray
+5. Marked (House of Night) by P.C. Cast
+6. Beautiful Creatures by Kami Garcia and Margaret Stohl
+7. The Maze Runner by James Dashner
+8. The Mortal Instruments: City of Fallen Angels by Cassandra Clare
+9. The Iron King by Julie Kagawa
+10. The Summoning (Darkest Powers) by Kelley Armstrong
+11. The Vampire Diaries: The Awakening by L.J. Smith
+12. The Infernal Devices: Clockwork Angel by Cassandra Clare
+13. Wicked Lovely by Melissa Marr
+14. The Dark Divine by Bree Despain
+15. The Forest of Hands and Teeth by Carrie Ryan
+16. The Unbecoming of Mara Dyer by Michelle Hodkin
+17. The Immortal Rules by Julie Kagawa
+18. The Iron Daughter by Julie Kagawa
+19. The Reckoning (Darkest Powers) by Kelley Armstrong
+20. The Awakening (Darkest Powers) by Kelley Armstrong
+21. The Fury (Vampire Diaries) by L.J. Smith
+22. The Awakening (Vampire Diaries) by L.J. Smith
+23. The Strain by Guillermo del Toro and Chuck Hogan
+24. The Passage by Justin Cronin
+25. The Strain Trilogy by Guillermo del Toro and Chuck Hogan
+26. The Vampire Diaries: The Struggle by L.J. Smith
+27. The Fury and Dark Reunion (Vampire Diaries) by L.J. Smith
+28. The Awakening and The Struggle (Vampire Diaries) by L.J. Smith
+29. The Fury and Dark Reunion (Vampire Diaries) by L.J. Smith
+30. The Awakening and The Struggle (Vampire Diaries) by L.J. Smith
+31. The Fury and Dark Reunion (Vampire Diaries) by L.J. Smith
+32. The Awakening and The Struggle (Vampire Diaries) by L.J. Smith
+33. The Fury and Dark Reunion (Vampire Diaries) by L.J. Smith
+34. The Awakening and The Struggle (Vampire Diaries) by L.J. Smith
+35. The Fury and Dark Reunion (Vampire Diaries) by L.J. Smith
+36. The Awakening and The Struggle (Vampire Diaries) by L.J. Smith
+37. The Fury and Dark Reunion (Vampire Diaries) by L.J. Smith
+38. The Awakening and The Struggle (Vampire Diaries) by L.J. Smith
+39. The Fury and Dark Reunion (Vampire Diaries) by L.J. Smith
+40. The Awakening and The Struggle (Vampire Diaries) by L.J. Smith
+41. The Fury and Dark Reunion (Vampire Diaries) by L.J. Smith
+42. The Awakening and The Struggle (Vampire Diaries) by L.J. Smith
+43. The Fury and Dark Reunion (Vampire Diaries) by L.J. Smith
+44. The Awakening and The Struggle (Vampire Diaries) by L.J. Smith
+45. The Fury and Dark Reunion (Vampire Diaries) by L.J. Smith
+46. The Awakening and The Struggle (Vampire Diaries) by L.J.

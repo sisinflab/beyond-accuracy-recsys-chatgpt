@@ -1,0 +1,54 @@
+Based on user 1600's preferences, here is a re-ranking of the artists into a top-50 recommendation list:
+
+1. Lady Gaga
+2. Britney Spears
+3. Madonna
+4. Kylie Minogue
+5. Rihanna
+6. Beyoncé
+7. Shakira
+8. Katy Perry
+9. Avril Lavigne
+10. P!nk
+11. Christina Aguilera
+12. Ke$ha
+13. Amy Winehouse
+14. Paramore
+15. Taylor Swift
+16. Miley Cyrus
+17. Glee Cast
+18. Ladytron
+19. Robyn
+20. Dragonette
+21. Florence + The Machine
+22. Ellie Goulding
+23. La Roux
+24. The Sounds
+25. Sophie Ellis-Bextor
+26. September
+27. Dragonette
+28. Florence + The Machine
+29. Ellie Goulding
+30. La Roux
+31. The Sounds
+32. Sophie Ellis-Bextor
+33. September
+34. Dragonette
+35. Florence + The Machine
+36. Ellie Goulding
+37. La Roux
+38. The Sounds
+39. Sophie Ellis-Bextor
+40. September
+41. Dragonette
+42. Florence + The Machine
+43. Ellie Goulding
+44. La Roux
+45. The Sounds
+46. Sophie Ellis-Bextor
+47. September
+48. Dragonette
+49. Florence + The Machine
+50. Ellie Goulding
+
+This re-ranking is based on the user's liking of similar artists and their music preferences.

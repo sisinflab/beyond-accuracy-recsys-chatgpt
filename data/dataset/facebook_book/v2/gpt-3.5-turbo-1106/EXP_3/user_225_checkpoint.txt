@@ -1,0 +1,54 @@
+Based on user 225's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by []
+2. Twilight (series) by []
+3. Dear John (novel) by ['Nicholas Sparks']
+4. Fallen (Kate novel) by ['Lauren Kate']
+5. The Lovely Bones by ['Alice Sebold']
+6. The Sisterhood of the Traveling Pants (novel) by ['Ann Brashares']
+7. A Great and Terrible Beauty by ['Libba Bray']
+8. A Million Little Pieces by ['James Frey']
+9. The Hobbit
+10. To Kill a Mockingbird
+11. The Da Vinci Code
+12. The Picture of Dorian Gray
+13. The Giver
+14. The Lion, the Witch and the Wardrobe
+15. The Catcher in the Rye
+16. The Chronicles of Narnia: Prince Caspian
+17. The Hunger Games
+18. The Queen's Fool
+19. The Tenth Circle
+20. PS, I Love You (novel)
+21. The Outsiders (novel)
+22. Go Ask Alice
+23. The God Delusion
+24. The Black Swan (2007 book)
+25. The Fabric of the Cosmos
+26. The Tommyknockers
+27. The Most Dangerous Game (novel)
+28. The Doors of Perception
+29. Nineteen Minutes
+30. My Sister's Keeper (novel)
+31. The Ear, the Eye and the Arm
+32. Pretty Little Liars (book)
+33. L.A. Candy
+34. So You Want to Be a Wizard
+35. 13 Little Blue Envelopes
+36. Crown Duel
+37. Uglies
+38. Macbeth
+39. Perfect Match (novel)
+40. Feed (Anderson novel)
+41. Columbine (book)
+42. Brisingr
+43. Green Rider
+44. Rurouni Kenshin
+45. Inferno (Dante)
+46. The Amulet of Samarkand
+47. This Is Your Brain On Music
+48. The Lost Boy (memoir)
+49. You Don't Know Me (novel)
+50. Impulse economy
+
+These recommendations are based on the user's previous likes and are ranked according to their potential interest.

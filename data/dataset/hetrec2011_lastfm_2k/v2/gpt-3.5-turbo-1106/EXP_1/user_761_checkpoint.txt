@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pet Shop Boys
+2. Erasure
+3. Talking Heads
+4. Joy Division
+5. Echo & the Bunnymen
+6. The Human League
+7. Orchestral Manoeuvres in the Dark (OMD)
+8. Tears for Fears
+9. Simple Minds
+10. The Smiths
+11. The Psychedelic Furs
+12. New Order
+13. Soft Cell
+14. Visage
+15. Ultravox
+16. The Jesus and Mary Chain
+17. The Sisters of Mercy
+18. Cocteau Twins
+19. The Church
+20. The Mission
+21. The Chameleons
+22. The Sound
+23. The Teardrop Explodes
+24. The Cult
+25. The Stranglers
+26. The Damned
+27. Public Image Ltd (PiL)
+28. Wire
+29. Magazine
+30. Gang of Four
+31. XTC
+32. The Fall
+33. The Jam
+34. The Specials
+35. Madness
+36. The Selecter
+37. The Beat
+38. The English Beat
+39. The Style Council
+40. The Clash
+41. The Buzzcocks
+42. The Undertones
+43. Stiff Little Fingers
+44. The Adicts
+45. The Exploited
+46. The Damned
+47. The Vibrators
+48. The Ruts
+49. The Skids
+50. The Stranglers
+
+These recommendations are based on the user's liking of similar artists and genres.

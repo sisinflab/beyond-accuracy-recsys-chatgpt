@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. The Picture of Dorian Gray by Oscar Wilde
+3. The Shining by Stephen King
+4. The Girl with the Dragon Tattoo by Stieg Larsson
+5. 1984 by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. The Road by Cormac McCarthy
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Silence of the Lambs by Thomas Harris
+10. The Da Vinci Code by Dan Brown
+11. The Hobbit by J.R.R. Tolkien
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Bell Jar by Sylvia Plath
+14. The Handmaid's Tale by Margaret Atwood
+15. The Secret History by Donna Tartt
+16. The Goldfinch by Donna Tartt
+17. The Night Circus by Erin Morgenstern
+18. The Book Thief by Markus Zusak
+19. The Alchemist by Paulo Coelho
+20. The Kite Runner by Khaled Hosseini
+21. The Help by Kathryn Stockett
+22. The Lovely Bones by Alice Sebold
+23. The Hunger Games by Suzanne Collins
+24. The Catcher Was a Spy by Nicholas Dawidoff
+25. The Martian by Andy Weir
+26. The Name of the Wind by Patrick Rothfuss
+27. The Road to Wigan Pier by George Orwell
+28. The Shadow of the Wind by Carlos Ruiz Zafón
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Handmaid's Tale by Margaret Atwood
+31. The Secret History by Donna Tartt
+32. The Goldfinch by Donna Tartt
+33. The Night Circus by Erin Morgenstern
+34. The Book Thief by Markus Zusak
+35. The Alchemist by Paulo Coelho
+36. The Kite Runner by Khaled Hosseini
+37. The Help by Kathryn Stockett
+38. The Lovely Bones by Alice Sebold
+39. The Hunger Games by Suzanne Collins
+40. The Catcher Was a Spy by Nicholas Dawidoff
+41. The Martian by Andy Weir
+42. The Name of the Wind by Patrick Rothfuss
+43. The Road to Wigan Pier by George Orwell
+44. The Shadow of the Wind by Carlos Ruiz Zafón
+45. The Time Traveler's Wife by Audrey Niffenegger
+46. The Handmaid's Tale by Margaret Atwood
+47. The Secret History by Donna Tartt
+48. The Goldfinch by Donna Tartt
+49. The Night Circus by Erin Morgenstern
+50. The Book Thief by Markus Zusak
+
+These recommendations are based on the user's interest in dark and thought-provoking literature, as well as classic and contemporary fiction.

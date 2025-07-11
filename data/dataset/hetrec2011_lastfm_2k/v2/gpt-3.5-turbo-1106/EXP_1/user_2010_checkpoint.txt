@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The Strokes
+3. Franz Ferdinand
+4. The Libertines
+5. Interpol
+6. The Kooks
+7. The Black Keys
+8. The National
+9. Bloc Party
+10. Foals
+11. Vampire Weekend
+12. The Hives
+13. The Raconteurs
+14. The Vaccines
+15. The Wombats
+16. Two Door Cinema Club
+17. Foster the People
+18. The Arctic Monkeys
+19. The White Stripes
+20. The Killers
+21. Muse
+22. The Beatles
+23. Arcade Fire
+24. We Are Scientists
+25. Moptop
+26. Fall Out Boy
+27. Hot Chip
+28. Kings of Leon
+29. Beck
+30. Kasabian
+31. Marilyn Manson
+32. Blackfield
+33. Linkin Park
+34. Cachorro Grande
+35. Oasis
+36. Spoon
+37. Clap Your Hands Say Yeah
+38. Coldplay
+39. The Offspring
+40. Maxïmo Park
+41. Lifehouse
+42. Dirty Pretty Things
+43. ...And You Will Know Us by the Trail of Dead
+44. Pato Fu
+45. OneRepublic
+46. Snow Patrol
+47. Gorillaz
+48. The Subways
+49. Yeah Yeah Yeahs
+50. Jorge & Mateus
+
+These recommendations are based on the user's existing preferences and are aimed at providing similar artists that the user may enjoy.

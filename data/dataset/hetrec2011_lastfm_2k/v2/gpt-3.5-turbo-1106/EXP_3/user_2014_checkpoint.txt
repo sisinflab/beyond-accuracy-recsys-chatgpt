@@ -1,0 +1,54 @@
+Based on user 2014's preferences, here are the top-50 recommendations for the given artists:
+
+1. The Smiths
+2. The Beatles
+3. Nirvana
+4. The Police
+5. The Doors
+6. Queen
+7. Interpol
+8. INXS
+9. Garbage
+10. Green Day
+11. Foo Fighters
+12. Nine Inch Nails
+13. Marilyn Manson
+14. Placebo
+15. The Offspring
+16. Gorillaz
+17. Franz Ferdinand
+18. Manic Street Preachers
+19. The B-52's
+20. Supergrass
+21. Blur
+22. The Jesus and Mary Chain
+23. 30 Seconds to Mars
+24. Ke$ha
+25. Robyn
+26. Dead Can Dance
+27. Goldfrapp
+28. Moby
+29. Ministry
+30. KMFDM
+31. Nitzer Ebb
+32. Recoil
+33. Front 242
+34. Skinny Puppy
+35. God Is an Astronaut
+36. Chris Cornell
+37. George Michael
+38. Danny
+39. Frankie Goes to Hollywood
+40. Suede
+41. Lush
+42. September
+43. Kasabian
+44. Sonic Youth
+45. The 69 Eyes
+46. The Smiths
+47. Erasure
+48. The Smiths
+49. The Smiths
+50. The Smiths
+
+These recommendations are based on similar genres and artists liked by user 2014.

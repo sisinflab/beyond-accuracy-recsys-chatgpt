@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel Garcia Marquez
+2. On the Road by Jack Kerouac
+3. The Catcher in the Rye by J.D. Salinger
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Old Man and the Sea by Ernest Hemingway
+6. The Sun Also Rises by Ernest Hemingway
+7. The Dharma Bums by Jack Kerouac
+8. The Electric Kool-Aid Acid Test by Tom Wolfe
+9. The Crying of Lot 49 by Thomas Pynchon
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Sound and the Fury by William Faulkner
+12. A Confederacy of Dunces by John Kennedy Toole
+13. The Road by Cormac McCarthy
+14. The Outsiders by S.E. Hinton
+15. The Bell Jar by Sylvia Plath
+16. The Grapes of Wrath by John Steinbeck
+17. To Kill a Mockingbird by Harper Lee
+18. Fear and Loathing in Las Vegas by Hunter S. Thompson
+19. The Talisman (Scott novel) by Walter Scott
+20. Even Cowgirls Get the Blues by Tom Robbins
+21. Tortilla Flat by John Steinbeck
+22. The Ballad of the Sad Café by Carson McCullers
+23. The Smurfs and the Magic Flute by Peyo
+24. The Smurfs and the Howlibird by Peyo
+25. The Smurfs and the Magic Egg by Peyo
+26. The Smurfs and the Purple Smurfs by Peyo
+27. The Smurfs and the Smurflings by Peyo
+28. The Smurfs and the Miller by Peyo
+29. The Smurfs and the Egg by Peyo
+30. The Smurfs and the Howlibird by Peyo
+31. The Smurfs and the Magic Flute by Peyo
+32. The Smurfs and the Purple Smurfs by Peyo
+33. The Smurfs and the Smurflings by Peyo
+34. The Smurfs and the Miller by Peyo
+35. The Smurfs and the Egg by Peyo
+36. The Smurfs and the Howlibird by Peyo
+37. The Smurfs and the Magic Flute by Peyo
+38. The Smurfs and the Purple Smurfs by Peyo
+39. The Smurfs and the Smurflings by Peyo
+40. The Smurfs and the Miller by Peyo
+41. The Smurfs and the Egg by Peyo
+42. The Smurfs and the Howlibird by Peyo
+43. The Smurfs and the Magic Flute by Peyo
+44. The Smurfs and the Purple Smurfs by Peyo
+45. The Smurfs and the Smurflings by Peyo
+46. The Smurfs and the Miller by Peyo
+47. The Smurfs and the Egg by Peyo
+48. The Smurfs and the Howlibird by Peyo
+49. The Smurfs and the Magic Flute by Peyo
+50. The Smurfs and the Purple Smurfs by Peyo
+
+These recommendations are based on the user's interest in classic literature, counterculture novels, and a mix of fiction and non-fiction works.

@@ -1,0 +1,54 @@
+Based on user 1830's preferences, here are the top 50 recommendations for the given artists:
+
+1. The Beatles
+2. U2
+3. Pink Floyd
+4. Oasis
+5. The Cure
+6. The Smiths
+7. Radiohead
+8. Nirvana
+9. Muse
+10. Arctic Monkeys
+11. The Strokes
+12. Kings of Leon
+13. Interpol
+14. The Killers
+15. Franz Ferdinand
+16. Joy Division
+17. The Velvet Underground
+18. The Last Shadow Puppets
+19. The Smashing Pumpkins
+20. Death Cab for Cutie
+21. Editors
+22. Placebo
+23. Rilo Kiley
+24. Feist
+25. Bright Eyes
+26. Jeff Buckley
+27. Nick Drake
+28. Elliott Smith
+29. Fiona Apple
+30. Cat Power
+31. Marisa Monte
+32. Maria Gadú
+33. Cássia Eller
+34. Caetano Veloso
+35. Los Hermanos
+36. Matanza
+37. Raimundos
+38. Vanguart
+39. Mallu Magalhães
+40. Os Mutantes
+41. Cachorro Grande
+42. Marcelo Camelo
+43. Avenged Sevenfold
+44. Bullet for My Valentine
+45. Ramones
+46. Sex Pistols
+47. The Stooges
+48. Motörhead
+49. Sepultura
+50. Municipal Waste
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

@@ -1,0 +1,54 @@
+Based on user 1337's preferences, here are the top-50 recommendations for the user:
+
+1. Radiohead
+2. Arcade Fire
+3. Florence + the Machine
+4. Vampire Weekend
+5. Queens of the Stone Age
+6. The Black Keys
+7. MGMT
+8. Metric
+9. The Last Shadow Puppets
+10. New Order
+11. Morrissey
+12. Lily Allen
+13. Animal Collective
+14. Daft Punk
+15. Justice
+16. The Chemical Brothers
+17. IAMX
+18. Crystal Castles
+19. Digitalism
+20. Slipknot
+21. Nirvana
+22. Beirut
+23. Incubus
+24. Queens of the Stone Age
+25. Kylie Minogue
+26. Los Hermanos
+27. Everything but the Girl
+28. 30 Seconds to Mars
+29. Panic! At the Disco
+30. Dirty Pretty Things
+31. Jamiroquai
+32. Björk
+33. Red Hot Chili Peppers
+34. Foals
+35. The Libertines
+36. Cut Copy
+37. Peaches
+38. Massive Attack
+39. M.I.A.
+40. The Smashing Pumpkins
+41. Mystery Jets
+42. Hadouken!
+43. Paramore
+44. Garbage
+45. Nick Carter
+46. Oasis
+47. Marilyn Manson
+48. Blink-182
+49. The Black Keys
+50. DJ Shadow
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists and bands that they may enjoy.

@@ -1,0 +1,54 @@
+Based on user 1950's preferences, here are the top-50 recommendations for the given artists:
+
+1. Nine Inch Nails
+2. Radiohead
+3. Muse
+4. Evanescence
+5. Glee Cast
+6. The Killers
+7. The Beatles
+8. Lady Gaga
+9. Paramore
+10. Linkin Park
+11. My Chemical Romance
+12. The Cranberries
+13. The Smiths
+14. Interpol
+15. Yeah Yeah Yeahs
+16. Death Cab for Cutie
+17. A Perfect Circle
+18. New Order
+19. Arcade Fire
+20. Korn
+21. The All-American Rejects
+22. Regina Spektor
+23. Tegan and Sara
+24. The xx
+25. Kate Nash
+26. t.A.T.u.
+27. The Radio Dept.
+28. Travis
+29. Suede
+30. Belle and Sebastian
+31. Garbage
+32. Depeche Mode
+33. Christina Aguilera
+34. Madonna
+35. Rihanna
+36. Shakira
+37. Katy Perry
+38. Avril Lavigne
+39. Taylor Swift
+40. Beyoncé
+41. U2
+42. 30 Seconds to Mars
+43. Pink Floyd
+44. Kylie Minogue
+45. Miley Cyrus
+46. Ke$ha
+47. Duran Duran
+48. Coldplay
+49. Blur
+50. Arctic Monkeys
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

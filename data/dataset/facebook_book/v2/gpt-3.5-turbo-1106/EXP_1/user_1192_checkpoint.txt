@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. City of Bones by Cassandra Clare
+2. Shiver by Maggie Stiefvater
+3. The Hunger Games by Suzanne Collins
+4. Divergent by Veronica Roth
+5. The Mortal Instruments series by Cassandra Clare
+6. Delirium by Lauren Oliver
+7. The Maze Runner by James Dashner
+8. The Selection by Kiera Cass
+9. The 5th Wave by Rick Yancey
+10. The Darkest Minds by Alexandra Bracken
+11. The Giver by Lois Lowry
+12. The Fault in Our Stars by John Green
+13. Legend by Marie Lu
+14. The Lunar Chronicles by Marissa Meyer
+15. The Uglies series by Scott Westerfeld
+16. The Twilight Saga by Stephenie Meyer
+17. The Host by Stephenie Meyer
+18. The Chemical Garden series by Lauren DeStefano
+19. The Infernal Devices series by Cassandra Clare
+20. The Luxe series by Anna Godbersen
+21. The Vampire Diaries series by L.J. Smith
+22. The Iron Fey series by Julie Kagawa
+23. The Dark Artifices series by Cassandra Clare
+24. The Ruby Red Trilogy by Kerstin Gier
+25. The 100 by Kass Morgan
+26. The Unbecoming of Mara Dyer by Michelle Hodkin
+27. The Wrath and the Dawn by Renee Ahdieh
+28. The Winner's Curse by Marie Rutkoski
+29. The Raven Cycle series by Maggie Stiefvater
+30. The Grisha Trilogy by Leigh Bardugo
+31. The Red Queen series by Victoria Aveyard
+32. The Selection series by Kiera Cass
+33. The Lunar Chronicles series by Marissa Meyer
+34. The Darkest Minds series by Alexandra Bracken
+35. The Divergent series by Veronica Roth
+36. The Maze Runner series by James Dashner
+37. The 5th Wave series by Rick Yancey
+38. The Giver Quartet by Lois Lowry
+39. The Legend series by Marie Lu
+40. The Chemical Garden series by Lauren DeStefano
+41. The Infernal Devices series by Cassandra Clare
+42. The Luxe series by Anna Godbersen
+43. The Vampire Diaries series by L.J. Smith
+44. The Iron Fey series by Julie Kagawa
+45. The Dark Artifices series by Cassandra Clare
+46. The Ruby Red Trilogy by Kerstin Gier
+47. The 100 series by Kass Morgan
+48. The Unbecoming of Mara Dyer series by Michelle Hodkin
+49. The Wrath and the Dawn series by Renee Ahdieh
+50. The Winner's Curse series by Marie Rutkoski
+
+These recommendations are based on the user's interest in young adult fiction, fantasy, and dystopian novels.

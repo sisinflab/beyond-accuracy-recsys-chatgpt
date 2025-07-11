@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Catcher in the Rye by J.D. Salinger
+4. One Flew Over the Cuckoo's Nest by Ken Kesey
+5. The Electric Kool-Aid Acid Test by Tom Wolfe
+6. The Dharma Bums by Jack Kerouac
+7. Survivor by Chuck Palahniuk
+8. The Rum Diary by Hunter S. Thompson
+9. Cat's Cradle by Kurt Vonnegut
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Sun Also Rises by Ernest Hemingway
+12. The Bell Jar by Sylvia Plath
+13. The Road by Cormac McCarthy
+14. Less Than Zero by Bret Easton Ellis
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Stranger by Albert Camus
+17. The Grapes of Wrath by John Steinbeck
+18. The Outsiders by S.E. Hinton
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Secret History by Donna Tartt
+21. The Shining by Stephen King
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Road to Wigan Pier by George Orwell
+24. The Old Man and the Sea by Ernest Hemingway
+25. The Glass Castle by Jeannette Walls
+26. The Road Less Traveled by M. Scott Peck
+27. The Road to Serfdom by Friedrich Hayek
+28. The Road to Reality by Roger Penrose
+29. The Road to Character by David Brooks
+30. The Road to Ruin by James Rickards
+31. The Road to Little Dribbling by Bill Bryson
+32. The Road to Oxiana by Robert Byron
+33. The Road to Mecca by Athol Fugard
+34. The Road to Mars by Eric Idle
+35. The Road to Wigan Pier by George Orwell
+36. The Road to Serfdom by Friedrich Hayek
+37. The Road to Reality by Roger Penrose
+38. The Road to Character by David Brooks
+39. The Road to Ruin by James Rickards
+40. The Road to Little Dribbling by Bill Bryson
+41. The Road to Oxiana by Robert Byron
+42. The Road to Mecca by Athol Fugard
+43. The Road to Mars by Eric Idle
+44. The Road to Wigan Pier by George Orwell
+45. The Road to Serfdom by Friedrich Hayek
+46. The Road to Reality by Roger Penrose
+47. The Road to Character by David Brooks
+48. The Road to Ruin by James Rickards
+49. The Road to Little Dribbling by Bill Bryson
+50. The Road to Oxiana by Robert Byron
+
+These recommendations are based on the user's interest in authors like Chuck Palahniuk, Jack Kerouac, Kurt Vonnegut, and Hunter S. Thompson, as well as the themes and genres of the mentioned books.

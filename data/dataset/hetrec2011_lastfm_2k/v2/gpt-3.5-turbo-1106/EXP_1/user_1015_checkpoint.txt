@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The Killers
+3. Muse
+4. Arctic Monkeys
+5. Bon Iver
+6. Florence + The Machine
+7. The National
+8. Sufjan Stevens
+9. Vampire Weekend
+10. The xx
+11. Fleet Foxes
+12. Hozier
+13. Tame Impala
+14. Alt-J
+15. Lana Del Rey
+16. The War on Drugs
+17. Arcade Fire
+18. Sigur Rós
+19. The Lumineers
+20. Of Monsters and Men
+21. The Decemberists
+22. Grizzly Bear
+23. The Avett Brothers
+24. Phoebe Bridgers
+25. Father John Misty
+26. Beirut
+27. Iron & Wine
+28. José González
+29. Matisyahu
+30. Sufjan Stevens
+31. The Shins
+32. Death Cab for Cutie
+33. Feist
+34. Imogen Heap
+35. Snow Patrol
+36. Juanes
+37. Nelly Furtado
+38. Shakira
+39. The Fray
+40. Copeland
+41. Coldplay
+42. Mute Math
+43. Relient K
+44. Something Corporate
+45. Ben Howard
+46. James Bay
+47. Daughter
+48. London Grammar
+49. Angus & Julia Stone
+50. The Paper Kites
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1747:
+
+1. Nick Drake
+2. Sigur Rós
+3. Beach House
+4. The xx
+5. Beirut
+6. The Bird and The Bee
+7. Kings of Convenience
+8. Jónsi
+9. Bat for Lashes
+10. The Album Leaf
+11. Feist
+12. Air
+13. Amiina
+14. múm
+15. Balmorhea
+16. God Is an Astronaut
+17. 65daysofstatic
+18. Mogwai
+19. Metric
+20. Tokyo Police Club
+21. Stars
+22. City and Colour
+23. Kings of Leon
+24. Arctic Monkeys
+25. Muse
+26. R.E.M.
+27. The Smiths
+28. Coldplay
+29. Ratatat
+30. Crystal Castles
+31. Pink Floyd
+32. Death from Above 1979
+33. The Cure
+34. Radiohead
+35. Thom Yorke
+36. Spiritualized
+37. Gorillaz
+38. David Bowie
+39. Elliott Smith
+40. Prince
+41. Björk
+42. Aphex Twin
+43. Autechre
+44. Coil
+45. Einstürzende Neubauten
+46. Infected Mushroom
+47. Placebo
+48. Keane
+49. Nick Cave and the Bad Seeds
+50. Nirvana
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

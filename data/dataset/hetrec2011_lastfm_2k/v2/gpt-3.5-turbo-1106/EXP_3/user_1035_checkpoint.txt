@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1035:
+
+1. The Beatles
+2. Radiohead
+3. David Bowie
+4. The Cure
+5. My Bloody Valentine
+6. Cocteau Twins
+7. Belle and Sebastian
+8. Death Cab for Cutie
+9. Boards of Canada
+10. MGMT
+11. Sigur Rós
+12. New Order
+13. Kate Bush
+14. Goldfrapp
+15. Spiritualized
+16. Ulrich Schnauss
+17. Explosions in the Sky
+18. Slowdive
+19. Siouxsie and the Banshees
+20. Clan of Xymox
+21. Stereolab
+22. Morcheeba
+23. Black Rebel Motorcycle Club
+24. M83
+25. The Smiths
+26. Bloc Party
+27. The Killers
+28. Oasis
+29. The Who
+30. Led Zeppelin
+31. Jimi Hendrix
+32. A Perfect Circle
+33. Thirteen Senses
+34. A Fine Frenzy
+35. Keane
+36. Death Cab for Cutie
+37. The All-American Rejects
+38. Red Hot Chili Peppers
+39. Tears for Fears
+40. The Black Dahlia Murder
+41. Jeff Buckley
+42. Morrissey
+43. The Album Leaf
+44. Panda Bear
+45. Queen
+46. Lush
+47. The Dead Weather
+48. Bloc Party
+49. The Black Dahlia Murder
+50. Underoath
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

@@ -1,0 +1,52 @@
+Based on user 1000's preferences, here is a re-ranked list of top-50 book recommendations:
+
+1. Catching Fire
+2. City of Bones (Mortal Instruments)
+3. City of Glass (Mortal Instruments)
+4. Angels & Demons
+5. The Host (novel)
+6. The Lovely Bones
+7. The Secrets of the Immortal Nicholas Flamel
+8. The Hunger Games
+9. Vampire Academy (novel)
+10. Vampire Knight
+11. Wicked Lovely
+12. A Great and Terrible Beauty
+13. The Black Tattoo
+14. The Historian
+15. The Last Song (novel)
+16. The Mysterious Benedict Society
+17. The Umbrella Academy
+18. The Outsiders (novel)
+19. The Watchmen (novel)
+20. Romeo and Juliet
+21. Pride and Prejudice and Zombies
+22. My Sister's Keeper (novel)
+23. Marley & Me
+24. Life as We Knew It (novel)
+25. Ink Exchange
+26. His Dark Materials
+27. Harry Potter
+28. Garfield
+29. False Memory (novel)
+30. Evermore (book)
+31. Eragon
+32. Eighth Grade Bites
+33. Alice's Adventures in Wonderland
+34. A Series of Unfortunate Events
+35. A Midsummer Night's Dream
+36. A Great and Terrible Beauty
+37. Along for the Ride
+38. October Sky
+39. Leven Thumps
+40. Twisted (book)
+41. Thirteen Reasons Why
+42. The Sweet Far Thing
+43. The Black Tattoo
+44. The Host (novel)
+45. The Hunger Games
+46. The Secrets of the Immortal Nicholas Flamel
+47. The Mysterious Benedict Society
+48. The Umbrella Academy
+49. The Outsiders (novel)
+50. The Watchmen (novel)

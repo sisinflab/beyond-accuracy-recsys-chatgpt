@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Avril Lavigne
+2. P!nk
+3. Kelly Clarkson
+4. Christina Aguilera
+5. Adele
+6. Beyoncé
+7. Taylor Swift
+8. Miley Cyrus
+9. Demi Lovato
+10. Shakira
+11. Selena Gomez
+12. Ariana Grande
+13. Ellie Goulding
+14. Marina and the Diamonds
+15. Tove Lo
+16. Charli XCX
+17. Halsey
+18. Dua Lipa
+19. Zara Larsson
+20. Alessia Cara
+21. Camila Cabello
+22. Lorde
+23. Meghan Trainor
+24. Hailee Steinfeld
+25. Bebe Rexha
+26. HAIM
+27. Florence + The Machine
+28. CHVRCHES
+29. Tegan and Sara
+30. Paramore
+31. The Veronicas
+32. Garbage
+33. No Doubt
+34. The Cardigans
+35. The Cranberries
+36. Hole
+37. Veruca Salt
+38. Liz Phair
+39. Fiona Apple
+40. Tori Amos
+41. PJ Harvey
+42. Alanis Morissette (for more of her music)
+43. Gwen Stefani (for more of her music)
+44. Sia (for more of her music)
+45. Britney Spears (for more of her music)
+46. Natasha Bedingfield (for more of her music)
+47. Lady Gaga (for more of her music)
+48. Rihanna (for more of her music)
+49. Lily Allen (for more of her music)
+50. Katy Perry (for more of her music)
+
+These recommendations are based on the user's liking of similar female artists and are aimed at providing a diverse range of music that aligns with their preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+7. The Alchemist by Paulo Coelho
+8. The Kite Runner by Khaled Hosseini
+9. The Road by Cormac McCarthy
+10. The Book Thief by Markus Zusak
+11. The Night Circus by Erin Morgenstern
+12. The Shadow of the Wind by Carlos Ruiz Zafón
+13. The Name of the Wind by Patrick Rothfuss
+14. The Goldfinch by Donna Tartt
+15. The Martian by Andy Weir
+16. The Girl on the Train by Paula Hawkins
+17. The Help by Kathryn Stockett
+18. The Hunger Games by Suzanne Collins
+19. The Da Vinci Code by Dan Brown
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Lovely Bones by Alice Sebold
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+24. The Secret History by Donna Tartt
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Bell Jar by Sylvia Plath
+27. The Road Less Traveled by M. Scott Peck
+28. The Power of Now by Eckhart Tolle
+29. The Art of Happiness by Dalai Lama XIV
+30. The 7 Habits of Highly Effective People by Stephen R. Covey
+31. The Four Agreements by Don Miguel Ruiz
+32. The Subtle Art of Not Giving a F*ck by Mark Manson
+33. The Life-Changing Magic of Tidying Up by Marie Kondo
+34. The Power of Habit by Charles Duhigg
+35. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+36. The Glass Castle by Jeannette Walls
+37. The Devil in the White City by Erik Larson
+38. The Boys in the Boat by Daniel James Brown
+39. The Immortalists by Chloe Benjamin
+40. The Nightingale by Kristin Hannah
+41. The Underground Railroad by Colson Whitehead
+42. The Goldfinch by Donna Tartt
+43. The Night Circus by Erin Morgenstern
+44. The Shadow of the Wind by Carlos Ruiz Zafón
+45. The Name of the Wind by Patrick Rothfuss
+46. The Book Thief by Markus Zusak
+47. The Nightingale by Kristin Hannah
+48. The Underground Railroad by Colson Whitehead
+49. The Immortalists by Chloe Benjamin
+50. The Boys in the Boat by Daniel James Brown
+
+These recommendations are based on the user's interest in literary fiction, classics, and thought-provoking non-fiction.

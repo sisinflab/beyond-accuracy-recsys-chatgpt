@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. Arctic Monkeys
+3. The Killers
+4. Red Hot Chili Peppers
+5. Oasis
+6. Green Day
+7. The White Stripes
+8. The Strokes
+9. Muse
+10. Radiohead
+11. Coldplay
+12. Pearl Jam
+13. Foo Fighters
+14. Linkin Park
+15. System of a Down
+16. Nine Inch Nails
+17. Soundgarden
+18. Alice in Chains
+19. Queens of the Stone Age
+20. Rage Against the Machine
+21. Smashing Pumpkins
+22. Weezer
+23. Pixies
+24. The Smashing Pumpkins
+25. Stone Temple Pilots
+26. Jane's Addiction
+27. Incubus
+28. Audioslave
+29. Bush
+30. 311
+31. Sublime
+32. The Offspring
+33. No Doubt
+34. Garbage
+35. Hole
+36. Veruca Salt
+37. L7
+38. Sonic Youth
+39. Bikini Kill
+40. Sleater-Kinney
+41. The Breeders
+42. PJ Harvey
+43. Liz Phair
+44. Tori Amos
+45. Alanis Morissette
+46. Fiona Apple
+47. Sarah McLachlan
+48. Sheryl Crow
+49. Tracy Chapman
+50. Melissa Etheridge
+
+These recommendations are based on the user's liking of rock, alternative, and pop artists.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 2093:
+
+1. Led Zeppelin
+2. Pink Floyd
+3. The Rolling Stones
+4. The Who
+5. The Beatles
+6. AC/DC
+7. Black Sabbath
+8. Metallica
+9. Queen
+10. Jimi Hendrix
+11. Aerosmith
+12. Deep Purple
+13. The Doors
+14. Lynyrd Skynyrd
+15. Guns N' Roses
+16. Creedence Clearwater Revival
+17. The Kinks
+18. Van Morrison
+19. The Jimi Hendrix Experience
+20. Thin Lizzy
+21. Whitesnake
+22. Cream
+23. Dio
+24. Jethro Tull
+25. Fleetwood Mac
+26. Iron Maiden
+27. Johnny Cash
+28. Tom Petty and the Heartbreakers
+29. KISS
+30. Eagles
+31. Eric Clapton
+32. Uriah Heep
+33. Scorpions
+34. The Animals
+35. Motörhead
+36. Janis Joplin
+37. The Velvet Underground
+38. ZZ Top
+39. Boston
+40. The Yardbirds
+41. Alice Cooper
+42. The Stooges
+43. Rainbow
+44. Judas Priest
+45. Neil Young
+46. The Raconteurs
+47. Journey
+48. UFO
+49. Blue Öyster Cult
+50. Manowar
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and bands that align with their musical tastes.

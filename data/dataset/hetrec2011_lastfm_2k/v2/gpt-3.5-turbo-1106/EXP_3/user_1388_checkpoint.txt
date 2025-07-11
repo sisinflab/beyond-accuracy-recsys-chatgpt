@@ -1,0 +1,54 @@
+Based on user 1388's preferences, here are the top-50 recommendations:
+
+1. Florence + the Machine
+2. The Beatles
+3. Coldplay
+4. Radiohead
+5. The Killers
+6. Linkin Park
+7. Red Hot Chili Peppers
+8. Panic! At the Disco
+9. 30 Seconds to Mars
+10. Avril Lavigne
+11. Katy Perry
+12. Lady Gaga
+13. Rihanna
+14. Demi Lovato
+15. Miley Cyrus
+16. Selena Gomez & the Scene
+17. Taylor Swift
+18. Ke$ha
+19. Nicki Minaj
+20. Christina Aguilera
+21. P!nk
+22. Beyoncé
+23. Shakira
+24. Justin Timberlake
+25. Justin Bieber
+26. Adam Lambert
+27. Paramore
+28. Jessie J
+29. Kate Nash
+30. The Ting Tings
+31. Yeah Yeah Yeahs
+32. Pixies
+33. My Chemical Romance
+34. Placebo
+35. Arctic Monkeys
+36. Green Day
+37. B.o.B
+38. 3OH!3
+39. Jonas Brothers
+40. Plain White T's
+41. Leighton Meester
+42. Pixie Lott
+43. Cat Power
+44. Nicole Scherzinger
+45. Taio Cruz
+46. Belinda
+47. Ke$ha
+48. Two Door Cinema Club
+49. Feist
+50. Joan Jett and the Blackhearts
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

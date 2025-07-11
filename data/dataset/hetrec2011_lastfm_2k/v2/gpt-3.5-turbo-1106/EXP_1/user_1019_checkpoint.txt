@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. Green Day
+3. Red Hot Chili Peppers
+4. Nirvana
+5. Foo Fighters
+6. Oasis
+7. Weezer
+8. The Strokes
+9. Paramore
+10. My Chemical Romance
+11. System of a Down
+12. Linkin Park
+13. Pearl Jam
+14. The Smashing Pumpkins
+15. Incubus
+16. The Offspring
+17. 30 Seconds to Mars
+18. The All-American Rejects
+19. Sum 41
+20. The Vines
+21. Franz Ferdinand
+22. The Hives
+23. The Libertines
+24. The Black Keys
+25. Cage the Elephant
+26. The Raconteurs
+27. The Vaccines
+28. The Wombats
+29. Bloc Party
+30. Interpol
+31. The Kooks
+32. The Fratellis
+33. The Killers
+34. The Bravery
+35. The Ting Tings
+36. The Pigeon Detectives
+37. The Subways
+38. The Zutons
+39. The View
+40. The Rakes
+41. The Futureheads
+42. The Cribs
+43. The Maccabees
+44. The Courteeners
+45. The Horrors
+46. The Drums
+47. The Kooks
+48. The Pigeon Detectives
+49. The Subways
+50. The Zutons
+
+These recommendations are based on the user's liking of similar artists and genres.

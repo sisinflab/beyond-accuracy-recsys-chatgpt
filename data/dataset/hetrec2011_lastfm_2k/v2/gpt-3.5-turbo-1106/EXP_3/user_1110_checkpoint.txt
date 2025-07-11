@@ -1,0 +1,54 @@
+Based on user 1110's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Pink Floyd
+2. The Beatles
+3. Nirvana
+4. The Police
+5. Genesis
+6. The Doors
+7. Led Zeppelin
+8. Black Sabbath
+9. Metallica
+10. Rush
+11. Iron Maiden
+12. Queen
+13. Aerosmith
+14. Pearl Jam
+15. Deep Purple
+16. Journey
+17. Eagles
+18. Dire Straits
+19. Kansas
+20. Yes
+21. The Offspring
+22. Limp Bizkit
+23. Papa Roach
+24. 3 Doors Down
+25. Linkin Park
+26. Anberlin
+27. Underoath
+28. Lacuna Coil
+29. Megadeth
+30. Dream Theater
+31. Symphony X
+32. Opeth
+33. Dark Tranquillity
+34. Soilwork
+35. Trivium
+36. Pantera
+37. Bloodbath
+38. Nevermore
+39. Saosin
+40. Riverside
+41. Stratovarius
+42. Eluveitie
+43. Ensiferum
+44. Tarja
+45. Korpiklaani
+46. Municipal Waste
+47. Agalloch
+48. Sepultura
+49. Meshuggah
+50. Mastodon
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

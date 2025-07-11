@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Depeche Mode
+2. Duran Duran
+3. New Order
+4. Erasure
+5. David Bowie
+6. Madonna
+7. The Killers
+8. Roxy Music
+9. The Cure
+10. Blondie
+11. A-ha
+12. Yazoo
+13. Simple Minds
+14. OMD (Orchestral Manoeuvres in the Dark)
+15. Talking Heads
+16. The Smiths
+17. Joy Division
+18. Echo & the Bunnymen
+19. Siouxsie and the Banshees
+20. The Human League
+21. Soft Cell
+22. Tears for Fears
+23. Pet Shop Boys
+24. Lady Gaga
+25. Goldfrapp
+26. Calvin Harris
+27. The Beatles
+28. Queen
+29. Brandon Flowers
+30. Hurts
+31. Gwen Stefani
+32. Lily Allen
+33. Lacuna Coil
+34. Fleetwood Mac
+35. ABC
+36. Evanescence
+37. Frankie Goes to Hollywood
+38. Madness
+39. Kraftwerk
+40. Cobra Starship
+41. Pink Floyd
+42. Kate Bush
+43. Little Boots
+44. John Lennon
+45. Scissor Sisters
+46. Julian Casablancas
+47. Daft Punk
+48. Heaven 17
+49. t.A.T.u.
+50. The B-52's
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands that the user may enjoy.

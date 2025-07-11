@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arcade Fire
+2. Bon Iver
+3. The xx
+4. Fleet Foxes
+5. Grizzly Bear
+6. The War on Drugs
+7. Beach House
+8. Vampire Weekend
+9. The Strokes
+10. Interpol
+11. The Shins
+12. Modest Mouse
+13. Arctic Monkeys
+14. The Decemberists
+15. Spoon
+16. Death Grips
+17. LCD Soundsystem
+18. Animal Collective
+19. M83
+20. The Flaming Lips
+21. Yeah Yeah Yeahs
+22. St. Vincent
+23. Father John Misty
+24. The National
+25. Tame Impala
+26. Foals
+27. Alt-J
+28. Hozier
+29. Florence + The Machine
+30. The Black Keys
+31. Kings of Leon
+32. The Killers
+33. Franz Ferdinand
+34. The White Stripes
+35. Spoon
+36. The Raconteurs
+37. The Black Angels
+38. My Morning Jacket
+39. Band of Horses
+40. The Avett Brothers
+41. The Lumineers
+42. Mumford & Sons
+43. Edward Sharpe & The Magnetic Zeros
+44. The Head and the Heart
+45. Fleetwood Mac
+46. The Rolling Stones
+47. Bob Dylan
+48. Neil Young
+49. Tom Petty and the Heartbreakers
+50. Bruce Springsteen
+
+These recommendations are based on the user's liking of similar artists and genres.

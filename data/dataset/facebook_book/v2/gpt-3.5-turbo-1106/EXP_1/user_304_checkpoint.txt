@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. Thirteen Reasons Why by Jay Asher
+8. The Book Thief by Markus Zusak
+9. Eleanor & Park by Rainbow Rowell
+10. Delirium by Lauren Oliver
+11. Uglies by Scott Westerfeld
+12. The Selection by Kiera Cass
+13. Legend by Marie Lu
+14. The 5th Wave by Rick Yancey
+15. If I Stay by Gayle Forman
+16. The Outsiders by S.E. Hinton
+17. The Darkest Minds by Alexandra Bracken
+18. The Knife of Never Letting Go by Patrick Ness
+19. The Raven Boys by Maggie Stiefvater
+20. The Night Circus by Erin Morgenstern
+21. The Secret History by Donna Tartt
+22. The Goldfinch by Donna Tartt
+23. The Shadow of the Wind by Carlos Ruiz Zafón
+24. The Name of the Wind by Patrick Rothfuss
+25. The Alchemist by Paulo Coelho
+26. The Kite Runner by Khaled Hosseini
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Help by Kathryn Stockett
+29. The Glass Castle by Jeannette Walls
+30. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+31. The Nightingale by Kristin Hannah
+32. The Light Between Oceans by M.L. Stedman
+33. The Girl on the Train by Paula Hawkins
+34. Gone Girl by Gillian Flynn
+35. Big Little Lies by Liane Moriarty
+36. The Silent Patient by Alex Michaelides
+37. Where the Crawdads Sing by Delia Owens
+38. Educated by Tara Westover
+39. Little Fires Everywhere by Celeste Ng
+40. The Underground Railroad by Colson Whitehead
+41. The Handmaid's Tale by Margaret Atwood
+42. 1984 by George Orwell
+43. Fahrenheit 451 by Ray Bradbury
+44. Brave New World by Aldous Huxley
+45. Animal Farm by George Orwell
+46. Lord of the Flies by William Golding
+47. To Kill a Mockingbird by Harper Lee
+48. The Catcher in the Rye by J.D. Salinger
+49. One Hundred Years of Solitude by Gabriel García Márquez
+50. Beloved by Toni Morrison
+
+These recommendations are based on the user's interest in young adult fiction, dystopian themes, and contemporary literature.

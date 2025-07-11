@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Maze Runner by James Dashner
+2. Divergent by Veronica Roth
+3. The Giver by Lois Lowry
+4. Delirium by Lauren Oliver
+5. The Selection by Kiera Cass
+6. The Mortal Instruments: City of Bones by Cassandra Clare
+7. The 5th Wave by Rick Yancey
+8. Legend by Marie Lu
+9. Matched by Ally Condie
+10. The Darkest Minds by Alexandra Bracken
+11. The Host by Stephenie Meyer
+12. Shatter Me by Tahereh Mafi
+13. The Knife of Never Letting Go by Patrick Ness
+14. The Lunar Chronicles by Marissa Meyer
+15. The Testing by Joelle Charbonneau
+16. The Uglies series by Scott Westerfeld
+17. The Hunger Games series by Suzanne Collins
+18. The Vampire Academy series by Richelle Mead
+19. Thirteen Reasons Why by Jay Asher
+20. The Gemma Doyle Trilogy by Libba Bray
+21. My Sister's Keeper by Jodi Picoult
+22. Harry Potter series by J.K. Rowling
+23. Alice's Adventures in Wonderland by Lewis Carroll
+24. The Gemma Doyle Trilogy by Libba Bray
+25. The Infernal Devices series by Cassandra Clare
+26. The Twilight Saga by Stephenie Meyer
+27. The Fault in Our Stars by John Green
+28. The Perks of Being a Wallflower by Stephen Chbosky
+29. The Book Thief by Markus Zusak
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Lord of the Rings by J.R.R. Tolkien
+32. The Hobbit by J.R.R. Tolkien
+33. The Hunger Games series by Suzanne Collins
+34. The Maze Runner series by James Dashner
+35. The Divergent series by Veronica Roth
+36. The Giver series by Lois Lowry
+37. The Delirium series by Lauren Oliver
+38. The Selection series by Kiera Cass
+39. The Mortal Instruments series by Cassandra Clare
+40. The 5th Wave series by Rick Yancey
+41. The Legend series by Marie Lu
+42. The Matched series by Ally Condie
+43. The Darkest Minds series by Alexandra Bracken
+44. The Host series by Stephenie Meyer
+45. The Shatter Me series by Tahereh Mafi
+46. The Chaos Walking series by Patrick Ness
+47. The Lunar Chronicles series by Marissa Meyer
+48. The Testing series by Joelle Charbonneau
+49. The Uglies series by Scott Westerfeld
+50. The Vampire Academy series by Richelle Mead
+
+These recommendations are based on the user's interest in young adult fiction, dystopian themes, and fantasy novels.

@@ -1,0 +1,14 @@
+Based on user 176's preferences, here are the top 10 movie recommendations for them:
+
+1. Shawshank Redemption, The (1994)
+2. Star Wars: Episode V - The Empire Strikes Back (1980)
+3. Pulp Fiction (1994)
+4. Seven (a.k.a. Se7en) (1995)
+5. Dances with Wolves (1990)
+6. Silence of the Lambs, The (1991)
+7. Aladdin (1992)
+8. Tombstone (1993)
+9. Apollo 13 (1995)
+10. Princess Bride, The (1987)
+
+These recommendations are based on the user's high ratings for action, thriller, and adventure movies, as well as their enjoyment of classic films.

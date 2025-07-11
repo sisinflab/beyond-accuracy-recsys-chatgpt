@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 324:
+
+1. Pink Floyd
+2. The Doors
+3. Nirvana
+4. Aerosmith
+5. The Jimi Hendrix Experience
+6. Pearl Jam
+7. ZZ Top
+8. The Beatles
+9. Eric Clapton
+10. Creedence Clearwater Revival
+11. Santana
+12. Van Halen
+13. KISS
+14. Motörhead
+15. Slayer
+16. Anthrax
+17. Guns N' Roses
+18. Accept
+19. Dio
+20. UFO
+21. Bad Religion
+22. Rise Against
+23. Rage Against the Machine
+24. Iced Earth
+25. Def Leppard
+26. Dokken
+27. Testament
+28. Rammstein
+29. Monster Magnet
+30. Kreator
+31. Death
+32. Bathory
+33. Sodom
+34. Uriah Heep
+35. The Yardbirds
+36. Stratovarius
+37. Edguy
+38. Alestorm
+39. HammerFall
+40. Sonata Arctica
+41. Helloween
+42. Jimi Hendrix
+43. David Gilmour
+44. Die Toten Hosen
+45. Nautilus Pompilius
+46. Foo Fighters
+47. Ария
+48. The Jimi Hendrix Experience
+49. Cream
+50. Led Zeppelin
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

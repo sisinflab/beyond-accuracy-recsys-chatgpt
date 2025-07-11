@@ -1,0 +1,54 @@
+Based on user 353's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games
+2. Harry Potter
+3. Mockingjay
+4. Catch-22
+5. To Kill a Mockingbird
+6. The Chronicles of Narnia: Prince Caspian
+7. The Girl Who Played with Fire
+8. The Wind-Up Bird Chronicle
+9. City of God (book)
+10. Strange Case of Dr Jekyll and Mr Hyde
+11. The Zombie Survival Guide
+12. Vampire Academy (novel)
+13. Neverwhere (novel)
+14. Gulliver's Travels
+15. Atlas Shrugged
+16. Slaughterhouse-Five
+17. Crime and Punishment
+18. The Martian Chronicles
+19. Maximum Ride
+20. The Sound and the Fury
+21. Fahrenheit 451
+22. Carrie (novel)
+23. The Sight (novel)
+24. Pretty Little Liars (book)
+25. Gossip Girl (novel series)
+26. The Lorax
+27. Magic Tree House series
+28. Cat's Cradle
+29. The Sandman (book)
+30. The Curious Incident of the Dog in the Night-Time
+31. The Lightning Thief
+32. Wake (Lisa McMann novel)
+33. Eldest
+34. Holes (novel)
+35. Thirteen Reasons Why
+36. The Fountainhead
+37. Rosemary's Baby
+38. We (novel)
+39. The Kreutzer Sonata
+40. The Hatchet (novel)
+41. A Confederacy of Dunces
+42. On the Road
+43. The Winter's Tale
+44. Pygmalion (play)
+45. Death of a Salesman
+46. Cecilia (McClure novel)
+47. Dragon Rider (novel)
+48. The Idiot
+49. Of Mice and Men
+50. The Tipping Point
+
+These recommendations are based on the user's liking for books by Stephen King and Dean Koontz, as well as other genres and themes present in the provided list of books.

@@ -1,0 +1,50 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Obsidian Butterfly by Laurell K. Hamilton
+2. Blue Moon by Laurell K. Hamilton
+3. Narcissus in Chains by Laurell K. Hamilton
+4. Incubus Dreams by Laurell K. Hamilton
+5. Cerulean Sins by Laurell K. Hamilton
+6. Danse Macabre by Laurell K. Hamilton
+7. The Harlequin by Laurell K. Hamilton
+8. Bullet by Laurell K. Hamilton
+9. Hit List by Laurell K. Hamilton
+10. Kiss the Dead by Laurell K. Hamilton
+11. Affliction by Laurell K. Hamilton
+12. Jason by Laurell K. Hamilton
+13. Dead Ice by Laurell K. Hamilton
+14. Crimson Death by Laurell K. Hamilton
+15. Serpentine by Laurell K. Hamilton
+16. Sucker Punch by Laurell K. Hamilton
+17. Rafael by Laurell K. Hamilton
+18. The Hobbit by J.R.R. Tolkien
+19. The Silmarillion by J.R.R. Tolkien
+20. The Children of Húrin by J.R.R. Tolkien
+21. Unfinished Tales of Númenor and Middle-earth by J.R.R. Tolkien
+22. The Fall of Gondolin by J.R.R. Tolkien
+23. Beren and Lúthien by J.R.R. Tolkien
+24. The Book of Lost Tales 1 by J.R.R. Tolkien
+25. The Book of Lost Tales 2 by J.R.R. Tolkien
+26. The Lays of Beleriand by J.R.R. Tolkien
+27. The Shaping of Middle-earth by J.R.R. Tolkien
+28. The Lost Road and Other Writings by J.R.R. Tolkien
+29. The Return of the King by J.R.R. Tolkien
+30. The Two Towers by J.R.R. Tolkien
+31. The Fellowship of the Ring by J.R.R. Tolkien
+32. The Hobbit and The Lord of the Rings by J.R.R. Tolkien
+33. The Hobbit: Illustrated Edition by J.R.R. Tolkien
+34. The Lord of the Rings: 50th Anniversary Edition by J.R.R. Tolkien
+35. The Lord of the Rings: The Fellowship of the Ring Visual Companion by J.R.R. Tolkien
+36. The Lord of the Rings: The Two Towers Visual Companion by J.R.R. Tolkien
+37. The Lord of the Rings: The Return of the King Visual Companion by J.R.R. Tolkien
+38. The Lord of the Rings: The Fellowship of the Ring Photo Guide by J.R.R. Tolkien
+39. The Lord of the Rings: The Two Towers Photo Guide by J.R.R. Tolkien
+40. The Lord of the Rings: The Return of the King Photo Guide by J.R.R. Tolkien
+41. The Lord of the Rings: The Fellowship of the Ring Activity Studio by J.R.R. Tolkien
+42. The Lord of the Rings: The Two Towers Activity Studio by J.R.R. Tolkien
+43. The Lord of the Rings: The Return of the King Activity Studio by J.R.R. Tolkien
+44. The Lord of the Rings: The Fellowship of the Ring Visual Companion by Jude Fisher
+45. The Lord of the Rings: The Two Towers Visual Companion by Jude Fisher
+46. The Lord of the Rings: The Return of the King Visual Companion by Jude Fisher
+47. The Lord of the Rings: The Fellowship of the Ring Photo Guide by Jude Fisher
+48.

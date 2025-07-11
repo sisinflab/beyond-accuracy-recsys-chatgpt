@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Fahrenheit 451 by Ray Bradbury
+4. The Road by Cormac McCarthy
+5. Neuromancer by William Gibson
+6. Snow Crash by Neal Stephenson
+7. Dune by Frank Herbert
+8. The Martian by Andy Weir
+9. Ready Player One by Ernest Cline
+10. Ender's Game by Orson Scott Card
+11. The Hunger Games by Suzanne Collins
+12. The Handmaid's Tale by Margaret Atwood
+13. The Left Hand of Darkness by Ursula K. Le Guin
+14. The Dispossessed by Ursula K. Le Guin
+15. Do Androids Dream of Electric Sheep? by Philip K. Dick
+16. The Man in the High Castle by Philip K. Dick
+17. The Moon is a Harsh Mistress by Robert A. Heinlein
+18. Starship Troopers by Robert A. Heinlein
+19. The Forever War by Joe Haldeman
+20. Altered Carbon by Richard K. Morgan
+21. The Expanse series by James S.A. Corey
+22. The Three-Body Problem by Liu Cixin
+23. Hyperion by Dan Simmons
+24. The Diamond Age by Neal Stephenson
+25. The Windup Girl by Paolo Bacigalupi
+26. The Hand of Thrawn series by Timothy Zahn
+27. The Culture series by Iain M. Banks
+28. The Foundation series by Isaac Asimov
+29. The Hyperion Cantos by Dan Simmons
+30. The Vorkosigan Saga by Lois McMaster Bujold
+31. The Long Way to a Small, Angry Planet by Becky Chambers
+32. The City & the City by China Miéville
+33. The Southern Reach Trilogy by Jeff VanderMeer
+34. The Quantum Thief by Hannu Rajaniemi
+35. The Fifth Season by N.K. Jemisin
+36. The Broken Earth Trilogy by N.K. Jemisin
+37. The Book of the New Sun by Gene Wolfe
+38. The Malazan Book of the Fallen series by Steven Erikson
+39. The Black Company series by Glen Cook
+40. The Lies of Locke Lamora by Scott Lynch
+41. The Kingkiller Chronicle by Patrick Rothfuss
+42. The Stormlight Archive by Brandon Sanderson
+43. Mistborn series by Brandon Sanderson
+44. The Wheel of Time series by Robert Jordan
+45. The First Law Trilogy by Joe Abercrombie
+46. The Gentleman Bastard series by Scott Lynch
+47. The Broken Empire Trilogy by Mark Lawrence
+48. The Powder Mage Trilogy by Brian McClellan
+49. The Riyria Revelations by Michael J. Sullivan
+50. The Night Angel Trilogy by Brent Weeks
+
+These recommendations are based on the user's interest in science fiction, dystopian literature, and dark, psychological themes.

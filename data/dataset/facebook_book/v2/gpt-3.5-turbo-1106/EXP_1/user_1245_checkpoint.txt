@@ -1,0 +1,54 @@
+Based on user 1245's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. Brave New World by Aldous Huxley
+3. The Bell Jar by Sylvia Plath
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Road by Cormac McCarthy
+6. The Handmaid's Tale by Margaret Atwood
+7. Catch-22 by Joseph Heller
+8. The Stranger by Albert Camus
+9. The Sun Also Rises by Ernest Hemingway
+10. The Grapes of Wrath by John Steinbeck
+11. To Kill a Mockingbird by Harper Lee
+12. The Great Gatsby by F. Scott Fitzgerald
+13. East of Eden by John Steinbeck
+14. A Farewell to Arms by Ernest Hemingway
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. Crime and Punishment by Fyodor Dostoevsky
+19. Lolita by Vladimir Nabokov
+20. The Sound and the Fury by William Faulkner
+21. As I Lay Dying by William Faulkner
+22. The Catcher in the Rye by J. D. Salinger
+23. Franny and Zooey by J. D. Salinger
+24. Infinite Jest by David Foster Wallace
+25. The Magus by John Fowles
+26. Hocus Pocus by Kurt Vonnegut
+27. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+28. A Clockwork Orange by Anthony Burgess
+29. The Time Machine by H. G. Wells
+30. Cat's Cradle by Kurt Vonnegut
+31. Nineteen Eighty-Four by George Orwell
+32. Fahrenheit 451 by Ray Bradbury
+33. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+34. Dune by Frank Herbert
+35. Neuromancer by William Gibson
+36. Snow Crash by Neal Stephenson
+37. Do Androids Dream of Electric Sheep? by Philip K. Dick
+38. The Left Hand of Darkness by Ursula K. Le Guin
+39. The Dispossessed by Ursula K. Le Guin
+40. The Lathe of Heaven by Ursula K. Le Guin
+41. The Hand of Oberon by Roger Zelazny
+42. The Left Hand of Darkness by Ursula K. Le Guin
+43. The Dispossessed by Ursula K. Le Guin
+44. The Lathe of Heaven by Ursula K. Le Guin
+45. The Hand of Oberon by Roger Zelazny
+46. The Left Hand of Darkness by Ursula K. Le Guin
+47. The Dispossessed by Ursula K. Le Guin
+48. The Lathe of Heaven by Ursula K. Le Guin
+49. The Hand of Oberon by Roger Zelazny
+50. The Left Hand of Darkness by Ursula K. Le Guin
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1245 likes.

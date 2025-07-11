@@ -1,0 +1,54 @@
+Based on user 84's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Black Sabbath
+2. Nirvana
+3. Ozzy Osbourne
+4. Anthrax
+5. David Gilmour
+6. UFO
+7. Pearl Jam
+8. Eric Clapton
+9. Ratt
+10. Depeche Mode
+11. Avantasia
+12. Deep Purple
+13. Dokken
+14. Pain
+15. Burzum
+16. Mr. Big
+17. Paradise Lost
+18. Uriah Heep
+19. Eisbrecher
+20. Korpiklaani
+21. Matanza
+22. Cream
+23. Overkill
+24. Bon Jovi
+25. Stratovarius
+26. Kamelot
+27. Testament
+28. Rainbow
+29. Queensrÿche
+30. Kreator
+31. Blind Guardian
+32. Nautilus Pompilius
+33. Bruce Dickinson
+34. The Jimi Hendrix Experience
+35. Toto
+36. Edguy
+37. Santana
+38. Nightwish
+39. Mötley Crüe
+40. W.A.S.P.
+41. Exodus
+42. Slayer
+43. Jethro Tull
+44. Saxon
+45. System of a Down
+46. Eluveitie
+47. Bad Religion
+48. Aerosmith
+49. Pantera
+50. Led Zeppelin
+
+These recommendations are based on the user's existing preferences and are designed to introduce them to new artists they may enjoy.

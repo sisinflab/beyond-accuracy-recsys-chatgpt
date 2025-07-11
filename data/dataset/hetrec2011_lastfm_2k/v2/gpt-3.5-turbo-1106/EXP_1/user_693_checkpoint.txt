@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Postal Service
+2. The Shins
+3. Yeah Yeah Yeahs
+4. The Killers
+5. Florence + The Machine
+6. Arctic Monkeys
+7. The Strokes
+8. Vampire Weekend
+9. MGMT
+10. Phoenix
+11. Modest Mouse
+12. The National
+13. Arcade Fire
+14. Spoon
+15. The Decemberists
+16. Belle and Sebastian
+17. Death Cab for Cutie
+18. The Flaming Lips
+19. Sufjan Stevens
+20. Neutral Milk Hotel
+21. The New Pornographers
+22. The Magnetic Fields
+23. Animal Collective
+24. Grizzly Bear
+25. Fleet Foxes
+26. Beach House
+27. Tame Impala
+28. The War on Drugs
+29. Real Estate
+30. Kurt Vile
+31. Pavement
+32. Sonic Youth
+33. Dinosaur Jr.
+34. Yo La Tengo
+35. Guided by Voices
+36. Built to Spill
+37. Superchunk
+38. Sleater-Kinney
+39. The Breeders
+40. Pixies
+41. Sonic Youth
+42. My Bloody Valentine
+43. Slowdive
+44. Ride
+45. Lush
+46. Cocteau Twins
+47. The Jesus and Mary Chain
+48. Galaxie 500
+49. Swervedriver
+50. Chapterhouse
+
+These recommendations are based on the user's liking of indie, alternative, and rock artists, and include similar artists that they may enjoy based on their preferences.

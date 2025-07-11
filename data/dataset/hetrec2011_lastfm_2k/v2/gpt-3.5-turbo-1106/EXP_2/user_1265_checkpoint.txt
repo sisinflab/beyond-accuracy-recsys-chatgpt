@@ -1,0 +1,54 @@
+Based on the user's liking of artists such as Oasis, Radiohead, Blur, and Arctic Monkeys, here is a re-ranked list of top-50 recommendations for user 1265:
+
+1. Radiohead
+2. Blur
+3. Arctic Monkeys
+4. The Beatles
+5. Muse
+6. Nirvana
+7. Coldplay
+8. The Killers
+9. Oasis
+10. M83
+11. Paramore
+12. Placebo
+13. The Cure
+14. New Order
+15. Kings of Convenience
+16. Belle and Sebastian
+17. Suede
+18. Sonic Youth
+19. Röyksopp
+20. Two Door Cinema Club
+21. Air
+22. Mogwai
+23. Copeland
+24. Passion Pit
+25. Ke$ha
+26. Duran Duran
+27. Madonna
+28. Lady Gaga
+29. Rihanna
+30. Shakira
+31. Christina Aguilera
+32. Britney Spears
+33. Beyoncé
+34. U2
+35. Pink Floyd
+36. Kylie Minogue
+37. Michael Jackson
+38. Madonna
+39. Depeche Mode
+40. Nine Inch Nails
+41. Linkin Park
+42. Metallica
+43. Iron Maiden
+44. Led Zeppelin
+45. Pearl Jam
+46. System of a Down
+47. Daft Punk
+48. a-ha
+49. Björk
+50. Amy Winehouse
+
+These recommendations are based on the user's liking of similar artists and may align with their music preferences.

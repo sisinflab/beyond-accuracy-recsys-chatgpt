@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. World War Z by Max Brooks
+3. As I Lay Dying by William Faulkner
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Hellsing by Kouta Hirano
+6. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+7. Much Ado About Nothing by William Shakespeare
+8. Uglies by Scott Westerfeld
+9. The Lord of the Rings by J.R.R. Tolkien
+10. A Thousand Splendid Suns by Khaled Hosseini
+11. The Hate U Give by Angie Thomas
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Walking Dead by Robert Kirkman
+14. Staying Fat for Sarah Byrnes by Chris Crutcher
+15. The Adventures of Tom Sawyer by Mark Twain
+16. The Dirt: Confessions of the World's Most Notorious Rock Band by Tommy Lee
+17. The Shining by Stephen King
+18. Pride and Prejudice by Jane Austen
+19. The Giver by Lois Lowry
+20. Interview with the Vampire by Anne Rice
+21. The Catcher in the Rye by J.D. Salinger
+22. The Road by Cormac McCarthy
+23. The Book Thief by Markus Zusak
+24. The Walking Dead: Rise of the Governor by Robert Kirkman
+25. The Outsiders by S.E. Hinton
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Hunger Games by Suzanne Collins
+28. The Silence of the Lambs by Thomas Harris
+29. The Lovely Bones by Alice Sebold
+30. The Walking Dead: Compendium One by Robert Kirkman
+31. The Perks of Being a Wallflower by Stephen Chbosky
+32. The Green Mile by Stephen King
+33. To Kill a Mockingbird by Harper Lee
+34. The Road to Woodbury by Robert Kirkman
+35. The Maze Runner by James Dashner
+36. The Girl on the Train by Paula Hawkins
+37. The Walking Dead: Compendium Two by Robert Kirkman
+38. The Fault in Our Stars by John Green
+39. The Girl Who Played with Fire by Stieg Larsson
+40. The Hunger Games: Catching Fire by Suzanne Collins
+41. The Walking Dead: Compendium Three by Robert Kirkman
+42. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+43. The Hunger Games: Mockingjay by Suzanne Collins
+44. The Walking Dead: Compendium Four by Robert Kirkman
+45. The Girl in the Spider's Web by David Lagercrantz
+46. The Walking Dead: Compendium Five by Robert Kirkman
+47. The Walking Dead: Compendium Six by Robert Kirkman
+48. The Walking Dead: Compendium Seven by Robert Kirkman
+49. The Walking Dead: Compendium Eight by Robert Kirkman
+50. The Walking Dead: Compendium Nine by Robert Kirkman
+
+These recommendations are based on the user's interest in horror, classic literature, and young adult fiction.

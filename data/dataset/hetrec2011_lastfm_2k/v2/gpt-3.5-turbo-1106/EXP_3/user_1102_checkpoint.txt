@@ -1,0 +1,54 @@
+Based on user 1102's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Madonna
+2. Kylie Minogue
+3. Lady Gaga
+4. Rihanna
+5. Britney Spears
+6. M.I.A.
+7. Shakira
+8. Gwen Stefani
+9. Beyoncé
+10. Mariah Carey
+11. Leona Lewis
+12. Santigold
+13. Lily Allen
+14. Sophie Ellis-Bextor
+15. Nelly Furtado
+16. Goldfrapp
+17. Feist
+18. Sia
+19. Calvin Harris
+20. The Killers
+21. The Chemical Brothers
+22. Röyksopp
+23. Air
+24. Simian Mobile Disco
+25. The Ting Tings
+26. Cut Copy
+27. David Guetta
+28. Frankmusik
+29. Little Boots
+30. Yelle
+31. The Presets
+32. Hilary Duff
+33. Marina & the Diamonds
+34. La Roux
+35. Robyn
+36. Ellie Goulding
+37. Jessie J
+38. Katy Perry
+39. Christina Aguilera
+40. P!nk
+41. Nicki Minaj
+42. Kelly Rowland
+43. Jennifer Lopez
+44. Ciara
+45. Avril Lavigne
+46. MGMT
+47. Daft Punk
+48. Maroon 5
+49. Kings of Leon
+50. Brandon Flowers
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for the user to explore.

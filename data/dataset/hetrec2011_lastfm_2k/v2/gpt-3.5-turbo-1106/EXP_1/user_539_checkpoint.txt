@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. U2
+2. The Killers
+3. Placebo
+4. Duran Duran
+5. Oasis
+6. Radiohead
+7. Arctic Monkeys
+8. Florence + The Machine
+9. The Strokes
+10. Franz Ferdinand
+11. The Chemical Brothers
+12. Garbage
+13. The Smiths
+14. New Order
+15. Blur
+16. The Verve
+17. The White Stripes
+18. Kasabian
+19. The Libertines
+20. Interpol
+21. Bloc Party
+22. The Kooks
+23. Kaiser Chiefs
+24. The Fratellis
+25. The Hives
+26. The Bravery
+27. The Ting Tings
+28. The Wombats
+29. The Vaccines
+30. Two Door Cinema Club
+31. Foals
+32. Editors
+33. The Horrors
+34. The Pigeon Detectives
+35. The Zutons
+36. The Futureheads
+37. Maxïmo Park
+38. The Rakes
+39. The Cribs
+40. The Maccabees
+41. The Courteeners
+42. The View
+43. The Enemy
+44. The Twang
+45. The Rifles
+46. The Pains of Being Pure at Heart
+47. The Drums
+48. The Maccabees
+49. The Joy Formidable
+50. The Subways
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for potential discovery.

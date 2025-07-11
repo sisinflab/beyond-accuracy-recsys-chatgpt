@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Maze Runner by James Dashner
+2. Divergent by Veronica Roth
+3. The Giver by Lois Lowry
+4. The 5th Wave by Rick Yancey
+5. Delirium by Lauren Oliver
+6. The Selection by Kiera Cass
+7. Legend by Marie Lu
+8. The Host by Stephenie Meyer
+9. Shiver by Maggie Stiefvater
+10. The Darkest Minds by Alexandra Bracken
+11. The Lunar Chronicles by Marissa Meyer
+12. The Mortal Instruments by Cassandra Clare
+13. The Knife of Never Letting Go by Patrick Ness
+14. The Testing by Joelle Charbonneau
+15. The Uglies series by Scott Westerfeld
+16. The Maximum Ride series by James Patterson
+17. The Morganville Vampires series by Rachel Caine
+18. The Hunger Games series by Suzanne Collins
+19. The Twilight series by Stephenie Meyer
+20. The Dead and the Gone by Susan Beth Pfeffer
+21. The Gone series by Michael Grant
+22. The 100 by Kass Morgan
+23. The City of Ember by Jeanne DuPrau
+24. The Unwind Dystology by Neal Shusterman
+25. The Chaos Walking series by Patrick Ness
+26. The Lunar Chronicles by Marissa Meyer
+27. The Matched series by Ally Condie
+28. The Delirium series by Lauren Oliver
+29. The Legend series by Marie Lu
+30. The Shiver series by Maggie Stiefvater
+31. The Darkest Minds series by Alexandra Bracken
+32. The Maze Runner series by James Dashner
+33. The Divergent series by Veronica Roth
+34. The Giver series by Lois Lowry
+35. The 5th Wave series by Rick Yancey
+36. The Selection series by Kiera Cass
+37. The Host series by Stephenie Meyer
+38. The Mortal Instruments series by Cassandra Clare
+39. The Knife of Never Letting Go series by Patrick Ness
+40. The Testing series by Joelle Charbonneau
+41. The City of Ember series by Jeanne DuPrau
+42. The Unwind Dystology series by Neal Shusterman
+43. The Chaos Walking series by Patrick Ness
+44. The Matched series by Ally Condie
+45. The Delirium series by Lauren Oliver
+46. The Legend series by Marie Lu
+47. The Shiver series by Maggie Stiefvater
+48. The Darkest Minds series by Alexandra Bracken
+49. The Maze Runner series by James Dashner
+50. The Divergent series by Veronica Roth
+
+These recommendations are based on the user's interest in dystopian and supernatural young adult fiction.

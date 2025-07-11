@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Norwegian Wood by Haruki Murakami
+2. The Bell Jar by Sylvia Plath
+3. Never Let Me Go by Kazuo Ishiguro
+4. The Catcher in the Rye by J.D. Salinger
+5. The Secret History by Donna Tartt
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Virgin Suicides by Jeffrey Eugenides
+8. The Handmaid's Tale by Margaret Atwood
+9. White Teeth by Zadie Smith
+10. The Goldfinch by Donna Tartt
+11. The Night Circus by Erin Morgenstern
+12. The Shadow of the Wind by Carlos Ruiz Zafón
+13. The Name of the Wind by Patrick Rothfuss
+14. The Book Thief by Markus Zusak
+15. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+16. The Road by Cormac McCarthy
+17. Atonement by Ian McEwan
+18. The Kite Runner by Khaled Hosseini
+19. The Poisonwood Bible by Barbara Kingsolver
+20. The Lovely Bones by Alice Sebold
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Alchemist by Paulo Coelho
+23. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+24. The Glass Castle by Jeannette Walls
+25. The Help by Kathryn Stockett
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Hunger Games by Suzanne Collins
+28. The Martian by Andy Weir
+29. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+30. The Giver by Lois Lowry
+31. The Maze Runner by James Dashner
+32. The Perks of Being a Wallflower by Stephen Chbosky
+33. The Fault in Our Stars by John Green
+34. The Great Gatsby by F. Scott Fitzgerald
+35. To Kill a Mockingbird by Harper Lee
+36. 1984 by George Orwell
+37. Brave New World by Aldous Huxley
+38. Fahrenheit 451 by Ray Bradbury
+39. Slaughterhouse-Five by Kurt Vonnegut
+40. Catch-22 by Joseph Heller
+41. One Hundred Years of Solitude by Gabriel García Márquez
+42. Beloved by Toni Morrison
+43. The Handmaid's Tale by Margaret Atwood
+44. The Road by Cormac McCarthy
+45. The Kite Runner by Khaled Hosseini
+46. The Poisonwood Bible by Barbara Kingsolver
+47. The Lovely Bones by Alice Sebold
+48. The Time Traveler's Wife by Audrey Niffenegger
+49. The Alchemist by Paulo Coelho
+50. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+
+These recommendations are based on the user's interest in contemporary fiction, classic literature, and speculative fiction.

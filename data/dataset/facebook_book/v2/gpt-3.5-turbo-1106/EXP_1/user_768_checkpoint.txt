@@ -1,0 +1,54 @@
+Based on the preferences of user 768, here are the top 50 book recommendations:
+
+1. Shiver (The Wolves of Mercy Falls) by Maggie Stiefvater
+2. Linger (The Wolves of Mercy Falls) by Maggie Stiefvater
+3. Forever (The Wolves of Mercy Falls) by Maggie Stiefvater
+4. Blue Lily, Lily Blue (The Raven Cycle) by Maggie Stiefvater
+5. The Raven King (The Raven Cycle) by Maggie Stiefvater
+6. White Cat (The Curse Workers) by Holly Black
+7. Red Glove (The Curse Workers) by Holly Black
+8. Black Heart (The Curse Workers) by Holly Black
+9. The Diva Cooks a Goose (Domestic Diva Mystery) by Krista Davis
+10. The Diva Wraps It Up (Domestic Diva Mystery) by Krista Davis
+11. The Diva Takes the Cake (Domestic Diva Mystery) by Krista Davis
+12. Bitterblue (Graceling Realm) by Kristin Cashore
+13. Winterkeep (Graceling Realm) by Kristin Cashore
+14. Jane, Unlimited by Kristin Cashore
+15. The Eye of Minds (The Mortality Doctrine) by James Dashner
+16. The Rule of Thoughts (The Mortality Doctrine) by James Dashner
+17. The Game of Lives (The Mortality Doctrine) by James Dashner
+18. The Lucky One by Nicholas Sparks
+19. A Walk to Remember by Nicholas Sparks
+20. The Notebook by Nicholas Sparks
+21. Rules of Attraction (Perfect Chemistry) by Simone Elkeles
+22. Chain Reaction (Perfect Chemistry) by Simone Elkeles
+23. Better Than Perfect by Simone Elkeles
+24. The Ballad of Songbirds and Snakes (A Hunger Games Novel) by Suzanne Collins
+25. Mockingjay (The Hunger Games) by Suzanne Collins
+26. The Ballad of Songbirds and Snakes (A Hunger Games Novel) by Suzanne Collins
+27. Where She Went (If I Stay) by Gayle Forman
+28. Just One Day by Gayle Forman
+29. I Was Here by Gayle Forman
+30. Fire (Graceling Realm) by Kristin Cashore
+31. Bitterblue (Graceling Realm) by Kristin Cashore
+32. Winterkeep (Graceling Realm) by Kristin Cashore
+33. Pretties (Uglies) by Scott Westerfeld
+34. Specials (Uglies) by Scott Westerfeld
+35. Extras (Uglies) by Scott Westerfeld
+36. The Selection by Kiera Cass
+37. The 5th Wave by Rick Yancey
+38. Legend by Marie Lu
+39. Divergent by Veronica Roth
+40. The Fault in Our Stars by John Green
+41. The Perks of Being a Wallflower by Stephen Chbosky
+42. Eleanor & Park by Rainbow Rowell
+43. To All the Boys I've Loved Before by Jenny Han
+44. The Sun Is Also a Star by Nicola Yoon
+45. Everything, Everything by Nicola Yoon
+46. An Abundance of Katherines by John Green
+47. Paper Towns by John Green
+48. Looking for Alaska by John Green
+49. Turtles All the Way Down by John Green
+50. The Maze Runner by James Dashner
+
+These recommendations are based on the similar themes, authors, and genres of the books that user 768 likes.

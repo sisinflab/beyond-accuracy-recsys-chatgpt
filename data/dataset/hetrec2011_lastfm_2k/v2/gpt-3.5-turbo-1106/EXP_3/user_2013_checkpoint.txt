@@ -1,0 +1,54 @@
+Based on user 2013's preferences, here are the top-50 recommendations for the user:
+
+1. The Smashing Pumpkins
+2. Kings of Leon
+3. Florence + the Machine
+4. Panic! At the Disco
+5. System of a Down
+6. Belle and Sebastian
+7. U2
+8. The Offspring
+9. Paramore
+10. Yeah Yeah Yeahs
+11. Queen
+12. Foo Fighters
+13. Simple Plan
+14. Garbage
+15. The Subways
+16. Hoobastank
+17. Bloc Party
+18. Depeche Mode
+19. Audioslave
+20. Blood Red Shoes
+21. The Wombats
+22. Kate Nash
+23. Nickelback
+24. Enter Shikari
+25. Arcade Fire
+26. IAMX
+27. Maxïmo Park
+28. In Flames
+29. of Montreal
+30. Sara Bareilles
+31. The Libertines
+32. Dirty Pretty Things
+33. Christina Aguilera
+34. Korn
+35. Papa Roach
+36. Los Campesinos!
+37. Linkin Park
+38. Noize MC
+39. The Offspring
+40. Three Days Grace
+41. Yeah Yeah Yeahs
+42. Queen
+43. Foo Fighters
+44. Simple Plan
+45. Garbage
+46. The Subways
+47. Dolphin
+48. Hoobastank
+49. Justice
+50. Jack Johnson
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

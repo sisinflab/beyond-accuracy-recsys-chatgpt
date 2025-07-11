@@ -1,0 +1,54 @@
+Based on the preferences of user 1299, here are the top 50 book recommendations:
+
+1. The Hate U Give by Angie Thomas
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. Gone Girl by Gillian Flynn
+4. The Girl on the Train by Paula Hawkins
+5. Sharp Objects by Gillian Flynn
+6. The Secret History by Donna Tartt
+7. Big Little Lies by Liane Moriarty
+8. The Night Circus by Erin Morgenstern
+9. The Goldfinch by Donna Tartt
+10. The Silent Patient by Alex Michaelides
+11. The Wife Between Us by Greer Hendricks and Sarah Pekkanen
+12. The Woman in the Window by A.J. Finn
+13. The Girl in the Ice by Robert Bryndza
+14. The Couple Next Door by Shari Lapena
+15. The Last Mrs. Parrish by Liv Constantine
+16. The Lying Game by Ruth Ware
+17. The Good Girl by Mary Kubica
+18. The Girl Before by J.P. Delaney
+19. The Dry by Jane Harper
+20. The Chalk Man by C.J. Tudor
+21. The Wife by Alafair Burke
+22. The Other Woman by Sandie Jones
+23. The Death of Mrs. Westaway by Ruth Ware
+24. The Turn of the Key by Ruth Ware
+25. The Family Upstairs by Lisa Jewell
+26. The Last Time I Lied by Riley Sager
+27. The Woman in Cabin 10 by Ruth Ware
+28. The Girl Who Lived by Christopher Greyson
+29. The Girl in the Spider's Web by David Lagercrantz
+30. The Girl Before by Rena Olsen
+31. The Girl Before by J.P. Delaney
+32. The Girl Who Was Taken by Charlie Donlea
+33. The Girl Who Came Back by Kerry Wilkinson
+34. The Girl Who Knew Too Much by Amanda Quick
+35. The Girl Who Disappeared by James Lingard
+36. The Girl Who Lied by Sue Fortin
+37. The Girl Who Dared to Think by Bella Forrest
+38. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+39. The Girl Who Wrote in Silk by Kelli Estes
+40. The Girl Who Chased the Moon by Sarah Addison Allen
+41. The Girl Who Was Saturday Night by Heather O'Neill
+42. The Girl Who Fell from the Sky by Heidi W. Durrow
+43. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+44. The Girl Who Played with Fire by Stieg Larsson
+45. The Girl Who Drank the Moon by Kelly Barnhill
+46. The Girl Who Smiled Beads by Clemantine Wamariya
+47. The Girl Who Came Home by Hazel Gaynor
+48. The Girl Who Saved the King of Sweden by Jonas Jonasson
+49. The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making by Catherynne M. Valente
+50. The Girl Who Could Move Sh*t with Her Mind by Jackson Ford
+
+These recommendations are based on the genres and themes of the books that user 1299 has enjoyed.

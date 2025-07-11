@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. The Stand by Stephen King
+3. Animal Farm by George Orwell
+4. The Hobbit by J.R.R. Tolkien
+5. Atlas Shrugged by Ayn Rand
+6. The Great Hunt by Robert Jordan
+7. Pale Fire by Vladimir Nabokov
+8. Anna Karenina by Leo Tolstoy
+9. The Shining by Stephen King
+10. To Kill a Mockingbird by Harper Lee
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. The Catcher in the Rye by J.D. Salinger
+13. The Grapes of Wrath by John Steinbeck
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Road by Cormac McCarthy
+16. The Idiot by Fyodor Dostoyevsky
+17. Misery by Stephen King
+18. 1984 by George Orwell
+19. The Silmarillion by J.R.R. Tolkien
+20. Anthem by Ayn Rand
+21. The Eye of the World by Robert Jordan
+22. Lolita by Vladimir Nabokov
+23. Anna Karenina by Leo Tolstoy
+24. The Dark Tower series by Stephen King
+25. The Sound and the Fury by William Faulkner
+26. The Stranger by Albert Camus
+27. The Old Man and the Sea by Ernest Hemingway
+28. The Book Thief by Markus Zusak
+29. The Master and Margarita by Mikhail Bulgakov
+30. The Wind-Up Bird Chronicle by Haruki Murakami
+31. The Name of the Wind by Patrick Rothfuss
+32. The Bell Jar by Sylvia Plath
+33. The Road by Cormac McCarthy
+34. The Brothers by Stephen Kinzer
+35. The Metamorphosis by Franz Kafka
+36. The Unbearable Lightness of Being by Milan Kundera
+37. The Plague by Albert Camus
+38. The Trial by Franz Kafka
+39. The Stranger by Albert Camus
+40. The Old Man and the Sea by Ernest Hemingway
+41. The Book Thief by Markus Zusak
+42. The Master and Margarita by Mikhail Bulgakov
+43. The Wind-Up Bird Chronicle by Haruki Murakami
+44. The Name of the Wind by Patrick Rothfuss
+45. The Bell Jar by Sylvia Plath
+46. The Road by Cormac McCarthy
+47. The Brothers by Stephen Kinzer
+48. The Metamorphosis by Franz Kafka
+49. The Unbearable Lightness of Being by Milan Kundera
+50. The Plague by Albert Camus
+
+These recommendations are based on similar themes, authors, and genres to the books that user 1151 likes.

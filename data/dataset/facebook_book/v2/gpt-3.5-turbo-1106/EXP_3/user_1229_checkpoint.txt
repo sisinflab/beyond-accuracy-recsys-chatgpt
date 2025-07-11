@@ -1,0 +1,52 @@
+Based on user 1229's preferences, here are the top-50 book recommendations:
+
+1. The Picture of Dorian Gray
+2. A Tale of Two Cities
+3. The Handmaid's Tale
+4. Dune (novel)
+5. The Count of Monte Cristo
+6. The Grapes of Wrath
+7. The Giver
+8. Angels & Demons
+9. The Legend of Sleepy Hollow
+10. Don Quixote
+11. Great Expectations
+12. The Old Man and the Sea
+13. Tess of the d'Urbervilles
+14. The Little Prince
+15. Brave New World
+16. Ender's Game
+17. Nineteen Eighty-Four
+18. The Hobbit
+19. Crime and Punishment
+20. The Lord of the Rings
+21. The Chosen (Potok novel)
+22. Holes (novel)
+23. The Phantom Tollbooth
+24. The Watchmen (novel)
+25. Inkheart
+26. City of Ashes
+27. The Hamlet
+28. Cirque du Freak
+29. Inkspell
+30. Alice's Adventures in Wonderland
+31. The Hatchet (novel)
+32. The Good Earth
+33. The Stand
+34. The Trumpet of the Swan
+35. Son of a Witch
+36. A Midsummer Night's Dream
+37. The New Jedi Order
+38. Peter and Wendy
+39. Fushigi Yûgi
+40. The Last Storytellers: Tales from the Heart of Morocco
+41. Black Beauty
+42. Ranger's Apprentice
+43. The Solitaire Mystery
+44. A Lion Among Men
+45. The Lottery
+46. Le Morte d'Arthur
+47. Franny and Zooey
+48. Skeleton Creek (novel)
+49. Anne of Green Gables
+50. The Hitchhiker's Guide to the Galaxy (novel)

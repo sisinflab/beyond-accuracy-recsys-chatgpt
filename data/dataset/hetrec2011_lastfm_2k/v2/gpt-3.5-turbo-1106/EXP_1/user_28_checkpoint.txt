@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. A Flock of Seagulls
+2. Orchestral Manoeuvres in the Dark
+3. Visage
+4. Blancmange
+5. Heaven 17
+6. Soft Cell
+7. The Fixx
+8. Howard Jones
+9. Thomas Dolby
+10. The Psychedelic Furs
+11. Echo & the Bunnymen
+12. The Cure
+13. Siouxsie and the Banshees
+14. The Smiths
+15. Joy Division
+16. The Jesus and Mary Chain
+17. Cocteau Twins
+18. The Chameleons
+19. The Church
+20. The Sound
+21. The Teardrop Explodes
+22. The B-52's
+23. Talking Heads
+24. The Cars
+25. Blondie
+26. The Go-Go's
+27. The Bangles
+28. The Pretenders
+29. The Police
+30. INXS
+31. Simple Plan
+32. Good Charlotte
+33. Yellowcard
+34. All Time Low
+35. The All-American Rejects
+36. Boys Like Girls
+37. We the Kings
+38. Mayday Parade
+39. The Maine
+40. Forever the Sickest Kids
+41. Cartel
+42. Valencia
+43. Hit the Lights
+44. Every Avenue
+45. The Summer Set
+46. The Downtown Fiction
+47. Artist Vs Poet
+48. The Friday Night Boys
+49. The Cab
+50. Sing It Loud
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,52 @@
+Based on user 1006's preferences, here are the top 50 book recommendations for them:
+
+1. Mere Christianity by C.S. Lewis
+2. Dracula by Bram Stoker
+3. The Lord of the Rings by J.R.R. Tolkien
+4. Pride and Prejudice by Jane Austen
+5. Small Gods by Terry Pratchett
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. Sabriel by Garth Nix
+8. Brisingr by Christopher Paolini
+9. Great Expectations by Charles Dickens
+10. The Time Traveler's Wife by Audrey Niffenegger
+11. Vampire Academy by Richelle Mead
+12. The War of the Worlds by H.G. Wells
+13. I Am Legend by Richard Matheson
+14. His Dark Materials by Philip Pullman
+15. Romeo and Juliet by William Shakespeare
+16. Charlie and the Chocolate Factory by Roald Dahl
+17. The Song of the Lioness by Tamora Pierce
+18. Slaughterhouse-Five by Kurt Vonnegut
+19. Sense and Sensibility by Jane Austen
+20. Uglies by Scott Westerfeld
+21. Night by Elie Wiesel
+22. The Hunger Games by Suzanne Collins
+23. Abhorsen by Garth Nix
+24. Cirque du Freak by Darren Shan
+25. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+26. The Lovely Bones by Alice Sebold
+27. Spud by John van de Ruit
+28. Catch-22 by Joseph Heller
+29. Lord of the Flies by William Golding
+30. Code to Zero by Ken Follett
+31. Micah by Laurell K. Hamilton
+32. Animal Farm by George Orwell
+33. Twilight Eyes by Dean Koontz
+34. The Servants of Twilight by Dean Koontz
+35. Burnt Offerings by Laurell K. Hamilton
+36. The 5th Horseman by Maxine Paetro, James Patterson
+37. Wild Magic by Tamora Pierce
+38. A Series of Unfortunate Events by Lemony Snicket
+39. The Last Hero by Terry Pratchett
+40. Halo: Contact Harvest by Joseph Staten
+41. Civil War by Mark Millar
+42. Matilda by Roald Dahl
+43. Cecilia by Fanny Burney
+44. Jane Eyre by Charlotte Brontë
+45. Alice's Adventures in Wonderland by Lewis Carroll
+46. The Mayor of Casterbridge by Thomas Hardy
+47. Witch & Wizard by James Patterson
+48. The Prince by Niccolò Machiavelli
+49. The Fire Within by Chris d'Lacey
+50. Kitchen Princess by Miyuki Kobayashi

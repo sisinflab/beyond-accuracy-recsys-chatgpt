@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. Brave New World by Aldous Huxley
+5. The Catcher in the Rye by J.D. Salinger
+6. Beloved by Toni Morrison
+7. The Grapes of Wrath by John Steinbeck
+8. The Road by Cormac McCarthy
+9. The Kite Runner by Khaled Hosseini
+10. The Book Thief by Markus Zusak
+11. The Alchemist by Paulo Coelho
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Bell Jar by Sylvia Plath
+14. The Sun Also Rises by Ernest Hemingway
+15. A Farewell to Arms by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Sound and the Fury by William Faulkner
+18. As I Lay Dying by William Faulkner
+19. Absalom, Absalom! by William Faulkner
+20. One Flew Over the Cuckoo's Nest by Ken Kesey
+21. Slaughterhouse-Five by Kurt Vonnegut
+22. Cat's Cradle by Kurt Vonnegut
+23. The Handmaid's Tale by Margaret Atwood
+24. Alias Grace by Margaret Atwood
+25. The Blind Assassin by Margaret Atwood
+26. The Testaments by Margaret Atwood
+27. Midnight's Children by Salman Rushdie
+28. Shame by Salman Rushdie
+29. The Moor's Last Sigh by Salman Rushdie
+30. One Hundred Years of Solitude by Gabriel García Márquez
+31. Love in the Time of Cholera by Gabriel García Márquez
+32. Chronicle of a Death Foretold by Gabriel García Márquez
+33. Rebecca by Daphne du Maurier
+34. Jamaica Inn by Daphne du Maurier
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. Her Fearful Symmetry by Audrey Niffenegger
+37. King Leary by Paul Quarrington
+38. Whale Music by Paul Quarrington
+39. The Ravine by Paul Quarrington
+40. Our Mutual Friend by Charles Dickens
+41. Bleak House by Charles Dickens
+42. Little Dorrit by Charles Dickens
+43. Othello by William Shakespeare
+44. Hamlet by William Shakespeare
+45. Macbeth by William Shakespeare
+46. King Lear by William Shakespeare
+47. The Tempest by William Shakespeare
+48. A Midsummer Night's Dream by William Shakespeare
+49. Romeo and Juliet by William Shakespeare
+50. Julius Caesar by William Shakespeare
+
+These recommendations are based on the user's liking for similar authors and genres.

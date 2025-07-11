@@ -1,0 +1,54 @@
+Based on user 166's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Radiohead
+2. Björk
+3. Sigur Rós
+4. David Bowie
+5. The Cure
+6. Kate Bush
+7. Fleet Foxes
+8. Grizzly Bear
+9. Florence + the Machine
+10. Arcade Fire
+11. Neutral Milk Hotel
+12. The xx
+13. Bon Iver
+14. Antony and the Johnsons
+15. The New Pornographers
+16. The Magnetic Fields
+17. Beach House
+18. The Smiths
+19. Manic Street Preachers
+20. Placebo
+21. Band of Horses
+22. Pixies
+23. Pavement
+24. Gogol Bordello
+25. Fleetwood Mac
+26. Alphabeat
+27. Girl Talk
+28. Alizée
+29. Slash
+30. Feist
+31. Jack Johnson
+32. Van Morrison
+33. Chris Cornell
+34. Gorillaz
+35. Belle and Sebastian
+36. Marillion
+37. Andrew Bird
+38. Guns N' Roses
+39. The Beatles
+40. Bruce Springsteen
+41. Elvis Costello
+42. Tom Waits
+43. Matisyahu
+44. The Killers
+45. Alanis Morissette
+46. Type O Negative
+47. Kanye West
+48. Coldplay
+49. Archive
+50. Genesis
+
+These recommendations are based on similar genres, themes, and styles to the user's listed preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Parkway Drive
+2. A Day to Remember
+3. The Devil Wears Prada
+4. Silverstein
+5. Beartooth
+6. Underoath
+7. The Amity Affliction
+8. Atreyu
+9. Memphis May Fire
+10. Architects
+11. Bring Me The Horizon
+12. Alexisonfire
+13. Thrice
+14. Every Time I Die
+15. Norma Jean
+16. The Used
+17. Story of the Year
+18. Taking Back Sunday
+19. Thursday
+20. Saosin
+21. From First to Last
+22. Dance Gavin Dance
+23. Chiodos
+24. Emarosa
+25. Hands Like Houses
+26. I See Stars
+27. The Word Alive
+28. Blessthefall
+29. Of Mice & Men
+30. Crown the Empire
+31. Issues
+32. Woe, Is Me
+33. Secrets
+34. I Prevail
+35. Set It Off
+36. Tonight Alive
+37. State Champs
+38. Neck Deep
+39. Real Friends
+40. The Wonder Years
+41. Knuckle Puck
+42. Seaway
+43. The Story So Far
+44. Citizen
+45. Basement
+46. Title Fight
+47. Balance and Composure
+48. Turnover
+49. La Dispute
+50. Pianos Become the Teeth
+
+These recommendations are based on the user's liking of similar artists and genres.

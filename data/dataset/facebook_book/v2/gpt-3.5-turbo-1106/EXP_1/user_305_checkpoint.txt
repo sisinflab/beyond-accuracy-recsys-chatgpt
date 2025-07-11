@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. The Alchemist by Paulo Coelho
+3. The Secret History by Donna Tartt
+4. The Shadow of the Wind by Carlos Ruiz Zafón
+5. The Name of the Wind by Patrick Rothfuss
+6. The Night Circus by Erin Morgenstern
+7. American Gods by Neil Gaiman
+8. The Goldfinch by Donna Tartt
+9. The Historian by Elizabeth Kostova
+10. The Giver by Lois Lowry
+11. The Handmaid's Tale by Margaret Atwood
+12. The Martian by Andy Weir
+13. The Hunger Games by Suzanne Collins
+14. Dune by Frank Herbert
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Road by Cormac McCarthy
+17. The Stand by Stephen King
+18. The Shining by Stephen King
+19. The Catcher in the Rye by J.D. Salinger
+20. 1984 by George Orwell
+21. Fahrenheit 451 by Ray Bradbury
+22. Slaughterhouse-Five by Kurt Vonnegut
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. Ender's Game by Orson Scott Card
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Book Thief by Markus Zusak
+27. The Kite Runner by Khaled Hosseini
+28. The Help by Kathryn Stockett
+29. The Great Gatsby by F. Scott Fitzgerald
+30. To Kill a Mockingbird by Harper Lee
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Count of Monte Cristo by Alexandre Dumas
+33. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+34. The Da Vinci Code by Dan Brown
+35. The Girl on the Train by Paula Hawkins
+36. Gone Girl by Gillian Flynn
+37. The Girl in the Spider's Web by David Lagercrantz
+38. The Maze Runner by James Dashner
+39. The Hunger Games by Suzanne Collins
+40. The Road by Cormac McCarthy
+41. The Stand by Stephen King
+42. The Shining by Stephen King
+43. The Catcher in the Rye by J.D. Salinger
+44. 1984 by George Orwell
+45. Fahrenheit 451 by Ray Bradbury
+46. Slaughterhouse-Five by Kurt Vonnegut
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. Ender's Game by Orson Scott Card
+49. The Time Traveler's Wife by Audrey Niffenegger
+50. The Book Thief by Markus Zusak
+
+These recommendations are based on the user's interest in fantasy, science fiction, and psychological thrillers.

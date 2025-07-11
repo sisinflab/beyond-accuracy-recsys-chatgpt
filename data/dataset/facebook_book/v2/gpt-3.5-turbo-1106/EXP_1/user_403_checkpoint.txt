@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Impulse by Ellen Hopkins
+2. Identical by Ellen Hopkins
+3. Tilt by Ellen Hopkins
+4. Fallout by Ellen Hopkins
+5. Perfect by Ellen Hopkins
+6. Uglies by Scott Westerfeld
+7. Specials by Scott Westerfeld
+8. Extras by Scott Westerfeld
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. It's Kind of a Funny Story by Ned Vizzini
+11. Thirteen Reasons Why by Jay Asher
+12. Wintergirls by Laurie Halse Anderson
+13. Speak by Laurie Halse Anderson
+14. Cut by Patricia McCormick
+15. Willow by Julia Hoban
+16. Cracked by K. M. Walton
+17. Girl, Interrupted by Susanna Kaysen
+18. The Bell Jar by Sylvia Plath
+19. Prozac Nation by Elizabeth Wurtzel
+20. The Virgin Suicides by Jeffrey Eugenides
+21. The Lovely Bones by Alice Sebold
+22. Sharp Objects by Gillian Flynn
+23. Dark Places by Gillian Flynn
+24. Gone Girl by Gillian Flynn
+25. The Girl on the Train by Paula Hawkins
+26. Before I Fall by Lauren Oliver
+27. Delirium by Lauren Oliver
+28. Pandemonium by Lauren Oliver
+29. Requiem by Lauren Oliver
+30. The Maze Runner by James Dashner
+31. The Hunger Games by Suzanne Collins
+32. Catching Fire by Suzanne Collins
+33. Mockingjay by Suzanne Collins
+34. Divergent by Veronica Roth
+35. Insurgent by Veronica Roth
+36. Allegiant by Veronica Roth
+37. The Fault in Our Stars by John Green
+38. Looking for Alaska by John Green
+39. Paper Towns by John Green
+40. An Abundance of Katherines by John Green
+41. Will Grayson, Will Grayson by John Green
+42. Every Day by David Levithan
+43. Another Day by David Levithan
+44. All the Bright Places by Jennifer Niven
+45. Eleanor & Park by Rainbow Rowell
+46. Fangirl by Rainbow Rowell
+47. Landline by Rainbow Rowell
+48. Attachments by Rainbow Rowell
+49. Carry On by Rainbow Rowell
+50. Wayward Son by Rainbow Rowell
+
+These recommendations are based on the user's interest in young adult fiction, contemporary novels, and books with themes of addiction, mental health, and coming-of-age.

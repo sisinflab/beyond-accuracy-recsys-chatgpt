@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Opeth
+2. Mastodon
+3. Tool
+4. Porcupine Tree
+5. Gojira
+6. Symphony X
+7. Between the Buried and Me
+8. Riverside
+9. Haken
+10. Devin Townsend Project
+11. The Mars Volta
+12. Tesseract
+13. Baroness
+14. Coheed and Cambria
+15. Karnivool
+16. Animals as Leaders
+17. Periphery
+18. The Dillinger Escape Plan
+19. Cynic
+20. Meshuggah
+21. Leprous
+22. The Ocean
+23. Ne Obliviscaris
+24. Soen
+25. Caligula's Horse
+26. Pain of Salvation
+27. Rishloo
+28. Katatonia
+29. The Contortionist
+30. Cult of Luna
+31. Intronaut
+32. The Dear Hunter
+33. Oceansize
+34. Long Distance Calling
+35. Vola
+36. Agent Fresco
+37. The Pineapple Thief
+38. Anathema
+39. Leprous
+40. Steven Wilson
+41. The Gathering
+42. Alcest
+43. Anathema
+44. Soen
+45. Katatonia
+46. The Contortionist
+47. The Dear Hunter
+48. Oceansize
+49. Long Distance Calling
+50. Vola

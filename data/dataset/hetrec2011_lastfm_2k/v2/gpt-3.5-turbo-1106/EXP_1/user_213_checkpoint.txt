@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. Nirvana
+3. Foo Fighters
+4. Green Day
+5. Pearl Jam
+6. Soundgarden
+7. Alice in Chains
+8. Nine Inch Nails
+9. The Smashing Pumpkins
+10. Radiohead
+11. Rammstein
+12. Tool
+13. Pantera
+14. Slipknot
+15. System of a Down
+16. Korn
+17. Rage Against the Machine
+18. Limp Bizkit
+19. Marilyn Manson
+20. Deftones
+21. Disturbed
+22. Papa Roach
+23. Seether
+24. Breaking Benjamin
+25. Three Days Grace
+26. Chevelle
+27. Shinedown
+28. Stone Sour
+29. Avenged Sevenfold
+30. Bullet for My Valentine
+31. Trivium
+32. Five Finger Death Punch
+33. Bring Me The Horizon
+34. Parkway Drive
+35. Architects
+36. A Day to Remember
+37. Atreyu
+38. Killswitch Engage
+39. All That Remains
+40. August Burns Red
+41. As I Lay Dying
+42. Lamb of God
+43. Meshuggah
+44. Gojira
+45. Mastodon
+46. Opeth
+47. Between the Buried and Me
+48. The Dillinger Escape Plan
+49. Converge
+50. Every Time I Die
+
+These recommendations are based on the user's liking of similar artists and genres.

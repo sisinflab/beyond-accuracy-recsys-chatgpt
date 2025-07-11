@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Glass Castle by Jeannette Walls
+2. The Kite Runner by Khaled Hosseini
+3. The Book Thief by Markus Zusak
+4. The Perks of Being a Wallflower by Stephen Chbosky
+5. The Road by Cormac McCarthy
+6. The Lovely Bones by Alice Sebold
+7. The Secret Life of Bees by Sue Monk Kidd
+8. The Help by Kathryn Stockett
+9. The Alchemist by Paulo Coelho
+10. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+11. The Girl on the Train by Paula Hawkins
+12. The Night Circus by Erin Morgenstern
+13. The Goldfinch by Donna Tartt
+14. The Handmaid's Tale by Margaret Atwood
+15. The Martian by Andy Weir
+16. The Hunger Games by Suzanne Collins
+17. The Fault in Our Stars by John Green
+18. The Da Vinci Code by Dan Brown
+19. The Catcher Was a Spy by Nicholas Dawidoff
+20. The Sun Also Rises by Ernest Hemingway
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Bell Jar by Sylvia Plath
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Stranger by Albert Camus
+25. The Road Less Traveled by M. Scott Peck
+26. The Shining by Stephen King
+27. The Stand by Stephen King
+28. The Hobbit by J.R.R. Tolkien
+29. The Lord of the Rings by J.R.R. Tolkien
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Handmaid's Tale by Margaret Atwood
+33. The Great Alone by Kristin Hannah
+34. The Nightingale by Kristin Hannah
+35. The Silent Patient by Alex Michaelides
+36. The Tattooist of Auschwitz by Heather Morris
+37. The Night Circus by Erin Morgenstern
+38. The Goldfinch by Donna Tartt
+39. The Help by Kathryn Stockett
+40. The Secret Life of Bees by Sue Monk Kidd
+41. The Lovely Bones by Alice Sebold
+42. The Road by Cormac McCarthy
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. The Book Thief by Markus Zusak
+45. The Kite Runner by Khaled Hosseini
+46. The Glass Castle by Jeannette Walls
+47. The Joy Luck Club by Amy Tan
+48. The Color Purple by Alice Walker
+49. The Poisonwood Bible by Barbara Kingsolver
+50. The Handmaid's Tale by Margaret Atwood
+
+These recommendations are based on the user's preference for contemporary fiction, classic literature, and memoirs.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. Revolution 2020 by Chetan Bhagat
+4. The Alchemist by Paulo Coelho
+5. The Kite Runner by Khaled Hosseini
+6. New Moon (Twilight series) by Stephenie Meyer
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Godfather by Mario Puzo
+9. The Girl on the Train by Paula Hawkins
+10. Gone Girl by Gillian Flynn
+11. Origin by Dan Brown
+12. Half Girlfriend by Chetan Bhagat
+13. Eleven Minutes by Paulo Coelho
+14. And the Mountains Echoed by Khaled Hosseini
+15. Eclipse (Twilight series) by Stephenie Meyer
+16. The Lost World by Michael Crichton
+17. The Godfather Returns by Mark Winegardner
+18. The Girl Who Played with Fire by Stieg Larsson
+19. The Godfather's Revenge by Mark Winegardner
+20. The Witch of Portobello by Paulo Coelho
+21. The Casual Vacancy by J.K. Rowling
+22. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+23. The Godfather's Daughter by Mark Winegardner
+24. The Winner Stands Alone by Paulo Coelho
+25. The Cuckoo's Calling by Robert Galbraith (J.K. Rowling)
+26. The Girl in the Spider's Web by David Lagercrantz
+27. The Godfather's Family Album by Paul Duncan
+28. The Valkyries by Paulo Coelho
+29. The Silkworm by Robert Galbraith (J.K. Rowling)
+30. The Godfather Papers by Mario Puzo
+31. The Fifth Mountain by Paulo Coelho
+32. The Godfather's Revenge by Mario Puzo
+33. The Godfather's Legacy by Harlan Lebo
+34. The Godfather's Revenge by Mark Winegardner
+35. The Godfather's Revenge by Mark Winegardner
+36. The Godfather's Revenge by Mark Winegardner
+37. The Godfather's Revenge by Mark Winegardner
+38. The Godfather's Revenge by Mark Winegardner
+39. The Godfather's Revenge by Mark Winegardner
+40. The Godfather's Revenge by Mark Winegardner
+41. The Godfather's Revenge by Mark Winegardner
+42. The Godfather's Revenge by Mark Winegardner
+43. The Godfather's Revenge by Mark Winegardner
+44. The Godfather's Revenge by Mark Winegardner
+45. The Godfather's Revenge by Mark Winegardner
+46. The Godfather's Revenge by Mark Winegardner
+47. The Godfather's Revenge by Mark Winegardner
+48. The Godfather's Revenge by Mark Winegardner
+49. The Godfather's Revenge by Mark Winegardner
+50. The Godfather's Revenge by Mark Winegardner
+
+These recommendations are based on the user's liking for books by Dan Brown, Chetan Bhagat, Paulo Coelho, Khaled Hosseini, Sidney Sheldon, and Mario Puzo.

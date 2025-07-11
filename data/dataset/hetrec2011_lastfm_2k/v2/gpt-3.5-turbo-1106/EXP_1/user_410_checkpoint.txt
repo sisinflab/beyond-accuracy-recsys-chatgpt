@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Cobra Starship
+2. Mayday Parade
+3. The Ready Set
+4. Cute Is What We Aim For
+5. The Cab
+6. A Rocket to the Moon
+7. Cartel
+8. Every Avenue
+9. The Academy Is...
+10. Motion City Soundtrack
+11. The All-American Rejects
+12. Plain White T's
+13. Hey Monday
+14. The Downtown Fiction
+15. The Summer Obsession
+16. The Friday Night Boys
+17. The Red Jumpsuit Apparatus
+18. The Click Five
+19. Valencia
+20. The Spill Canvas
+21. The Starting Line
+22. The Early November
+23. Hit the Lights
+24. The Audition
+25. The Hush Sound
+26. The Secret Handshake
+27. The White Tie Affair
+28. The Morning Light
+29. The Afters
+30. The Veronicas
+31. The New Cities
+32. The Midway State
+33. The New Cities
+34. The Veronicas
+35. The Downtown Fiction
+36. The Summer Obsession
+37. The Friday Night Boys
+38. The Red Jumpsuit Apparatus
+39. The Click Five
+40. Valencia
+41. The Spill Canvas
+42. The Starting Line
+43. The Early November
+44. Hit the Lights
+45. The Audition
+46. The Hush Sound
+47. The Secret Handshake
+48. The White Tie Affair
+49. The Morning Light
+50. The Afters
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of similar music for the user to explore.

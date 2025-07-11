@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Portishead
+2. M83
+3. Air
+4. The xx
+5. Bonobo
+6. London Grammar
+7. Elbow
+8. Röyksopp
+9. The National
+10. Interpol
+11. The War on Drugs
+12. Explosions in the Sky
+13. Beach House
+14. The Antlers
+15. Mogwai
+16. Editors
+17. The Horrors
+18. Wild Beasts
+19. Daughter
+20. Grizzly Bear
+21. Chromatics
+22. Tycho
+23. Warpaint
+24. The Radio Dept.
+25. Mew
+26. The Notwist
+27. Blonde Redhead
+28. The Cinematic Orchestra
+29. The Album Leaf
+30. Hammock
+31. This Will Destroy You
+32. God Is An Astronaut
+33. Cigarettes After Sex
+34. The Twilight Sad
+35. Frightened Rabbit
+36. The Joy Formidable
+37. The Naked and Famous
+38. The Raveonettes
+39. School of Seven Bells
+40. A Place to Bury Strangers
+41. The Big Pink
+42. The Pains of Being Pure at Heart
+43. The Soft Moon
+44. A Sunny Day in Glasgow
+45. Asobi Seksu
+46. The Mary Onettes
+47. The Radio Dept.
+48. The Depreciation Guild
+49. The Field Mice
+50. The Radio Dept.
+
+These recommendations are based on the user's liking of similar artists and genres.

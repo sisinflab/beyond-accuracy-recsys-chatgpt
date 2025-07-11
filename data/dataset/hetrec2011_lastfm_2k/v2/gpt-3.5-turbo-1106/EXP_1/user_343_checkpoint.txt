@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Slayer
+2. Anthrax
+3. Testament
+4. Pantera
+5. Sepultura
+6. Exodus
+7. Kreator
+8. Overkill
+9. Saxon
+10. Motorhead
+11. Venom
+12. Mercyful Fate
+13. Sodom
+14. Destruction
+15. Annihilator
+16. Helloween
+17. Blind Guardian
+18. Stratovarius
+19. HammerFall
+20. Sabaton
+21. Sonata Arctica
+22. Nightwish
+23. Epica
+24. Within Temptation
+25. Delain
+26. After Forever
+27. Kamelot
+28. Symphony X
+29. Dream Theater
+30. Opeth
+31. Porcupine Tree
+32. Tool
+33. Mastodon
+34. Gojira
+35. Lamb of God
+36. Trivium
+37. Killswitch Engage
+38. In Flames
+39. At the Gates
+40. Dark Tranquillity
+41. Soilwork
+42. Arch Enemy
+43. Children of Bodom
+44. Amon Amarth
+45. Ensiferum
+46. Eluveitie
+47. Korpiklaani
+48. Finntroll
+49. Turisas
+50. Wintersun
+
+These recommendations are based on the user's liking of heavy metal and hard rock bands, and include similar artists within those genres.

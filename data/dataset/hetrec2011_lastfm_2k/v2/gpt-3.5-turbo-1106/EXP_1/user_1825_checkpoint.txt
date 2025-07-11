@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Green Day
+3. Fall Out Boy
+4. Linkin Park
+5. Three Days Grace
+6. Breaking Benjamin
+7. Bring Me The Horizon
+8. A Day To Remember
+9. Good Charlotte
+10. Simple Plan
+11. The Offspring
+12. Papa Roach
+13. Seether
+14. Shinedown
+15. 30 Seconds to Mars
+16. Paramore
+17. Panic! At The Disco
+18. The Used
+19. Sleeping With Sirens
+20. Pierce The Veil
+21. Motionless In White
+22. Black Veil Brides
+23. Asking Alexandria
+24. Bullet For My Valentine
+25. Avenged Sevenfold
+26. The Distillers
+27. All Time Low
+28. Taylor Swift
+29. Rise Against
+30. The 69 Eyes
+31. Misfits
+32. Dead Kennedys
+33. HorrorPops
+34. HIM
+35. Brad Paisley
+36. Carrie Underwood
+37. Ramones
+38. NOFX
+39. Disturbed
+40. Nicki Minaj
+41. Rihanna
+42. Johnny Cash
+43. Slipknot
+44. Rascal Flatts
+45. Ke$ha
+46. Escape The Fate
+47. Five Finger Death Punch
+48. Sum 41
+49. Evanescence
+50. Puddle of Mudd
+
+These recommendations are based on the user's liking of similar artists and genres.

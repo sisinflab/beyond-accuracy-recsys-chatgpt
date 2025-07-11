@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Giver by Lois Lowry
+2. The Hunger Games by Suzanne Collins
+3. The Hobbit by J.R.R. Tolkien
+4. Ender's Game by Orson Scott Card
+5. Divergent by Veronica Roth
+6. The Maze Runner by James Dashner
+7. The Alchemist by Paulo Coelho
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Book Thief by Markus Zusak
+10. The Catcher in the Rye by J.D. Salinger
+11. To Kill a Mockingbird by Harper Lee
+12. The Fault in Our Stars by John Green
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Da Vinci Code by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Great Gatsby by F. Scott Fitzgerald
+17. The Kite Runner by Khaled Hosseini
+18. The Secret Garden by Frances Hodgson Burnett
+19. The Little Prince by Antoine de Saint-Exupéry
+20. The Catcher in the Rye by J.D. Salinger
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Shining by Stephen King
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Road by Cormac McCarthy
+25. The Handmaid's Tale by Margaret Atwood
+26. The Stand by Stephen King
+27. The Sun Also Rises by Ernest Hemingway
+28. The Bell Jar by Sylvia Plath
+29. The Stranger by Albert Camus
+30. The Old Man and the Sea by Ernest Hemingway
+31. The Grapes of Wrath by John Steinbeck
+32. The Color Purple by Alice Walker
+33. The Joy Luck Club by Amy Tan
+34. The Glass Castle by Jeannette Walls
+35. The Poisonwood Bible by Barbara Kingsolver
+36. The Lovely Bones by Alice Sebold
+37. The Help by Kathryn Stockett
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Night Circus by Erin Morgenstern
+41. The Goldfinch by Donna Tartt
+42. The Martian by Andy Weir
+43. The Handmaid's Tale by Margaret Atwood
+44. The Road by Cormac McCarthy
+45. The Stand by Stephen King
+46. The Sun Also Rises by Ernest Hemingway
+47. The Bell Jar by Sylvia Plath
+48. The Stranger by Albert Camus
+49. The Old Man and the Sea by Ernest Hemingway
+50. The Grapes of Wrath by John Steinbeck
+
+These recommendations are based on the user's interest in dystopian fiction, fantasy, and young adult literature.

@@ -1,0 +1,54 @@
+Based on user 88's preferences, here are the top 50 book recommendations:
+
+1. Mistborn: The Final Empire by Brandon Sanderson
+2. The Book Thief by Markus Zusak
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Alchemist by Paulo Coelho
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. The Night Circus by Erin Morgenstern
+10. The Name of the Wind by Patrick Rothfuss
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Shadow of the Wind by Carlos Ruiz Zafón
+13. The Handmaid's Tale by Margaret Atwood
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Road by Cormac McCarthy
+16. The Secret History by Donna Tartt
+17. The Goldfinch by Donna Tartt
+18. The Bell Jar by Sylvia Plath
+19. The Giver by Lois Lowry
+20. The Martian by Andy Weir
+21. The Hunger Games by Suzanne Collins
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Da Vinci Code by Dan Brown
+24. The Lovely Bones by Alice Sebold
+25. The Help by Kathryn Stockett
+26. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+27. The Road to Character by David Brooks
+28. The Glass Castle by Jeannette Walls
+29. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+30. The Fault in Our Stars by John Green
+31. The Perks of Being a Wallflower by Stephen Chbosky
+32. The Handmaid's Tale by Margaret Atwood
+33. The Stand by Stephen King
+34. The Shining by Stephen King
+35. The Girl on the Train by Paula Hawkins
+36. The Help by Kathryn Stockett
+37. The Nightingale by Kristin Hannah
+38. The Book of Lost Things by John Connolly
+39. The Ocean at the End of the Lane by Neil Gaiman
+40. The Graveyard Book by Neil Gaiman
+41. The Time Traveler's Wife by Audrey Niffenegger
+42. The Thorn Birds by Colleen McCullough
+43. The Poisonwood Bible by Barbara Kingsolver
+44. The Secret Life of Bees by Sue Monk Kidd
+45. The Color Purple by Alice Walker
+46. The Joy Luck Club by Amy Tan
+47. The House on Mango Street by Sandra Cisneros
+48. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+49. The Kite Runner by Khaled Hosseini
+50. The God of Small Things by Arundhati Roy
+
+These recommendations are based on similar themes, genres, and authors to the books that user 88 likes.

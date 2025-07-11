@@ -1,0 +1,54 @@
+Based on user 1236's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Nirvana
+2. Rage Against the Machine
+3. Queens of the Stone Age
+4. Led Zeppelin
+5. Ramones
+6. Misfits
+7. The White Stripes
+8. Oasis
+9. AC/DC
+10. Red Hot Chili Peppers
+11. U2
+12. Depeche Mode
+13. KISS
+14. Pixies
+15. Guns N' Roses
+16. Arctic Monkeys
+17. Radiohead
+18. Placebo
+19. The Cure
+20. Pink Floyd
+21. Muse
+22. The Smashing Pumpkins
+23. Black Sabbath
+24. Iron Maiden
+25. Aerosmith
+26. Elliott Smith
+27. Alice Cooper
+28. Death Cab for Cutie
+29. The Mars Volta
+30. The Who
+31. Eddie Vedder
+32. Dashboard Confessional
+33. Björk
+34. Queen
+35. The Rolling Stones
+36. Iron & Wine
+37. Megadeth
+38. Editors
+39. Bruce Springsteen
+40. Jimmy Eat World
+41. Slayer
+42. Damien Rice
+43. Judas Priest
+44. Howard Shore
+45. Los Hermanos
+46. John Mayer
+47. Janis Joplin
+48. The National
+49. The John Butler Trio
+50. 3OH!3
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists that align with their music taste.

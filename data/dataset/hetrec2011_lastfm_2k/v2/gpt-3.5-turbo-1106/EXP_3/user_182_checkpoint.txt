@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the re-ranked top-50 recommendations:
+
+1. Coldplay
+2. Sia
+3. Alicia Keys
+4. Madonna
+5. Queen
+6. The Beatles
+7. Norah Jones
+8. David Gray
+9. Amy Winehouse
+10. Tori Amos
+11. Imogen Heap
+12. MGMT
+13. The Killers
+14. Keane
+15. Duffy
+16. Leona Lewis
+17. Marina & the Diamonds
+18. Rihanna
+19. Craig David
+20. Frank Sinatra
+21. Nickelback
+22. David Cook
+23. Tiziano Ferro
+24. Tina Turner
+25. Era
+26. Cobra Starship
+27. McFly
+28. Foo Fighters
+29. Röyksopp
+30. Laura Marling
+31. My Chemical Romance
+32. Boys Like Girls
+33. Céline Dion
+34. Cat Power
+35. Delerium
+36. Arctic Monkeys
+37. Britney Spears
+38. Enya
+39. Kate Nash
+40. Kylie Minogue
+41. Pink Floyd
+42. Avril Lavigne
+43. Jack Johnson
+44. Sarah Brightman
+45. 浜崎あゆみ
+46. Ashlee Simpson
+47. Black Eyed Peas
+48. Regina Spektor
+49. Fiona Apple
+50. Ayria
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

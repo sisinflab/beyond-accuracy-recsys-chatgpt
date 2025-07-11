@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Enya
+2. Enigma
+3. Josh Groban
+4. Andrea Bocelli
+5. Il Divo
+6. Michael Bublé
+7. Adele
+8. Diana Krall
+9. Katie Melua
+10. Eva Cassidy
+11. Yanni
+12. The Corrs
+13. Annie Lennox
+14. Sarah McLachlan
+15. Natalie Merchant
+16. Dido
+17. Amy Winehouse
+18. Lana Del Rey
+19. Ed Sheeran
+20. John Legend
+21. Sam Smith
+22. Adele
+23. Coldplay
+24. U2
+25. The Cranberries
+26. Fleetwood Mac
+27. The Police
+28. Phil Collins
+29. Elton John
+30. Billy Joel
+31. Rod Stewart
+32. Bryan Adams
+33. Sheryl Crow
+34. Alanis Morissette
+35. Jewel
+36. Tracy Chapman
+37. James Blunt
+38. Jason Mraz
+39. Train
+40. OneRepublic
+41. The Fray
+42. Lifehouse
+43. Matchbox Twenty
+44. Goo Goo Dolls
+45. Snow Patrol
+46. Keane
+47. The Script
+48. Imagine Dragons
+49. Bastille
+50. Hozier
+
+These recommendations are based on the user's liking of artists with similar musical styles and genres.

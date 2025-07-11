@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 850:
+
+1. Catching Fire
+2. The Maze Runner
+3. City of Ashes
+4. The Host (novel)
+5. The Wolves of Mercy Falls
+6. The Lovely Bones
+7. The Forbidden Game
+8. The Hobbit
+9. Inkheart
+10. Uglies
+11. The Shadowlands
+12. The Dead-Tossed Waves
+13. The Rules of Survival
+14. The Forest of Hands and Teeth
+15. The Land of Elyon
+16. The Supernaturalist
+17. The Secrets of the Immortal Nicholas Flamel
+18. The Alchemyst: The Secrets of the Immortal Nicholas Flamel
+19. The Black Tattoo
+20. The Hollow
+21. The Watchmen (novel)
+22. The Outsiders (novel)
+23. The Coldest Winter Ever
+24. The Sky Is Everywhere
+25. The Secrets of the Immortal Nicholas Flamel
+26. This Lullaby
+27. Terrier (novel)
+28. Tunnels (novel)
+29. Twilight (series)
+30. Deadly Little Secrets
+31. Diva (Odier novel)
+32. Fire (Cashore novel)
+33. Flipped
+34. Fruits Basket
+35. Garfield
+36. Glass (novel)
+37. Harry Potter
+38. If I Stay
+39. Leven Thumps
+40. Manga
+41. My Side of the Mountain
+42. Stargazer (novel)
+43. 13 Little Blue Envelopes
+44. Burned (Hopkins novel)
+45. CHERUB
+46. Crank (novel)
+47. Dear John (novel)
+48. Gone (novel series)
+49. The Rules of Survival
+50. Wicked: The Life and Times of the Wicked Witch of the West
+
+These recommendations are based on the user's previous likes and the similarity of the recommended books to the ones the user has enjoyed.

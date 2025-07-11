@@ -1,0 +1,52 @@
+Based on user 1880's preferences, here are the top-50 recommendations for the given artists:
+
+1. Coldplay
+2. 30 Seconds to Mars
+3. Pink
+4. Shakira
+5. Mariah Carey
+6. Alicia Keys
+7. Beyoncé
+8. Nicole Scherzinger
+9. McFly
+10. Pixie Lott
+11. Lindsay Lohan
+12. Selena Gomez & the Scene
+13. Miranda Cosgrove
+14. Jonas Brothers
+15. Hilary Duff
+16. Vanessa Hudgens
+17. Colbie Caillat
+18. Lifehouse
+19. Jorge & Mateus
+20. Daughtry
+21. No Doubt
+22. Jason Mraz
+23. Gwen Stefani
+24. Placebo
+25. Cobra Starship
+26. Christian Chávez
+27. RBD
+28. Good Charlotte
+29. John Mayer
+30. Miley Cyrus
+31. Lily Allen
+32. Evanescence
+33. Dulce María
+34. Ashlee Simpson
+35. Flyleaf
+36. Ciara
+37. Dashboard Confessional
+38. The Pussycat Dolls
+39. The Veronicas
+40. Jennifer Lopez
+41. Demi Lovato
+42. Christina Aguilera
+43. Kate Voegele
+44. Ashley Tisdale
+45. Hannah Montana
+46. Far East Movement
+47. Cascada
+48. Luan Santana
+49. Hey Monday
+50. Beyoncé

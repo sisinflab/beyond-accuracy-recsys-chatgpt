@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Maze Runner by James Dashner
+3. The Fault in Our Stars by John Green
+4. The Book Thief by Markus Zusak
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. The Outsiders by S.E. Hinton
+7. Thirteen Reasons Why by Jay Asher
+8. The Catcher in the Rye by J.D. Salinger
+9. The Alchemist by Paulo Coelho
+10. The Lovely Bones by Alice Sebold
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Night Circus by Erin Morgenstern
+13. The Secret Life of Bees by Sue Monk Kidd
+14. The Help by Kathryn Stockett
+15. The Time Traveler's Wife by Audrey Niffenegger
+16. The Kite Runner by Khaled Hosseini
+17. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+18. The Glass Castle by Jeannette Walls
+19. The Handmaid's Tale by Margaret Atwood
+20. The Girl on the Train by Paula Hawkins
+21. The Goldfinch by Donna Tartt
+22. The Martian by Andy Weir
+23. The Nightingale by Kristin Hannah
+24. The Light Between Oceans by M.L. Stedman
+25. The Rosie Project by Graeme Simsion
+26. The Girl Who Played with Fire by Stieg Larsson
+27. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+28. The Girl in the Spider's Web by David Lagercrantz
+29. The Hunger Games by Suzanne Collins
+30. Catching Fire by Suzanne Collins
+31. Mockingjay by Suzanne Collins
+32. The Host by Stephenie Meyer
+33. Twilight by Stephenie Meyer
+34. New Moon by Stephenie Meyer
+35. Eclipse by Stephenie Meyer
+36. Breaking Dawn by Stephenie Meyer
+37. The Chemist by Stephenie Meyer
+38. The Giver by Lois Lowry
+39. Gathering Blue by Lois Lowry
+40. Messenger by Lois Lowry
+41. Son by Lois Lowry
+42. Number the Stars by Lois Lowry
+43. Go Ask Alice by Anonymous
+44. Impulse by Ellen Hopkins
+45. Identical by Ellen Hopkins
+46. Crank by Ellen Hopkins
+47. Glass by Ellen Hopkins
+48. Fallout by Ellen Hopkins
+49. Perfect by Ellen Hopkins
+50. Tilt by Ellen Hopkins
+
+These recommendations are based on the user's interest in young adult fiction, dystopian novels, and contemporary literature.

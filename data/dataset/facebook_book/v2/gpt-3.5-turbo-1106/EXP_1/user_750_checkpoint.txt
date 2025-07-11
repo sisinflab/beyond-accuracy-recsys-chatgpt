@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Shining by Stephen King
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. The Catcher in the Rye by J.D. Salinger
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Hunger Games by Suzanne Collins
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Hobbit by J.R.R. Tolkien
+10. The Alchemist by Paulo Coelho
+11. The Kite Runner by Khaled Hosseini
+12. The Book Thief by Markus Zusak
+13. The Night Circus by Erin Morgenstern
+14. The Secret History by Donna Tartt
+15. The Goldfinch by Donna Tartt
+16. The Martian by Andy Weir
+17. The Road by Cormac McCarthy
+18. The Handmaid's Tale by Margaret Atwood
+19. The Name of the Wind by Patrick Rothfuss
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Secret Garden by Frances Hodgson Burnett
+22. The Giver by Lois Lowry
+23. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+24. The Lovely Bones by Alice Sebold
+25. The Help by Kathryn Stockett
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Bell Jar by Sylvia Plath
+28. The Catcher in the Rye by J.D. Salinger
+29. The Perks of Being a Wallflower by Stephen Chbosky
+30. The Fault in Our Stars by John Green
+31. The Maze Runner by James Dashner
+32. The Lightning Thief by Rick Riordan
+33. The Hunger Games by Suzanne Collins
+34. The Book Thief by Markus Zusak
+35. The Giver by Lois Lowry
+36. The Secret Garden by Frances Hodgson Burnett
+37. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+38. The Lovely Bones by Alice Sebold
+39. The Help by Kathryn Stockett
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Bell Jar by Sylvia Plath
+42. The Catcher in the Rye by J.D. Salinger
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. The Fault in Our Stars by John Green
+45. The Maze Runner by James Dashner
+46. The Lightning Thief by Rick Riordan
+47. The Hunger Games by Suzanne Collins
+48. The Book Thief by Markus Zusak
+49. The Giver by Lois Lowry
+50. The Secret Garden by Frances Hodgson Burnett
+
+These recommendations are based on the user's liking for mystery, thriller, and classic literature.

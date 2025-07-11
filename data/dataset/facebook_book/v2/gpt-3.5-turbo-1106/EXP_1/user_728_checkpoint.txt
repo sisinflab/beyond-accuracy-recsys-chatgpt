@@ -1,0 +1,52 @@
+Based on the user's preferences for horror and classic literature, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. The Picture of Dorian Gray by Oscar Wilde
+3. 1984 by George Orwell
+4. The Haunting of Hill House by Shirley Jackson
+5. The Turn of the Screw by Henry James
+6. The Exorcist by William Peter Blatty
+7. The Tell-Tale Heart by Edgar Allan Poe
+8. The Woman in White by Wilkie Collins
+9. The Stand by Stephen King
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Silence of the Lambs by Thomas Harris
+12. The Phantom of the Opera by Gaston Leroux
+13. The Road by Cormac McCarthy
+14. The Call of Cthulhu by H.P. Lovecraft
+15. The Catcher in the Rye by J.D. Salinger
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Bell Jar by Sylvia Plath
+18. The Handmaid's Tale by Margaret Atwood
+19. The Night Circus by Erin Morgenstern
+20. The Secret History by Donna Tartt
+21. The Lovely Bones by Alice Sebold
+22. The Book Thief by Markus Zusak
+23. The Goldfinch by Donna Tartt
+24. The Road by Cormac McCarthy
+25. The Hunger Games by Suzanne Collins
+26. The Martian by Andy Weir
+27. The Alchemist by Paulo Coelho
+28. The Kite Runner by Khaled Hosseini
+29. The Help by Kathryn Stockett
+30. The Fault in Our Stars by John Green
+31. The Girl on the Train by Paula Hawkins
+32. The Da Vinci Code by Dan Brown
+33. The Hobbit by J.R.R. Tolkien
+34. The Catcher in the Rye by J.D. Salinger
+35. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+36. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. The Giver by Lois Lowry
+39. The Maze Runner by James Dashner
+40. The Lightning Thief by Rick Riordan
+41. The Hunger Games by Suzanne Collins
+42. The Fault in Our Stars by John Green
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Book Thief by Markus Zusak
+45. The Goldfinch by Donna Tartt
+46. The Road by Cormac McCarthy
+47. The Help by Kathryn Stockett
+48. The Kite Runner by Khaled Hosseini
+49. The Alchemist by Paulo Coelho
+50. The Da Vinci Code by Dan Brown

@@ -1,0 +1,54 @@
+Based on user 1304's preferences, here are the top 50 recommendations for that user:
+
+1. Paramore
+2. Evanescence
+3. Katy Perry
+4. Lady Gaga
+5. Miley Cyrus
+6. Selena Gomez & the Scene
+7. Avril Lavigne
+8. P!nk
+9. The Pretty Reckless
+10. Anahí
+11. RBD
+12. Belinda
+13. Christina Aguilera
+14. Colbie Caillat
+15. Jason Derülo
+16. Hannah Montana
+17. Willow Smith
+18. Nick Carter
+19. Kelly Rowland
+20. Cascada
+21. Basshunter
+22. Esmée Denters
+23. OneRepublic
+24. Jay Sean
+25. Chris Brown
+26. Marjorie Estiano
+27. Shontelle
+28. Nicole Scherzinger
+29. Pixie Lott
+30. Leighton Meester
+31. Miranda Cosgrove
+32. Christian Chávez
+33. Kings of Leon
+34. Black Eyed Peas
+35. Jennifer Lopez
+36. Cobra Starship
+37. McFly
+38. Green Day
+39. 30 Seconds to Mars
+40. Britney Spears
+41. Simple Plan
+42. Alanis Morissette
+43. Little Boots
+44. Coldplay
+45. Leona Lewis
+46. Panic! At the Disco
+47. Kylie Minogue
+48. Wolfgang Amadeus Mozart
+49. Emily Osment
+50. Lindsay Lohan
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

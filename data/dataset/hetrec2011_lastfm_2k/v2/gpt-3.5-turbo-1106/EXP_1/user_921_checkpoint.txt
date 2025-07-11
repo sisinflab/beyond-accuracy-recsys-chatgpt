@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Black Flag
+2. Misfits
+3. Dead Kennedys
+4. Minor Threat
+5. The Clash
+6. Sex Pistols
+7. Iggy Pop
+8. Sonic Youth
+9. Fugazi
+10. Pixies
+11. Nirvana
+12. Pearl Jam
+13. Soundgarden
+14. Alice in Chains
+15. Red Hot Chili Peppers
+16. Beastie Boys
+17. Wu-Tang Clan
+18. Nas
+19. OutKast
+20. A Tribe Called Quest
+21. Public Enemy
+22. Cypress Hill
+23. Ice Cube
+24. Snoop Dogg
+25. N.W.A
+26. Eazy-E
+27. Kendrick Lamar
+28. J. Cole
+29. Kanye West
+30. Jay-Z
+31. Eminem
+32. 50 Cent
+33. Wu-Tang Clan
+34. Mobb Deep
+35. Big L
+36. Raekwon
+37. Ghostface Killah
+38. MF DOOM
+39. Mos Def
+40. Talib Kweli
+41. Common
+42. The Roots
+43. De La Soul
+44. Beastie Boys
+45. Run-D.M.C.
+46. LL Cool J
+47. Eric B. & Rakim
+48. KRS-One
+49. Big Daddy Kane
+50. Rakim
+
+These recommendations are based on the user's liking for punk, alternative, hip-hop, and rap artists.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Angels & Demons by Dan Brown
+2. Inferno by Dan Brown
+3. The Lost Symbol by Dan Brown
+4. Origin by Dan Brown
+5. The Alchemist by Paulo Coelho
+6. 1984 by George Orwell
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Catcher in the Rye by J.D. Salinger
+10. The Adventures of Huckleberry Finn by Mark Twain
+11. The Adventures of Tom Sawyer by Mark Twain
+12. Moby-Dick by Herman Melville
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Sun Also Rises by Ernest Hemingway
+15. For Whom the Bell Tolls by Ernest Hemingway
+16. The Grapes of Wrath by John Steinbeck
+17. East of Eden by John Steinbeck
+18. Of Mice and Men by John Steinbeck
+19. The Bell Jar by Sylvia Plath
+20. The Road by Cormac McCarthy
+21. Blood Meridian by Cormac McCarthy
+22. All the Pretty Horses by Cormac McCarthy
+23. The Kite Runner by Khaled Hosseini
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. And the Mountains Echoed by Khaled Hosseini
+26. The Book Thief by Markus Zusak
+27. The Night Circus by Erin Morgenstern
+28. The Goldfinch by Donna Tartt
+29. The Secret History by Donna Tartt
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Girl Who Played with Fire by Stieg Larsson
+32. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+33. The Hunger Games by Suzanne Collins
+34. Catching Fire by Suzanne Collins
+35. Mockingjay by Suzanne Collins
+36. The Maze Runner by James Dashner
+37. The Scorch Trials by James Dashner
+38. The Death Cure by James Dashner
+39. The Giver by Lois Lowry
+40. Gathering Blue by Lois Lowry
+41. Messenger by Lois Lowry
+42. The Hobbit by J.R.R. Tolkien
+43. The Fellowship of the Ring by J.R.R. Tolkien
+44. The Two Towers by J.R.R. Tolkien
+45. The Return of the King by J.R.R. Tolkien
+46. The Chronicles of Narnia by C.S. Lewis
+47. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+48. Dune by Frank Herbert
+49. Neuromancer by William Gibson
+50. Snow Crash by Neal Stephenson
+
+These recommendations are based on the user's interest in mystery, classic literature, and science fiction.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1319:
+
+1. Foo Fighters
+2. Red Hot Chili Peppers
+3. Linkin Park
+4. Gorillaz
+5. Lady Gaga
+6. Moby
+7. Daft Punk
+8. The Killers
+9. Franz Ferdinand
+10. Queens of the Stone Age
+11. The Kooks
+12. Avenged Sevenfold
+13. Michael Jackson
+14. Madonna
+15. Rammstein
+16. Guns N' Roses
+17. The Libertines
+18. Kaiser Chiefs
+19. NOFX
+20. Die Toten Hosen
+21. Lostprophets
+22. Bowling for Soup
+23. Matchbox Twenty
+24. Simple Plan
+25. Good Charlotte
+26. 3 Doors Down
+27. Skillet
+28. Blue October
+29. Justice
+30. Garbage
+31. Depeche Mode
+32. David Gray
+33. Katy Perry
+34. KISS
+35. Aerosmith
+36. R.E.M.
+37. The Kinks
+38. Yeasayer
+39. Caribou
+40. Bon Jovi
+41. The Offspring
+42. Metallica
+43. Blink-182
+44. Sum 41
+45. The Clash
+46. Arctic Monkeys
+47. Oasis
+48. Radiohead
+49. Nirvana
+50. Coldplay
+
+These recommendations are based on similar genres and artists liked by user 1319.

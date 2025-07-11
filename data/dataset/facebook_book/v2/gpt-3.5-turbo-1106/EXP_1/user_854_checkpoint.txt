@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Angels & Demons by Dan Brown
+2. Inferno by Dan Brown
+3. Digital Fortress by Dan Brown
+4. The Lost Symbol by Dan Brown
+5. Origin by Dan Brown
+6. Deception Point by Dan Brown
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Girl Who Played with Fire by Stieg Larsson
+9. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+10. The Catcher in the Rye by J.D. Salinger
+11. To Kill a Mockingbird by Harper Lee
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. Brave New World by Aldous Huxley
+15. Fahrenheit 451 by Ray Bradbury
+16. The Great Gatsby by F. Scott Fitzgerald
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Sun Also Rises by Ernest Hemingway
+19. For Whom the Bell Tolls by Ernest Hemingway
+20. A Farewell to Arms by Ernest Hemingway
+21. The Sound and the Fury by William Faulkner
+22. As I Lay Dying by William Faulkner
+23. Light in August by William Faulkner
+24. Absalom, Absalom! by William Faulkner
+25. One Hundred Years of Solitude by Gabriel Garcia Marquez
+26. Love in the Time of Cholera by Gabriel Garcia Marquez
+27. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+28. The Alchemist by Paulo Coelho
+29. Brida by Paulo Coelho
+30. Veronika Decides to Die by Paulo Coelho
+31. The Pilgrimage by Paulo Coelho
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Importance of Being Earnest by Oscar Wilde
+34. Lady Windermere's Fan by Oscar Wilde
+35. An Ideal Husband by Oscar Wilde
+36. Crime and Punishment by Fyodor Dostoevsky
+37. The Brothers Karamazov by Fyodor Dostoevsky
+38. The Idiot by Fyodor Dostoevsky
+39. Demons by Fyodor Dostoevsky
+40. War and Peace by Leo Tolstoy
+41. Anna Karenina by Leo Tolstoy
+42. The Death of Ivan Ilyich by Leo Tolstoy
+43. Resurrection by Leo Tolstoy
+44. The Stranger by Albert Camus
+45. The Plague by Albert Camus
+46. The Fall by Albert Camus
+47. The Outsider by Albert Camus
+48. Thus Spoke Zarathustra by Friedrich Nietzsche
+49. Beyond Good and Evil by Friedrich Nietzsche
+50. The Birth of Tragedy by Friedrich Nietzsche
+
+These recommendations are based on the user's interest in books by Dan Brown, Jules Verne, Albert Camus, and other similar authors.

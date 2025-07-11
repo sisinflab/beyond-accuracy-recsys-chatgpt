@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Muse
+3. Linkin Park
+4. Avril Lavigne
+5. Fall Out Boy
+6. The Killers
+7. Arctic Monkeys
+8. Florence + The Machine
+9. Panic! At The Disco
+10. Red Hot Chili Peppers
+11. The White Stripes
+12. Maroon 5
+13. Coldplay
+14. The Strokes
+15. Paramore
+16. Lady Gaga
+17. Evanescence
+18. Cinema Bizarre
+19. Placebo
+20. System of a Down
+21. t.A.T.u.
+22. Automatic Loveletter
+23. Papa Roach
+24. Pink
+25. Slipknot
+26. Ray Charles
+27. YUI
+28. Good Charlotte
+29. The Cure
+30. Jack Johnson
+31. P!nk
+32. 30 Seconds to Mars
+33. Lifehouse
+34. The Smashing Pumpkins
+35. Three Days Grace
+36. Incubus
+37. Green Day
+38. Ludwig van Beethoven
+39. Creed
+40. Foo Fighters
+41. Dido
+42. Within Temptation
+43. Janis Joplin
+44. Funeral for a Friend
+45. Katy Perry
+46. The Ting Tings
+47. Adele
+48. MGMT
+49. All Time Low
+50. The Black Keys
+
+These recommendations are based on the user's liking of similar artists and genres.

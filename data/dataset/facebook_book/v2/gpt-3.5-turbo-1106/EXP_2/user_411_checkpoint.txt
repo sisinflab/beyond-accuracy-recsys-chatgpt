@@ -1,0 +1,54 @@
+Based on the user's liking of the given books, here is a re-ranked top-50 recommendation list for user 411:
+
+1. The Great Gatsby
+2. The Catcher in the Rye
+3. The Picture of Dorian Gray
+4. The Unbearable Lightness of Being
+5. The Hobbit
+6. The Lord of the Rings
+7. The Stand
+8. The Maze Runner
+9. Brave New World
+10. The Giver
+11. The City of Ember
+12. The Southern Vampire Mysteries
+13. The Lost Books (novel series)
+14. The House of Mirth
+15. Through the Looking-Glass
+16. The Phantom of the Opera
+17. The Scarlet Letter
+18. Crime and Punishment
+19. The Silmarillion
+20. The Outsiders (novel)
+21. The Tenant of Wildfell Hall
+22. The Rapture (novel)
+23. The Alchemist (novel)
+24. Fahrenheit 451
+25. The Alchemist (novel)
+26. The Picture of Dorian Gray
+27. The Great Gatsby
+28. The Unbearable Lightness of Being
+29. The Hobbit
+30. The Lord of the Rings
+31. The Stand
+32. The Maze Runner
+33. Brave New World
+34. The Giver
+35. The City of Ember
+36. The Southern Vampire Mysteries
+37. The Lost Books (novel series)
+38. The House of Mirth
+39. Through the Looking-Glass
+40. The Phantom of the Opera
+41. The Scarlet Letter
+42. Crime and Punishment
+43. The Silmarillion
+44. The Outsiders (novel)
+45. The Tenant of Wildfell Hall
+46. The Rapture (novel)
+47. The Alchemist (novel)
+48. Fahrenheit 451
+49. The Alchemist (novel)
+50. Fahrenheit 451
+
+These recommendations are based on the user's liking of the given books and are re-ranked to provide a top-50 list of recommended books.

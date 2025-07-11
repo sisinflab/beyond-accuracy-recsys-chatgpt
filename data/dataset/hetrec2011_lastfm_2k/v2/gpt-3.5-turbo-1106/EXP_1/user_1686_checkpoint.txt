@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. All Time Low
+2. Paramore
+3. Fall Out Boy
+4. Panic! At The Disco
+5. The All-American Rejects
+6. Green Day
+7. Weezer
+8. The Fray
+9. The Script
+10. OneRepublic
+11. The Wombats
+12. The Kooks
+13. Florence + The Machine
+14. The 1975
+15. Bastille
+16. Imagine Dragons
+17. Halsey
+18. Twenty One Pilots
+19. The Neighbourhood
+20. Arctic Monkeys
+21. The Vaccines
+22. The Killers
+23. The Strokes
+24. Franz Ferdinand
+25. The White Stripes
+26. The Hives
+27. The Vines
+28. The Libertines
+29. The Bravery
+30. The Raconteurs
+31. The Black Keys
+32. The Arctic Monkeys
+33. The Kooks
+34. The Fratellis
+35. The Pigeon Detectives
+36. The Courteeners
+37. The View
+38. The Maccabees
+39. The Cribs
+40. The Futureheads
+41. The Subways
+42. The Rakes
+43. The Enemy
+44. The Twang
+45. The Pigeon Detectives
+46. The Rifles
+47. The Holloways
+48. The Paddingtons
+49. The Sunshine Underground
+50. The Dykeenies
+
+These recommendations are based on the user's liking of similar artists and genres.

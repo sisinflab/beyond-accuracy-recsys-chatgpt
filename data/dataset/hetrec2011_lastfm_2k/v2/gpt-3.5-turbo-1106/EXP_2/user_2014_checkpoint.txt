@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 2014:
+
+1. Depeche Mode
+2. Madonna
+3. U2
+4. Duran Duran
+5. Michael Jackson
+6. The Cure
+7. Lady Gaga
+8. Rihanna
+9. Britney Spears
+10. Christina Aguilera
+11. Shakira
+12. The Beatles
+13. Katy Perry
+14. Avril Lavigne
+15. Taylor Swift
+16. Muse
+17. Pink Floyd
+18. Kylie Minogue
+19. Radiohead
+20. Ke$ha
+21. Coldplay
+22. Blur
+23. Arctic Monkeys
+24. Placebo
+25. The Killers
+26. Nirvana
+27. Iron Maiden
+28. Led Zeppelin
+29. Metallica
+30. Pearl Jam
+31. a-ha
+32. Björk
+33. Daft Punk
+34. Nine Inch Nails
+35. Linkin Park
+36. Kelly Clarkson
+37. All Time Low
+38. P!nk
+39. Avenged Sevenfold
+40. My Chemical Romance
+41. Green Day
+42. Paramore
+43. Evanescence
+44. Glee Cast
+45. Beyoncé
+46. 30 Seconds to Mars
+47. Amy Winehouse
+48. System of a Down
+49. Black Eyed Peas
+50. The Smashing Pumpkins
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists that align with their tastes.

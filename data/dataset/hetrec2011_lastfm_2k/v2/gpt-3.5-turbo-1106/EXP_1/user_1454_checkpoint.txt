@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Yazoo
+2. The Cure
+3. OMD
+4. Visage
+5. Ultravox
+6. Gary Numan
+7. Thompson Twins
+8. Howard Jones
+9. Blancmange
+10. Heaven 17
+11. Soft Cell
+12. A-ha
+13. The Smiths
+14. Echo & the Bunnymen
+15. Tears for Fears
+16. New Order
+17. Pet Shop Boys
+18. Depeche Mode
+19. Simple Minds
+20. Duran Duran
+21. Talk Talk
+22. The Human League
+23. Erasure
+24. INXS
+25. U2
+26. The Psychedelic Furs
+27. The Church
+28. The B-52's
+29. The Cars
+30. The Police
+31. Joy Division
+32. Siouxsie and the Banshees
+33. The Sisters of Mercy
+34. Bauhaus
+35. The Cult
+36. The Jesus and Mary Chain
+37. Cocteau Twins
+38. The Chameleons
+39. The Mission
+40. Clan of Xymox
+41. The Damned
+42. The Stranglers
+43. The Jam
+44. The Clash
+45. The Specials
+46. Madness
+47. The Selecter
+48. The Beat
+49. The English Beat
+50. The Skids

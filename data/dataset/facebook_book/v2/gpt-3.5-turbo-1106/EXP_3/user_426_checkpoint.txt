@@ -1,0 +1,54 @@
+Based on user 426's preferences, here are the top 50 book recommendations:
+
+1. The Book Thief by Markus Zusak
+2. Dracula by Bram Stoker
+3. Evermore (book) by Stephen Mark Rainey, James Robert Smith (author)
+4. Burned (Hopkins novel) by Ellen Hopkins
+5. Marked (novel) by Kristin Cast, P.C. Cast
+6. House of Night by []
+7. King Leary by Paul Quarrington
+8. The Merchant of Venice by []
+9. Gone with the Wind by []
+10. The Wind Singer by William Nicholson (writer)
+11. The Fountainhead
+12. The Catcher in the Rye
+13. Paradise Lost
+14. Inkheart
+15. The Sweet Far Thing
+16. Memoirs of a Geisha
+17. Swallows and Amazons
+18. Peeps (novel)
+19. The Hobbit
+20. Mister God, This Is Anna
+21. The Time Machine
+22. Along for the Ride
+23. Blue Is for Nightmares (series)
+24. The Hitchhiker's Guide to the Galaxy (novel)
+25. W.I.T.C.H.
+26. Sun Bin's Art of War
+27. The Brothers Karamazov
+28. Brisingr
+29. Fire (Cashore novel)
+30. Alice's Adventures in Wonderland
+31. The Voyage of the Dawn Treader
+32. Nineteen Eighty-Four
+33. Manga
+34. Through the Looking-Glass
+35. Pretties
+36. Diary of a Wimpy Kid (series)
+37. Uglies
+38. Stargirl (novel)
+39. Atlas Shrugged
+40. Hunger (Hamsun novel)
+41. Twilight (series)
+42. The Tempest
+43. Lolita
+44. Catch-22
+45. The Historian
+46. The Gathering (Enright novel)
+47. The Idiot
+48. The Last Battle
+49. The Sicilian
+50. Stolen (Christopher novel)
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pearl Jam
+2. Nirvana
+3. Red Hot Chili Peppers
+4. Foo Fighters
+5. Alice in Chains
+6. Soundgarden
+7. The Rolling Stones
+8. The Doors
+9. Led Zeppelin
+10. Pink Floyd
+11. Black Sabbath
+12. Deep Purple
+13. The Who
+14. Queen
+15. The Beatles
+16. U2
+17. The Police
+18. Dire Straits
+19. The Clash
+20. Oasis
+21. Radiohead
+22. Coldplay
+23. Arctic Monkeys
+24. Muse
+25. The Killers
+26. Kings of Leon
+27. The Strokes
+28. Franz Ferdinand
+29. Interpol
+30. The White Stripes
+31. The Black Keys
+32. Arctic Monkeys
+33. Muse
+34. The Killers
+35. Kings of Leon
+36. The Strokes
+37. Franz Ferdinand
+38. Interpol
+39. The White Stripes
+40. The Black Keys
+41. R.E.M.
+42. The Smashing Pumpkins
+43. Green Day
+44. Weezer
+45. Blink-182
+46. Fall Out Boy
+47. My Chemical Romance
+48. Panic! At The Disco
+49. Paramore
+50. Twenty One Pilots
+
+These recommendations are based on the user's liking of rock and alternative rock bands, as well as some classic rock and grunge bands.

@@ -1,0 +1,54 @@
+Based on user 1892's preferences, here are the top 50 recommendations:
+
+1. John Lennon
+2. The Rolling Stones
+3. Neil Young
+4. Foo Fighters
+5. Buddy Holly
+6. Metallica
+7. Michael Jackson
+8. George Harrison
+9. Eagles
+10. U2
+11. Muse
+12. R.E.M.
+13. Bruce Springsteen
+14. Bob Dylan
+15. Paul McCartney
+16. Stevie Ray Vaughan
+17. David Gilmour
+18. Arctic Monkeys
+19. The Fratellis
+20. Taylor Swift
+21. Weezer
+22. ABBA
+23. 30 Seconds to Mars
+24. Demi Lovato
+25. Snow Patrol
+26. Johann Sebastian Bach
+27. The Kooks
+28. Spice Girls
+29. Eminem
+30. Bob Marley
+31. Alanis Morissette
+32. Van Morrison
+33. Stevie Ray Vaughan and Double Trouble
+34. My Chemical Romance
+35. White Lies
+36. The Kinks
+37. Kings of Leon
+38. Justin Timberlake
+39. The Beach Boys
+40. The Mamas & The Papas
+41. The All-American Rejects
+42. Oasis
+43. Plain White T's
+44. Jimmy Eat World
+45. Keane
+46. Sheryl Crow
+47. Take That
+48. Helloween
+49. Razorlight
+50. Leona Lewis
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

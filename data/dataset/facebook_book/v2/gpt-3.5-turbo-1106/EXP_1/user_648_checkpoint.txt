@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Impulse by Ellen Hopkins
+2. Burned by Ellen Hopkins
+3. Chosen (novel) by Kristin Cast, P.C. Cast
+4. Betrayed (novel) by Kristin Cast, P.C. Cast
+5. Untamed (novel) by Kristin Cast, P.C. Cast
+6. The Switch by Elmore Leonard
+7. Out of Sight by Elmore Leonard
+8. Bitten (novel) by Kelley Armstrong
+9. Stolen (novel) by Kelley Armstrong
+10. Broken (novel) by Kelley Armstrong
+11. Wicked Lovely by Melissa Marr (author)
+12. Fragile Eternity by Melissa Marr (author)
+13. Burn for Burn by Jenny Han, Siobhan Vivian
+14. Crank (novel) by Ellen Hopkins
+15. Identical by Ellen Hopkins
+16. Tricks by Ellen Hopkins
+17. Identical by Ellen Hopkins
+18. The Notebook by Nicholas Sparks
+19. A Walk to Remember by Nicholas Sparks
+20. Dear John by Nicholas Sparks
+21. New Moon by Stephenie Meyer
+22. Eclipse by Stephenie Meyer
+23. Breaking Dawn by Stephenie Meyer
+24. The Host by Stephenie Meyer
+25. The Maze Runner by James Dashner
+26. The Hunger Games by Suzanne Collins
+27. Divergent by Veronica Roth
+28. The Fault in Our Stars by John Green
+29. Thirteen Reasons Why by Jay Asher
+30. Speak by Laurie Halse Anderson
+31. Wintergirls by Laurie Halse Anderson
+32. The Perks of Being a Wallflower by Stephen Chbosky
+33. Looking for Alaska by John Green
+34. Paper Towns by John Green
+35. If I Stay by Gayle Forman
+36. Before I Fall by Lauren Oliver
+37. Delirium by Lauren Oliver
+38. The Giver by Lois Lowry
+39. Uglies by Scott Westerfeld
+40. The Book Thief by Markus Zusak
+41. The Lovely Bones by Alice Sebold
+42. Thirteen Little Blue Envelopes by Maureen Johnson
+43. The Sisterhood of the Traveling Pants by Ann Brashares
+44. The Truth About Forever by Sarah Dessen
+45. Just Listen by Sarah Dessen
+46. Lock and Key by Sarah Dessen
+47. The Sky Is Everywhere by Jandy Nelson
+48. Before I Die by Jenny Downham
+49. The Statistical Probability of Love at First Sight by Jennifer E. Smith
+50. The Summer I Turned Pretty by Jenny Han
+
+These recommendations are based on the user's preference for young adult fiction, contemporary romance, and novels with themes of self-discovery and personal struggles.

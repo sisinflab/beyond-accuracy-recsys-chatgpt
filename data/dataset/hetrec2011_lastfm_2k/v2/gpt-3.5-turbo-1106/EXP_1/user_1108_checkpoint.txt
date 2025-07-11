@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Animal Collective
+2. Four Tet
+3. Autechre
+4. Aphex Twin
+5. J Dilla
+6. Bonobo
+7. Sigur Rós
+8. Portishead
+9. DJ Shadow
+10. RJD2
+11. Burial
+12. The Avalanches
+13. Oneohtrix Point Never
+14. Tim Hecker
+15. Clark
+16. Shabazz Palaces
+17. Mount Kimbie
+18. The Field
+19. Jon Hopkins
+20. Gold Panda
+21. Nosaj Thing
+22. Actress
+23. Tycho
+24. Bibio
+25. Lapalux
+26. Shlohmo
+27. Com Truise
+28. Lorn
+29. Teebs
+30. Baths
+31. Nosaj Thing
+32. Lone
+33. Dabrye
+34. Prefuse 73
+35. Flying Lotus
+36. Boards of Canada
+37. Caribou
+38. Telefon Tel Aviv
+39. Max Richter
+40. Ulver
+41. GZA/Genius
+42. The Knife
+43. Ghostface Killah
+44. Joanna Newsom
+45. DJ Krush
+46. DJ Spooky
+47. DJ Food
+48. DJ Cam
+49. DJ Vadim
+50. DJ Koze
+
+These recommendations are based on the user's liking for artists with similar styles and genres.

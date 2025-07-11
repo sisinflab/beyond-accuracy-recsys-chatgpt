@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Breaking Benjamin
+2. Linkin Park
+3. Red Hot Chili Peppers
+4. Green Day
+5. Foo Fighters
+6. My Chemical Romance
+7. Papa Roach
+8. Fall Out Boy
+9. Shinedown
+10. The Killers
+11. Incubus
+12. System of a Down
+13. 10 Years
+14. Chevelle
+15. Staind
+16. The Offspring
+17. Three Days Grace
+18. The Used
+19. Daughtry
+20. Muse
+21. The All-American Rejects
+22. OneRepublic
+23. Placebo
+24. Simple Plan
+25. 30 Seconds to Mars
+26. Hinder
+27. Evanescence
+28. Lifehouse
+29. Britney Spears
+30. AFI
+31. Within Temptation
+32. Nickelback
+33. Paramore
+34. Crossfade
+35. Avril Lavigne
+36. The Fray
+37. Lady Gaga
+38. The Veronicas
+39. Maroon 5
+40. Kanye West
+41. Damien Rice
+42. Jimmy Eat World
+43. Marilyn Manson
+44. Adema
+45. Panic! At the Disco
+46. 3 Doors Down
+47. Kelly Clarkson
+48. Switchfoot
+49. Sum 41
+50. Poets of the Fall
+
+These recommendations are based on the user's liking of similar artists and genres.

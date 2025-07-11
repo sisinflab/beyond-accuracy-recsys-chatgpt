@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Joy Division
+2. Radiohead
+3. New Order
+4. Siouxsie and the Banshees
+5. Interpol
+6. The Smiths
+7. R.E.M.
+8. Placebo
+9. Sonic Youth
+10. The Jesus and Mary Chain
+11. The Strokes
+12. Arctic Monkeys
+13. The National
+14. The Stone Roses
+15. Bauhaus
+16. The Sisters of Mercy
+17. Echo & the Bunnymen
+18. The Psychedelic Furs
+19. The Chameleons
+20. Cocteau Twins
+21. The Jesus Lizard
+22. Swans
+23. My Bloody Valentine
+24. Slowdive
+25. Ride
+26. Lush
+27. Curve
+28. The Horrors
+29. The War on Drugs
+30. Editors
+31. White Lies
+32. The Twilight Sad
+33. The Pains of Being Pure at Heart
+34. The Raveonettes
+35. Black Rebel Motorcycle Club
+36. The Kills
+37. The Black Angels
+38. BRMC
+39. The Brian Jonestown Massacre
+40. The Dandy Warhols
+41. The Verve
+42. Suede
+43. Pulp
+44. Blur
+45. Supergrass
+46. The Charlatans
+47. The Libertines
+48. The Kooks
+49. Franz Ferdinand
+50. Kasabian
+
+These recommendations are based on the user's liking of alternative rock, post-punk, and gothic rock artists.

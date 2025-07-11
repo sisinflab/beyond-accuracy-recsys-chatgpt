@@ -1,0 +1,14 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Picture of Dorian Gray by Oscar Wilde
+2. Alice's Adventures in Wonderland by Lewis Carroll
+3. City of Ashes by Cassandra Clare
+4. The Silence of the Lambs (novel) by Thomas Harris
+5. Dracula by Bram Stoker
+6. City of Glass (Mortal Instruments) by []
+7. Jack the Ripper: The Final Solution by Stephen Knight (author)
+8. Bad Girls (Wilson novel) by Jacqueline Wilson
+9. The Acid House by Irvine Welsh
+10. Hopscotch (Julio Cortázar novel) by []
+
+These recommendations are based on the user's previous likes and are ranked according to their potential interest.

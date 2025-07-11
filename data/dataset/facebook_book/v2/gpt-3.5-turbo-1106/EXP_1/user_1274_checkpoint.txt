@@ -1,0 +1,54 @@
+Based on user 1274's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Breakfast of Champions by Kurt Vonnegut
+3. God Bless You, Mr. Rosewater by Kurt Vonnegut
+4. Something Happened by Joseph Heller
+5. A Man Without a Country by Kurt Vonnegut
+6. Possible Side Effects by Augusten Burroughs
+7. Dry by Augusten Burroughs
+8. Survivor by Chuck Palahniuk
+9. Rant by Chuck Palahniuk
+10. Haunted by Chuck Palahniuk
+11. The Hellbound Heart by Clive Barker
+12. Weaveworld by Clive Barker
+13. The Great and Secret Show by Clive Barker
+14. The Ego and the Id by Sigmund Freud
+15. Beyond the Pleasure Principle by Sigmund Freud
+16. Civilization and Its Discontents by Sigmund Freud
+17. Brave New World by Aldous Huxley
+18. 1984 by George Orwell
+19. One Flew Over the Cuckoo's Nest by Ken Kesey
+20. The Bell Jar by Sylvia Plath
+21. The Catcher in the Rye by J.D. Salinger
+22. American Psycho by Bret Easton Ellis
+23. Less Than Zero by Bret Easton Ellis
+24. The Road by Cormac McCarthy
+25. Blood Meridian by Cormac McCarthy
+26. House of Leaves by Mark Z. Danielewski
+27. The Raw Shark Texts by Steven Hall
+28. The Wind-Up Bird Chronicle by Haruki Murakami
+29. Norwegian Wood by Haruki Murakami
+30. The Stranger by Albert Camus
+31. The Plague by Albert Camus
+32. The Metamorphosis by Franz Kafka
+33. The Trial by Franz Kafka
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Road to Wigan Pier by George Orwell
+36. A Clockwork Orange by Anthony Burgess
+37. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+38. The Handmaid's Tale by Margaret Atwood
+39. The Stand by Stephen King
+40. The Shining by Stephen King
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Secret History by Donna Tartt
+43. The Goldfinch by Donna Tartt
+44. The Virgin Suicides by Jeffrey Eugenides
+45. Middlesex by Jeffrey Eugenides
+46. The Corrections by Jonathan Franzen
+47. Infinite Jest by David Foster Wallace
+48. White Noise by Don DeLillo
+49. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+50. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+
+These recommendations are based on similar themes, authors, and genres to the books that user 1274 likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Sade
+2. Amy Winehouse
+3. Adele
+4. Michael Jackson
+5. Alicia Keys
+6. Bruno Mars
+7. Coldplay
+8. Ed Sheeran
+9. Fleetwood Mac
+10. George Benson
+11. John Legend
+12. Justin Timberlake
+13. Lauryn Hill
+14. Lionel Richie
+15. Luther Vandross
+16. Maroon 5
+17. Prince
+18. Rihanna
+19. Sam Smith
+20. Stevie Wonder
+21. Taylor Swift
+22. The Weeknd
+23. U2
+24. Whitney Houston
+25. Earth, Wind & Fire
+26. Aretha Franklin
+27. Bob Marley
+28. David Bowie
+29. Elton John
+30. Frank Sinatra
+31. Gloria Estefan
+32. Janet Jackson
+33. Madonna
+34. Marvin Gaye
+35. Nina Simone
+36. Otis Redding
+37. Paul McCartney
+38. Ray Charles
+39. Shakira
+40. The Beatles
+41. Tina Turner
+42. Usher
+43. Van Morrison
+44. Whitney Houston
+45. Diana Ross
+46. Elton John
+47. Janet Jackson
+48. Michael Jackson
+49. Prince
+50. Stevie Wonder
+
+These recommendations are based on the user's liking of similar artists and genres.

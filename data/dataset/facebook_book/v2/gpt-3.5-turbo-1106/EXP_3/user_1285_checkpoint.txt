@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 1285:
+
+1. Twilight (series)
+2. Evermore (book)
+3. Evernight (novel)
+4. Vampire Kisses
+5. Eldest
+6. Pet Sematary
+7. Misery (novel)
+8. Inkspell
+9. City of Glass (Mortal Instruments)
+10. Maximum Ride
+11. The Chronicles of Narnia
+12. Eragon
+13. The Giver
+14. The Immortals (books)
+15. The Wolves of Mercy Falls
+16. Fallen (Kate novel)
+17. Vampire Academy (novel)
+18. City of Ashes
+19. The Queen of the Damned
+20. Angels & Demons
+21. The Lovely Bones
+22. The Last Olympian
+23. The Chronicles of Narnia: Prince Caspian
+24. Harry Potter
+25. The Secret Garden
+26. Pride and Prejudice
+27. Romeo and Juliet
+28. Moby-Dick
+29. The Last Song (novel)
+30. The Secret (book)
+31. Need (novel series)
+32. The Shack
+33. The Catcher in the Rye
+34. The Lord of the Rings
+35. I Am Legend (novel)
+36. Peeps (novel)
+37. Tuck Everlasting
+38. The Wallflower (manga)
+39. Blue Moon (Noel novel)
+40. Fear Street
+41. Witch & Wizard
+42. Hunger (Hamsun novel)
+43. Inferno (Dante)
+44. Lucy (novel)
+45. Miss Christina
+46. A Summer to Die
+47. Thirteen Reasons Why
+48. Go Ask Alice
+49. Mythology (book)
+50. Artist's book
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended books to the ones the user already likes.

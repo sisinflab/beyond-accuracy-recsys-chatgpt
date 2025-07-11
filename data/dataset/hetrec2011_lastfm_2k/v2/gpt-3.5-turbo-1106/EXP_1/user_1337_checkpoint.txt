@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Florence + The Machine
+3. Tame Impala
+4. Lana Del Rey
+5. The xx
+6. HAIM
+7. Vampire Weekend
+8. Lorde
+9. Arcade Fire
+10. The National
+11. Phoenix
+12. The Cure
+13. Gorillaz
+14. The 1975
+15. CHVRCHES
+16. Arctic Monkeys
+17. The Strokes
+18. Franz Ferdinand
+19. Death Cab for Cutie
+20. Depeche Mode
+21. Lady Gaga
+22. The Kooks
+23. The Cardigans
+24. Architecture in Helsinki
+25. Ashlee Simpson
+26. Alanis Morissette
+27. Mallu Magalhães
+28. Madonna
+29. Kelly Clarkson
+30. Interpol
+31. The Shins
+32. The Donnas
+33. Black Eyed Peas
+34. Yeah Yeah Yeahs
+35. Mika
+36. Calvin Harris
+37. The Killers
+38. Belle and Sebastian
+39. Muse
+40. Bloc Party
+41. Vive la Fête
+42. Kasabian
+43. The Beatles
+44. Shakira
+45. Pixies
+46. Fischerspooner
+47. Glee Cast
+48. Cat Power
+49. Amy Winehouse
+50. CocoRosie
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

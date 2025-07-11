@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Secret History by Donna Tartt
+2. The Night Circus by Erin Morgenstern
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. The Book Thief by Markus Zusak
+7. The Goldfinch by Donna Tartt
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Great Gatsby by F. Scott Fitzgerald
+10. 1984 by George Orwell
+11. Brave New World by Aldous Huxley
+12. One Hundred Years of Solitude by Gabriel Garcia Marquez
+13. The Handmaid's Tale by Margaret Atwood
+14. The Road by Cormac McCarthy
+15. The Kite Runner by Khaled Hosseini
+16. The Alchemist by Paulo Coelho
+17. The Shadow of the Wind by Carlos Ruiz Zafón
+18. The Name of the Wind by Patrick Rothfuss
+19. The Nightingale by Kristin Hannah
+20. The Help by Kathryn Stockett
+21. The Girl on the Train by Paula Hawkins
+22. The Martian by Andy Weir
+23. The Hunger Games by Suzanne Collins
+24. Divergent by Veronica Roth
+25. The Maze Runner by James Dashner
+26. The Giver by Lois Lowry
+27. The Fault in Our Stars by John Green
+28. Eleanor & Park by Rainbow Rowell
+29. Fangirl by Rainbow Rowell
+30. The Hate U Give by Angie Thomas
+31. All the Light We Cannot See by Anthony Doerr
+32. Educated by Tara Westover
+33. Where the Crawdads Sing by Delia Owens
+34. Little Fires Everywhere by Celeste Ng
+35. Normal People by Sally Rooney
+36. The Silent Patient by Alex Michaelides
+37. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+38. Circe by Madeline Miller
+39. The Nightingale by Kristin Hannah
+40. The Light Between Oceans by M.L. Stedman
+41. The Night Circus by Erin Morgenstern
+42. The Book Thief by Markus Zusak
+43. The Goldfinch by Donna Tartt
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Great Gatsby by F. Scott Fitzgerald
+46. 1984 by George Orwell
+47. Brave New World by Aldous Huxley
+48. One Hundred Years of Solitude by Gabriel Garcia Marquez
+49. The Handmaid's Tale by Margaret Atwood
+50. The Road by Cormac McCarthy
+
+These recommendations are based on the user's preference for literary fiction, classics, and coming-of-age stories.

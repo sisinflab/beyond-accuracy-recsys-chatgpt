@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Night Circus by Erin Morgenstern
+2. The Book Thief by Markus Zusak
+3. The Shadow of the Wind by Carlos Ruiz Zafón
+4. The Nightingale by Kristin Hannah
+5. The Goldfinch by Donna Tartt
+6. The Secret History by Donna Tartt
+7. The Thirteenth Tale by Diane Setterfield
+8. The Time Traveler's Wife by Audrey Niffenegger
+9. The Historian by Elizabeth Kostova
+10. The Gargoyle by Andrew Davidson
+11. The Lovely Bones by Alice Sebold
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Help by Kathryn Stockett
+14. The Kite Runner by Khaled Hosseini
+15. The Alchemist by Paulo Coelho
+16. The Night Manager by John le Carré
+17. The Martian by Andy Weir
+18. The Hunger Games by Suzanne Collins
+19. The Girl on the Train by Paula Hawkins
+20. The Da Vinci Code by Dan Brown
+21. The Catcher in the Rye by J.D. Salinger
+22. The Bell Jar by Sylvia Plath
+23. The Road by Cormac McCarthy
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Name of the Wind by Patrick Rothfuss
+27. The Maze Runner by James Dashner
+28. The Handmaid's Tale by Margaret Atwood
+29. The Fault in Our Stars by John Green
+30. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+31. The Count of Monte Cristo by Alexandre Dumas
+32. The Book of Lost Things by John Connolly
+33. The Bone Clocks by David Mitchell
+34. The Beach by Alex Garland
+35. The Art of Racing in the Rain by Garth Stein
+36. The 7 Habits of Highly Effective People by Stephen R. Covey
+37. The 5 Love Languages by Gary Chapman
+38. The 48 Laws of Power by Robert Greene
+39. The 4-Hour Workweek by Timothy Ferriss
+40. The 7 Habits of Highly Effective Teens by Sean Covey
+41. The 5 AM Club by Robin Sharma
+42. The 80/20 Principle by Richard Koch
+43. The 7 Habits of Highly Effective Families by Stephen R. Covey
+44. The 4-Hour Body by Timothy Ferriss
+45. The 5 Second Rule by Mel Robbins
+46. The 5th Wave by Rick Yancey
+47. The 7 Habits of Highly Effective Network Marketing Professionals by Stephen R. Covey
+48. The 5th Horseman by James Patterson
+49. The 5th Horseman by James Patterson
+50. The 5th Wave by Rick Yancey
+
+These recommendations are based on the user's interest in fantasy, mystery, and historical fiction genres.

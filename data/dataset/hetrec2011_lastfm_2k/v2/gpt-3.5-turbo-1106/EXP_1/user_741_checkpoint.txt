@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. My Chemical Romance
+3. Red Hot Chili Peppers
+4. Blink-182
+5. Foo Fighters
+6. The Offspring
+7. System of a Down
+8. Three Days Grace
+9. The All-American Rejects
+10. Jimmy Eat World
+11. Panic! At The Disco
+12. The White Stripes
+13. Arctic Monkeys
+14. The Strokes
+15. Kings of Leon
+16. The Black Keys
+17. Imagine Dragons
+18. Florence + The Machine
+19. The Neighbourhood
+20. Cage The Elephant
+21. Twenty One Pilots
+22. Foster The People
+23. The 1975
+24. Hozier
+25. Bastille
+26. Vampire Weekend
+27. The Killers (if not already liked)
+28. Daft Punk (if not already liked)
+29. We The Kings (if not already liked)
+30. The Gaslight Anthem (if not already liked)
+31. AFI (if not already liked)
+32. Pendulum (if not already liked)
+33. Avenged Sevenfold
+34. Breaking Benjamin
+35. Shinedown
+36. Seether
+37. Chevelle
+38. Stone Sour
+39. Theory of a Deadman
+40. Puddle of Mudd
+41. 10 Years
+42. Trapt
+43. Evans Blue
+44. Crossfade
+45. Drowning Pool
+46. Saliva
+47. Adelitas Way
+48. Pop Evil
+49. Sick Puppies
+50. Nonpoint
+
+These recommendations are based on the user's liking of rock, alternative, and punk bands, as well as similar artists to those already liked.

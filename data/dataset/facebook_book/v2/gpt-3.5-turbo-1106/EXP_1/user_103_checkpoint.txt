@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. Dune by Frank Herbert
+5. Snow Crash by Neal Stephenson
+6. The Martian by Andy Weir
+7. Ender's Game by Orson Scott Card
+8. Fahrenheit 451 by Ray Bradbury
+9. The Handmaid's Tale by Margaret Atwood
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. The Road by Cormac McCarthy
+12. The Stand by Stephen King
+13. The Hunger Games by Suzanne Collins
+14. The Catcher in the Rye by J.D. Salinger
+15. The Giver by Lois Lowry
+16. The Alchemist by Paulo Coelho
+17. The Shadow of the Wind by Carlos Ruiz Zafón
+18. The Night Circus by Erin Morgenstern
+19. The Goldfinch by Donna Tartt
+20. The Secret History by Donna Tartt
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Name of the Rose by Umberto Eco
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Count of Monte Cristo by Alexandre Dumas
+25. The Book Thief by Markus Zusak
+26. The Kite Runner by Khaled Hosseini
+27. The Great Gatsby by F. Scott Fitzgerald
+28. To Kill a Mockingbird by Harper Lee
+29. One Hundred Years of Solitude by Gabriel García Márquez
+30. The Brothers Karamazov by Fyodor Dostoevsky
+31. Crime and Punishment by Fyodor Dostoevsky
+32. The Stranger by Albert Camus
+33. The Bell Jar by Sylvia Plath
+34. The Road to Wigan Pier by George Orwell
+35. The Grapes of Wrath by John Steinbeck
+36. The Sun Also Rises by Ernest Hemingway
+37. The Old Man and the Sea by Ernest Hemingway
+38. The Catcher in the Rye by J.D. Salinger
+39. The Glass Castle by Jeannette Walls
+40. The Poisonwood Bible by Barbara Kingsolver
+41. The Handmaid's Tale by Margaret Atwood
+42. The Color Purple by Alice Walker
+43. The Joy Luck Club by Amy Tan
+44. The Help by Kathryn Stockett
+45. The Secret Life of Bees by Sue Monk Kidd
+46. The Lovely Bones by Alice Sebold
+47. The Time Traveler's Wife by Audrey Niffenegger
+48. The Nightingale by Kristin Hannah
+49. The Book of Lost Things by John Connolly
+50. The Thirteenth Tale by Diane Setterfield
+
+These recommendations are based on the user's interest in dystopian fiction, science fiction, and contemporary literature.

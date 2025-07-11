@@ -1,0 +1,54 @@
+Based on user 1047's preferences, here are the top 50 recommendations for the given artists:
+
+1. Radiohead
+2. Sigur Rós
+3. Elliott Smith
+4. Beirut
+5. Pavement
+6. The Smiths
+7. Mogwai
+8. Explosions in the Sky
+9. Arcade Fire
+10. Broken Social Scene
+11. The National
+12. Bon Iver
+13. Grizzly Bear
+14. Morrissey
+15. Björk
+16. Massive Attack
+17. The Clash
+18. Talking Heads
+19. Genesis
+20. Queen
+21. Bruce Springsteen
+22. Johnny Cash
+23. Goo Goo Dolls
+24. Foo Fighters
+25. Muse
+26. Linkin Park
+27. Weezer
+28. Snow Patrol
+29. The Sisters of Mercy
+30. Pet Shop Boys
+31. Clint Mansell
+32. Stars
+33. Jack's Mannequin
+34. Bright Eyes
+35. Built to Spill
+36. Neil Young
+37. Beck
+38. Pixies
+39. Sufjan Stevens
+40. Jimmy Eat World
+41. Converge
+42. Against Me!
+43. Gorillaz
+44. Brand New
+45. New Found Glory
+46. Mastodon
+47. Mono
+48. Godspeed You! Black Emperor
+49. Mando Diao
+50. The Dillinger Escape Plan
+
+These recommendations are based on similar genres and artist preferences to user 1047's likes.

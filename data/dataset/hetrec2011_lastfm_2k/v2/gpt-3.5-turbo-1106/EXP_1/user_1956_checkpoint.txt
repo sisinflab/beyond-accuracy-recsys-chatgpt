@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pet Shop Boys
+2. Depeche Mode
+3. Roxette
+4. Eurythmics
+5. Kylie Minogue
+6. The Human League
+7. Erasure
+8. New Order
+9. Tears for Fears
+10. INXS
+11. George Michael
+12. Cyndi Lauper
+13. Simple Minds
+14. Spandau Ballet
+15. Culture Club
+16. Bananarama
+17. Thompson Twins
+18. Orchestral Manoeuvres in the Dark (OMD)
+19. Howard Jones
+20. The Bangles
+21. The Cure
+22. Siouxsie and the Banshees
+23. The Smiths
+24. Echo & the Bunnymen
+25. The Psychedelic Furs
+26. The Go-Go's
+27. The Pretenders
+28. Blondie
+29. Talking Heads
+30. The B-52's
+31. The Police
+32. Duran Duran
+33. a-ha
+34. Alphaville
+35. Enya
+36. Alizée
+37. Lady Gaga
+38. Madonna
+39. 浜崎あゆみ
+40. t.A.T.u.
+41. U2
+42. Take That
+43. 宇多田ヒカル
+44. Hans Zimmer
+45. Björk
+46. Beyoncé
+47. Vanessa Carlton
+48. The Cars
+49. Britney Spears
+50. ABBA
+
+These recommendations are based on the user's liking of similar artists and genres.

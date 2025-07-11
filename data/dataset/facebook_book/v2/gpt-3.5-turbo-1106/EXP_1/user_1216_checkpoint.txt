@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. Fahrenheit 451 by Ray Bradbury
+5. Lord of the Flies by William Golding
+6. Catcher in the Rye by J.D. Salinger
+7. The Catcher in the Rye by J.D. Salinger
+8. Animal Farm by George Orwell
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Grapes of Wrath by John Steinbeck
+11. East of Eden by John Steinbeck
+12. The Pearl by John Steinbeck
+13. Cannery Row by John Steinbeck
+14. The Winter of Our Discontent by John Steinbeck
+15. The Road by Cormac McCarthy
+16. Blood Meridian by Cormac McCarthy
+17. No Country for Old Men by Cormac McCarthy
+18. All the Pretty Horses by Cormac McCarthy
+19. The Crossing by Cormac McCarthy
+20. Child of God by Cormac McCarthy
+21. The Stand by Stephen King
+22. It by Stephen King
+23. The Shining by Stephen King
+24. Misery by Stephen King
+25. Pet Sematary by Stephen King
+26. Carrie by Stephen King
+27. The Dark Tower: The Gunslinger by Stephen King
+28. The Dark Tower II: The Drawing of the Three by Stephen King
+29. The Dark Tower III: The Waste Lands by Stephen King
+30. The Dark Tower IV: Wizard and Glass by Stephen King
+31. The Dark Tower V: Wolves of the Calla by Stephen King
+32. The Dark Tower VI: Song of Susannah by Stephen King
+33. The Dark Tower VII: The Dark Tower by Stephen King
+34. The Green Mile by Stephen King
+35. The Talisman by Stephen King and Peter Straub
+36. Black House by Stephen King and Peter Straub
+37. The Eyes of the Dragon by Stephen King
+38. The Stand: The Complete and Uncut Edition by Stephen King
+39. The Dead Zone by Stephen King
+40. Firestarter by Stephen King
+41. The Tommyknockers by Stephen King
+42. The Outsider by Stephen King
+43. The Institute by Stephen King
+44. The Long Walk by Stephen King
+45. The Running Man by Stephen King
+46. Thinner by Stephen King
+47. The Regulators by Stephen King
+48. Desperation by Stephen King
+49. The Dark Half by Stephen King
+50. Needful Things by Stephen King
+
+These recommendations are based on the user's interest in classic literature, science fiction, and dystopian novels.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. The Bell Jar by Sylvia Plath
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. The Fault in Our Stars by John Green
+8. The Hunger Games by Suzanne Collins
+9. Divergent by Veronica Roth
+10. The Maze Runner by James Dashner
+11. The Giver by Lois Lowry
+12. The Book Thief by Markus Zusak
+13. Eleanor & Park by Rainbow Rowell
+14. Paper Towns by John Green
+15. Looking for Alaska by John Green
+16. Thirteen Reasons Why by Jay Asher
+17. Speak by Laurie Halse Anderson
+18. The Outsiders by S.E. Hinton
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Fault in Our Stars by John Green
+21. The Hunger Games by Suzanne Collins
+22. Divergent by Veronica Roth
+23. The Maze Runner by James Dashner
+24. The Giver by Lois Lowry
+25. The Book Thief by Markus Zusak
+26. Eleanor & Park by Rainbow Rowell
+27. Paper Towns by John Green
+28. Looking for Alaska by John Green
+29. Thirteen Reasons Why by Jay Asher
+30. Speak by Laurie Halse Anderson
+31. The Catcher in the Rye by J.D. Salinger
+32. To Kill a Mockingbird by Harper Lee
+33. The Great Gatsby by F. Scott Fitzgerald
+34. 1984 by George Orwell
+35. The Bell Jar by Sylvia Plath
+36. The Perks of Being a Wallflower by Stephen Chbosky
+37. The Fault in Our Stars by John Green
+38. The Hunger Games by Suzanne Collins
+39. Divergent by Veronica Roth
+40. The Maze Runner by James Dashner
+41. The Giver by Lois Lowry
+42. The Book Thief by Markus Zusak
+43. Eleanor & Park by Rainbow Rowell
+44. Paper Towns by John Green
+45. Looking for Alaska by John Green
+46. Thirteen Reasons Why by Jay Asher
+47. Speak by Laurie Halse Anderson
+48. The Outsiders by S.E. Hinton
+49. The Perks of Being a Wallflower by Stephen Chbosky
+50. The Fault in Our Stars by John Green

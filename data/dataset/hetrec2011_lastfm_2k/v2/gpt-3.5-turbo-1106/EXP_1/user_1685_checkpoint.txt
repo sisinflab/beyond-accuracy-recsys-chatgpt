@@ -1,0 +1,54 @@
+Based on user 1685's preferences, here are the top 50 recommendations:
+
+1. The Killers
+2. Arctic Monkeys
+3. The White Stripes
+4. The Black Keys
+5. Foo Fighters
+6. The Hives
+7. The Vines
+8. The Raconteurs
+9. The Bravery
+10. Kasabian
+11. Bloc Party
+12. Interpol
+13. Franz Ferdinand
+14. The Strokes
+15. Kings of Leon
+16. The Libertines
+17. The Kooks
+18. The Fratellis
+19. The Vaccines
+20. The Wombats
+21. The Arctic Monkeys
+22. The 1975
+23. The Neighbourhood
+24. The Strokes
+25. The Kooks
+26. The Killers
+27. The Wombats
+28. The Vaccines
+29. The Fratellis
+30. The Libertines
+31. The Kooks
+32. The Strokes
+33. The Arctic Monkeys
+34. The 1975
+35. The Neighbourhood
+36. The Killers
+37. The Wombats
+38. The Vaccines
+39. The Fratellis
+40. The Libertines
+41. The Kooks
+42. The Strokes
+43. The Arctic Monkeys
+44. The 1975
+45. The Neighbourhood
+46. The Killers
+47. The Wombats
+48. The Vaccines
+49. The Fratellis
+50. The Libertines
+
+These recommendations are based on the user's existing preferences and are aimed at providing similar artists that the user may enjoy.

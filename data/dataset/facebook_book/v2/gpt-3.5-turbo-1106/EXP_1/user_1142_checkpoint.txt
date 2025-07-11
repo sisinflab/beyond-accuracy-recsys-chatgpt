@@ -1,0 +1,52 @@
+Based on user 1142's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. One Hundred Years of Solitude by Gabriel Garcia Marquez
+3. The Catcher in the Rye by J.D. Salinger
+4. The Bell Jar by Sylvia Plath
+5. The Road by Cormac McCarthy
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Handmaid's Tale by Margaret Atwood
+8. The Stand by Stephen King
+9. The Shining by Stephen King
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Grapes of Wrath by John Steinbeck
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. The Book Thief by Markus Zusak
+16. The Alchemist by Paulo Coelho
+17. Siddhartha by Hermann Hesse
+18. Pride and Prejudice by Jane Austen
+19. Norwegian Wood by Haruki Murakami
+20. Neverwhere by Neil Gaiman
+21. Misery by Stephen King
+22. Moby-Dick by Herman Melville
+23. Middlesex by Jeffrey Eugenides
+24. Me Talk Pretty One Day by David Sedaris
+25. Love in the Time of Cholera by Gabriel Garcia Marquez
+26. Life of Pi by Yann Martel
+27. Kafka on the Shore by Haruki Murakami
+28. Jane Eyre by Charlotte Bronte
+29. House of Leaves by Mark Z. Danielewski
+30. Heart of Darkness by Joseph Conrad
+31. Gone Girl by Gillian Flynn
+32. Fight Club by Chuck Palahniuk
+33. Fahrenheit 451 by Ray Bradbury
+34. Dune by Frank Herbert
+35. Dracula by Bram Stoker
+36. Crime and Punishment by Fyodor Dostoevsky
+37. Catch-22 by Joseph Heller
+38. Brave New World by Aldous Huxley
+39. Breakfast of Champions by Kurt Vonnegut
+40. Beloved by Toni Morrison
+41. A Clockwork Orange by Anthony Burgess
+42. 1984 by George Orwell
+43. Atonement by Ian McEwan
+44. Anna Karenina by Leo Tolstoy
+45. American Psycho by Bret Easton Ellis
+46. A Farewell to Arms by Ernest Hemingway
+47. Atonement by Ian McEwan
+48. A Clockwork Orange by Anthony Burgess
+49. 1984 by George Orwell
+50. Atonement by Ian McEwan

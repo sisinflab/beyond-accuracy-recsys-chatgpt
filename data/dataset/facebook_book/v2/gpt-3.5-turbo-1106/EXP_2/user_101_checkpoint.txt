@@ -1,0 +1,54 @@
+Based on user 101's liking of the books provided, here are the top 50 recommendations for them:
+
+1. The Fountainhead by Ayn Rand
+2. Atlas Shrugged by Ayn Rand
+3. Capitalism and Freedom by Milton Friedman
+4. The Wealth of Nations by Adam Smith
+5. The Selfish Gene by Richard Dawkins
+6. The God Delusion by Richard Dawkins
+7. God Is Not Great by Christopher Hitchens
+8. The Antichrist (book) by Friedrich Nietzsche
+9. The Age of Reason (novel) by Jean-Paul Sartre
+10. Sound of the Beast by Ian Christe
+11. The Unbearable Lightness of Being
+12. The Picture of Dorian Gray
+13. The Great Gatsby
+14. Brave New World
+15. The Hobbit
+16. The Catcher in the Rye
+17. Dracula
+18. The Maze Runner
+19. The City of Ember
+20. The Southern Vampire Mysteries
+21. The Lost Books (novel series)
+22. The Stand
+23. The Lord of the Rings
+24. The Silmarillion
+25. The House of Mirth
+26. The Giver
+27. The Phantom of the Opera
+28. The Scarlet Letter
+29. Crime and Punishment
+30. Strange Case of Dr Jekyll and Mr Hyde
+31. The Rapture (novel)
+32. Shakespeares sonnets
+33. Pygmalion (play)
+34. Through the Looking-Glass
+35. The Outsiders (novel)
+36. The Tenant of Wildfell Hall
+37. Invisible Man
+38. Lady Chatterleys Lover
+39. A Series of Unfortunate Events
+40. The Selfish Gene by Richard Dawkins
+41. The God Delusion by Richard Dawkins
+42. God Is Not Great by Christopher Hitchens
+43. The Antichrist (book) by Friedrich Nietzsche
+44. The Age of Reason (novel) by Jean-Paul Sartre
+45. Sound of the Beast by Ian Christe
+46. The Fountainhead by Ayn Rand
+47. Atlas Shrugged by Ayn Rand
+48. Capitalism and Freedom by Milton Friedman
+49. The Wealth of Nations by Adam Smith
+50. World War Z
+
+These recommendations are based on the user's liking of similar books and are ranked accordingly.

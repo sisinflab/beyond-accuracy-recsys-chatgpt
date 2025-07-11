@@ -1,0 +1,54 @@
+Based on user 412's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. Animal Farm by George Orwell
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. Crime and Punishment by Fyodor Dostoevsky
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Stranger by Albert Camus
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Road by Cormac McCarthy
+15. The Stand by Stephen King
+16. The Shining by Stephen King
+17. The Count of Monte Cristo by Alexandre Dumas
+18. The Alchemist by Paulo Coelho
+19. The Book Thief by Markus Zusak
+20. The Kite Runner by Khaled Hosseini
+21. A Thousand Splendid Suns by Khaled Hosseini
+22. The Grapes of Wrath by John Steinbeck
+23. East of Eden by John Steinbeck
+24. The Old Man and the Sea by Ernest Hemingway
+25. For Whom the Bell Tolls by Ernest Hemingway
+26. The Sun Also Rises by Ernest Hemingway
+27. The Name of the Wind by Patrick Rothfuss
+28. The Wise Man's Fear by Patrick Rothfuss
+29. The Night Circus by Erin Morgenstern
+30. The Goldfinch by Donna Tartt
+31. The Secret History by Donna Tartt
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Girl Who Played with Fire by Stieg Larsson
+34. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Angel's Game by Carlos Ruiz Zafón
+37. The Prisoner of Heaven by Carlos Ruiz Zafón
+38. The Name of the Rose by Umberto Eco
+39. The Island of the Day Before by Umberto Eco
+40. Foucault's Pendulum by Umberto Eco
+41. The Pillars of the Earth by Ken Follett
+42. World Without End by Ken Follett
+43. Fall of Giants by Ken Follett
+44. The Nightingale by Kristin Hannah
+45. Winter Garden by Kristin Hannah
+46. The Great Alone by Kristin Hannah
+47. The Martian by Andy Weir
+48. Artemis by Andy Weir
+49. Ready Player One by Ernest Cline
+50. Armada by Ernest Cline
+
+These recommendations are based on the user's interest in fantasy, classics, historical fiction, and literature.

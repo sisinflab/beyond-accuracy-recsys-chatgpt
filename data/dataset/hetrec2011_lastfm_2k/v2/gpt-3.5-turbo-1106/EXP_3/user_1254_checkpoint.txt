@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1254:
+
+1. Tool
+2. Dream Theater
+3. Pink Floyd
+4. Opeth
+5. Porcupine Tree
+6. Radiohead
+7. Metallica
+8. God Is an Astronaut
+9. Massive Attack
+10. Sigur Rós
+11. Boards of Canada
+12. Dark Tranquillity
+13. In Flames
+14. Deftones
+15. Anathema
+16. Infected Mushroom
+17. Katatonia
+18. HIM
+19. Apocalyptica
+20. Korn
+21. 30 Seconds to Mars
+22. The Beatles
+23. Stratovarius
+24. Foo Fighters
+25. VNV Nation
+26. Led Zeppelin
+27. Linkin Park
+28. Clint Mansell
+29. Scar Symmetry
+30. Silverchair
+31. Nick Drake
+32. Los Hermanos
+33. Hypocrisy
+34. King Crimson
+35. Therion
+36. 65daysofstatic
+37. Howard Shore
+38. System of a Down
+39. Muse
+40. Rush
+41. Pain of Salvation
+42. UNKLE
+43. Captain Beefheart & His Magic Band
+44. Genesis
+45. Blackfield
+46. Jeff Buckley
+47. Paradise Lost
+48. Queen
+49. Faith No More
+50. DevilDriver
+
+These recommendations are based on the user's existing preferences and are designed to introduce new artists that align with their tastes.

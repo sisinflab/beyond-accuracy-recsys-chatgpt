@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1439:
+
+1. The Smiths
+2. David Bowie
+3. Björk
+4. Tori Amos
+5. Marilyn Manson
+6. Siouxsie and the Banshees
+7. Depeche Mode
+8. The Cure
+9. Radiohead
+10. Nine Inch Nails
+11. The Beatles
+12. Jeff Buckley
+13. Fiona Apple
+14. Alanis Morissette
+15. Muse
+16. The Killers
+17. Foo Fighters
+18. The Cranberries
+19. The Shins
+20. Editors
+21. Cocteau Twins
+22. Metric
+23. System of a Down
+24. Kasabian
+25. Thom Yorke
+26. Kings of Convenience
+27. Coldplay
+28. Florence + the Machine
+29. Stone Sour
+30. Incubus
+31. Sick Puppies
+32. Pain of Salvation
+33. Porcupine Tree
+34. A Perfect Circle
+35. Avenged Sevenfold
+36. John Frusciante
+37. Jamie Cullum
+38. Frank Sinatra
+39. Yann Tiersen
+40. Keane
+41. Amy Winehouse
+42. Duran Duran
+43. The Birthday Massacre
+44. Crystal Castles
+45. dredg
+46. Los Hermanos
+47. Chico Buarque
+48. Gorillaz
+49. The Decemberists
+50. Nouvelle Vague
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their taste in music.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Katy Perry
+2. Demi Lovato
+3. Paramore
+4. P!nk
+5. The Pretty Reckless
+6. Fall Out Boy
+7. Demi Lovato
+8. The Veronicas
+9. All Time Low
+10. Panic! At The Disco
+11. Kelly Clarkson
+12. Maroon 5
+13. The All-American Rejects
+14. Nickelback
+15. Simple Plan
+16. Good Charlotte
+17. 30 Seconds to Mars
+18. My Chemical Romance
+19. The Offspring
+20. Sum 41
+21. Yellowcard
+22. We The Kings
+23. Boys Like Girls
+24. The Fray
+25. One Direction
+26. Ed Sheeran
+27. Imagine Dragons
+28. The Script
+29. Train
+30. Coldplay
+31. Arctic Monkeys
+32. Bastille
+33. The Neighbourhood
+34. Halsey
+35. Twenty One Pilots
+36. Lorde
+37. Florence + The Machine
+38. Lana Del Rey
+39. Sia
+40. Ellie Goulding
+41. Tove Lo
+42. Zara Larsson
+43. Alessia Cara
+44. Halsey
+45. Troye Sivan
+46. Shawn Mendes
+47. Charlie Puth
+48. Camila Cabello
+49. Dua Lipa
+50. Billie Eilish
+
+These recommendations are based on the user's liking of pop, rock, and alternative artists, as well as similar artists within those genres.

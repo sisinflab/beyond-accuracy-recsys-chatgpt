@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. Radiohead
+3. The Black Keys
+4. Florence + The Machine
+5. The Libertines
+6. Tame Impala
+7. The Vaccines
+8. The Hives
+9. Interpol
+10. The Cranberries
+11. The Smashing Pumpkins
+12. The 1975
+13. HAIM
+14. The xx
+15. Vampire Weekend
+16. Cage The Elephant
+17. Arctic Monkeys
+18. The Killers
+19. Amy Winehouse
+20. Pitty
+21. Lady Gaga
+22. Elvis Presley
+23. Duffy
+24. The Raveonettes
+25. Yeah Yeah Yeahs
+26. blink-182
+27. Green Day
+28. Pixies
+29. New Order
+30. Cansei de Ser Sexy
+31. Katy Perry
+32. The Kooks
+33. U2
+34. The Offspring
+35. The Pretty Reckless
+36. We Are Scientists
+37. Nirvana
+38. My Chemical Romance
+39. Bloc Party
+40. Marilyn Manson
+41. Hot Chip
+42. Foo Fighters
+43. Franz Ferdinand
+44. Kylie Minogue
+45. The Subways
+46. Madonna
+47. Ke$ha
+48. Dangerous Muse
+49. Britney Spears
+50. Mando Diao
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current likes.

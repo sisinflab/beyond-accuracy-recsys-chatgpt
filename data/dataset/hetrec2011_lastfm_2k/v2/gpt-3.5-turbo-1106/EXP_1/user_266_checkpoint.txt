@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Arctic Monkeys
+3. The Strokes
+4. The Smiths
+5. Kings of Leon
+6. Florence + The Machine
+7. The Verve
+8. Elbow
+9. The Cranberries
+10. The Libertines
+11. The Kooks
+12. Bloc Party
+13. Foals
+14. Interpol
+15. Editors
+16. Franz Ferdinand
+17. The National
+18. The War on Drugs
+19. Tame Impala
+20. Vampire Weekend
+21. Hozier
+22. Alt-J
+23. Bombay Bicycle Club
+24. Two Door Cinema Club
+25. Catfish and the Bottlemen
+26. The 1975
+27. Wolf Alice
+28. The Wombats
+29. The Vaccines
+30. Bastille
+31. Foster the People
+32. MGMT
+33. The Killers
+34. Keane
+35. Travis
+36. Blur
+37. Dido
+38. Snow Patrol
+39. Oasis
+40. Coldplay
+41. James Blunt
+42. Natalie Imbruglia
+43. Manic Street Preachers
+44. Razorlight
+45. Maroon 5
+46. The Cure
+47. Muse
+48. The Cardigans
+49. Placebo
+50. Shania Twain
+
+These recommendations are based on the user's existing preferences and are aimed at providing similar artists that the user may enjoy.

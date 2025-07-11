@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The xx
+3. Grizzly Bear
+4. The National
+5. Arcade Fire
+6. Tame Impala
+7. Phoenix
+8. The Strokes
+9. Bon Iver
+10. Fleet Foxes
+11. Beach House
+12. The War on Drugs
+13. Interpol
+14. Spoon
+15. Yeah Yeah Yeahs
+16. The Black Keys
+17. Arctic Monkeys
+18. Vampire Weekend
+19. MGMT
+20. The Flaming Lips
+21. Modest Mouse
+22. Spoon
+23. The Shins
+24. Sufjan Stevens
+25. Animal Collective
+26. LCD Soundsystem
+27. Foals
+28. My Bloody Valentine
+29. Deerhunter
+30. Boards of Canada
+31. Kate Nash
+32. M83
+33. Atlas Sound
+34. Weezer
+35. The Raveonettes
+36. The Pains of Being Pure at Heart
+37. Explosions in the Sky
+38. Crystal Castles
+39. Lady Gaga
+40. Tegan and Sara
+41. Sigur Rós
+42. Ladytron
+43. Blur
+44. Neutral Milk Hotel
+45. Ladyhawke
+46. Au Revoir Simone
+47. The Killers
+48. Yeasayer
+49. Los Campesinos!
+50. The Radio Dept.
+
+These recommendations are based on the user's liking of similar artists and genres.

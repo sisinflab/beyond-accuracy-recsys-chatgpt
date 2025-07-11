@@ -1,0 +1,54 @@
+Based on user 699's preferences, here are the top-50 recommendations for the given artists:
+
+1. The Doors
+2. Joy Division
+3. Bauhaus
+4. Siouxsie and the Banshees
+5. The Cure
+6. Depeche Mode
+7. New Order
+8. The Smiths
+9. Radiohead
+10. Nirvana
+11. Pixies
+12. The Beatles
+13. Queen
+14. David Bowie
+15. U2
+16. Madonna
+17. Michael Jackson
+18. The Police
+19. Simple Minds
+20. INXS
+21. Tears for Fears
+22. The Verve
+23. Muse
+24. Placebo
+25. Interpol
+26. The Cranberries
+27. The Stranglers
+28. Madness
+29. The Human League
+30. Eurythmics
+31. Pet Shop Boys
+32. Erasure
+33. Devo
+34. Kraftwerk
+35. Thomas Dolby
+36. Japan
+37. a-ha
+38. The Smiths
+39. New Order
+40. The Cure
+41. Depeche Mode
+42. Duran Duran
+43. The Beatles
+44. The Police
+45. Queen
+46. David Bowie
+47. U2
+48. Madonna
+49. Michael Jackson
+50. The Doors
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

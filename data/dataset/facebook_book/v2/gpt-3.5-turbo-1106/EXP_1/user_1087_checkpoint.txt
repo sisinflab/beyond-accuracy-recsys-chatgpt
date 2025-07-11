@@ -1,0 +1,54 @@
+Based on user 1087's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Brontë
+3. The Great Gatsby by F. Scott Fitzgerald
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. Little Women by Louisa May Alcott
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Emma by Jane Austen
+9. Great Expectations by Charles Dickens
+10. The Secret Garden by Frances Hodgson Burnett
+11. Persuasion by Jane Austen
+12. The Adventures of Huckleberry Finn by Mark Twain
+13. The Count of Monte Cristo by Alexandre Dumas
+14. The Scarlet Letter by Nathaniel Hawthorne
+15. The Hunchback of Notre-Dame by Victor Hugo
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Grapes of Wrath by John Steinbeck
+18. The Bell Jar by Sylvia Plath
+19. The Sun Also Rises by Ernest Hemingway
+20. The Sound and the Fury by William Faulkner
+21. A Farewell to Arms by Ernest Hemingway
+22. The Age of Innocence by Edith Wharton
+23. The Call of the Wild by Jack London
+24. The Jungle Book by Rudyard Kipling
+25. The Time Machine by H.G. Wells
+26. The War of the Worlds by H.G. Wells
+27. The Invisible Man by H.G. Wells
+28. The Island of Doctor Moreau by H.G. Wells
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Importance of Being Earnest by Oscar Wilde
+31. The Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+32. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+33. The Hound of the Baskervilles by Arthur Conan Doyle
+34. The Sign of Four by Arthur Conan Doyle
+35. The Lost World by Arthur Conan Doyle
+36. The Time Machine by H.G. Wells
+37. The War of the Worlds by H.G. Wells
+38. The Invisible Man by H.G. Wells
+39. The Island of Doctor Moreau by H.G. Wells
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Importance of Being Earnest by Oscar Wilde
+42. The Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+43. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+44. The Hound of the Baskervilles by Arthur Conan Doyle
+45. The Sign of Four by Arthur Conan Doyle
+46. The Lost World by Arthur Conan Doyle
+47. The Time Machine by H.G. Wells
+48. The War of the Worlds by H.G. Wells
+49. The Invisible Man by H.G. Wells
+50. The Island of Doctor Moreau by H.G. Wells
+
+These recommendations are based on the user's interest in classic literature and popular novels.

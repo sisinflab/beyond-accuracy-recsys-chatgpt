@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. To Kill a Mockingbird by Harper Lee
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. The Maze Runner by James Dashner
+7. The Giver by Lois Lowry
+8. The Book Thief by Markus Zusak
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Alchemist by Paulo Coelho
+11. The Catcher in the Rye by J.D. Salinger
+12. The Outsiders by S.E. Hinton
+13. The Great Gatsby by F. Scott Fitzgerald
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Secret Garden by Frances Hodgson Burnett
+17. Little Women by Louisa May Alcott
+18. Pride and Prejudice by Jane Austen
+19. Emma by Jane Austen
+20. Persuasion by Jane Austen
+21. Northanger Abbey by Jane Austen
+22. Mansfield Park by Jane Austen
+23. Wuthering Heights by Emily Bronte
+24. Jane Eyre by Charlotte Bronte
+25. Great Expectations by Charles Dickens
+26. A Tale of Two Cities by Charles Dickens
+27. Oliver Twist by Charles Dickens
+28. David Copperfield by Charles Dickens
+29. The Adventures of Tom Sawyer by Mark Twain
+30. The Adventures of Huckleberry Finn by Mark Twain
+31. The Picture of Dorian Gray by Oscar Wilde
+32. Dracula by Bram Stoker
+33. Frankenstein by Mary Shelley
+34. 1984 by George Orwell
+35. Animal Farm by George Orwell
+36. Brave New World by Aldous Huxley
+37. Fahrenheit 451 by Ray Bradbury
+38. The Handmaid's Tale by Margaret Atwood
+39. The Road by Cormac McCarthy
+40. The Stand by Stephen King
+41. It by Stephen King
+42. Pet Sematary by Stephen King
+43. Misery by Stephen King
+44. Carrie by Stephen King
+45. The Shining by Stephen King
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. Gone Girl by Gillian Flynn
+48. The Girl on the Train by Paula Hawkins
+49. Sharp Objects by Gillian Flynn
+50. Dark Places by Gillian Flynn
+
+These recommendations are based on the user's interest in young adult fiction, fantasy, and classic literature.

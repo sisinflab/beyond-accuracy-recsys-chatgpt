@@ -1,0 +1,54 @@
+Based on user 1712's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Neil Young
+2. David Gilmour
+3. The Velvet Underground
+4. The Mars Volta
+5. AC/DC
+6. Miles Davis
+7. The Rolling Stones
+8. Joy Division
+9. The Cure
+10. Talk Talk
+11. Roger Waters
+12. KISS
+13. Cat Stevens
+14. Jethro Tull
+15. King Crimson
+16. Depeche Mode
+17. Thom Yorke
+18. Creedence Clearwater Revival
+19. The Who
+20. Joe Satriani
+21. Eagles
+22. Trentemøller
+23. Mastodon
+24. Syd Barrett
+25. Eric Clapton
+26. Jack Johnson
+27. Captain Beefheart & His Magic Band
+28. Sigur Rós
+29. Rush
+30. Jimi Hendrix
+31. Bob Marley & The Wailers
+32. Mogwai
+33. Slayer
+34. Porcupine Tree
+35. Manu Chao
+36. Ólafur Arnalds
+37. Camel
+38. Skid Row
+39. W.A.S.P.
+40. Yes
+41. Paul McCartney
+42. Brian Eno
+43. Frank Sinatra
+44. Cinderella
+45. King Crimson
+46. Tori Amos
+47. Burzum
+48. Dream Theater
+49. Van Halen
+50. Katatonia
+
+These recommendations are based on similarities in musical style and genre to the user's listed preferences.

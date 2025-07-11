@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Chronicles of Narnia by C.S. Lewis
+3. Alice's Adventures in Wonderland by Lewis Carroll
+4. The Reptile Room by Lemony Snicket
+5. Eldest by Christopher Paolini
+6. Wuthering Heights by Emily Brontë
+7. Fantastic Beasts and Where to Find Them by J.K. Rowling
+8. The Catcher in the Rye by J.D. Salinger
+9. The Hunger Games by Suzanne Collins
+10. The Da Vinci Code by Dan Brown
+11. The Alchemist by Paulo Coelho
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Book Thief by Markus Zusak
+14. The Giver by Lois Lowry
+15. The Secret Garden by Frances Hodgson Burnett
+16. The Adventures of Tom Sawyer by Mark Twain
+17. The Chronicles of Prydain by Lloyd Alexander
+18. The Silmarillion by J.R.R. Tolkien
+19. The Wind in the Willows by Kenneth Grahame
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Little Prince by Antoine de Saint-Exupéry
+22. The Outsiders by S.E. Hinton
+23. The Maze Runner by James Dashner
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Night Circus by Erin Morgenstern
+26. The Name of the Wind by Patrick Rothfuss
+27. The Help by Kathryn Stockett
+28. The Color Purple by Alice Walker
+29. The Kite Runner by Khaled Hosseini
+30. The Handmaid's Tale by Margaret Atwood
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Count of Monte Cristo by Alexandre Dumas
+33. The Scarlet Letter by Nathaniel Hawthorne
+34. The Adventures of Huckleberry Finn by Mark Twain
+35. The Divine Comedy by Dante Alighieri
+36. The Canterbury Tales by Geoffrey Chaucer
+37. The Iliad by Homer
+38. The Odyssey by Homer
+39. The Aeneid by Virgil
+40. The Inferno by Dante Alighieri
+41. The Republic by Plato
+42. The Prince by Niccolò Machiavelli
+43. The Art of War by Sun Tzu
+44. The Wealth of Nations by Adam Smith
+45. The Communist Manifesto by Karl Marx
+46. The Origin of Species by Charles Darwin
+47. The Interpretation of Dreams by Sigmund Freud
+48. The Road Less Traveled by M. Scott Peck
+49. The Power of Now by Eckhart Tolle
+50. The 7 Habits of Highly Effective People by Stephen R. Covey
+
+These recommendations are based on the user's interest in fantasy, classic literature, and some non-fiction works.

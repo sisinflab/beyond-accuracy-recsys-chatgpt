@@ -1,0 +1,54 @@
+Based on user 1785's preferences, here are the top-50 recommendations for the user:
+
+1. The Beatles
+2. David Bowie
+3. The Smiths
+4. Radiohead
+5. Muse
+6. Arctic Monkeys
+7. Nirvana
+8. The Killers
+9. Queens of the Stone Age
+10. The White Stripes
+11. Kings of Leon
+12. Placebo
+13. R.E.M.
+14. Coldplay
+15. Beck
+16. Blur
+17. Kasabian
+18. White Lies
+19. Bloc Party
+20. Manic Street Preachers
+21. Two Door Cinema Club
+22. Mumford & Sons
+23. The xx
+24. Röyksopp
+25. Soulwax
+26. Pink Floyd
+27. The Cure
+28. Massive Attack
+29. Sigur Rós
+30. Thom Yorke
+31. Moby
+32. Air
+33. Zero 7
+34. Lamb of God
+35. Crystal Castles
+36. Clint Mansell
+37. Alexisonfire
+38. Tokyo Police Club
+39. Deep Purple
+40. Maroon 5
+41. Сплин
+42. Amethystium
+43. Eddie Vedder
+44. Marilyn Manson
+45. Arcade Fire
+46. Animal Collective
+47. HIM
+48. AFI
+49. Eagles
+50. Porcupine Tree
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

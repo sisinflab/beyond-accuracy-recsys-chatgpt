@@ -1,0 +1,54 @@
+Based on user 300's preferences, here are the top 50 recommendations for them:
+
+1. Pearl Jam
+2. Black Label Society
+3. Nightwish
+4. Within Temptation
+5. Eddie Vedder
+6. Matanza
+7. Sonata Arctica
+8. In Flames
+9. Ayreon
+10. Hinder
+11. Foo Fighters
+12. Radiohead
+13. Nirvana
+14. Green Day
+15. Red Hot Chili Peppers
+16. The Beatles
+17. U2
+18. Oasis
+19. Kings of Leon
+20. Nickelback
+21. MGMT
+22. Snow Patrol
+23. Shinedown
+24. Lifehouse
+25. Paramore
+26. Glee Cast
+27. Laura Pausini
+28. Ensiferum
+29. Depeche Mode
+30. The xx
+31. Beirut
+32. Miley Cyrus
+33. Michael Jackson
+34. Bob Marley
+35. Jason Mraz
+36. David Guetta
+37. Andrew Lloyd Webber
+38. The Kooks
+39. R.E.M.
+40. Ana Carolina
+41. James Blunt
+42. Blind Guardian
+43. Therion
+44. Charlie Brown Jr.
+45. Korpiklaani
+46. Enya
+47. The Cranberries
+48. The Offspring
+49. The Killers
+50. The Strokes
+
+These recommendations are based on similar genres and artists liked by user 300.

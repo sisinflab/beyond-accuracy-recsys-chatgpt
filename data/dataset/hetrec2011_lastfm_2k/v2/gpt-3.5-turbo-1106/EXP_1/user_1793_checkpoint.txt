@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Portishead
+2. Morcheeba
+3. Goldfrapp
+4. Zero 7
+5. Lamb
+6. Air
+7. DJ Shadow
+8. Thievery Corporation
+9. Moloko
+10. The xx
+11. Gorillaz
+12. Radiohead
+13. Björk
+14. Röyksopp
+15. Moby
+16. The Chemical Brothers
+17. Groove Armada
+18. Faithless
+19. The Prodigy
+20. Boards of Canada
+21. Aphex Twin
+22. Bonobo
+23. Little Dragon
+24. Massive Attack & Burial
+25. Tricky & Martina Topley-Bird
+26. Morcheeba & Big Daddy Kane
+27. Sneaker Pimps & Kelli Ali
+28. Portishead & Massive Attack
+29. Thievery Corporation & Emiliana Torrini
+30. Goldfrapp & Dave Gahan
+31. Zero 7 & Sia
+32. Lamb & Andy Barlow
+33. Air & Beth Hirsch
+34. DJ Shadow & Run The Jewels
+35. Moloko & Roisin Murphy
+36. The xx & Romy Madley Croft
+37. Gorillaz & De La Soul
+38. Radiohead & Thom Yorke
+39. Björk & Arca
+40. Röyksopp & Robyn
+41. Moby & Gwen Stefani
+42. The Chemical Brothers & Q-Tip
+43. Groove Armada & Gram'ma Funk
+44. Faithless & Dido
+45. The Prodigy & Keith Flint
+46. Boards of Canada & Tycho
+47. Aphex Twin & Squarepusher
+48. Bonobo & Andreya Triana
+49. Little Dragon & Yukimi Nagano
+50. Massive Attack & Young Fathers
+
+These recommendations are based on the user's liking of trip-hop, hip-hop, reggae, and alternative rock artists, and include similar artists and collaborations.

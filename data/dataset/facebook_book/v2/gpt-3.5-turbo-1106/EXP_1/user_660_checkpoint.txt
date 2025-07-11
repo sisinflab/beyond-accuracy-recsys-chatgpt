@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Hunger Games by Suzanne Collins
+9. The Da Vinci Code by Dan Brown
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Hobbit by J.R.R. Tolkien
+12. The Alchemist by Paulo Coelho
+13. The Kite Runner by Khaled Hosseini
+14. The Secret Garden by Frances Hodgson Burnett
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+17. The Road by Cormac McCarthy
+18. The Grapes of Wrath by John Steinbeck
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Bell Jar by Sylvia Plath
+21. The Handmaid's Tale by Margaret Atwood
+22. The Sun Also Rises by Ernest Hemingway
+23. The Color Purple by Alice Walker
+24. The Joy Luck Club by Amy Tan
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Book Thief by Markus Zusak
+27. The Night Circus by Erin Morgenstern
+28. The Goldfinch by Donna Tartt
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Name of the Wind by Patrick Rothfuss
+31. The Help by Kathryn Stockett
+32. The Fault in Our Stars by John Green
+33. The Maze Runner by James Dashner
+34. The Giver by Lois Lowry
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. The Lovely Bones by Alice Sebold
+37. The Glass Castle by Jeannette Walls
+38. The Martian by Andy Weir
+39. The Nightingale by Kristin Hannah
+40. The Handmaid's Tale by Margaret Atwood
+41. The Girl on the Train by Paula Hawkins
+42. The Silent Patient by Alex Michaelides
+43. The Tattooist of Auschwitz by Heather Morris
+44. The Alice Network by Kate Quinn
+45. The Nightingale by Kristin Hannah
+46. The Light Between Oceans by M.L. Stedman
+47. The Night Circus by Erin Morgenstern
+48. The Goldfinch by Donna Tartt
+49. The Shadow of the Wind by Carlos Ruiz Zafón
+50. The Name of the Wind by Patrick Rothfuss
+
+These recommendations are based on the user's interest in fantasy, classic literature, and popular fiction.

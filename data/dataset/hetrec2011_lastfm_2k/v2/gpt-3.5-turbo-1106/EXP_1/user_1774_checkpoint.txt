@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Taking Back Sunday
+2. Brand New
+3. The Used
+4. Thrice
+5. Anberlin
+6. AFI
+7. Taking Back Sunday
+8. Brand New
+9. The Used
+10. Thrice
+11. Anberlin
+12. AFI
+13. Senses Fail
+14. Silverstein
+15. Saosin
+16. Finch
+17. Story of the Year
+18. Funeral for a Friend
+19. Thursday
+20. Alexisonfire
+21. Underoath
+22. Atreyu
+23. From First to Last
+24. The Early November
+25. Armor for Sleep
+26. Emery
+27. Hawthorne Heights
+28. The Ataris
+29. The Movielife
+30. The Get Up Kids
+31. Saves the Day
+32. Jimmy Eat World
+33. Motion City Soundtrack
+34. The Starting Line
+35. New Found Glory
+36. Yellowcard
+37. All Time Low
+38. Mayday Parade
+39. The Maine
+40. We the Kings
+41. Boys Like Girls
+42. Forever the Sickest Kids
+43. The Academy Is...
+44. Cartel
+45. The All-American Rejects
+46. Plain White T's
+47. The Red Jumpsuit Apparatus
+48. The All-American Rejects
+49. Plain White T's
+50. The Red Jumpsuit Apparatus
+
+These recommendations are based on the user's liking of similar artists and genres.

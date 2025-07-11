@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. The Sisters of Mercy
+3. Placebo
+4. The Human League
+5. Echo & the Bunnymen
+6. Joy Division
+7. The Jesus and Mary Chain
+8. Cocteau Twins
+9. The Psychedelic Furs
+10. Bauhaus
+11. The Chameleons
+12. The Cult
+13. The Mission
+14. The Birthday Massacre
+15. Clan of Xymox
+16. She Wants Revenge
+17. The Crüxshadows
+18. The Damned
+19. The Bolshoi
+20. The Church
+21. The Sound
+22. The Horrors
+23. The Frozen Autumn
+24. The Cassandra Complex
+25. The March Violets
+26. The Danse Society
+27. The Wake
+28. The Exploding Boy
+29. The Merry Thoughts
+30. The Foreign Resort
+31. The Soft Moon
+32. The Frozen Autumn
+33. The Exploding Boy
+34. The Merry Thoughts
+35. The Foreign Resort
+36. The Soft Moon
+37. The Frozen Autumn
+38. The Exploding Boy
+39. The Merry Thoughts
+40. The Foreign Resort
+41. The Soft Moon
+42. The Frozen Autumn
+43. The Exploding Boy
+44. The Merry Thoughts
+45. The Foreign Resort
+46. The Soft Moon
+47. The Frozen Autumn
+48. The Exploding Boy
+49. The Merry Thoughts
+50. The Foreign Resort
+
+These recommendations are based on the user's liking for artists with similar musical styles and genres.

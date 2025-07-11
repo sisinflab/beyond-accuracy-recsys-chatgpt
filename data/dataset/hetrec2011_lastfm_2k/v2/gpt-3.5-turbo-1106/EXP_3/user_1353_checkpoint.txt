@@ -1,0 +1,54 @@
+Based on user 1353's preferences, here are the top-50 recommendations for the user:
+
+1. Metallica
+2. Avenged Sevenfold
+3. Disturbed
+4. Bullet for My Valentine
+5. Trivium
+6. Rise Against
+7. The Offspring
+8. Green Day
+9. System of a Down
+10. Linkin Park
+11. Slipknot
+12. Bring Me The Horizon
+13. A Day to Remember
+14. Stone Sour
+15. In Flames
+16. Three Days Grace
+17. Breaking Benjamin
+18. Five Finger Death Punch
+19. Hollywood Undead
+20. Escape The Fate
+21. Megadeth
+22. A Skylit Drive
+23. Atreyu
+24. Asking Alexandria
+25. We Came As Romans
+26. Story of the Year
+27. Underoath
+28. 30 Seconds to Mars
+29. All That Remains
+30. Shinedown
+31. Red
+32. Avantasia
+33. Eluveitie
+34. As I Lay Dying
+35. blessthefall
+36. Nine Inch Nails
+37. Foo Fighters
+38. Sum 41
+39. 3OH!3
+40. Pain
+41. Emarosa
+42. Attack Attack!
+43. System of a Down
+44. Slipknot
+45. Hollywood Undead
+46. Three Days Grace
+47. Linkin Park
+48. Breaking Benjamin
+49. Five Finger Death Punch
+50. Escape The Fate
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that the user may enjoy.

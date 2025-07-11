@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Black Sabbath
+2. Deep Purple
+3. Judas Priest
+4. Megadeth
+5. Iron Maiden
+6. Slayer
+7. Motorhead
+8. Pantera
+9. Testament
+10. Exodus
+11. Anthrax
+12. Sepultura
+13. Overkill
+14. Kreator
+15. Sodom
+16. Accept
+17. Venom
+18. Morbid Angel
+19. Death
+20. Obituary
+21. Cannibal Corpse
+22. Carcass
+23. Entombed
+24. Dismember
+25. Bolt Thrower
+26. At The Gates
+27. Darkthrone
+28. Mayhem
+29. Emperor
+30. Burzum
+31. Immortal
+32. Gorgoroth
+33. Behemoth
+34. Dimmu Borgir
+35. Satyricon
+36. Enslaved
+37. Watain
+38. Marduk
+39. Dark Funeral
+40. Dissection
+41. Bathory
+42. Mercyful Fate
+43. King Diamond
+44. Celtic Frost
+45. Saxon
+46. UFO
+47. Scorpions
+48. Rainbow
+49. Thin Lizzy
+50. Motorhead

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Handmaid's Tale by Margaret Atwood
+5. Lord of the Flies by William Golding
+6. The Road by Cormac McCarthy
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Bell Jar by Sylvia Plath
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Stranger by Albert Camus
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. A Clockwork Orange by Anthony Burgess
+14. The Stand by Stephen King
+15. The Road to Wigan Pier by George Orwell
+16. The Grapes of Wrath by John Steinbeck
+17. The Handmaid's Tale by Margaret Atwood
+18. The Metamorphosis by Franz Kafka
+19. The Trial by Franz Kafka
+20. The Plague by Albert Camus
+21. The Brothers Karamazov by Fyodor Dostoevsky
+22. Crime and Punishment by Fyodor Dostoevsky
+23. The Idiot by Fyodor Dostoevsky
+24. The Master and Margarita by Mikhail Bulgakov
+25. The Stranger by Albert Camus
+26. The Fall by Albert Camus
+27. The Plague by Albert Camus
+28. The Wind-Up Bird Chronicle by Haruki Murakami
+29. Norwegian Wood by Haruki Murakami
+30. Kafka on the Shore by Haruki Murakami
+31. The Handmaid's Tale by Margaret Atwood
+32. The Road by Cormac McCarthy
+33. The Stand by Stephen King
+34. The Road to Wigan Pier by George Orwell
+35. The Grapes of Wrath by John Steinbeck
+36. The Handmaid's Tale by Margaret Atwood
+37. The Metamorphosis by Franz Kafka
+38. The Trial by Franz Kafka
+39. The Plague by Albert Camus
+40. The Brothers Karamazov by Fyodor Dostoevsky
+41. Crime and Punishment by Fyodor Dostoevsky
+42. The Idiot by Fyodor Dostoevsky
+43. The Master and Margarita by Mikhail Bulgakov
+44. The Stranger by Albert Camus
+45. The Fall by Albert Camus
+46. The Plague by Albert Camus
+47. The Wind-Up Bird Chronicle by Haruki Murakami
+48. Norwegian Wood by Haruki Murakami
+49. Kafka on the Shore by Haruki Murakami
+50. The Handmaid's Tale by Margaret Atwood
+
+These recommendations are based on the user's interest in classic literature, dystopian themes, and psychological thrillers.

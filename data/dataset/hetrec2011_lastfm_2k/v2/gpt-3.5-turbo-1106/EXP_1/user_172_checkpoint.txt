@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smashing Pumpkins
+2. The Cure
+3. Interpol
+4. The Killers
+5. The White Stripes
+6. Nine Inch Nails
+7. The Libertines
+8. The Cranberries
+9. The Black Keys
+10. The Flaming Lips
+11. The Chemical Brothers
+12. The Verve
+13. The Hives
+14. The Raconteurs
+15. The Kooks
+16. The Fratellis
+17. The National
+18. The Jesus and Mary Chain
+19. The Velvet Underground
+20. The Stone Roses
+21. The Kinks
+22. The Smiths
+23. The Doors
+24. The Black Angels
+25. The Horrors
+26. The Raveonettes
+27. The War on Drugs
+28. The Brian Jonestown Massacre
+29. The Dandy Warhols
+30. The Kills
+31. The Bravery
+32. The Pains of Being Pure at Heart
+33. The Vaccines
+34. The Wombats
+35. The Zutons
+36. The Subways
+37. The Ting Tings
+38. The Futureheads
+39. The Maccabees
+40. The View
+41. The Courteeners
+42. The Pigeon Detectives
+43. The Cribs
+44. The Rapture
+45. The Drums
+46. The Horrors
+47. The Charlatans
+48. The Jesus and Mary Chain
+49. The Psychedelic Furs
+50. The Chameleons

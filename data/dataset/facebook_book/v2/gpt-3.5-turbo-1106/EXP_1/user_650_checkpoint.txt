@@ -1,0 +1,54 @@
+Based on the preferences of user 650, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. The Picture of Dorian Gray by Oscar Wilde
+3. Pride and Prejudice by Jane Austen
+4. The Great Gatsby by F. Scott Fitzgerald
+5. To Kill a Mockingbird by Harper Lee
+6. The Catcher in the Rye by J.D. Salinger
+7. 1984 by George Orwell
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Hobbit by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hunger Games by Suzanne Collins
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. Gone with the Wind by Margaret Mitchell
+14. The Da Vinci Code by Dan Brown
+15. The Alchemist by Paulo Coelho
+16. The Kite Runner by Khaled Hosseini
+17. The Book Thief by Markus Zusak
+18. The Secret Garden by Frances Hodgson Burnett
+19. Little Women by Louisa May Alcott
+20. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+21. The Count of Monte Cristo by Alexandre Dumas
+22. The Grapes of Wrath by John Steinbeck
+23. The Old Man and the Sea by Ernest Hemingway
+24. One Hundred Years of Solitude by Gabriel Garcia Marquez
+25. The Handmaid's Tale by Margaret Atwood
+26. The Bell Jar by Sylvia Plath
+27. The Road by Cormac McCarthy
+28. The Lovely Bones by Alice Sebold
+29. The Color Purple by Alice Walker
+30. The Joy Luck Club by Amy Tan
+31. The Help by Kathryn Stockett
+32. The Glass Castle by Jeannette Walls
+33. The Night Circus by Erin Morgenstern
+34. The Goldfinch by Donna Tartt
+35. The Secret History by Donna Tartt
+36. The Nightingale by Kristin Hannah
+37. The Light Between Oceans by M.L. Stedman
+38. The Nightingale by Kristin Hannah
+39. The Night Circus by Erin Morgenstern
+40. The Goldfinch by Donna Tartt
+41. The Secret History by Donna Tartt
+42. The Nightingale by Kristin Hannah
+43. The Light Between Oceans by M.L. Stedman
+44. The Nightingale by Kristin Hannah
+45. The Night Circus by Erin Morgenstern
+46. The Goldfinch by Donna Tartt
+47. The Secret History by Donna Tartt
+48. The Nightingale by Kristin Hannah
+49. The Light Between Oceans by M.L. Stedman
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on similar themes and genres to the books liked by user 650.

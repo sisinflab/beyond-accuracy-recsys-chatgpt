@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Catch-22 by Joseph Heller
+4. The Catcher in the Rye by J.D. Salinger
+5. Fahrenheit 451 by Ray Bradbury
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Bell Jar by Sylvia Plath
+10. The Road by Cormac McCarthy
+11. The Stranger by Albert Camus
+12. The Picture of Dorian Gray by Oscar Wilde
+13. Crime and Punishment by Fyodor Dostoevsky
+14. The Grapes of Wrath by John Steinbeck
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. The Sound and the Fury by William Faulkner
+19. The Road by Cormac McCarthy
+20. The Handmaid's Tale by Margaret Atwood
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Martian by Andy Weir
+23. The Name of the Wind by Patrick Rothfuss
+24. Dune by Frank Herbert
+25. Neuromancer by William Gibson
+26. Snow Crash by Neal Stephenson
+27. Ender's Game by Orson Scott Card
+28. The Left Hand of Darkness by Ursula K. Le Guin
+29. The Dispossessed by Ursula K. Le Guin
+30. The Foundation Trilogy by Isaac Asimov
+31. Do Androids Dream of Electric Sheep? by Philip K. Dick
+32. The Handmaid's Tale by Margaret Atwood
+33. The Left Hand of Darkness by Ursula K. Le Guin
+34. The Dispossessed by Ursula K. Le Guin
+35. The Foundation Trilogy by Isaac Asimov
+36. Do Androids Dream of Electric Sheep? by Philip K. Dick
+37. The Wind-Up Bird Chronicle by Haruki Murakami
+38. Norwegian Wood by Haruki Murakami
+39. Kafka on the Shore by Haruki Murakami
+40. 1Q84 by Haruki Murakami
+41. The Master and Margarita by Mikhail Bulgakov
+42. One Hundred Years of Solitude by Gabriel Garcia Marquez
+43. Love in the Time of Cholera by Gabriel Garcia Marquez
+44. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+45. The Shadow of the Wind by Carlos Ruiz Zafon
+46. The Angel's Game by Carlos Ruiz Zafon
+47. The Prisoner of Heaven by Carlos Ruiz Zafon
+48. The Night Circus by Erin Morgenstern
+49. The Starless Sea by Erin Morgenstern
+50. The Invisible Life of Addie LaRue by V.E. Schwab
+
+These recommendations are based on the user's interest in literary fiction, classics, and thought-provoking novels.

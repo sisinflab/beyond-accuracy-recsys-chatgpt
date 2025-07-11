@@ -1,0 +1,54 @@
+Based on user 2001's preferences, here are the top 50 recommendations:
+
+1. Lamb of God
+2. Megadeth
+3. Machine Head
+4. In Flames
+5. Testament
+6. Mastodon
+7. Gojira
+8. Parkway Drive
+9. Opeth
+10. Meshuggah
+11. Killswitch Engage
+12. Fear Factory
+13. Exodus
+14. At The Gates
+15. Arch Enemy
+16. Cannibal Corpse
+17. Behemoth
+18. Carcass
+19. Morbid Angel
+20. Whitechapel
+21. The Black Dahlia Murder
+22. Suicide Silence
+23. As I Lay Dying
+24. All That Remains
+25. Chimaira
+26. DevilDriver
+27. Trivium
+28. Hatebreed
+29. Five Finger Death Punch
+30. Bullet For My Valentine
+31. Avenged Sevenfold
+32. Slipknot
+33. Stone Sour
+34. Disturbed
+35. Korn
+36. System of a Down
+37. Rammstein
+38. Pantera
+39. Metallica
+40. Drowning Pool
+41. Raimundos
+42. Ozzy Osbourne
+43. Pearl Jam
+44. Godsmack
+45. Anthrax
+46. Alice in Chains
+47. Black Label Society
+48. Death
+49. Sepultura
+50. Kreator
+
+These recommendations are based on the user's liking of similar artists and are tailored to their specific taste in music.

@@ -1,0 +1,54 @@
+Based on user 4's preferences, here are the top-50 recommendations for them:
+
+1. Depeche Mode
+2. Radiohead
+3. Muse
+4. Coldplay
+5. Placebo
+6. Mew
+7. VAST
+8. Röyksopp
+9. Keane
+10. Garbage
+11. Porcupine Tree
+12. The Cranberries
+13. God Is an Astronaut
+14. Duran Duran
+15. a-ha
+16. Scorpions
+17. Roxette
+18. James Blunt
+19. George Michael
+20. Moby
+21. Michael Jackson
+22. Enrique Iglesias
+23. Robbie Williams
+24. Elton John
+25. Tears for Fears
+26. Opeth
+27. Poets of the Fall
+28. OneRepublic
+29. Britney Spears
+30. Lady Gaga
+31. Christina Aguilera
+32. Madonna
+33. Rihanna
+34. Shakira
+35. The Beatles
+36. Katy Perry
+37. Avril Lavigne
+38. Taylor Swift
+39. Evanescence
+40. Glee Cast
+41. Beyoncé
+42. U2
+43. 30 Seconds to Mars
+44. Pink Floyd
+45. Kylie Minogue
+46. Miley Cyrus
+47. Ke$ha
+48. Blur
+49. Arctic Monkeys
+50. The Killers
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

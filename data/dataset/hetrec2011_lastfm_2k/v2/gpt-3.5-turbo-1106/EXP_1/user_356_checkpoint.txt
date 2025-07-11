@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. A Day to Remember
+2. Parkway Drive
+3. The Devil Wears Prada
+4. Underoath
+5. Of Mice & Men
+6. August Burns Red
+7. Architects
+8. Crown the Empire
+9. Memphis May Fire
+10. The Amity Affliction
+11. Motionless In White
+12. Asking Alexandria
+13. Beartooth
+14. I See Stars
+15. Issues
+16. The Word Alive
+17. Chelsea Grin
+18. Miss May I
+19. Atreyu
+20. Norma Jean
+21. Every Time I Die
+22. The Ghost Inside
+23. Vanna
+24. For Today
+25. Fit For a King
+26. Like Moths to Flames
+27. Gideon
+28. My Ticket Home
+29. Senses Fail
+30. The Color Morale
+31. Ice Nine Kills
+32. Woe, Is Me
+33. A Skylit Drive
+34. Emarosa
+35. Secrets
+36. Hands Like Houses
+37. I Prevail
+38. The Plot In You
+39. The Red Jumpsuit Apparatus
+40. Silverstein
+41. We Came As Romans
+42. Hawthorne Heights
+43. We Butter The Bread With Butter
+44. Enter Shikari
+45. Bring Me The Horizon
+46. Drop Dead, Gorgeous
+47. As I Lay Dying
+48. blessthefall
+49. Suicide Silence
+50. 3OH!3
+
+These recommendations are based on the user's liking of similar artists and are tailored to their music preferences.

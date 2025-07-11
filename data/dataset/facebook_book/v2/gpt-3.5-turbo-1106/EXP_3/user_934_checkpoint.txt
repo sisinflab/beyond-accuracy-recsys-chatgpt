@@ -1,0 +1,54 @@
+Based on user 934's preferences, here are the top-50 recommendations re-ranked for them:
+
+1. Brave New World
+2. The Catcher in the Rye
+3. The Great Gatsby
+4. Nineteen Eighty-Four
+5. Fahrenheit 451
+6. The Lord of the Rings
+7. Angels & Demons
+8. The Silence of the Lambs (novel)
+9. Hannibal (novel)
+10. The Tipping Point
+11. Digital Fortress
+12. The Lovely Bones
+13. Death of a Salesman
+14. The Fountainhead
+15. Inferno (Dante)
+16. The Hellbound Heart
+17. The Watchmen (novel)
+18. Running with Scissors (memoir)
+19. The Electric Kool-Aid Acid Test
+20. Look Me in the Eye
+21. Fear and Loathing in Las Vegas
+22. The Interpretation of Dreams
+23. The Dresden Files
+24. Player Piano (novel)
+25. Choke (novel)
+26. Rant (novel)
+27. Diary (novel)
+28. Death Note Another Note: The Los Angeles BB Murder Cases
+29. Gaunt's Ghosts
+30. The Heroin Diaries: A Year in the Life of a Shattered Rock Star
+31. The Martian Chronicles
+32. The Art of Racing in the Rain
+33. The Rule of Four
+34. Life of Pi
+35. The Scarlet Pimpernel
+36. The Dirt
+37. 'Tis
+38. Strange Case of Dr Jekyll and Mr Hyde
+39. Breakfast of Champions
+40. Cat's Cradle
+41. Slaughterhouse-Five
+42. The Catcher in the Rye
+43. The Martian Chronicles
+44. The Rule of Four
+45. Life of Pi
+46. The Scarlet Pimpernel
+47. The Dirt
+48. 'Tis
+49. Strange Case of Dr Jekyll and Mr Hyde
+50. Breakfast of Champions
+
+These recommendations are based on the user's previous likes and the similarity of the recommended books to those likes.

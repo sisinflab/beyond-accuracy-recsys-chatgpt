@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Yes
+2. David Bowie
+3. The Who
+4. Cream
+5. The Rolling Stones
+6. Jimi Hendrix
+7. Van Halen
+8. The Kinks
+9. The Velvet Underground
+10. The Allman Brothers Band
+11. Lynyrd Skynyrd
+12. Steppenwolf
+13. The Byrds
+14. The Yardbirds
+15. Blue Öyster Cult
+16. ZZ Top
+17. The Moody Blues
+18. The Animals
+19. T. Rex
+20. Uriah Heep
+21. Hawkwind
+22. Deep Purple
+23. Jethro Tull
+24. King Crimson
+25. Emerson, Lake & Palmer
+26. Yes
+27. Genesis
+28. Gentle Giant
+29. Camel
+30. Caravan
+31. Atomic Rooster
+32. Van der Graaf Generator
+33. Focus
+34. Renaissance
+35. Barclay James Harvest
+36. Procol Harum
+37. Kansas
+38. Styx
+39. Boston
+40. Foreigner
+41. Journey
+42. REO Speedwagon
+43. Cheap Trick
+44. Bad Company
+45. Foghat
+46. Ted Nugent
+47. Montrose
+48. Blue Cheer
+49. Mountain
+50. Cactus
+
+These recommendations are based on the user's liking of classic rock and progressive rock bands, as well as similar artists and bands within the same genre.

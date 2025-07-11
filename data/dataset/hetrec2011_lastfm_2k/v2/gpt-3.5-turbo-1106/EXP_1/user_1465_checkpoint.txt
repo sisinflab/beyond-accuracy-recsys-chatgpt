@@ -1,0 +1,54 @@
+Based on user 1465's preferences, here are the top 50 recommendations:
+
+1. Ed Sheeran
+2. Sara Bareilles
+3. Gavin DeGraw
+4. Colbie Caillat
+5. OneRepublic
+6. The Script
+7. Train
+8. Rob Thomas
+9. John Mayer
+10. Ingrid Michaelson
+11. Andy Grammer
+12. Phillip Phillips
+13. Christina Perri
+14. The Fray
+15. Hozier
+16. Imagine Dragons
+17. Vance Joy
+18. Passenger
+19. Halsey
+20. Alessia Cara
+21. Shawn Mendes
+22. Demi Lovato
+23. Zara Larsson
+24. Charlie Puth
+25. DNCE
+26. Troye Sivan
+27. Tove Lo
+28. Lorde
+29. Bastille
+30. X Ambassadors
+31. Twenty One Pilots
+32. The Chainsmokers
+33. Clean Bandit
+34. Ellie Goulding
+35. Sam Smith
+36. Adele
+37. Coldplay
+38. Maroon 5
+39. Keane
+40. Kelly Clarkson
+41. Corinne Bailey Rae
+42. Linkin Park
+43. Glee Cast
+44. Shakira
+45. Rise Against
+46. Hoobastank
+47. Rihanna
+48. Nelly Furtado
+49. Beyoncé
+50. David Cook
+
+These recommendations are based on the similar music preferences of user 1465 and include a mix of popular and emerging artists across various genres.

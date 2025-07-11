@@ -1,0 +1,54 @@
+Based on user 1500's preferences, here are the top 50 recommendations for the given artists:
+
+1. The Cure
+2. Depeche Mode
+3. Dead Can Dance
+4. Massive Attack
+5. The Killers
+6. Erasure
+7. Ladytron
+8. Clan of Xymox
+9. She Wants Revenge
+10. Muse
+11. Epica
+12. Tori Amos
+13. Pet Shop Boys
+14. Dave Gahan
+15. Billy Idol
+16. Bush
+17. KMFDM
+18. The Birthday Massacre
+19. Ayria
+20. Alice in Chains
+21. The Crüxshadows
+22. Anathema
+23. Crowded House
+24. L'Âme Immortelle
+25. Paramore
+26. Björk
+27. Electric Light Orchestra
+28. Queen
+29. Blutengel
+30. Within Temptation
+31. Incubus
+32. The Doors
+33. The Cranberries
+34. Placebo
+35. Deathstars
+36. Nine Inch Nails
+37. Lacuna Coil
+38. 30 Seconds to Mars
+39. Foo Fighters
+40. Kings of Leon
+41. The Verve
+42. Coldplay
+43. Nitzer Ebb
+44. And One
+45. Mesh
+46. De/Vision
+47. Pearl Jam
+48. Paradise Lost
+49. Norther
+50. Johann Sebastian Bach
+
+These recommendations are based on similar genres and artists liked by user 1500.

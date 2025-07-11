@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel Garcia Marquez
+2. Siddhartha by Hermann Hesse
+3. The Stranger by Albert Camus
+4. The Alchemist by Paulo Coelho
+5. The Catcher in the Rye by J.D. Salinger
+6. Brave New World by Aldous Huxley
+7. 1984 by George Orwell
+8. The Road by Cormac McCarthy
+9. The Brothers Karamazov by Fyodor Dostoyevsky
+10. The Metamorphosis by Franz Kafka
+11. The Unbearable Lightness of Being by Milan Kundera
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Bell Jar by Sylvia Plath
+14. The Book Thief by Markus Zusak
+15. The Kite Runner by Khaled Hosseini
+16. The Great Gatsby by F. Scott Fitzgerald
+17. To Kill a Mockingbird by Harper Lee
+18. The Grapes of Wrath by John Steinbeck
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Sun Also Rises by Ernest Hemingway
+21. The Sound and the Fury by William Faulkner
+22. A Clockwork Orange by Anthony Burgess
+23. Lolita by Vladimir Nabokov
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Name of the Wind by Patrick Rothfuss
+26. The Shadow of the Wind by Carlos Ruiz Zafon
+27. The Night Circus by Erin Morgenstern
+28. The Secret History by Donna Tartt
+29. The Goldfinch by Donna Tartt
+30. The Art of Racing in the Rain by Garth Stein
+31. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+32. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+33. The Poisonwood Bible by Barbara Kingsolver
+34. The Secret Garden by Frances Hodgson Burnett
+35. The Little Prince by Antoine de Saint-Exupery
+36. The Chronicles of Narnia by C.S. Lewis
+37. The Wind-Up Bird Chronicle by Haruki Murakami
+38. The Master and Margarita by Mikhail Bulgakov
+39. The Handmaid's Tale by Margaret Atwood
+40. The Road Less Traveled by M. Scott Peck
+41. The Power of Now by Eckhart Tolle
+42. The Four Agreements by Don Miguel Ruiz
+43. The Art of Happiness by Dalai Lama
+44. The Prophet by Kahlil Gibran
+45. The Celestine Prophecy by James Redfield
+46. The Teachings of Don Juan by Carlos Castaneda
+47. The Black Swan by Nassim Nicholas Taleb
+48. Crime and Punishment by Fyodor Dostoyevsky
+49. Waiting for Godot by Samuel Beckett
+50. Fooled by Randomness by Nassim Nicholas Taleb
+
+These recommendations are based on similar themes, genres, and authors to the books the user already likes.

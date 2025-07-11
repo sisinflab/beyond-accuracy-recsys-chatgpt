@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Magician's Nephew by C. S. Lewis
+2. Prince Caspian by C. S. Lewis
+3. The Silver Chair by C. S. Lewis
+4. The Hobbit by J.R.R. Tolkien
+5. The Fellowship of the Ring by J.R.R. Tolkien
+6. The Two Towers by J.R.R. Tolkien
+7. The Return of the King by J.R.R. Tolkien
+8. The Chronicles of Narnia Box Set by C. S. Lewis
+9. The Secret Garden by Frances Hodgson Burnett
+10. Alice's Adventures in Wonderland by Lewis Carroll
+11. Through the Looking-Glass by Lewis Carroll
+12. The Little Prince by Antoine de Saint-Exupéry
+13. The Giver by Lois Lowry
+14. The Golden Compass by Philip Pullman
+15. The Subtle Knife by Philip Pullman
+16. The Amber Spyglass by Philip Pullman
+17. The Hunger Games by Suzanne Collins
+18. Catching Fire by Suzanne Collins
+19. Mockingjay by Suzanne Collins
+20. Divergent by Veronica Roth
+21. Insurgent by Veronica Roth
+22. Allegiant by Veronica Roth
+23. The Maze Runner by James Dashner
+24. The Scorch Trials by James Dashner
+25. The Death Cure by James Dashner
+26. Eragon by Christopher Paolini
+27. Eldest by Christopher Paolini
+28. Brisingr by Christopher Paolini
+29. Inheritance by Christopher Paolini
+30. The Book Thief by Markus Zusak
+31. The Fault in Our Stars by John Green
+32. Paper Towns by John Green
+33. Looking for Alaska by John Green
+34. An Abundance of Katherines by John Green
+35. The Girl on the Train by Paula Hawkins
+36. Gone Girl by Gillian Flynn
+37. Sharp Objects by Gillian Flynn
+38. Dark Places by Gillian Flynn
+39. The Night Circus by Erin Morgenstern
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Lovely Bones by Alice Sebold
+42. The Help by Kathryn Stockett
+43. Water for Elephants by Sara Gruen
+44. The Kite Runner by Khaled Hosseini
+45. A Thousand Splendid Suns by Khaled Hosseini
+46. And Then There Were None by Agatha Christie
+47. Murder on the Orient Express by Agatha Christie
+48. The Da Vinci Code by Dan Brown
+49. Angels & Demons by Dan Brown
+50. The Girl with the Dragon Tattoo by Stieg Larsson
+
+These recommendations are based on the user's interest in fantasy, adventure, and popular fiction.

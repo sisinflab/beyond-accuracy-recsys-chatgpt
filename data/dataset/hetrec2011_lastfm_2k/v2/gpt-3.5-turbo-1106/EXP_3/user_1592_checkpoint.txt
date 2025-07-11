@@ -1,0 +1,54 @@
+Based on user 1592's preferences, here are the top-50 recommendations for the user:
+
+1. The Who
+2. Black Sabbath
+3. Megadeth
+4. Bon Jovi
+5. The Offspring
+6. Ramones
+7. Def Leppard
+8. Blink-182
+9. The White Stripes
+10. Frank Zappa
+11. The Beatles
+12. Pink Floyd
+13. Led Zeppelin
+14. The Police
+15. Jimi Hendrix
+16. Slayer
+17. Iron Maiden
+18. Raul Seixas
+19. The Black Keys
+20. The Rolling Stones
+21. Alice in Chains
+22. Nirvana
+23. Metallica
+24. Pearl Jam
+25. Red Hot Chili Peppers
+26. Queen
+27. Aerosmith
+28. Green Day
+29. Foo Fighters
+30. Linkin Park
+31. Audioslave
+32. Incubus
+33. Sum 41
+34. Oasis
+35. Staind
+36. Evanescence
+37. Nickelback
+38. Lostprophets
+39. Avenged Sevenfold
+40. Skillet
+41. Papa Roach
+42. 3 Doors Down
+43. Limp Bizkit
+44. Van Halen
+45. U2
+46. Scorpions
+47. The Killers
+48. Yellowcard
+49. Bad Religion
+50. AC/DC
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that the user may enjoy.

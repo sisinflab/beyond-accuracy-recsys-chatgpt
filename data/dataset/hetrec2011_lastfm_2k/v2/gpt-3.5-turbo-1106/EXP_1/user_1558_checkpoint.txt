@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Muse
+3. Linkin Park
+4. Fall Out Boy
+5. Panic! At The Disco
+6. Evanescence
+7. Avril Lavigne
+8. Arctic Monkeys
+9. Florence + The Machine
+10. The Offspring
+11. Red Hot Chili Peppers
+12. The White Stripes
+13. Imagine Dragons
+14. The Cranberries
+15. Halsey
+16. Lorde
+17. The Smashing Pumpkins
+18. The Neighbourhood
+19. Twenty One Pilots
+20. Paramore
+21. The 1975
+22. The Black Keys
+23. Coldplay
+24. Maroon 5
+25. Foo Fighters
+26. Oasis
+27. Radiohead
+28. The xx
+29. Bastille
+30. The Killers
+31. Kings of Leon
+32. Arctic Monkeys
+33. The Strokes
+34. Franz Ferdinand
+35. Vampire Weekend
+36. The Libertines
+37. The Kooks
+38. The Verve
+39. The Fratellis
+40. The Wombats
+41. Bloc Party
+42. Kaiser Chiefs
+43. The Hives
+44. The Vaccines
+45. Interpol
+46. Editors
+47. The Bravery
+48. Razorlight
+49. The Pigeon Detectives
+50. The Courteeners
+
+These recommendations are based on the user's liking of similar artists and genres.

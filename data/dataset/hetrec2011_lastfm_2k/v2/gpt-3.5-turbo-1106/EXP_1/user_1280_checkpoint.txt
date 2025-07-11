@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Arctic Monkeys
+3. The Strokes
+4. The Smashing Pumpkins
+5. Blur
+6. PJ Harvey
+7. The White Stripes
+8. The Chemical Brothers
+9. Suede
+10. Pulp
+11. The Verve
+12. The Cranberries
+13. Placebo
+14. The Libertines
+15. The Flaming Lips
+16. Interpol
+17. Yeah Yeah Yeahs
+18. The Hives
+19. The Cardigans
+20. The Jesus and Mary Chain
+21. The Stone Roses
+22. The Charlatans
+23. The La's
+24. Supergrass
+25. The Kooks
+26. The Horrors
+27. The Vaccines
+28. The Wombats
+29. The Zutons
+30. The Coral
+31. The Futureheads
+32. The Pigeon Detectives
+33. The Cribs
+34. The Maccabees
+35. The Courteeners
+36. The View
+37. The Fratellis
+38. The Enemy
+39. The Twang
+40. The Rifles
+41. The Pains of Being Pure at Heart
+42. The Drums
+43. The Raveonettes
+44. The Kills
+45. The Black Keys
+46. The Ting Tings
+47. The Naked and Famous
+48. The Joy Formidable
+49. The xx
+50. The 1975
+
+These recommendations are based on the user's liking of alternative and indie rock bands, as well as electronic and pop artists.

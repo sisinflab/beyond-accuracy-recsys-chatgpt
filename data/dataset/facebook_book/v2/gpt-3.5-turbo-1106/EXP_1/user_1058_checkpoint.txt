@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Matilda by Roald Dahl
+2. The BFG by Roald Dahl
+3. James and the Giant Peach by Roald Dahl
+4. The Witches by Roald Dahl
+5. The Twits by Roald Dahl
+6. Fantastic Mr. Fox by Roald Dahl
+7. Esio Trot by Roald Dahl
+8. Boy: Tales of Childhood by Roald Dahl
+9. The Enormous Crocodile by Roald Dahl
+10. George's Marvellous Medicine by Roald Dahl
+11. The Magic Finger by Roald Dahl
+12. Danny the Champion of the World by Roald Dahl
+13. The Giraffe and the Pelly and Me by Roald Dahl
+14. Charlie and the Great Glass Elevator by Roald Dahl
+15. The BFG by Roald Dahl
+16. The Witches by Roald Dahl
+17. The Twits by Roald Dahl
+18. Fantastic Mr. Fox by Roald Dahl
+19. Esio Trot by Roald Dahl
+20. Boy: Tales of Childhood by Roald Dahl
+21. The Enormous Crocodile by Roald Dahl
+22. George's Marvellous Medicine by Roald Dahl
+23. The Magic Finger by Roald Dahl
+24. Danny the Champion of the World by Roald Dahl
+25. The Giraffe and the Pelly and Me by Roald Dahl
+26. Charlie and the Great Glass Elevator by Roald Dahl
+27. Love Story by Erich Segal
+28. Oliver's Story by Erich Segal
+29. Doctors by Erich Segal
+30. The Class by Erich Segal
+31. Prizes by Erich Segal
+32. Acts of Faith by Erich Segal
+33. Only Love by Erich Segal
+34. The Da Vinci Code by Dan Brown
+35. Angels & Demons by Dan Brown
+36. Inferno by Dan Brown
+37. The Lost Symbol by Dan Brown
+38. Digital Fortress by Dan Brown
+39. Deception Point by Dan Brown
+40. Origin by Dan Brown
+41. The Great Gatsby by F. Scott Fitzgerald
+42. To Kill a Mockingbird by Harper Lee
+43. 1984 by George Orwell
+44. Animal Farm by George Orwell
+45. The Catcher in the Rye by J.D. Salinger
+46. Lord of the Flies by William Golding
+47. Brave New World by Aldous Huxley
+48. Fahrenheit 451 by Ray Bradbury
+49. One Hundred Years of Solitude by Gabriel Garcia Marquez
+50. The Alchemist by Paulo Coelho
+
+These recommendations are based on the user's liking of specific authors and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Slayer
+3. Pantera
+4. Lamb of God
+5. Opeth
+6. Mastodon
+7. Machine Head
+8. In Flames
+9. Gojira
+10. Testament
+11. Sepultura
+12. Anthrax
+13. Kreator
+14. Megadeth
+15. Black Label Society
+16. Trivium
+17. Yanni
+18. Eddie Vedder
+19. Bullet for My Valentine
+20. Pearl Jam
+21. Children of Bodom
+22. Arch Enemy
+23. Dio
+24. Raul Seixas
+25. Los Hermanos
+26. Soulfly
+27. Iron Maiden
+28. Rage Against the Machine
+29. The Beatles
+30. Eluveitie
+31. Dimmu Borgir
+32. Bring Me The Horizon
+33. Amorphis
+34. Dream Theater
+35. Tool
+36. Slipknot
+37. Korn
+38. System of a Down
+39. Avenged Sevenfold
+40. Five Finger Death Punch
+41. Disturbed
+42. Amon Amarth
+43. Nightwish
+44. Epica
+45. Lacuna Coil
+46. Within Temptation
+47. Arch Enemy
+48. Sabaton
+49. Nightwish
+50. Epica
+
+These recommendations are based on the user's liking of similar artists and genres.

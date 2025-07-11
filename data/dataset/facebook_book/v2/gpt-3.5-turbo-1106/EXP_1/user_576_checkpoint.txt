@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Secret Life of Bees by Sue Monk Kidd
+2. The Alchemist by Paulo Coelho
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Book Thief by Markus Zusak
+7. The Help by Kathryn Stockett
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Hunger Games by Suzanne Collins
+10. The Fault in Our Stars by John Green
+11. The Da Vinci Code by Dan Brown
+12. The Girl on the Train by Paula Hawkins
+13. Gone Girl by Gillian Flynn
+14. The Night Circus by Erin Morgenstern
+15. The Goldfinch by Donna Tartt
+16. The Martian by Andy Weir
+17. The Handmaid's Tale by Margaret Atwood
+18. The Road by Cormac McCarthy
+19. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Lovely Bones by Alice Sebold
+22. Life of Pi by Yann Martel
+23. The Kite Runner by Khaled Hosseini
+24. House of Sand and Fog by Andre Dubus III
+25. Vanity Fair by William Makepeace Thackeray
+26. A Thousand Splendid Suns by Khaled Hosseini
+27. Timeline by Michael Crichton
+28. The Lord of the Rings by J.R.R. Tolkien
+29. I Am Legend by Richard Matheson
+30. A Fine Balance by Rohinton Mistry
+31. Eaters of the Dead by Michael Crichton
+32. The Shadow of the Wind by Carlos Ruiz Zafón
+33. The Nightingale by Kristin Hannah
+34. The Glass Castle by Jeannette Walls
+35. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+36. The Poisonwood Bible by Barbara Kingsolver
+37. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+38. The Namesake by Jhumpa Lahiri
+39. The Color Purple by Alice Walker
+40. The Joy Luck Club by Amy Tan
+41. The God of Small Things by Arundhati Roy
+42. The House on Mango Street by Sandra Cisneros
+43. The Handmaid's Tale by Margaret Atwood
+44. The Road by Cormac McCarthy
+45. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+46. The Time Traveler's Wife by Audrey Niffenegger
+47. The Lovely Bones by Alice Sebold
+48. Life of Pi by Yann Martel
+49. The Kite Runner by Khaled Hosseini
+50. A Thousand Splendid Suns by Khaled Hosseini
+
+These recommendations are based on the user's liking of similar books and authors.

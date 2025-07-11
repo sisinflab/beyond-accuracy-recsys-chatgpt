@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Coldplay
+3. Red Hot Chili Peppers
+4. The Killers
+5. Kings of Leon
+6. The Black Keys
+7. Vampire Weekend
+8. Cage the Elephant
+9. Foals
+10. Interpol
+11. Bloc Party
+12. The Vaccines
+13. The Libertines
+14. Kasabian
+15. The Hives
+16. The Vines
+17. The Raconteurs
+18. The Wombats
+19. The 1975
+20. The Smiths
+21. Joy Division
+22. The Cure
+23. Arctic Monkeys
+24. Mando Diao
+25. Muse
+26. The Fratellis
+27. Franz Ferdinand
+28. The Strokes
+29. The Kooks
+30. Two Door Cinema Club
+31. Oasis
+32. Florence + the Machine
+33. The White Stripes
+34. The Last Shadow Puppets
+35. Paolo Nutini
+36. The Beatles
+37. Ramones
+38. Capital Inicial
+39. Incubus
+40. Nirvana
+41. The Dead Weather
+42. MGMT
+43. The Smashing Pumpkins
+44. Pearl Jam
+45. Soundgarden
+46. Alice in Chains
+47. Stone Temple Pilots
+48. Bush
+49. Silverchair
+50. Audioslave
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music that aligns with their preferences.

@@ -1,0 +1,54 @@
+Based on user 1900's preferences, here are the top-50 recommendations for them:
+
+1. Depeche Mode
+2. Eurythmics
+3. New Order
+4. Pet Shop Boys
+5. Yazoo
+6. Erasure
+7. The Human League
+8. Duran Duran
+9. Siouxsie and the Banshees
+10. The Cure
+11. The Smiths
+12. David Bowie
+13. Pulp
+14. Kate Bush
+15. T. Rex
+16. Roxy Music
+17. Ultravox
+18. Goldfrapp
+19. The Jesus and Mary Chain
+20. Blondie
+21. Adam and the Ants
+22. Cocteau Twins
+23. Suede
+24. Echo & The Bunnymen
+25. Killing Joke
+26. The Jam
+27. Manic Street Preachers
+28. The Beatles
+29. Frank Sinatra
+30. Spandau Ballet
+31. Culture Club
+32. Mr. Bungle
+33. Elton John
+34. Bauhaus
+35. Hall & Oates
+36. Simple Minds
+37. Thompson Twins
+38. Faith No More
+39. Iron Maiden
+40. Def Leppard
+41. Garbage
+42. ABC
+43. Wham!
+44. Nine Inch Nails
+45. Tears for Fears
+46. Moby
+47. Simply Red
+48. Billy Joel
+49. Paul McCartney
+50. Pixies
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

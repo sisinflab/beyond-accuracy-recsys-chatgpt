@@ -1,0 +1,54 @@
+Based on user 815's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Grapes of Wrath by John Steinbeck
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. Brave New World by Aldous Huxley
+6. The Road by Cormac McCarthy
+7. East of Eden by John Steinbeck
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Old Man and the Sea by Ernest Hemingway
+10. Fahrenheit 451 by Ray Bradbury
+11. The Sun Also Rises by Ernest Hemingway
+12. The Bell Jar by Sylvia Plath
+13. The Sound and the Fury by William Faulkner
+14. A Farewell to Arms by Ernest Hemingway
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Stranger by Albert Camus
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Road to Wigan Pier by George Orwell
+20. The Fountainhead by Ayn Rand
+21. For Whom the Bell Tolls by Ernest Hemingway
+22. The Idiot by Fyodor Dostoevsky
+23. The Plague by Albert Camus
+24. The Trial by Franz Kafka
+25. The Metamorphosis by Franz Kafka
+26. The Count of Monte Cristo by Alexandre Dumas
+27. War and Peace by Leo Tolstoy
+28. Anna Karenina by Leo Tolstoy
+29. The Brothers Karamazov by Fyodor Dostoevsky
+30. Crime and Punishment by Fyodor Dostoevsky
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Stranger by Albert Camus
+33. The Road to Wigan Pier by George Orwell
+34. The Fountainhead by Ayn Rand
+35. For Whom the Bell Tolls by Ernest Hemingway
+36. The Idiot by Fyodor Dostoevsky
+37. The Plague by Albert Camus
+38. The Trial by Franz Kafka
+39. The Metamorphosis by Franz Kafka
+40. The Count of Monte Cristo by Alexandre Dumas
+41. War and Peace by Leo Tolstoy
+42. Anna Karenina by Leo Tolstoy
+43. The Brothers Karamazov by Fyodor Dostoevsky
+44. Crime and Punishment by Fyodor Dostoevsky
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Stranger by Albert Camus
+47. The Road to Wigan Pier by George Orwell
+48. The Fountainhead by Ayn Rand
+49. For Whom the Bell Tolls by Ernest Hemingway
+50. The Idiot by Fyodor Dostoevsky
+
+These recommendations are based on the user's liking of classic literature and some specific authors.

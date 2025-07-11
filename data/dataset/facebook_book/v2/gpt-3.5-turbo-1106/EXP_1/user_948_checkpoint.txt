@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. The Alchemist by Paulo Coelho
+7. The Book Thief by Markus Zusak
+8. The Kite Runner by Khaled Hosseini
+9. The Hunger Games by Suzanne Collins
+10. The Da Vinci Code by Dan Brown
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Road by Cormac McCarthy
+13. The Help by Kathryn Stockett
+14. The Fault in Our Stars by John Green
+15. The Giver by Lois Lowry
+16. The Maze Runner by James Dashner
+17. The Lovely Bones by Alice Sebold
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+21. The Glass Castle by Jeannette Walls
+22. The Night Circus by Erin Morgenstern
+23. The Goldfinch by Donna Tartt
+24. The Martian by Andy Weir
+25. The Handmaid's Tale by Margaret Atwood
+26. The Name of the Wind by Patrick Rothfuss
+27. The Shadow of the Wind by Carlos Ruiz Zafón
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Sun Also Rises by Ernest Hemingway
+31. The Bell Jar by Sylvia Plath
+32. The Road Less Traveled by M. Scott Peck
+33. The Power of Now by Eckhart Tolle
+34. The Art of Happiness by Dalai Lama
+35. The Celestine Prophecy by James Redfield
+36. The Four Agreements by Don Miguel Ruiz
+37. The Seven Spiritual Laws of Success by Deepak Chopra
+38. The Seat of the Soul by Gary Zukav
+39. The Road to Character by David Brooks
+40. The Power of Positive Thinking by Norman Vincent Peale
+41. The 7 Habits of Highly Effective People by Stephen R. Covey
+42. The Magic of Thinking Big by David J. Schwartz
+43. The Art of War by Sun Tzu
+44. The Prince by Niccolò Machiavelli
+45. The Tipping Point by Malcolm Gladwell
+46. The Lean Startup by Eric Ries
+47. The Innovator's Dilemma by Clayton M. Christensen
+48. The Design of Everyday Things by Don Norman
+49. The Black Swan by Nassim Nicholas Taleb
+50. The Innovator's Solution by Clayton M. Christensen and Michael E. Raynor
+
+These recommendations are based on the user's interest in fiction, non-fiction, and a variety of genres.

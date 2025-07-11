@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nightwish
+2. Within Temptation
+3. Delain
+4. Epica
+5. Amaranthe
+6. Sirenia
+7. Xandria
+8. Leaves' Eyes
+9. After Forever
+10. The Gathering
+11. Tristania
+12. Lacuna Coil
+13. Tarja Turunen
+14. Evanescence
+15. Kamelot
+16. Sonata Arctica
+17. Therion
+18. Sirenia
+19. Epica
+20. Xandria
+21. Leaves' Eyes
+22. After Forever
+23. The Gathering
+24. Tristania
+25. Lacuna Coil
+26. Tarja Turunen
+27. Evanescence
+28. Kamelot
+29. Sonata Arctica
+30. Therion
+31. Sarah Brightman
+32. Enya
+33. Loreena McKennitt
+34. Celtic Woman
+35. Hayley Westenra
+36. Emma Shapplin
+37. Charlotte Church
+38. Andrea Bocelli
+39. Il Divo
+40. Josh Groban
+41. Katherine Jenkins
+42. Jackie Evancho
+43. Sarah Brightman
+44. Enya
+45. Loreena McKennitt
+46. Celtic Woman
+47. Hayley Westenra
+48. Emma Shapplin
+49. Charlotte Church
+50. Andrea Bocelli
+
+These recommendations are based on the user's liking of similar artists and genres.

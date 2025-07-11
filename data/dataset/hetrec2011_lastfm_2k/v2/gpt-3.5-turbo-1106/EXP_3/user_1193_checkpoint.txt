@@ -1,0 +1,54 @@
+Based on user 1193's preferences, here are the top 50 recommendations for the user:
+
+1. Black Sabbath
+2. Led Zeppelin
+3. System of a Down
+4. The Beatles
+5. Anathema
+6. Die Toten Hosen
+7. Limp Bizkit
+8. Sex Pistols
+9. Anti-Flag
+10. O.S.T.R.
+11. The Doors
+12. Pink Floyd
+13. Iron Maiden
+14. Megadeth
+15. Judas Priest
+16. DevilDriver
+17. Dream Theater
+18. Queen
+19. Motörhead
+20. Serj Tankian
+21. Dio
+22. Blind Guardian
+23. Katatonia
+24. Riverside
+25. AC/DC
+26. Ozzy Osbourne
+27. The Jimi Hendrix Experience
+28. Metallica
+29. Lynyrd Skynyrd
+30. The Rolling Stones
+31. Helloween
+32. KISS
+33. Bathory
+34. Scar Symmetry
+35. Mötley Crüe
+36. The Who
+37. Opeth
+38. Eric Clapton
+39. Sonata Arctica
+40. Dimmu Borgir
+41. Alice Cooper
+42. Scars on Broadway
+43. Whitesnake
+44. Uriah Heep
+45. Camel
+46. Tori Amos
+47. Monster Magnet
+48. Kreator
+49. Slayer
+50. Yngwie Malmsteen
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

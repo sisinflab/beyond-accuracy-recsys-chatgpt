@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. Blink-182
+3. Green Day
+4. My Chemical Romance
+5. Panic! At The Disco
+6. Paramore
+7. All Time Low
+8. The Offspring
+9. Sum 41
+10. Good Charlotte
+11. Simple Plan
+12. The All-American Rejects
+13. Yellowcard
+14. New Found Glory
+15. Jimmy Eat World
+16. The Academy Is...
+17. Weezer
+18. Taking Back Sunday
+19. The Used
+20. AFI
+21. Motion City Soundtrack
+22. The Starting Line
+23. Story of the Year
+24. Senses Fail
+25. Hawthorne Heights
+26. Silverstein
+27. The Red Jumpsuit Apparatus
+28. The Ataris
+29. Finch
+30. Thrice
+31. Brand New
+32. Dashboard Confessional
+33. Saves The Day
+34. The Get Up Kids
+35. Alkaline Trio
+36. Rancid
+37. NOFX
+38. Bad Religion
+39. Pennywise
+40. Social Distortion
+41. The Distillers
+42. Against Me!
+43. Rise Against
+44. The Gaslight Anthem
+45. Hot Water Music
+46. Bayside
+47. The Menzingers
+48. The Lawrence Arms
+49. Jawbreaker
+50. Descendents
+
+These recommendations are based on the user's liking of punk, rock, and alternative artists, and are aimed at providing similar artists that the user may enjoy.

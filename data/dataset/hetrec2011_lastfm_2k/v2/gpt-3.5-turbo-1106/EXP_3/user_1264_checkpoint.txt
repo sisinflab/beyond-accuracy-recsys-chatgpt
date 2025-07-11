@@ -1,0 +1,54 @@
+Based on user 1264's preferences, here are the top 50 recommendations for them:
+
+1. Pink Floyd
+2. The Doors
+3. Jimi Hendrix
+4. Black Sabbath
+5. Led Zeppelin
+6. The Rolling Stones
+7. Nirvana
+8. The Beatles
+9. Queen
+10. The Who
+11. Muse
+12. David Bowie
+13. AC/DC
+14. Foo Fighters
+15. The Beach Boys
+16. The Clash
+17. Bob Dylan
+18. Guns N' Roses
+19. Arctic Monkeys
+20. Ramones
+21. Pearl Jam
+22. Iron Maiden
+23. Van Halen
+24. Paul McCartney
+25. George Harrison
+26. Elton John
+27. U2
+28. Supertramp
+29. The Police
+30. Blur
+31. Coldplay
+32. Rammstein
+33. The Cranberries
+34. Legião Urbana
+35. The Cardigans
+36. Scorpions
+37. Alanis Morissette
+38. Pantera
+39. Blondie
+40. R.E.M.
+41. KISS
+42. Skid Row
+43. Orchestral Manoeuvres in the Dark
+44. Marilyn Manson
+45. Ozzy Osbourne
+46. Luis Miguel
+47. Flyleaf
+48. Regina Spektor
+49. Engenheiros do Hawaii
+50. Bob Marley & The Wailers
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

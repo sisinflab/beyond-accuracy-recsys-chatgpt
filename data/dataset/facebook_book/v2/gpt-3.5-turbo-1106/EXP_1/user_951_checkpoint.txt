@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Giver by Lois Lowry
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Alchemist by Paulo Coelho
+7. The Fault in Our Stars by John Green
+8. To Kill a Mockingbird by Harper Lee
+9. The Book Thief by Markus Zusak
+10. The Catcher in the Rye by J.D. Salinger
+11. The Great Gatsby by F. Scott Fitzgerald
+12. Pride and Prejudice by Jane Austen
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Da Vinci Code by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Help by Kathryn Stockett
+17. The Kite Runner by Khaled Hosseini
+18. Gone Girl by Gillian Flynn
+19. The Night Circus by Erin Morgenstern
+20. The Goldfinch by Donna Tartt
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Lovely Bones by Alice Sebold
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Handmaid's Tale by Margaret Atwood
+25. The Girl on the Train by Paula Hawkins
+26. The Martian by Andy Weir
+27. The Silent Patient by Alex Michaelides
+28. The Tattooist of Auschwitz by Heather Morris
+29. The Nightingale by Kristin Hannah
+30. The Alice Network by Kate Quinn
+31. The Light Between Oceans by M.L. Stedman
+32. The Glass Castle by Jeannette Walls
+33. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+34. The Underground Railroad by Colson Whitehead
+35. The Orphan Master's Son by Adam Johnson
+36. The Invention of Wings by Sue Monk Kidd
+37. The Secret History by Donna Tartt
+38. The Power of One by Bryce Courtenay
+39. The Shadow of the Wind by Carlos Ruiz Zafón
+40. The Night Circus by Erin Morgenstern
+41. The Goldfinch by Donna Tartt
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Lovely Bones by Alice Sebold
+44. The Time Traveler's Wife by Audrey Niffenegger
+45. The Handmaid's Tale by Margaret Atwood
+46. The Girl on the Train by Paula Hawkins
+47. The Martian by Andy Weir
+48. The Silent Patient by Alex Michaelides
+49. The Tattooist of Auschwitz by Heather Morris
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's interest in adventure, fantasy, romance, and mystery genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Trivium
+2. Slipknot
+3. Disturbed
+4. System of a Down
+5. Five Finger Death Punch
+6. Breaking Benjamin
+7. Papa Roach
+8. Three Days Grace
+9. Linkin Park
+10. Bring Me The Horizon
+11. A Day to Remember
+12. Seether
+13. Stone Sour
+14. Shinedown
+15. Korn
+16. Godsmack
+17. Chevelle
+18. Skillet
+19. Theory of a Deadman
+20. Sevendust
+21. Halestorm
+22. Volbeat
+23. In This Moment
+24. Motionless In White
+25. Black Veil Brides
+26. Asking Alexandria
+27. Bullet for My Valentine
+28. Avenged Sevenfold
+29. Iron Maiden
+30. KISS
+31. The Offspring
+32. Elvis Presley
+33. My Chemical Romance
+34. New Found Glory
+35. Sonata Arctica
+36. Pennywise
+37. Limp Bizkit
+38. Millencolin
+39. Paramore
+40. Good Charlotte
+41. HIM
+42. Nightwish
+43. Green Day
+44. Red Hot Chili Peppers
+45. Mariah Carey
+46. Rancid
+47. Metallica
+48. CPM 22
+49. Pearl Jam
+50. The Clash
+
+These recommendations are based on the user's liking of similar artists and genres.

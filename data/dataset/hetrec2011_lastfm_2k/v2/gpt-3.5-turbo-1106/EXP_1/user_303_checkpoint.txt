@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. Red Hot Chili Peppers
+3. Arctic Monkeys
+4. The Strokes
+5. Pearl Jam
+6. Foo Fighters
+7. Oasis
+8. Radiohead
+9. The Black Keys
+10. The Rolling Stones
+11. The Smashing Pumpkins
+12. The Killers
+13. The Smiths
+14. Beck
+15. Weezer
+16. The Kinks
+17. The Velvet Underground
+18. The Flaming Lips
+19. Interpol
+20. Modest Mouse
+21. The Hives
+22. The Libertines
+23. The Stone Roses
+24. The Replacements
+25. The National
+26. The Jesus and Mary Chain
+27. The Cranberries
+28. The Chemical Brothers
+29. The Prodigy
+30. The Verve
+31. The Charlatans
+32. The La's
+33. The Pogues
+34. The Waterboys
+35. The Specials
+36. The Clash
+37. The Damned
+38. The Buzzcocks
+39. The Undertones
+40. The Stranglers
+41. The Adicts
+42. The Exploited
+43. The Dead Kennedys
+44. The Misfits
+45. The Ramones
+46. The Sex Pistols
+47. The New York Dolls
+48. The Stooges
+49. The MC5
+50. The Modern Lovers
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for further exploration.

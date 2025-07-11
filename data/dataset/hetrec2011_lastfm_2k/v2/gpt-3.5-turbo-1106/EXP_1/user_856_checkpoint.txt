@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Smashing Pumpkins
+2. Nine Inch Nails
+3. Interpol
+4. Modest Mouse
+5. The Smashing Pumpkins
+6. The Cure
+7. The Flaming Lips
+8. The Velvet Underground
+9. My Bloody Valentine
+10. The Jesus and Mary Chain
+11. Dinosaur Jr.
+12. The Smiths
+13. Pavement
+14. R.E.M.
+15. Sonic Youth
+16. Radiohead
+17. Placebo
+18. The Mars Volta
+19. Nirvana
+20. Queens of the Stone Age
+21. The Beatles
+22. Tegan and Sara
+23. Pink Floyd
+24. Cat Power
+25. Pearl Jam
+26. Silverchair
+27. Alice in Chains
+28. Joy Division
+29. Red Hot Chili Peppers
+30. The Strokes
+31. Ramones
+32. A Perfect Circle
+33. Mudhoney
+34. Arctic Monkeys
+35. Bauhaus
+36. Franz Ferdinand
+37. MGMT
+38. The Offspring
+39. The Clash
+40. The Libertines
+41. Pixies
+42. The White Stripes
+43. Rage Against the Machine
+44. The Raconteurs
+45. Bikini Kill
+46. Arcade Fire
+47. Faith No More
+48. Black Flag
+49. Babyshambles
+50. The Kills
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that the user may enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. All Time Low
+2. Paramore
+3. Panic! At The Disco
+4. Fall Out Boy
+5. The All-American Rejects
+6. The Killers
+7. Arctic Monkeys
+8. The Strokes
+9. Red Hot Chili Peppers
+10. Muse
+11. The White Stripes
+12. The Offspring
+13. Sum 41
+14. Jimmy Eat World
+15. 5 Seconds of Summer
+16. OneRepublic
+17. Imagine Dragons
+18. The Fray
+19. The Script
+20. Snow Patrol
+21. Keane
+22. Death Cab for Cutie
+23. The Postal Service
+24. Modest Mouse
+25. Vampire Weekend
+26. Foster The People
+27. The Neighbourhood
+28. Cage The Elephant
+29. Silversun Pickups
+30. The 1975
+31. Two Door Cinema Club
+32. Phoenix
+33. Passion Pit
+34. Foster The People
+35. Grouplove
+36. Young the Giant
+37. Walk The Moon
+38. The Wombats
+39. Franz Ferdinand
+40. Bloc Party
+41. Kaiser Chiefs
+42. The Hives
+43. The Vines
+44. Jet
+45. The Libertines
+46. Razorlight
+47. The Bravery
+48. The Subways
+49. The Pigeon Detectives
+50. The Kooks
+
+These recommendations are based on the user's liking of similar artists and genres.

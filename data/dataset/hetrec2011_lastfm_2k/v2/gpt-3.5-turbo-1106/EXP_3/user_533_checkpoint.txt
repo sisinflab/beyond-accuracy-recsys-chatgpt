@@ -1,0 +1,54 @@
+Based on user 533's preferences, here are the top 50 recommendations for the given artists:
+
+1. Amy Winehouse
+2. Sade
+3. Michael Jackson
+4. Norah Jones
+5. Bon Jovi
+6. Mika
+7. Fleetwood Mac
+8. Madonna
+9. Britney Spears
+10. Jewel
+11. Elvis Presley
+12. Andrea Bocelli
+13. Mariah Carey
+14. Robbie Williams
+15. Lady Gaga
+16. ABBA
+17. Dido
+18. Spice Girls
+19. Cyndi Lauper
+20. Kylie Minogue
+21. Rihanna
+22. Cher
+23. Andrew Lloyd Webber
+24. Jonathan Larson
+25. Evanescence
+26. Legião Urbana
+27. Katy Perry
+28. Tarja
+29. Lady Antebellum
+30. Leona Lewis
+31. Secondhand Serenade
+32. Marilyn Manson
+33. Siouxsie and the Banshees
+34. Within Temptation
+35. Glee Cast
+36. Goldfrapp
+37. Tears for Fears
+38. Miley Cyrus
+39. Sum 41
+40. Heart
+41. Christina Aguilera
+42. A*Teens
+43. Lindsay Lohan
+44. Rita Lee
+45. Belinda
+46. Natalie Imbruglia
+47. Kelly Clarkson
+48. In This Moment
+49. Spice Girls
+50. Rihanna
+
+These recommendations are based on the user's existing preferences and are tailored to their taste in music.

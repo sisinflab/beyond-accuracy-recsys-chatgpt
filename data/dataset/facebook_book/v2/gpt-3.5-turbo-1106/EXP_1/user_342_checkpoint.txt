@@ -1,0 +1,54 @@
+Based on user 342's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. One Hundred Years of Solitude by Gabriel Garcia Marquez
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. 1984 by George Orwell
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Brave New World by Aldous Huxley
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Bell Jar by Sylvia Plath
+10. The Metamorphosis by Franz Kafka
+11. The Stranger by Albert Camus
+12. The Plague by Albert Camus
+13. The Trial by Franz Kafka
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. The Idiot by Fyodor Dostoevsky
+16. The Sound and the Fury by William Faulkner
+17. As I Lay Dying by William Faulkner
+18. Light in August by William Faulkner
+19. Absalom, Absalom! by William Faulkner
+20. Slaughterhouse-Five by Kurt Vonnegut
+21. Cat's Cradle by Kurt Vonnegut
+22. Breakfast of Champions by Kurt Vonnegut
+23. The Grapes of Wrath by John Steinbeck
+24. East of Eden by John Steinbeck
+25. Of Mice and Men by John Steinbeck
+26. The Old Man and the Sea by Ernest Hemingway
+27. A Farewell to Arms by Ernest Hemingway
+28. For Whom the Bell Tolls by Ernest Hemingway
+29. The Sun Also Rises by Ernest Hemingway
+30. The Little Prince by Antoine de Saint-Exupéry
+31. The Plague by Albert Camus
+32. The Fall by Albert Camus
+33. The Myth of Sisyphus by Albert Camus
+34. The Outsider by Albert Camus
+35. The Rebel by Albert Camus
+36. The Second Sex by Simone de Beauvoir
+37. No Exit by Jean-Paul Sartre
+38. The Age of Reason by Jean-Paul Sartre
+39. The Words by Jean-Paul Sartre
+40. Being and Nothingness by Jean-Paul Sartre
+41. The Flies by Jean-Paul Sartre
+42. The Wall by Jean-Paul Sartre
+43. The Devil and the Good Lord by Jean-Paul Sartre
+44. The Condemned of Altona by Jean-Paul Sartre
+45. The Reprieve by Jean-Paul Sartre
+46. The Last Chance by Jean-Paul Sartre
+47. The Freud Scenario by Jean-Paul Sartre
+48. The Chips Are Down by Jean-Paul Sartre
+49. The Roads to Freedom by Jean-Paul Sartre
+50. The Words by Jean-Paul Sartre
+
+These recommendations are based on the user's interest in classic literature, existentialist philosophy, and a mix of fiction and non-fiction works.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. The Bell Jar by Sylvia Plath
+7. One Flew Over the Cuckoo's Nest by Ken Kesey
+8. The Grapes of Wrath by John Steinbeck
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Outsiders by S.E. Hinton
+11. The Road by Cormac McCarthy
+12. The Handmaid's Tale by Margaret Atwood
+13. Lord of the Flies by William Golding
+14. The Stranger by Albert Camus
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. Crime and Punishment by Fyodor Dostoevsky
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. Anna Karenina by Leo Tolstoy
+22. War and Peace by Leo Tolstoy
+23. The Count of Monte Cristo by Alexandre Dumas
+24. The Three Musketeers by Alexandre Dumas
+25. Moby-Dick by Herman Melville
+26. Heart of Darkness by Joseph Conrad
+27. The Sound and the Fury by William Faulkner
+28. As I Lay Dying by William Faulkner
+29. Beloved by Toni Morrison
+30. The Color Purple by Alice Walker
+31. Their Eyes Were Watching God by Zora Neale Hurston
+32. Invisible Man by Ralph Ellison
+33. Native Son by Richard Wright
+34. The Joy Luck Club by Amy Tan
+35. The Kite Runner by Khaled Hosseini
+36. A Thousand Splendid Suns by Khaled Hosseini
+37. The Alchemist by Paulo Coelho
+38. The Book Thief by Markus Zusak
+39. The Night Circus by Erin Morgenstern
+40. The Shadow of the Wind by Carlos Ruiz Zafón
+41. The Name of the Wind by Patrick Rothfuss
+42. The Secret History by Donna Tartt
+43. The Goldfinch by Donna Tartt
+44. The Girl with the Dragon Tattoo by Stieg Larsson
+45. The Help by Kathryn Stockett
+46. The Secret Life of Bees by Sue Monk Kidd
+47. The Poisonwood Bible by Barbara Kingsolver
+48. The Glass Castle by Jeannette Walls
+49. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+50. Educated by Tara Westover
+
+These recommendations are based on the user's interest in classic literature, contemporary fiction, and non-fiction.

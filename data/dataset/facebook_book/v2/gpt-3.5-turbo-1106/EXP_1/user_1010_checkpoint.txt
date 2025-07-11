@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Neverwhere by Neil Gaiman
+2. The Graveyard Book by Neil Gaiman
+3. American Gods by Neil Gaiman
+4. Good Omens by Neil Gaiman and Terry Pratchett
+5. Anansi Boys by Neil Gaiman
+6. The Ocean at the End of the Lane by Neil Gaiman
+7. Coraline by Neil Gaiman
+8. Fragile Things: Short Fictions and Wonders by Neil Gaiman
+9. The Sandman (graphic novel series) by Neil Gaiman
+10. The Halloween Tree by Ray Bradbury
+11. Something Wicked This Way Comes by Ray Bradbury
+12. The Vampire Chronicles by Anne Rice
+13. Interview with the Vampire by Anne Rice
+14. The Witching Hour by Anne Rice
+15. The Tale of the Body Thief by Anne Rice
+16. The Vampire Lestat by Anne Rice
+17. The Mayfair Witches series by Anne Rice
+18. The Vampire Diaries series by L.J. Smith
+19. The Strain Trilogy by Guillermo del Toro and Chuck Hogan
+20. Let the Right One In by John Ajvide Lindqvist
+21. The Historian by Elizabeth Kostova
+22. Dracula by Bram Stoker
+23. Salem's Lot by Stephen King
+24. Interview with the Vampire by Anne Rice
+25. The Passage by Justin Cronin
+26. The Strain by Guillermo del Toro and Chuck Hogan
+27. The Southern Vampire Mysteries series by Charlaine Harris
+28. Sunshine by Robin McKinley
+29. The Giver by Lois Lowry
+30. The Hunger Games by Suzanne Collins
+31. Divergent by Veronica Roth
+32. The Maze Runner by James Dashner
+33. The 5th Wave by Rick Yancey
+34. The Host by Stephenie Meyer
+35. Uglies by Scott Westerfeld
+36. The Lunar Chronicles by Marissa Meyer
+37. The Mortal Instruments series by Cassandra Clare
+38. The Infernal Devices series by Cassandra Clare
+39. The Dark Artifices series by Cassandra Clare
+40. The Twilight Saga by Stephenie Meyer
+41. The Chemist by Stephenie Meyer
+42. The Host by Stephenie Meyer
+43. The Chemist by Stephenie Meyer
+44. The Chemist by Stephenie Meyer
+45. The Chemist by Stephenie Meyer
+46. The Chemist by Stephenie Meyer
+47. The Chemist by Stephenie Meyer
+48. The Chemist by Stephenie Meyer
+49. The Chemist by Stephenie Meyer
+50. The Chemist by Stephenie Meyer
+
+These recommendations are based on the user's interest in fantasy, supernatural, and young adult fiction.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catch-22 by Joseph Heller
+2. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+3. Snow Crash by Neal Stephenson
+4. Good Omens by Neil Gaiman, Terry Pratchett
+5. Brave New World by Aldous Huxley
+6. 1984 by George Orwell
+7. Do Androids Dream of Electric Sheep? by Philip K. Dick
+8. The Handmaid's Tale by Margaret Atwood
+9. The Martian by Andy Weir
+10. Ready Player One by Ernest Cline
+11. The Road by Cormac McCarthy
+12. The Stand by Stephen King
+13. The Catcher in the Rye by J.D. Salinger
+14. One Hundred Years of Solitude by Gabriel Garcia Marquez
+15. The Name of the Wind by Patrick Rothfuss
+16. The Alchemist by Paulo Coelho
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Great Gatsby by F. Scott Fitzgerald
+19. To Kill a Mockingbird by Harper Lee
+20. The Grapes of Wrath by John Steinbeck
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Count of Monte Cristo by Alexandre Dumas
+23. The Brothers Karamazov by Fyodor Dostoevsky
+24. Crime and Punishment by Fyodor Dostoevsky
+25. The Stranger by Albert Camus
+26. The Bell Jar by Sylvia Plath
+27. The Road to Wigan Pier by George Orwell
+28. The Power of One by Bryce Courtenay
+29. The Book Thief by Markus Zusak
+30. The Kite Runner by Khaled Hosseini
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Night Circus by Erin Morgenstern
+33. The Secret History by Donna Tartt
+34. The Goldfinch by Donna Tartt
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Da Vinci Code by Dan Brown
+37. The Girl on the Train by Paula Hawkins
+38. The Help by Kathryn Stockett
+39. The Hunger Games by Suzanne Collins
+40. The Maze Runner by James Dashner
+41. The Giver by Lois Lowry
+42. The Outsiders by S.E. Hinton
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. The Fault in Our Stars by John Green
+45. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+46. The Lovely Bones by Alice Sebold
+47. The Time Traveler's Wife by Audrey Niffenegger
+48. The Handmaid's Tale by Margaret Atwood
+49. The Road by Cormac McCarthy
+50. The Stand by Stephen King

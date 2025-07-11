@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Alchemist by Paulo Coelho
+4. 1984 by George Orwell
+5. Brave New World by Aldous Huxley
+6. The Catcher in the Rye by J.D. Salinger
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Little Prince by Antoine de Saint-Exupéry
+9. The Giver by Lois Lowry
+10. The Martian by Andy Weir
+11. Ender's Game by Orson Scott Card
+12. The Road by Cormac McCarthy
+13. The Handmaid's Tale by Margaret Atwood
+14. The Name of the Wind by Patrick Rothfuss
+15. The Shadow of the Wind by Carlos Ruiz Zafón
+16. The Book Thief by Markus Zusak
+17. The Night Circus by Erin Morgenstern
+18. The Secret History by Donna Tartt
+19. The Goldfinch by Donna Tartt
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Kite Runner by Khaled Hosseini
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Lovely Bones by Alice Sebold
+25. The Help by Kathryn Stockett
+26. The Hunger Games by Suzanne Collins
+27. The Road to Character by David Brooks
+28. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+29. The Glass Castle by Jeannette Walls
+30. The Devil in the White City by Erik Larson
+31. The Power of Now by Eckhart Tolle
+32. The Art of Racing in the Rain by Garth Stein
+33. The Nightingale by Kristin Hannah
+34. The Light Between Oceans by M.L. Stedman
+35. The Rosie Project by Graeme Simsion
+36. The Fault in Our Stars by John Green
+37. The Girl on the Train by Paula Hawkins
+38. The Silent Patient by Alex Michaelides
+39. The Woman in the Window by A.J. Finn
+40. The Silent Wife by A.S.A. Harrison
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Girl Who Played with Fire by Stieg Larsson
+43. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+44. The Da Vinci Code by Dan Brown
+45. Angels & Demons by Dan Brown
+46. Inferno by Dan Brown
+47. Digital Fortress by Dan Brown
+48. Origin by Dan Brown
+49. Deception Point by Dan Brown
+50. The Lost Symbol by Dan Brown
+
+These recommendations are based on the user's interest in science, fiction, philosophy, and classic literature.

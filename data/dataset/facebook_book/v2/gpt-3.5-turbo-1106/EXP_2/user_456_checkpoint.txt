@@ -1,0 +1,54 @@
+Based on user 456's liking of the books you provided, here are the top 50 recommendations for them:
+
+1. The Great Gatsby
+2. The Catcher in the Rye
+3. The Picture of Dorian Gray
+4. The Unbearable Lightness of Being
+5. Dracula
+6. The Hobbit
+7. The Silmarillion
+8. The Stand
+9. The Lord of the Rings
+10. Through the Looking-Glass
+11. Crime and Punishment
+12. The Scarlet Letter
+13. The Phantom of the Opera
+14. The Giver
+15. Invisible Man
+16. The House of Mirth
+17. Pygmalion (play)
+18. Shakespeares sonnets
+19. A Series of Unfortunate Events
+20. The Rapture (novel)
+21. The Maze Runner
+22. The City of Ember
+23. Brave New World
+24. Gravitys Rainbow
+25. The Southern Vampire Mysteries
+26. Delta of Venus
+27. Medea (play)
+28. Dexter in the Dark
+29. And the Ass Saw the Angel
+30. Incarceron
+31. Made in America (book)
+32. World War Z
+33. Frankenstein
+34. W.I.T.C.H.
+35. If There Be Thorns
+36. Petals on the Wind
+37. Cut (novel)
+38. Vampire Kisses
+39. The Outsiders (novel)
+40. The Tenant of Wildfell Hall
+41. Lady Chatterleys Lover
+42. Strange Case of Dr Jekyll and Mr Hyde
+43. The Lucky One (novel)
+44. Gone with the Wind
+45. The Last Song (novel)
+46. Nothing Lasts Forever (1979 novel)
+47. One Night @ the Call Center
+48. 2 States: The Story of My Marriage
+49. Rage of Angels
+50. Angels & Demons
+
+These recommendations are based on the user's liking of similar books and are ranked in order of likelihood of enjoyment.

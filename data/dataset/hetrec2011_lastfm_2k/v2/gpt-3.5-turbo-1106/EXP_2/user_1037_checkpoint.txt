@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. The Beatles
+2. The Rolling Stones
+3. Led Zeppelin
+4. Pink Floyd
+5. Nirvana
+6. The Doors
+7. Jimi Hendrix
+8. Eric Clapton
+9. Santana
+10. Lynyrd Skynyrd
+11. Muddy Waters
+12. Gary Moore
+13. John Lee Hooker
+14. Stevie Ray Vaughan
+15. Robert Johnson
+16. Janis Joplin
+17. Billie Holiday
+18. Van Morrison
+19. Howlin' Wolf
+20. Buddy Guy
+21. U2
+22. Muse
+23. Radiohead
+24. Metallica
+25. Pearl Jam
+26. The Killers
+27. Arctic Monkeys
+28. Iron Maiden
+29. System of a Down
+30. Nine Inch Nails
+31. Linkin Park
+32. Placebo
+33. The Cure
+34. Madonna
+35. Lady Gaga
+36. Rihanna
+37. Beyoncé
+38. Christina Aguilera
+39. Britney Spears
+40. Shakira
+41. Katy Perry
+42. Avril Lavigne
+43. Taylor Swift
+44. Paramore
+45. Kelly Clarkson
+46. P!nk
+47. Avenged Sevenfold
+48. My Chemical Romance
+49. Green Day
+50. Black Eyed Peas
+
+This re-ranked list takes into account the user's liking for classic rock and blues artists and suggests similar genres and styles in the top-50 recommendations.

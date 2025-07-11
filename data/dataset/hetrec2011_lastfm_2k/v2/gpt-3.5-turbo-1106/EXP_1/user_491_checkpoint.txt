@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Exodus
+2. Kreator
+3. Sepultura
+4. Carcass
+5. Sodom
+6. Testament
+7. Overkill
+8. Annihilator
+9. Destruction
+10. Morbid Angel
+11. Entombed
+12. Bolt Thrower
+13. Dark Angel
+14. Possessed
+15. D.R.I.
+16. Nuclear Assault
+17. Coroner
+18. Voivod
+19. Celtic Frost
+20. Mercyful Fate
+21. King Diamond
+22. Candlemass
+23. Trouble
+24. Saint Vitus
+25. Pentagram
+26. Electric Wizard
+27. Sleep
+28. High on Fire
+29. Neurosis
+30. Melvins
+31. Kyuss
+32. Fu Manchu
+33. Clutch
+34. Orange Goblin
+35. Red Fang
+36. Baroness
+37. Mastodon
+38. Gojira
+39. Opeth
+40. Katatonia
+41. Enslaved
+42. Emperor
+43. Satyricon
+44. Dimmu Borgir
+45. Mayhem
+46. Gorgoroth
+47. Watain
+48. Darkthrone
+49. Immortal
+50. Behemoth
+
+These recommendations are based on the user's liking of similar artists and are tailored to their specific taste in music.

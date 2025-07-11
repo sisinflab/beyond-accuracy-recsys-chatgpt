@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jimi Hendrix
+2. B.B. King
+3. The Rolling Stones
+4. Led Zeppelin
+5. The Allman Brothers Band
+6. Derek and the Dominos
+7. Albert King
+8. Muddy Waters
+9. Howlin' Wolf
+10. Robert Johnson
+11. The Yardbirds
+12. Jeff Beck
+13. Freddie King
+14. Gary Moore
+15. Rory Gallagher
+16. Peter Green
+17. T-Bone Walker
+18. Sonny Boy Williamson
+19. Otis Rush
+20. Junior Wells
+21. Keb' Mo'
+22. Taj Mahal
+23. Bonnie Raitt
+24. Susan Tedeschi
+25. Joe Bonamassa
+26. Kenny Wayne Shepherd
+27. Walter Trout
+28. Jonny Lang
+29. Robert Cray
+30. Luther Allison
+31. Coco Montoya
+32. Tab Benoit
+33. Ana Popovic
+34. Samantha Fish
+35. Joe Louis Walker
+36. Shemekia Copeland
+37. Eric Gales
+38. Indigenous
+39. Popa Chubby
+40. Chris Duarte
+41. Ana Popovic
+42. Robben Ford
+43. Walter Trout
+44. Sonny Landreth
+45. Tommy Castro
+46. Ronnie Earl
+47. Coco Montoya
+48. Albert Cummings
+49. Bernard Allison
+50. Eric Sardinas
+
+These recommendations are based on the user's liking of blues, rock, and classic artists, and are aimed at providing a diverse range of similar artists for the user to explore.

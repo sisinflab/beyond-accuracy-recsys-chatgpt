@@ -1,0 +1,54 @@
+Based on the preferences of user 1920, here are the top 50 recommendations for the listed artists:
+
+1. The Killers
+2. Paramore
+3. The Fray
+4. Linkin Park
+5. Panic! At the Disco
+6. Eminem
+7. The All-American Rejects
+8. Keane
+9. The Rasmus
+10. The Maine
+11. Boys Like Girls
+12. Miley Cyrus
+13. Katy Perry
+14. Rihanna
+15. Taylor Swift
+16. Kelly Clarkson
+17. Madonna
+18. The Veronicas
+19. Bring Me The Horizon
+20. Kasabian
+21. Hollywood Undead
+22. Bowling for Soup
+23. Kaiser Chiefs
+24. Sum 41
+25. All Time Low
+26. Backstreet Boys
+27. Jonas Brothers
+28. Adam Lambert
+29. Kris Allen
+30. David Archuleta
+31. Ashley Tisdale
+32. Hilary Duff
+33. Ke$ha
+34. Britney Spears
+35. Lily Allen
+36. Elvis Costello
+37. Billy Joel
+38. Simon & Garfunkel
+39. Carter Burwell
+40. The Kinks
+41. The Beach Boys
+42. Pitty
+43. Fresno
+44. Legião Urbana
+45. O Teatro Mágico
+46. happysad
+47. BrokeNCYDE
+48. The Donnas
+49. Jason Mraz
+50. Garbage
+
+These recommendations are based on similar genres and artists liked by user 1920.

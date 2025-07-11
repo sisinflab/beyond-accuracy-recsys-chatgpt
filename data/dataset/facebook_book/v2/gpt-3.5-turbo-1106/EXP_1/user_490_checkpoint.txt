@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Handmaid's Tale by Margaret Atwood
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. Fahrenheit 451 by Ray Bradbury
+5. The Catcher in the Rye by J.D. Salinger
+6. To Kill a Mockingbird by Harper Lee
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Bell Jar by Sylvia Plath
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Road by Cormac McCarthy
+11. The Stranger by Albert Camus
+12. The Picture of Dorian Gray by Oscar Wilde
+13. Crime and Punishment by Fyodor Dostoevsky
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. The Metamorphosis by Franz Kafka
+16. The Trial by Franz Kafka
+17. The Plague by Albert Camus
+18. The Sun Also Rises by Ernest Hemingway
+19. A Farewell to Arms by Ernest Hemingway
+20. The Old Man and the Sea by Ernest Hemingway
+21. The Sound and the Fury by William Faulkner
+22. As I Lay Dying by William Faulkner
+23. Beloved by Toni Morrison
+24. The Color Purple by Alice Walker
+25. Their Eyes Were Watching God by Zora Neale Hurston
+26. The Grapes of Wrath by John Steinbeck
+27. East of Eden by John Steinbeck
+28. Of Mice and Men by John Steinbeck
+29. The Handmaid's Tale by Margaret Atwood
+30. The Road by Cormac McCarthy
+31. The Catcher in the Rye by J.D. Salinger
+32. One Hundred Years of Solitude by Gabriel Garcia Marquez
+33. The Bell Jar by Sylvia Plath
+34. Slaughterhouse-Five by Kurt Vonnegut
+35. The Stranger by Albert Camus
+36. The Picture of Dorian Gray by Oscar Wilde
+37. Crime and Punishment by Fyodor Dostoevsky
+38. The Brothers Karamazov by Fyodor Dostoevsky
+39. The Metamorphosis by Franz Kafka
+40. The Trial by Franz Kafka
+41. The Plague by Albert Camus
+42. The Sun Also Rises by Ernest Hemingway
+43. A Farewell to Arms by Ernest Hemingway
+44. The Old Man and the Sea by Ernest Hemingway
+45. The Sound and the Fury by William Faulkner
+46. As I Lay Dying by William Faulkner
+47. Beloved by Toni Morrison
+48. The Color Purple by Alice Walker
+49. Their Eyes Were Watching God by Zora Neale Hurston
+50. The Grapes of Wrath by John Steinbeck
+
+These recommendations are based on the user's interest in classic literature, dystopian themes, and psychological depth in storytelling.

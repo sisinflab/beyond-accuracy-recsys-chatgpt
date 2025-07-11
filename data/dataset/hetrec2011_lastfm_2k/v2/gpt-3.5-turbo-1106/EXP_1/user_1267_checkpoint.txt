@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Iron Maiden
+2. Dream Theater
+3. Helloween
+4. Rhapsody of Fire
+5. Stratovarius
+6. Nightwish
+7. Blind Guardian
+8. Kamelot
+9. Symphony X
+10. Epica
+11. DragonForce
+12. Sabaton
+13. HammerFall
+14. Edguy
+15. Sonata Arctica
+16. Angra
+17. Eminem
+18. Metallica
+19. AC/DC
+20. Green Day
+21. Paramore
+22. Matanza
+23. Forfun
+24. Misfits
+25. Carbona
+26. Fresno
+27. My Chemical Romance
+28. Raimundos
+29. Chico Buarque
+30. Angels & Airwaves
+31. New Found Glory
+32. Nirvana
+33. CPM 22
+34. Megadeth
+35. Evanescence
+36. Judas Priest
+37. NOFX
+38. The Clash
+39. Gloria
+40. Sum 41
+41. Guns N' Roses
+42. Radiohead
+43. Slipknot
+44. Avenged Sevenfold
+45. Coldplay
+46. Linkin Park
+47. System of a Down
+48. Red Hot Chili Peppers
+49. Muse
+50. The Offspring
+
+These recommendations are based on the user's liking of similar artists and genres.

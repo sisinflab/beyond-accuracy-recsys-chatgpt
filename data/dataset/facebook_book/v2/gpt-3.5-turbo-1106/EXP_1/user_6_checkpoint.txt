@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Frankenstein by Mary Shelley
+2. The Picture of Dorian Gray by Oscar Wilde
+3. Wuthering Heights by Emily Bronte
+4. The Tell-Tale Heart by Edgar Allan Poe
+5. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+6. The Catcher in the Rye by J.D. Salinger
+7. 1984 by George Orwell
+8. Brave New World by Aldous Huxley
+9. The Great Gatsby by F. Scott Fitzgerald
+10. One Flew Over the Cuckoo's Nest by Ken Kesey
+11. The Shining by Stephen King
+12. The Stand by Stephen King
+13. The Haunting of Hill House by Shirley Jackson
+14. The Exorcist by William Peter Blatty
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Silence of the Lambs by Thomas Harris
+17. The Road by Cormac McCarthy
+18. The Handmaid's Tale by Margaret Atwood
+19. The Hunger Games by Suzanne Collins
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Hobbit by J.R.R. Tolkien
+22. The Chronicles of Narnia by C.S. Lewis
+23. The Alchemist by Paulo Coelho
+24. The Kite Runner by Khaled Hosseini
+25. The Book Thief by Markus Zusak
+26. The Night Circus by Erin Morgenstern
+27. The Name of the Wind by Patrick Rothfuss
+28. The Shadow of the Wind by Carlos Ruiz Zafón
+29. The Secret History by Donna Tartt
+30. The Goldfinch by Donna Tartt
+31. The Martian by Andy Weir
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Giver by Lois Lowry
+34. The Hand of the Graphic Novel by Neil Gaiman
+35. The Ocean at the End of the Lane by Neil Gaiman
+36. The Girl on the Train by Paula Hawkins
+37. The Help by Kathryn Stockett
+38. The Lovely Bones by Alice Sebold
+39. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+40. The Nightingale by Kristin Hannah
+41. The Glass Castle by Jeannette Walls
+42. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+43. The Fault in Our Stars by John Green
+44. The Perks of Being a Wallflower by Stephen Chbosky
+45. The Bell Jar by Sylvia Plath
+46. The Road Less Traveled by M. Scott Peck
+47. The Power of Now by Eckhart Tolle
+48. The Four Agreements by Don Miguel Ruiz
+49. The Art of Happiness by Dalai Lama XIV
+50. The Life-Changing Magic of Tidying Up by Marie Kondo
+
+These recommendations are based on the user's interest in classic literature, horror, and psychological thrillers.

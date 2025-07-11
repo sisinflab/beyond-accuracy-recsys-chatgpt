@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Brief History of Time by Stephen Hawking
+2. The Universe in a Nutshell by Stephen Hawking
+3. A Brief History of Humankind by Yuval Noah Harari
+4. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+5. The War of the Worlds by H. G. Wells
+6. 20,000 Leagues Under the Sea by Jules Verne
+7. Around the World in Eighty Days by Jules Verne
+8. The Lost World by Arthur Conan Doyle
+9. Frankenstein by Mary Shelley
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+12. The Da Vinci Code by Dan Brown
+13. Inferno by Dan Brown
+14. Origin by Dan Brown
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Girl Who Played with Fire by Stieg Larsson
+17. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. 1984 by George Orwell
+20. Brave New World by Aldous Huxley
+21. Fahrenheit 451 by Ray Bradbury
+22. Neuromancer by William Gibson
+23. Snow Crash by Neal Stephenson
+24. Do Androids Dream of Electric Sheep? by Philip K. Dick
+25. The Martian by Andy Weir
+26. Ready Player One by Ernest Cline
+27. Ender's Game by Orson Scott Card
+28. Dune by Frank Herbert
+29. Foundation by Isaac Asimov
+30. The Left Hand of Darkness by Ursula K. Le Guin
+31. The Dispossessed by Ursula K. Le Guin
+32. The Moon is a Harsh Mistress by Robert A. Heinlein
+33. Stranger in a Strange Land by Robert A. Heinlein
+34. The Stand by Stephen King
+35. It by Stephen King
+36. Pet Sematary by Stephen King
+37. The Shining by Stephen King
+38. Misery by Stephen King
+39. The Silence of the Lambs by Thomas Harris
+40. Red Dragon by Thomas Harris
+41. Hannibal by Thomas Harris
+42. The Bourne Identity by Robert Ludlum
+43. The Hunt for Red October by Tom Clancy
+44. Jurassic Park by Michael Crichton
+45. The Andromeda Strain by Michael Crichton
+46. Sphere by Michael Crichton
+47. The Lost Symbol by Dan Brown
+48. Deception Point by Dan Brown
+49. The Inferno by Dante Alighieri
+50. Paradise Lost by John Milton
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1351 likes.

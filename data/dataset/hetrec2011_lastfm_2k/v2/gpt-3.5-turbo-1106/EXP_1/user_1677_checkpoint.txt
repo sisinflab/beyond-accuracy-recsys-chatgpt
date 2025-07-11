@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Incubus
+2. Chevelle
+3. A Perfect Circle
+4. 30 Seconds to Mars
+5. Seether
+6. Breaking Benjamin
+7. Papa Roach
+8. Three Days Grace
+9. System of a Down
+10. Foo Fighters
+11. Red Hot Chili Peppers
+12. Audioslave
+13. The Smashing Pumpkins
+14. Nine Inch Nails
+15. Korn
+16. Rage Against the Machine
+17. Tool
+18. Slipknot
+19. Stone Temple Pilots
+20. Bush
+21. The Offspring
+22. Limp Bizkit
+23. Puddle of Mudd
+24. Evanescence
+25. My Chemical Romance
+26. Paramore
+27. The Killers
+28. Muse
+29. Arctic Monkeys
+30. The Strokes
+31. Kings of Leon
+32. Interpol
+33. The White Stripes
+34. Franz Ferdinand
+35. The Hives
+36. Yeah Yeah Yeahs
+37. Bloc Party
+38. Modest Mouse
+39. Death Cab for Cutie
+40. The Shins
+41. Vampire Weekend
+42. Phoenix
+43. MGMT
+44. Foster the People
+45. Two Door Cinema Club
+46. The Neighbourhood
+47. Imagine Dragons
+48. Bastille
+49. Hozier
+50. Twenty One Pilots
+
+These recommendations are based on the user's liking of alternative rock, nu-metal, and pop-rock artists.

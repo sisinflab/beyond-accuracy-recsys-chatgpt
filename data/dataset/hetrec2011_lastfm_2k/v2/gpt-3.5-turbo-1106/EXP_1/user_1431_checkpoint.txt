@@ -1,0 +1,54 @@
+Based on user 1431's preferences, here are the top 50 recommendations:
+
+1. Il Divo
+2. Andrea Bocelli
+3. Laura Pausini
+4. Enya
+5. Michael Bublé
+6. Mariah Carey
+7. Sade
+8. Christina Aguilera
+9. Whitney Houston
+10. Norah Jones
+11. Sarah McLachlan
+12. The Corrs
+13. Vanessa Carlton
+14. Alanis Morissette
+15. Leona Lewis
+16. Adele
+17. Kelly Clarkson
+18. Justin Timberlake
+19. Backstreet Boys
+20. N'Sync
+21. Westlife
+22. Boyzone
+23. Take That
+24. George Michael
+25. Elton John
+26. Phil Collins
+27. Bryan Adams
+28. Sting
+29. Seal
+30. Coldplay
+31. U2
+32. The Cranberries
+33. Oasis
+34. Maroon 5
+35. Bruno Mars
+36. Ed Sheeran
+37. Sam Smith
+38. Shawn Mendes
+39. Taylor Swift
+40. Ariana Grande
+41. Katy Perry
+42. Rihanna
+43. Beyoncé
+44. Jennifer Lopez
+45. Selena Gomez
+46. Demi Lovato
+47. Justin Bieber
+48. One Direction
+49. Little Mix
+50. Zara Larsson
+
+These recommendations are based on the user's liking of artists with similar musical styles and genres.

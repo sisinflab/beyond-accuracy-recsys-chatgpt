@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 202:
+
+1. Metallica
+2. Iron Maiden
+3. Megadeth
+4. AC/DC
+5. Pantera
+6. Black Sabbath
+7. Judas Priest
+8. Slayer
+9. Testament
+10. Dio
+11. Children of Bodom
+12. Amon Amarth
+13. In Flames
+14. Kreator
+15. Helloween
+16. Bathory
+17. Hypocrisy
+18. King Diamond
+19. Rammstein
+20. Oomph!
+21. HIM
+22. Die Ärzte
+23. Die Toten Hosen
+24. Matanza
+25. Twisted Sister
+26. Iced Earth
+27. Journey
+28. Korpiklaani
+29. Britney Spears
+30. Lady Gaga
+31. Christina Aguilera
+32. Rihanna
+33. Madonna
+34. Shakira
+35. Paramore
+36. Katy Perry
+37. Avril Lavigne
+38. Taylor Swift
+39. Beyoncé
+40. Muse
+41. 30 Seconds to Mars
+42. U2
+43. Pink Floyd
+44. Radiohead
+45. Ke$ha
+46. Coldplay
+47. Arctic Monkeys
+48. The Killers
+49. Nirvana
+50. Green Day
+
+These recommendations are based on the user's liking of similar artists and are ranked accordingly.

@@ -1,0 +1,54 @@
+Based on user 77's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Radiohead
+2. The Smiths
+3. Franz Ferdinand
+4. Interpol
+5. Pink Floyd
+6. The Shins
+7. Death Cab for Cutie
+8. The Black Keys
+9. The Beatles
+10. Arcade Fire
+11. The White Stripes
+12. The Libertines
+13. Yeah Yeah Yeahs
+14. Snow Patrol
+15. The Wombats
+16. MGMT
+17. The Smashing Pumpkins
+18. New Order
+19. Joy Division
+20. Beirut
+21. Maxïmo Park
+22. The Rakes
+23. Los Campesinos!
+24. Belle and Sebastian
+25. The Strokes
+26. Arctic Monkeys
+27. Vampire Weekend
+28. The Last Shadow Puppets
+29. Klaxons
+30. The Killers
+31. The Fratellis
+32. Gorillaz
+33. Muse
+34. Bloc Party
+35. Two Door Cinema Club
+36. The Subways
+37. Kasabian
+38. Florence + the Machine
+39. The Rakes
+40. The Subways
+41. Kasabian
+42. Florence + the Machine
+43. Kid Cudi
+44. Jamiroquai
+45. Serge Gainsbourg
+46. Weezer
+47. Green Day
+48. Robbie Williams
+49. Queen
+50. Maroon 5
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for them to explore.

@@ -1,0 +1,54 @@
+Based on user 9's preferences, here are the top 50 recommendations for the given artists:
+
+1. Nightwish
+2. Sonata Arctica
+3. Epica
+4. Within Temptation
+5. Lacuna Coil
+6. The Rasmus
+7. Imogen Heap
+8. The Killers
+9. Keane
+10. Oasis
+11. Coldplay
+12. The Kooks
+13. Rise Against
+14. Slipknot
+15. Sonic Syndicate
+16. Thirteen Senses
+17. Yellowcard
+18. Robyn
+19. Madonna
+20. Lady Gaga
+21. Rihanna
+22. M.I.A.
+23. Britney Spears
+24. Beyoncé
+25. Mariah Carey
+26. Adele
+27. Dido
+28. Michael Jackson
+29. Madonna
+30. Tiësto
+31. Yanni
+32. Gloria
+33. Journey
+34. Alexisonfire
+35. Basshunter
+36. Cobra Starship
+37. Glee Cast
+38. Misfits
+39. BoA
+40. Brown Eyed Girls
+41. 소녀시대 (Girls' Generation)
+42. 동방신기 (TVXQ)
+43. Perfume
+44. 倖田來未 (Koda Kumi)
+45. Capsule
+46. Front Line Assembly
+47. Ludwig van Beethoven
+48. YUI
+49. Guano Apes
+50. Rammstein
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for their enjoyment.

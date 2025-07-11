@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Name of the Wind by Patrick Rothfuss
+2. Mistborn: The Final Empire by Brandon Sanderson
+3. The Lies of Locke Lamora by Scott Lynch
+4. The Way of Kings by Brandon Sanderson
+5. The Night Circus by Erin Morgenstern
+6. The Book Thief by Markus Zusak
+7. The Shadow of the Wind by Carlos Ruiz Zafón
+8. The Magicians by Lev Grossman
+9. American Gods by Neil Gaiman
+10. Neverwhere by Neil Gaiman
+11. The Graveyard Book by Neil Gaiman
+12. The Ocean at the End of the Lane by Neil Gaiman
+13. The Golem and the Jinni by Helene Wecker
+14. The Bear and the Nightingale by Katherine Arden
+15. Uprooted by Naomi Novik
+16. The Nightingale by Kristin Hannah
+17. The Goldfinch by Donna Tartt
+18. The Secret History by Donna Tartt
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Girl on the Train by Paula Hawkins
+21. The Thirteenth Tale by Diane Setterfield
+22. The Miniaturist by Jessie Burton
+23. The Historian by Elizabeth Kostova
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Angel's Game by Carlos Ruiz Zafón
+26. The Prisoner of Heaven by Carlos Ruiz Zafón
+27. The Luminaries by Eleanor Catton
+28. The Night Circus by Erin Morgenstern
+29. The Starless Sea by Erin Morgenstern
+30. The Nightingale by Kristin Hannah
+31. The Great Alone by Kristin Hannah
+32. The Night Circus by Erin Morgenstern
+33. The Starless Sea by Erin Morgenstern
+34. The Nightingale by Kristin Hannah
+35. The Great Alone by Kristin Hannah
+36. The Night Circus by Erin Morgenstern
+37. The Starless Sea by Erin Morgenstern
+38. The Nightingale by Kristin Hannah
+39. The Great Alone by Kristin Hannah
+40. The Night Circus by Erin Morgenstern
+41. The Starless Sea by Erin Morgenstern
+42. The Nightingale by Kristin Hannah
+43. The Great Alone by Kristin Hannah
+44. The Night Circus by Erin Morgenstern
+45. The Starless Sea by Erin Morgenstern
+46. The Nightingale by Kristin Hannah
+47. The Great Alone by Kristin Hannah
+48. The Night Circus by Erin Morgenstern
+49. The Starless Sea by Erin Morgenstern
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's interest in fantasy, classics, and historical fiction.

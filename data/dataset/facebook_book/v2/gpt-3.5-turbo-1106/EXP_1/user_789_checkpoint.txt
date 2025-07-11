@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. World War Z by Max Brooks
+2. The Road by Cormac McCarthy
+3. The Stand by Stephen King
+4. The Andromeda Strain by Michael Crichton
+5. In Cold Blood by Truman Capote
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. Brave New World by Aldous Huxley
+8. Animal Farm by George Orwell
+9. The Catcher in the Rye by J.D. Salinger
+10. The Great Gatsby by F. Scott Fitzgerald
+11. One Flew Over the Cuckoo's Nest by Ken Kesey
+12. The Old Man and the Sea by Ernest Hemingway
+13. Dracula by Bram Stoker
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Grapes of Wrath by John Steinbeck
+16. 1984 by George Orwell
+17. The Alchemist by Paulo Coelho
+18. The Kite Runner by Khaled Hosseini
+19. The Book Thief by Markus Zusak
+20. The Giver by Lois Lowry
+21. The Martian by Andy Weir
+22. Ender's Game by Orson Scott Card
+23. Dune by Frank Herbert
+24. Snow Crash by Neal Stephenson
+25. Neuromancer by William Gibson
+26. Do Androids Dream of Electric Sheep? by Philip K. Dick
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. I, Robot by Isaac Asimov
+29. The Time Machine by H.G. Wells
+30. The War of the Worlds by H.G. Wells
+31. The Invisible Man by H.G. Wells
+32. The Island of Dr. Moreau by H.G. Wells
+33. The Day of the Triffids by John Wyndham
+34. The Chrysalids by John Wyndham
+35. The Stand by Stephen King
+36. The Shining by Stephen King
+37. Pet Sematary by Stephen King
+38. Misery by Stephen King
+39. Carrie by Stephen King
+40. The Dead Zone by Stephen King
+41. The Running Man by Stephen King
+42. The Long Walk by Stephen King
+43. The Talisman by Stephen King and Peter Straub
+44. The Dark Tower: The Gunslinger by Stephen King
+45. The Dark Tower II: The Drawing of the Three by Stephen King
+46. The Dark Tower III: The Waste Lands by Stephen King
+47. The Dark Tower IV: Wizard and Glass by Stephen King
+48. The Dark Tower V: Wolves of the Calla by Stephen King
+49. The Dark Tower VI: Song of Susannah by Stephen King
+50. The Dark Tower VII: The Dark Tower by Stephen King
+
+These recommendations are based on similar themes, genres, and authors to the books that user 789 likes.

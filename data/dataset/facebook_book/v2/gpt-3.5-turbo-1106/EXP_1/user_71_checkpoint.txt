@@ -1,0 +1,54 @@
+Based on the preferences of user 71, here are the top 50 book recommendations:
+
+1. Eragon by Christopher Paolini
+2. Brisingr by Christopher Paolini
+3. Inheritance by Christopher Paolini
+4. The Alchemist by Paulo Coelho
+5. The Kite Runner by Khaled Hosseini
+6. To Kill a Mockingbird by Harper Lee
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. The Fault in Our Stars by John Green
+9. The Hunger Games by Suzanne Collins
+10. Catching Fire by Suzanne Collins
+11. Mockingjay by Suzanne Collins
+12. City of Bones by Cassandra Clare
+13. City of Glass by Cassandra Clare
+14. City of Fallen Angels by Cassandra Clare
+15. City of Lost Souls by Cassandra Clare
+16. City of Heavenly Fire by Cassandra Clare
+17. Thirteen Reasons Why by Jay Asher
+18. Paper Towns by John Green
+19. Looking for Alaska by John Green
+20. The Book Thief by Markus Zusak
+21. I Am the Messenger by Markus Zusak
+22. A Thousand Splendid Suns by Khaled Hosseini
+23. The Glass Castle by Jeannette Walls
+24. Educated by Tara Westover
+25. The Night Circus by Erin Morgenstern
+26. The Goldfinch by Donna Tartt
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Help by Kathryn Stockett
+29. The Lovely Bones by Alice Sebold
+30. The Girl on the Train by Paula Hawkins
+31. Gone Girl by Gillian Flynn
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. The Da Vinci Code by Dan Brown
+34. Angels & Demons by Dan Brown
+35. The Lost Symbol by Dan Brown
+36. Inferno by Dan Brown
+37. Origin by Dan Brown
+38. The Martian by Andy Weir
+39. Ready Player One by Ernest Cline
+40. The Maze Runner by James Dashner
+41. Divergent by Veronica Roth
+42. Insurgent by Veronica Roth
+43. Allegiant by Veronica Roth
+44. The Giver by Lois Lowry
+45. Gathering Blue by Lois Lowry
+46. Messenger by Lois Lowry
+47. Son by Lois Lowry
+48. The Outsiders by S.E. Hinton
+49. Lord of the Flies by William Golding
+50. The Great Gatsby by F. Scott Fitzgerald
+
+These recommendations are based on the genres and authors that user 71 has shown interest in.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smashing Pumpkins
+2. Beck
+3. The Strokes
+4. Interpol
+5. Modest Mouse
+6. The White Stripes
+7. The Black Keys
+8. Tame Impala
+9. The Killers
+10. Franz Ferdinand
+11. Muse
+12. The Flaming Lips
+13. Arcade Fire
+14. Vampire Weekend
+15. Spoon
+16. The National
+17. Death Cab for Cutie
+18. Bloc Party
+19. LCD Soundsystem
+20. Phoenix
+21. MGMT
+22. The Shins
+23. Spoon
+24. The Decemberists
+25. Yeah Yeah Yeahs
+26. Gorillaz
+27. The xx
+28. Alt-J
+29. Foals
+30. Arctic Monkeys
+31. Radiohead
+32. Coldplay
+33. Nirvana
+34. Joy Division
+35. The Mars Volta
+36. Kings of Convenience
+37. PJ Harvey
+38. Archive
+39. Nouvelle Vague
+40. The Doors
+41. Myslovitz
+42. 65daysofstatic
+43. Red Hot Chili Peppers
+44. John Frusciante
+45. The Velvet Underground
+46. Sonic Youth
+47. My Bloody Valentine
+48. Pavement
+49. Dinosaur Jr.
+50. Pixies
+
+These recommendations are based on the user's liking of similar artists and genres.

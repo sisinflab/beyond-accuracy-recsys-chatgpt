@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Bridges of Madison County by Robert James Waller
+2. P.S. I Love You by Cecelia Ahern
+3. Watchers by Dean Koontz
+4. The Alchemist by Paulo Coelho
+5. Revolution 2020 by Chetan Bhagat
+6. One Night at the Call Center by Chetan Bhagat
+7. Jonathan Livingston Seagull by Richard Bach
+8. The Zahir by Paulo Coelho
+9. Angels & Demons by Dan Brown
+10. The Notebook by Nicholas Sparks
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. The Choice by Nicholas Sparks
+13. The Last Song by Nicholas Sparks
+14. The Lost Symbol by Dan Brown
+15. The Best of Me by Nicholas Sparks
+16. The Lucky One by Nicholas Sparks
+17. The Girl You Left Behind by Jojo Moyes
+18. The Night Circus by Erin Morgenstern
+19. The Rosie Project by Graeme Simsion
+20. The Fault in Our Stars by John Green
+21. Me Before You by Jojo Moyes
+22. The Great Gatsby by F. Scott Fitzgerald
+23. To Kill a Mockingbird by Harper Lee
+24. The Catcher in the Rye by J.D. Salinger
+25. The Kite Runner by Khaled Hosseini
+26. A Thousand Splendid Suns by Khaled Hosseini
+27. The Help by Kathryn Stockett
+28. Gone Girl by Gillian Flynn
+29. The Girl on the Train by Paula Hawkins
+30. Big Little Lies by Liane Moriarty
+31. The Husband's Secret by Liane Moriarty
+32. Sharp Objects by Gillian Flynn
+33. Dark Places by Gillian Flynn
+34. The Silent Patient by Alex Michaelides
+35. The Woman in the Window by A.J. Finn
+36. Where the Crawdads Sing by Delia Owens
+37. Little Fires Everywhere by Celeste Ng
+38. Everything I Never Told You by Celeste Ng
+39. Eleanor Oliphant Is Completely Fine by Gail Honeyman
+40. Normal People by Sally Rooney
+41. Conversations with Friends by Sally Rooney
+42. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+43. Daisy Jones & The Six by Taylor Jenkins Reid
+44. The Nightingale by Kristin Hannah
+45. The Light We Lost by Jill Santopolo
+46. The Tattooist of Auschwitz by Heather Morris
+47. The Book Thief by Markus Zusak
+48. All the Light We Cannot See by Anthony Doerr
+49. Educated by Tara Westover
+50. Becoming by Michelle Obama
+
+These recommendations are based on the user's preference for romance, mystery, and popular fiction novels.

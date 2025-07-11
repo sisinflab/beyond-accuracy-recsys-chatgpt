@@ -1,0 +1,54 @@
+Based on user 2021's preferences, here are the top 50 recommendations:
+
+1. Madonna
+2. Adele
+3. Evanescence
+4. Alanis Morissette
+5. Alicia Keys
+6. Eminem
+7. Jay-Z
+8. Jennifer Lopez
+9. Britney Spears
+10. Maroon 5
+11. Ne-Yo
+12. Enrique Iglesias
+13. Rihanna
+14. Lady Gaga
+15. Katy Perry
+16. Taylor Swift
+17. Beyoncé
+18. Shakira
+19. Selena Gomez & the Scene
+20. Avril Lavigne
+21. Ellie Goulding
+22. Christina Aguilera
+23. Mariah Carey
+24. Kelly Clarkson
+25. Justin Bieber
+26. Black Eyed Peas
+27. Demi Lovato
+28. P!nk
+29. Leona Lewis
+30. Owl City
+31. David Guetta
+32. Cheryl Cole
+33. Carrie Underwood
+34. Jessie J
+35. Nelly Furtado
+36. Jordin Sparks
+37. 3OH!3
+38. Ashley Tisdale
+39. Leighton Meester
+40. Girlicious
+41. The Veronicas
+42. JoJo
+43. Sugababes
+44. Inna
+45. Diana Vickers
+46. Clare Maguire
+47. Kylie Minogue
+48. Justin Timberlake
+49. Usher
+50. Bruno Mars
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

@@ -1,0 +1,54 @@
+Based on user 1910's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The Knife
+2. Bat for Lashes
+3. Röyksopp
+4. Annie Lennox
+5. PJ Harvey
+6. Interpol
+7. Sigur Rós
+8. Blonde Redhead
+9. Fiona Apple
+10. Antony and the Johnsons
+11. Radiohead
+12. The Gathering
+13. Garbage
+14. The Strokes
+15. Kate Bush
+16. Shakira
+17. Silversun Pickups
+18. Regina Spektor
+19. Amy Winehouse
+20. Franz Ferdinand
+21. Loreena McKennitt
+22. Natasha Bedingfield
+23. U2
+24. The Chemical Brothers
+25. Keane
+26. Bat for Lashes
+27. Röyksopp
+28. Annie Lennox
+29. PJ Harvey
+30. Interpol
+31. Sigur Rós
+32. Blonde Redhead
+33. Fiona Apple
+34. Antony and the Johnsons
+35. Radiohead
+36. The Gathering
+37. Garbage
+38. The Strokes
+39. Kate Bush
+40. Shakira
+41. Silversun Pickups
+42. Regina Spektor
+43. Amy Winehouse
+44. Franz Ferdinand
+45. Loreena McKennitt
+46. Natasha Bedingfield
+47. U2
+48. The Chemical Brothers
+49. Keane
+50. Bat for Lashes
+
+These recommendations are based on similar artists and genres that user 1910 enjoys.

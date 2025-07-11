@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Lacrimosa
+2. Oomph!
+3. Apocalyptica
+4. Nightwish
+5. Within Temptation
+6. Lacuna Coil
+7. The 69 Eyes
+8. Combichrist
+9. Lord of the Lost
+10. Marilyn Manson
+11. Korn
+12. Depeche Mode
+13. Placebo
+14. The Sisters of Mercy
+15. Type O Negative
+16. Paradise Lost
+17. The Cure
+18. HIM
+19. Unheilig
+20. Blutengel
+21. In Extremo
+22. L'Âme Immortelle
+23. Rammstein
+24. Die Ärzte
+25. The Birthday Massacre
+26. Eisbrecher
+27. Three Days Grace
+28. Nirvana
+29. Metallica
+30. System of a Down
+31. Children of Bodom
+32. Amorphis
+33. Guns N' Roses
+34. Billy Talent
+35. Tenacious D
+36. Bullet for My Valentine
+37. Diary of Dreams
+38. Deathstars
+39. Lacrimosa
+40. Oomph!
+41. Apocalyptica
+42. Nightwish
+43. Within Temptation
+44. Lacuna Coil
+45. The 69 Eyes
+46. Combichrist
+47. Lord of the Lost
+48. Marilyn Manson
+49. Korn
+50. Depeche Mode
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music within the same genre.

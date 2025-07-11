@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. In Flames
+2. Insomnium
+3. Wintersun
+4. Symphony X
+5. Epica
+6. Darkthrone
+7. Kreator
+8. Iced Earth
+9. Stratovarius
+10. Anathema
+11. Swallow the Sun
+12. Emperor
+13. Dimmu Borgir
+14. Blind Guardian
+15. Kreator
+16. Testament
+17. Carcass
+18. Behemoth
+19. Rotting Christ
+20. Sodom
+21. Moonspell
+22. Therion
+23. My Dying Bride
+24. Paradise Lost
+25. At the Gates
+26. Edge of Sanity
+27. Tiamat
+28. Septicflesh
+29. Amorphis
+30. Sirenia
+31. Lacuna Coil
+32. Tristania
+33. Sirenia
+34. Lacrimosa
+35. Moonspell
+36. Tiamat
+37. Paradise Lost
+38. My Dying Bride
+39. Edge of Sanity
+40. At the Gates
+41. Therion
+42. Moonspell
+43. Sodom
+44. Rotting Christ
+45. Behemoth
+46. Carcass
+47. Testament
+48. Kreator
+49. Blind Guardian
+50. Dimmu Borgir
+
+These recommendations are based on the user's liking of similar artists and genres.

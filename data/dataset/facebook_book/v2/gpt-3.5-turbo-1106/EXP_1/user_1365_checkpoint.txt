@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Inferno by Dan Brown
+2. Digital Fortress by Dan Brown
+3. Origin by Dan Brown
+4. The Lost Symbol by Dan Brown
+5. Deception Point by Dan Brown
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Girl Who Played with Fire by Stieg Larsson
+8. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+9. The Alchemist by Paulo Coelho
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. Love in the Time of Cholera by Gabriel Garcia Marquez
+12. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+13. The Book Thief by Markus Zusak
+14. The Shadow of the Wind by Carlos Ruiz Zafon
+15. The Name of the Wind by Patrick Rothfuss
+16. The Wise Man's Fear by Patrick Rothfuss
+17. The Night Circus by Erin Morgenstern
+18. The Goldfinch by Donna Tartt
+19. The Secret History by Donna Tartt
+20. The Catcher in the Rye by J.D. Salinger
+21. Franny and Zooey by J.D. Salinger
+22. Nine Stories by J.D. Salinger
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Importance of Being Earnest by Oscar Wilde
+25. The Portrait of a Lady by Henry James
+26. The Turn of the Screw by Henry James
+27. The Wings of the Dove by Henry James
+28. The Great Gatsby by F. Scott Fitzgerald
+29. Tender Is the Night by F. Scott Fitzgerald
+30. This Side of Paradise by F. Scott Fitzgerald
+31. The Sun Also Rises by Ernest Hemingway
+32. A Farewell to Arms by Ernest Hemingway
+33. For Whom the Bell Tolls by Ernest Hemingway
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Importance of Being Earnest by Oscar Wilde
+36. The Portrait of a Lady by Henry James
+37. The Turn of the Screw by Henry James
+38. The Wings of the Dove by Henry James
+39. The Great Gatsby by F. Scott Fitzgerald
+40. Tender Is the Night by F. Scott Fitzgerald
+41. This Side of Paradise by F. Scott Fitzgerald
+42. The Sun Also Rises by Ernest Hemingway
+43. A Farewell to Arms by Ernest Hemingway
+44. For Whom the Bell Tolls by Ernest Hemingway
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Portrait of a Lady by Henry James
+48. The Turn of the Screw by Henry James
+49. The Wings of the Dove by Henry James
+50. The Great Gatsby by F. Scott Fitzgerald
+
+These recommendations are based on the user's interest in mystery, thriller, classic literature, and horror genres.

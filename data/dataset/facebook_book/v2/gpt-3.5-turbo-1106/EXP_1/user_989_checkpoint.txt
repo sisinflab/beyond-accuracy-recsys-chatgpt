@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Stranger by Albert Camus
+9. The Road by Cormac McCarthy
+10. The Handmaid's Tale by Margaret Atwood
+11. The Metamorphosis by Franz Kafka
+12. The Picture of Dorian Gray by Oscar Wilde
+13. Crime and Punishment by Fyodor Dostoevsky
+14. The Sun Also Rises by Ernest Hemingway
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Grapes of Wrath by John Steinbeck
+17. The Sound and the Fury by William Faulkner
+18. Heart of Darkness by Joseph Conrad
+19. Moby-Dick by Herman Melville
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. The Stranger by Harlan Coben
+22. The Road Not Taken by Robert Frost
+23. The Road Less Traveled by M. Scott Peck
+24. The Road to Wigan Pier by George Orwell
+25. The Road to Serfdom by Friedrich Hayek
+26. The Road to Character by David Brooks
+27. The Road to Little Dribbling by Bill Bryson
+28. The Road to Ruin by James Rickards
+29. The Road to Reality by Roger Penrose
+30. The Road to Oxiana by Robert Byron
+31. The Road to Mecca by Muhammad Asad
+32. The Road to Mars by Eric Idle
+33. The Road to Jerusalem by Jan Guillou
+34. The Road to Hell by Michael Maren
+35. The Road to Gandolfo by Robert Ludlum
+36. The Road to En-dor by E. H. Jones
+37. The Road to Eleusis by R. Gordon Wasson
+38. The Road to Dune by Frank Herbert
+39. The Road to Daybreak by Henri J.M. Nouwen
+40. The Road to Chlifa by Michele Marineau
+41. The Road to Character by David Brooks
+42. The Road to Cana by Anne Rice
+43. The Road to Burgundy by Ray Walker
+44. The Road to Botany Bay by Paul Carter
+45. The Road to Balinor by Mary Stanton
+46. The Road to Avalon by Joan Wolf
+47. The Road to Armageddon by Clive Ponting
+48. The Road to Alenorr by Robert E. Vardeman
+49. The Road to Agra by Aimee Sommerfelt
+50. The Road to 9/11 by Peter Dale Scott
+
+These recommendations are based on similar themes, genres, and authors to the books that user 989 likes.

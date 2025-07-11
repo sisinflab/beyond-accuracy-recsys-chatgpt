@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. Percy Jackson & the Olympians series by Rick Riordan
+3. The Hobbit by J.R.R. Tolkien
+4. The Golden Compass by Philip Pullman
+5. The Lightning Thief by Rick Riordan
+6. Inkheart by Cornelia Funke
+7. The Giver by Lois Lowry
+8. The Secret Garden by Frances Hodgson Burnett
+9. The Alchemist by Paulo Coelho
+10. The Book Thief by Markus Zusak
+11. The Fault in Our Stars by John Green
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. To Kill a Mockingbird by Harper Lee
+14. The Catcher in the Rye by J.D. Salinger
+15. The Outsiders by S.E. Hinton
+16. The Princess Bride by William Goldman
+17. The Night Circus by Erin Morgenstern
+18. The Name of the Wind by Patrick Rothfuss
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Lovely Bones by Alice Sebold
+21. The Help by Kathryn Stockett
+22. The Kite Runner by Khaled Hosseini
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. The Girl on the Train by Paula Hawkins
+26. Gone Girl by Gillian Flynn
+27. The Girl with the Pearl Earring by Tracy Chevalier
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+30. The Road by Cormac McCarthy
+31. The Handmaid's Tale by Margaret Atwood
+32. The Bell Jar by Sylvia Plath
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The Count of Monte Cristo by Alexandre Dumas
+35. The Scarlet Letter by Nathaniel Hawthorne
+36. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+37. The Great Gatsby by F. Scott Fitzgerald
+38. The Catcher in the Rye by J.D. Salinger
+39. The Old Man and the Sea by Ernest Hemingway
+40. The Grapes of Wrath by John Steinbeck
+41. The Sun Also Rises by Ernest Hemingway
+42. The Sound and the Fury by William Faulkner
+43. The Bell Jar by Sylvia Plath
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Count of Monte Cristo by Alexandre Dumas
+46. The Scarlet Letter by Nathaniel Hawthorne
+47. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+48. The Great Gatsby by F. Scott Fitzgerald
+49. The Catcher in the Rye by J.D. Salinger
+50. The Old Man and the Sea by Ernest Hemingway
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and classic literature.

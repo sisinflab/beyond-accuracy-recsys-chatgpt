@@ -1,0 +1,54 @@
+Based on user 1230's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. Neverwhere by Neil Gaiman
+3. Stardust by Neil Gaiman
+4. Coraline by Neil Gaiman
+5. The Graveyard Book by Neil Gaiman
+6. Anansi Boys by Neil Gaiman
+7. Good Omens by Neil Gaiman and Terry Pratchett
+8. The Color of Magic by Terry Pratchett
+9. Mort by Terry Pratchett
+10. Guards! Guards! by Terry Pratchett
+11. Small Gods by Terry Pratchett
+12. Going Postal by Terry Pratchett
+13. Wyrd Sisters by Terry Pratchett
+14. The Last Continent by Terry Pratchett
+15. The Light Fantastic by Terry Pratchett
+16. Equal Rites by Terry Pratchett
+17. Night Watch by Terry Pratchett
+18. Thud! by Terry Pratchett
+19. The Fifth Elephant by Terry Pratchett
+20. Monstrous Regiment by Terry Pratchett
+21. The Truth by Terry Pratchett
+22. The Wee Free Men by Terry Pratchett
+23. A Hat Full of Sky by Terry Pratchett
+24. Wintersmith by Terry Pratchett
+25. I Shall Wear Midnight by Terry Pratchett
+26. The Shepherd's Crown by Terry Pratchett
+27. The Stand by Stephen King
+28. It by Stephen King
+29. Pet Sematary by Stephen King
+30. Misery by Stephen King
+31. 'Salem's Lot by Stephen King
+32. Carrie by Stephen King
+33. The Shining by Stephen King
+34. Doctor Sleep by Stephen King
+35. The Dark Tower series by Stephen King
+36. The Talisman by Stephen King and Peter Straub
+37. Black House by Stephen King and Peter Straub
+38. The Eyes of the Dragon by Stephen King
+39. The Dead Zone by Stephen King
+40. Firestarter by Stephen King
+41. Christine by Stephen King
+42. Cujo by Stephen King
+43. The Vampire Lestat by Anne Rice
+44. The Queen of the Damned by Anne Rice
+45. The Tale of the Body Thief by Anne Rice
+46. Memnoch the Devil by Anne Rice
+47. The Vampire Armand by Anne Rice
+48. Merrick by Anne Rice
+49. Blood and Gold by Anne Rice
+50. Prince Lestat by Anne Rice
+
+These recommendations are based on the user's interest in comics, horror, and fantasy novels, as well as authors like Neil Gaiman, Terry Pratchett, Anne Rice, and F. Paul Wilson.

@@ -1,0 +1,54 @@
+Based on user 1172's preferences, here are the top 50 book recommendations:
+
+1. Misery (novel) by Stephen King
+2. The Stand by Stephen King
+3. Cujo by Stephen King
+4. The Zombie Survival Guide
+5. Fear and Loathing in Las Vegas
+6. The Da Vinci Code
+7. The Hobbit
+8. The Lightning Thief
+9. The Hunger Games
+10. The Lord of the Rings
+11. The Great Gatsby
+12. Thirteen Reasons Why
+13. The Picture of Dorian Gray
+14. Inkheart
+15. The Outsiders (novel) by S. E. Hinton
+16. I Am Legend (novel) by Richard Matheson
+17. A Light in the Attic by Shel Silverstein
+18. The Vampire's Assistant by Darren Shan
+19. A Million Little Pieces
+20. Teaching with Calvin and Hobbes
+21. Naruto
+22. The Neverending Story
+23. The Hitchhiker's Guide to the Galaxy (fictional)
+24. The True Game
+25. The Morganville Vampires
+26. Angels & Demons
+27. The Lost Boy (memoir)
+28. The Coldest Winter Ever
+29. To Kill a Mockingbird
+30. The Longest Night (Angel novel)
+31. The Black Prism
+32. The Outsiders (novel) by S. E. Hinton
+33. The Vampire's Assistant by Darren Shan
+34. A Mango-Shaped Space
+35. Macbeth
+36. D.Gray-man
+37. High Society (novel)
+38. Gerald's Game
+39. Glass (novel)
+40. Oliver Twist
+41. Luna (Peters novel)
+42. Daughter of the Lioness
+43. Insomnia (novel)
+44. Rose Madder (novel)
+45. Cecilia (McClure novel)
+46. Cut (novel)
+47. Manga
+48. Someone like You (novel)
+49. Uglies
+50. Inferno (Dante)
+
+These recommendations are based on the user's preferences for books by Stephen King, Maurice Sendak, and other similar genres and themes.

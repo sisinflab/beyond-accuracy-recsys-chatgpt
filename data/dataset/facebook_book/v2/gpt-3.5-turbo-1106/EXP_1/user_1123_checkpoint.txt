@@ -1,0 +1,54 @@
+Based on user 1123's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Catch-22 by Joseph Heller
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Grapes of Wrath by John Steinbeck
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. Fahrenheit 451 by Ray Bradbury
+13. The Bell Jar by Sylvia Plath
+14. A Clockwork Orange by Anthony Burgess
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Stranger by Albert Camus
+19. Crime and Punishment by Fyodor Dostoevsky
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. Lolita by Vladimir Nabokov
+22. The Road to Wigan Pier by George Orwell
+23. The Sound and the Fury by William Faulkner
+24. The Trial by Franz Kafka
+25. The Metamorphosis by Franz Kafka
+26. The Plague by Albert Camus
+27. The Idiot by Fyodor Dostoevsky
+28. The Master and Margarita by Mikhail Bulgakov
+29. The Stranger by Harlan Coben
+30. The Secret History by Donna Tartt
+31. The Goldfinch by Donna Tartt
+32. The Secret Agent by Joseph Conrad
+33. Heart of Darkness by Joseph Conrad
+34. The Count of Monte Cristo by Alexandre Dumas
+35. The Three Musketeers by Alexandre Dumas
+36. War and Peace by Leo Tolstoy
+37. Anna Karenina by Leo Tolstoy
+38. Crime and Punishment by Fyodor Dostoevsky
+39. The Brothers Karamazov by Fyodor Dostoevsky
+40. The Master and Margarita by Mikhail Bulgakov
+41. The Stranger by Harlan Coben
+42. The Secret History by Donna Tartt
+43. The Goldfinch by Donna Tartt
+44. The Secret Agent by Joseph Conrad
+45. Heart of Darkness by Joseph Conrad
+46. The Count of Monte Cristo by Alexandre Dumas
+47. The Three Musketeers by Alexandre Dumas
+48. War and Peace by Leo Tolstoy
+49. Anna Karenina by Leo Tolstoy
+50. Crime and Punishment by Fyodor Dostoevsky
+
+These recommendations are based on the user's preference for classic literature, dystopian themes, and thought-provoking novels.

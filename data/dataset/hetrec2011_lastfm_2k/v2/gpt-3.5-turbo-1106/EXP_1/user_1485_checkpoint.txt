@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Shins
+2. Sufjan Stevens
+3. The Decemberists
+4. Death Cab for Cutie
+5. Tegan and Sara
+6. The Postal Service
+7. Vampire Weekend
+8. The xx
+9. Fleet Foxes
+10. Bon Iver
+11. Beirut
+12. Iron & Wine
+13. Neutral Milk Hotel
+14. Arcade Fire
+15. The National
+16. Yeah Yeah Yeahs
+17. Metric
+18. The Strokes
+19. Interpol
+20. Franz Ferdinand
+21. The Killers
+22. Bloc Party
+23. The Libertines
+24. The Kooks
+25. Arctic Monkeys
+26. The Fratellis
+27. Kaiser Chiefs
+28. The Wombats
+29. The Vaccines
+30. The Strokes
+31. The Black Keys
+32. Kings of Leon
+33. The White Stripes
+34. The Raconteurs
+35. The Hives
+36. The Vines
+37. The Bravery
+38. The Ting Tings
+39. The Kills
+40. The Raveonettes
+41. The Horrors
+42. The Pains of Being Pure at Heart
+43. The Drums
+44. The Naked and Famous
+45. Foster the People
+46. Passion Pit
+47. MGMT
+48. Phoenix
+49. Two Door Cinema Club
+50. Foals
+
+These recommendations are based on the user's liking for indie, alternative, and pop artists, and are aimed at providing a diverse range of similar artists for the user to explore.

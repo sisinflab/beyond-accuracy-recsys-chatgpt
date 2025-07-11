@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Bell Jar by Sylvia Plath
+3. The Road by Cormac McCarthy
+4. The Secret History by Donna Tartt
+5. White Teeth by Zadie Smith
+6. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+7. The Kite Runner by Khaled Hosseini
+8. The Poisonwood Bible by Barbara Kingsolver
+9. The Namesake by Jhumpa Lahiri
+10. The Shadow of the Wind by Carlos Ruiz Zafón
+11. The Book Thief by Markus Zusak
+12. The Lovely Bones by Alice Sebold
+13. Middlesex by Jeffrey Eugenides
+14. American Gods by Neil Gaiman
+15. The Night Circus by Erin Morgenstern
+16. The Alchemist by Paulo Coelho
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Goldfinch by Donna Tartt
+19. The Handmaid's Tale by Margaret Atwood
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Help by Kathryn Stockett
+22. The Hunger Games by Suzanne Collins
+23. The Road by Cormac McCarthy
+24. The Glass Castle by Jeannette Walls
+25. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+26. The Nightingale by Kristin Hannah
+27. The Martian by Andy Weir
+28. The Fault in Our Stars by John Green
+29. The Girl on the Train by Paula Hawkins
+30. The Da Vinci Code by Dan Brown
+31. The Maze Runner by James Dashner
+32. The Perks of Being a Wallflower by Stephen Chbosky
+33. The Help by Kathryn Stockett
+34. The Lovely Bones by Alice Sebold
+35. The Road by Cormac McCarthy
+36. The Night Circus by Erin Morgenstern
+37. The Alchemist by Paulo Coelho
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Goldfinch by Donna Tartt
+40. The Handmaid's Tale by Margaret Atwood
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Help by Kathryn Stockett
+43. The Hunger Games by Suzanne Collins
+44. The Road by Cormac McCarthy
+45. The Glass Castle by Jeannette Walls
+46. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+47. The Nightingale by Kristin Hannah
+48. The Martian by Andy Weir
+49. The Fault in Our Stars by John Green
+50. The Girl on the Train by Paula Hawkins
+
+These recommendations are based on the user's liking for literary fiction, contemporary fiction, and some classic works.

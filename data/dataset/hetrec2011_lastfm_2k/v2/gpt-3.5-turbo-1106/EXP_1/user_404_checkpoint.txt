@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. All Time Low
+2. Jimmy Eat World
+3. Yellowcard
+4. The All-American Rejects
+5. New Found Glory
+6. Paramore
+7. Weezer
+8. The Used
+9. Taking Back Sunday
+10. My Chemical Romance
+11. Fall Out Boy
+12. Panic! At The Disco
+13. The Starting Line
+14. Motion City Soundtrack
+15. The Academy Is...
+16. Dashboard Confessional
+17. Brand New
+18. Something Corporate
+19. Saves The Day
+20. The Get Up Kids
+21. The Ataris
+22. Sugarcult
+23. Finch
+24. Senses Fail
+25. Thrice
+26. Story of the Year
+27. Hawthorne Heights
+28. AFI
+29. Alkaline Trio
+30. Thursday
+31. Coheed and Cambria
+32. Anberlin
+33. The Early November
+34. The Movielife
+35. Bayside
+36. Say Anything
+37. The Maine
+38. Mayday Parade
+39. The Wonder Years
+40. Real Friends
+41. Neck Deep
+42. State Champs
+43. Knuckle Puck
+44. Seaway
+45. The Story So Far
+46. Modern Baseball
+47. Citizen
+48. Turnover
+49. Basement
+50. Title Fight
+
+These recommendations are based on the user's liking of punk rock, pop punk, and alternative rock bands.

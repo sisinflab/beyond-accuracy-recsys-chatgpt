@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Shadow of the Wind by Carlos Ruiz Zafón
+4. The Name of the Wind by Patrick Rothfuss
+5. The Night Circus by Erin Morgenstern
+6. The Secret History by Donna Tartt
+7. The Goldfinch by Donna Tartt
+8. The Historian by Elizabeth Kostova
+9. The Thirteenth Tale by Diane Setterfield
+10. The Time Traveler's Wife by Audrey Niffenegger
+11. The Secret Life of Bees by Sue Monk Kidd
+12. The Lovely Bones by Alice Sebold
+13. The Help by Kathryn Stockett
+14. The Kite Runner by Khaled Hosseini
+15. The Alchemist by Paulo Coelho
+16. The Book Thief by Markus Zusak
+17. The Catcher in the Rye by J.D. Salinger
+18. The Great Gatsby by F. Scott Fitzgerald
+19. To Kill a Mockingbird by Harper Lee
+20. 1984 by George Orwell
+21. Brave New World by Aldous Huxley
+22. Fahrenheit 451 by Ray Bradbury
+23. Slaughterhouse-Five by Kurt Vonnegut
+24. One Hundred Years of Solitude by Gabriel García Márquez
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. Dune by Frank Herbert
+27. Neuromancer by William Gibson
+28. Snow Crash by Neal Stephenson
+29. Ready Player One by Ernest Cline
+30. Ender's Game by Orson Scott Card
+31. The Martian by Andy Weir
+32. Jurassic Park by Michael Crichton
+33. The Hunger Games by Suzanne Collins
+34. The Maze Runner by James Dashner
+35. The Giver by Lois Lowry
+36. The Handmaid's Tale by Margaret Atwood
+37. The Road by Cormac McCarthy
+38. The Stand by Stephen King
+39. The Shining by Stephen King
+40. The Silence of the Lambs by Thomas Harris
+41. Gone Girl by Gillian Flynn
+42. Sharp Objects by Gillian Flynn
+43. Dark Places by Gillian Flynn
+44. The Girl on the Train by Paula Hawkins
+45. Big Little Lies by Liane Moriarty
+46. Sharp Objects by Gillian Flynn
+47. Dark Places by Gillian Flynn
+48. The Girl on the Train by Paula Hawkins
+49. Big Little Lies by Liane Moriarty
+50. The Woman in the Window by A.J. Finn
+
+These recommendations are based on the user's interest in mystery, thriller, and psychological fiction, as well as some classic and contemporary literature.

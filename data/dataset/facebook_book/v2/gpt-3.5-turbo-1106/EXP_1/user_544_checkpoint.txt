@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+3. Brave New World by Aldous Huxley
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. Fahrenheit 451 by Ray Bradbury
+7. Neuromancer by William Gibson
+8. Dune by Frank Herbert
+9. Snow Crash by Neal Stephenson
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Martian by Andy Weir
+13. The Stand by Stephen King
+14. The Hunger Games by Suzanne Collins
+15. The Giver by Lois Lowry
+16. The Alchemist by Paulo Coelho
+17. The Name of the Wind by Patrick Rothfuss
+18. American Gods by Neil Gaiman
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Goldfinch by Donna Tartt
+21. The Night Circus by Erin Morgenstern
+22. The Secret History by Donna Tartt
+23. The Shadow of the Wind by Carlos Ruiz Zafón
+24. The Book Thief by Markus Zusak
+25. The Kite Runner by Khaled Hosseini
+26. Life of Pi by Yann Martel
+27. The Lovely Bones by Alice Sebold
+28. The Help by Kathryn Stockett
+29. The Fault in Our Stars by John Green
+30. Gone Girl by Gillian Flynn
+31. The Girl on the Train by Paula Hawkins
+32. Big Little Lies by Liane Moriarty
+33. The Nightingale by Kristin Hannah
+34. All the Light We Cannot See by Anthony Doerr
+35. The Great Gatsby by F. Scott Fitzgerald
+36. To Kill a Mockingbird by Harper Lee
+37. The Bell Jar by Sylvia Plath
+38. One Hundred Years of Solitude by Gabriel García Márquez
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Count of Monte Cristo by Alexandre Dumas
+41. Crime and Punishment by Fyodor Dostoevsky
+42. The Brothers Karamazov by Fyodor Dostoevsky
+43. The Stranger by Albert Camus
+44. One Flew Over the Cuckoo's Nest by Ken Kesey
+45. The Road Less Traveled by M. Scott Peck
+46. The Power of Now by Eckhart Tolle
+47. Man's Search for Meaning by Viktor E. Frankl
+48. Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain
+49. Thinking, Fast and Slow by Daniel Kahneman
+50. Freakonomics by Steven D. Levitt and Stephen J. Dubner
+
+These recommendations are based on the user's interest in psychological thrillers, science fiction, and thought-provoking literature.

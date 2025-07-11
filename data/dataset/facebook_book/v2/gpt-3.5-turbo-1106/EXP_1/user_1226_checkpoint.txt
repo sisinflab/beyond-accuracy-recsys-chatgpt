@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. Interview with the Vampire by Anne Rice
+3. Dracula by Bram Stoker
+4. The Vampire Lestat by Anne Rice
+5. Dead Until Dark by Charlaine Harris
+6. Glass Houses by Rachel Caine
+7. Marked by P.C. Cast and Kristin Cast
+8. Guilty Pleasures by Laurell K. Hamilton
+9. Dark Lover by J.R. Ward
+10. Dead Witch Walking by Kim Harrison
+11. The Historian by Elizabeth Kostova
+12. Let the Right One In by John Ajvide Lindqvist
+13. Sunshine by Robin McKinley
+14. The Passage by Justin Cronin
+15. The Strain by Guillermo del Toro and Chuck Hogan
+16. The Gargoyle by Andrew Davidson
+17. The Shadow of the Wind by Carlos Ruiz Zafón
+18. The Night Circus by Erin Morgenstern
+19. The Thirteenth Tale by Diane Setterfield
+20. The Secret History by Donna Tartt
+21. The Name of the Wind by Patrick Rothfuss
+22. The Book Thief by Markus Zusak
+23. The Nightingale by Kristin Hannah
+24. The Goldfinch by Donna Tartt
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Help by Kathryn Stockett
+27. The Kite Runner by Khaled Hosseini
+28. The Alchemist by Paulo Coelho
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Lovely Bones by Alice Sebold
+32. The Hunger Games by Suzanne Collins
+33. The Fault in Our Stars by John Green
+34. The Catcher in the Rye by J.D. Salinger
+35. The Bell Jar by Sylvia Plath
+36. The Perks of Being a Wallflower by Stephen Chbosky
+37. The Great Gatsby by F. Scott Fitzgerald
+38. The Book of Lost Things by John Connolly
+39. The Shadow of the Wind by Carlos Ruiz Zafón
+40. The Night Circus by Erin Morgenstern
+41. The Thirteenth Tale by Diane Setterfield
+42. The Secret History by Donna Tartt
+43. The Name of the Wind by Patrick Rothfuss
+44. The Book Thief by Markus Zusak
+45. The Nightingale by Kristin Hannah
+46. The Goldfinch by Donna Tartt
+47. The Girl with the Dragon Tattoo by Stieg Larsson
+48. The Help by Kathryn Stockett
+49. The Kite Runner by Khaled Hosseini
+50. The Alchemist by Paulo Coelho
+
+These recommendations are based on the user's interest in vampire-themed books, as well as other popular and critically acclaimed novels.

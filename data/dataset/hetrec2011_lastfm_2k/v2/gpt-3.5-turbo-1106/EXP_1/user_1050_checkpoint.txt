@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Beach House
+2. Tame Impala
+3. Grizzly Bear
+4. The Flaming Lips
+5. Beach Fossils
+6. Real Estate
+7. The War on Drugs
+8. Caribou
+9. Tycho
+10. Wild Nothing
+11. DIIV
+12. Washed Out
+13. Kurt Vile
+14. The Antlers
+15. Chromatics
+16. Youth Lagoon
+17. Ariel Pink
+18. Mac DeMarco
+19. Unknown Mortal Orchestra
+20. Alvvays
+21. Parquet Courts
+22. Deerhoof
+23. The Microphones
+24. King Krule
+25. Angel Olsen
+26. Destroyer
+27. Father John Misty
+28. The National
+29. Sharon Van Etten
+30. Warpaint
+31. Lower Dens
+32. The Pains of Being Pure at Heart
+33. Cloud Nothings
+34. The Field
+35. Julia Holter
+36. Perfume Genius
+37. Chelsea Wolfe
+38. Wye Oak
+39. Mitski
+40. Big Thief
+41. Frankie Cosmos
+42. Japanese Breakfast
+43. Snail Mail
+44. Soccer Mommy
+45. Jay Som
+46. Hop Along
+47. Ought
+48. Protomartyr
+49. Parcels
+50. Whitney
+
+These recommendations are based on the user's liking of similar artists and genres.

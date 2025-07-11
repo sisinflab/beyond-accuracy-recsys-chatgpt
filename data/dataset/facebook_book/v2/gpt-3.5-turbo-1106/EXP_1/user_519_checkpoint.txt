@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Great Gatsby by F. Scott Fitzgerald
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Bell Jar by Sylvia Plath
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Handmaid's Tale by Margaret Atwood
+10. The Grapes of Wrath by John Steinbeck
+11. The Old Man and the Sea by Ernest Hemingway
+12. Crime and Punishment by Fyodor Dostoevsky
+13. Wuthering Heights by Emily Bronte
+14. The Road by Cormac McCarthy
+15. The Stranger by Albert Camus
+16. The Sun Also Rises by Ernest Hemingway
+17. Slaughterhouse-Five by Kurt Vonnegut
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. The Brothers Karamazov by Fyodor Dostoevsky
+20. The Metamorphosis by Franz Kafka
+21. The Count of Monte Cristo by Alexandre Dumas
+22. The Alchemist by Paulo Coelho
+23. The Book Thief by Markus Zusak
+24. The Kite Runner by Khaled Hosseini
+25. The Road Not Taken by Robert Frost
+26. The Odyssey by Homer
+27. The Divine Comedy by Dante Alighieri
+28. The Canterbury Tales by Geoffrey Chaucer
+29. The Iliad by Homer
+30. The Aeneid by Virgil
+31. The Inferno by Dante Alighieri
+32. The Republic by Plato
+33. The Prince by Niccolo Machiavelli
+34. The Art of War by Sun Tzu
+35. The Odyssey by Homer
+36. The Divine Comedy by Dante Alighieri
+37. The Canterbury Tales by Geoffrey Chaucer
+38. The Iliad by Homer
+39. The Aeneid by Virgil
+40. The Inferno by Dante Alighieri
+41. The Republic by Plato
+42. The Prince by Niccolo Machiavelli
+43. The Art of War by Sun Tzu
+44. The Odyssey by Homer
+45. The Divine Comedy by Dante Alighieri
+46. The Canterbury Tales by Geoffrey Chaucer
+47. The Iliad by Homer
+48. The Aeneid by Virgil
+49. The Inferno by Dante Alighieri
+50. The Republic by Plato
+
+These recommendations are based on the user's liking of the mentioned books and authors.

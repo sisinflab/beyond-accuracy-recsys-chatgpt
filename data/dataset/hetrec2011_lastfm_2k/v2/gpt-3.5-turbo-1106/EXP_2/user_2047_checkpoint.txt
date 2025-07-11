@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. Depeche Mode
+2. Nine Inch Nails
+3. Björk
+4. Massive Attack
+5. Air
+6. Pet Shop Boys
+7. David Bowie
+8. Faithless
+9. Siouxsie and the Banshees
+10. Cocteau Twins
+11. The Sisters of Mercy
+12. Tori Amos
+13. Underworld
+14. Manu Chao
+15. Zero 7
+16. Dave Gahan
+17. Gustavo Cerati
+18. Broken Social Scene
+19. DJ Shadow
+20. Morcheeba
+21. Lamb
+22. Boards of Canada
+23. The Cult
+24. Britney Spears
+25. Lady Gaga
+26. Madonna
+27. Rihanna
+28. Christina Aguilera
+29. Shakira
+30. The Beatles
+31. Katy Perry
+32. Beyoncé
+33. Paramore
+34. Taylor Swift
+35. Avril Lavigne
+36. Glee Cast
+37. U2
+38. 30 Seconds to Mars
+39. Muse
+40. Pink Floyd
+41. Kylie Minogue
+42. Miley Cyrus
+43. Radiohead
+44. Ke$ha
+45. Duran Duran
+46. Coldplay
+47. Blur
+48. Arctic Monkeys
+49. Placebo
+50. The Killers
+
+This re-ranked list takes into account the user's liking for similar artists and may help in providing relevant recommendations.

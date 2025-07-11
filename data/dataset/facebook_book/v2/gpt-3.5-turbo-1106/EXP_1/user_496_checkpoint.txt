@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Perks of Being a Wallflower by Stephen Chbosky
+3. Eleanor & Park by Rainbow Rowell
+4. Before I Fall by Lauren Oliver
+5. The Book Thief by Markus Zusak
+6. Thirteen Little Blue Envelopes by Maureen Johnson
+7. The Sky Is Everywhere by Jandy Nelson
+8. Paper Towns by John Green
+9. Looking for Alaska by John Green
+10. If I Stay by Gayle Forman
+11. Where She Went by Gayle Forman
+12. Just Listen by Sarah Dessen
+13. Speak by Laurie Halse Anderson
+14. Wintergirls by Laurie Halse Anderson
+15. The Lovely Bones by Alice Sebold
+16. The Sisterhood of the Traveling Pants by Ann Brashares
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+19. The Help by Kathryn Stockett
+20. The Hunger Games by Suzanne Collins
+21. Catching Fire by Suzanne Collins
+22. Mockingjay by Suzanne Collins
+23. Divergent by Veronica Roth
+24. Insurgent by Veronica Roth
+25. Allegiant by Veronica Roth
+26. The Maze Runner by James Dashner
+27. The Scorch Trials by James Dashner
+28. The Death Cure by James Dashner
+29. The Giver by Lois Lowry
+30. Gathering Blue by Lois Lowry
+31. Messenger by Lois Lowry
+32. Son by Lois Lowry
+33. The Uglies Series by Scott Westerfeld
+34. The Selection by Kiera Cass
+35. The Elite by Kiera Cass
+36. The One by Kiera Cass
+37. The 5th Wave by Rick Yancey
+38. The Infinite Sea by Rick Yancey
+39. The Last Star by Rick Yancey
+40. The Lunar Chronicles by Marissa Meyer
+41. The Mortal Instruments Series by Cassandra Clare
+42. The Infernal Devices Series by Cassandra Clare
+43. The Twilight Series by Stephenie Meyer
+44. The Vampire Academy Series by Richelle Mead
+45. The House of Night Series by P.C. Cast and Kristin Cast
+46. The Darkest Minds Series by Alexandra Bracken
+47. The Chemical Garden Trilogy by Lauren DeStefano
+48. The Delirium Series by Lauren Oliver
+49. The Matched Trilogy by Ally Condie
+50. The Legend Series by Marie Lu
+
+These recommendations are based on the user's interest in young adult fiction and fantasy novels.

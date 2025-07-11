@@ -1,0 +1,54 @@
+Based on user 1040's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Paramore
+3. 30 Seconds to Mars
+4. Avenged Sevenfold
+5. Bullet for My Valentine
+6. Panic! At the Disco
+7. Alesana
+8. Funeral for a Friend
+9. Bring Me The Horizon
+10. Rise Against
+11. Scary Kids Scaring Kids
+12. The All-American Rejects
+13. Atreyu
+14. Sonata Arctica
+15. blessthefall
+16. Four Year Strong
+17. Comeback Kid
+18. Aerosmith
+19. Maroon 5
+20. Incubus
+21. blink-182
+22. A Skylit Drive
+23. The Rasmus
+24. Children of Bodom
+25. Ramones
+26. Britney Spears
+27. Lady Gaga
+28. Rihanna
+29. Katy Perry
+30. Taylor Swift
+31. Glee Cast
+32. Beyoncé
+33. 30 Seconds to Mars
+34. Muse
+35. Pink Floyd
+36. Miley Cyrus
+37. Radiohead
+38. Coldplay
+39. The Killers
+40. Nirvana
+41. Iron Maiden
+42. Led Zeppelin
+43. Metallica
+44. Michael Jackson
+45. Pearl Jam
+46. System of a Down
+47. Daft Punk
+48. Linkin Park
+49. Green Day
+50. The Cure
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar and related artists.

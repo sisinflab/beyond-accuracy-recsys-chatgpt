@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. Avenged Sevenfold
+3. Paramore
+4. Fall Out Boy
+5. System of a Down
+6. Slipknot
+7. Green Day
+8. Evanescence
+9. The Offspring
+10. Blink-182
+11. Papa Roach
+12. My Chemical Romance
+13. Three Days Grace
+14. Breaking Benjamin
+15. Bullet for My Valentine
+16. Good Charlotte
+17. Seether
+18. Skillet
+19. AFI
+20. Red Hot Chili Peppers
+21. 30 Seconds to Mars
+22. Bring Me The Horizon
+23. The Used
+24. Story of the Year
+25. Lostprophets
+26. Atreyu
+27. Saosin
+28. In Flames
+29. Eminem
+30. You Me At Six
+31. Daughtry
+32. The Red Jumpsuit Apparatus
+33. All That Remains
+34. Sonic Syndicate
+35. Stone Sour
+36. Foo Fighters
+37. 3 Doors Down
+38. Saliva
+39. Mudvayne
+40. Mayday Parade
+41. Alexisonfire
+42. Oomph!
+43. Soilwork
+44. Papa Roach
+45. Story of the Year
+46. The Red Jumpsuit Apparatus
+47. The Used
+48. Daughtry
+49. All That Remains
+50. Sonic Syndicate
+
+These recommendations are based on the user's liking of similar artists and genres.

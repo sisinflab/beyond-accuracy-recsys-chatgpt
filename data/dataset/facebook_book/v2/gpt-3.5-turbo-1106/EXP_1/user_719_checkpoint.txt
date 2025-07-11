@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. East of Eden by John Steinbeck
+2. Blood Meridian by Cormac McCarthy
+3. The Lord of the Rings by J.R.R. Tolkien
+4. Atonement by Ian McEwan
+5. Cardcaptor Sakura by CLAMP
+6. Fahrenheit 451 by Ray Bradbury
+7. The Grapes of Wrath by John Steinbeck
+8. Attack on Titan by Hajime Isayama
+9. The Walking Dead by Robert Kirkman
+10. The Vampire's Assistant by Darren Shan
+11. The Haunting of Hill House by Shirley Jackson
+12. Misery by Stephen King
+13. Through the Looking-Glass by Lewis Carroll
+14. The Catcher in the Rye by J.D. Salinger
+15. No Country for Old Men by Cormac McCarthy
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Road by Cormac McCarthy
+18. The Harry Potter series by J.K. Rowling
+19. The Cement Garden by Ian McEwan
+20. Sailor Moon by Naoko Takeuchi
+21. Something Wicked This Way Comes by Ray Bradbury
+22. The Pearl by John Steinbeck
+23. Fullmetal Alchemist by Hiromu Arakawa
+24. The Walking Dead (comic book) by Robert Kirkman
+25. Cirque du Freak by Darren Shan
+26. We Have Always Lived in the Castle by Shirley Jackson
+27. Gerald's Game by Stephen King
+28. Alice's Adventures in Wonderland by Lewis Carroll
+29. The Great Gatsby by F. Scott Fitzgerald
+30. To Kill a Mockingbird by Harper Lee
+31. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+32. The Shining by Stephen King
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The Handmaid's Tale by Margaret Atwood
+35. The Bell Jar by Sylvia Plath
+36. The Secret History by Donna Tartt
+37. The Night Circus by Erin Morgenstern
+38. The Book Thief by Markus Zusak
+39. The Goldfinch by Donna Tartt
+40. The Secret Garden by Frances Hodgson Burnett
+41. The Alchemist by Paulo Coelho
+42. The Kite Runner by Khaled Hosseini
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Hunger Games by Suzanne Collins
+45. The Catcher in the Rye by J.D. Salinger
+46. The Perks of Being a Wallflower by Stephen Chbosky
+47. The Giver by Lois Lowry
+48. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+49. The Lovely Bones by Alice Sebold
+50. The Fault in Our Stars by John Green
+
+These recommendations are based on similar themes, genres, and authors to the books that user 719 likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. All Time Low
+2. A Day to Remember
+3. Mayday Parade
+4. Pierce the Veil
+5. Sleeping with Sirens
+6. The Used
+7. Taking Back Sunday
+8. We the Kings
+9. Simple Plan
+10. Sum 41
+11. Good Charlotte
+12. The All-American Rejects
+13. Motion City Soundtrack
+14. The Red Jumpsuit Apparatus
+15. Silverstein
+16. Story of the Year
+17. Saosin
+18. Anberlin
+19. Senses Fail
+20. Hawthorne Heights
+21. The Starting Line
+22. The Academy Is...
+23. Boys Like Girls
+24. The Maine
+25. Yellowcard
+26. New Found Glory
+27. The Ataris
+28. Something Corporate
+29. Cartel
+30. The Early November
+31. Valencia
+32. Hit the Lights
+33. Forever the Sickest Kids
+34. The Friday Night Boys
+35. The Summer Set
+36. Set It Off
+37. Tonight Alive
+38. State Champs
+39. Real Friends
+40. Neck Deep
+41. Knuckle Puck
+42. The Wonder Years
+43. Seaway
+44. With Confidence
+45. Broadside
+46. Grayscale
+47. Like Pacific
+48. Trash Boat
+49. Belmont
+50. Stand Atlantic
+
+These recommendations are based on the user's liking of similar artists and genres.

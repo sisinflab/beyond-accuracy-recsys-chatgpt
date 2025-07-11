@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations re-ranked for user 616:
+
+1. Thirteen Reasons Why
+2. A Thousand Splendid Suns
+3. Wuthering Heights
+4. Jane Eyre
+5. Nineteen Eighty-Four
+6. The Kite Runner
+7. The Graveyard Book
+8. A Series of Unfortunate Events
+9. The Chronicles of Narnia: Prince Caspian
+10. The Silver Chair
+11. Northern Lights (novel)
+12. The Wolves of Mercy Falls
+13. Twilight (series)
+14. Harry Potter
+15. Animorphs
+16. Mistborn series
+17. Watchmen
+18. Dune (novel)
+19. Anansi Boys
+20. American Gods
+21. His Majesty's Dragon
+22. The Elegant Universe
+23. After Dark (novel)
+24. The Good Earth
+25. Nectar in a Sieve
+26. The Prophet (book)
+27. Stargirl (novel)
+28. To Sir, With Love (novel)
+29. Frankenstein
+30. What Is the What
+31. Roots: The Saga of an American Family
+32. The Seven Habits of Highly Effective People
+33. Ghost Wars
+34. Good to Great
+35. A Midsummer Night's Dream
+36. Confessions of an Economic Hit Man
+37. Sophie's World
+38. Firestarter (novel)
+39. Ethan Frome
+40. Far from the Madding Crowd
+41. The Psychedelic Experience
+42. Conversations with God
+43. Book of Shadows
+44. The Unbearable Lightness of Being
+45. Aeneid
+46. Manga
+47. Anime
+48. Interview with the Vampire
+49. Tuesdays with Morrie
+50. The Hitchhiker's Guide to the Galaxy (novel)

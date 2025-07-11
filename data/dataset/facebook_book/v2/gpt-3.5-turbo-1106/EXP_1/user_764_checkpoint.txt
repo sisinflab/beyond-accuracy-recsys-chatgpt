@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Haunting of Hill House by Shirley Jackson
+2. The Turn of the Screw by Henry James
+3. The Woman in Black by Susan Hill
+4. The Little Stranger by Sarah Waters
+5. The Thirteenth Tale by Diane Setterfield
+6. The Night Strangers by Chris Bohjalian
+7. The Ghost Writer by John Harwood
+8. The Silent Companions by Laura Purcell
+9. The Seance by John Harwood
+10. The Winter People by Jennifer McMahon
+11. The Ghost of Crutchfield Hall by Mary Downing Hahn
+12. The Ghost of Graylock by Dan Poblocki
+13. The Ghost of Fossil Glen by Cynthia DeFelice
+14. The Ghost of Blackwood Lane by Greg Enslen
+15. The Ghost of Sifty Sifty Sam by Angela Russell
+16. The Ghost of the Mary Celeste by Valerie Martin
+17. The Ghost of the Revelator by L. Chambers-Wright
+18. The Ghost of the Chattering Bones by Gertrude Chandler Warner
+19. The Ghost of the Grand Canyon by Carole Marsh
+20. The Ghost of the Bermuda Triangle by Carole Marsh
+21. The Ghost of the Golden Gate Bridge by Carole Marsh
+22. The Ghost of the Lagoon by L. Chambers-Wright
+23. The Ghost of the Penny Woodley by L. Chambers-Wright
+24. The Ghost of the Bermuda Triangle by Carole Marsh
+25. The Ghost of the Golden Gate Bridge by Carole Marsh
+26. The Ghost of the Lagoon by L. Chambers-Wright
+27. The Ghost of the Penny Woodley by L. Chambers-Wright
+28. The Ghost of the Bermuda Triangle by Carole Marsh
+29. The Ghost of the Golden Gate Bridge by Carole Marsh
+30. The Ghost of the Lagoon by L. Chambers-Wright
+31. The Ghost of the Penny Woodley by L. Chambers-Wright
+32. The Ghost of the Bermuda Triangle by Carole Marsh
+33. The Ghost of the Golden Gate Bridge by Carole Marsh
+34. The Ghost of the Lagoon by L. Chambers-Wright
+35. The Ghost of the Penny Woodley by L. Chambers-Wright
+36. The Ghost of the Bermuda Triangle by Carole Marsh
+37. The Ghost of the Golden Gate Bridge by Carole Marsh
+38. The Ghost of the Lagoon by L. Chambers-Wright
+39. The Ghost of the Penny Woodley by L. Chambers-Wright
+40. The Ghost of the Bermuda Triangle by Carole Marsh
+41. The Ghost of the Golden Gate Bridge by Carole Marsh
+42. The Ghost of the Lagoon by L. Chambers-Wright
+43. The Ghost of the Penny Woodley by L. Chambers-Wright
+44. The Ghost of the Bermuda Triangle by Carole Marsh
+45. The Ghost of the Golden Gate Bridge by Carole Marsh
+46. The Ghost of the Lagoon by L. Chambers-Wright
+47. The Ghost of the Penny Woodley by L. Chambers-Wright
+48. The Ghost of the Bermuda Triangle by Carole Marsh
+49. The Ghost of the Golden Gate Bridge by Carole Marsh
+50. The Ghost of the Lagoon by L. Chambers-Wright
+
+These recommendations are based on the user's interest in ghost stories, mystery, and young adult fiction.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Depeche Mode
+2. Placebo
+3. The Cure
+4. Joy Division
+5. Siouxsie and the Banshees
+6. The Smashing Pumpkins
+7. The Killers
+8. My Chemical Romance
+9. The Strokes
+10. The White Stripes
+11. Arctic Monkeys
+12. Florence + The Machine
+13. The National
+14. The Libertines
+15. Franz Ferdinand
+16. The Black Keys
+17. Modest Mouse
+18. The Flaming Lips
+19. The Postal Service
+20. The Shins
+21. Death From Above 1979
+22. Metric
+23. Bloc Party
+24. Editors
+25. The Bravery
+26. The Raveonettes
+27. The Horrors
+28. Interpol
+29. Yeah Yeah Yeahs
+30. The Kills
+31. The Rapture
+32. TV on the Radio
+33. Spoon
+34. Wolf Parade
+35. Broken Social Scene
+36. The Walkmen
+37. Band of Horses
+38. Silversun Pickups
+39. The Joy Formidable
+40. The Naked and Famous
+41. CHVRCHES
+42. Phantogram
+43. Purity Ring
+44. Crystal Castles
+45. M83
+46. Tame Impala
+47. Foals
+48. Alt-J
+49. Vampire Weekend
+50. Cage The Elephant
+
+These recommendations are based on the user's liking of alternative and indie rock bands, as well as similar music genres and styles.

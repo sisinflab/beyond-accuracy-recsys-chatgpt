@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. The Witching Hour by Anne Rice
+3. The Tale of the Body Thief by Anne Rice
+4. Memnoch the Devil by Anne Rice
+5. The Vampire Lestat by Anne Rice
+6. The Mummy or Ramses the Damned by Anne Rice
+7. Taltos by Anne Rice
+8. Blackwood Farm by Anne Rice
+9. Blood Canticle by Anne Rice
+10. Prince Lestat by Anne Rice
+11. The Vampire Armand by Anne Rice
+12. Merrick by Anne Rice
+13. Pandora by Anne Rice
+14. Vittorio the Vampire by Anne Rice
+15. Violin by Anne Rice
+16. The Wolf Gift by Anne Rice
+17. The Vampire Diaries: The Awakening by L.J. Smith
+18. The Vampire Diaries: The Struggle by L.J. Smith
+19. The Vampire Diaries: The Fury by L.J. Smith
+20. The Vampire Diaries: Dark Reunion by L.J. Smith
+21. The Vampire Diaries: The Return: Nightfall by L.J. Smith
+22. The Vampire Diaries: The Return: Shadow Souls by L.J. Smith
+23. The Vampire Diaries: The Return: Midnight by L.J. Smith
+24. The Vampire Diaries: The Return: Phantom by L.J. Smith
+25. The Vampire Diaries: The Return: Moonsong by L.J. Smith
+26. The Vampire Diaries: The Return: Destiny Rising by L.J. Smith
+27. A People's History of the United States by Howard Zinn
+28. Lies Across America by James W. Loewen
+29. Teaching What Really Happened by James W. Loewen
+30. Sundown Towns by James W. Loewen
+31. High Crimes and Misdemeanors by James W. Loewen
+32. The Taking by Dean Koontz
+33. Phantoms by Dean Koontz
+34. Lightning by Dean Koontz
+35. Midnight by Dean Koontz
+36. The Husband by Dean Koontz
+37. The Good Guy by Dean Koontz
+38. The Face by Dean Koontz
+39. The City by Dean Koontz
+40. The Silent Corner by Dean Koontz
+41. The Whispering Room by Dean Koontz
+42. Jurassic Park by Michael Crichton
+43. The Lost World by Michael Crichton
+44. Prey by Michael Crichton
+45. State of Fear by Michael Crichton
+46. Next by Michael Crichton
+47. Pirate Latitudes by Michael Crichton
+48. Micro by Michael Crichton
+49. Dragon Teeth by Michael Crichton
+50. Eaters of the Dead by Michael Crichton
+
+These recommendations are based on the user's interest in vampire novels, horror, and historical non-fiction.

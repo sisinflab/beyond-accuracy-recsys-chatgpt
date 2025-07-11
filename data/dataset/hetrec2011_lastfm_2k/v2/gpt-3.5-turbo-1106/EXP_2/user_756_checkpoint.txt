@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations for user 756:
+
+1. The Beatles
+2. Coldplay
+3. The Killers
+4. Arctic Monkeys
+5. Blur
+6. Radiohead
+7. Muse
+8. Nirvana
+9. Pink Floyd
+10. Metallica
+11. The Cure
+12. Green Day
+13. Red Hot Chili Peppers
+14. Kings of Leon
+15. The White Stripes
+16. Franz Ferdinand
+17. The Strokes
+18. The Smiths
+19. The Flaming Lips
+20. Phoenix
+21. The Kinks
+22. The Doors
+23. Portishead
+24. Bloc Party
+25. Kaiser Chiefs
+26. The Jesus and Mary Chain
+27. Air
+28. Pixies
+29. Joy Division
+30. David Bowie
+31. Ramones
+32. Wolfmother
+33. Blondie
+34. Feist
+35. Adele
+36. Elbow
+37. The Who
+38. Modest Mouse
+39. Weezer
+40. The Black Keys
+41. U2
+42. Pearl Jam
+43. Michael Jackson
+44. Led Zeppelin
+45. System of a Down
+46. Nine Inch Nails
+47. Linkin Park
+48. Avenged Sevenfold
+49. Iron Maiden
+50. Metallica

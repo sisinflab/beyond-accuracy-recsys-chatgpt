@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Fountainhead by Ayn Rand
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Animal Farm by George Orwell
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Alchemist by Paulo Coelho
+10. The Giver by Lois Lowry
+11. Fahrenheit 451 by Ray Bradbury
+12. The Road by Cormac McCarthy
+13. The Book Thief by Markus Zusak
+14. Lord of the Flies by William Golding
+15. The Stranger by Albert Camus
+16. The Bell Jar by Sylvia Plath
+17. One Hundred Years of Solitude by Gabriel Garcia Marquez
+18. The Sun Also Rises by Ernest Hemingway
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Old Man and the Sea by Ernest Hemingway
+21. The Grapes of Wrath by John Steinbeck
+22. The Kite Runner by Khaled Hosseini
+23. The Handmaid's Tale by Margaret Atwood
+24. The Road to Wigan Pier by George Orwell
+25. The Stand by Stephen King
+26. The Shining by Stephen King
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Da Vinci Code by Dan Brown
+29. Digital Fortress by Dan Brown
+30. The Lost Symbol by Dan Brown
+31. The Divine Comedy by Dante Alighieri
+32. Purgatorio by Dante Alighieri
+33. Paradiso by Dante Alighieri
+34. The Notebook by Nicholas Sparks
+35. A Walk to Remember by Nicholas Sparks
+36. The Last Song by Nicholas Sparks
+37. Musicophilia by Oliver Sacks
+38. How Music Works by David Byrne
+39. The Elegant Universe by Brian Greene
+40. The Hidden Reality by Brian Greene
+41. The Fabric of Reality by David Deutsch
+42. The Elegant Universe by David Deutsch
+43. The Universe in a Nutshell by Stephen Hawking
+44. A Brief History of Time by Stephen Hawking
+45. The Grand Design by Stephen Hawking
+46. The Hobbit by J.R.R. Tolkien
+47. The Lord of the Rings by J.R.R. Tolkien
+48. The Silmarillion by J.R.R. Tolkien
+49. The Children of Húrin by J.R.R. Tolkien
+50. The History of Middle-earth by J.R.R. Tolkien
+
+These recommendations are based on the user's interest in dystopian literature, philosophical works, fantasy novels, and popular fiction.

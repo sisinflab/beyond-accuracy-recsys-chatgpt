@@ -1,0 +1,54 @@
+Based on user 1111's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. The Book Thief by Markus Zusak
+6. The Fault in Our Stars by John Green
+7. The Hunger Games by Suzanne Collins
+8. The Giver by Lois Lowry
+9. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+10. The Secret History by Donna Tartt
+11. The Night Circus by Erin Morgenstern
+12. The Goldfinch by Donna Tartt
+13. The Lovely Bones by Alice Sebold
+14. The Girl on the Train by Paula Hawkins
+15. Gone Girl by Gillian Flynn
+16. The Handmaid's Tale by Margaret Atwood
+17. The Alchemist by Paulo Coelho
+18. The Kite Runner by Khaled Hosseini
+19. The Shadow of the Wind by Carlos Ruiz Zafón
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Road by Cormac McCarthy
+22. The Bell Jar by Sylvia Plath
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Glass Castle by Jeannette Walls
+25. The Help by Kathryn Stockett
+26. The Martian by Andy Weir
+27. The Rosie Project by Graeme Simsion
+28. The Nightingale by Kristin Hannah
+29. The Light Between Oceans by M.L. Stedman
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Maze Runner by James Dashner
+32. The Perks of Being a Wallflower by Stephen Chbosky
+33. The Picture of Dorian Gray by Oscar Wilde
+34. Atonement by Ian McEwan
+35. Never Let Me Go by Kazuo Ishiguro
+36. Paper Towns by John Green
+37. A Series of Unfortunate Events by Lemony Snicket
+38. The Chronicles of Narnia by C.S. Lewis
+39. The Hobbit by J.R.R. Tolkien
+40. The Lord of the Rings by J.R.R. Tolkien
+41. Harry Potter series by J.K. Rowling
+42. The Hunger Games series by Suzanne Collins
+43. Divergent series by Veronica Roth
+44. The Maze Runner series by James Dashner
+45. The Giver series by Lois Lowry
+46. The Mortal Instruments series by Cassandra Clare
+47. The Percy Jackson series by Rick Riordan
+48. The Twilight series by Stephenie Meyer
+49. The Fault in Our Stars by John Green
+50. The Book Thief by Markus Zusak
+
+These recommendations are based on the user's preference for young adult fiction, fantasy, and classic literature.

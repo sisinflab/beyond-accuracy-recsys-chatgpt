@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 290:
+
+1. The Beatles
+2. Michael Jackson
+3. Queen
+4. David Bowie
+5. Madonna
+6. George Michael
+7. Cyndi Lauper
+8. Duran Duran
+9. Pet Shop Boys
+10. Bryan Ferry
+11. Soft Cell
+12. Billy Idol
+13. INXS
+14. Moby
+15. The B-52's
+16. Tears for Fears
+17. New Order
+18. The Human League
+19. Erasure
+20. Wham!
+21. Eurythmics
+22. Blondie
+23. The Cure
+24. Garbage
+25. Franz Ferdinand
+26. Sonic Youth
+27. Morrissey
+28. The Prodigy
+29. The Mamas & The Papas
+30. ABBA
+31. Nicki Minaj
+32. Lady Gaga
+33. Calvin Harris
+34. Bruno Mars
+35. Kylie Minogue
+36. Ladytron
+37. Muse
+38. Pitbull
+39. Justin Bieber
+40. Journey
+41. U2
+42. Sigur Rós
+43. Evanescence
+44. Iron Maiden
+45. Red Hot Chili Peppers
+46. Backstreet Boys
+47. Kansas
+48. Spandau Ballet
+49. Eric Clapton
+50. Johnny Cash
+
+These recommendations are based on similar artists and genres that the user already enjoys.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of books into a top-50 recommendations for user 900:
+
+1. The Bluest Eye by Toni Morrison
+2. Jane Eyre by Charlotte Brontë
+3. The Red Tent by Anita Diamant
+4. The Woman Warrior by Maxine Hong Kingston
+5. Reservation Blues by Sherman Alexie
+6. Moby-Dick by Herman Melville
+7. Chasing Vermeer by Blue Balliett
+8. Three Cups of Tea by Greg Mortenson, David Oliver Relin
+9. Dinner at the Homesick Restaurant by Anne Tyler
+10. High Fidelity (novel) by Nick Hornby
+11. The Lovely Bones
+12. Life of Pi
+13. The Princess Bride
+14. The Hobbit
+15. To Kill a Mockingbird
+16. The Notebook (novel)
+17. The Shadow of the Wind
+18. The Call of the Wild
+19. The Other Boleyn Girl
+20. The Queen of the Damned
+21. Siddhartha (novel)
+22. The Way of Shadows
+23. The Chosen (Potok novel)
+24. The Bell Jar
+25. Wuthering Heights
+26. Frankenstein
+27. Sense and Sensibility
+28. Brave New World
+29. Macbeth
+30. Twilight (series)
+31. Great Expectations
+32. The Zombie Survival Guide
+33. Gone with the Wind
+34. Les Misérables
+35. The Lovely Bones
+36. The Lovely Bones
+37. The Lovely Bones
+38. The Lovely Bones
+39. The Lovely Bones
+40. The Lovely Bones
+41. The Lovely Bones
+42. The Lovely Bones
+43. The Lovely Bones
+44. The Lovely Bones
+45. The Lovely Bones
+46. The Lovely Bones
+47. The Lovely Bones
+48. The Lovely Bones
+49. The Lovely Bones
+50. The Lovely Bones
+
+This re-ranked list takes into account the user's preferences and includes books that are similar in genre, style, or themes to the ones the user already likes.

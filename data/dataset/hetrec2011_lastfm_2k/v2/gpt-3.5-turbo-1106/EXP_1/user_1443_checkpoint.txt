@@ -1,0 +1,54 @@
+Based on user 1443's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. Red Hot Chili Peppers
+3. Metallica
+4. U2
+5. Pearl Jam
+6. Oasis
+7. The Rolling Stones
+8. The Smiths
+9. Radiohead
+10. David Bowie
+11. The Police
+12. The Clash
+13. Aerosmith
+14. The Who
+15. Black Sabbath
+16. Deep Purple
+17. The Kinks
+18. The Velvet Underground
+19. The Beach Boys
+20. Bob Dylan
+21. Jimi Hendrix
+22. The Byrds
+23. The Ramones
+24. The Stooges
+25. The Velvet Underground
+26. The Kinks
+27. The Beach Boys
+28. Bob Dylan
+29. Jimi Hendrix
+30. The Byrds
+31. The Ramones
+32. The Stooges
+33. Janis Joplin
+34. Cream
+35. The Yardbirds
+36. The Animals
+37. The Zombies
+38. The Hollies
+39. The Turtles
+40. The Monkees
+41. The Byrds
+42. The Mamas & The Papas
+43. The Lovin' Spoonful
+44. The Doors
+45. The Animals
+46. The Zombies
+47. The Hollies
+48. The Turtles
+49. The Monkees
+50. The Byrds
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for the user to explore.

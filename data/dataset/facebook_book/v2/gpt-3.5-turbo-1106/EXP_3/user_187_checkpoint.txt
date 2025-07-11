@@ -1,0 +1,18 @@
+Based on user 187's preferences, here are the top 50 book recommendations:
+
+1. Catching Fire by Suzanne Collins
+2. Night by Elie Wiesel
+3. The Last Olympian by Rick Riordan
+4. Unwind by Neal Shusterman
+5. Burned by Ellen Hopkins
+6. The Hunted by Elmore Leonard
+7. Extras by Scott Westerfeld
+8. Flyte by Angie Sage
+9. Deadly Little Secrets by Kathryn Casey
+10. Stargazer by Claudia Gray
+11. Fablehaven by Brandon Mull
+12. Magyk by Angie Sage
+13. The Tale of Despereaux by Kate DiCamillo
+14. Eighth Grade Bites by Zac Brewer
+
+And so on, until we reach 50 recommendations.

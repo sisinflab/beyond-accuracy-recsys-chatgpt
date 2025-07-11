@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. U2
+2. Coldplay
+3. Queen
+4. Arctic Monkeys
+5. The Strokes
+6. Fleetwood Mac
+7. The Who
+8. Pearl Jam
+9. R.E.M.
+10. The Kinks
+11. Beck
+12. The Doors
+13. The Smithereens
+14. Talking Heads
+15. The Velvet Underground
+16. The Flaming Lips
+17. The Black Keys
+18. The National
+19. The War on Drugs
+20. Arcade Fire
+21. Interpol
+22. The Shins
+23. Modest Mouse
+24. Spoon
+25. Wilco
+26. The Decemberists
+27. Death Cab for Cutie
+28. Vampire Weekend
+29. The Shins
+30. Belle and Sebastian
+31. The Postal Service
+32. Sufjan Stevens
+33. Bon Iver
+34. The xx
+35. Tame Impala
+36. Fleet Foxes
+37. Grizzly Bear
+38. Beach House
+39. The Antlers
+40. Phoebe Bridgers
+41. Mitski
+42. Angel Olsen
+43. Big Thief
+44. Sharon Van Etten
+45. Father John Misty
+46. The National
+47. The War on Drugs
+48. Arcade Fire
+49. Interpol
+50. The Shins
+
+These recommendations are based on the user's liking of similar artists and genres.

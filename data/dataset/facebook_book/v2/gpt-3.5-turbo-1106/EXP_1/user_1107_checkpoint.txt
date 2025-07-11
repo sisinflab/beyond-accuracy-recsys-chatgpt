@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Secret Life of Bees by Sue Monk Kidd
+2. The Lovely Bones by Alice Sebold
+3. The Kite Runner by Khaled Hosseini
+4. The Night Circus by Erin Morgenstern
+5. The Time Traveler's Wife by Audrey Niffenegger
+6. The Book Thief by Markus Zusak
+7. The Help by Kathryn Stockett
+8. The Alchemist by Paulo Coelho
+9. The Girl on the Train by Paula Hawkins
+10. The Goldfinch by Donna Tartt
+11. The Fault in Our Stars by John Green
+12. The Catcher in the Rye by J.D. Salinger
+13. The Great Gatsby by F. Scott Fitzgerald
+14. To Kill a Mockingbird by Harper Lee
+15. Pride and Prejudice by Jane Austen
+16. Wuthering Heights by Emily Brontë
+17. Little Women by Louisa May Alcott
+18. Gone with the Wind by Margaret Mitchell
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Bell Jar by Sylvia Plath
+21. The Handmaid's Tale by Margaret Atwood
+22. The Road by Cormac McCarthy
+23. The Grapes of Wrath by John Steinbeck
+24. The Sun Also Rises by Ernest Hemingway
+25. The Catcher in the Rye by J.D. Salinger
+26. The Old Man and the Sea by Ernest Hemingway
+27. One Hundred Years of Solitude by Gabriel García Márquez
+28. Love in the Time of Cholera by Gabriel García Márquez
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Name of the Wind by Patrick Rothfuss
+31. The Nightingale by Kristin Hannah
+32. The Light Between Oceans by M.L. Stedman
+33. The Glass Castle by Jeannette Walls
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Secret History by Donna Tartt
+36. The Thorn Birds by Colleen McCullough
+37. The Pillars of the Earth by Ken Follett
+38. The Historian by Elizabeth Kostova
+39. The Night Circus by Erin Morgenstern
+40. The Snow Child by Eowyn Ivey
+41. The Nightingale by Kristin Hannah
+42. The Light Between Oceans by M.L. Stedman
+43. The Glass Castle by Jeannette Walls
+44. The Poisonwood Bible by Barbara Kingsolver
+45. The Secret History by Donna Tartt
+46. The Thorn Birds by Colleen McCullough
+47. The Pillars of the Earth by Ken Follett
+48. The Historian by Elizabeth Kostova
+49. The Snow Child by Eowyn Ivey
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the user's preference for literary fiction, historical fiction, and coming-of-age novels.

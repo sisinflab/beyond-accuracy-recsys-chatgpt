@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Fault in Our Stars by John Green
+3. Divergent by Veronica Roth
+4. The Perks of Being a Wallflower by Stephen Chbosky
+5. The Giver by Lois Lowry
+6. The Maze Runner by James Dashner
+7. Eleanor & Park by Rainbow Rowell
+8. The Book Thief by Markus Zusak
+9. To Kill a Mockingbird by Harper Lee
+10. The Chronicles of Narnia by C.S. Lewis
+11. Percy Jackson & the Olympians by Rick Riordan
+12. The Sisterhood of the Traveling Pants by Ann Brashares
+13. The Princess Diaries by Meg Cabot
+14. Graceling by Kristin Cashore
+15. Uglies by Scott Westerfeld
+16. The Mortal Instruments by Cassandra Clare
+17. The Selection by Kiera Cass
+18. The Lunar Chronicles by Marissa Meyer
+19. The 5th Wave by Rick Yancey
+20. The Raven Cycle by Maggie Stiefvater
+21. The Infernal Devices by Cassandra Clare
+22. The Darkest Minds by Alexandra Bracken
+23. The Knife of Never Letting Go by Patrick Ness
+24. The Testing by Joelle Charbonneau
+25. Legend by Marie Lu
+26. The 100 by Kass Morgan
+27. The Unbecoming of Mara Dyer by Michelle Hodkin
+28. The Wrath & the Dawn by Renee Ahdieh
+29. The Winner's Curse by Marie Rutkoski
+30. The Queen of the Tearling by Erika Johansen
+31. The Girl of Fire and Thorns by Rae Carson
+32. The Crown's Game by Evelyn Skye
+33. The Star-Touched Queen by Roshani Chokshi
+34. The Bone Season by Samantha Shannon
+35. The Diviners by Libba Bray
+36. The Archived by Victoria Schwab
+37. The Night Circus by Erin Morgenstern
+38. The Name of the Wind by Patrick Rothfuss
+39. The Lies of Locke Lamora by Scott Lynch
+40. Mistborn by Brandon Sanderson
+41. The Way of Kings by Brandon Sanderson
+42. The Final Empire by Brandon Sanderson
+43. The Black Prism by Brent Weeks
+44. The Lies of Locke Lamora by Scott Lynch
+45. The Blade Itself by Joe Abercrombie
+46. The Name of the Wind by Patrick Rothfuss
+47. The Way of Kings by Brandon Sanderson
+48. The Final Empire by Brandon Sanderson
+49. The Black Prism by Brent Weeks
+50. The Lies of Locke Lamora by Scott Lynch
+
+These recommendations are based on the user's interest in young adult fiction and fantasy genres.

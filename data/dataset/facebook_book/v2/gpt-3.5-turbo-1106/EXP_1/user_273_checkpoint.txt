@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Grapes of Wrath by John Steinbeck
+8. The Stranger by Albert Camus
+9. The Road by Cormac McCarthy
+10. The Sun Also Rises by Ernest Hemingway
+11. A Clockwork Orange by Anthony Burgess
+12. The Bell Jar by Sylvia Plath
+13. The Handmaid's Tale by Margaret Atwood
+14. Heart of Darkness by Joseph Conrad
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Sound and the Fury by William Faulkner
+17. The Road to Wigan Pier by George Orwell
+18. The Plague by Albert Camus
+19. The Brothers Karamazov by Fyodor Dostoyevsky
+20. The Trial by Franz Kafka
+21. The Stranger by Albert Camus
+22. The Metamorphosis by Franz Kafka
+23. The Idiot by Fyodor Dostoyevsky
+24. The Master and Margarita by Mikhail Bulgakov
+25. The Unbearable Lightness of Being by Milan Kundera
+26. The Name of the Rose by Umberto Eco
+27. The Book Thief by Markus Zusak
+28. The Kite Runner by Khaled Hosseini
+29. A Farewell to Arms by Ernest Hemingway
+30. For Whom the Bell Tolls by Ernest Hemingway
+31. The Old Man and the Sea by Ernest Hemingway
+32. The Sound and the Fury by William Faulkner
+33. The Road to Wigan Pier by George Orwell
+34. The Plague by Albert Camus
+35. The Brothers Karamazov by Fyodor Dostoyevsky
+36. The Trial by Franz Kafka
+37. The Stranger by Albert Camus
+38. The Metamorphosis by Franz Kafka
+39. The Idiot by Fyodor Dostoyevsky
+40. The Master and Margarita by Mikhail Bulgakov
+41. The Unbearable Lightness of Being by Milan Kundera
+42. The Name of the Rose by Umberto Eco
+43. The Book Thief by Markus Zusak
+44. The Kite Runner by Khaled Hosseini
+45. A Farewell to Arms by Ernest Hemingway
+46. For Whom the Bell Tolls by Ernest Hemingway
+47. The Old Man and the Sea by Ernest Hemingway
+48. The Sound and the Fury by William Faulkner
+49. The Road to Wigan Pier by George Orwell
+50. The Plague by Albert Camus
+
+These recommendations are based on the user's preference for classic literature and dystopian themes.

@@ -1,0 +1,54 @@
+Based on user 1626's preferences, here are the top 50 recommendations:
+
+1. The Beatles
+2. Pink Floyd
+3. Led Zeppelin
+4. The Cure
+5. Depeche Mode
+6. Thom Yorke
+7. Eagles
+8. The Alan Parsons Project
+9. Sigur Rós
+10. Frank Sinatra
+11. Jack Johnson
+12. Trentemøller
+13. Bob Marley & The Wailers
+14. Bryan Adams
+15. Keane
+16. John Williams
+17. Stevie Ray Vaughan
+18. ZZ Top
+19. Norah Jones
+20. Ludwig van Beethoven
+21. Santana
+22. Eric Clapton
+23. The Who
+24. Joe Satriani
+25. Porcupine Tree
+26. Talk Talk
+27. Miles Davis
+28. The Doors
+29. Queen
+30. John Mayer
+31. David Gilmour
+32. Kings of Leon
+33. Billy Joel
+34. Ólafur Arnalds
+35. King Crimson
+36. Whitesnake
+37. Parkway Drive
+38. Opeth
+39. Slayer
+40. Cat Stevens
+41. Yes
+42. Nick Drake
+43. Alanis Morissette
+44. Simon & Garfunkel
+45. Dire Straits
+46. Tool
+47. Thrice
+48. The Velvet Underground
+49. Red Hot Chili Peppers
+50. Joy Division
+
+These recommendations are based on similar genres and artists liked by user 1626.

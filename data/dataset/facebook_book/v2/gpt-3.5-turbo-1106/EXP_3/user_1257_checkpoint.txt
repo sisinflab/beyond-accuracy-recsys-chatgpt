@@ -1,0 +1,54 @@
+Based on user 1257's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J. D. Salinger
+2. Nineteen Eighty-Four by George Orwell
+3. The Stranger (novel) by Albert Camus
+4. The Giver by Lois Lowry
+5. Diary (novel) by Chuck Palahniuk
+6. The Fountainhead by Ayn Rand
+7. Frankenstein by Mary Shelley
+8. Brave New World by Aldous Huxley
+9. The Old Man and the Sea by Ernest Hemingway
+10. Lolita by Vladimir Nabokov
+11. The Hunger Games by Suzanne Collins
+12. A Wrinkle in Time by Madeleine L'Engle
+13. The Silence of the Lambs (novel) by Thomas Harris
+14. Eragon by Christopher Paolini
+15. The Kite Runner by Khaled Hosseini
+16. Lord of the Flies by William Golding
+17. Alice's Adventures in Wonderland by Lewis Carroll
+18. A Clockwork Orange by Anthony Burgess
+19. The Great Gatsby by F. Scott Fitzgerald
+20. The Bell Jar by Sylvia Plath
+21. The Outsiders (novel) by S. E. Hinton
+22. Inferno (Dante) by Dante Alighieri
+23. Divine Comedy by Dante Alighieri
+24. For Whom the Bell Tolls by Ernest Hemingway
+25. A Farewell to Arms by Ernest Hemingway
+26. Les Misérables by Victor Hugo
+27. Misery (novel) by Stephen King
+28. Girl, Interrupted by Susanna Kaysen
+29. Starship Troopers by Robert A. Heinlein
+30. Anne of Green Gables by L. M. Montgomery
+31. The Last Lecture by Randy Pausch
+32. Running with Scissors (memoir) by Augusten Burroughs
+33. The Mists of Avalon by Marion Zimmer Bradley
+34. A Thousand Splendid Suns by Khaled Hosseini
+35. The Watchmen (novel) by Alan Moore
+36. Dune (novel) by Frank Herbert
+37. The Hamlet by William Faulkner
+38. Speak (novel) by Laurie Halse Anderson
+39. Sun Bin's Art of War by Sun Bin
+40. Disco Bloodbath by James St. James
+41. Night (book) by Elie Wiesel
+42. The Lovely Bones by Alice Sebold
+43. Atlas Shrugged by Ayn Rand
+44. The Da Vinci Code by Dan Brown
+45. The Lord of the Rings by J.R.R. Tolkien
+46. A Memory of Light by Robert Jordan and Brandon Sanderson
+47. American Psycho by Bret Easton Ellis
+48. High Fidelity (novel) by Nick Hornby
+49. Ulysses (novel) by James Joyce
+50. Earthsea by Ursula K. Le Guin
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1257 likes.

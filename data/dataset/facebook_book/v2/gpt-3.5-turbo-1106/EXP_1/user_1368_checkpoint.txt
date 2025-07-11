@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. Hyperion by Dan Simmons
+3. A Game of Thrones by George R. R. Martin
+4. The Keep by F. Paul Wilson
+5. Interview with the Vampire by Anne Rice
+6. Dracula by Bram Stoker
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Sense and Sensibility and Sea Monsters by Ben H. Winters
+9. Sense and Sensibility by Jane Austen
+10. Gossip Girl by Cecily von Ziegesar
+11. The It Girl by Cecily von Ziegesar
+12. The Lightning Thief by Rick Riordan
+13. The Bhagavad Gita According to Gandhi
+14. The Alchemist by Paulo Coelho
+15. The Shining by Stephen King
+16. The Terror by Dan Simmons
+17. A Clash of Kings by George R. R. Martin
+18. The Tomb by F. Paul Wilson
+19. The Vampire Lestat by Anne Rice
+20. Frankenstein by Mary Shelley
+21. Pride and Prejudice and Zombies: Dreadfully Ever After by Steve Hockensmith
+22. Emma by Jane Austen
+23. The Lying Game by Sara Shepard
+24. Bright Young Things by Anna Godbersen
+25. The Lost Hero by Rick Riordan
+26. The Upanishads
+27. Siddhartha by Hermann Hesse
+28. Misery by Stephen King
+29. Song of Kali by Dan Simmons
+30. A Storm of Swords by George R. R. Martin
+31. The Haunted Air by F. Paul Wilson
+32. The Witching Hour by Anne Rice
+33. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+34. Abraham Lincoln: Vampire Hunter by Seth Grahame-Smith
+35. Northanger Abbey by Jane Austen
+36. The Perfectionists by Sara Shepard
+37. The Luxe by Anna Godbersen
+38. The Son of Neptune by Rick Riordan
+39. The Mahabharata
+40. The Dhammapada
+41. The Dark Half by Stephen King
+42. Summer of Night by Dan Simmons
+43. A Feast for Crows by George R. R. Martin
+44. Reprisal by F. Paul Wilson
+45. The Witching Hour by Anne Rice
+46. The Phantom of the Opera by Gaston Leroux
+47. Little Women and Werewolves by Louisa May Alcott and Porter Grand
+48. Mansfield Park by Jane Austen
+49. The Heiresses by Sara Shepard
+50. Envy by Anna Godbersen
+
+These recommendations are based on the user's interest in horror, fantasy, classic literature, and mythology.

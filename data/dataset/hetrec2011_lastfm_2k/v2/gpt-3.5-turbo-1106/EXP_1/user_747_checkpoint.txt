@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Used
+2. Escape the Fate
+3. Pierce the Veil
+4. Sleeping with Sirens
+5. My Chemical Romance
+6. All Time Low
+7. Paramore
+8. Mayday Parade
+9. Motionless In White
+10. Crown the Empire
+11. Beartooth
+12. Of Mice & Men
+13. Falling in Reverse
+14. The Amity Affliction
+15. Issues
+16. We Came As Romans
+17. A Skylit Drive
+18. Blessthefall
+19. Hands Like Houses
+20. Crown the Empire
+21. I See Stars
+22. Memphis May Fire
+23. The Word Alive
+24. Woe, Is Me
+25. A Skylit Drive
+26. Emarosa
+27. Dance Gavin Dance
+28. Silverstein
+29. Underoath
+30. From First to Last
+31. Alesana
+32. Saosin
+33. Chiodos
+34. Senses Fail
+35. AFI
+36. Atreyu
+37. Taking Back Sunday
+38. Asking Alexandria
+39. Four Year Strong
+40. As I Lay Dying
+41. Protest The Hero
+42. Imogen Heap
+43. A Day to Remember
+44. Bring Me The Horizon
+45. Shiny Toy Guns
+46. Say Anything
+47. The Devil Wears Prada
+48. Drop Dead, Gorgeous
+49. Ke$ha
+50. Owl City
+
+These recommendations are based on the user's liking for similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fahrenheit 451 by Ray Bradbury
+2. Animal Farm by George Orwell
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. One Flew Over the Cuckoo's Nest by Ken Kesey
+6. The Bell Jar by Sylvia Plath
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. 1984 by George Orwell
+10. A Clockwork Orange by Anthony Burgess
+11. Lord of the Flies by William Golding
+12. The Road by Cormac McCarthy
+13. The Handmaid's Tale by Margaret Atwood
+14. The Giver by Lois Lowry
+15. The Alchemist by Paulo Coelho
+16. The Kite Runner by Khaled Hosseini
+17. The Book Thief by Markus Zusak
+18. The Perks of Being a Wallflower by Stephen Chbosky
+19. Catch-22 by Joseph Heller
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Sun Also Rises by Ernest Hemingway
+22. The Old Man and the Sea by Ernest Hemingway
+23. The Grapes of Wrath by John Steinbeck
+24. The Road to Wigan Pier by George Orwell
+25. The Outsiders by S.E. Hinton
+26. The Secret History by Donna Tartt
+27. The Goldfinch by Donna Tartt
+28. The Lovely Bones by Alice Sebold
+29. The Glass Castle by Jeannette Walls
+30. The Color Purple by Alice Walker
+31. The Handmaid's Tale by Margaret Atwood
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. The Martian by Andy Weir
+34. Dune by Frank Herbert
+35. Ender's Game by Orson Scott Card
+36. Ready Player One by Ernest Cline
+37. The Hunger Games by Suzanne Collins
+38. The Maze Runner by James Dashner
+39. The Chronicles of Narnia by C.S. Lewis
+40. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+41. The Hobbit by J.R.R. Tolkien
+42. Alice's Adventures in Wonderland by Lewis Carroll
+43. The Chronicles of Prydain by Lloyd Alexander
+44. The Dark is Rising Sequence by Susan Cooper
+45. The Inheritance Cycle by Christopher Paolini
+46. The Percy Jackson series by Rick Riordan
+47. The Hunger Games by Suzanne Collins
+48. Divergent by Veronica Roth
+49. The Maze Runner by James Dashner
+50. The Giver by Lois Lowry
+
+These recommendations are based on the user's interest in dystopian literature, classic novels, and young adult fiction.

@@ -1,0 +1,54 @@
+Based on user 21's preferences, here are the top-50 recommendations:
+
+1. Madonna
+2. Lady Gaga
+3. Rihanna
+4. Britney Spears
+5. Christina Aguilera
+6. Kylie Minogue
+7. P!nk
+8. Beyoncé
+9. Jennifer Lopez
+10. Selena Gomez & the Scene
+11. Miley Cyrus
+12. Katy Perry
+13. Demi Lovato
+14. Hilary Duff
+15. Ashley Tisdale
+16. Hannah Montana
+17. Ke$ha
+18. Shakira
+19. Dannii Minogue
+20. Sophie Ellis-Bextor
+21. Lily Allen
+22. Black Eyed Peas
+23. Glee Cast
+24. Jessica Simpson
+25. Taio Cruz
+26. Lindsay Lohan
+27. Emily Osment
+28. Cheryl Cole
+29. Anahí
+30. Natasha Bedingfield
+31. Pixie Lott
+32. Ciara
+33. t.A.T.u.
+34. The Pussycat Dolls
+35. Paramore
+36. Justin Bieber
+37. Cyndi Lauper
+38. The Saturdays
+39. Mariah Carey
+40. Vanessa Hudgens
+41. Leona Lewis
+42. BoA
+43. Adele
+44. Amy Winehouse
+45. Paris Hilton
+46. Nicole Scherzinger
+47. Kelly Clarkson
+48. Enrique Iglesias
+49. Avril Lavigne
+50. Taylor Swift
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists that align with their current tastes.

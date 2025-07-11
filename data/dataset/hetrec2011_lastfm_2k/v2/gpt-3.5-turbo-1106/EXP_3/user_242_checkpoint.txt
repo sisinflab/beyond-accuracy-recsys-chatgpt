@@ -1,0 +1,52 @@
+Based on user 242's preferences, here are the top-50 recommendations for artists:
+
+1. Michael Jackson
+2. Whitney Houston
+3. Maroon 5
+4. Kelly Clarkson
+5. Lady Antebellum
+6. Carrie Underwood
+7. Destiny's Child
+8. Avril Lavigne
+9. Christina Milian
+10. The Pussycat Dolls
+11. Gwen Stefani
+12. Miley Cyrus
+13. Janet Jackson
+14. The Beatles
+15. Rihanna
+16. Katy Perry
+17. Beyoncé
+18. Madonna
+19. Britney Spears
+20. Lady Gaga
+21. Pink
+22. Alicia Keys
+23. Jennifer Lopez
+24. Taylor Swift
+25. Christina Aguilera
+26. Jordin Sparks
+27. Hilary Duff
+28. Nelly Furtado
+29. Keri Hilson
+30. Jesse McCartney
+31. Alexandra Burke
+32. Katharine McPhee
+33. Thalía
+34. Cheryl Cole
+35. Mary J. Blige
+36. Ashlee Simpson
+37. Kelly Rowland
+38. JoJo
+39. Céline Dion
+40. Amy Winehouse
+41. Laura Pausini
+42. Michelle Branch
+43. Janet Jackson
+44. Robbie Williams
+45. Kylie Minogue
+46. BoA
+47. George Michael
+48. Faith Hill
+49. Demi Lovato
+50. David Guetta

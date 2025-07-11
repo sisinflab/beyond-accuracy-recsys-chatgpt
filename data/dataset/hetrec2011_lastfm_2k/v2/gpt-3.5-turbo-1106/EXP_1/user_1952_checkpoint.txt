@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Oasis
+2. The Smiths
+3. Arctic Monkeys
+4. Blur
+5. The Kooks
+6. The Libertines
+7. The Killers
+8. The Cure
+9. Joy Division
+10. The Stone Roses
+11. Vampire Weekend
+12. The Verve
+13. The White Stripes
+14. The Black Keys
+15. The National
+16. Tame Impala
+17. The War on Drugs
+18. Modest Mouse
+19. Spoon
+20. Death Cab for Cutie
+21. The Shins
+22. Bloc Party
+23. Phoenix
+24. MGMT
+25. The Flaming Lips
+26. Beck
+27. Weezer
+28. The Smashing Pumpkins
+29. Pavement
+30. Sonic Youth
+31. Dinosaur Jr.
+32. My Bloody Valentine
+33. Pixies
+34. Interpol
+35. The Strokes
+36. Travis
+37. Guns N' Roses
+38. Maxïmo Park
+39. She Wants Revenge
+40. Franz Ferdinand
+41. Camera Obscura
+42. Arcade Fire
+43. Radiohead
+44. Little Joy
+45. The Radio Dept.
+46. R.E.M.
+47. Kings of Leon
+48. White Lies
+49. a-ha
+50. Albert Hammond, Jr.
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for potential discovery.

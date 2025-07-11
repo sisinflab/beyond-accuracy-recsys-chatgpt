@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 195:
+
+1. Nirvana
+2. Oasis
+3. The Doors
+4. Paul McCartney
+5. Coldplay
+6. Blur
+7. Iron Maiden
+8. Deftones
+9. The National
+10. Panic! At the Disco
+11. Regina Spektor
+12. Eagles
+13. Buddy Holly
+14. AC/DC
+15. George Harrison
+16. Belle and Sebastian
+17. Metallica
+18. Fleetwood Mac
+19. Leonard Cohen
+20. Glee Cast
+21. Simon & Garfunkel
+22. Van Morrison
+23. Led Zeppelin
+24. Billie Holiday
+25. Foo Fighters
+26. blink-182
+27. Queen
+28. Rammstein
+29. Beastie Boys
+30. Journey
+31. The Who
+32. Flyleaf
+33. Dave Matthews Band
+34. My Chemical Romance
+35. Arctic Monkeys
+36. Demi Lovato
+37. Eric Clapton
+38. Van Halen
+39. Jonas Brothers
+40. Scorpions
+41. Chiodos
+42. Megadeth
+43. Johann Sebastian Bach
+44. Luis Miguel
+45. The Cardigans
+46. Eminem
+47. Jonathan Larson
+48. Gorillaz
+49. Red Hot Chili Peppers
+50. The Rolling Stones
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

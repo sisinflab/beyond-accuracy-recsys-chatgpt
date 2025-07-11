@@ -1,0 +1,54 @@
+Based on the preferences of user 98, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. Lord of the Flies by William Golding
+8. The Grapes of Wrath by John Steinbeck
+9. Fahrenheit 451 by Ray Bradbury
+10. The Bell Jar by Sylvia Plath
+11. One Hundred Years of Solitude by Gabriel Garcia Marquez
+12. The Road by Cormac McCarthy
+13. The Handmaid's Tale by Margaret Atwood
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Alchemist by Paulo Coelho
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Stranger by Albert Camus
+18. The Sun Also Rises by Ernest Hemingway
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. Crime and Punishment by Fyodor Dostoevsky
+22. The Idiot by Fyodor Dostoevsky
+23. The Master and Margarita by Mikhail Bulgakov
+24. Lolita by Vladimir Nabokov
+25. The Count of Monte Cristo by Alexandre Dumas
+26. Don Quixote by Miguel de Cervantes
+27. The Name of the Wind by Patrick Rothfuss
+28. The Lies of Locke Lamora by Scott Lynch
+29. Mistborn: The Final Empire by Brandon Sanderson
+30. The Way of Kings by Brandon Sanderson
+31. The Name of the Wind by Patrick Rothfuss
+32. The Lies of Locke Lamora by Scott Lynch
+33. Mistborn: The Final Empire by Brandon Sanderson
+34. The Way of Kings by Brandon Sanderson
+35. The Name of the Wind by Patrick Rothfuss
+36. The Lies of Locke Lamora by Scott Lynch
+37. Mistborn: The Final Empire by Brandon Sanderson
+38. The Way of Kings by Brandon Sanderson
+39. The Name of the Wind by Patrick Rothfuss
+40. The Lies of Locke Lamora by Scott Lynch
+41. Mistborn: The Final Empire by Brandon Sanderson
+42. The Way of Kings by Brandon Sanderson
+43. The Name of the Wind by Patrick Rothfuss
+44. The Lies of Locke Lamora by Scott Lynch
+45. Mistborn: The Final Empire by Brandon Sanderson
+46. The Way of Kings by Brandon Sanderson
+47. The Name of the Wind by Patrick Rothfuss
+48. The Lies of Locke Lamora by Scott Lynch
+49. Mistborn: The Final Empire by Brandon Sanderson
+50. The Way of Kings by Brandon Sanderson
+
+These recommendations are based on the preferences of user 98 and include a mix of classic literature, contemporary fiction, and popular fantasy novels.

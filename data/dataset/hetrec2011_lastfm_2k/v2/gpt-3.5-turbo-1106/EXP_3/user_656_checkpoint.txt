@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations for user 656:
+
+1. The Cure
+2. New Order
+3. Depeche Mode
+4. Duran Duran
+5. Oingo Boingo
+6. David Bowie
+7. The Rolling Stones
+8. The Beatles
+9. Michael Jackson
+10. Prince
+11. George Harrison
+12. Kate Bush
+13. The Smiths
+14. Madonna
+15. The Chemical Brothers
+16. Simple Minds
+17. Erasure
+18. U2
+19. The Human League
+20. Tears for Fears
+21. The Cinematic Orchestra
+22. The Rolling Stones
+23. The Cure
+24. The Smiths
+25. The Chemical Brothers
+26. New Order
+27. The Beatles
+28. Michael Jackson
+29. Prince
+30. George Harrison
+31. Kate Bush
+32. Duran Duran
+33. Depeche Mode
+34. Oingo Boingo
+35. David Bowie
+36. Simple Minds
+37. Madonna
+38. Erasure
+39. U2
+40. The Human League
+41. Tears for Fears
+42. The Cinematic Orchestra
+43. The Rolling Stones
+44. The Cure
+45. The Smiths
+46. The Chemical Brothers
+47. New Order
+48. The Beatles
+49. Michael Jackson
+50. Prince

@@ -1,0 +1,54 @@
+Based on user 1115's preferences, here are the top 50 book recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. Good Omens by Neil Gaiman, Terry Pratchett
+3. The Phantom of the Opera by Gaston Leroux
+4. Memoirs of a Geisha by Arthur Golden
+5. The Scarlet Letter by Nathaniel Hawthorne
+6. Ella Enchanted by Gail Carson Levine
+7. The Heart Is a Lonely Hunter by Carson McCullers
+8. Grendel (novel) by John Gardner (American writer)
+9. Black Boy by Richard Wright (author)
+10. The Sandman (book) by Ralph Fletcher
+11. The Da Vinci Code
+12. Ender's Shadow
+13. The Looking Glass Wars
+14. The Chronicles of Narnia: Prince Caspian
+15. The Picture of Dorian Gray
+16. The Hunger Games
+17. The Queen of the Damned
+18. The Notebook (novel)
+19. The Last Storytellers: Tales from the Heart of Morocco
+20. The Gold Bug Variations
+21. The Catcher in the Rye
+22. Alice's Adventures in Wonderland
+23. The Secret Garden
+24. The Lord of the Rings
+25. The Vampire Chronicles
+26. Pride and Prejudice
+27. Jane Eyre
+28. The Zombie Survival Guide
+29. Maximum Ride
+30. Marvel Zombies (series)
+31. The Black Jewels
+32. Nineteen Eighty-Four
+33. Choke (novel)
+34. Green Lantern (comic book)
+35. The Hatchet (novel)
+36. The Body of Christopher Creed
+37. The Looking Glass Wars
+38. The Chronicles of Narnia: Prince Caspian
+39. Dracula
+40. Witch & Wizard
+41. Flowers in the Attic
+42. Inferno (Dante)
+43. The Screwtape Letters
+44. The Last Storytellers: Tales from the Heart of Morocco
+45. The Gold Bug Variations
+46. The Confession (novel)
+47. Madame Bovary
+48. Their Eyes Were Watching God
+49. Macbeth
+50. Digital Fortress
+
+These recommendations are based on the user's previous likes and are ranked according to their potential interest.

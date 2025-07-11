@@ -1,0 +1,52 @@
+Based on user 1224's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Neil Gaiman, Terry Pratchett
+2. American Gods by Neil Gaiman
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Catcher in the Rye by J.D. Salinger
+6. The Picture of Dorian Gray by Oscar Wilde
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Alchemist by Paulo Coelho
+9. The Bell Jar by Sylvia Plath
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. 1984 by George Orwell
+13. Fahrenheit 451 by Ray Bradbury
+14. The Stranger by Albert Camus
+15. The Sun Also Rises by Ernest Hemingway
+16. To Kill a Mockingbird by Harper Lee
+17. The Great Gatsby by F. Scott Fitzgerald
+18. Catch-22 by Joseph Heller
+19. A Clockwork Orange by Anthony Burgess
+20. The Old Man and the Sea by Ernest Hemingway
+21. The Grapes of Wrath by John Steinbeck
+22. Brave New World by Aldous Huxley
+23. Frankenstein by Mary Shelley
+24. Life of Pi by Yann Martel
+25. Middlesex by Jeffrey Eugenides
+26. Water for Elephants by Sara Gruen
+27. Oedipus the King by Sophocles
+28. The Handmaid's Tale by Margaret Atwood
+29. 1984 by George Orwell
+30. Fahrenheit 451 by Ray Bradbury
+31. The Road by Cormac McCarthy
+32. The Catcher in the Rye by J.D. Salinger
+33. The Picture of Dorian Gray by Oscar Wilde
+34. One Hundred Years of Solitude by Gabriel Garcia Marquez
+35. The Alchemist by Paulo Coelho
+36. The Bell Jar by Sylvia Plath
+37. The Stranger by Albert Camus
+38. The Sun Also Rises by Ernest Hemingway
+39. To Kill a Mockingbird by Harper Lee
+40. The Great Gatsby by F. Scott Fitzgerald
+41. Catch-22 by Joseph Heller
+42. A Clockwork Orange by Anthony Burgess
+43. The Old Man and the Sea by Ernest Hemingway
+44. Slaughterhouse-Five by Kurt Vonnegut
+45. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+46. American Gods by Neil Gaiman
+47. Good Omens by Neil Gaiman, Terry Pratchett
+48. The Bell Jar by Sylvia Plath
+49. The Road by Cormac McCarthy
+50. The Handmaid's Tale by Margaret Atwood

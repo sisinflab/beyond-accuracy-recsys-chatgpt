@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. Panic! At The Disco
+3. Green Day
+4. The All-American Rejects
+5. We The Kings
+6. Mayday Parade
+7. The Academy Is...
+8. Yellowcard
+9. Good Charlotte
+10. Sum 41
+11. New Found Glory
+12. The Starting Line
+13. Blink-182
+14. Jimmy Eat World
+15. Taking Back Sunday
+16. The Red Jumpsuit Apparatus
+17. Simple Plan
+18. Boys Like Girls
+19. The Maine
+20. All Time Low
+21. Paramore
+22. The Pretty Reckless
+23. Tonight Alive
+24. Hey Monday
+25. VersaEmerge
+26. Echosmith
+27. Against The Current
+28. Set It Off
+29. State Champs
+30. Waterparks
+31. Sleeping With Sirens
+32. Pierce The Veil
+33. A Day To Remember
+34. All American Rejects
+35. The Used
+36. My Chemical Romance
+37. 30 Seconds To Mars
+38. Bring Me The Horizon
+39. You Me At Six
+40. The Story So Far
+41. Neck Deep
+42. Knuckle Puck
+43. Real Friends
+44. The Wonder Years
+45. Four Year Strong
+46. The Front Bottoms
+47. Moose Blood
+48. Modern Baseball
+49. Citizen
+50. Basement
+
+These recommendations are based on the user's liking of similar artists and genres.

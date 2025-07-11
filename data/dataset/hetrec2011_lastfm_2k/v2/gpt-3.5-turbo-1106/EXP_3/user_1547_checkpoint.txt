@@ -1,0 +1,54 @@
+Based on user 1547's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Radiohead
+2. The Beatles
+3. The Strokes
+4. Franz Ferdinand
+5. Death Cab for Cutie
+6. Coldplay
+7. Modest Mouse
+8. The Shins
+9. Kings of Leon
+10. Nine Inch Nails
+11. The Last Shadow Puppets
+12. The Cure
+13. MGMT
+14. The Kooks
+15. Snow Patrol
+16. The Chemical Brothers
+17. The Maine
+18. Manic Street Preachers
+19. Kings of Convenience
+20. Kasabian
+21. The Distillers
+22. Stereophonics
+23. Lily Allen
+24. The Donnas
+25. The Velvet Underground
+26. The Smiths
+27. The Stone Roses
+28. The Wombats
+29. The Killers
+30. The Verve
+31. The Dandy Warhols
+32. Joy Division
+33. Richard Ashcroft
+34. Belle and Sebastian
+35. Suede
+36. Blink-182
+37. The Shins
+38. Ólafur Arnalds
+39. Recoil
+40. God Is an Astronaut
+41. Sonic Youth
+42. Los Hermanos
+43. Legião Urbana
+44. Green Day
+45. My Chemical Romance
+46. Guns N' Roses
+47. Johnny Cash
+48. Depeche Mode
+49. Paolo Nutini
+50. Michael Jackson
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for them to explore.

@@ -1,0 +1,54 @@
+Based on the user's liking of the artists provided, here is a re-ranked list of recommendations:
+
+1. Lady Gaga
+2. Rihanna
+3. Kelly Clarkson
+4. Black Eyed Peas
+5. Gwen Stefani
+6. Britney Spears
+7. Madonna
+8. Christina Aguilera
+9. Katy Perry
+10. Beyoncé
+11. Shakira
+12. Avril Lavigne
+13. Taylor Swift
+14. Miley Cyrus
+15. Ke$ha
+16. Pink Floyd
+17. Muse
+18. Coldplay
+19. The Killers
+20. Nirvana
+21. Metallica
+22. Michael Jackson
+23. Linkin Park
+24. Paramore
+25. Glee Cast
+26. U2
+27. 30 Seconds to Mars
+28. Evanescence
+29. Avenged Sevenfold
+30. My Chemical Romance
+31. Green Day
+32. The Saturdays
+33. The Kooks
+34. Ciara
+35. Shania Twain
+36. Pixie Lott
+37. Little Boots
+38. September
+39. Heidi Montag
+40. LeAnn Rimes
+41. Empire of the Sun
+42. The Beatles
+43. Radiohead
+44. Duran Duran
+45. Blur
+46. Arctic Monkeys
+47. Placebo
+48. Iron Maiden
+49. Pearl Jam
+50. The Cure
+
+This list is based on the user's liking of similar artists and aims to provide recommendations that align with their music preferences.

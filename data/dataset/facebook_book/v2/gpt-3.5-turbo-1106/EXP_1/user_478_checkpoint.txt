@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Bell Jar by Sylvia Plath
+9. The Handmaid's Tale by Margaret Atwood
+10. The Road by Cormac McCarthy
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. Crime and Punishment by Fyodor Dostoevsky
+14. The Grapes of Wrath by John Steinbeck
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Sound and the Fury by William Faulkner
+18. A Farewell to Arms by Ernest Hemingway
+19. The Stranger by Albert Camus
+20. The Plague by Albert Camus
+21. The Metamorphosis by Franz Kafka
+22. The Trial by Franz Kafka
+23. The Master and Margarita by Mikhail Bulgakov
+24. The Idiot by Fyodor Dostoevsky
+25. The Count of Monte Cristo by Alexandre Dumas
+26. The Three Musketeers by Alexandre Dumas
+27. War and Peace by Leo Tolstoy
+28. Anna Karenina by Leo Tolstoy
+29. Crime and Punishment by Fyodor Dostoevsky
+30. The Picture of Dorian Gray by Oscar Wilde
+31. Lolita by Vladimir Nabokov
+32. The Bell Jar by Sylvia Plath
+33. The Unbearable Lightness of Being by Milan Kundera
+34. The Master and Margarita by Mikhail Bulgakov
+35. The Handmaid's Tale by Margaret Atwood
+36. The Road by Cormac McCarthy
+37. The Catcher in the Rye by J.D. Salinger
+38. One Hundred Years of Solitude by Gabriel Garcia Marquez
+39. The Great Gatsby by F. Scott Fitzgerald
+40. The Brothers Karamazov by Fyodor Dostoevsky
+41. Crime and Punishment by Fyodor Dostoevsky
+42. The Grapes of Wrath by John Steinbeck
+43. The Sun Also Rises by Ernest Hemingway
+44. The Old Man and the Sea by Ernest Hemingway
+45. The Sound and the Fury by William Faulkner
+46. A Farewell to Arms by Ernest Hemingway
+47. The Stranger by Albert Camus
+48. The Plague by Albert Camus
+49. The Metamorphosis by Franz Kafka
+50. The Trial by Franz Kafka
+
+These recommendations are based on the user's interest in classic literature, philosophical themes, and dark, thought-provoking narratives.

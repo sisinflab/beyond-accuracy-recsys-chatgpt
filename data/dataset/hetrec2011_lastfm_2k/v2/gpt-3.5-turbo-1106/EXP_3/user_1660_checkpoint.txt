@@ -1,0 +1,54 @@
+Based on user 1660's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Metallica
+2. Radiohead
+3. The Cure
+4. The Beatles
+5. Pink Floyd
+6. Nirvana
+7. Led Zeppelin
+8. Queen
+9. Black Sabbath
+10. The Rolling Stones
+11. The Doors
+12. Ramones
+13. Pixies
+14. Red Hot Chili Peppers
+15. Primus
+16. Iron Maiden
+17. Faith No More
+18. The Jimi Hendrix Experience
+19. Soundgarden
+20. The Who
+21. Rush
+22. U2
+23. Oasis
+24. The Clash
+25. The Cramps
+26. The Residents
+27. Fantômas
+28. Melvins
+29. Mudhoney
+30. Tori Amos
+31. Oingo Boingo
+32. Cypress Hill
+33. Beastie Boys
+34. KISS
+35. Queen
+36. The Rolling Stones
+37. The Doors
+38. Ramones
+39. Black Sabbath
+40. Iron Maiden
+41. Pink Floyd
+42. Led Zeppelin
+43. Nirvana
+44. Pixies
+45. Red Hot Chili Peppers
+46. Primus
+47. The Residents
+48. The Cramps
+49. Mudhoney
+50. Tori Amos
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for them to explore.

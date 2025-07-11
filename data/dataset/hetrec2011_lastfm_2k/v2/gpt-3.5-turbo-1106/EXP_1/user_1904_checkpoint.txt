@@ -1,0 +1,54 @@
+Based on user 1904's preferences, here are the top 50 recommendations:
+
+1. Elliott Smith
+2. Cat Power
+3. Iron & Wine
+4. Sufjan Stevens
+5. The Shins
+6. Regina Spektor
+7. Bon Iver
+8. The Decemberists
+9. Bright Eyes
+10. Death Cab for Cutie
+11. The Postal Service
+12. Fleet Foxes
+13. Belle and Sebastian
+14. The National
+15. Neutral Milk Hotel
+16. Wilco
+17. Arcade Fire
+18. The Magnetic Fields
+19. Beirut
+20. The Mountain Goats
+21. Father John Misty
+22. Sharon Van Etten
+23. The Tallest Man on Earth
+24. First Aid Kit
+25. Laura Marling
+26. Hozier
+27. Florence + The Machine
+28. The Lumineers
+29. Mumford & Sons
+30. Of Monsters and Men
+31. Vance Joy
+32. The Head and the Heart
+33. The Avett Brothers
+34. Lord Huron
+35. Fleetwood Mac
+36. Simon & Garfunkel
+37. Bob Dylan
+38. Joni Mitchell
+39. Neil Young
+40. James Taylor
+41. Carole King
+42. Van Morrison
+43. Crosby, Stills, Nash & Young
+44. The Beatles
+45. The Rolling Stones
+46. Bob Marley & The Wailers
+47. David Bowie
+48. Pink Floyd
+49. Led Zeppelin
+50. The Doors
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Oasis
+3. Blur
+4. Vampire Weekend
+5. The National
+6. Arcade Fire
+7. Tame Impala
+8. The Killers
+9. Foals
+10. Kings of Leon
+11. The War on Drugs
+12. The Kooks
+13. Franz Ferdinand
+14. Bloc Party
+15. The Vaccines
+16. The Black Keys
+17. The White Stripes
+18. The Raconteurs
+19. The Hives
+20. The Wombats
+21. Two Door Cinema Club
+22. The 1975
+23. Arctic Monkeys (if not already liked)
+24. The Strokes (if not already liked)
+25. Radiohead (if not already liked)
+26. The Smiths (if not already liked)
+27. Manic Street Preachers (if not already liked)
+28. The Stone Roses (if not already liked)
+29. Travis (if not already liked)
+30. Babyshambles (if not already liked)
+31. The Libertines (if not already liked)
+32. Nick Drake (if not already liked)
+33. Sufjan Stevens (if not already liked)
+34. The Smashing Pumpkins (if not already liked)
+35. Grizzly Bear (if not already liked)
+36. Elliott Smith (if not already liked)
+37. Pixies (if not already liked)
+38. Cat Stevens (if not already liked)
+39. Joy Division (if not already liked)
+40. The Verve (if not already liked)
+41. Phoenix (if not already liked)
+42. Suede (if not already liked)
+43. Pearl Jam (if not already liked)
+44. Thom Yorke (if not already liked)
+45. Morrissey (if not already liked)
+46. David Bowie (if not already liked)
+47. Animal Collective (if not already liked)
+48. The Police (if not already liked)
+49. U2 (if not already liked)
+50. The Beatles (if not already liked)
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands.

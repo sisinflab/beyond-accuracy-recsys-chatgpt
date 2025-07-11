@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. Origin by Dan Brown
+4. The Lost Symbol by Dan Brown
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Girl Who Played with Fire by Stieg Larsson
+7. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+8. A Short History of Nearly Everything by Bill Bryson
+9. Notes from a Small Island by Bill Bryson
+10. A Walk in the Woods by Bill Bryson
+11. The Namesake by Jhumpa Lahiri
+12. A Thousand Splendid Suns by Khaled Hosseini
+13. And the Mountains Echoed by Khaled Hosseini
+14. Digital Fortress by Dan Brown
+15. The Alchemist by Paulo Coelho
+16. The 5 Love Languages by Gary Chapman
+17. The Immortals of Meluha by Amish Tripathi
+18. The Secret of the Nagas by Amish Tripathi
+19. The Oath of the Vayuputras by Amish Tripathi
+20. The White Tiger by Aravind Adiga
+21. Half Girlfriend by Chetan Bhagat
+22. 2 States: The Story of My Marriage by Chetan Bhagat
+23. Revolution 2020 by Chetan Bhagat
+24. What Young India Wants by Chetan Bhagat
+25. The Argumentative Indian by Amartya Sen
+26. An Era of Darkness: The British Empire in India by Shashi Tharoor
+27. India After Gandhi by Ramachandra Guha
+28. The Palace of Illusions by Chitra Banerjee Divakaruni
+29. The Krishna Key by Ashwin Sanghi
+30. Chanakya's Chant by Ashwin Sanghi
+31. The Rozabal Line by Ashwin Sanghi
+32. The Sialkot Saga by Ashwin Sanghi
+33. The Great Indian Novel by Shashi Tharoor
+34. The God of Small Things by Arundhati Roy
+35. Midnight's Children by Salman Rushdie
+36. The Glass Palace by Amitav Ghosh
+37. The Shadow Lines by Amitav Ghosh
+38. The Hungry Tide by Amitav Ghosh
+39. The Calcutta Chromosome by Amitav Ghosh
+40. The Inheritance of Loss by Kiran Desai
+41. Interpreter of Maladies by Jhumpa Lahiri
+42. Unaccustomed Earth by Jhumpa Lahiri
+43. The Lowland by Jhumpa Lahiri
+44. The Namesake by Jhumpa Lahiri
+45. The Guide by R.K. Narayan
+46. Malgudi Days by R.K. Narayan
+47. The English Teacher by R.K. Narayan
+48. The Financial Expert by R.K. Narayan
+49. The Dark Room by R.K. Narayan
+50. Waiting for the Mahatma by R.K. Narayan
+
+These recommendations are based on the user's interest in authors like Dan Brown, Bill Bryson, Chetan Bhagat, and Khaled Hosseini, as well as the genres and themes of the books they have enjoyed.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. New Order
+3. Nine Inch Nails
+4. The Smiths
+5. Joy Division
+6. Pet Shop Boys
+7. Siouxsie and the Banshees
+8. Echo & the Bunnymen
+9. The Jesus and Mary Chain
+10. Bauhaus
+11. The Psychedelic Furs
+12. Cocteau Twins
+13. The Sisters of Mercy
+14. The Chameleons
+15. Killing Joke
+16. Love and Rockets
+17. Clan of Xymox
+18. The Mission
+19. The Birthday Massacre
+20. She Wants Revenge
+21. Ashbury Heights
+22. Blutengel
+23. Covenant
+24. VNV Nation
+25. Apoptygma Berzerk
+26. And One
+27. Assemblage 23
+28. Camouflage
+29. De/Vision
+30. Mesh
+31. Neuroticfish
+32. Rotersand
+33. Seabound
+34. Solar Fake
+35. Solitary Experiments
+36. Frozen Plasma
+37. Aesthetic Perfection
+38. Ash Code
+39. Drab Majesty
+40. Lebanon Hanover
+41. Linea Aspera
+42. She Past Away
+43. Soft Kill
+44. The Soft Moon
+45. TR/ST
+46. Boy Harsher
+47. Cold Cave
+48. Drab Majesty
+49. Hante.
+50. Zanias
+
+These recommendations are based on the user's liking for artists with similar musical styles and genres.

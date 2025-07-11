@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Eldest by Christopher Paolini
+2. Inheritance by Christopher Paolini
+3. The Hunger Games by Suzanne Collins
+4. Catching Fire by Suzanne Collins
+5. Mockingjay by Suzanne Collins
+6. The Maze Runner by James Dashner
+7. The Scorch Trials by James Dashner
+8. The Death Cure by James Dashner
+9. Divergent by Veronica Roth
+10. Insurgent by Veronica Roth
+11. Allegiant by Veronica Roth
+12. The Giver by Lois Lowry
+13. Gathering Blue by Lois Lowry
+14. Messenger by Lois Lowry
+15. Son by Lois Lowry
+16. The Lightning Thief by Rick Riordan
+17. The Sea of Monsters by Rick Riordan
+18. The Titan's Curse by Rick Riordan
+19. The Battle of the Labyrinth by Rick Riordan
+20. The Last Olympian by Rick Riordan
+21. The Lost Hero by Rick Riordan
+22. The Son of Neptune by Rick Riordan
+23. The Mark of Athena by Rick Riordan
+24. The House of Hades by Rick Riordan
+25. The Blood of Olympus by Rick Riordan
+26. The Red Pyramid by Rick Riordan
+27. The Throne of Fire by Rick Riordan
+28. The Serpent's Shadow by Rick Riordan
+29. The Alchemyst by Michael Scott
+30. The Magician by Michael Scott
+31. The Sorceress by Michael Scott
+32. The Necromancer by Michael Scott
+33. The Warlock by Michael Scott
+34. The Enchantress by Michael Scott
+35. The Name of the Wind by Patrick Rothfuss
+36. The Wise Man's Fear by Patrick Rothfuss
+37. The Slow Regard of Silent Things by Patrick Rothfuss
+38. The Doors of Stone by Patrick Rothfuss
+39. The Way of Kings by Brandon Sanderson
+40. Words of Radiance by Brandon Sanderson
+41. Oathbringer by Brandon Sanderson
+42. Rhythm of War by Brandon Sanderson
+43. Warbreaker by Brandon Sanderson
+44. Mistborn: The Final Empire by Brandon Sanderson
+45. The Well of Ascension by Brandon Sanderson
+46. The Hero of Ages by Brandon Sanderson
+47. The Alloy of Law by Brandon Sanderson
+48. Shadows of Self by Brandon Sanderson
+49. The Bands of Mourning by Brandon Sanderson
+50. Secret History by Brandon Sanderson
+
+These recommendations are based on the user's interest in fantasy, adventure, and young adult fiction.

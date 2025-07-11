@@ -1,0 +1,54 @@
+Based on user 531's preferences, here are the top 50 book recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. Mockingjay by Suzanne Collins
+3. The Hunger Games by Suzanne Collins
+4. City of Fallen Angels by Cassandra Clare
+5. Pandora Hearts by Jun Mochizuki
+6. The Looking Glass Wars by Frank Beddor
+7. Seeing Redd by Frank Beddor
+8. Vampire Academy (novel) by Richelle Mead
+9. Ouran High School Host Club by Bisco Hatori
+10. Ttyl (novel) by Lauren Myracle
+11. Pride and Prejudice by Jane Austen
+12. Speaker for the Dead by Orson Scott Card
+13. A Series of Unfortunate Events by Lemony Snicket
+14. Shugo Chara! by Peach-Pit
+15. The Little Mermaid by Hans Christian Andersen
+16. Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
+17. Northanger Abbey by Jane Austen
+18. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+19. Grimms' Fairy Tales by Jacob and Wilhelm Grimm
+20. A Tale of Two Cities by Charles Dickens
+21. Alice's Adventures in Wonderland by Lewis Carroll
+22. Emma (novel) by Jane Austen
+23. The Immortals (novel) by Alyson Noël
+24. The Host (novel) by Stephenie Meyer
+25. Fallen (Kate novel) by Lauren Kate
+26. Running Out of Time (novel) by Margaret Peterson Haddix
+27. Beautiful Darkness by Kami Garcia and Margaret Stohl
+28. Protector of the Small by Tamora Pierce
+29. Go Ask Alice by Beatrice Sparks
+30. Ender's Shadow by Orson Scott Card
+31. Skeleton Creek (novel) by Patrick Carman
+32. Vampire Kisses by Ellen Schreiber
+33. A Midsummer Night's Dream by William Shakespeare
+34. The Demonata by Darren Shan
+35. Chosen (A House of Night novel) by P.C. Cast and Kristin Cast
+36. I Am Number Four by Pittacus Lore
+37. Dune (novel) by Frank Herbert
+38. Catching Fire by Suzanne Collins
+39. Harry Potter series by J.K. Rowling
+40. The Book of Lost Things by John Connolly
+41. Ink Exchange by Melissa Marr
+42. Twilight series by Stephenie Meyer
+43. Wake (Lisa McMann novel) by Lisa McMann
+44. Fruits Basket by Natsuki Takaya
+45. Naruto by Masashi Kishimoto
+46. Along for the Ride by Sarah Dessen
+47. Haunted (The Mediator) by Meg Cabot
+48. Black Cat (comics) by Kentaro Yabuki
+49. Ironside: A Modern Faery's Tale by Holly Black
+50. Gone with the Wind by Margaret Mitchell
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

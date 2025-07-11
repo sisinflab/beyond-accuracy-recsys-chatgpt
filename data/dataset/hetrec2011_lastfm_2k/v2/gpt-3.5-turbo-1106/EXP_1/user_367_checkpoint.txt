@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. The Strokes
+3. The Killers
+4. Muse
+5. Franz Ferdinand
+6. My Chemical Romance
+7. Panic! At The Disco
+8. Green Day
+9. The White Stripes
+10. Radiohead
+11. The Smashing Pumpkins
+12. Weezer
+13. The Offspring
+14. Blink-182
+15. Sum 41
+16. Jimmy Eat World
+17. Taking Back Sunday
+18. Brand New
+19. All Time Low
+20. The All-American Rejects
+21. Good Charlotte
+22. Simple Plan
+23. New Found Glory
+24. Yellowcard
+25. Dashboard Confessional
+26. The Used
+27. AFI
+28. Rise Against
+29. Paramore
+30. The Cranberries
+31. Garbage
+32. Hole
+33. Veruca Salt
+34. Sonic Youth
+35. Dinosaur Jr.
+36. Pavement
+37. Sleater-Kinney
+38. Bikini Kill
+39. L7
+40. Babes in Toyland
+41. Hole
+42. The Breeders
+43. Elastica
+44. PJ Harvey
+45. Courtney Love
+46. Sonic Youth
+47. The Smashing Pumpkins
+48. The Breeders
+49. Veruca Salt
+50. L7
+
+These recommendations are based on the user's liking of alternative rock, punk rock, and emo bands.

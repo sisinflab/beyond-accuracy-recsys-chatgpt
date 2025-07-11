@@ -1,0 +1,54 @@
+Based on user 768's likes, here are the top 50 book recommendations:
+
+1. The Hunger Games by ['Suzanne Collins']
+2. Catching Fire by ['Suzanne Collins']
+3. Graceling by ['Kristin Cashore']
+4. Fire (Cashore novel) by ['Kristin Cashore']
+5. The Maze Runner by ['James Dashner']
+6. If I Stay by ['Gayle Forman']
+7. Uglies by ['Scott Westerfeld']
+8. Perfect Chemistry by ['Simone Elkeles']
+9. Dear John (novel) by ['Nicholas Sparks']
+10. The Wolves of Mercy Falls by []
+11. Never Let Me Go (novel)
+12. His Dark Materials
+13. The Book of Lost Things
+14. The Immortals (books)
+15. The City of Ember
+16. The Lovely Bones
+17. The Dead and the Gone
+18. Digital Fortress
+19. The Short Second Life of Bree Tanner
+20. Fragile Eternity
+21. Fallen (Kate novel)
+22. Twilight (series)
+23. The Catcher in the Rye
+24. The Lost Hero
+25. The Giver
+26. Mockingjay
+27. The Truth About Forever
+28. Maximum Ride
+29. Beautiful Creatures (novel)
+30. Matched
+31. The Time Traveler's Wife
+32. Pretties
+33. Identical (novel)
+34. Across the Universe (novel)
+35. Gathering Blue
+36. Harry Potter
+37. This Lullaby
+38. The People of Sparks
+39. Be More Chill
+40. Inkheart
+41. The Accursed Kings
+42. The Boy in the Striped Pyjamas
+43. City of Ashes
+44. Speak (novel)
+45. Evermore (book)
+46. The Goose Girl (novel)
+47. Thirteen Reasons Why
+48. The Last Days (Masterson novel)
+49. Holes (novel)
+50. Peeps (novel)
+
+These recommendations are based on the user's previous likes and are tailored to their preferences.

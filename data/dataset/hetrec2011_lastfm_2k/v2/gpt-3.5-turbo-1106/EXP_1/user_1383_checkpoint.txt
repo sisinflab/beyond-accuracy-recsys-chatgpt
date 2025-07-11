@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arcade Fire
+2. Tame Impala
+3. The National
+4. Bon Iver
+5. Grizzly Bear
+6. Vampire Weekend
+7. Alt-J
+8. The Strokes
+9. Interpol
+10. Florence + The Machine
+11. The Smiths
+12. Yeah Yeah Yeahs
+13. The Shins
+14. Modest Mouse
+15. Spoon
+16. Phoenix
+17. The War on Drugs
+18. St. Vincent
+19. HAIM
+20. Foals
+21. LCD Soundsystem
+22. The Black Keys
+23. Fleetwood Mac
+24. The Cranberries
+25. The Cure
+26. Joy Division
+27. New Order
+28. Echo & the Bunnymen
+29. The Jesus and Mary Chain
+30. My Bloody Valentine
+31. Slowdive
+32. Cocteau Twins
+33. Mazzy Star
+34. The Velvet Underground
+35. Patti Smith
+36. Talking Heads
+37. Joy Division
+38. The Stone Roses
+39. The Smiths
+40. The Jesus and Mary Chain
+41. My Bloody Valentine
+42. Slowdive
+43. Cocteau Twins
+44. Mazzy Star
+45. The Velvet Underground
+46. Patti Smith
+47. Talking Heads
+48. Joy Division
+49. The Stone Roses
+50. The Smiths
+
+These recommendations are based on the user's liking of similar artists and genres.

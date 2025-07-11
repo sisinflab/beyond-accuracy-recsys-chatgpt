@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ariana Grande
+2. Taylor Swift
+3. Miley Cyrus
+4. Ariana Grande & Justin Bieber
+5. Camila Cabello
+6. Zara Larsson
+7. Hailee Steinfeld
+8. Meghan Trainor
+9. Sabrina Carpenter
+10. Alessia Cara
+11. Demi Lovato & Joe Jonas
+12. Demi Lovato & Selena Gomez
+13. Demi Lovato & Jonas Brothers
+14. Demi Lovato & Ariana Grande
+15. Demi Lovato & Miley Cyrus
+16. Selena Gomez & Demi Lovato
+17. Selena Gomez & Ariana Grande
+18. Selena Gomez & Taylor Swift
+19. Selena Gomez & Miley Cyrus
+20. Selena Gomez & Justin Bieber
+21. Selena Gomez & Shawn Mendes
+22. Selena Gomez & Camila Cabello
+23. Selena Gomez & Zara Larsson
+24. Selena Gomez & Hailee Steinfeld
+25. Selena Gomez & Meghan Trainor
+26. Selena Gomez & Sabrina Carpenter
+27. Selena Gomez & Alessia Cara
+28. Selena Gomez & Demi Lovato
+29. Selena Gomez & Jonas Brothers
+30. Selena Gomez & Ariana Grande
+31. Selena Gomez & Miley Cyrus
+32. Selena Gomez & Justin Bieber
+33. Selena Gomez & Shawn Mendes
+34. Selena Gomez & Camila Cabello
+35. Selena Gomez & Zara Larsson
+36. Selena Gomez & Hailee Steinfeld
+37. Selena Gomez & Meghan Trainor
+38. Selena Gomez & Sabrina Carpenter
+39. Selena Gomez & Alessia Cara
+40. Selena Gomez & Demi Lovato
+41. Selena Gomez & Jonas Brothers
+42. Selena Gomez & Ariana Grande
+43. Selena Gomez & Miley Cyrus
+44. Selena Gomez & Justin Bieber
+45. Selena Gomez & Shawn Mendes
+46. Selena Gomez & Camila Cabello
+47. Selena Gomez & Zara Larsson
+48. Selena Gomez & Hailee Steinfeld
+49. Selena Gomez & Meghan Trainor
+50. Selena Gomez & Sabrina Carpenter
+
+These recommendations are based on the user's liking of similar artists and collaborations.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Beach House
+2. Animal Collective
+3. Tame Impala
+4. The War on Drugs
+5. Real Estate
+6. Grizzly Bear
+7. Mac DeMarco
+8. Kurt Vile
+9. The National
+10. Father John Misty
+11. Angel Olsen
+12. Sharon Van Etten
+13. The Flaming Lips
+14. My Bloody Valentine
+15. Yo La Tengo
+16. Neutral Milk Hotel
+17. The Shins
+18. Sufjan Stevens
+19. The Smiths
+20. Arcade Fire
+21. Vampire Weekend
+22. The Strokes
+23. LCD Soundsystem
+24. Phoenix
+25. Spoon
+26. Modest Mouse
+27. The Decemberists
+28. Belle and Sebastian
+29. The Magnetic Fields
+30. Pavement
+31. Sonic Youth
+32. Dinosaur Jr.
+33. Built to Spill
+34. Wilco
+35. Fleet Foxes
+36. Iron & Wine
+37. Beirut
+38. The xx
+39. MGMT
+40. Fleetwood Mac
+41. John Lennon
+42. Best Coast
+43. Atlas Sound
+44. T. Rex
+45. Joanna Newsom
+46. The Velvet Underground
+47. Os Mutantes
+48. Deerhunter
+49. Bonobo
+50. Bob Dylan
+
+These recommendations are based on the user's liking of similar artists and genres.

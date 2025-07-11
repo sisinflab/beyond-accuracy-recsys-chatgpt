@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The House of the Spirits by Isabel Allende
+2. The Joy Luck Club by Amy Tan
+3. Like Water for Chocolate by Laura Esquivel
+4. The Time Traveler's Wife by Audrey Niffenegger
+5. The Night Circus by Erin Morgenstern
+6. The Book Thief by Markus Zusak
+7. The Kite Runner by Khaled Hosseini
+8. The Secret Life of Bees by Sue Monk Kidd
+9. The Glass Castle by Jeannette Walls
+10. The Red Tent by Anita Diamant
+11. The Poisonwood Bible by Barbara Kingsolver
+12. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+13. The God of Small Things by Arundhati Roy
+14. The Inheritance of Loss by Kiran Desai
+15. The Unbearable Lightness of Being by Milan Kundera
+16. The History of Love by Nicole Krauss
+17. The Art of Racing in the Rain by Garth Stein
+18. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows
+19. The Help by Kathryn Stockett
+20. The Secret History by Donna Tartt
+21. The Goldfinch by Donna Tartt
+22. The Nightingale by Kristin Hannah
+23. The Great Alone by Kristin Hannah
+24. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+25. The Martian by Andy Weir
+26. The Handmaid's Tale by Margaret Atwood
+27. The Girl on the Train by Paula Hawkins
+28. The Silent Patient by Alex Michaelides
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Hunger Games by Suzanne Collins
+31. The Fault in Our Stars by John Green
+32. The Alchemist by Paulo Coelho
+33. The Zahir by Paulo Coelho
+34. The Valkyries by Paulo Coelho
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Angel's Game by Carlos Ruiz Zafón
+37. The Prisoner of Heaven by Carlos Ruiz Zafón
+38. The Namesake by Jhumpa Lahiri
+39. Interpreter of Maladies by Jhumpa Lahiri
+40. Unaccustomed Earth by Jhumpa Lahiri
+41. The Lowland by Jhumpa Lahiri
+42. The God of Small Things by Arundhati Roy
+43. The Ministry of Utmost Happiness by Arundhati Roy
+44. The Inheritance of Loss by Kiran Desai
+45. Hullabaloo in the Guava Orchard by Kiran Desai
+46. The Artist of Disappearance by Anita Desai
+47. Fasting, Feasting by Anita Desai
+48. The Glass Palace by Amitav Ghosh
+49. Sea of Poppies by Amitav Ghosh
+50. The Hungry Tide by Amitav Ghosh
+
+These recommendations are based on the user's interest in literary fiction, historical fiction, and books by authors such as Paulo Coelho, Amy Tan, and Jhumpa Lahiri.

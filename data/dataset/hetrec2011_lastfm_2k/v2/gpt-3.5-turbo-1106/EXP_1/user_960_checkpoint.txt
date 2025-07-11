@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Justice
+2. Gorillaz
+3. The Chemical Brothers
+4. Moby
+5. Nine Inch Nails
+6. The Weeknd
+7. Radiohead
+8. Kendrick Lamar
+9. Muse
+10. The Black Eyed Peas
+11. Skrillex
+12. Red Hot Chili Peppers
+13. Beastie Boys
+14. Tiesto
+15. Snoop Dogg
+16. The Killers
+17. A Tribe Called Quest
+18. Portishead
+19. Massive Attack
+20. OutKast
+21. LCD Soundsystem
+22. Fatboy Slim
+23. N.E.R.D
+24. The xx
+25. Phoenix
+26. Arctic Monkeys
+27. Florence + The Machine
+28. The Strokes
+29. Vampire Weekend
+30. Beck
+31. Childish Gambino
+32. Grimes
+33. Disclosure
+34. CHVRCHES
+35. HAIM
+36. Lorde
+37. Alt-J
+38. Tame Impala
+39. Bonobo
+40. Röyksopp
+41. Caribou
+42. Jamie xx
+43. SBTRKT
+44. Flume
+45. ODESZA
+46. Kygo
+47. ZHU
+48. Rüfüs Du Sol
+49. Disclosure
+50. Kaytranada
+
+These recommendations are based on the user's liking of electronic, hip-hop, rock, and alternative artists, as well as their interest in a diverse range of musical styles and genres.

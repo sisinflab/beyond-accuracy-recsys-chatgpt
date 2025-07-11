@@ -1,0 +1,54 @@
+Based on user 1224's preferences, here are the top 50 recommendations:
+
+1. Albert King
+2. John Lee Hooker
+3. Freddie King
+4. T-Bone Walker
+5. Elmore James
+6. Otis Rush
+7. Junior Wells
+8. Sonny Boy Williamson
+9. Johnny Winter
+10. Koko Taylor
+11. Willie Dixon
+12. Magic Sam
+13. Hound Dog Taylor
+14. Little Walter
+15. Howlin' Wolf
+16. Buddy Guy
+17. B.B. King
+18. Stevie Ray Vaughan
+19. Muddy Waters
+20. Eric Clapton
+21. Jimi Hendrix
+22. Gary Moore
+23. The Rolling Stones
+24. ZZ Top
+25. Cream
+26. Santana
+27. The Doors
+28. Creedence Clearwater Revival
+29. Robert Johnson
+30. John Mayall & The Bluesbreakers
+31. Peter Green
+32. Fleetwood Mac
+33. Joe Bonamassa
+34. Derek and the Dominos
+35. Jeff Beck
+36. The Allman Brothers Band
+37. Johnny Copeland
+38. Luther Allison
+39. Robert Cray
+40. Stevie Ray Vaughan and Double Trouble
+41. Buddy Guy & Junior Wells
+42. B.B. King & Eric Clapton
+43. Muddy Waters & The Rolling Stones
+44. Stevie Ray Vaughan & Double Trouble
+45. Eric Clapton & B.B. King
+46. Jimi Hendrix Experience
+47. Gary Moore Band
+48. The Rolling Stones & Eric Clapton
+49. Cream & Eric Clapton
+50. Santana & Eric Clapton
+
+These recommendations are based on the user's liking of blues and rock artists, and include similar artists and bands that they may enjoy based on their preferences.

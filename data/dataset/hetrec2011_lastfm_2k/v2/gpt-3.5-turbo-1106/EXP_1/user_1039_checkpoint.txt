@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Panic! At The Disco
+2. Fall Out Boy
+3. My Chemical Romance
+4. Green Day
+5. Paramore
+6. Linkin Park
+7. Twenty One Pilots
+8. Bring Me The Horizon
+9. All Time Low
+10. Sleeping With Sirens
+11. Pierce The Veil
+12. A Day To Remember
+13. The Neighbourhood
+14. Halsey
+15. Billie Eilish
+16. Melanie Martinez
+17. Lana Del Rey
+18. The 1975
+19. Arctic Monkeys
+20. Florence + The Machine
+21. Lorde
+22. The Killers
+23. Imagine Dragons
+24. Bastille
+25. The Weeknd
+26. Drake
+27. Kendrick Lamar
+28. J. Cole
+29. Post Malone
+30. Travis Scott
+31. Childish Gambino
+32. Logic
+33. Lil Uzi Vert
+34. Future
+35. 21 Savage
+36. Migos
+37. Young Thug
+38. A$AP Rocky
+39. Tyler, The Creator
+40. Mac Miller
+41. Wiz Khalifa
+42. Big Sean
+43. Chance The Rapper
+44. Kanye West
+45. Jay-Z
+46. Nas
+47. OutKast
+48. Wu-Tang Clan
+49. Run The Jewels
+50. Beastie Boys
+
+These recommendations are based on the user's liking of artists with similar genres and styles.

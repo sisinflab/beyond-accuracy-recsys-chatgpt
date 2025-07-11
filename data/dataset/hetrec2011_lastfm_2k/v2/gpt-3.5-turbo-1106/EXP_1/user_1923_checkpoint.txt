@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Portishead
+3. Massive Attack
+4. Sigur Rós
+5. Enya
+6. Tool
+7. Nine Inch Nails
+8. Deftones
+9. Opeth
+10. Anathema
+11. Porcupine Tree
+12. Steven Wilson
+13. Riverside
+14. Katatonia
+15. Agalloch
+16. My Dying Bride
+17. Alcest
+18. Chelsea Wolfe
+19. Chelsea Wolfe
+20. The Cranberries
+21. Sinead O'Connor
+22. Enigma
+23. Dead Can Dance
+24. Cocteau Twins
+25. This Mortal Coil
+26. Mazzy Star
+27. The Smashing Pumpkins
+28. The Cure
+29. Joy Division
+30. The Smiths
+31. New Order
+32. The Jesus and Mary Chain
+33. Echo & the Bunnymen
+34. The Psychedelic Furs
+35. The Chameleons
+36. The Mission
+37. The Sisters of Mercy
+38. Bauhaus
+39. Siouxsie and the Banshees
+40. The Birthday Massacre
+41. Lacuna Coil
+42. Within Temptation
+43. Nightwish
+44. Epica
+45. Delain
+46. Xandria
+47. Leaves' Eyes
+48. Sirenia
+49. Tristania
+50. Theatre of Tragedy
+
+These recommendations are based on the user's liking for a diverse range of artists and genres, including alternative, metal, classical, and electronic music.

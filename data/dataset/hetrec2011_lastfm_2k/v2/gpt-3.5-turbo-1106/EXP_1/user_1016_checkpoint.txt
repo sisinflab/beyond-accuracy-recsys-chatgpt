@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smiths
+2. Modest Mouse
+3. Arcade Fire
+4. The Strokes
+5. Vampire Weekend
+6. Interpol
+7. The Killers
+8. Arctic Monkeys
+9. Radiohead
+10. The Flaming Lips
+11. The Black Keys
+12. Phoenix
+13. Tegan and Sara
+14. The xx
+15. Spoon
+16. The Avett Brothers
+17. Death from Above 1979
+18. The War on Drugs
+19. The Vaccines
+20. Foals
+21. The National
+22. The Postal Service
+23. The Shins
+24. The Decemberists
+25. The Mountain Goats
+26. Neutral Milk Hotel
+27. Belle and Sebastian
+28. The New Pornographers
+29. The Magnetic Fields
+30. The Hold Steady
+31. Okkervil River
+32. Frightened Rabbit
+33. The Antlers
+34. Band of Horses
+35. The Walkmen
+36. Grizzly Bear
+37. Fleet Foxes
+38. Beach House
+39. Real Estate
+40. The Drums
+41. The Pains of Being Pure at Heart
+42. Surfer Blood
+43. Wavves
+44. Best Coast
+45. Cloud Nothings
+46. Japandroids
+47. Parquet Courts
+48. Car Seat Headrest
+49. Courtney Barnett
+50. Mitski
+
+These recommendations are based on the user's liking of indie, alternative, and emo bands, and include similar artists and bands that are popular within the same music genres.

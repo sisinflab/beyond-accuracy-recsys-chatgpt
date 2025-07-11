@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. Evanescence
+3. Lacuna Coil
+4. Nightwish
+5. Within Temptation
+6. Marilyn Manson
+7. The Cranberries
+8. Garbage
+9. The Cardigans
+10. Placebo
+11. The Smashing Pumpkins
+12. My Chemical Romance
+13. Paramore
+14. 30 Seconds to Mars
+15. The Offspring
+16. Green Day
+17. Sum 41
+18. Blink-182
+19. Good Charlotte
+20. Simple Plan
+21. All Time Low
+22. Fall Out Boy
+23. Panic! At The Disco
+24. The Killers
+25. Arctic Monkeys
+26. Muse
+27. Radiohead
+28. Oasis
+29. The Strokes
+30. Franz Ferdinand
+31. The White Stripes
+32. The Black Keys
+33. Arctic Monkeys
+34. Cage The Elephant
+35. Tame Impala
+36. Foals
+37. The Neighbourhood
+38. Arctic Monkeys
+39. The 1975
+40. Catfish and the Bottlemen
+41. Hozier
+42. Bastille
+43. Imagine Dragons
+44. Twenty One Pilots
+45. Foster The People
+46. Vampire Weekend
+47. The Kooks
+48. Two Door Cinema Club
+49. Phoenix
+50. Kings of Leon
+
+These recommendations are based on the user's liking of rock, metal, and alternative artists, and include similar bands and artists within those genres.

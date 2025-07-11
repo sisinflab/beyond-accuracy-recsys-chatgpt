@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 913:
+
+1. Muse
+2. Radiohead
+3. The Killers
+4. Arctic Monkeys
+5. Linkin Park
+6. System of a Down
+7. Death Cab for Cutie
+8. Foo Fighters
+9. Yeah Yeah Yeahs
+10. The White Stripes
+11. Red Hot Chili Peppers
+12. Kasabian
+13. Gwen Stefani
+14. Maxïmo Park
+15. Blur
+16. Editors
+17. Travis
+18. Manic Street Preachers
+19. Feeder
+20. Gorillaz
+21. Interpol
+22. Nirvana
+23. Iron Maiden
+24. Led Zeppelin
+25. Metallica
+26. Pearl Jam
+27. a-ha
+28. Björk
+29. Daft Punk
+30. Nine Inch Nails
+31. Kelly Clarkson
+32. All Time Low
+33. P!nk
+34. Avenged Sevenfold
+35. My Chemical Romance
+36. Green Day
+37. The Cure
+38. Franz Ferdinand
+39. Nickelback
+40. Bloc Party
+41. Keane
+42. Death Cab for Cutie
+43. Papa Roach
+44. Mindless Self Indulgence
+45. The Offspring
+46. Korn
+47. Stereophonics
+48. Oasis
+49. Garbage
+50. The Smashing Pumpkins
+
+These recommendations are based on the user's liking of similar artists and their preferences.

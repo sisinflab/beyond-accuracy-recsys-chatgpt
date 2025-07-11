@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The Cure
+3. R.E.M.
+4. Oasis
+5. The Flaming Lips
+6. Modest Mouse
+7. The National
+8. The Strokes
+9. Interpol
+10. Spoon
+11. Death Cab for Cutie
+12. The Shins
+13. Wilco
+14. Neutral Milk Hotel
+15. The Decemberists
+16. Sufjan Stevens
+17. Vampire Weekend
+18. The War on Drugs
+19. Tame Impala
+20. Arctic Monkeys
+21. LCD Soundsystem
+22. Yeah Yeah Yeahs
+23. Franz Ferdinand
+24. Bloc Party
+25. The Libertines
+26. The White Stripes
+27. Kings of Leon
+28. The Black Keys
+29. Foals
+30. MGMT
+31. Phoenix
+32. Foster the People
+33. Two Door Cinema Club
+34. Alt-J
+35. Hozier
+36. Cage the Elephant
+37. Florence + The Machine
+38. The Lumineers
+39. Mumford & Sons
+40. Imagine Dragons
+41. Of Monsters and Men
+42. Haim
+43. CHVRCHES
+44. Bastille
+45. The 1975
+46. Lorde
+47. Lana Del Rey
+48. Florence + The Machine
+49. Hozier
+50. Cage the Elephant
+
+These recommendations are based on the user's liking of indie, alternative, and rock artists, and are aimed at providing a diverse range of similar artists for the user to explore.

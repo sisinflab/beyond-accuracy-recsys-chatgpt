@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pixies
+2. Talking Heads
+3. The Stooges
+4. Television
+5. Patti Smith
+6. The Clash
+7. Iggy Pop
+8. New York Dolls
+9. The Modern Lovers
+10. X-Ray Spex
+11. The Slits
+12. The Damned
+13. The Buzzcocks
+14. The Replacements
+15. The Flamin' Groovies
+16. The Feelies
+17. Gang of Four
+18. The Jesus and Mary Chain
+19. The Cramps
+20. The Gun Club
+21. The Birthday Party
+22. The Fall
+23. The Chameleons
+24. Echo & the Bunnymen
+25. The Smiths
+26. Bauhaus
+27. The Cure
+28. The Sisters of Mercy
+29. The Birthday Party
+30. The Church
+31. The Psychedelic Furs
+32. The Sound
+33. The Chills
+34. The Clean
+35. The Verlaines
+36. The Bats
+37. The Go-Betweens
+38. The Triffids
+39. The Feelies
+40. The dB's
+41. The Raincoats
+42. The Slits
+43. The Rain Parade
+44. The Dream Syndicate
+45. The Gun Club
+46. The Scientists
+47. The Saints
+48. The Birthday Party
+49. The Church
+50. The Chills
+
+These recommendations are based on the user's liking for artists with similar styles and genres.

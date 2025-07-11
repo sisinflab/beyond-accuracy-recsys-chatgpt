@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. It by Stephen King
+2. Pet Sematary by Stephen King
+3. The Shining by Stephen King
+4. 11/22/63 by Stephen King
+5. The Stand by Stephen King
+6. Salem's Lot by Stephen King
+7. Doctor Sleep by Stephen King
+8. The Outsider by Stephen King
+9. The Dark Tower series by Stephen King
+10. The Girl Who Loved Tom Gordon by Stephen King
+11. Bag of Bones by Stephen King
+12. The Green Mile by Stephen King
+13. The Tommyknockers by Stephen King
+14. Needful Things by Stephen King
+15. The Talisman by Stephen King and Peter Straub
+16. Duma Key by Stephen King
+17. Lisey's Story by Stephen King
+18. Joyland by Stephen King
+19. The Institute by Stephen King
+20. Firestarter by Stephen King
+21. Cujo by Stephen King
+22. Christine by Stephen King
+23. The Dark Half by Stephen King
+24. Gerald's Game by Stephen King
+25. Dolores Claiborne by Stephen King
+26. Insomnia by Stephen King
+27. Rose Madder by Stephen King
+28. The Eyes of the Dragon by Stephen King
+29. The Regulators by Richard Bachman (Stephen King)
+30. The Girl Who Loved Tom Gordon by Stephen King
+31. The Colorado Kid by Stephen King
+32. The Long Walk by Stephen King
+33. Desperation by Stephen King
+34. Misery by Stephen King
+35. Carrie by Stephen King
+36. The Running Man by Stephen King
+37. Night Shift by Stephen King
+38. The Dead Zone by Stephen King
+39. The Fireman by Joe Hill
+40. Heart-Shaped Box by Joe Hill
+41. NOS4A2 by Joe Hill
+42. Horns by Joe Hill
+43. The Girl with All the Gifts by M.R. Carey
+44. Bird Box by Josh Malerman
+45. The Passage by Justin Cronin
+46. The Road by Cormac McCarthy
+47. The Handmaid's Tale by Margaret Atwood
+48. Sharp Objects by Gillian Flynn
+49. Dark Places by Gillian Flynn
+50. Gone Girl by Gillian Flynn
+
+These recommendations are based on the user's interest in Stephen King's books and similar genres.

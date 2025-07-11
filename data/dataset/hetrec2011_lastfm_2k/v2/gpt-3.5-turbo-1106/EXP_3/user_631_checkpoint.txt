@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 631:
+
+1. Oasis
+2. Queens of the Stone Age
+3. The Killers
+4. Kings of Leon
+5. Red Hot Chili Peppers
+6. Linkin Park
+7. Paramore
+8. MGMT
+9. Florence + the Machine
+10. Amy Winehouse
+11. Daft Punk
+12. Friendly Fires
+13. Kasabian
+14. The Hives
+15. Jet
+16. The Libertines
+17. Placebo
+18. The Decemberists
+19. Elliott Smith
+20. Ramones
+21. The Strokes
+22. Arctic Monkeys
+23. Muse
+24. Franz Ferdinand
+25. The White Stripes
+26. The Offspring
+27. Foo Fighters
+28. Nirvana
+29. The Beatles
+30. Radiohead
+31. U2
+32. Led Zeppelin
+33. Queen
+34. AC/DC
+35. Metallica
+36. Judas Priest
+37. Megadeth
+38. HammerFall
+39. Deep Purple
+40. Aerosmith
+41. Keane
+42. Snow Patrol
+43. Capital Inicial
+44. Los Hermanos
+45. The Kooks
+46. Interpol
+47. The Fratellis
+48. The Last Shadow Puppets
+49. Kaiser Chiefs
+50. System of a Down
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their tastes.

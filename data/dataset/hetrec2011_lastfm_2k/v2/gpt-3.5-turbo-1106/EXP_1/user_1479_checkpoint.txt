@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. Linkin Park
+3. Sum 41
+4. My Chemical Romance
+5. Fall Out Boy
+6. The Used
+7. All Time Low
+8. Paramore
+9. Good Charlotte
+10. Simple Plan
+11. Papa Roach
+12. Three Days Grace
+13. 30 Seconds to Mars
+14. AFI
+15. Taking Back Sunday
+16. The Offspring
+17. Yellowcard
+18. New Found Glory
+19. Jimmy Eat World
+20. The All-American Rejects
+21. Motion City Soundtrack
+22. Angels & Airwaves
+23. Box Car Racer
+24. The Starting Line
+25. The Ataris
+26. Finch
+27. Senses Fail
+28. Hawthorne Heights
+29. Silverstein
+30. Story of the Year
+31. The Academy Is...
+32. Armor for Sleep
+33. The Red Jumpsuit Apparatus
+34. Saosin
+35. Escape the Fate
+36. A Day to Remember
+37. Underoath
+38. Atreyu
+39. Thrice
+40. Alexisonfire
+41. Blessthefall
+42. Bring Me The Horizon
+43. Of Mice & Men
+44. Sleeping with Sirens
+45. Pierce the Veil
+46. Memphis May Fire
+47. Crown the Empire
+48. Issues
+49. Beartooth
+50. The Amity Affliction
+
+These recommendations are based on the user's liking of punk, rock, and alternative music, and include similar artists that they may enjoy.

@@ -1,0 +1,54 @@
+Based on the preferences of user 757, here are the top 50 recommendations for artists:
+
+1. Rihanna
+2. Kid Cudi
+3. David Guetta
+4. Christina Aguilera
+5. Kylie Minogue
+6. Linkin Park
+7. Gwen Stefani
+8. Muse
+9. Avril Lavigne
+10. Alicia Keys
+11. Michael Jackson
+12. Florence + the Machine
+13. Robbie Williams
+14. Amy Winehouse
+15. Beyoncé
+16. Shakira
+17. Enrique Iglesias
+18. Katy Perry
+19. Lady Gaga
+20. Justin Timberlake
+21. Usher
+22. Ne-Yo
+23. Mariah Carey
+24. T.I.
+25. Nicki Minaj
+26. Kanye West
+27. Jay-Z
+28. Chris Brown
+29. Kelly Clarkson
+30. P!nk
+31. Miley Cyrus
+32. Bruno Mars
+33. Timbaland
+34. Britney Spears
+35. Black Eyed Peas
+36. Cheryl Cole
+37. Taio Cruz
+38. Jesse McCartney
+39. Willow Smith
+40. Adam Lambert
+41. James Blunt
+42. Jason Derülo
+43. Blue
+44. Ivete Sangalo
+45. Luis Miguel
+46. Ricky Martin
+47. Paulina Rubio
+48. Allison Iraheta
+49. Taylor Swift
+50. Kings of Leon
+
+These recommendations are based on the similar music preferences of user 757 and are aimed at providing a personalized list of artists that the user may enjoy.

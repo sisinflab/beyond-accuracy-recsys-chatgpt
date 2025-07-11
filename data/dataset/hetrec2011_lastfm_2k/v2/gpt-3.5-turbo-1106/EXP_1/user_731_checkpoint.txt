@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Soilwork
+2. Trivium
+3. Children of Bodom
+4. Killswitch Engage
+5. In Flames
+6. Machine Head
+7. Opeth
+8. Bullet for My Valentine
+9. Alter Bridge
+10. Breaking Benjamin
+11. Lamb of God
+12. Muse
+13. Soundgarden
+14. Metallica
+15. Pink Floyd
+16. Iron Maiden
+17. Creed
+18. Slash
+19. Atreyu
+20. David Gilmour
+21. Hans Zimmer
+22. Fleetwood Mac
+23. a-ha
+24. Neil Young
+25. Roxette
+26. Bruce Springsteen
+27. Riverside
+28. Maroon 5
+29. Biffy Clyro
+30. Avenged Sevenfold
+31. Parkway Drive
+32. Five Finger Death Punch
+33. Amon Amarth
+34. Arch Enemy
+35. Mastodon
+36. Gojira
+37. Pantera
+38. Megadeth
+39. Slayer
+40. Anthrax
+41. Testament
+42. Exodus
+43. Kreator
+44. Overkill
+45. Sepultura
+46. Machine Head
+47. Lamb of God
+48. DevilDriver
+49. Whitechapel
+50. As I Lay Dying
+
+These recommendations are based on the user's liking of similar artists and genres.

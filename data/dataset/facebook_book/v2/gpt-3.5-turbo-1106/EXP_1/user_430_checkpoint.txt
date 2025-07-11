@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Grapes of Wrath by John Steinbeck
+9. The Bell Jar by Sylvia Plath
+10. The Sun Also Rises by Ernest Hemingway
+11. The Stranger by Albert Camus
+12. The Road by Cormac McCarthy
+13. East of Eden by John Steinbeck
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. The Sound and the Fury by William Faulkner
+16. A Farewell to Arms by Ernest Hemingway
+17. The Fountainhead by Ayn Rand
+18. The Plague by Albert Camus
+19. The Idiot by Fyodor Dostoevsky
+20. The Unbearable Lightness of Being by Milan Kundera
+21. The Old Man and the Sea by Ernest Hemingway
+22. Veronika Decides to Die by Paulo Coelho
+23. The Alchemist by Paulo Coelho
+24. Animal Farm by George Orwell
+25. We the Living by Ayn Rand
+26. A Thousand Splendid Suns by Khaled Hosseini
+27. The Picture of Dorian Gray by Oscar Wilde
+28. Sons and Lovers by D.H. Lawrence
+29. Wuthering Heights by Emily Brontë
+30. The Valkyries by Paulo Coelho
+31. The Importance of Being Earnest by Oscar Wilde
+32. The Kite Runner by Khaled Hosseini
+33. The Book Thief by Markus Zusak
+34. The Secret History by Donna Tartt
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Night Circus by Erin Morgenstern
+37. The Goldfinch by Donna Tartt
+38. The Handmaid's Tale by Margaret Atwood
+39. The Secret Life of Bees by Sue Monk Kidd
+40. The Poisonwood Bible by Barbara Kingsolver
+41. The Glass Castle by Jeannette Walls
+42. The Lovely Bones by Alice Sebold
+43. The Help by Kathryn Stockett
+44. The Girl on the Train by Paula Hawkins
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Da Vinci Code by Dan Brown
+47. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+48. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+49. The Road to Character by David Brooks
+50. The Art of Racing in the Rain by Garth Stein
+
+These recommendations are based on the user's interest in classic literature, philosophical themes, and novels with deep psychological and emotional impact.

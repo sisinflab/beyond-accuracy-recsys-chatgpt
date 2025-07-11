@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Do Androids Dream of Electric Sheep? by Philip K. Dick
+3. Snow Crash by Neal Stephenson
+4. Neuromancer by William Gibson
+5. The Handmaid's Tale by Margaret Atwood
+6. Fahrenheit 451 by Ray Bradbury
+7. Dune by Frank Herbert
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Road by Cormac McCarthy
+10. The Stand by Stephen King
+11. The Martian by Andy Weir
+12. Ender's Game by Orson Scott Card
+13. The Left Hand of Darkness by Ursula K. Le Guin
+14. The Dispossessed by Ursula K. Le Guin
+15. Hyperion by Dan Simmons
+16. The Moon is a Harsh Mistress by Robert A. Heinlein
+17. Altered Carbon by Richard K. Morgan
+18. The Diamond Age by Neal Stephenson
+19. The Windup Girl by Paolo Bacigalupi
+20. The City & the City by China Miéville
+21. The Lathe of Heaven by Ursula K. Le Guin
+22. The Three-Body Problem by Cixin Liu
+23. The Quantum Thief by Hannu Rajaniemi
+24. The Peripheral by William Gibson
+25. The Yiddish Policemen's Union by Michael Chabon
+26. The Man in the High Castle by Philip K. Dick
+27. The Fifth Season by N.K. Jemisin
+28. The Power by Naomi Alderman
+29. The Hand of Oberon by Roger Zelazny
+30. The Stars My Destination by Alfred Bester
+31. The Forever War by Joe Haldeman
+32. The Dispossessed by Ursula K. Le Guin
+33. The Left Hand of Darkness by Ursula K. Le Guin
+34. The City & the City by China Miéville
+35. The Lathe of Heaven by Ursula K. Le Guin
+36. The Three-Body Problem by Cixin Liu
+37. The Quantum Thief by Hannu Rajaniemi
+38. The Peripheral by William Gibson
+39. The Yiddish Policemen's Union by Michael Chabon
+40. The Man in the High Castle by Philip K. Dick
+41. The Fifth Season by N.K. Jemisin
+42. The Power by Naomi Alderman
+43. The Hand of Oberon by Roger Zelazny
+44. The Stars My Destination by Alfred Bester
+45. The Forever War by Joe Haldeman
+46. The Dispossessed by Ursula K. Le Guin
+47. The Left Hand of Darkness by Ursula K. Le Guin
+48. The City & the City by China Miéville
+49. The Lathe of Heaven by Ursula K. Le Guin
+50. The Three-Body Problem by Cixin Liu
+
+These recommendations are based on the user's interest in science fiction, dystopian literature, and speculative fiction.

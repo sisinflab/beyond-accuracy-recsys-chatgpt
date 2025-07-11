@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. Paramore
+3. Rihanna
+4. Eminem
+5. Coldplay
+6. Katy Perry
+7. Lady Gaga
+8. Linkin Park
+9. Avril Lavigne
+10. Demi Lovato
+11. Justin Timberlake
+12. Adele
+13. OneRepublic
+14. Britney Spears
+15. Chris Brown
+16. Backstreet Boys
+17. Selena Gomez & the Scene
+18. Adam Lambert
+19. Jordin Sparks
+20. B.o.B
+21. Ke$ha
+22. Glee Cast
+23. Owl City
+24. Three Days Grace
+25. Carter Burwell
+26. Hollywood Undead
+27. All Time Low
+28. McFly
+29. Lindsay Lohan
+30. Carrie Underwood
+31. Natasha Bedingfield
+32. Jack Johnson
+33. Hoobastank
+34. Bon Jovi
+35. Justin Bieber
+36. Ashley Tisdale
+37. Leighton Meester
+38. Jessie J
+39. Phil Collins
+40. P!nk
+41. Mayday Parade
+42. Trey Songz
+43. Dashboard Confessional
+44. Something Corporate
+45. The Spill Canvas
+46. Emarosa
+47. Senses Fail
+48. Automatic Loveletter
+49. Hey Monday
+50. Kate Voegele

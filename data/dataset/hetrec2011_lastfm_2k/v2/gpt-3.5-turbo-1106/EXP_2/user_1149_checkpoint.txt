@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Depeche Mode
+2. The Beatles
+3. Duran Duran
+4. The Cure
+5. New Order
+6. Interpol
+7. Joy Division
+8. Siouxsie and the Banshees
+9. Portishead
+10. The Smiths
+11. Tears for Fears
+12. Manic Street Preachers
+13. The Police
+14. Garbage
+15. George Michael
+16. Chris Cornell
+17. Dead Can Dance
+18. Peter Gabriel
+19. ABBA
+20. Wolfgang Amadeus Mozart
+21. Faith No More
+22. Philip Glass
+23. Madonna
+24. Lady Gaga
+25. Rihanna
+26. Britney Spears
+27. Christina Aguilera
+28. Beyoncé
+29. Shakira
+30. Katy Perry
+31. Avril Lavigne
+32. Taylor Swift
+33. Paramore
+34. Glee Cast
+35. U2
+36. Muse
+37. 30 Seconds to Mars
+38. Pink Floyd
+39. Kylie Minogue
+40. Evanescence
+41. Ke$ha
+42. Coldplay
+43. Blur
+44. Arctic Monkeys
+45. Placebo
+46. The Killers
+47. Nirvana
+48. Iron Maiden
+49. Michael Jackson
+50. Pearl Jam
+
+This ranking is based on the user's liking of similar artists and may not reflect personal preferences.

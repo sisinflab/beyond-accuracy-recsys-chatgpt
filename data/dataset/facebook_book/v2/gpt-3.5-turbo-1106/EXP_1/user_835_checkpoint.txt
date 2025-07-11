@@ -1,0 +1,54 @@
+Based on user 835's preferences, here are the top 50 book recommendations:
+
+1. The Andromeda Strain by Michael Crichton
+2. Hannibal by Thomas Harris
+3. In Cold Blood by Truman Capote
+4. The Psychopath Test by Jon Ronson
+5. Thus Spoke Zarathustra by Friedrich Nietzsche
+6. Crime and Punishment by Fyodor Dostoevsky
+7. The Interpretation of Murder by Jed Rubenfeld
+8. The Stranger by Albert Camus
+9. The Catcher in the Rye by J.D. Salinger
+10. The Shining by Stephen King
+11. The Stand by Stephen King
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Great Gatsby by F. Scott Fitzgerald
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Metamorphosis by Franz Kafka
+17. The Trial by Franz Kafka
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Count of Monte Cristo by Alexandre Dumas
+20. The Odyssey by Homer
+21. The Iliad by Homer
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Hobbit by J.R.R. Tolkien
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Book Thief by Markus Zusak
+26. All Quiet on the Western Front by Erich Maria Remarque
+27. Slaughterhouse-Five by Kurt Vonnegut
+28. Catch-22 by Joseph Heller
+29. The Things They Carried by Tim O'Brien
+30. The Kite Runner by Khaled Hosseini
+31. A Thousand Splendid Suns by Khaled Hosseini
+32. The Road by Cormac McCarthy
+33. 1984 by George Orwell
+34. Brave New World by Aldous Huxley
+35. Fahrenheit 451 by Ray Bradbury
+36. One Flew Over the Cuckoo's Nest by Ken Kesey
+37. The Bell Jar by Sylvia Plath
+38. The Handmaid's Tale by Margaret Atwood
+39. The Hunger Games by Suzanne Collins
+40. Divergent by Veronica Roth
+41. The Maze Runner by James Dashner
+42. Ender's Game by Orson Scott Card
+43. Ready Player One by Ernest Cline
+44. The Martian by Andy Weir
+45. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+46. The War of the Worlds by H.G. Wells
+47. 20,000 Leagues Under the Sea by Jules Verne
+48. The Time Machine by H.G. Wells
+49. Frankenstein by Mary Shelley
+50. Dracula by Bram Stoker
+
+These recommendations are based on similar themes, genres, and authors to the books that user 835 likes.

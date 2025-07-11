@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. One Flew Over the Cuckoo's Nest by Ken Kesey
+6. The Stranger by Albert Camus
+7. Crime and Punishment by Fyodor Dostoevsky
+8. The Road by Cormac McCarthy
+9. The Bell Jar by Sylvia Plath
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Stand by Stephen King
+12. The Brothers Karamazov by Fyodor Dostoevsky
+13. The Shining by Stephen King
+14. The Metamorphosis by Franz Kafka
+15. The Plague by Albert Camus
+16. The Road to Wigan Pier by George Orwell
+17. The Trial by Franz Kafka
+18. The Sound and the Fury by William Faulkner
+19. The Heart is a Lonely Hunter by Carson McCullers
+20. The Handmaid's Tale by Margaret Atwood
+21. The Grapes of Wrath by John Steinbeck
+22. The Sun Also Rises by Ernest Hemingway
+23. The Old Man and the Sea by Ernest Hemingway
+24. The Great Gatsby by F. Scott Fitzgerald
+25. The Lord of the Rings by J.R.R. Tolkien
+26. The Hobbit by J.R.R. Tolkien
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Martian by Andy Weir
+29. The Hunger Games by Suzanne Collins
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Da Vinci Code by Dan Brown
+32. The Count of Monte Cristo by Alexandre Dumas
+33. The Book Thief by Markus Zusak
+34. The Alchemist by Paulo Coelho
+35. The Adventures of Huckleberry Finn by Mark Twain
+36. The Road Less Traveled by M. Scott Peck
+37. The Power of Now by Eckhart Tolle
+38. The Art of War by Sun Tzu
+39. The Prince by Niccolò Machiavelli
+40. The Odyssey by Homer
+41. The Iliad by Homer
+42. The Divine Comedy by Dante Alighieri
+43. The Canterbury Tales by Geoffrey Chaucer
+44. The Aeneid by Virgil
+45. Siddhartha by Hermann Hesse
+46. Moby-Dick by Herman Melville
+47. Lolita by Vladimir Nabokov
+48. Les Misérables by Victor Hugo
+49. Jane Eyre by Charlotte Brontë
+50. Great Expectations by Charles Dickens
+
+These recommendations are based on similar themes, genres, and authors to the books that user 235 likes.

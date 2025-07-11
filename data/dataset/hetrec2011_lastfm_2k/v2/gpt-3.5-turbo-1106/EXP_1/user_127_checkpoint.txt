@@ -1,0 +1,54 @@
+Based on user 127's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Guns N' Roses
+3. Iron Maiden
+4. Foo Fighters
+5. Green Day
+6. Red Hot Chili Peppers
+7. Linkin Park
+8. System of a Down
+9. Slipknot
+10. Pearl Jam
+11. AC/DC
+12. Queen
+13. The Rolling Stones
+14. Black Sabbath
+15. Led Zeppelin
+16. The Offspring
+17. Rammstein
+18. Korn
+19. Alice in Chains
+20. Soundgarden
+21. Stone Temple Pilots
+22. Marilyn Manson
+23. Judas Priest
+24. Def Leppard
+25. Motörhead
+26. The Smashing Pumpkins
+27. Nine Inch Nails
+28. The White Stripes
+29. The Strokes
+30. Arctic Monkeys
+31. The Killers
+32. Muse
+33. Paramore
+34. My Chemical Romance
+35. Evanescence
+36. Avril Lavigne
+37. Fall Out Boy
+38. Panic! At The Disco
+39. All Time Low
+40. Bring Me The Horizon
+41. Sleeping With Sirens
+42. Pierce The Veil
+43. Asking Alexandria
+44. A Day To Remember
+45. Of Mice & Men
+46. Beartooth
+47. Architects
+48. Parkway Drive
+49. Bullet For My Valentine
+50. Trivium
+
+These recommendations are based on the user's liking of rock and metal bands, as well as some alternative and pop-rock artists.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 616:
+
+1. Iron Maiden
+2. Metallica
+3. Megadeth
+4. Slayer
+5. Pantera
+6. Avenged Sevenfold
+7. Dream Theater
+8. Machine Head
+9. Lamb of God
+10. Testament
+11. Trivium
+12. Annihilator
+13. Exodus
+14. In Flames
+15. Korpiklaani
+16. Amon Amarth
+17. Slipknot
+18. Disturbed
+19. Five Finger Death Punch
+20. Godsmack
+21. Alter Bridge
+22. Motörhead
+23. Dope
+24. Slash
+25. 3 Doors Down
+26. Tenacious D
+27. Britney Spears
+28. Lady Gaga
+29. Rihanna
+30. Christina Aguilera
+31. Paramore
+32. Madonna
+33. Shakira
+34. Avril Lavigne
+35. Katy Perry
+36. Taylor Swift
+37. Beyoncé
+38. Miley Cyrus
+39. Ke$ha
+40. Kelly Clarkson
+41. Pink Floyd
+42. U2
+43. Muse
+44. 30 Seconds to Mars
+45. Evanescence
+46. Glee Cast
+47. The Beatles
+48. Nirvana
+49. Linkin Park
+50. My Chemical Romance
+
+These recommendations are based on the user's liking of similar artists and are re-ranked to reflect their preferences.

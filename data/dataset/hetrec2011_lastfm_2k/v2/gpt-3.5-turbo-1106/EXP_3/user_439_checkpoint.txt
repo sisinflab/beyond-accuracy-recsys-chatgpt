@@ -1,0 +1,54 @@
+Based on the user's preferences for Eminem, Nas, Mobb Deep, Jay-Z, Lupe Fiasco, 2Pac, The Game, Ghostface Killah, Mos Def, DMX, and Gang Starr, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. Kanye West
+2. Notorious B.I.G.
+3. Snoop Dogg
+4. Dr. Dre
+5. Raekwon
+6. Wu-Tang Clan
+7. 50 Cent
+8. T.I.
+9. Busta Rhymes
+10. Ice Cube
+11. Kid Cudi
+12. The Game
+13. Jay-Z
+14. Nas
+15. Eminem
+16. 2Pac
+17. Mos Def
+18. Ghostface Killah
+19. DMX
+20. Lupe Fiasco
+21. Common
+22. Madlib
+23. The Beatles
+24. The Police
+25. AC/DC
+26. Black Sabbath
+27. Led Zeppelin
+28. Van Halen
+29. Muse
+30. Linkin Park
+31. 30 Seconds to Mars
+32. Megadeth
+33. B.o.B
+34. P!nk
+35. Lady Gaga
+36. Rihanna
+37. Beyoncé
+38. Drake
+39. Lil' Wayne
+40. Nicki Minaj
+41. Chris Brown
+42. Timbaland
+43. David Guetta
+44. Katy Perry
+45. The Pretty Reckless
+46. The Pussycat Dolls
+47. Christina Aguilera
+48. Ke$ha
+49. Jesse McCartney
+50. Girlicious
+
+This ranking is based on the similarity of the recommended artists to the user's known preferences.

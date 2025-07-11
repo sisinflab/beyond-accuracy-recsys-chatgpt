@@ -1,0 +1,54 @@
+Based on user 1100's preferences, here are the top 50 recommendations:
+
+1. Tom Waits
+2. Primus
+3. Nick Cave & The Bad Seeds
+4. Radiohead
+5. David Bowie
+6. Sonic Youth
+7. Talking Heads
+8. PJ Harvey
+9. Tool
+10. The Flaming Lips
+11. Depeche Mode
+12. Sigur Rós
+13. The Mars Volta
+14. Queens of the Stone Age
+15. Björk
+16. The Velvet Underground
+17. The Cure
+18. King Crimson
+19. David Lynch
+20. The Jesus Lizard
+21. Ministry
+22. The Birthday Party
+23. The Smiths
+24. My Bloody Valentine
+25. Joy Division
+26. Bauhaus
+27. The Black Angels
+28. The Knife
+29. The Horrors
+30. The War on Drugs
+31. Interpol
+32. The National
+33. Grinderman
+34. The Brian Jonestown Massacre
+35. The Black Keys
+36. The Kills
+37. The White Stripes
+38. The Strokes
+39. Arctic Monkeys
+40. Tame Impala
+41. MGMT
+42. Vampire Weekend
+43. LCD Soundsystem
+44. Arcade Fire
+45. Yeah Yeah Yeahs
+46. The xx
+47. Alt-J
+48. Foals
+49. Glass Animals
+50. Beach House
+
+These recommendations are based on the user's liking of similar artists and genres.

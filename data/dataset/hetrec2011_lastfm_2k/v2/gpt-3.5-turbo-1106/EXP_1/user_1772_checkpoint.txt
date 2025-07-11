@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Blink-182
+2. The White Stripes
+3. Arctic Monkeys
+4. Muse
+5. The Killers
+6. Gorillaz
+7. The Smashing Pumpkins
+8. The Black Keys
+9. Weezer
+10. The Hives
+11. Interpol
+12. Modest Mouse
+13. The Vines
+14. The Raconteurs
+15. Queens of the Stone Age
+16. Franz Ferdinand
+17. The Kooks
+18. The Libertines
+19. Cage the Elephant
+20. The Cranberries
+21. The Flaming Lips
+22. The Fratellis
+23. The Bravery
+24. The Vaccines
+25. The Wombats
+26. The Strokes
+27. The Verve
+28. The Shins
+29. The National
+30. The War on Drugs
+31. The Decemberists
+32. The Black Angels
+33. The Jesus and Mary Chain
+34. The Psychedelic Furs
+35. The Stone Roses
+36. The Charlatans
+37. The Smiths
+38. The Cure
+39. The Jesus and Mary Chain
+40. The Velvet Underground
+41. The Brian Jonestown Massacre
+42. The Dandy Warhols
+43. The Horrors
+44. The Kills
+45. The Raveonettes
+46. The Jesus and Mary Chain
+47. The Jesus and Mary Chain
+48. The Jesus and Mary Chain
+49. The Jesus and Mary Chain
+50. The Jesus and Mary Chain
+
+These recommendations are based on the user's liking of alternative rock, indie rock, and punk rock artists.

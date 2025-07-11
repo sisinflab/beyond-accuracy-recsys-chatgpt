@@ -1,0 +1,52 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Pink Floyd
+2. Nirvana
+3. Metallica
+4. The Beatles
+5. Queen
+6. The Rolling Stones
+7. Led Zeppelin
+8. AC/DC
+9. Black Sabbath
+10. Iron Maiden
+11. Eagles
+12. Supertramp
+13. Dire Straits
+14. The Police
+15. Creedence Clearwater Revival
+16. The Cure
+17. Radiohead
+18. Muse
+19. Coldplay
+20. The Killers
+21. U2
+22. Pearl Jam
+23. Nine Inch Nails
+24. System of a Down
+25. Linkin Park
+26. Green Day
+27. My Chemical Romance
+28. Stone Sour
+29. Avenged Sevenfold
+30. Black Eyed Peas
+31. Michael Jackson
+32. Johnny Cash
+33. Neil Young
+34. Elton John
+35. Santana
+36. Simon & Garfunkel
+37. Billy Joel
+38. The Beatles
+39. Nirvana
+40. Metallica
+41. AC/DC
+42. Queen
+43. Scorpions
+44. The Rolling Stones
+45. Electric Light Orchestra
+46. Anathema
+47. Blind Guardian
+48. Agalloch
+49. God Is an Astronaut
+50. Death

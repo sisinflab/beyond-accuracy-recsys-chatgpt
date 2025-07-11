@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Bell Jar by Sylvia Plath
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. Fahrenheit 451 by Ray Bradbury
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Stranger by Albert Camus
+15. The Alchemist by Paulo Coelho
+16. The Sun Also Rises by Ernest Hemingway
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Grapes of Wrath by John Steinbeck
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. Crime and Punishment by Fyodor Dostoevsky
+22. The Count of Monte Cristo by Alexandre Dumas
+23. The Name of the Wind by Patrick Rothfuss
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Night Circus by Erin Morgenstern
+26. The Book Thief by Markus Zusak
+27. The Secret History by Donna Tartt
+28. The Goldfinch by Donna Tartt
+29. The Kite Runner by Khaled Hosseini
+30. A Thousand Splendid Suns by Khaled Hosseini
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Help by Kathryn Stockett
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Lovely Bones by Alice Sebold
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Handmaid's Tale by Margaret Atwood
+38. The Road by Cormac McCarthy
+39. The Glass Castle by Jeannette Walls
+40. The Nightingale by Kristin Hannah
+41. The Goldfinch by Donna Tartt
+42. The Book Thief by Markus Zusak
+43. The Night Circus by Erin Morgenstern
+44. The Shadow of the Wind by Carlos Ruiz Zafón
+45. The Name of the Wind by Patrick Rothfuss
+46. The Count of Monte Cristo by Alexandre Dumas
+47. The Brothers Karamazov by Fyodor Dostoevsky
+48. Crime and Punishment by Fyodor Dostoevsky
+49. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+50. The Grapes of Wrath by John Steinbeck
+
+These recommendations are based on the user's interest in a mix of classic literature, contemporary fiction, and some popular genres.

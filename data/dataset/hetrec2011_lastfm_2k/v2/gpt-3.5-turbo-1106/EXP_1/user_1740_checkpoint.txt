@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Massive Attack
+2. Portishead
+3. Goldfrapp
+4. Air
+5. Thievery Corporation
+6. Zero 7
+7. Morcheeba
+8. Hooverphonic
+9. Lamb
+10. Sneaker Pimps
+11. Tricky
+12. Moby
+13. The xx
+14. Little Dragon
+15. FKA twigs
+16. Chet Faker
+17. Glass Animals
+18. Jungle
+19. Rhye
+20. SOHN
+21. James Blake
+22. SBTRKT
+23. Caribou
+24. Tycho
+25. Boards of Canada
+26. Bon Iver
+27. Alt-J
+28. Tame Impala
+29. Beach House
+30. Grimes
+31. Purity Ring
+32. Sylvan Esso
+33. Washed Out
+34. Chromatics
+35. Beach House
+36. The Knife
+37. Fever Ray
+38. Robyn
+39. Lykke Li
+40. Bat for Lashes
+41. Chairlift
+42. Santigold
+43. St. Vincent
+44. Warpaint
+45. HAIM
+46. London Grammar
+47. AlunaGeorge
+48. Banks
+49. Lorde
+50. Lana Del Rey
+
+These recommendations are based on the user's liking of electronic, alternative, and indie artists, as well as their affinity for unique and experimental sounds.

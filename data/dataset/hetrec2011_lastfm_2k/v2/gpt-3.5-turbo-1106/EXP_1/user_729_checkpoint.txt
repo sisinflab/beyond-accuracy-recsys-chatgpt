@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Radiohead
+3. Nine Inch Nails
+4. New Order
+5. The Smashing Pumpkins
+6. Joy Division
+7. Interpol
+8. The Sisters of Mercy
+9. Editors
+10. IAMX
+11. The Bravery
+12. The Chemical Brothers
+13. Garbage
+14. The Jesus and Mary Chain
+15. Siouxsie and the Banshees
+16. The Smiths
+17. Echo & the Bunnymen
+18. The Psychedelic Furs
+19. The Chameleons
+20. The Mission
+21. Clan of Xymox
+22. The Birthday Massacre
+23. Covenant
+24. Blutengel
+25. Ashbury Heights
+26. Wolfsheim
+27. Camouflage
+28. De/Vision
+29. Mesh
+30. Apoptygma Berzerk
+31. And One
+32. VNV Nation
+33. She Wants Revenge
+34. The Crüxshadows
+35. L'Âme Immortelle
+36. Rammstein
+37. Eisbrecher
+38. In Extremo
+39. Tarja
+40. Nightwish
+41. Within Temptation
+42. Epica
+43. Lacuna Coil
+44. Delain
+45. Xandria
+46. Sirenia
+47. Leaves' Eyes
+48. Tristania
+49. Theatre of Tragedy
+50. After Forever
+
+These recommendations are based on similar genres, themes, and characteristics of the user's liked artists.

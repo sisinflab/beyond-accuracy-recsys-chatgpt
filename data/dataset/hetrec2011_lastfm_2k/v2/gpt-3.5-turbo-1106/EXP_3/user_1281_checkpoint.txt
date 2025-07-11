@@ -1,0 +1,54 @@
+Based on user 1281's preferences, here are the top 50 recommendations:
+
+1. Tool
+2. Pink Floyd
+3. Metallica
+4. The Beatles
+5. Marilyn Manson
+6. In Flames
+7. Disturbed
+8. Coldplay
+9. Rammstein
+10. Rush
+11. Three Days Grace
+12. Linkin Park
+13. Rise Against
+14. Shinedown
+15. Breaking Benjamin
+16. Nickelback
+17. Green Day
+18. Devin Townsend
+19. Pendulum
+20. Arch Enemy
+21. Cold
+22. Chris Cornell
+23. Daughtry
+24. Blue October
+25. Our Lady Peace
+26. Jimmy Eat World
+27. Billy Talent
+28. Lostprophets
+29. Hoobastank
+30. Meshuggah
+31. VNV Nation
+32. Adema
+33. Blackfield
+34. Amorphis
+35. Sonata Arctica
+36. Three Days Grace
+37. Rise Against
+38. Billy Talent
+39. Lostprophets
+40. Hoobastank
+41. Linkin Park
+42. Shinedown
+43. VNV Nation
+44. Adema
+45. Blackfield
+46. Amorphis
+47. Sonata Arctica
+48. Meshuggah
+49. Rammstein
+50. Our Lady Peace
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

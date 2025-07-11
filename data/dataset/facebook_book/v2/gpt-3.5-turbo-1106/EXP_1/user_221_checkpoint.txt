@@ -1,0 +1,54 @@
+Based on the preferences of user 221, here are the top 50 book recommendations:
+
+1. City of Bones by Cassandra Clare
+2. Clockwork Angel by Cassandra Clare
+3. The Mortal Instruments series by Cassandra Clare
+4. The Infernal Devices series by Cassandra Clare
+5. The Bane Chronicles by Cassandra Clare
+6. The Shadowhunter's Codex by Cassandra Clare
+7. The Dark Artifices series by Cassandra Clare
+8. The Red Scrolls of Magic by Cassandra Clare
+9. The Lost Book of the White by Cassandra Clare
+10. The Last Hours series by Cassandra Clare
+11. The Eldest Curses series by Cassandra Clare
+12. The Iron Trial by Holly Black and Cassandra Clare
+13. The Copper Gauntlet by Holly Black and Cassandra Clare
+14. The Bronze Key by Holly Black and Cassandra Clare
+15. The Silver Mask by Holly Black and Cassandra Clare
+16. The Golden Tower by Holly Black and Cassandra Clare
+17. The Spiderwick Chronicles by Holly Black and Tony DiTerlizzi
+18. The Coldest Girl in Coldtown by Holly Black
+19. The Darkest Part of the Forest by Holly Black
+20. White Cat by Holly Black
+21. Red Glove by Holly Black
+22. Black Heart by Holly Black
+23. The Cruel Prince by Holly Black
+24. The Wicked King by Holly Black
+25. The Queen of Nothing by Holly Black
+26. The Folk of the Air series by Holly Black
+27. The Modern Faerie Tales series by Holly Black
+28. The Curse Workers series by Holly Black
+29. The Diviners by Libba Bray
+30. Lair of Dreams by Libba Bray
+31. Before the Devil Breaks You by Libba Bray
+32. The King of Crows by Libba Bray
+33. The Diviners series by Libba Bray
+34. Beauty Queens by Libba Bray
+35. Going Bovine by Libba Bray
+36. A Great and Terrible Beauty by Libba Bray
+37. Rebel Angels by Libba Bray
+38. The Sweet Far Thing by Libba Bray
+39. The Gemma Doyle Trilogy by Libba Bray
+40. The Raven Boys by Maggie Stiefvater
+41. The Dream Thieves by Maggie Stiefvater
+42. Blue Lily, Lily Blue by Maggie Stiefvater
+43. The Raven King by Maggie Stiefvater
+44. The Raven Cycle series by Maggie Stiefvater
+45. Shiver by Maggie Stiefvater
+46. Linger by Maggie Stiefvater
+47. Forever by Maggie Stiefvater
+48. The Wolves of Mercy Falls series by Maggie Stiefvater
+49. All the Crooked Saints by Maggie Stiefvater
+50. Call Down the Hawk by Maggie Stiefvater
+
+These recommendations are based on the similar themes and genres of the books that user 221 likes.

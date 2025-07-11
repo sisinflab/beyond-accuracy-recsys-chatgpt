@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Children of Bodom
+2. In Flames
+3. Soilwork
+4. Dark Tranquillity
+5. Arch Enemy
+6. Opeth
+7. Insomnium
+8. Katatonia
+9. Symphony X
+10. Epica
+11. Sonata Arctica
+12. Ensiferum
+13. Wintersun
+14. Kalmah
+15. Eluveitie
+16. Amaranthe
+17. Omnium Gatherum
+18. Stratovarius
+19. Sabaton
+20. Nightwish
+21. Evergrey
+22. Kamelot
+23. Iced Earth
+24. Anathema
+25. Helloween
+26. Symphony X
+27. Blind Guardian
+28. Rhapsody of Fire
+29. DragonForce
+30. Powerwolf
+31. Sabaton
+32. HammerFall
+33. Edguy
+34. Avantasia
+35. Gamma Ray
+36. Primal Fear
+37. Saxon
+38. Accept
+39. Grave Digger
+40. Running Wild
+41. U.D.O.
+42. Doro
+43. Sodom
+44. Kreator
+45. Destruction
+46. Tankard
+47. Overkill
+48. Exodus
+49. Testament
+50. Annihilator
+
+These recommendations are based on the user's liking of similar artists and genres.

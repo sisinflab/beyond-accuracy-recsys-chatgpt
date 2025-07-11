@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ariana Grande
+2. Taylor Swift
+3. Justin Bieber
+4. Selena Gomez
+5. Demi Lovato
+6. Nicki Minaj
+7. Blackpink
+8. EXO
+9. Red Velvet
+10. TWICE
+11. Bruno Mars
+12. Dua Lipa
+13. Zara Larsson
+14. Camila Cabello
+15. Shawn Mendes
+16. Drake
+17. The Weeknd
+18. Ed Sheeran
+19. Adele
+20. Coldplay
+21. Imagine Dragons
+22. One Direction
+23. Fifth Harmony
+24. Little Mix
+25. NCT 127
+26. Monsta X
+27. Seventeen
+28. GOT7
+29. Mamamoo
+30. IU
+31. Sunmi
+32. Taeyeon
+33. Hyuna
+34. Jay Park
+35. NCT Dream
+36. Stray Kids
+37. ATEEZ
+38. ITZY
+39. Everglow
+40. (G)I-DLE
+41. SuperM
+42. BTS
+43. BLACKPINK
+44. ITZY
+45. Mamamoo
+46. DAY6
+47. TXT
+48. IZ*ONE
+49. LOONA
+50. ATEEZ
+
+These recommendations are based on the user's liking of pop, R&B, and K-pop artists, as well as similar artists and groups within those genres.

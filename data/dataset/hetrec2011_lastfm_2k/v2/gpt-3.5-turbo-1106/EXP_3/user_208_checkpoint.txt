@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. Metallica
+2. Opeth
+3. In Flames
+4. Dark Tranquillity
+5. Kreator
+6. Children of Bodom
+7. Testament
+8. Exodus
+9. Overkill
+10. Anthrax
+11. Megadeth
+12. Avantasia
+13. Dream Theater
+14. Rammstein
+15. System of a Down
+16. Behemoth
+17. Immortal
+18. Slayer
+19. Dimmu Borgir
+20. Arch Enemy
+21. Death
+22. Pantera
+23. Sepultura
+24. Sodom
+25. Destruction
+26. Annihilator
+27. Iron Maiden
+28. Judas Priest
+29. Black Sabbath
+30. Motörhead
+31. Venom
+32. Korpiklaani
+33. In Extremo
+34. Soilwork
+35. Avenged Sevenfold
+36. The Black Keys
+37. AC/DC
+38. Van Halen
+39. Deep Purple
+40. Led Zeppelin
+41. Pink Floyd
+42. The Rolling Stones
+43. KISS
+44. The Doors
+45. Frank Zappa
+46. Bruce Dickinson
+47. The Beatles
+48. T. Rex
+49. King Crimson
+50. Jethro Tull
+
+This ranking is based on the user's existing preferences and aims to provide recommendations that align with their current tastes.

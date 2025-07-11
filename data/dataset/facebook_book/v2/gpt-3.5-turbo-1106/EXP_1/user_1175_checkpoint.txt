@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Bell Jar by Sylvia Plath
+5. Brave New World by Aldous Huxley
+6. The Kite Runner by Khaled Hosseini
+7. The Book Thief by Markus Zusak
+8. The Road by Cormac McCarthy
+9. The Grapes of Wrath by John Steinbeck
+10. The Handmaid's Tale by Margaret Atwood
+11. Slaughterhouse-Five by Kurt Vonnegut
+12. The Picture of Dorian Gray by Oscar Wilde
+13. One Hundred Years of Solitude by Gabriel Garcia Marquez
+14. The Stranger by Albert Camus
+15. Crime and Punishment by Fyodor Dostoevsky
+16. The Sun Also Rises by Ernest Hemingway
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. The Count of Monte Cristo by Alexandre Dumas
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. The Idiot by Fyodor Dostoevsky
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Metamorphosis by Franz Kafka
+24. The Trial by Franz Kafka
+25. The Stranger by Albert Camus
+26. The Plague by Albert Camus
+27. The Unbearable Lightness of Being by Milan Kundera
+28. The Alchemist by Paulo Coelho
+29. Veronika Decides to Die by Paulo Coelho
+30. The Zahir by Paulo Coelho
+31. The Devil and Miss Prym by Paulo Coelho
+32. The Book of Laughter and Forgetting by Milan Kundera
+33. The Unbearable Lightness of Being by Milan Kundera
+34. The Joke by Milan Kundera
+35. The Wind-Up Bird Chronicle by Haruki Murakami
+36. Kafka on the Shore by Haruki Murakami
+37. Norwegian Wood by Haruki Murakami
+38. 1Q84 by Haruki Murakami
+39. The Elephant Vanishes by Haruki Murakami
+40. The Wind-Up Bird Chronicle by Haruki Murakami
+41. The Handmaid's Tale by Margaret Atwood
+42. Oryx and Crake by Margaret Atwood
+43. The Blind Assassin by Margaret Atwood
+44. Cat's Eye by Margaret Atwood
+45. Alias Grace by Margaret Atwood
+46. The Robber Bride by Margaret Atwood
+47. The Heart Goes Last by Margaret Atwood
+48. The Testaments by Margaret Atwood
+49. The Year of the Flood by Margaret Atwood
+50. MaddAddam by Margaret Atwood
+
+These recommendations are based on the user's interest in literary fiction, dystopian themes, and philosophical novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1261:
+
+1. Björk
+2. Radiohead
+3. Arcade Fire
+4. Florence + the Machine
+5. The xx
+6. Death Cab for Cutie
+7. Sufjan Stevens
+8. MGMT
+9. Fleet Foxes
+10. Beirut
+11. Regina Spektor
+12. Interpol
+13. Blonde Redhead
+14. Metric
+15. Cat Power
+16. Beck
+17. Fiona Apple
+18. Feist
+19. Kings of Leon
+20. Portishead
+21. Goldfrapp
+22. Yann Tiersen
+23. Marisa Monte
+24. Chico Buarque
+25. Caetano Veloso
+26. Elis Regina
+27. Ella Fitzgerald
+28. Oasis
+29. Coldplay
+30. She Wants Revenge
+31. Camera Obscura
+32. Devendra Banhart
+33. Peter Bjorn and John
+34. Eisley
+35. Britney Spears
+36. Lady Gaga
+37. Madonna
+38. Rihanna
+39. Christina Aguilera
+40. Beyoncé
+41. Paramore
+42. Glee Cast
+43. Katy Perry
+44. Avril Lavigne
+45. Taylor Swift
+46. Miley Cyrus
+47. Shakira
+48. Pink Floyd
+49. Muse
+50. The Beatles
+
+These recommendations are based on similar artists liked by user 1261 and are ranked accordingly.

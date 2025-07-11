@@ -1,0 +1,54 @@
+Based on user 15's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Silmarillion by J.R.R. Tolkien
+3. The Chronicles of Narnia by C.S. Lewis
+4. The Alchemist by Paulo Coelho
+5. The Secret by Rhonda Byrne
+6. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+7. Cosmos by Carl Sagan
+8. The Power of Now by Eckhart Tolle
+9. The Celestine Prophecy by James Redfield
+10. The Art of Happiness by Dalai Lama
+11. The Lost Symbol by Dan Brown
+12. Angels & Demons by Dan Brown
+13. The Grand Design by Stephen Hawking
+14. A Brief History of Time by Stephen Hawking
+15. The Fabric of the Cosmos by Brian Greene
+16. The Hidden Reality by Brian Greene
+17. The Elegant Universe by Brian Greene
+18. The Selfish Gene by Richard Dawkins
+19. The Blind Watchmaker by Richard Dawkins
+20. The Magic of Reality by Richard Dawkins
+21. The Power of Positive Thinking by Norman Vincent Peale
+22. The 7 Habits of Highly Effective People by Stephen R. Covey
+23. The Art of Public Speaking by Dale Carnegie
+24. How to Win Friends and Influence People by Dale Carnegie
+25. The Great Gatsby by F. Scott Fitzgerald
+26. To Kill a Mockingbird by Harper Lee
+27. 1984 by George Orwell
+28. Brave New World by Aldous Huxley
+29. The Catcher in the Rye by J.D. Salinger
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Girl on the Train by Paula Hawkins
+32. The Da Vinci Legacy by Lewis Perdue
+33. The Lost City of Z by David Grann
+34. The Atlantis Gene by A.G. Riddle
+35. The Lost World by Michael Crichton
+36. The Name of the Wind by Patrick Rothfuss
+37. The Wise Man's Fear by Patrick Rothfuss
+38. The Night Circus by Erin Morgenstern
+39. The Shadow of the Wind by Carlos Ruiz Zafón
+40. The Book Thief by Markus Zusak
+41. The Kite Runner by Khaled Hosseini
+42. The Help by Kathryn Stockett
+43. The Secret Life of Bees by Sue Monk Kidd
+44. The Color Purple by Alice Walker
+45. The Poisonwood Bible by Barbara Kingsolver
+46. The Glass Castle by Jeannette Walls
+47. The Goldfinch by Donna Tartt
+48. The Nightingale by Kristin Hannah
+49. The Light Between Oceans by M.L. Stedman
+50. The Time Traveler's Wife by Audrey Niffenegger
+
+These recommendations are based on similar themes, genres, and authors to the books that user 15 likes.

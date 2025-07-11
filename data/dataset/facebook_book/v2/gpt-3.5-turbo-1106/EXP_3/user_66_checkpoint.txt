@@ -1,0 +1,54 @@
+Based on user 66's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Hobbit
+3. The Lord of the Rings
+4. Inkheart
+5. Inkspell
+6. The Giver
+7. His Dark Materials
+8. The Book Thief
+9. Memoirs of a Geisha
+10. The Alchemist (novel)
+11. The Catcher in the Rye
+12. To Kill a Mockingbird
+13. The Scarlet Letter
+14. Jane Eyre
+15. The Great Gatsby
+16. The Princess Bride
+17. Where the Red Fern Grows
+18. Stargirl (novel)
+19. Looking for Alaska
+20. An Abundance of Katherines
+21. Will Grayson, Will Grayson
+22. Paper Towns
+23. Ella Enchanted
+24. Born to Rock (novel)
+25. A Memory of Light
+26. The Lost Symbol
+27. Small Steps (novel)
+28. A Series of Unfortunate Events
+29. The Girl Who Leapt Through Time
+30. Holes (novel)
+31. Quidditch Through the Ages
+32. The Jungle Book
+33. The Zombie Survival Guide
+34. The Anarchist Cookbook
+35. The Umbrella Academy
+36. Rich Dad Poor Dad
+37. Doctrine and Covenants
+38. Farewell, My Lovely
+39. Cecilia (McClure novel)
+40. The Prosecution of George W. Bush for Murder
+41. Ramayana
+42. Go Ask Alice
+43. Manga
+44. What I Saw and How I Lied
+45. Bible
+46. The Secret (book)
+47. Tuesdays with Morrie
+48. Black Beauty
+49. The Heroin Diaries: A Year in the Life of a Shattered Rock Star
+50. Persepolis (comics)
+
+These recommendations are based on the user's previous likes and are tailored to their specific tastes.

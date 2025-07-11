@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Katatonia
+2. Amorphis
+3. Anathema
+4. Tool
+5. Porcupine Tree
+6. Gojira
+7. Dream Theater
+8. Mastodon
+9. Agalloch
+10. Opeth
+11. Enslaved
+12. Alcest
+13. Insomnium
+14. Swallow the Sun
+15. Ne Obliviscaris
+16. In Flames
+17. Dark Tranquillity
+18. Soilwork
+19. At the Gates
+20. Amon Amarth
+21. Wintersun
+22. Moonsorrow
+23. Finntroll
+24. Turisas
+25. Eluveitie
+26. Equilibrium
+27. Ensiferum
+28. Korpiklaani
+29. Tyr
+30. Falkenbach
+31. Borknagar
+32. Windir
+33. Emperor
+34. Immortal
+35. Satyricon
+36. Dimmu Borgir
+37. Cradle of Filth
+38. Behemoth
+39. Mayhem
+40. Gorgoroth
+41. Darkthrone
+42. Burzum
+43. Ulver
+44. Wolves in the Throne Room
+45. Agalloch
+46. Drudkh
+47. Negura Bunget
+48. Primordial
+49. Summoning
+50. Bathory
+
+These recommendations are based on the user's liking of similar artists and genres.

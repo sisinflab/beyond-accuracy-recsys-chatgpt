@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Hunger Games by Suzanne Collins
+6. The Hobbit by J.R.R. Tolkien
+7. The Da Vinci Code by Dan Brown
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Help by Kathryn Stockett
+10. The Alchemist by Paulo Coelho
+11. The Kite Runner by Khaled Hosseini
+12. The Fault in Our Stars by John Green
+13. The Lord of the Rings by J.R.R. Tolkien
+14. The Shining by Stephen King
+15. The Road by Cormac McCarthy
+16. The Lovely Bones by Alice Sebold
+17. The Secret Life of Bees by Sue Monk Kidd
+18. The Bell Jar by Sylvia Plath
+19. The Handmaid's Tale by Margaret Atwood
+20. The Giver by Lois Lowry
+21. The Outsiders by S.E. Hinton
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. The Glass Castle by Jeannette Walls
+24. The Book Thief by Markus Zusak
+25. The Night Circus by Erin Morgenstern
+26. The Goldfinch by Donna Tartt
+27. The Martian by Andy Weir
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+30. The Handmaid's Tale by Margaret Atwood
+31. The Road by Cormac McCarthy
+32. The Lovely Bones by Alice Sebold
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Bell Jar by Sylvia Plath
+35. The Giver by Lois Lowry
+36. The Outsiders by S.E. Hinton
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. The Glass Castle by Jeannette Walls
+39. The Book Thief by Markus Zusak
+40. The Night Circus by Erin Morgenstern
+41. The Goldfinch by Donna Tartt
+42. The Martian by Andy Weir
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+45. The Handmaid's Tale by Margaret Atwood
+46. The Road by Cormac McCarthy
+47. The Lovely Bones by Alice Sebold
+48. The Secret Life of Bees by Sue Monk Kidd
+49. The Bell Jar by Sylvia Plath
+50. The Giver by Lois Lowry
+
+These recommendations are based on the user's interest in classic literature, romance, and young adult fiction.

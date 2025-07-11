@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Evanescence
+2. Within Temptation
+3. Epica
+4. Delain
+5. Lacuna Coil
+6. Amy Lee
+7. Halsey
+8. Florence + The Machine
+9. Sia
+10. Lana Del Rey
+11. Ellie Goulding
+12. Marina and the Diamonds
+13. Lorde
+14. Tove Lo
+15. Zara Larsson
+16. Charli XCX
+17. Bebe Rexha
+18. Dua Lipa
+19. Alessia Cara
+20. Hailee Steinfeld
+21. Tinashe
+22. Sabrina Carpenter
+23. Camila Cabello
+24. Selena Gomez
+25. Ariana Grande
+26. Demi Lovato
+27. Fifth Harmony
+28. Little Mix
+29. Meghan Trainor
+30. Carly Rae Jepsen
+31. Tove Styrke
+32. Betty Who
+33. Kiiara
+34. Bishop Briggs
+35. Phantogram
+36. CHVRCHES
+37. PVRIS
+38. The Pretty Reckless
+39. Paramore
+40. Hey Violet
+41. Tonight Alive
+42. We Are the In Crowd
+43. Echosmith
+44. The Aces
+45. Against the Current
+46. Pvris
+47. The Veronicas
+48. Icon for Hire
+49. Courage My Love
+50. The Band Perry
+
+These recommendations are based on the user's liking of female-fronted bands and pop artists, as well as similar genres and styles.

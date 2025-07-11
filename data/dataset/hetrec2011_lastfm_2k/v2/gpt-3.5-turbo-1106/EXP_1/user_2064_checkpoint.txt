@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Evanescence
+3. Fall Out Boy
+4. Panic! At The Disco
+5. The All-American Rejects
+6. Paramore
+7. Linkin Park
+8. Breaking Benjamin
+9. Three Days Grace
+10. Bring Me The Horizon
+11. Papa Roach
+12. Bullet for My Valentine
+13. The Pretty Reckless
+14. Halestorm
+15. Seether
+16. Shinedown
+17. Skillet
+18. Red Hot Chili Peppers
+19. Foo Fighters
+20. 30 Seconds to Mars
+21. Green Day
+22. The Killers
+23. Muse
+24. Silversun Pickups
+25. Death Cab for Cutie
+26. Florence + the Machine
+27. Arctic Monkeys
+28. The Strokes
+29. The White Stripes
+30. The Black Keys
+31. Cage The Elephant
+32. Arctic Monkeys
+33. The Neighbourhood
+34. Foster The People
+35. Imagine Dragons
+36. Bastille
+37. Twenty One Pilots
+38. The 1975
+39. Halsey
+40. Lorde
+41. Tove Lo
+42. CHVRCHES
+43. PVRIS
+44. Bishop Briggs
+45. Phantogram
+46. Metric
+47. Yeah Yeah Yeahs
+48. The Naked and Famous
+49. Grouplove
+50. Of Monsters and Men
+
+These recommendations are based on the user's liking of similar artists and genres.

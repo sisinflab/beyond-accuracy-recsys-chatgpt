@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Eminem
+2. 2Pac
+3. The Game
+4. Wu-Tang Clan
+5. Notorious B.I.G.
+6. Raekwon
+7. Ghostface Killah
+8. DMX
+9. 50 Cent
+10. Black Eyed Peas
+11. Amy Winehouse
+12. Sade
+13. Alicia Keys
+14. Jennifer Hudson
+15. Christina Aguilera
+16. Evanescence
+17. Britney Spears
+18. Lady Gaga
+19. Rihanna
+20. Beyoncé
+21. Madonna
+22. Shakira
+23. Katy Perry
+24. Taylor Swift
+25. Paramore
+26. Glee Cast
+27. Avril Lavigne
+28. Miley Cyrus
+29. Kelly Clarkson
+30. Pink Floyd
+31. Muse
+32. U2
+33. The Beatles
+34. Radiohead
+35. Coldplay
+36. Nirvana
+37. Linkin Park
+38. My Chemical Romance
+39. Green Day
+40. The Killers
+41. Nine Inch Nails
+42. Metallica
+43. Iron Maiden
+44. Avenged Sevenfold
+45. System of a Down
+46. Placebo
+47. 30 Seconds to Mars
+48. Blur
+49. Arctic Monkeys
+50. Duran Duran
+
+This re-ranked list is based on the user's liking of similar artists and may provide a better match for their preferences.

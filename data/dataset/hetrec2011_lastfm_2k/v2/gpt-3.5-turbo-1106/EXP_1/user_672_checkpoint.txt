@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. Linkin Park
+3. System of a Down
+4. Paramore
+5. My Chemical Romance
+6. The Offspring
+7. Foo Fighters
+8. Three Days Grace
+9. Breaking Benjamin
+10. Papa Roach
+11. The Killers
+12. All Time Low
+13. Bring Me the Horizon
+14. 30 Seconds to Mars
+15. Good Charlotte
+16. The Used
+17. Jimmy Eat World
+18. AFI
+19. Taking Back Sunday
+20. Simple Plan
+21. The All-American Rejects
+22. Seether
+23. Chevelle
+24. Shinedown
+25. PVRIS
+26. Sleeping with Sirens
+27. Motion City Soundtrack
+28. New Found Glory
+29. The Red Jumpsuit Apparatus
+30. Anberlin
+31. Silverstein
+32. Hawthorne Heights
+33. Story of the Year
+34. Thrice
+35. Bayside
+36. Senses Fail
+37. The Maine
+38. Mayday Parade
+39. The Academy Is...
+40. Dashboard Confessional
+41. The Starting Line
+42. Yellowcard
+43. The Ataris
+44. Sugarcult
+45. Something Corporate
+46. Brand New
+47. Saves the Day
+48. Say Anything
+49. The Early November
+50. Cartel
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Fahrenheit 451 by Ray Bradbury
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Giver by Lois Lowry
+7. Lord of the Flies by William Golding
+8. The Handmaid's Tale by Margaret Atwood
+9. A Clockwork Orange by Anthony Burgess
+10. Neuromancer by William Gibson
+11. Do Androids Dream of Electric Sheep? by Philip K. Dick
+12. Snow Crash by Neal Stephenson
+13. Ghost in the Shell by Masamune Shirow
+14. Battle Royale by Koushun Takami
+15. The Neverending Story by Michael Ende
+16. The Thief Lord by Cornelia Funke
+17. Dragon Rider by Cornelia Funke
+18. The Book Thief by Markus Zusak
+19. A Tale of Two Cities by Charles Dickens
+20. Oliver Twist by Charles Dickens
+21. David Copperfield by Charles Dickens
+22. Bleak House by Charles Dickens
+23. Hard Times by Charles Dickens
+24. Little Dorrit by Charles Dickens
+25. A Christmas Carol by Charles Dickens
+26. Nicholas Nickleby by Charles Dickens
+27. Dombey and Son by Charles Dickens
+28. Our Mutual Friend by Charles Dickens
+29. The Old Curiosity Shop by Charles Dickens
+30. Barnaby Rudge by Charles Dickens
+31. Martin Chuzzlewit by Charles Dickens
+32. The Pickwick Papers by Charles Dickens
+33. North and South by Elizabeth Gaskell
+34. Wives and Daughters by Elizabeth Gaskell
+35. Cranford by Elizabeth Gaskell
+36. Mary Barton by Elizabeth Gaskell
+37. Ruth by Elizabeth Gaskell
+38. Sylvia's Lovers by Elizabeth Gaskell
+39. The Moorland Cottage by Elizabeth Gaskell
+40. The Hamlet by William Faulkner
+41. As I Lay Dying by William Faulkner
+42. Light in August by William Faulkner
+43. Absalom, Absalom! by William Faulkner
+44. Sanctuary by William Faulkner
+45. The Sound and the Fury by William Faulkner
+46. Go Down, Moses by William Faulkner
+47. Intruder in the Dust by William Faulkner
+48. Requiem for a Nun by William Faulkner
+49. The Mansion by William Faulkner
+50. The Unvanquished by William Faulkner
+
+These recommendations are based on the user's interest in dystopian fiction, classic literature, manga, and young adult fantasy.

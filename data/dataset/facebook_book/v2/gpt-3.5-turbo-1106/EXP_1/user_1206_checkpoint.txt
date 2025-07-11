@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Night Circus by Erin Morgenstern
+2. The Time Traveler's Wife by Audrey Niffenegger
+3. The Secret Life of Bees by Sue Monk Kidd
+4. The Help by Kathryn Stockett
+5. The Alchemist by Paulo Coelho
+6. The Book Thief by Markus Zusak
+7. The Fault in Our Stars by John Green
+8. The Hunger Games by Suzanne Collins
+9. To Kill a Mockingbird by Harper Lee
+10. The Girl on the Train by Paula Hawkins
+11. Gone Girl by Gillian Flynn
+12. The Lovely Bones by Alice Sebold
+13. The Kite Runner by Khaled Hosseini
+14. The Goldfinch by Donna Tartt
+15. The Catcher in the Rye by J.D. Salinger
+16. The Great Gatsby by F. Scott Fitzgerald
+17. The Da Vinci Code by Dan Brown
+18. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+19. The Martian by Andy Weir
+20. The Nightingale by Kristin Hannah
+21. The Glass Castle by Jeannette Walls
+22. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+23. The Handmaid's Tale by Margaret Atwood
+24. The Road by Cormac McCarthy
+25. The Giver by Lois Lowry
+26. The Maze Runner by James Dashner
+27. The Perks of Being a Wallflower by Stephen Chbosky
+28. The Outsiders by S.E. Hinton
+29. The Sun Also Rises by Ernest Hemingway
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Bell Jar by Sylvia Plath
+32. The Color Purple by Alice Walker
+33. The Secret Garden by Frances Hodgson Burnett
+34. The Adventures of Tom Sawyer by Mark Twain
+35. The Count of Monte Cristo by Alexandre Dumas
+36. The Old Man and the Sea by Ernest Hemingway
+37. The Catcher in the Rye by J.D. Salinger
+38. The Grapes of Wrath by John Steinbeck
+39. The Scarlet Letter by Nathaniel Hawthorne
+40. The Odyssey by Homer
+41. The Iliad by Homer
+42. The Divine Comedy by Dante Alighieri
+43. The Canterbury Tales by Geoffrey Chaucer
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Metamorphosis by Franz Kafka
+46. The Stranger by Albert Camus
+47. The Brothers Karamazov by Fyodor Dostoevsky
+48. The Idiot by Fyodor Dostoevsky
+49. The Master and Margarita by Mikhail Bulgakov
+50. The Unbearable Lightness of Being by Milan Kundera
+
+These recommendations are based on the user's interest in a variety of genres and authors.

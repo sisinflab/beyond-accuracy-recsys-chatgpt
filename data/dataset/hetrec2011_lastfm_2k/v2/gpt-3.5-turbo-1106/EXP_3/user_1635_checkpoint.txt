@@ -1,0 +1,54 @@
+Based on user 1635's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Nirvana
+2. Radiohead
+3. The Killers
+4. Arctic Monkeys
+5. Queens of the Stone Age
+6. The Smashing Pumpkins
+7. Rage Against the Machine
+8. Gorillaz
+9. Pearl Jam
+10. Muse
+11. Red Hot Chili Peppers
+12. Coldplay
+13. U2
+14. Oasis
+15. The White Stripes
+16. Beck
+17. Kings of Leon
+18. Interpol
+19. The Verve
+20. The National
+21. Editors
+22. Snow Patrol
+23. Silverchair
+24. Stereophonics
+25. Simple Minds
+26. Wilco
+27. Pavement
+28. Pulp
+29. The Police
+30. Sigur Rós
+31. Neil Young
+32. The Rolling Stones
+33. The Beatles
+34. Bruce Springsteen
+35. Ryan Adams
+36. Biffy Clyro
+37. Kasabian
+38. Genesis
+39. Queen
+40. Aerosmith
+41. Maroon 5
+42. The Cranberries
+43. Feist
+44. Moby
+45. Madonna
+46. Robbie Williams
+47. Eminem
+48. Bloc Party
+49. Incubus
+50. Counting Crows
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

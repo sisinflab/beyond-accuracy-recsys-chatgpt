@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Uglies by Scott Westerfeld
+2. Extras by Scott Westerfeld
+3. Leviathan by Scott Westerfeld
+4. Paper Towns by John Green
+5. Turtles All the Way Down by John Green
+6. Will Grayson, Will Grayson by John Green
+7. Freak the Mighty by Rodman Philbrick
+8. The Mighty Miss Malone by Christopher Paul Curtis
+9. I Know This Much Is True by Wally Lamb
+10. The Hour I First Believed by Wally Lamb
+11. Intensity by Dean Koontz
+12. Phantoms by Dean Koontz
+13. Everything is Illuminated by Jonathan Safran Foer
+14. Here I Am by Jonathan Safran Foer
+15. The History of Love by Nicole Krauss
+16. Winter's Tale by Mark Helprin
+17. The Fault in Our Stars by John Green
+18. The Maze Runner by James Dashner
+19. The Giver by Lois Lowry
+20. The Hunger Games by Suzanne Collins
+21. Divergent by Veronica Roth
+22. Delirium by Lauren Oliver
+23. The Selection by Kiera Cass
+24. Legend by Marie Lu
+25. Cinder by Marissa Meyer
+26. The 5th Wave by Rick Yancey
+27. The Knife of Never Letting Go by Patrick Ness
+28. The Perks of Being a Wallflower by Stephen Chbosky
+29. Eleanor & Park by Rainbow Rowell
+30. Thirteen Reasons Why by Jay Asher
+31. If I Stay by Gayle Forman
+32. Before I Fall by Lauren Oliver
+33. Speak by Laurie Halse Anderson
+34. The Book Thief by Markus Zusak
+35. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+36. Room by Emma Donoghue
+37. We Were Liars by E. Lockhart
+38. The Lovely Bones by Alice Sebold
+39. The Secret Life of Bees by Sue Monk Kidd
+40. The Help by Kathryn Stockett
+41. The Night Circus by Erin Morgenstern
+42. The Goldfinch by Donna Tartt
+43. The Girl on the Train by Paula Hawkins
+44. Gone Girl by Gillian Flynn
+45. Sharp Objects by Gillian Flynn
+46. Dark Places by Gillian Flynn
+47. The Silent Patient by Alex Michaelides
+48. The Woman in the Window by A.J. Finn
+49. Big Little Lies by Liane Moriarty
+50. The Girl with the Dragon Tattoo by Stieg Larsson
+
+These recommendations are based on the user's interest in young adult fiction, psychological thrillers, and contemporary literature.

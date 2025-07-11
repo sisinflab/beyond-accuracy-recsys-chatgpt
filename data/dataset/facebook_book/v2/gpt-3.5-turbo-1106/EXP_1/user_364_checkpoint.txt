@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Outsiders by S.E. Hinton
+2. Into the Wild by Jon Krakauer
+3. The Road by Cormac McCarthy
+4. The Giver by Lois Lowry
+5. The Catcher in the Rye by J.D. Salinger
+6. The Old Man and the Sea by Ernest Hemingway
+7. The Adventures of Huckleberry Finn by Mark Twain
+8. The Grapes of Wrath by John Steinbeck
+9. To Kill a Mockingbird by Harper Lee
+10. Lord of the Flies by William Golding
+11. The Great Gatsby by F. Scott Fitzgerald
+12. Of Mice and Men by John Steinbeck
+13. 1984 by George Orwell
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. Fahrenheit 451 by Ray Bradbury
+17. Slaughterhouse-Five by Kurt Vonnegut
+18. One Flew Over the Cuckoo's Nest by Ken Kesey
+19. Catch-22 by Joseph Heller
+20. The Bell Jar by Sylvia Plath
+21. The Picture of Dorian Gray by Oscar Wilde
+22. Crime and Punishment by Fyodor Dostoevsky
+23. The Stranger by Albert Camus
+24. The Road to Wigan Pier by George Orwell
+25. The Sun Also Rises by Ernest Hemingway
+26. A Farewell to Arms by Ernest Hemingway
+27. The Sound and the Fury by William Faulkner
+28. As I Lay Dying by William Faulkner
+29. The Heart is a Lonely Hunter by Carson McCullers
+30. The Maltese Falcon by Dashiell Hammett
+31. The Big Sleep by Raymond Chandler
+32. The Long Goodbye by Raymond Chandler
+33. The Postman Always Rings Twice by James M. Cain
+34. The Thin Man by Dashiell Hammett
+35. The Glass Key by Dashiell Hammett
+36. The Dain Curse by Dashiell Hammett
+37. The Alienist by Caleb Carr
+38. The Angel of Darkness by Caleb Carr
+39. The Last Book in the Universe by Rodman Philbrick
+40. The House of the Scorpion by Nancy Farmer
+41. The Maze Runner by James Dashner
+42. The Hunger Games by Suzanne Collins
+43. Divergent by Veronica Roth
+44. The City of Ember by Jeanne DuPrau
+45. The Giver by Lois Lowry
+46. The Lightning Thief by Rick Riordan
+47. Holes by Louis Sachar
+48. Hatchet by Gary Paulsen
+49. My Side of the Mountain by Jean Craighead George
+50. Island of the Blue Dolphins by Scott O'Dell
+
+These recommendations are based on similar themes, genres, and authors to the books that user 364 likes.

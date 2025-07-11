@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1579:
+
+1. Arctic Monkeys
+2. Placebo
+3. Nine Inch Nails
+4. Daft Punk
+5. Muse
+6. The Killers
+7. Nirvana
+8. Radiohead
+9. The Strokes
+10. Franz Ferdinand
+11. Queens of the Stone Age
+12. Kings of Leon
+13. The Black Keys
+14. Foo Fighters
+15. Beck
+16. Oasis
+17. The Rolling Stones
+18. The Fratellis
+19. The Beatles
+20. Pink Floyd
+21. Metallica
+22. Led Zeppelin
+23. Pearl Jam
+24. System of a Down
+25. Linkin Park
+26. Green Day
+27. My Chemical Romance
+28. The Cure
+29. The Distillers
+30. Eagles of Death Metal
+31. The Wombats
+32. Moptop
+33. The White Stripes
+34. The Hives
+35. The Vines
+36. The Libertines
+37. The Raconteurs
+38. The Bravery
+39. The Kooks
+40. The Vaccines
+41. The Kinks
+42. The Clash
+43. The Smiths
+44. The Jam
+45. The Who
+46. The Doors
+47. The Velvet Underground
+48. The Pixies
+49. The Flaming Lips
+50. The Shins
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

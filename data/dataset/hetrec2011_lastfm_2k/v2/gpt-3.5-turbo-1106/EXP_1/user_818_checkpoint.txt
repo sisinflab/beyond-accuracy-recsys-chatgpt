@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Blink-182
+2. Jimmy Eat World
+3. The Killers
+4. Foo Fighters
+5. The Strokes
+6. Coldplay
+7. Oasis
+8. The White Stripes
+9. The Hives
+10. The Libertines
+11. The Vines
+12. The Raconteurs
+13. The Black Keys
+14. The Fratellis
+15. Franz Ferdinand
+16. The Wombats
+17. The Vaccines
+18. The Arctic Monkeys
+19. The Kooks
+20. The Strokes
+21. The 1975
+22. The Neighbourhood
+23. The Wombats
+24. The Fratellis
+25. The Kooks
+26. The Vaccines
+27. The Arctic Monkeys
+28. The Strokes
+29. The 1975
+30. The Neighbourhood
+31. The Wombats
+32. The Fratellis
+33. The Kooks
+34. The Vaccines
+35. The Arctic Monkeys
+36. The Strokes
+37. The 1975
+38. The Neighbourhood
+39. The Wombats
+40. The Fratellis
+41. The Kooks
+42. The Vaccines
+43. The Arctic Monkeys
+44. The Strokes
+45. The 1975
+46. The Neighbourhood
+47. The Wombats
+48. The Fratellis
+49. The Kooks
+50. The Vaccines
+
+These recommendations are based on the user's liking of similar artists and are intended to align with their music preferences.

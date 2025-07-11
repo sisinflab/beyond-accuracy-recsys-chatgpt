@@ -1,0 +1,54 @@
+Based on user 342's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The Strokes
+3. Arcade Fire
+4. The White Stripes
+5. Tame Impala
+6. The Black Keys
+7. Queens of the Stone Age
+8. Interpol
+9. The National
+10. LCD Soundsystem
+11. Vampire Weekend
+12. The Killers
+13. Oasis
+14. The Smiths
+15. Joy Division
+16. The xx
+17. Arctic Monkeys
+18. Foals
+19. Bloc Party
+20. The Libertines
+21. The Flaming Lips
+22. Beck
+23. Modest Mouse
+24. The Chemical Brothers
+25. Kasabian
+26. The Prodigy
+27. The Cranberries
+28. Placebo
+29. Blur
+30. Pulp
+31. Suede
+32. The Verve
+33. New Order
+34. The Cure
+35. Franz Ferdinand
+36. The Dead Weather
+37. Pink Floyd
+38. Muse
+39. Amy Winehouse
+40. IAMX
+41. The Horrors
+42. Cream
+43. Klaxons
+44. Crystal Castles
+45. Jefferson Airplane
+46. Portishead
+47. Depeche Mode
+48. Moby
+49. Red Hot Chili Peppers
+50. The Beatles
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

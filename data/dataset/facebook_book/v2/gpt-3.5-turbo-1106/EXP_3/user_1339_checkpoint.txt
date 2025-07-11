@@ -1,0 +1,52 @@
+Based on user 1339's preferences, here are the top 50 book recommendations:
+
+1. Misery (novel) by Stephen King
+2. The Dark Half by Stephen King
+3. Full Dark, No Stars by Stephen King
+4. The Stand by Stephen King
+5. The Dead Zone (novel) by Stephen King
+6. The Dark Tower: The Gunslinger by Stephen King
+7. Insomnia (novel) by Stephen King
+8. The Talisman (Scott novel) by Stephen King
+9. The Vampire Chronicles by Anne Rice
+10. The Running Man (novel) by Stephen King
+11. The Giver by Lois Lowry
+12. Ender's Game by Orson Scott Card
+13. The Lord of the Rings by J.R.R. Tolkien
+14. Night Shift (book) by Stephen King
+15. The Stranger (novel) by Albert Camus
+16. Fahrenheit 451 by Ray Bradbury
+17. American Psycho by Bret Easton Ellis
+18. To Kill a Mockingbird by Harper Lee
+19. The Great Gatsby by F. Scott Fitzgerald
+20. The Catcher in the Rye by J.D. Salinger
+21. Pride and Prejudice by Jane Austen
+22. Mansfield Park by Jane Austen
+23. Persuasion (novel) by Jane Austen
+24. Emma (novel) by Jane Austen
+25. Franny and Zooey by J.D. Salinger
+26. The Rum Diary (novel) by Hunter S. Thompson
+27. Inferno (Dante) by Dante Alighieri
+28. The Antichrist (book) by Friedrich Nietzsche
+29. The Historian by Elizabeth Kostova
+30. Incarceron by Catherine Fisher
+31. The Messenger (Markus Zusak novel) by Markus Zusak
+32. Uglies by Scott Westerfeld
+33. Crank (novel) by Ellen Hopkins
+34. A Confederacy of Dunces by John Kennedy Toole
+35. Thus Spoke Zarathustra by Friedrich Nietzsche
+36. The Wanderers (Price novel) by Meg Howrey
+37. Redwall (novel) by Brian Jacques
+38. The Vampire Academy (novel) by Richelle Mead
+39. Twilight (series) by Stephenie Meyer
+40. Tao of Jeet Kune Do by Bruce Lee
+41. Speaker for the Dead by Orson Scott Card
+42. Duma Key by Stephen King
+43. Pretty Little Liars (book) by Sara Shepard
+44. Battle Royale by Koushun Takami
+45. Johnny the Homicidal Maniac by Jhonen Vasquez
+46. Mockingjay by Suzanne Collins
+47. Collected Ghost Stories by M.R. James
+48. Cabal (novella) by Clive Barker
+49. Of Mice and Men by John Steinbeck
+50. The Pigman by Paul Zindel

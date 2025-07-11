@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. Radiohead
+3. The Doors
+4. Oasis
+5. Red Hot Chili Peppers
+6. The Kinks
+7. The Clash
+8. R.E.M.
+9. The Smiths
+10. Oasis
+11. The Strokes
+12. The Velvet Underground
+13. Joy Division
+14. The Cure
+15. Arctic Monkeys
+16. The Smiths
+17. The White Stripes
+18. The Killers
+19. The Black Keys
+20. Tame Impala
+21. The Flaming Lips
+22. The National
+23. Arcade Fire
+24. Vampire Weekend
+25. The Libertines
+26. Interpol
+27. Franz Ferdinand
+28. The Stone Roses
+29. The Verve
+30. The Cranberries
+31. The Smashing Pumpkins
+32. Sonic Youth
+33. Pixies
+34. My Bloody Valentine
+35. Dinosaur Jr.
+36. Pavement
+37. Modest Mouse
+38. Wilco
+39. Spoon
+40. Yo La Tengo
+41. Built to Spill
+42. Guided by Voices
+43. Neutral Milk Hotel
+44. Belle and Sebastian
+45. Death Cab for Cutie
+46. The Shins
+47. Bright Eyes
+48. Sufjan Stevens
+49. Fleet Foxes
+50. Bon Iver
+
+These recommendations are based on the user's liking of classic rock, alternative, and indie music, and are aimed at providing a diverse range of artists and bands that align with their existing preferences.

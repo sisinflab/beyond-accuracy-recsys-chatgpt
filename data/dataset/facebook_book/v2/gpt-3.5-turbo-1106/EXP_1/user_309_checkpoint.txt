@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Catch-22 by Joseph Heller
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. The Bell Jar by Sylvia Plath
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Fahrenheit 451 by Ray Bradbury
+9. The Sun Also Rises by Ernest Hemingway
+10. The Old Man and the Sea by Ernest Hemingway
+11. Animal Farm by George Orwell
+12. Lord of the Flies by William Golding
+13. A Clockwork Orange by Anthony Burgess
+14. The Road by Cormac McCarthy
+15. The Stranger by Albert Camus
+16. The Picture of Dorian Gray by Oscar Wilde
+17. Heart of Darkness by Joseph Conrad
+18. The Sound and the Fury by William Faulkner
+19. East of Eden by John Steinbeck
+20. The Grapes of Wrath by John Steinbeck
+21. On the Road by Jack Kerouac
+22. One Flew Over the Cuckoo's Nest by Ken Kesey
+23. The Outsiders by S.E. Hinton
+24. Fast Food Nation by Eric Schlosser
+25. Dawn by V.C. Andrews
+26. Adventures of Huckleberry Finn by Mark Twain
+27. Wuthering Heights by Emily Brontë
+28. A Separate Peace by John Knowles
+29. Skinny Legs and All by Tom Robbins
+30. Redeeming Love by Francine Rivers
+31. Still Life with Woodpecker by Tom Robbins
+32. Franny and Zooey by J.D. Salinger
+33. Jane Eyre by Charlotte Brontë
+34. Howl by Allen Ginsberg
+35. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+36. White Fang by Jack London
+37. She's Come Undone by Wally Lamb
+38. The Giving Tree by Shel Silverstein
+39. The Road Not Taken by Robert Frost
+40. The Sound of Waves by Yukio Mishima
+41. The Stranger by Albert Camus
+42. The Metamorphosis by Franz Kafka
+43. The Plague by Albert Camus
+44. The Trial by Franz Kafka
+45. The Unbearable Lightness of Being by Milan Kundera
+46. The Master and Margarita by Mikhail Bulgakov
+47. The Brothers Karamazov by Fyodor Dostoevsky
+48. Crime and Punishment by Fyodor Dostoevsky
+49. The Idiot by Fyodor Dostoevsky
+50. The Picture of Dorian Gray by Oscar Wilde
+
+These recommendations are based on the user's liking for classic literature, dystopian fiction, and coming-of-age novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Black Keys
+2. The White Stripes
+3. Arctic Monkeys
+4. The Strokes
+5. The Raconteurs
+6. The Killers
+7. The National
+8. Mumford & Sons
+9. Fleet Foxes
+10. Bon Iver
+11. The Lumineers
+12. Hozier
+13. Vance Joy
+14. The Avett Brothers
+15. The Head and the Heart
+16. Edward Sharpe & The Magnetic Zeros
+17. The Decemberists
+18. Band of Horses
+19. My Morning Jacket
+20. Wilco
+21. Modest Mouse
+22. Death Cab for Cutie
+23. Bright Eyes
+24. Sufjan Stevens
+25. Iron & Wine
+26. José González
+27. Ray LaMontagne
+28. City and Colour
+29. Gregory Alan Isakov
+30. Lord Huron
+31. The Tallest Man on Earth
+32. First Aid Kit
+33. The Shins
+34. Andrew Bird
+35. Fleetwood Mac
+36. Tom Petty and the Heartbreakers
+37. Bruce Springsteen
+38. John Mellencamp
+39. Tom Waits
+40. Van Morrison
+41. Cat Stevens
+42. Simon & Garfunkel
+43. James Taylor
+44. Crosby, Stills, Nash & Young
+45. Bob Seger
+46. Steve Miller Band
+47. The Allman Brothers Band
+48. Lynyrd Skynyrd
+49. ZZ Top
+50. Creedence Clearwater Revival
+
+These recommendations are based on the user's liking of folk, rock, and indie music, and include artists with similar styles and influences.

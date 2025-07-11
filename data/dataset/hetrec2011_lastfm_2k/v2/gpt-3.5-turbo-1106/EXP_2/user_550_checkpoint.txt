@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. Metallica
+2. Iron Maiden
+3. Led Zeppelin
+4. System of a Down
+5. Nirvana
+6. Black Eyed Peas
+7. Linkin Park
+8. Avenged Sevenfold
+9. My Chemical Romance
+10. Green Day
+11. The Killers
+12. Nine Inch Nails
+13. Daft Punk
+14. Pearl Jam
+15. Michael Jackson
+16. AC/DC
+17. Slayer
+18. Judas Priest
+19. Motörhead
+20. Pantera
+21. Slipknot
+22. Machine Head
+23. Anthrax
+24. Testament
+25. Mastodon
+26. Volbeat
+27. Municipal Waste
+28. Five Finger Death Punch
+29. Queens of the Stone Age
+30. Trivium
+31. Children of Bodom
+32. Exodus
+33. DevilDriver
+34. Overkill
+35. Rammstein
+36. Gogol Bordello
+37. Opeth
+38. Sodom
+39. Destruction
+40. Soulfly
+41. Manowar
+42. Sepultura
+43. ZZ Top
+44. Opeth
+45. AC/DC
+46. Iron Maiden
+47. Led Zeppelin
+48. Metallica
+49. Michael Jackson
+50. Black Eyed Peas
+
+This re-ranked list is based on the user's liking of similar artists and their preferences.

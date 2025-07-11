@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. Twilight by Stephenie Meyer
+5. The Fault in Our Stars by John Green
+6. Percy Jackson & the Olympians by Rick Riordan
+7. The Giver by Lois Lowry
+8. The Lightning Thief by Rick Riordan
+9. The Mortal Instruments by Cassandra Clare
+10. The Infernal Devices by Cassandra Clare
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Alchemyst by Michael Scott
+13. The Golden Compass by Philip Pullman
+14. The Dark is Rising by Susan Cooper
+15. The Magicians by Lev Grossman
+16. The Chronicles of Prydain by Lloyd Alexander
+17. The Hobbit by J.R.R. Tolkien
+18. The Lord of the Rings by J.R.R. Tolkien
+19. The Chronicles of Amber by Roger Zelazny
+20. The Wheel of Time by Robert Jordan
+21. The Kingkiller Chronicle by Patrick Rothfuss
+22. Mistborn by Brandon Sanderson
+23. The Stormlight Archive by Brandon Sanderson
+24. The Lies of Locke Lamora by Scott Lynch
+25. The Name of the Wind by Patrick Rothfuss
+26. The Way of Kings by Brandon Sanderson
+27. The Malazan Book of the Fallen by Steven Erikson
+28. The Black Prism by Brent Weeks
+29. The Lightbringer Series by Brent Weeks
+30. The Night Angel Trilogy by Brent Weeks
+31. The Broken Empire Trilogy by Mark Lawrence
+32. The First Law Trilogy by Joe Abercrombie
+33. The Powder Mage Trilogy by Brian McClellan
+34. The Demon Cycle by Peter V. Brett
+35. The Riyria Revelations by Michael J. Sullivan
+36. The Farseer Trilogy by Robin Hobb
+37. The Liveship Traders Trilogy by Robin Hobb
+38. The Tawny Man Trilogy by Robin Hobb
+39. The Rain Wild Chronicles by Robin Hobb
+40. The Gentleman Bastard Sequence by Scott Lynch
+41. The Inheritance Trilogy by N.K. Jemisin
+42. The Broken Earth Trilogy by N.K. Jemisin
+43. The Divine Cities Trilogy by Robert Jackson Bennett
+44. The Craft Sequence by Max Gladstone
+45. The Books of Babel by Josiah Bancroft
+46. The Licanius Trilogy by James Islington
+47. The Lightbringer Series by Brent Weeks
+48. The Powder Mage Trilogy by Brian McClellan
+49. The Demon Cycle by Peter V. Brett
+50. The Riyria Revelations by Michael J. Sullivan
+
+These recommendations are based on the user's interest in fantasy, young adult, and science fiction genres.

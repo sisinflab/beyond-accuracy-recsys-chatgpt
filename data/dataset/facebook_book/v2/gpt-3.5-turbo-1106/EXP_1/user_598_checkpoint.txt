@@ -1,0 +1,54 @@
+Based on user 598's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Fahrenheit 451 by Ray Bradbury
+3. The Catcher in the Rye by J.D. Salinger
+4. The Road by Cormac McCarthy
+5. 1984 by George Orwell (if not already read)
+6. The Stand by Stephen King
+7. The Shining by Stephen King
+8. It by Stephen King
+9. The Haunting of Hill House by Shirley Jackson
+10. The Tell-Tale Heart and Other Writings by Edgar Allan Poe
+11. The Picture of Dorian Gray by Oscar Wilde
+12. Dracula by Bram Stoker
+13. Frankenstein by Mary Shelley
+14. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+15. The Metamorphosis by Franz Kafka
+16. The Trial by Franz Kafka
+17. The Castle by Franz Kafka
+18. The Complete Fiction of H.P. Lovecraft by H.P. Lovecraft
+19. The Dunwich Horror and Others by H.P. Lovecraft
+20. The Complete Sherlock Holmes by Arthur Conan Doyle
+21. The Hound of the Baskervilles by Arthur Conan Doyle
+22. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+23. Crime and Punishment by Fyodor Dostoevsky
+24. The Brothers Karamazov by Fyodor Dostoevsky
+25. Notes from Underground by Fyodor Dostoevsky
+26. The Stranger by Albert Camus
+27. The Plague by Albert Camus
+28. One Hundred Years of Solitude by Gabriel Garcia Marquez
+29. Love in the Time of Cholera by Gabriel Garcia Marquez
+30. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+31. The Master and Margarita by Mikhail Bulgakov
+32. We by Yevgeny Zamyatin
+33. The Handmaid's Tale by Margaret Atwood
+34. Oryx and Crake by Margaret Atwood
+35. The Road to Wigan Pier by George Orwell
+36. Homage to Catalonia by George Orwell
+37. Animal Farm by George Orwell (if not already read)
+38. The Complete Works of Sigmund Freud by Sigmund Freud
+39. Civilization and Its Discontents by Sigmund Freud
+40. The Interpretation of Dreams by Sigmund Freud (if not already read)
+41. The Art of War by Sun Tzu
+42. The Book of Five Rings by Miyamoto Musashi
+43. The Prince by Niccolo Machiavelli
+44. The Art of War by Niccolo Machiavelli
+45. The Anatomy Coloring Book by Wynn Kapit and Lawrence M. Elson
+46. Gray's Anatomy by Henry Gray (if not already read)
+47. Stiff: The Curious Lives of Human Cadavers by Mary Roach
+48. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+49. The Emperor of All Maladies: A Biography of Cancer by Siddhartha Mukherjee
+50. The Gene: An Intimate History by Siddhartha Mukherjee
+
+These recommendations are based on the user's interest in dystopian fiction, horror, psychology, medicine, and classic literature.

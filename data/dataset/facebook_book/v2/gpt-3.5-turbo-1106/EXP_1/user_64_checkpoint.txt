@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. One Hundred Years of Solitude by Gabriel Garcia Marquez
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. To Kill a Mockingbird by Harper Lee
+6. The Road by Cormac McCarthy
+7. The Handmaid's Tale by Margaret Atwood
+8. The Stranger by Albert Camus
+9. The Alchemist by Paulo Coelho
+10. The Grapes of Wrath by John Steinbeck
+11. The Sun Also Rises by Ernest Hemingway
+12. The Old Man and the Sea by Ernest Hemingway
+13. The Brothers Karamazov by Fyodor Dostoyevsky
+14. The Sound and the Fury by William Faulkner
+15. The Unbearable Lightness of Being by Milan Kundera
+16. Lolita by Vladimir Nabokov
+17. A Clockwork Orange by Anthony Burgess
+18. The Road to Wigan Pier by George Orwell
+19. The Trial by Franz Kafka
+20. The Master and Margarita by Mikhail Bulgakov
+21. The Stranger by Harlan Coben
+22. The Secret History by Donna Tartt
+23. The Goldfinch by Donna Tartt
+24. The Shadow of the Wind by Carlos Ruiz Zafon
+25. The Name of the Wind by Patrick Rothfuss
+26. The Night Circus by Erin Morgenstern
+27. The Book Thief by Markus Zusak
+28. The Kite Runner by Khaled Hosseini
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Poisonwood Bible by Barbara Kingsolver
+31. The Glass Castle by Jeannette Walls
+32. The Joy Luck Club by Amy Tan
+33. The Color Purple by Alice Walker
+34. The Handmaid's Tale by Margaret Atwood
+35. The Bell Jar by Sylvia Plath
+36. The Lovely Bones by Alice Sebold
+37. Slaughterhouse-Five by Kurt Vonnegut
+38. The Satanic Verses by Salman Rushdie
+39. Tropic of Cancer by Henry Miller
+40. The Prestige by Christopher Priest
+41. The Picture of Dorian Gray by Oscar Wilde
+42. Brave New World by Aldous Huxley
+43. The Mists of Avalon by Marion Zimmer Bradley
+44. Finnegans Wake by James Joyce
+45. Twenty Thousand Leagues Under the Sea by Jules Verne
+46. Fear and Loathing in Las Vegas by Hunter S. Thompson
+47. Crime and Punishment by Fyodor Dostoyevsky
+48. Mind Siege by David Noebel, Tim LaHaye
+49. For Whom the Bell Tolls by Ernest Hemingway
+50. Midnight's Children by Salman Rushdie
+
+These recommendations are based on the user's liking for classic literature, dystopian fiction, and psychological thrillers.

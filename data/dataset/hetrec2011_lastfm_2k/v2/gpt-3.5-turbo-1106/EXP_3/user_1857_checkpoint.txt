@@ -1,0 +1,54 @@
+Based on user 1857's preferences, here are the top 50 recommendations for the user:
+
+1. The Smashing Pumpkins
+2. Jimmy Eat World
+3. The Strokes
+4. Green Day
+5. Ramones
+6. Bruce Springsteen
+7. The Rolling Stones
+8. Deftones
+9. My Bloody Valentine
+10. White Lies
+11. Placebo
+12. Metallica
+13. Pantera
+14. Jack's Mannequin
+15. Dead Kennedys
+16. Guns N' Roses
+17. R.E.M.
+18. Depeche Mode
+19. David Bowie
+20. Snow Patrol
+21. Recoil
+22. Goo Goo Dolls
+23. The Smiths
+24. Neutral Milk Hotel
+25. Morrissey
+26. Animal Collective
+27. Metronomy
+28. Muse
+29. AC/DC
+30. Black Sabbath
+31. Stars
+32. Millencolin
+33. Pink Floyd
+34. Incubus
+35. Rage Against the Machine
+36. Wu-Tang Clan
+37. Klaxons
+38. The Who
+39. Queen
+40. Nirvana
+41. Kings of Convenience
+42. blink-182
+43. Black Flag
+44. Gorillaz
+45. The Cure
+46. Kanye West
+47. In Flames
+48. Foo Fighters
+49. Saosin
+50. Radiohead
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

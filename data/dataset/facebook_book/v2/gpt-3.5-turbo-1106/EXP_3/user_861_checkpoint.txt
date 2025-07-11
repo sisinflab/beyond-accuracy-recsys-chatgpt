@@ -1,0 +1,54 @@
+Based on user 861's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby
+2. To Kill a Mockingbird
+3. Nineteen Eighty-Four
+4. Slaughterhouse-Five
+5. Frankenstein
+6. The Catcher in the Rye
+7. A Farewell to Arms
+8. Brave New World
+9. Fahrenheit 451
+10. The Adventures of Tom Sawyer
+11. The Old Man and the Sea
+12. Of Mice and Men
+13. The Picture of Dorian Gray
+14. A Wrinkle in Time
+15. The Giver
+16. A Swiftly Tilting Planet
+17. The Glass Menagerie
+18. Alice's Adventures in Wonderland
+19. Like Water for Chocolate
+20. The Yearling
+21. The Jungle Book
+22. The Call of the Wild
+23. The Martian Chronicles
+24. Iliad
+25. Odyssey
+26. Inferno (Dante)
+27. Paradise Lost
+28. Macbeth
+29. Titus Andronicus
+30. Oedipus the King
+31. Les Misérables
+32. The Stranger (novel)
+33. The Fountainhead
+34. The Prince
+35. Essays (Montaigne)
+36. The Chicago Manual of Style
+37. American Psycho
+38. 2001: A Space Odyssey (novel)
+39. I, Robot
+40. The Areas of My Expertise
+41. Maximum Ride: School's Out Forever
+42. The Adventures of Tom Sawyer
+43. The Picture of Dorian Gray
+44. Gone with the Wind
+45. Inherit the Wind (play)
+46. Jane Eyre
+47. I Hope They Serve Beer in Hell
+48. Choke (novel)
+49. Highschool of the Dead
+50. D.Gray-man
+
+These recommendations are based on the user's previous likes and are ranked according to their potential interest.

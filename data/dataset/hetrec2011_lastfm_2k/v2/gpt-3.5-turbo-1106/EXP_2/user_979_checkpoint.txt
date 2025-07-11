@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the top-50 recommendations:
+
+1. Nine Inch Nails
+2. Metallica
+3. Linkin Park
+4. Green Day
+5. The Black Keys
+6. Queen
+7. Slash
+8. Motörhead
+9. Rob Zombie
+10. Godsmack
+11. The White Stripes
+12. Adam Lambert
+13. Ozzy Osbourne
+14. Guns N' Roses
+15. Papa Roach
+16. Led Zeppelin
+17. Maroon 5
+18. Stone Temple Pilots
+19. Mötley Crüe
+20. Lenny Kravitz
+21. Aerosmith
+22. Disturbed
+23. Lady Gaga
+24. Rammstein
+25. Fall Out Boy
+26. Spice Girls
+27. Britney Spears
+28. Madonna
+29. Rihanna
+30. Christina Aguilera
+31. Shakira
+32. The Beatles
+33. Katy Perry
+34. Avril Lavigne
+35. Taylor Swift
+36. Evanescence
+37. Glee Cast
+38. Beyoncé
+39. U2
+40. 30 Seconds to Mars
+41. Muse
+42. Pink Floyd
+43. Kylie Minogue
+44. Miley Cyrus
+45. Radiohead
+46. Ke$ha
+47. Duran Duran
+48. Coldplay
+49. Blur
+50. Arctic Monkeys
+
+This re-ranked list takes into account the user's liking for various artists and provides recommendations based on similar musical preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Haken
+2. Tool
+3. TesseracT
+4. Symphony X
+5. Coheed and Cambria
+6. Karnivool
+7. Anathema
+8. Steven Wilson
+9. Riverside
+10. Katatonia
+11. Devin Townsend
+12. Porcupine Tree
+13. Leprous
+14. Caligula's Horse
+15. Soen
+16. The Dear Hunter
+17. Rishloo
+18. Thank You Scientist
+19. The Pineapple Thief
+20. Vanden Plas
+21. Frost*
+22. Ayreon
+23. The Contortionist
+24. Periphery
+25. Animals as Leaders
+26. Between the Buried and Me
+27. Pain of Salvation
+28. Opeth
+29. The Mars Volta
+30. Mastodon
+31. Gojira
+32. Baroness
+33. Cult of Luna
+34. Russian Circles
+35. Isis
+36. Pelican
+37. Neurosis
+38. Godspeed You! Black Emperor
+39. Explosions in the Sky
+40. Mogwai
+41. This Will Destroy You
+42. Caspian
+43. Mono
+44. Sigur Rós
+45. Hammock
+46. God Is an Astronaut
+47. If These Trees Could Talk
+48. Maybeshewill
+49. 65daysofstatic
+50. And So I Watch You From Afar
+
+These recommendations are based on the user's liking of progressive rock, alternative rock, metal, and similar genres.

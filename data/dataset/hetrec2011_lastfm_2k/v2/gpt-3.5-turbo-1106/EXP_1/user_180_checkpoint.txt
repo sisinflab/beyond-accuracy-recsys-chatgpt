@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Explosions in the Sky
+2. Mogwai
+3. Russian Circles
+4. This Will Destroy You
+5. Mono
+6. Caspian
+7. If These Trees Could Talk
+8. Pelican
+9. Godspeed You! Black Emperor
+10. Sigur Rós
+11. Cult of Luna
+12. Deafheaven
+13. Alcest
+14. Agalloch
+15. Wolves in the Throne Room
+16. Neurosis
+17. Red Sparowes
+18. Yndi Halda
+19. Tides From Nebula
+20. Maybeshewill
+21. And So I Watch You From Afar
+22. Long Distance Calling
+23. The Ocean
+24. Rosetta
+25. Pelican
+26. Isis
+27. Russian Circles
+28. Cult of Luna
+29. Deafheaven
+30. Alcest
+31. Agalloch
+32. Wolves in the Throne Room
+33. Neurosis
+34. Red Sparowes
+35. Yndi Halda
+36. Tides From Nebula
+37. Maybeshewill
+38. And So I Watch You From Afar
+39. Long Distance Calling
+40. The Ocean
+41. Rosetta
+42. Explosions in the Sky
+43. Mogwai
+44. Russian Circles
+45. This Will Destroy You
+46. Mono
+47. Caspian
+48. If These Trees Could Talk
+49. Pelican
+50. Godspeed You! Black Emperor
+
+These recommendations are based on the user's liking for post-rock, metal, and electronic music, and the similarity of these artists to the ones the user already likes.

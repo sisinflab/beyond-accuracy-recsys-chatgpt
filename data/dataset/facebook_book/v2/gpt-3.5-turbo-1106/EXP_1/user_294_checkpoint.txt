@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Hunger Games by Suzanne Collins
+3. The Hobbit by J.R.R. Tolkien
+4. Percy Jackson & the Olympians by Rick Riordan
+5. Divergent by Veronica Roth
+6. The Golden Compass by Philip Pullman
+7. Eragon by Christopher Paolini
+8. The Maze Runner by James Dashner
+9. The Giver by Lois Lowry
+10. The Mortal Instruments by Cassandra Clare
+11. The Alchemist by Paulo Coelho
+12. The Da Vinci Code by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Time Traveler's Wife by Audrey Niffenegger
+15. The Night Circus by Erin Morgenstern
+16. The Name of the Wind by Patrick Rothfuss
+17. The Book Thief by Markus Zusak
+18. The Fault in Our Stars by John Green
+19. The Secret Garden by Frances Hodgson Burnett
+20. The Chronicles of Prydain by Lloyd Alexander
+21. The Once and Future King by T.H. White
+22. The Dark Tower by Stephen King
+23. The Wheel of Time by Robert Jordan
+24. The Kingkiller Chronicle by Patrick Rothfuss
+25. The Inheritance Cycle by Christopher Paolini
+26. The Stormlight Archive by Brandon Sanderson
+27. The Lies of Locke Lamora by Scott Lynch
+28. The Way of Kings by Brandon Sanderson
+29. Mistborn by Brandon Sanderson
+30. The Black Prism by Brent Weeks
+31. The Lightbringer Series by Brent Weeks
+32. The Farseer Trilogy by Robin Hobb
+33. The Liveship Traders by Robin Hobb
+34. The Tawny Man Trilogy by Robin Hobb
+35. The Gentleman Bastard Sequence by Scott Lynch
+36. The Broken Empire Trilogy by Mark Lawrence
+37. The Red Queen's War by Mark Lawrence
+38. The First Law by Joe Abercrombie
+39. The Kingkiller Chronicle by Patrick Rothfuss
+40. The Inheritance Trilogy by N.K. Jemisin
+41. The Broken Earth Trilogy by N.K. Jemisin
+42. The Powder Mage Trilogy by Brian McClellan
+43. The Lightbringer Series by Brent Weeks
+44. The Demon Cycle by Peter V. Brett
+45. The Night Angel Trilogy by Brent Weeks
+46. The Riyria Revelations by Michael J. Sullivan
+47. The Riyria Chronicles by Michael J. Sullivan
+48. The Malazan Book of the Fallen by Steven Erikson
+49. The Black Company by Glen Cook
+50. The Chronicles of Amber by Roger Zelazny
+
+These recommendations are based on the user's interest in fantasy, adventure, and mystery genres.

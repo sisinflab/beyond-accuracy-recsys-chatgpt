@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Animal Farm by George Orwell
+3. Brave New World by Aldous Huxley
+4. Fahrenheit 451 by Ray Bradbury
+5. Lord of the Flies by William Golding
+6. The Catcher in the Rye by J.D. Salinger
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Catcher in the Rye by J.D. Salinger
+10. The Great Gatsby by F. Scott Fitzgerald
+11. Catch-22 by Joseph Heller
+12. The Bell Jar by Sylvia Plath
+13. The Road by Cormac McCarthy
+14. The Stranger by Albert Camus
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Sun Also Rises by Ernest Hemingway
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. Moby-Dick by Herman Melville
+20. Crime and Punishment by Fyodor Dostoevsky
+21. The Brothers Karamazov by Fyodor Dostoevsky
+22. War and Peace by Leo Tolstoy
+23. Anna Karenina by Leo Tolstoy
+24. The Idiot by Fyodor Dostoevsky
+25. The Master and Margarita by Mikhail Bulgakov
+26. Lolita by Vladimir Nabokov
+27. The Trial by Franz Kafka
+28. The Metamorphosis by Franz Kafka
+29. The Plague by Albert Camus
+30. The Stranger by Albert Camus
+31. The Count of Monte Cristo by Alexandre Dumas
+32. Les Misérables by Victor Hugo
+33. The Hunchback of Notre-Dame by Victor Hugo
+34. The Three Musketeers by Alexandre Dumas
+35. Don Quixote by Miguel de Cervantes
+36. One Hundred Years of Solitude by Gabriel Garcia Marquez
+37. Love in the Time of Cholera by Gabriel Garcia Marquez
+38. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+39. The House of the Spirits by Isabel Allende
+40. Like Water for Chocolate by Laura Esquivel
+41. The Alchemist by Paulo Coelho
+42. One Hundred Years of Solitude by Gabriel Garcia Marquez
+43. Love in the Time of Cholera by Gabriel Garcia Marquez
+44. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+45. The House of the Spirits by Isabel Allende
+46. Like Water for Chocolate by Laura Esquivel
+47. The Alchemist by Paulo Coelho
+48. One Hundred Years of Solitude by Gabriel Garcia Marquez
+49. Love in the Time of Cholera by Gabriel Garcia Marquez
+50. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+
+These recommendations are based on the user's interest in classic literature and dystopian themes.

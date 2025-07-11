@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. A Thousand Splendid Suns by Khaled Hosseini
+3. Flowers in the Attic by V.C. Andrews
+4. War and Peace by Leo Tolstoy
+5. A Walk to Remember by Nicholas Sparks
+6. Interview with the Vampire by Anne Rice
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Magicians by Lev Grossman
+9. The Silmarillion by J.R.R. Tolkien
+10. The Witching Hour by Anne Rice
+11. Outlander by Diana Gabaldon
+12. The Great Gatsby by F. Scott Fitzgerald
+13. Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
+14. The Catcher in the Rye by J.D. Salinger
+15. The Hunger Games by Suzanne Collins
+16. The Alchemist by Paulo Coelho
+17. The Shining by Stephen King
+18. The Night Circus by Erin Morgenstern
+19. The Name of the Wind by Patrick Rothfuss
+20. The Secret History by Donna Tartt
+21. The Giver by Lois Lowry
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Book Thief by Markus Zusak
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Goldfinch by Donna Tartt
+26. The Handmaid's Tale by Margaret Atwood
+27. The Road by Cormac McCarthy
+28. The Stand by Stephen King
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Lovely Bones by Alice Sebold
+31. The Help by Kathryn Stockett
+32. The Kite Runner by Khaled Hosseini
+33. The Fault in Our Stars by John Green
+34. The Bell Jar by Sylvia Plath
+35. The Glass Castle by Jeannette Walls
+36. The Girl on the Train by Paula Hawkins
+37. The Da Vinci Code by Dan Brown
+38. The Girl Who Played with Fire by Stieg Larsson
+39. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+40. The Girl in the Spider's Web by David Lagercrantz
+41. The Girl with the Pearl Earring by Tracy Chevalier
+42. The Girl in the Mirror by Rose Carlyle
+43. The Girl in the Ice by Robert Bryndza
+44. The Girl in the Woods by Patricia MacDonald
+45. The Girl in the Red Coat by Kate Hamer
+46. The Girl in the Tower by Katherine Arden
+47. The Girl in the Steel Corset by Kady Cross
+48. The Girl in the Plain Brown Wrapper by John D. MacDonald
+49. The Girl in the Picture by Kerry Barrett
+50. The Girl in the Moon by Terry Goodkind
+
+These recommendations are based on the user's interest in fantasy, historical fiction, romance, and gothic literature.

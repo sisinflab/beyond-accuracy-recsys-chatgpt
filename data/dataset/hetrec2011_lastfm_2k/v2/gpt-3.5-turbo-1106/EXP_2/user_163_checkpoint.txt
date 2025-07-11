@@ -1,0 +1,54 @@
+Based on the user's preferences for country music artists, here is a re-ranked list of recommendations:
+
+1. Taylor Swift
+2. Lady Gaga
+3. Katy Perry
+4. Britney Spears
+5. Rihanna
+6. Madonna
+7. Christina Aguilera
+8. Shakira
+9. Beyoncé
+10. Miley Cyrus
+11. Paramore
+12. Avril Lavigne
+13. Glee Cast
+14. Ke$ha
+15. Kelly Clarkson
+16. P!nk
+17. Black Eyed Peas
+18. Green Day
+19. My Chemical Romance
+20. The Killers
+21. Muse
+22. 30 Seconds to Mars
+23. Linkin Park
+24. Nine Inch Nails
+25. System of a Down
+26. Avenged Sevenfold
+27. Radiohead
+28. Coldplay
+29. Nirvana
+30. Pearl Jam
+31. Metallica
+32. Iron Maiden
+33. Led Zeppelin
+34. Michael Jackson
+35. U2
+36. The Beatles
+37. Pink Floyd
+38. Kylie Minogue
+39. Duran Duran
+40. Blur
+41. Arctic Monkeys
+42. Placebo
+43. The Cure
+44. Depeche Mode
+45. a-ha
+46. Amy Winehouse
+47. Daft Punk
+48. Björk
+49. The Beatles
+50. Lady Antebellum
+
+This re-ranked list takes into account the user's preference for country music and suggests a mix of pop, rock, and alternative artists that may align with their tastes.

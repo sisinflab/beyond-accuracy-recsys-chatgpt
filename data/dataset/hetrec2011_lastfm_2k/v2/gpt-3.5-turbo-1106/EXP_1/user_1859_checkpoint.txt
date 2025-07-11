@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Modest Mouse
+3. The Strokes
+4. Arctic Monkeys
+5. The Killers
+6. Interpol
+7. Vampire Weekend
+8. The National
+9. Arcade Fire
+10. Tame Impala
+11. The Shins
+12. Spoon
+13. Death Cab for Cutie
+14. Yeah Yeah Yeahs
+15. The Black Keys
+16. Franz Ferdinand
+17. Bloc Party
+18. The Flaming Lips
+19. The Decemberists
+20. LCD Soundsystem
+21. MGMT
+22. The White Stripes
+23. Spoon
+24. The Postal Service
+25. Belle and Sebastian
+26. The Libertines
+27. The Kooks
+28. The Hives
+29. The Vines
+30. The Fratellis
+31. The Wombats
+32. The Vaccines
+33. The Raconteurs
+34. The Bravery
+35. The Rapture
+36. The Futureheads
+37. The Subways
+38. The Cribs
+39. The Pigeon Detectives
+40. The Zutons
+41. The Coral
+42. The View
+43. The Maccabees
+44. The Courteeners
+45. The Enemy
+46. The Pains of Being Pure at Heart
+47. The Drums
+48. The Horrors
+49. The Joy Formidable
+50. The Naked and Famous
+
+These recommendations are based on the user's liking of indie and alternative rock bands, and are similar in style and genre to the artists the user already enjoys.

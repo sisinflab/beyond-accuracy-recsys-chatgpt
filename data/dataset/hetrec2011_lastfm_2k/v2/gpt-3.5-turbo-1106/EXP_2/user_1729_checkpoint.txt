@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 1729:
+
+1. Radiohead
+2. Nirvana
+3. The Cure
+4. Depeche Mode
+5. The Smashing Pumpkins
+6. My Bloody Valentine
+7. Interpol
+8. Queens of the Stone Age
+9. Elliott Smith
+10. Joy Division
+11. The National
+12. Brand New
+13. The Brian Jonestown Massacre
+14. Pavement
+15. The Dandy Warhols
+16. The Pains of Being Pure at Heart
+17. M83
+18. R.E.M.
+19. Weezer
+20. White Lies
+21. Friendly Fires
+22. The Cribs
+23. Sigur Rós
+24. Deerhunter
+25. Jimmy Eat World
+26. Neutral Milk Hotel
+27. The Beatles
+28. Muse
+29. The Killers
+30. Arctic Monkeys
+31. Placebo
+32. Coldplay
+33. Blur
+34. Duran Duran
+35. Pink Floyd
+36. Madonna
+37. Lady Gaga
+38. Britney Spears
+39. Rihanna
+40. Christina Aguilera
+41. Beyoncé
+42. Shakira
+43. Katy Perry
+44. Avril Lavigne
+45. Taylor Swift
+46. Paramore
+47. 30 Seconds to Mars
+48. U2
+49. Glee Cast
+50. Evanescence
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

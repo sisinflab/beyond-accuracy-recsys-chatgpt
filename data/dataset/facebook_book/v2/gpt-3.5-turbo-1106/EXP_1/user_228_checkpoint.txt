@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. The Shadow of the Wind by Carlos Ruiz Zafón
+3. Gone Girl by Gillian Flynn
+4. The Night Circus by Erin Morgenstern
+5. The Goldfinch by Donna Tartt
+6. The Book Thief by Markus Zusak
+7. The Alchemist by Paulo Coelho
+8. The Fault in Our Stars by John Green
+9. The Kite Runner by Khaled Hosseini
+10. The Secret History by Donna Tartt
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. The Lovely Bones by Alice Sebold
+13. The Help by Kathryn Stockett
+14. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+15. Life of Pi by Yann Martel
+16. The Road by Cormac McCarthy
+17. The Catcher in the Rye by J.D. Salinger
+18. The Bell Jar by Sylvia Plath
+19. The Handmaid's Tale by Margaret Atwood
+20. The Great Gatsby by F. Scott Fitzgerald
+21. To Kill a Mockingbird by Harper Lee
+22. 1984 by George Orwell
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. Slaughterhouse-Five by Kurt Vonnegut
+26. Catch-22 by Joseph Heller
+27. One Hundred Years of Solitude by Gabriel García Márquez
+28. Beloved by Toni Morrison
+29. The Color Purple by Alice Walker
+30. A Thousand Splendid Suns by Khaled Hosseini
+31. The Handmaid's Tale by Margaret Atwood
+32. The Road by Cormac McCarthy
+33. The Catcher in the Rye by J.D. Salinger
+34. The Bell Jar by Sylvia Plath
+35. The Great Gatsby by F. Scott Fitzgerald
+36. To Kill a Mockingbird by Harper Lee
+37. 1984 by George Orwell
+38. Brave New World by Aldous Huxley
+39. Fahrenheit 451 by Ray Bradbury
+40. Slaughterhouse-Five by Kurt Vonnegut
+41. Catch-22 by Joseph Heller
+42. One Hundred Years of Solitude by Gabriel García Márquez
+43. Beloved by Toni Morrison
+44. The Color Purple by Alice Walker
+45. A Thousand Splendid Suns by Khaled Hosseini
+46. The Handmaid's Tale by Margaret Atwood
+47. The Road by Cormac McCarthy
+48. The Catcher in the Rye by J.D. Salinger
+49. The Bell Jar by Sylvia Plath
+50. The Great Gatsby by F. Scott Fitzgerald
+
+These recommendations are based on the user's interest in mystery, thriller, and fantasy genres, as well as their previous reading history.

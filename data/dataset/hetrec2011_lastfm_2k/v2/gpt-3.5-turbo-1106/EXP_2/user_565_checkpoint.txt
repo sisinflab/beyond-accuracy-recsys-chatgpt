@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Depeche Mode
+2. The Cure
+3. New Order
+4. The Clash
+5. Electronic
+6. Yazoo
+7. Visage
+8. Ultravox
+9. Duran Duran
+10. Kraftwerk
+11. Goldfrapp
+12. Saint Etienne
+13. Editors
+14. R.E.M.
+15. The Prodigy
+16. Placebo
+17. Garbage
+18. Soft Cell
+19. The Human League
+20. Orchestral Manoeuvres in the Dark
+21. a-ha
+22. David Bowie
+23. Keane
+24. Massive Attack
+25. Suede
+26. Nouvelle Vague
+27. The Pipettes
+28. The Ting Tings
+29. Portishead
+30. Dave Gahan
+31. Madonna
+32. Lady Gaga
+33. Britney Spears
+34. Rihanna
+35. Christina Aguilera
+36. Beyoncé
+37. Shakira
+38. Kylie Minogue
+39. Katy Perry
+40. Taylor Swift
+41. Avril Lavigne
+42. Miley Cyrus
+43. Pink Floyd
+44. U2
+45. Muse
+46. The Beatles
+47. Nirvana
+48. Radiohead
+49. Coldplay
+50. Paramore
+
+This re-ranked list takes into account the user's liking for similar artists and suggests similar ones based on their preferences.

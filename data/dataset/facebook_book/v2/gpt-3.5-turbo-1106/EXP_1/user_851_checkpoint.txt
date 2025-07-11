@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C. S. Lewis
+2. The Hobbit by J.R.R. Tolkien
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. Brave New World by Aldous Huxley
+6. The Grapes of Wrath by John Steinbeck
+7. A Separate Peace by John Knowles
+8. The Secret Life of Bees by Sue Monk Kidd
+9. The Color Purple by Alice Walker
+10. The Joy Luck Club by Amy Tan
+11. The Secret Garden by Frances Hodgson Burnett
+12. The Little Prince by Antoine de Saint-Exupéry
+13. The Alchemist by Paulo Coelho
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Road by Cormac McCarthy
+16. The Glass Castle by Jeannette Walls
+17. The Outsiders by S.E. Hinton
+18. The Giver by Lois Lowry
+19. The Book Thief by Markus Zusak
+20. The Kite Runner by Khaled Hosseini
+21. The Poisonwood Bible by Barbara Kingsolver
+22. The House on Mango Street by Sandra Cisneros
+23. The Bell Jar by Sylvia Plath
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Sun Also Rises by Ernest Hemingway
+26. The Sound and the Fury by William Faulkner
+27. The Scarlet Letter by Nathaniel Hawthorne
+28. The Count of Monte Cristo by Alexandre Dumas
+29. The Adventures of Huckleberry Finn by Mark Twain
+30. The Lord of the Flies by William Golding
+31. The Road Less Traveled by M. Scott Peck
+32. The Art of Happiness by Dalai Lama XIV
+33. The Power of Now by Eckhart Tolle
+34. The Four Agreements by Don Miguel Ruiz
+35. The Prophet by Kahlil Gibran
+36. The Celestine Prophecy by James Redfield
+37. The Tao of Pooh by Benjamin Hoff
+38. The Little Book of Hygge by Meik Wiking
+39. The Life-Changing Magic of Tidying Up by Marie Kondo
+40. The Omnivore's Dilemma by Michael Pollan
+41. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+42. The Devil in the White City by Erik Larson
+43. The Boys in the Boat by Daniel James Brown
+44. The Wright Brothers by David McCullough
+45. The Innovators by Walter Isaacson
+46. The Emperor of All Maladies by Siddhartha Mukherjee
+47. The Sixth Extinction by Elizabeth Kolbert
+48. The Hidden Life of Trees by Peter Wohlleben
+49. The Soul of an Octopus by Sy Montgomery
+50. The Lost City of the Monkey God by Douglas Preston
+
+These recommendations are based on similar themes, genres, and authors to the books that user 851 likes.

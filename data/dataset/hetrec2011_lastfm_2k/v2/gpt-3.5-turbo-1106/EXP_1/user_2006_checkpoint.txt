@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tycho
+2. Röyksopp
+3. Jon Hopkins
+4. Caribou
+5. Ulrich Schnauss
+6. Bibio
+7. Emancipator
+8. Helios
+9. Plaid
+10. Telefon Tel Aviv
+11. Gold Panda
+12. Nosaj Thing
+13. Shigeto
+14. Com Truise
+15. Lusine
+16. Yppah
+17. Maribou State
+18. Little People
+19. Odesza
+20. Lapalux
+21. Bicep
+22. Lone
+23. Mount Kimbie
+24. Shlohmo
+25. Nosaj Thing
+26. Lapalux
+27. Bicep
+28. Lone
+29. Mount Kimbie
+30. Shlohmo
+31. Nosaj Thing
+32. Lapalux
+33. Bicep
+34. Lone
+35. Mount Kimbie
+36. Shlohmo
+37. Nosaj Thing
+38. Lapalux
+39. Bicep
+40. Lone
+41. Mount Kimbie
+42. Shlohmo
+43. Nosaj Thing
+44. Lapalux
+45. Bicep
+46. Lone
+47. Mount Kimbie
+48. Shlohmo
+49. Nosaj Thing
+50. Lapalux
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music that aligns with their preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. Good Omens by Neil Gaiman and Terry Pratchett
+3. Coraline by Neil Gaiman
+4. Anansi Boys by Neil Gaiman
+5. Norse Mythology by Neil Gaiman
+6. The Ocean at the End of the Lane by Neil Gaiman
+7. Sandman (comic series) by Neil Gaiman
+8. Neverwhere (novel) by Neil Gaiman
+9. Fragile Things by Neil Gaiman
+10. Smoke and Mirrors by Neil Gaiman
+11. Stardust (graphic novel) by Neil Gaiman
+12. The Graveyard Book by Neil Gaiman
+13. The Sandman: Preludes & Nocturnes by Neil Gaiman
+14. The Sandman: The Doll's House by Neil Gaiman
+15. The Sandman: Dream Country by Neil Gaiman
+16. The Sandman: Season of Mists by Neil Gaiman
+17. The Sandman: A Game of You by Neil Gaiman
+18. The Sandman: Fables & Reflections by Neil Gaiman
+19. The Sandman: Brief Lives by Neil Gaiman
+20. The Sandman: World's End by Neil Gaiman
+21. The Sandman: The Kindly Ones by Neil Gaiman
+22. The Sandman: The Wake by Neil Gaiman
+23. The Sandman: Endless Nights by Neil Gaiman
+24. The Sandman: Overture by Neil Gaiman
+25. The Sandman: The Dream Hunters by Neil Gaiman
+26. The Sandman: The Dreaming by Neil Gaiman
+27. The Sandman: The Wake by Neil Gaiman
+28. The Sandman: The Endless by Neil Gaiman
+29. The Sandman: The Corinthian by Neil Gaiman
+30. The Sandman: The Furies by Neil Gaiman
+31. The Sandman: The Kindly Ones by Neil Gaiman
+32. The Sandman: The Wake by Neil Gaiman
+33. The Sandman: Endless Nights by Neil Gaiman
+34. The Sandman: Overture by Neil Gaiman
+35. The Sandman: The Dream Hunters by Neil Gaiman
+36. The Sandman: The Dreaming by Neil Gaiman
+37. The Sandman: The Wake by Neil Gaiman
+38. The Sandman: The Endless by Neil Gaiman
+39. The Sandman: The Corinthian by Neil Gaiman
+40. The Sandman: The Furies by Neil Gaiman
+41. The Sandman: The Kindly Ones by Neil Gaiman
+42. The Sandman: The Wake by Neil Gaiman
+43. The Sandman: Endless Nights by Neil Gaiman
+44. The Sandman: Overture by Neil Gaiman
+45. The Sandman: The Dream Hunters by Neil Gaiman
+46. The Sandman: The Dreaming by Neil Gaiman
+47. The Sandman: The Wake by Neil Gaiman
+48. The Sandman: The Endless by Neil Gaiman
+49. The Sandman: The Corinthian by Neil Gaiman
+50. The Sandman: The Furies by Neil Gaiman
+
+These recommendations are based on the user's preference for books by

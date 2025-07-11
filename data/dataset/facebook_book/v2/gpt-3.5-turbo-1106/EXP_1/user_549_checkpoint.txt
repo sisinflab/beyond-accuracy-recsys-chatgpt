@@ -1,0 +1,54 @@
+Based on the preferences of user 549, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. The Grapes of Wrath by John Steinbeck
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Bell Jar by Sylvia Plath
+10. Catch-22 by Joseph Heller
+11. The Road by Cormac McCarthy
+12. The Picture of Dorian Gray by Oscar Wilde
+13. A Clockwork Orange by Anthony Burgess
+14. The Stranger by Albert Camus
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Sound and the Fury by William Faulkner
+18. On the Road by Jack Kerouac
+19. The Brothers Karamazov by Fyodor Dostoevsky
+20. Crime and Punishment by Fyodor Dostoevsky
+21. The Trial by Franz Kafka
+22. The Metamorphosis by Franz Kafka
+23. The Plague by Albert Camus
+24. The Outsider by Albert Camus
+25. The Stranger by Albert Camus
+26. The Master and Margarita by Mikhail Bulgakov
+27. The Idiot by Fyodor Dostoevsky
+28. The Unbearable Lightness of Being by Milan Kundera
+29. The Book Thief by Markus Zusak
+30. The Kite Runner by Khaled Hosseini
+31. A Thousand Splendid Suns by Khaled Hosseini
+32. The Alchemist by Paulo Coelho
+33. The Shadow of the Wind by Carlos Ruiz Zafon
+34. The Name of the Wind by Patrick Rothfuss
+35. The Night Circus by Erin Morgenstern
+36. The Goldfinch by Donna Tartt
+37. The Secret History by Donna Tartt
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Girl on the Train by Paula Hawkins
+40. Gone Girl by Gillian Flynn
+41. The Da Vinci Code by Dan Brown
+42. Angels & Demons by Dan Brown
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Girl Who Played with Fire by Stieg Larsson
+45. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+46. The Hunger Games by Suzanne Collins
+47. The Help by Kathryn Stockett
+48. The Lovely Bones by Alice Sebold
+49. The Secret Life of Bees by Sue Monk Kidd
+50. The Glass Castle by Jeannette Walls
+
+These recommendations are based on the similar themes and genres of the books that user 549 likes.

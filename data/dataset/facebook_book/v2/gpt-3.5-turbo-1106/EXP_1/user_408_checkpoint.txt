@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Catcher in the Rye by J.D. Salinger
+3. One Hundred Years of Solitude by Gabriel Garcia Marquez
+4. The Stranger by Albert Camus
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. To the Lighthouse by Virginia Woolf
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Bell Jar by Sylvia Plath
+9. The Trial by Franz Kafka
+10. The Plague by Albert Camus
+11. The Metamorphosis by Franz Kafka
+12. The Unbearable Lightness of Being by Milan Kundera
+13. The Sun Also Rises by Ernest Hemingway
+14. The Great Gatsby by F. Scott Fitzgerald
+15. Brave New World by Aldous Huxley
+16. Heart of Darkness by Joseph Conrad
+17. The Sound and the Fury by William Faulkner
+18. A Clockwork Orange by Anthony Burgess
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Grapes of Wrath by John Steinbeck
+21. East of Eden by John Steinbeck
+22. The Brothers Karamazov by Fyodor Dostoevsky
+23. The Idiot by Fyodor Dostoevsky
+24. The Master and Margarita by Mikhail Bulgakov
+25. Lolita by Vladimir Nabokov
+26. Anna Karenina by Leo Tolstoy
+27. War and Peace by Leo Tolstoy
+28. The Idiot by Fyodor Dostoevsky
+29. The Master and Margarita by Mikhail Bulgakov
+30. Lolita by Vladimir Nabokov
+31. Anna Karenina by Leo Tolstoy
+32. War and Peace by Leo Tolstoy
+33. The Sound and the Fury by William Faulkner
+34. A Clockwork Orange by Anthony Burgess
+35. The Old Man and the Sea by Ernest Hemingway
+36. The Grapes of Wrath by John Steinbeck
+37. East of Eden by John Steinbeck
+38. The Brothers Karamazov by Fyodor Dostoevsky
+39. The Idiot by Fyodor Dostoevsky
+40. The Master and Margarita by Mikhail Bulgakov
+41. Lolita by Vladimir Nabokov
+42. Anna Karenina by Leo Tolstoy
+43. War and Peace by Leo Tolstoy
+44. The Sound and the Fury by William Faulkner
+45. A Clockwork Orange by Anthony Burgess
+46. The Old Man and the Sea by Ernest Hemingway
+47. The Grapes of Wrath by John Steinbeck
+48. East of Eden by John Steinbeck
+49. The Brothers Karamazov by Fyodor Dostoevsky
+50. The Idiot by Fyodor Dostoevsky
+
+These recommendations are based on the user's interest in classic literature, existential themes, and philosophical works.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Sabriel by Garth Nix
+2. The Graveyard Book by Neil Gaiman
+3. The Amulet of Samarkand by Jonathan Stroud
+4. The Hunger Games by Suzanne Collins
+5. Divergent by Veronica Roth
+6. The Maze Runner by James Dashner
+7. Eragon by Christopher Paolini
+8. The Lightning Thief by Rick Riordan
+9. The Giver by Lois Lowry
+10. The Golden Compass by Philip Pullman
+11. Inkheart by Cornelia Funke
+12. Artemis Fowl by Eoin Colfer
+13. The Alchemyst by Michael Scott
+14. The Name of the Wind by Patrick Rothfuss
+15. The Magicians by Lev Grossman
+16. The Night Circus by Erin Morgenstern
+17. Uglies by Scott Westerfeld
+18. The Mortal Instruments series by Cassandra Clare
+19. The Chronicles of Narnia by C.S. Lewis
+20. His Dark Materials series by Philip Pullman
+21. The Hobbit by J.R.R. Tolkien
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Chronicles of Prydain by Lloyd Alexander
+24. The Earthsea Cycle by Ursula K. Le Guin
+25. The Wheel of Time series by Robert Jordan
+26. Mistborn series by Brandon Sanderson
+27. The Kingkiller Chronicle series by Patrick Rothfuss
+28. The Lies of Locke Lamora by Scott Lynch
+29. The Way of Kings by Brandon Sanderson
+30. The Stormlight Archive series by Brandon Sanderson
+31. The Broken Empire series by Mark Lawrence
+32. The First Law series by Joe Abercrombie
+33. The Black Prism by Brent Weeks
+34. The Lightbringer series by Brent Weeks
+35. The Powder Mage trilogy by Brian McClellan
+36. The Demon Cycle series by Peter V. Brett
+37. The Riyria Revelations series by Michael J. Sullivan
+38. The Farseer Trilogy by Robin Hobb
+39. The Liveship Traders trilogy by Robin Hobb
+40. The Tawny Man trilogy by Robin Hobb
+41. The Gentleman Bastard series by Scott Lynch
+42. The Inheritance Trilogy by N.K. Jemisin
+43. The Broken Earth trilogy by N.K. Jemisin
+44. The Poppy War by R.F. Kuang
+45. The Traitor Baru Cormorant by Seth Dickinson
+46. The City of Brass by S.A. Chakraborty
+47. The Priory of the Orange Tree by Samantha Shannon
+48. The Bear and the Nightingale by Katherine Arden
+49. The Golem and the Jinni by Helene Wecker
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the user's interest in fantasy, young adult, and supernatural fiction.

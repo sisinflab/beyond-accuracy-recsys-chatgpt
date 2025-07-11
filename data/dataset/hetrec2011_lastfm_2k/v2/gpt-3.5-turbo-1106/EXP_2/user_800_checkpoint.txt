@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations re-ranked:
+
+1. Metallica
+2. Avenged Sevenfold
+3. Iron Maiden
+4. Pink Floyd
+5. Muse
+6. Pearl Jam
+7. System of a Down
+8. Black Eyed Peas
+9. My Chemical Romance
+10. Green Day
+11. The Beatles
+12. Nirvana
+13. Led Zeppelin
+14. Michael Jackson
+15. Slayer
+16. AC/DC
+17. Van Halen
+18. Motörhead
+19. ZZ Top
+20. Lynyrd Skynyrd
+21. Pantera
+22. Yngwie Malmsteen
+23. Black Label Society
+24. Mr. Big
+25. Stratovarius
+26. Gamma Ray
+27. Helloween
+28. Dream Theater
+29. Ozzy Osbourne
+30. Edguy
+31. Raimundos
+32. Bruce Dickinson
+33. Manowar
+34. Jota Quest
+35. Britney Spears
+36. Depeche Mode
+37. Lady Gaga
+38. Christina Aguilera
+39. Paramore
+40. Madonna
+41. Rihanna
+42. Shakira
+43. Katy Perry
+44. Avril Lavigne
+45. Taylor Swift
+46. Evanescence
+47. Glee Cast
+48. Beyoncé
+49. U2
+50. 30 Seconds to Mars

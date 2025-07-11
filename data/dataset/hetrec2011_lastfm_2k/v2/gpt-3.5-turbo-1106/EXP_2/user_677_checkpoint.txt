@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. Iron Maiden
+2. Metallica
+3. Nirvana
+4. Black Sabbath
+5. Led Zeppelin
+6. The Beatles
+7. Pink Floyd
+8. Queen
+9. AC/DC
+10. Guns N' Roses
+11. Aerosmith
+12. Deep Purple
+13. Judas Priest
+14. The Rolling Stones
+15. Van Halen
+16. Def Leppard
+17. Motörhead
+18. Megadeth
+19. Slayer
+20. Anthrax
+21. Pantera
+22. Alice in Chains
+23. Soundgarden
+24. Pearl Jam
+25. Foo Fighters
+26. Red Hot Chili Peppers
+27. System of a Down
+28. Nine Inch Nails
+29. Rage Against the Machine
+30. Korn
+31. Tool
+32. Deftones
+33. Slipknot
+34. Disturbed
+35. Lamb of God
+36. Mastodon
+37. Opeth
+38. Meshuggah
+39. Gojira
+40. Trivium
+41. Parkway Drive
+42. Bring Me the Horizon
+43. Architects
+44. A Day to Remember
+45. August Burns Red
+46. As I Lay Dying
+47. Killswitch Engage
+48. All That Remains
+49. Atreyu
+50. Bullet for My Valentine
+
+This list is based on the user's liking of heavy metal and related genres, and it prioritizes similar artists in terms of musical style and genre.

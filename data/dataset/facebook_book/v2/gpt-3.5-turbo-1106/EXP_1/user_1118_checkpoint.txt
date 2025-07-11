@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. Brave New World by Aldous Huxley
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. The Grapes of Wrath by John Steinbeck
+7. Fahrenheit 451 by Ray Bradbury
+8. The Bell Jar by Sylvia Plath
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Handmaid's Tale by Margaret Atwood
+11. Slaughterhouse-Five by Kurt Vonnegut
+12. The Road by Cormac McCarthy
+13. The Book Thief by Markus Zusak
+14. The Giver by Lois Lowry
+15. Lord of the Flies by William Golding
+16. A Clockwork Orange by Anthony Burgess
+17. The Stranger by Albert Camus
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Alchemist by Paulo Coelho
+20. The Secret History by Donna Tartt
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Name of the Wind by Patrick Rothfuss
+23. The Night Circus by Erin Morgenstern
+24. The Goldfinch by Donna Tartt
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Poisonwood Bible by Barbara Kingsolver
+27. The Joy Luck Club by Amy Tan
+28. The House on Mango Street by Sandra Cisneros
+29. The Color Purple by Alice Walker
+30. The Help by Kathryn Stockett
+31. The Glass Castle by Jeannette Walls
+32. The Lovely Bones by Alice Sebold
+33. The Hunger Games by Suzanne Collins
+34. Divergent by Veronica Roth
+35. The Maze Runner by James Dashner
+36. The Hunger Games by Suzanne Collins
+37. Divergent by Veronica Roth
+38. The Maze Runner by James Dashner
+39. The Chronicles of Narnia by C.S. Lewis
+40. His Dark Materials by Philip Pullman
+41. The Inheritance Cycle by Christopher Paolini
+42. The Mortal Instruments by Cassandra Clare
+43. The Hunger Games by Suzanne Collins
+44. Divergent by Veronica Roth
+45. The Maze Runner by James Dashner
+46. The Chronicles of Narnia by C.S. Lewis
+47. His Dark Materials by Philip Pullman
+48. The Inheritance Cycle by Christopher Paolini
+49. The Mortal Instruments by Cassandra Clare
+50. The Hunger Games by Suzanne Collins
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, and young adult novels.

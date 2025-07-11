@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Pet Sematary by Stephen King
+3. Misery by Stephen King
+4. It by Stephen King
+5. Carrie by Stephen King
+6. The Stand by Stephen King
+7. Salem's Lot by Stephen King
+8. Doctor Sleep by Stephen King
+9. The Dark Tower series by Stephen King
+10. The Outsider by Stephen King
+11. Coraline by Neil Gaiman
+12. American Gods by Neil Gaiman
+13. Neverwhere by Neil Gaiman
+14. Stardust by Neil Gaiman
+15. Good Omens by Neil Gaiman and Terry Pratchett
+16. Anansi Boys by Neil Gaiman
+17. Fragile Things by Neil Gaiman
+18. Trigger Warning by Neil Gaiman
+19. Fight Club by Chuck Palahniuk
+20. Survivor by Chuck Palahniuk
+21. Invisible Monsters by Chuck Palahniuk
+22. Diary by Chuck Palahniuk
+23. Haunted by Chuck Palahniuk
+24. Damned by Chuck Palahniuk
+25. Snuff by Chuck Palahniuk
+26. Burned by Ellen Hopkins
+27. Impulse by Ellen Hopkins
+28. Glass by Ellen Hopkins
+29. Identical by Ellen Hopkins
+30. Tricks by Ellen Hopkins
+31. Fallout by Ellen Hopkins
+32. More Than This by Patrick Ness
+33. Chaos Walking series by Patrick Ness
+34. The Rest of Us Just Live Here by Patrick Ness
+35. Release by Patrick Ness
+36. Bright Lights, Big City by Jay McInerney
+37. A Heartbreaking Work of Staggering Genius by Dave Eggers
+38. Running with Scissors by Augusten Burroughs
+39. Dry by Augusten Burroughs
+40. Tweak by Nic Sheff
+41. Beautiful Boy by David Sheff
+42. A Million Little Pieces by James Frey
+43. My Friend Leonard by James Frey
+44. Bright Shiny Morning by James Frey
+45. Survivor by Chuck Palahniuk
+46. The Catcher in the Rye by J.D. Salinger
+47. One Flew Over the Cuckoo's Nest by Ken Kesey
+48. Girl, Interrupted by Susanna Kaysen
+49. Prozac Nation by Elizabeth Wurtzel
+50. The Bell Jar by Sylvia Plath
+
+These recommendations are based on the user's interest in specific authors and themes found in the provided book list.

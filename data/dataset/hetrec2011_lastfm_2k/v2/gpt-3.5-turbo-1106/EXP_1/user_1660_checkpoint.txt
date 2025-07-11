@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. AC/DC
+2. David Bowie
+3. The Clash
+4. The Velvet Underground
+5. Sonic Youth
+6. The Stooges
+7. The White Stripes
+8. Talking Heads
+9. Joy Division
+10. The Cure
+11. Bauhaus
+12. Depeche Mode
+13. New Order
+14. Siouxsie and the Banshees
+15. The Smiths
+16. R.E.M.
+17. Radiohead
+18. Pearl Jam
+19. Soundgarden
+20. Alice in Chains
+21. Jane's Addiction
+22. Nine Inch Nails
+23. Ministry
+24. KMFDM
+25. Skinny Puppy
+26. Front Line Assembly
+27. Ministry
+28. My Bloody Valentine
+29. Cocteau Twins
+30. Slowdive
+31. Ride
+32. Lush
+33. The Jesus and Mary Chain
+34. The Stone Roses
+35. Primal Scream
+36. Happy Mondays
+37. The Charlatans
+38. The La's
+39. The Verve
+40. Oasis
+41. Blur
+42. Pulp
+43. Suede
+44. Supergrass
+45. The Libertines
+46. Arctic Monkeys
+47. The Strokes
+48. Interpol
+49. Yeah Yeah Yeahs
+50. The Kills
+
+These recommendations are based on the user's liking of rock, punk, alternative, and experimental music, and include artists from similar genres and eras.

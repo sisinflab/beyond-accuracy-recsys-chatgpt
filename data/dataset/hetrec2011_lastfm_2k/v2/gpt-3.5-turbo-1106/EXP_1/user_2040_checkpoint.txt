@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cardigans
+2. No Doubt
+3. The Cranberries
+4. Alanis Morissette
+5. Hole
+6. Tegan and Sara
+7. The Killers
+8. The Ting Tings
+9. Metric
+10. The All-American Rejects
+11. The Fray
+12. The Postal Service
+13. Tegan and Sara
+14. The Naked and Famous
+15. The xx
+16. CHVRCHES
+17. HAIM
+18. Lorde
+19. Lana Del Rey
+20. Florence + the Machine
+21. CHVRCHES
+22. Halsey
+23. Tove Lo
+24. Carly Rae Jepsen
+25. Charli XCX
+26. Grimes
+27. Marina and the Diamonds
+28. Lorde
+29. BANKS
+30. Broods
+31. Purity Ring
+32. FKA twigs
+33. Sky Ferreira
+34. Lykke Li
+35. MØ
+36. Bishop Briggs
+37. Phantogram
+38. Sylvan Esso
+39. Ryn Weaver
+40. K.Flay
+41. Elohim
+42. Allie X
+43. Verite
+44. Tei Shi
+45. Shura
+46. Dagny
+47. Sigrid
+48. Tove Styrke
+49. MUNA
+50. Pale Waves
+
+These recommendations are based on the user's liking of similar artists and genres.

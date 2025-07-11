@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Great Gatsby by F. Scott Fitzgerald
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. 1984 by George Orwell
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. Crime and Punishment by Fyodor Dostoyevsky
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Brothers Karamazov by Fyodor Dostoyevsky
+12. Brave New World by Aldous Huxley
+13. The Grapes of Wrath by John Steinbeck
+14. The Old Man and the Sea by Ernest Hemingway
+15. Moby-Dick by Herman Melville
+16. The Odyssey by Homer
+17. The Iliad by Homer
+18. The Divine Comedy by Dante Alighieri
+19. Don Quixote by Miguel de Cervantes
+20. War and Peace by Leo Tolstoy
+21. Anna Karenina by Leo Tolstoy
+22. The Count of Monte Cristo by Alexandre Dumas
+23. Les Misérables by Victor Hugo
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Last Unicorn by Peter S. Beagle
+26. A Clockwork Orange by Anthony Burgess
+27. The Silmarillion by J.R.R. Tolkien
+28. The Waste Land by T.S. Eliot
+29. The Brethren by John Grisham
+30. The Twelve by Justin Cronin
+31. A Memory of Light by Robert Jordan, Brandon Sanderson
+32. One Day in the Life of Ivan Denisovich by Aleksandr Solzhenitsyn
+33. The Stranger by Albert Camus
+34. The Trial by Franz Kafka
+35. The Metamorphosis by Franz Kafka
+36. The Sun Also Rises by Ernest Hemingway
+37. For Whom the Bell Tolls by Ernest Hemingway
+38. The Sound and the Fury by William Faulkner
+39. As I Lay Dying by William Faulkner
+40. The Sound and the Fury by William Faulkner
+41. The Road by Cormac McCarthy
+42. Blood Meridian by Cormac McCarthy
+43. All the Pretty Horses by Cormac McCarthy
+44. The Name of the Wind by Patrick Rothfuss
+45. The Lies of Locke Lamora by Scott Lynch
+46. The Blade Itself by Joe Abercrombie
+47. The Way of Kings by Brandon Sanderson
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Blade Itself by Joe Abercrombie
+50. The Way of Kings by Brandon Sanderson
+
+These recommendations are based on the user's interest in classic literature, fantasy, and crime novels.

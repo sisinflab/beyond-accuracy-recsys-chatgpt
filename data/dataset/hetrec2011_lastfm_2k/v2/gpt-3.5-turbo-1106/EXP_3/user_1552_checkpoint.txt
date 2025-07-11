@@ -1,0 +1,54 @@
+Based on user 1552's preferences for artists like Backstreet Boys, Enrique Iglesias, Rihanna, and Jennifer Lopez, here are the top 50 recommendations for them:
+
+1. Justin Timberlake
+2. *NSYNC
+3. Madonna
+4. Maroon 5
+5. Nick Carter
+6. Christina Aguilera
+7. P!nk
+8. Lady Gaga
+9. Beyoncé
+10. Usher
+11. Westlife
+12. RBD
+13. Ricky Martin
+14. The Saturdays
+15. Evanescence
+16. Darren Hayes
+17. Coldplay
+18. Taylor Swift
+19. Paramore
+20. Avril Lavigne
+21. Eminem
+22. Amy Winehouse
+23. Mariah Carey
+24. Chris Brown
+25. Linkin Park
+26. Enrique Iglesias
+27. Rihanna
+28. Jennifer Lopez
+29. Backstreet Boys
+30. Leona Lewis
+31. Girls Aloud
+32. Ashlee Simpson
+33. Jesse McCartney
+34. Sugababes
+35. The Beatles
+36. Super Junior
+37. Tokio Hotel
+38. Panic! At the Disco
+39. Jewel
+40. Alanis Morissette
+41. The Pussycat Dolls
+42. Jonas Brothers
+43. Ana Carolina
+44. Shayne Ward
+45. Timbaland
+46. Tarja
+47. Thousand Foot Krutch
+48. The Offspring
+49. Blue
+50. Chevelle
+
+These recommendations are based on the similarity of the recommended artists to the ones the user already likes.

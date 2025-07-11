@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. The Hobbit by J.R.R. Tolkien
+6. The Alchemist by Paulo Coelho
+7. Brave New World by Aldous Huxley
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Bell Jar by Sylvia Plath
+10. The Road by Cormac McCarthy
+11. The Secret History by Donna Tartt
+12. The Kite Runner by Khaled Hosseini
+13. The Handmaid's Tale by Margaret Atwood
+14. One Hundred Years of Solitude by Gabriel Garcia Marquez
+15. The Book Thief by Markus Zusak
+16. The Stranger by Albert Camus
+17. Slaughterhouse-Five by Kurt Vonnegut
+18. The Sun Also Rises by Ernest Hemingway
+19. The Grapes of Wrath by John Steinbeck
+20. The Old Man and the Sea by Ernest Hemingway
+21. The Road Not Taken by Robert Frost
+22. The Scarlet Letter by Nathaniel Hawthorne
+23. The Adventures of Huckleberry Finn by Mark Twain
+24. The Count of Monte Cristo by Alexandre Dumas
+25. Crime and Punishment by Fyodor Dostoevsky
+26. The Brothers Karamazov by Fyodor Dostoevsky
+27. Anna Karenina by Leo Tolstoy
+28. War and Peace by Leo Tolstoy
+29. The Idiot by Fyodor Dostoevsky
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Metamorphosis by Franz Kafka
+32. The Trial by Franz Kafka
+33. The Stranger by Albert Camus
+34. The Plague by Albert Camus
+35. The Catcher in the Rye by J.D. Salinger
+36. The Bell Jar by Sylvia Plath
+37. The Road by Cormac McCarthy
+38. The Secret History by Donna Tartt
+39. The Kite Runner by Khaled Hosseini
+40. The Handmaid's Tale by Margaret Atwood
+41. One Hundred Years of Solitude by Gabriel Garcia Marquez
+42. The Book Thief by Markus Zusak
+43. The Sun Also Rises by Ernest Hemingway
+44. The Grapes of Wrath by John Steinbeck
+45. The Old Man and the Sea by Ernest Hemingway
+46. The Road Not Taken by Robert Frost
+47. The Scarlet Letter by Nathaniel Hawthorne
+48. The Adventures of Huckleberry Finn by Mark Twain
+49. The Count of Monte Cristo by Alexandre Dumas
+50. Crime and Punishment by Fyodor Dostoevsky
+
+These recommendations are based on the user's preference for classic literature, coming-of-age stories, and thought-provoking novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Depeche Mode
+2. Front 242
+3. Gary Numan
+4. Blutengel
+5. Covenant
+6. VNV Nation
+7. Wolfsheim
+8. And One
+9. The Knife
+10. The Sisters of Mercy
+11. New Order
+12. OMD
+13. Apoptygma Berzerk
+14. Assemblage 23
+15. The Human League
+16. Diorama
+17. Seabound
+18. The Cure
+19. Placebo
+20. The Faint
+21. White Lies
+22. Interpol
+23. The Bravery
+24. She Past Away
+25. Lebanon Hanover
+26. Drab Majesty
+27. TR/ST
+28. Cold Cave
+29. Soft Cell
+30. Fad Gadget
+31. Xymox
+32. Clan of Xymox
+33. The Chameleons
+34. Echo & the Bunnymen
+35. The Mission
+36. The Psychedelic Furs
+37. The Sound
+38. Red Lorry Yellow Lorry
+39. The Bolshoi
+40. The Danse Society
+41. The March Violets
+42. The Jesus and Mary Chain
+43. Cocteau Twins
+44. Siouxsie and the Banshees
+45. Bauhaus
+46. Love and Rockets
+47. Tones on Tail
+48. Peter Murphy
+49. Killing Joke
+50. The Birthday Massacre
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 215's preferences, here is a re-ranked list of books into a top-50 recommendations:
+
+1. The Name of the Wind by Patrick Rothfuss
+2. Kafka on the Shore by Haruki Murakami
+3. Norwegian Wood (novel) by Haruki Murakami
+4. Dirk Gently's Holistic Detective Agency by Douglas Adams
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Dark Tower: The Gunslinger by Stephen King
+7. Eric (novel) by Terry Pratchett
+8. Neuromancer by William Gibson
+9. The Diamond Age by Neal Stephenson
+10. Foundation (novel)
+11. Starship Troopers by Robert A. Heinlein
+12. The Hobbit
+13. The Lord of the Rings
+14. The Name of the Rose
+15. The Lost World (Crichton novel)
+16. The Farseer Trilogy
+17. The Watchmen (novel)
+18. The Dresden Files
+19. The Chronicles of Narnia: Prince Caspian
+20. The Tao of Physics
+21. The Satanic Verses
+22. The Black Magician (novel series)
+23. The Wardstone Chronicles
+24. The Da Vinci Code
+25. The Power of Myth
+26. Tales of the Otori
+27. The 48 Laws of Power
+28. Les Misérables
+29. Nineteen Eighty-Four
+30. Manga
+31. Deception Point
+32. A Wizard of Earthsea
+33. Frankenstein
+34. Skulduggery Pleasant
+35. Harry Potter
+36. Otherland
+37. Cecilia (McClure novel)
+38. Silas Marner
+39. Age of the Five
+40. Around the World in Eighty Days
+41. Needful Things
+42. Fingerprints of the Gods
+43. Fear and Loathing in Las Vegas
+44. The Kane Chronicles
+45. Atlas Shrugged
+46. In Search of Lost Time
+47. The Electric Kool-Aid Acid Test
+48. The Raw Shark Texts
+49. Airman (novel)
+50. Paradise Lost
+
+This list is based on the user's preferences and the similarity of the recommended books to the ones the user has already liked.

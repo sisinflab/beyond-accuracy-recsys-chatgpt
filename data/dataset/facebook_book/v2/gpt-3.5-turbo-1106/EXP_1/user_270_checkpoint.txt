@@ -1,0 +1,54 @@
+Based on the preferences of user 270, here are the top 50 book recommendations:
+
+1. Burned by Ellen Hopkins
+2. Tricks by Ellen Hopkins
+3. Fallout by Ellen Hopkins
+4. Identical by Ellen Hopkins
+5. Perfect by Ellen Hopkins
+6. Impulse by Ellen Hopkins
+7. Tilt by Ellen Hopkins
+8. Rumble by Ellen Hopkins
+9. The You I've Never Known by Ellen Hopkins
+10. Traffick by Ellen Hopkins
+11. The Impossible Knife of Memory by Laurie Halse Anderson
+12. Wintergirls by Laurie Halse Anderson
+13. Speak by Laurie Halse Anderson
+14. The Astonishing Color of After by Emily X.R. Pan
+15. All the Bright Places by Jennifer Niven
+16. It's Kind of a Funny Story by Ned Vizzini
+17. Suicide Notes by Michael Thomas Ford
+18. Girl in Pieces by Kathleen Glasgow
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. Every Last Word by Tamara Ireland Stone
+21. The Memory of Light by Francisco X. Stork
+22. The Bell Jar by Sylvia Plath
+23. Willow by Julia Hoban
+24. Cut by Patricia McCormick
+25. The Way I Used to Be by Amber Smith
+26. The Last Time We Say Goodbye by Cynthia Hand
+27. The Art of Starving by Sam J. Miller
+28. The First Time She Drowned by Kerry Kletter
+29. The Weight of Zero by Karen Fortunati
+30. The Opposite of Innocent by Sonya Sones
+31. The List by Siobhan Vivian
+32. The Sky is Everywhere by Jandy Nelson
+33. We Were Liars by E. Lockhart
+34. The Hate U Give by Angie Thomas
+35. All We Can Do Is Wait by Richard Lawson
+36. Far from the Tree by Robin Benway
+37. The Truth About Alice by Jennifer Mathieu
+38. The Impossible Vastness of Us by Samantha Young
+39. The Female of the Species by Mindy McGinnis
+40. The Serpent King by Jeff Zentner
+41. The Sun Is Also a Star by Nicola Yoon
+42. I'll Give You the Sun by Jandy Nelson
+43. The Rest of Us Just Live Here by Patrick Ness
+44. The Perks of Being a Wallflower by Stephen Chbosky
+45. The Fault in Our Stars by John Green
+46. Looking for Alaska by John Green
+47. Paper Towns by John Green
+48. An Abundance of Katherines by John Green
+49. Will Grayson, Will Grayson by John Green, David Levithan
+50. Letting Ana Go by Anonymous
+
+These recommendations are based on the similar themes and authors to the books liked by user 270.

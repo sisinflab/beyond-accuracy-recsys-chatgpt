@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Dracula by Bram Stoker
+3. The Lord of the Rings by J.R.R. Tolkien
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Hobbit by J.R.R. Tolkien
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Catcher in the Rye by J.D. Salinger
+9. The Alchemist by Paulo Coelho
+10. The Hunger Games by Suzanne Collins
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Handmaid's Tale by Margaret Atwood
+13. The Road by Cormac McCarthy
+14. The Stand by Stephen King
+15. The Martian by Andy Weir
+16. The Night Circus by Erin Morgenstern
+17. The Goldfinch by Donna Tartt
+18. The Secret History by Donna Tartt
+19. The Book Thief by Markus Zusak
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Bell Jar by Sylvia Plath
+22. The Lovely Bones by Alice Sebold
+23. The Help by Kathryn Stockett
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Color Purple by Alice Walker
+26. The Joy Luck Club by Amy Tan
+27. The Glass Castle by Jeannette Walls
+28. The Poisonwood Bible by Barbara Kingsolver
+29. The Handmaid's Tale by Margaret Atwood
+30. The Road by Cormac McCarthy
+31. The Stand by Stephen King
+32. The Martian by Andy Weir
+33. The Night Circus by Erin Morgenstern
+34. The Goldfinch by Donna Tartt
+35. The Secret History by Donna Tartt
+36. The Book Thief by Markus Zusak
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Bell Jar by Sylvia Plath
+39. The Lovely Bones by Alice Sebold
+40. The Help by Kathryn Stockett
+41. The Secret Life of Bees by Sue Monk Kidd
+42. The Color Purple by Alice Walker
+43. The Joy Luck Club by Amy Tan
+44. The Glass Castle by Jeannette Walls
+45. The Poisonwood Bible by Barbara Kingsolver
+46. The Handmaid's Tale by Margaret Atwood
+47. The Road by Cormac McCarthy
+48. The Stand by Stephen King
+49. The Martian by Andy Weir
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the user's interest in authors like Stephen King, Mary Shelley, Dan Brown, George Orwell, Khaled Hosseini, and J.D. Salinger, and cover a range of genres and themes.

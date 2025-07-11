@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1542:
+
+1. The Smiths
+2. Nick Drake
+3. The Velvet Underground
+4. Tom Waits
+5. Nick Cave and the Bad Seeds
+6. The Rolling Stones
+7. Pulp
+8. The Killers
+9. Arctic Monkeys
+10. José González
+11. Moby
+12. Weezer
+13. Red Hot Chili Peppers
+14. The White Stripes
+15. The Libertines
+16. Oasis
+17. Blur
+18. Miles Davis
+19. Andrew Bird
+20. Roxy Music
+21. T. Rex
+22. Jethro Tull
+23. The Jesus and Mary Chain
+24. The Knife
+25. Beastie Boys
+26. Nine Inch Nails
+27. Metric
+28. Billy Idol
+29. Misfits
+30. The Stooges
+31. Iggy Pop
+32. Brand New
+33. Babyshambles
+34. The Dresden Dolls
+35. CAKE
+36. Alien Sex Fiend
+37. Aphex Twin
+38. The Sisters of Mercy
+39. Robbie Williams
+40. The Jesus and Mary Chain
+41. The Knife
+42. Beastie Boys
+43. Oasis
+44. Tori Amos
+45. Nine Inch Nails
+46. Brand New
+47. Babyshambles
+48. Soundtrack
+49. Lily Allen
+50. Captain Beefheart & His Magic Band
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

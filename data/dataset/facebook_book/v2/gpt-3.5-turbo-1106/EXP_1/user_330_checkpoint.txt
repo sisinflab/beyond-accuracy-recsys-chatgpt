@@ -1,0 +1,54 @@
+Based on the preferences of user 330, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. The Power of Now by Eckhart Tolle
+3. The Catcher in the Rye by J.D. Salinger
+4. The Kite Runner by Khaled Hosseini
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Help by Kathryn Stockett
+10. The Hunger Games by Suzanne Collins
+11. The Fault in Our Stars by John Green
+12. The Book Thief by Markus Zusak
+13. The Night Circus by Erin Morgenstern
+14. The Goldfinch by Donna Tartt
+15. The Handmaid's Tale by Margaret Atwood
+16. The Martian by Andy Weir
+17. The Road by Cormac McCarthy
+18. The Lovely Bones by Alice Sebold
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Name of the Wind by Patrick Rothfuss
+23. The Secret History by Donna Tartt
+24. The Nightingale by Kristin Hannah
+25. The Glass Castle by Jeannette Walls
+26. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+27. The Poisonwood Bible by Barbara Kingsolver
+28. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+29. The Underground Railroad by Colson Whitehead
+30. The Color Purple by Alice Walker
+31. The Handmaid's Tale by Margaret Atwood
+32. The Road by Cormac McCarthy
+33. The Lovely Bones by Alice Sebold
+34. The Time Traveler's Wife by Audrey Niffenegger
+35. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+36. The Shadow of the Wind by Carlos Ruiz Zafón
+37. The Name of the Wind by Patrick Rothfuss
+38. The Secret History by Donna Tartt
+39. The Nightingale by Kristin Hannah
+40. The Glass Castle by Jeannette Walls
+41. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+42. The Poisonwood Bible by Barbara Kingsolver
+43. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+44. The Underground Railroad by Colson Whitehead
+45. The Color Purple by Alice Walker
+46. The Handmaid's Tale by Margaret Atwood
+47. The Road by Cormac McCarthy
+48. The Lovely Bones by Alice Sebold
+49. The Time Traveler's Wife by Audrey Niffenegger
+50. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+
+These recommendations are based on the genres and themes of the books that user 330 has enjoyed.

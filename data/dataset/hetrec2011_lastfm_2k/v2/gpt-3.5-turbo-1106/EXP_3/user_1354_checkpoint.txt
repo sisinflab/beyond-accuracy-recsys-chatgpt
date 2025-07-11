@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1354:
+
+1. The Smiths
+2. Interpol
+3. The Libertines
+4. Franz Ferdinand
+5. Sonic Youth
+6. The Last Shadow Puppets
+7. The Kooks
+8. The Strokes
+9. The National
+10. Arctic Monkeys
+11. Foals
+12. Radiohead
+13. Oasis
+14. The Killers
+15. The Black Keys
+16. Death Cab for Cutie
+17. MGMT
+18. The Pains of Being Pure at Heart
+19. The Stone Roses
+20. The Cribs
+21. The Vines
+22. The Temper Trap
+23. Klaxons
+24. The New Pornographers
+25. Belle and Sebastian
+26. Band of Horses
+27. The Kills
+28. Tokyo Police Club
+29. Muse
+30. Bright Eyes
+31. Arcade Fire
+32. Cat Power
+33. Beach House
+34. Two Door Cinema Club
+35. The Fratellis
+36. Kings of Leon
+37. Yeah Yeah Yeahs
+38. Florence + the Machine
+39. Passion Pit
+40. The Kinks
+41. The Beatles
+42. R.E.M.
+43. Grizzly Bear
+44. Nick Drake
+45. Maxïmo Park
+46. Broken Social Scene
+47. She & Him
+48. Kaiser Chiefs
+49. Marina & the Diamonds
+50. Babyshambles
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that the user may enjoy.

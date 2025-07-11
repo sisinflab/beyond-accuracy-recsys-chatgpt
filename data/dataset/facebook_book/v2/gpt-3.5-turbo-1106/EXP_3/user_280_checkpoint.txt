@@ -1,0 +1,52 @@
+Based on user 280's preferences, here are the top 50 book recommendations:
+
+1. Crank (novel)
+2. Impulse (Hopkins novel)
+3. Tricks (novel)
+4. Glass (novel)
+5. Identical (novel)
+6. Burned (Hopkins novel)
+7. City of Glass (Mortal Instruments)
+8. City of Ashes
+9. City of Bones (Mortal Instruments)
+10. The Host (novel)
+11. Catching Fire
+12. The Hunger Games
+13. Twilight (series)
+14. Pretties
+15. Impulse economy
+16. Before I Die
+17. It Happened to Nancy: By an Anonymous Teenager
+18. If I Stay
+19. The Summoning (novel)
+20. The Zombie Survival Guide
+21. The Catcher in the Rye
+22. Extremely Loud and Incredibly Close by ['Jonathan Safran Foer']
+23. A Million Little Pieces by ['James Frey']
+24. Wintergirls by ['Laurie Halse Anderson']
+25. Go Ask Alice
+26. The Perks of Being a Wallflower
+27. Middlesex (novel)
+28. Brave New World
+29. Alice's Adventures in Wonderland
+30. Animal Farm
+31. The Cask of Amontillado
+32. The Last Storytellers: Tales from the Heart of Morocco
+33. The Chocolate War
+34. What I Saw and How I Lied
+35. Looking for Alaska
+36. Be More Chill
+37. The Notebook (novel)
+38. Son of a Witch
+39. Martyn Pig
+40. Candy: A Novel of Love and Addiction
+41. Chelsea Chelsea Bang Bang
+42. Breaking Point (novel)
+43. My Friend Leonard
+44. Fear and Loathing in Las Vegas
+45. It's Kind of a Funny Story
+46. Reviving Ophelia
+47. My Horizontal Life
+48. Jay's Journal
+49. The Haunting of Alaizabel Cray
+50. Winnie-the-Pooh (book)

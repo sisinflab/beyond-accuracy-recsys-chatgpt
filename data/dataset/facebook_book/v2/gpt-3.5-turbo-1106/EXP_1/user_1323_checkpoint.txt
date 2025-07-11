@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. The Hunger Games by Suzanne Collins
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Alchemist by Paulo Coelho
+11. The Da Vinci Code by Dan Brown
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Help by Kathryn Stockett
+14. The Kite Runner by Khaled Hosseini
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Lovely Bones by Alice Sebold
+17. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+18. The Night Circus by Erin Morgenstern
+19. The Goldfinch by Donna Tartt
+20. The Handmaid's Tale by Margaret Atwood
+21. The Road by Cormac McCarthy
+22. The Martian by Andy Weir
+23. The Girl on the Train by Paula Hawkins
+24. The Silent Patient by Alex Michaelides
+25. The Nightingale by Kristin Hannah
+26. The Great Gatsby by F. Scott Fitzgerald
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Count of Monte Cristo by Alexandre Dumas
+29. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+30. The Complete Stories and Poems by Edgar Allan Poe
+31. The Bell Jar by Sylvia Plath
+32. The Handmaid's Tale by Margaret Atwood
+33. The Road by Cormac McCarthy
+34. The Stand by Stephen King
+35. The Shining by Stephen King
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Help by Kathryn Stockett
+38. The Kite Runner by Khaled Hosseini
+39. The Secret Life of Bees by Sue Monk Kidd
+40. The Lovely Bones by Alice Sebold
+41. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+42. The Night Circus by Erin Morgenstern
+43. The Goldfinch by Donna Tartt
+44. The Nightingale by Kristin Hannah
+45. The Great Gatsby by F. Scott Fitzgerald
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Count of Monte Cristo by Alexandre Dumas
+48. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+49. The Complete Stories and Poems by Edgar Allan Poe
+50. The Bell Jar by Sylvia Plath
+
+These recommendations are based on the user's interest in various genres and authors, including fantasy, classics, and mystery.

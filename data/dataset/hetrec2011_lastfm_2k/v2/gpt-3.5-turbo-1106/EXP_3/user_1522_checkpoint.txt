@@ -1,0 +1,54 @@
+Based on user 1522's preferences, here are the top 50 recommendations for the given artists:
+
+1. Muse
+2. Radiohead
+3. The Strokes
+4. The White Stripes
+5. Oasis
+6. The Cure
+7. Placebo
+8. Vampire Weekend
+9. The Kooks
+10. The Flaming Lips
+11. Foo Fighters
+12. Kings of Leon
+13. Bob Dylan
+14. Gorillaz
+15. Razorlight
+16. The Clash
+17. Cat Power
+18. Band of Horses
+19. Black Kids
+20. Motion City Soundtrack
+21. Archive
+22. Crystal Castles
+23. The Smiths
+24. Björk
+25. Nick Drake
+26. Demi Lovato
+27. Lady Gaga
+28. Regina Spektor
+29. Patrick Wolf
+30. Damien Rice
+31. Norah Jones
+32. Jack Johnson
+33. Tom Petty and the Heartbreakers
+34. Aerosmith
+35. Blink-182
+36. The Ting Tings
+37. Selena Gomez
+38. Jesse McCartney
+39. Jonas Brothers
+40. Miley Cyrus
+41. Hannah Montana
+42. Hilary Duff
+43. Vanessa Hudgens
+44. Kate Nash
+45. Britney Spears
+46. The Used
+47. Ramones
+48. Klaxons
+49. Jesse McCartney
+50. Hannah Montana
+
+These recommendations are based on the user's existing preferences and are tailored to their music taste.

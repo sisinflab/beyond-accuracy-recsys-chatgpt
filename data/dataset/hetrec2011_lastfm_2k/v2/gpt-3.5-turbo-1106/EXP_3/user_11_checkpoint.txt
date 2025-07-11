@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 11:
+
+1. Mariah Carey
+2. Avril Lavigne
+3. Linkin Park
+4. Amy Winehouse
+5. The Killers
+6. Black Eyed Peas
+7. P!nk
+8. Maroon 5
+9. Paramore
+10. Kanye West
+11. Jessie J
+12. Jennifer Lopez
+13. M.I.A.
+14. David Guetta
+15. Florence + the Machine
+16. Alanis Morissette
+17. Robbie Williams
+18. Timbaland
+19. Kelly Clarkson
+20. Ashlee Simpson
+21. Nelly Furtado
+22. B.o.B
+23. Fergie
+24. Natasha Bedingfield
+25. Fall Out Boy
+26. Panic! At the Disco
+27. Duffy
+28. The Offspring
+29. Lily Allen
+30. Hannah Montana
+31. Arctic Monkeys
+32. Johnny Cash
+33. ABBA
+34. Janet Jackson
+35. Evanescence
+36. Jennifer Lopez
+37. Glee Cast
+38. David Cook
+39. Anahí
+40. RBD
+41. Willow Smith
+42. A*Teens
+43. Tarja
+44. BoA
+45. Jonas Brothers
+46. Cascada
+47. The Beatles
+48. Belinda
+49. Kylie Minogue
+50. Lolene
+
+These recommendations are based on the user's existing preferences and are designed to introduce new artists that align with their tastes.

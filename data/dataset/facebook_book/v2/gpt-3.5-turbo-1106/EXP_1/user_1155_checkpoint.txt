@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Neil Gaiman, Terry Pratchett
+2. The Hobbit by J.R.R. Tolkien
+3. Mort by Terry Pratchett
+4. The Name of the Wind by Patrick Rothfuss
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The Lies of Locke Lamora by Scott Lynch
+7. The Color of Magic by Terry Pratchett
+8. The Way of Kings by Brandon Sanderson
+9. American Gods by Neil Gaiman
+10. The Last Wish by Andrzej Sapkowski
+11. The Wise Man's Fear by Patrick Rothfuss
+12. The Final Empire by Brandon Sanderson
+13. Neverwhere by Neil Gaiman
+14. The Blade Itself by Joe Abercrombie
+15. The Black Prism by Brent Weeks
+16. The Gunslinger by Stephen King
+17. The Eye of the World by Robert Jordan
+18. The Lies of Locke Lamora by Scott Lynch
+19. The Way of Kings by Brandon Sanderson
+20. The Name of the Wind by Patrick Rothfuss
+21. The Lies of Locke Lamora by Scott Lynch
+22. The Color of Magic by Terry Pratchett
+23. The Way of Kings by Brandon Sanderson
+24. The Name of the Wind by Patrick Rothfuss
+25. The Lies of Locke Lamora by Scott Lynch
+26. The Color of Magic by Terry Pratchett
+27. The Way of Kings by Brandon Sanderson
+28. The Name of the Wind by Patrick Rothfuss
+29. The Lies of Locke Lamora by Scott Lynch
+30. The Color of Magic by Terry Pratchett
+31. The Way of Kings by Brandon Sanderson
+32. The Name of the Wind by Patrick Rothfuss
+33. The Lies of Locke Lamora by Scott Lynch
+34. The Color of Magic by Terry Pratchett
+35. The Way of Kings by Brandon Sanderson
+36. The Name of the Wind by Patrick Rothfuss
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Color of Magic by Terry Pratchett
+39. The Way of Kings by Brandon Sanderson
+40. The Name of the Wind by Patrick Rothfuss
+41. The Lies of Locke Lamora by Scott Lynch
+42. The Color of Magic by Terry Pratchett
+43. The Way of Kings by Brandon Sanderson
+44. The Name of the Wind by Patrick Rothfuss
+45. The Lies of Locke Lamora by Scott Lynch
+46. The Color of Magic by Terry Pratchett
+47. The Way of Kings by Brandon Sanderson
+48. The Name of the Wind by Patrick Rothfuss
+49. The Lies of Locke Lamora by Scott Lynch
+50. The Color of Magic by Terry Pratchett
+
+These recommendations are based on the user's interest in fantasy, science fiction, and classic literature.

@@ -1,0 +1,54 @@
+Based on the preferences of user 898, here are the top-50 recommendations for the listed artists:
+
+1. Shakira
+2. Destiny's Child
+3. P!nk
+4. Kelly Clarkson
+5. Mika
+6. Daft Punk
+7. Alanis Morissette
+8. Taylor Swift
+9. Ana Carolina
+10. Lily Allen
+11. Sade
+12. Aretha Franklin
+13. Céline Dion
+14. Amy Winehouse
+15. Evanescence
+16. Jamiroquai
+17. Ke$ha
+18. Alicia Keys
+19. Kelis
+20. ABBA
+21. U2
+22. R.E.M.
+23. Coldplay
+24. Green Day
+25. The Offspring
+26. Red Hot Chili Peppers
+27. Scorpions
+28. Lifehouse
+29. Journey
+30. James Morrison
+31. Jack Johnson
+32. Glee Cast
+33. The Mamas & The Papas
+34. David Archuleta
+35. Emma Bunton
+36. Girls Aloud
+37. Melanie C
+38. Eurythmics
+39. Pet Shop Boys
+40. Erasure
+41. The B-52's
+42. The Beatles
+43. The Pussycat Dolls
+44. Thalía
+45. Spice Girls
+46. Kelly Rowland
+47. Mariah Carey
+48. Robbie Williams
+49. Janet Jackson
+50. Gwen Stefani
+
+These recommendations are based on the similar artists liked by user 898 and are ranked in order of likelihood of enjoyment based on those preferences.

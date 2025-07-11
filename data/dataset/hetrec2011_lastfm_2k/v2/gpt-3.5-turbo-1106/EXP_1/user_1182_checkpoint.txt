@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Portishead
+3. Godspeed You! Black Emperor
+4. Massive Attack
+5. Bonobo
+6. The Flaming Lips
+7. Animal Collective
+8. Aphex Twin
+9. Explosions in the Sky
+10. Mogwai
+11. Sigur Rós
+12. Boards of Canada
+13. Björk
+14. Autechre
+15. Flying Lotus
+16. Deftones
+17. The Mars Volta
+18. Tool
+19. Nine Inch Nails
+20. A Perfect Circle
+21. The Cure
+22. The Fall of Troy
+23. Isis
+24. Erykah Badu
+25. Benny Benassi
+26. DJ Shadow
+27. deadmau5
+28. Miles Davis
+29. Prince
+30. She & Him
+31. Thom Yorke
+32. Emilíana Torrini
+33. MGMT
+34. Circa Survive
+35. Explosions in the Sky
+36. Mogwai
+37. Sigur Rós
+38. Boards of Canada
+39. Björk
+40. Autechre
+41. Flying Lotus
+42. Deftones
+43. The Mars Volta
+44. Tool
+45. Nine Inch Nails
+46. A Perfect Circle
+47. The Cure
+48. The Fall of Troy
+49. Isis
+50. Erykah Badu
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Amy Winehouse
+2. Stevie Wonder
+3. Ella Fitzgerald
+4. Radiohead
+5. Nina Simone
+6. Beck
+7. Buena Vista Social Club
+8. Portishead
+9. Bob Dylan
+10. Norah Jones
+11. Jamiroquai
+12. Aretha Franklin
+13. The Rolling Stones
+14. John Coltrane
+15. Massive Attack
+16. Otis Redding
+17. The Doors
+18. Thievery Corporation
+19. Marvin Gaye
+20. The Velvet Underground
+21. Etta James
+22. Air
+23. Frank Sinatra
+24. The Chemical Brothers
+25. Ray Charles
+26. The Kinks
+27. Herbie Hancock
+28. Sade
+29. The Beach Boys
+30. Fela Kuti
+31. Curtis Mayfield
+32. The Temptations
+33. The Supremes
+34. Charles Mingus
+35. The xx
+36. Bill Withers
+37. The Isley Brothers
+38. Peggy Lee
+39. The Flaming Lips
+40. Thelonious Monk
+41. The Smiths
+42. Sarah Vaughan
+43. The Byrds
+44. Django Reinhardt
+45. The Ronettes
+46. The Shangri-Las
+47. The Mamas & The Papas
+48. The Turtles
+49. The Lovin' Spoonful
+50. The Monkees
+
+These recommendations are based on the user's liking of artists such as Prince, Regina Spektor, Chico Buarque, Billie Holiday, David Bowie, Gorillaz, Parov Stelar, The Beatles, Miles Davis, and Morcheeba.

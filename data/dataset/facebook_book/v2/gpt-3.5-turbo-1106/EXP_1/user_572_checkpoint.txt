@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Jane Eyre by Charlotte Brontë
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. Little Women by Louisa May Alcott
+7. The Grapes of Wrath by John Steinbeck
+8. The Adventures of Huckleberry Finn by Mark Twain
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Hobbit by J.R.R. Tolkien
+12. The Secret Garden by Frances Hodgson Burnett
+13. The Count of Monte Cristo by Alexandre Dumas
+14. The Hunchback of Notre-Dame by Victor Hugo
+15. Les Misérables by Victor Hugo
+16. The Old Man and the Sea by Ernest Hemingway
+17. A Tale of Two Cities by Charles Dickens
+18. The Alchemist by Paulo Coelho
+19. The Little Prince by Antoine de Saint-Exupéry
+20. The Kite Runner by Khaled Hosseini
+21. The Book Thief by Markus Zusak
+22. The Night Circus by Erin Morgenstern
+23. The Secret History by Donna Tartt
+24. The Goldfinch by Donna Tartt
+25. The Shadow of the Wind by Carlos Ruiz Zafón
+26. The Name of the Wind by Patrick Rothfuss
+27. The Nightingale by Kristin Hannah
+28. The Help by Kathryn Stockett
+29. The Girl on the Train by Paula Hawkins
+30. The Handmaid's Tale by Margaret Atwood
+31. The Bell Jar by Sylvia Plath
+32. The Road by Cormac McCarthy
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The Scarlet Letter by Nathaniel Hawthorne
+35. Wuthering Heights by Emily Brontë
+36. Mansfield Park by Jane Austen
+37. Peter Pan by J.M. Barrie
+38. The Jungle Book by Rudyard Kipling
+39. The Secret Garden by Frances Hodgson Burnett
+40. The Wind in the Willows by Kenneth Grahame
+41. The Little Prince by Antoine de Saint-Exupéry
+42. The Chronicles of Narnia by C.S. Lewis
+43. The Hobbit by J.R.R. Tolkien
+44. The Lord of the Rings by J.R.R. Tolkien
+45. The Catcher in the Rye by J.D. Salinger
+46. To Kill a Mockingbird by Harper Lee
+47. Mere Christianity by C.S. Lewis
+48. Gone with the Wind by Margaret Mitchell
+49. The Taming of the Shrew by William Shakespeare
+50. Romeo and Juliet by William Shakespeare
+
+These recommendations are based on the user's liking of classic literature, fantasy, and some contemporary fiction.

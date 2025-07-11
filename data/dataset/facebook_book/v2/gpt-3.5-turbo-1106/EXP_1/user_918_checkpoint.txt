@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Time Traveler's Wife by Audrey Niffenegger
+2. The Lovely Bones by Alice Sebold
+3. The Hunger Games by Suzanne Collins
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Alchemist by Paulo Coelho
+7. The Catcher in the Rye by J.D. Salinger
+8. The Kite Runner by Khaled Hosseini
+9. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. The Glass Castle by Jeannette Walls
+12. The Night Circus by Erin Morgenstern
+13. The Secret History by Donna Tartt
+14. The Goldfinch by Donna Tartt
+15. The Girl on the Train by Paula Hawkins
+16. The Help by Kathryn Stockett
+17. The Martian by Andy Weir
+18. The Handmaid's Tale by Margaret Atwood
+19. The Road by Cormac McCarthy
+20. The Nightingale by Kristin Hannah
+21. The Book of Lost Things by John Connolly
+22. The Thirteenth Tale by Diane Setterfield
+23. The Shadow of the Wind by Carlos Ruiz Zafón
+24. The Name of the Wind by Patrick Rothfuss
+25. The Secret History by Donna Tartt
+26. The Goldfinch by Donna Tartt
+27. The Girl on the Train by Paula Hawkins
+28. The Help by Kathryn Stockett
+29. The Martian by Andy Weir
+30. The Handmaid's Tale by Margaret Atwood
+31. The Road by Cormac McCarthy
+32. The Nightingale by Kristin Hannah
+33. The Book of Lost Things by John Connolly
+34. The Thirteenth Tale by Diane Setterfield
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Name of the Wind by Patrick Rothfuss
+37. The Secret History by Donna Tartt
+38. The Goldfinch by Donna Tartt
+39. The Girl on the Train by Paula Hawkins
+40. The Help by Kathryn Stockett
+41. The Martian by Andy Weir
+42. The Handmaid's Tale by Margaret Atwood
+43. The Road by Cormac McCarthy
+44. The Nightingale by Kristin Hannah
+45. The Book of Lost Things by John Connolly
+46. The Thirteenth Tale by Diane Setterfield
+47. The Shadow of the Wind by Carlos Ruiz Zafón
+48. The Name of the Wind by Patrick Rothfuss
+49. The Secret History by Donna Tartt
+50. The Goldfinch by Donna Tartt
+
+These recommendations are based on the user's previous likes and are aimed at providing a diverse selection of books across different genres and authors.

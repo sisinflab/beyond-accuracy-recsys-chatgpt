@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. The Count of Monte Cristo by Alexandre Dumas
+3. War and Peace by Leo Tolstoy
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. To Kill a Mockingbird by Harper Lee
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Catcher in the Rye by J.D. Salinger
+10. Pride and Prejudice by Jane Austen
+11. The Hobbit by J.R.R. Tolkien
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Alchemist by Paulo Coelho
+14. The Book Thief by Markus Zusak
+15. The Kite Runner by Khaled Hosseini
+16. The Handmaid's Tale by Margaret Atwood
+17. The Night Circus by Erin Morgenstern
+18. The Secret History by Donna Tartt
+19. The Goldfinch by Donna Tartt
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Name of the Wind by Patrick Rothfuss
+23. The Martian by Andy Weir
+24. The Hunger Games by Suzanne Collins
+25. The Help by Kathryn Stockett
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Lovely Bones by Alice Sebold
+28. The Road by Cormac McCarthy
+29. The Giver by Lois Lowry
+30. The Fault in Our Stars by John Green
+31. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+32. The Perks of Being a Wallflower by Stephen Chbosky
+33. The Bell Jar by Sylvia Plath
+34. The Handmaid's Tale by Margaret Atwood
+35. The Night Circus by Erin Morgenstern
+36. The Secret History by Donna Tartt
+37. The Goldfinch by Donna Tartt
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Name of the Wind by Patrick Rothfuss
+41. The Martian by Andy Weir
+42. The Hunger Games by Suzanne Collins
+43. The Help by Kathryn Stockett
+44. The Time Traveler's Wife by Audrey Niffenegger
+45. The Lovely Bones by Alice Sebold
+46. The Road by Cormac McCarthy
+47. The Giver by Lois Lowry
+48. The Fault in Our Stars by John Green
+49. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+50. The Perks of Being a Wallflower by Stephen Chbosky
+
+These recommendations are based on the user's liking of classic literature, mystery, and fantasy genres.

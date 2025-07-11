@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 15:
+
+1. The Lord of the Rings
+2. The Hobbit
+3. The Hitchhiker's Guide to the Galaxy (novel)
+4. Lamb: The Gospel According to Biff, Christ's Childhood Pal
+5. The Little Prince
+6. The Da Vinci Code
+7. The Elegant Universe
+8. The Theory of Everything
+9. The God Delusion
+10. The Watchmen (novel)
+11. The Bourne Supremacy
+12. Angels & Demons
+13. The Adventures of Tom Sawyer
+14. The Scarlet Letter
+15. Romeo and Juliet
+16. Memoirs of a Geisha
+17. Interview with the Vampire
+18. Digital Fortress
+19. Deception Point
+20. Cujo
+21. King Rat (1962 novel)
+22. Les Misérables
+23. The Hardy Boys
+24. Nancy Drew
+25. The Famous Five (series)
+26. The Naughtiest Girl Again
+27. The Girl Who Loved Tom Gordon
+28. The Outsiders (novel)
+29. Horrible Histories (book series)
+30. Millennium series
+31. Dragons of Autumn Twilight
+32. The Bourne Supremacy
+33. Hoot (novel)
+34. Fear and Loathing in Las Vegas
+35. The Tale of the Body Thief
+36. Johnny Tremain
+37. Looking for Alaska
+38. He's Just Not That Into You
+39. Ang Paboritong Libro ni Hudas
+40. Adventures of Huckleberry Finn
+41. Bible
+42. For One More Day
+43. Fast Food Nation
+44. This Is Your Brain On Music
+45. Shopgirl (novella)
+46. Dune (novel)
+47. Flowers in the Attic
+48. A Memory of Light
+49. Utopia (book)
+50. Tuck Everlasting
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended books to the ones the user already likes.

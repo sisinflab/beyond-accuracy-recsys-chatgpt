@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Rihanna
+2. Mariah Carey
+3. Janet Jackson
+4. TLC
+5. Brandy
+6. Janelle Monáe
+7. Mary J. Blige
+8. Janet Jackson
+9. Toni Braxton
+10. Missy Elliott
+11. Sade
+12. Lauryn Hill
+13. Gwen Stefani
+14. Fergie
+15. Nelly Furtado
+16. P!nk
+17. Britney Spears
+18. Justin Timberlake
+19. Pharrell Williams
+20. Timbaland
+21. N.E.R.D
+22. OutKast
+23. Kanye West
+24. Childish Gambino
+25. Frank Ocean
+26. Miguel
+27. Jhene Aiko
+28. SZA
+29. H.E.R.
+30. The Weeknd
+31. Bruno Mars
+32. Alicia Keys
+33. John Legend
+34. Maxwell
+35. D'Angelo
+36. Erykah Badu
+37. Jill Scott
+38. India.Arie
+39. Anthony Hamilton
+40. Musiq Soulchild
+41. Jazmine Sullivan
+42. Chris Brown
+43. Tinashe
+44. Miguel
+45. The Internet
+46. Solange
+47. Kehlani
+48. Jorja Smith
+49. Sabrina Claudio
+50. H.E.R.
+
+These recommendations are based on similar artists and genres liked by user 617.

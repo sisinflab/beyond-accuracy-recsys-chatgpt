@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the re-ranked top-50 recommendations:
+
+1. Depeche Mode
+2. The Beatles
+3. INXS
+4. New Order
+5. Coldplay
+6. Eurythmics
+7. The B-52's
+8. The Human League
+9. Bryan Adams
+10. The Alan Parsons Project
+11. R.E.M.
+12. Queen
+13. Madonna
+14. U2
+15. Prince
+16. Michael Jackson
+17. George Michael
+18. Amy Winehouse
+19. Oasis
+20. The Police
+21. Simple Minds
+22. The Smiths
+23. AC/DC
+24. The Velvet Underground
+25. Maroon 5
+26. Kelis
+27. Goldfrapp
+28. Lady Gaga
+29. Gwen Stefani
+30. Lily Allen
+31. Janet Jackson
+32. Ladytron
+33. Brandon Flowers
+34. Cher
+35. Ace of Base
+36. Alphaville
+37. a-ha
+38. Foreigner
+39. Scissor Sisters
+40. Calvin Harris
+41. Blondie
+42. Kelly Clarkson
+43. Westlife
+44. Hurts
+45. Erasure
+46. Camouflage
+47. Modern Talking
+48. t.A.T.u.
+49. Justin Timberlake
+50. Glee Cast
+
+These recommendations are based on similar genres and artists liked by the user.

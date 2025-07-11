@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. Digital Fortress by Dan Brown
+4. The Lost Symbol by Dan Brown
+5. Origin by Dan Brown
+6. Deception Point by Dan Brown
+7. The Cuckoo's Calling by Robert Galbraith (J.K. Rowling)
+8. The Silkworm by Robert Galbraith (J.K. Rowling)
+9. Career of Evil by Robert Galbraith (J.K. Rowling)
+10. Lethal White by Robert Galbraith (J.K. Rowling)
+11. Troubled Blood by Robert Galbraith (J.K. Rowling)
+12. Club Dead by Charlaine Harris
+13. Dead to the World by Charlaine Harris
+14. Dead as a Doornail by Charlaine Harris
+15. Definitely Dead by Charlaine Harris
+16. All Together Dead by Charlaine Harris
+17. From Dead to Worse by Charlaine Harris
+18. Dead and Gone by Charlaine Harris
+19. Dead in the Family by Charlaine Harris
+20. Dead Reckoning by Charlaine Harris
+21. Deadlocked by Charlaine Harris
+22. Dead Ever After by Charlaine Harris
+23. The Casual Vacancy by J.K. Rowling
+24. Fantastic Beasts and Where to Find Them by J.K. Rowling
+25. Quidditch Through the Ages by J.K. Rowling
+26. The Tales of Beedle the Bard by J.K. Rowling
+27. And Another Thing... by Eoin Colfer
+28. The Restaurant at the End of the Universe by Douglas Adams
+29. Life, the Universe and Everything by Douglas Adams
+30. So Long, and Thanks for All the Fish by Douglas Adams
+31. Mostly Harmless by Douglas Adams
+32. The Salmon of Doubt by Douglas Adams
+33. Dead Air by Hunter S. Thompson
+34. The Rum Diary by Hunter S. Thompson
+35. Hell's Angels by Hunter S. Thompson
+36. The Stand by Stephen King
+37. It by Stephen King
+38. Misery by Stephen King
+39. Carrie by Stephen King
+40. The Shining by Stephen King
+41. Doctor Sleep by Stephen King
+42. 'Salem's Lot by Stephen King
+43. The Dark Tower: The Gunslinger by Stephen King
+44. Interview with the Vampire by Anne Rice
+45. The Vampire Lestat by Anne Rice
+46. The Queen of the Damned by Anne Rice
+47. The Tale of the Body Thief by Anne Rice
+48. Memnoch the Devil by Anne Rice
+49. The Vampire Armand by Anne Rice
+50. Merrick by Anne Rice
+
+These recommendations are based on the user's interest in mystery, fantasy, and horror genres, as well as specific authors and series.

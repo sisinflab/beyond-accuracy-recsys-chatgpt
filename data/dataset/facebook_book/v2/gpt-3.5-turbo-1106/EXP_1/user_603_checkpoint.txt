@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shadow of the Wind by Carlos Ruiz Zafón
+2. The Girl with the Dragon Tattoo by Stieg Larsson
+3. The Historian by Elizabeth Kostova
+4. The Secret History by Donna Tartt
+5. The Night Circus by Erin Morgenstern
+6. The Thirteenth Tale by Diane Setterfield
+7. The Miniaturist by Jessie Burton
+8. The Goldfinch by Donna Tartt
+9. The Book Thief by Markus Zusak
+10. The Secret Keeper by Kate Morton
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. The Alchemist by Paulo Coelho
+13. The Kite Runner by Khaled Hosseini
+14. The Lovely Bones by Alice Sebold
+15. The Help by Kathryn Stockett
+16. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows
+17. The Nightingale by Kristin Hannah
+18. The Light Between Oceans by M.L. Stedman
+19. The Great Gatsby by F. Scott Fitzgerald
+20. The Catcher in the Rye by J.D. Salinger
+21. To Kill a Mockingbird by Harper Lee
+22. Pride and Prejudice by Jane Austen
+23. Jane Eyre by Charlotte Brontë
+24. Great Expectations by Charles Dickens
+25. Anna Karenina by Leo Tolstoy
+26. War and Peace by Leo Tolstoy
+27. Crime and Punishment by Fyodor Dostoyevsky
+28. The Brothers Karamazov by Fyodor Dostoyevsky
+29. Notes from Underground by Fyodor Dostoyevsky
+30. Wuthering Heights by Emily Brontë
+31. The Picture of Dorian Gray by Oscar Wilde
+32. Dracula by Bram Stoker
+33. Frankenstein by Mary Shelley
+34. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+35. The Turn of the Screw by Henry James
+36. The Woman in White by Wilkie Collins
+37. Rebecca by Daphne du Maurier
+38. The Hound of the Baskervilles by Arthur Conan Doyle
+39. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+40. The Secret Garden by Frances Hodgson Burnett
+41. Little Women by Louisa May Alcott
+42. Anne of Green Gables by L.M. Montgomery
+43. A Tale of Two Cities by Charles Dickens
+44. Les Misérables by Victor Hugo
+45. The Count of Monte Cristo by Alexandre Dumas
+46. The Three Musketeers by Alexandre Dumas
+47. The Scarlet Pimpernel by Baroness Orczy
+48. The French Lieutenant's Woman by John Fowles
+49. Tess of the d'Urbervilles by Thomas Hardy
+50. Agnes Grey by Anne Brontë
+
+These recommendations are based on the user's interest in mystery, historical fiction, and classic literature.

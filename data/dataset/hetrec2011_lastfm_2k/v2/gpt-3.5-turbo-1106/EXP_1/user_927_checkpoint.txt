@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Marilyn Manson
+2. Korn
+3. Queens of the Stone Age
+4. Red Hot Chili Peppers
+5. System of a Down
+6. Tool
+7. Slipknot
+8. Linkin Park
+9. Rammstein
+10. Papa Roach
+11. Limp Bizkit
+12. Disturbed
+13. Foo Fighters
+14. Incubus
+15. Chevelle
+16. Seether
+17. Stone Sour
+18. Breaking Benjamin
+19. P.O.D.
+20. Staind
+21. Godsmack
+22. A Perfect Circle
+23. Static-X
+24. Mudvayne
+25. 10 Years
+26. Drowning Pool
+27. Theory of a Deadman
+28. Three Days Grace
+29. The Used
+30. Deftones
+31. Thrice
+32. Killswitch Engage
+33. My Chemical Romance
+34. Billy Talent
+35. Avenged Sevenfold
+36. Shiny Toy Guns
+37. As I Lay Dying
+38. Alexisonfire
+39. Mastodon
+40. Gorillaz
+41. Weezer
+42. Beck
+43. Machine Head
+44. Slayer
+45. Alice in Chains
+46. Nine Inch Nails
+47. Lostprophets
+48. Mindless Self Indulgence
+49. The Dillinger Escape Plan
+50. Patrick Wolf
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music that aligns with their preferences.

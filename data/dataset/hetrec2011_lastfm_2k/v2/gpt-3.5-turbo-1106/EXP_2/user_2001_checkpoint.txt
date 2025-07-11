@@ -1,0 +1,54 @@
+Based on user 2001's preferences, here are the top-50 recommendations for the user:
+
+1. Metallica
+2. Nirvana
+3. Pearl Jam
+4. Iron Maiden
+5. Black Label Society
+6. Alice in Chains
+7. Rammstein
+8. Stone Sour
+9. Slipknot
+10. Disturbed
+11. Anthrax
+12. Slayer
+13. System of a Down
+14. Pantera
+15. Korn
+16. Drowning Pool
+17. Godsmack
+18. Death
+19. Sepultura
+20. Kreator
+21. Children of Bodom
+22. Trivium
+23. Nightwish
+24. Gamma Ray
+25. Stratovarius
+26. DevilDriver
+27. Bring Me The Horizon
+28. A Day to Remember
+29. Faith No More
+30. Bruce Dickinson
+31. Britney Spears
+32. Lady Gaga
+33. Christina Aguilera
+34. Rihanna
+35. Shakira
+36. Madonna
+37. Beyoncé
+38. Paramore
+39. Avril Lavigne
+40. Katy Perry
+41. Taylor Swift
+42. Miley Cyrus
+43. Ke$ha
+44. Kelly Clarkson
+45. Pink Floyd
+46. Muse
+47. U2
+48. 30 Seconds to Mars
+49. The Killers
+50. Coldplay
+
+These recommendations are based on the user's liking of similar artists and genres.

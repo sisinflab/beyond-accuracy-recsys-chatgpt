@@ -1,0 +1,54 @@
+Based on user 14's preferences, here are the top 50 book recommendations:
+
+1. Inkheart by Cornelia Funke
+2. Inkspell by Cornelia Funke
+3. The Secret Life of Bees by Sue Monk Kidd
+4. Brave New World by Aldous Huxley
+5. Fahrenheit 451 by Ray Bradbury
+6. Anthem (novella) by Ayn Rand
+7. The Outsiders (novel) by S. E. Hinton
+8. Twilight (series)
+9. Dune (novel)
+10. Nineteen Eighty-Four
+11. The Great Gatsby
+12. The Graveyard Book
+13. Mockingjay
+14. The Lord of the Rings
+15. Othello
+16. The Sound and the Fury
+17. To Kill a Mockingbird
+18. Dracula
+19. Macbeth
+20. The Da Vinci Code
+21. Harry Potter
+22. The Sword of Truth
+23. The Wish List
+24. Molly Moon's Incredible Book of Hypnotism
+25. The City of Ember
+26. Howl
+27. Angels & Demons
+28. The Prince
+29. Manga
+30. The Supernaturalist
+31. Northern Lights (novel)
+32. Animorphs
+33. Magician (novel)
+34. Cirque du Freak
+35. So Long, and Thanks for All the Fish
+36. This Is Your Brain On Music
+37. The Last Lecture
+38. Guardians of Ga'Hoole: The Capture
+39. Fear and Loathing in Las Vegas
+40. Maximum Ride
+41. Gone (novel series)
+42. Infinite Jest
+43. Thus Spoke Zarathustra
+44. Skeleton Creek (novel)
+45. Trivia (poem)
+46. Airman (novel)
+47. Dragon Rider (novel)
+48. Airframe (novel)
+49. The Grapes of Wrath
+50. And Then There Were None
+
+These recommendations are based on similar themes, genres, and authors to the books that user 14 likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Katatonia
+2. My Dying Bride
+3. Tiamat
+4. Type O Negative
+5. Swallow the Sun
+6. Insomnium
+7. Dark Tranquillity
+8. In Flames
+9. Soilwork
+10. Darkthrone
+11. Behemoth
+12. Carcass
+13. At the Gates
+14. Paradise Lost
+15. Anathema
+16. Amorphis
+17. Alice in Chains
+18. God Is an Astronaut
+19. Avenged Sevenfold
+20. Opeth
+21. The All-American Rejects
+22. King Diamond
+23. Demon Hunter
+24. Evanescence
+25. Morbid Angel
+26. Muse
+27. HIM
+28. Lacuna Coil
+29. Napalm Death
+30. Slayer
+31. Akira Yamaoka
+32. Queensrÿche
+33. Megadeth
+34. Killswitch Engage
+35. Agalloch
+36. System of a Down
+37. Metallica
+38. blink-182
+39. Bloodbath
+40. Katatonia
+41. My Dying Bride
+42. Tiamat
+43. Type O Negative
+44. Swallow the Sun
+45. Insomnium
+46. Dark Tranquillity
+47. In Flames
+48. Soilwork
+49. Darkthrone
+50. Behemoth
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music within the user's preferred genres.

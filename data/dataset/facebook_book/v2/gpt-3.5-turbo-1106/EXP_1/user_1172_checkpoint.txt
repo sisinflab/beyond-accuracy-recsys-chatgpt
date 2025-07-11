@@ -1,0 +1,54 @@
+Based on user 1172's preferences, here are the top 50 book recommendations:
+
+1. Goosebumps series by R.L. Stine
+2. The Hunger Games series by Suzanne Collins
+3. The Chronicles of Narnia series by C.S. Lewis
+4. The Giver by Lois Lowry
+5. Holes by Louis Sachar
+6. Matilda by Roald Dahl
+7. The Lightning Thief (Percy Jackson & the Olympians) by Rick Riordan
+8. Charlotte's Web by E.B. White
+9. The Hobbit by J.R.R. Tolkien
+10. The Secret Garden by Frances Hodgson Burnett
+11. The BFG by Roald Dahl
+12. The Maze Runner series by James Dashner
+13. The Alchemist by Paulo Coelho
+14. The Catcher in the Rye by J.D. Salinger
+15. The Book Thief by Markus Zusak
+16. The Fault in Our Stars by John Green
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Da Vinci Code by Dan Brown
+19. The Girl on the Train by Paula Hawkins
+20. The Help by Kathryn Stockett
+21. The Night Circus by Erin Morgenstern
+22. The Goldfinch by Donna Tartt
+23. The Martian by Andy Weir
+24. The Handmaid's Tale by Margaret Atwood
+25. The Road by Cormac McCarthy
+26. The Lovely Bones by Alice Sebold
+27. The Kite Runner by Khaled Hosseini
+28. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Glass Castle by Jeannette Walls
+31. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+32. The Nightingale by Kristin Hannah
+33. The Silent Patient by Alex Michaelides
+34. The Tattooist of Auschwitz by Heather Morris
+35. The Alice Network by Kate Quinn
+36. The Great Alone by Kristin Hannah
+37. The Light We Lost by Jill Santopolo
+38. The Wife Between Us by Greer Hendricks and Sarah Pekkanen
+39. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+40. The Nightingale by Kristin Hannah
+41. The Silent Patient by Alex Michaelides
+42. The Tattooist of Auschwitz by Heather Morris
+43. The Alice Network by Kate Quinn
+44. The Great Alone by Kristin Hannah
+45. The Light We Lost by Jill Santopolo
+46. The Wife Between Us by Greer Hendricks and Sarah Pekkanen
+47. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+48. The Nightingale by Kristin Hannah
+49. The Silent Patient by Alex Michaelides
+50. The Tattooist of Auschwitz by Heather Morris
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1172 likes.

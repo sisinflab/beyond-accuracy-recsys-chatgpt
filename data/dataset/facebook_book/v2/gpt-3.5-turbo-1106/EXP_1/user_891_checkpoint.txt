@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Me Before You by Jojo Moyes
+3. Eleanor & Park by Rainbow Rowell
+4. Paper Towns by John Green
+5. The Catcher in the Rye by J.D. Salinger
+6. The Great Gatsby by F. Scott Fitzgerald
+7. To Kill a Mockingbird by Harper Lee
+8. 1984 by George Orwell
+9. The Hunger Games by Suzanne Collins
+10. Divergent by Veronica Roth
+11. The Maze Runner by James Dashner
+12. The Book Thief by Markus Zusak
+13. Thirteen Reasons Why by Jay Asher
+14. The Perks of Being a Wallflower by Stephen Chbosky
+15. Looking for Alaska by John Green
+16. The Alchemist by Paulo Coelho
+17. The Kite Runner by Khaled Hosseini
+18. The Girl on the Train by Paula Hawkins
+19. Gone Girl by Gillian Flynn
+20. The Lovely Bones by Alice Sebold
+21. The Help by Kathryn Stockett
+22. The Night Circus by Erin Morgenstern
+23. The Goldfinch by Donna Tartt
+24. The Secret History by Donna Tartt
+25. The Bell Jar by Sylvia Plath
+26. The Handmaid's Tale by Margaret Atwood
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Shining by Stephen King
+29. The Stand by Stephen King
+30. It by Stephen King
+31. The Hobbit by J.R.R. Tolkien
+32. The Lord of the Rings by J.R.R. Tolkien
+33. The Chronicles of Narnia by C.S. Lewis
+34. The Name of the Wind by Patrick Rothfuss
+35. Mistborn: The Final Empire by Brandon Sanderson
+36. The Way of Kings by Brandon Sanderson
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Name of the Wind by Patrick Rothfuss
+39. The Wise Man's Fear by Patrick Rothfuss
+40. The Eye of the World by Robert Jordan
+41. The Final Empire by Brandon Sanderson
+42. The Fellowship of the Ring by J.R.R. Tolkien
+43. The Two Towers by J.R.R. Tolkien
+44. The Return of the King by J.R.R. Tolkien
+45. The Martian by Andy Weir
+46. Ready Player One by Ernest Cline
+47. Dark Matter by Blake Crouch
+48. Red Rising by Pierce Brown
+49. The Power of One by Bryce Courtenay
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's interest in various genres and authors.

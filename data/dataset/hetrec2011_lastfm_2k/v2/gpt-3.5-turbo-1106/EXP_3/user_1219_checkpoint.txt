@@ -1,0 +1,54 @@
+Based on user 1219's preferences, here are the top-50 recommendations for the given artists:
+
+1. Radiohead
+2. Franz Ferdinand
+3. Pearl Jam
+4. The Strokes
+5. Death Cab for Cutie
+6. Beck
+7. Interpol
+8. Kasabian
+9. Mylène Farmer
+10. Snow Patrol
+11. Sigur Rós
+12. Placebo
+13. The Cure
+14. Lily Allen
+15. Maroon 5
+16. The Beatles
+17. Alanis Morissette
+18. Dido
+19. The Last Shadow Puppets
+20. Arctic Monkeys
+21. Muse
+22. The Killers
+23. Coldplay
+24. Oasis
+25. Keane
+26. Green Day
+27. Manic Street Preachers
+28. Razorlight
+29. The Fray
+30. Lifehouse
+31. The Vines
+32. Athlete
+33. Avril Lavigne
+34. Lights
+35. Tegan and Sara
+36. Augustana
+37. Flunk
+38. Franz Ferdinand
+39. The Cardigans
+40. The Bravery
+41. Modest Mouse
+42. Arcade Fire
+43. Client
+44. Klaxons
+45. The Vines
+46. Jewel
+47. Armin van Buuren
+48. Morcheeba
+49. Suzanne Vega
+50. Zемфира
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Giver by Lois Lowry
+2. The Hunger Games by Suzanne Collins
+3. The Fault in Our Stars by John Green
+4. Paper Towns by John Green
+5. Thirteen Reasons Why by Jay Asher
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. Divergent by Veronica Roth
+8. The Maze Runner by James Dashner
+9. Eleanor & Park by Rainbow Rowell
+10. If I Stay by Gayle Forman
+11. The Book Thief by Markus Zusak
+12. The Outsiders by S.E. Hinton
+13. Speak by Laurie Halse Anderson
+14. Stargirl by Jerry Spinelli
+15. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Kite Runner by Khaled Hosseini
+18. The House on Mango Street by Sandra Cisneros
+19. The Bell Jar by Sylvia Plath
+20. The Handmaid's Tale by Margaret Atwood
+21. The Glass Castle by Jeannette Walls
+22. The Color Purple by Alice Walker
+23. The Joy Luck Club by Amy Tan
+24. The Poisonwood Bible by Barbara Kingsolver
+25. The Secret History by Donna Tartt
+26. The Goldfinch by Donna Tartt
+27. The Night Circus by Erin Morgenstern
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Girl on the Train by Paula Hawkins
+30. Gone Girl by Gillian Flynn
+31. The Help by Kathryn Stockett
+32. Room by Emma Donoghue
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Girl Who Played with Fire by Stieg Larsson
+35. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+36. The Martian by Andy Weir
+37. Ready Player One by Ernest Cline
+38. The Nightingale by Kristin Hannah
+39. All the Light We Cannot See by Anthony Doerr
+40. The Great Gatsby by F. Scott Fitzgerald
+41. 1984 by George Orwell
+42. Animal Farm by George Orwell
+43. Brave New World by Aldous Huxley
+44. Fahrenheit 451 by Ray Bradbury
+45. Lord of the Flies by William Golding
+46. The Road by Cormac McCarthy
+47. The Handmaid's Tale by Margaret Atwood
+48. The Catcher in the Rye by J.D. Salinger
+49. To Kill a Mockingbird by Harper Lee
+50. A Wrinkle in Time by Madeleine L'Engle
+
+These recommendations are based on the user's liking for young adult fiction, coming-of-age stories, and classic literature.

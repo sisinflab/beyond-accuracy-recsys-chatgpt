@@ -1,0 +1,24 @@
+Based on the user's liking of certain books, I would recommend the following books to user 809:
+
+1. The Catcher in the Rye
+2. The Great Gatsby
+3. The Picture of Dorian Gray
+4. Brave New World
+5. The Hobbit
+6. The Lord of the Rings
+7. Dracula
+8. Frankenstein
+9. Crime and Punishment
+10. The Stand
+11. The Phantom of the Opera
+12. The Giver
+13. The Maze Runner
+14. The City of Ember
+15. The Southern Vampire Mysteries
+16. World War Z
+17. The Unbearable Lightness of Being
+18. The Lost Books (novel series)
+19. Harry Potter
+20. The Pillowman
+
+These recommendations are based on the user's liking of similar books and are ranked in order of likelihood of enjoyment based on their previous preferences.

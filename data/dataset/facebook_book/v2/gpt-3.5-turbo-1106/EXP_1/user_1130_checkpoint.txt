@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fruits Basket by Natsuki Takaya
+2. Black Butler by Yana Toboso
+3. Death Note by Tsugumi Ohba
+4. Attack on Titan by Hajime Isayama
+5. Tokyo Ghoul by Sui Ishida
+6. One Piece by Eiichiro Oda
+7. Bleach by Tite Kubo
+8. Fairy Tail by Hiro Mashima
+9. One Punch Man by ONE
+10. Dragon Ball by Akira Toriyama
+11. My Hero Academia by Kohei Horikoshi
+12. Vampire Knight by Matsuri Hino
+13. Inuyasha by Rumiko Takahashi
+14. Yu Yu Hakusho by Yoshihiro Togashi
+15. Cardcaptor Sakura by CLAMP
+16. Shaman King by Hiroyuki Takei
+17. Rurouni Kenshin by Nobuhiro Watsuki
+18. Yu-Gi-Oh! by Kazuki Takahashi
+19. Case Closed by Gosho Aoyama
+20. Blue Exorcist by Kazue Kato
+21. The Promised Neverland by Kaiu Shirai
+22. Assassination Classroom by Yusei Matsui
+23. Black Clover by Yūki Tabata
+24. Haikyu!! by Haruichi Furudate
+25. Demon Slayer: Kimetsu no Yaiba by Koyoharu Gotouge
+26. Magi: The Labyrinth of Magic by Shinobu Ohtaka
+27. The Seven Deadly Sins by Nakaba Suzuki
+28. Noragami by Adachitoka
+29. Seraph of the End by Takaya Kagami
+30. Akame ga Kill! by Takahiro
+31. The Rising of the Shield Hero by Aneko Yusagi
+32. High School DxD by Ichiei Ishibumi
+33. Tokyo Mew Mew by Reiko Yoshida
+34. Pandora Hearts by Jun Mochizuki
+35. Hellsing by Kouta Hirano
+36. Claymore by Norihiro Yagi
+37. Nana by Ai Yazawa
+38. Skip Beat! by Yoshiki Nakamura
+39. Gintama by Hideaki Sorachi
+40. Katekyo Hitman Reborn! by Akira Amano
+41. Toriko by Mitsutoshi Shimabukuro
+42. Food Wars! by Yuto Tsukuda
+43. The Ancient Magus' Bride by Kore Yamazaki
+44. Kuroko's Basketball by Tadatoshi Fujimaki
+45. Durarara!! by Ryohgo Narita
+46. Blue Spring Ride by Io Sakisaka
+47. Lovely★Complex by Aya Nakahara
+48. Nisekoi: False Love by Naoshi Komi
+49. The Melancholy of Haruhi Suzumiya by Nagaru Tanigawa
+50. Sword Art Online by Reki Kawahara
+
+These recommendations are based on similar genres and themes to the books the user already likes.

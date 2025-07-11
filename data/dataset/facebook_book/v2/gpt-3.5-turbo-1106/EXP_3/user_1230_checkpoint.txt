@@ -1,0 +1,54 @@
+Based on user 1230's preferences, here are the top 50 book recommendations:
+
+1. Dracula
+2. The Lord of the Rings
+3. The Hobbit
+4. Percy Jackson & the Olympians
+5. The Farseer Trilogy
+6. Eragon
+7. Inheritance Cycle
+8. The Dresden Files
+9. The Zombie Survival Guide
+10. Sun Bin's Art of War
+11. Twenty Thousand Leagues Under the Sea
+12. Divine Comedy
+13. Memoirs of a Geisha
+14. Kafka on the Shore
+15. The Murder of Roger Ackroyd
+16. The Innocent Man: Murder and Injustice in a Small Town
+17. Red Inferno: 1945
+18. Black Hawk Down
+19. The Client (novel)
+20. Next (novel)
+21. Dead Until Dark
+22. Dear John (novel)
+23. Choke (novel)
+24. The Firm (novel)
+25. Life of Pi
+26. A Streetcar Named Desire (play)
+27. Brave New World
+28. Go Ask Alice
+29. Age of the Five
+30. The Memory Keeper's Daughter
+31. A Lion Among Men
+32. Impulse economy
+33. The League of Extraordinary Gentlemen (novel)
+34. Marvel Zombies (series)
+35. Gossip Girl (novel series)
+36. Twilight (series)
+37. Skulduggery Pleasant
+38. The Wardstone Chronicles
+39. Blue Bloods (novel series)
+40. Anansi Boys
+41. The Watchmen (novel)
+42. Sin City
+43. Where the Red Fern Grows
+44. Skeleton Creek (novel)
+45. Tales of the Otori
+46. Mythology (book)
+47. Harriet the Spy
+48. Ranger's Apprentice
+49. I Hope They Serve Beer in Hell
+50. The Killing Joke (novel)
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1230 likes.

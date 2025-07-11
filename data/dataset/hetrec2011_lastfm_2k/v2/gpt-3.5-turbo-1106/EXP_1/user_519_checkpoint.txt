@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Slayer
+3. Pantera
+4. Anthrax
+5. Testament
+6. Overkill
+7. Exodus
+8. Sepultura
+9. Lamb of God
+10. Opeth
+11. Mastodon
+12. Tool
+13. Slipknot
+14. Rammstein
+15. In Flames
+16. Children of Bodom
+17. Arch Enemy
+18. Meshuggah
+19. Gojira
+20. Trivium
+21. Machine Head
+22. Kreator
+23. Dark Tranquillity
+24. At the Gates
+25. Carcass
+26. Death
+27. Morbid Angel
+28. Cannibal Corpse
+29. Behemoth
+30. Dimmu Borgir
+31. Cradle of Filth
+32. Emperor
+33. Satyricon
+34. Mayhem
+35. Watain
+36. Enslaved
+37. Borknagar
+38. Immortal
+39. Gorgoroth
+40. Darkthrone
+41. Burzum
+42. Ulver
+43. Taake
+44. 1349
+45. Marduk
+46. Rotting Christ
+47. Samael
+48. Moonspell
+49. Tiamat
+50. Paradise Lost
+
+These recommendations are based on the user's liking of heavy metal and related genres, as well as some alternative and rock bands.

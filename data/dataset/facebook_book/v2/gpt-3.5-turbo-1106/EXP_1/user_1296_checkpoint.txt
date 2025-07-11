@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. War and Peace by Leo Tolstoy
+3. Anna Karenina by Leo Tolstoy
+4. The Idiot by Fyodor Dostoyevsky
+5. The Count of Monte Cristo by Alexandre Dumas
+6. The Hunchback of Notre-Dame by Victor Hugo
+7. The Three Musketeers by Alexandre Dumas
+8. Great Expectations by Charles Dickens
+9. Little Women by Louisa May Alcott
+10. To Kill a Mockingbird by Harper Lee
+11. The Catcher in the Rye by J.D. Salinger
+12. One Hundred Years of Solitude by Gabriel Garcia Marquez
+13. Love in the Time of Cholera by Gabriel Garcia Marquez
+14. The Alchemist by Paulo Coelho
+15. The Little Prince by Antoine de Saint-Exupéry
+16. The Giver by Lois Lowry
+17. The Hunger Games by Suzanne Collins
+18. Divergent by Veronica Roth
+19. The Glass Castle by Jeannette Walls
+20. Running with Scissors by Augusten Burroughs
+21. Tweak by Nic Sheff
+22. The Color Purple by Alice Walker
+23. Angela's Ashes by Frank McCourt
+24. 'Tis by Frank McCourt
+25. Ulysses by James Joyce
+26. Dubliners by James Joyce
+27. The Fountainhead by Ayn Rand
+28. Atlas Shrugged by Ayn Rand
+29. The Power of One by Bryce Courtenay
+30. Shantaram by Gregory David Roberts
+31. The Kite Runner by Khaled Hosseini
+32. A Thousand Splendid Suns by Khaled Hosseini
+33. The Pillars of the Earth by Ken Follett
+34. The Clan of the Cave Bear by Jean M. Auel
+35. The Valley of Horses by Jean M. Auel
+36. The Mists of Avalon by Marion Zimmer Bradley
+37. The Once and Future King by T.H. White
+38. The Screwtape Letters by C.S. Lewis
+39. Mere Christianity by C.S. Lewis
+40. The Great Divorce by C.S. Lewis
+41. The Prince of Tides by Pat Conroy
+42. Beach Music by Pat Conroy
+43. A Farewell to Arms by Ernest Hemingway
+44. The Old Man and the Sea by Ernest Hemingway
+45. The Sun Also Rises by Ernest Hemingway
+46. The Sound and the Fury by William Faulkner
+47. As I Lay Dying by William Faulkner
+48. Absalom, Absalom! by William Faulkner
+49. East of Eden by John Steinbeck
+50. Of Mice and Men by John Steinbeck
+
+These recommendations are based on the user's preference for classic literature, memoirs, and historical fiction.

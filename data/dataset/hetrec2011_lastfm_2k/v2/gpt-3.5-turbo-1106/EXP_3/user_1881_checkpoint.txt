@@ -1,0 +1,54 @@
+Based on user 1881's preferences, here are the top 50 recommendations for the user:
+
+1. David Bowie
+2. Genesis
+3. Eurythmics
+4. New Order
+5. The Cure
+6. Pet Shop Boys
+7. George Michael
+8. Elton John
+9. The Police
+10. The Beatles
+11. U2
+12. Depeche Mode
+13. Duran Duran
+14. Madonna
+15. Britney Spears
+16. Robbie Williams
+17. Michael Jackson
+18. Bon Jovi
+19. Bryan Adams
+20. Tears for Fears
+21. The Corrs
+22. Heart
+23. Dido
+24. Alicia Keys
+25. Maroon 5
+26. Cyndi Lauper
+27. Erasure
+28. Akon
+29. Craig David
+30. Matchbox Twenty
+31. Dido
+32. Archive
+33. Kylie Minogue
+34. Billy Joel
+35. Paul McCartney
+36. Amy Winehouse
+37. PJ Harvey
+38. Hall & Oates
+39. A-ha
+40. Muse
+41. Simply Red
+42. Nine Inch Nails
+43. Howard Jones
+44. Culture Club
+45. Thompson Twins
+46. Nik Kershaw
+47. Ultravox
+48. Sigur Rós
+49. The Human League
+50. Iron Maiden
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that the user may enjoy.

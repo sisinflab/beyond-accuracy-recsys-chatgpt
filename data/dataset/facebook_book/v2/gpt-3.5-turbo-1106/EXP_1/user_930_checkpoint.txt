@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. War and Peace by Leo Tolstoy
+2. The Great Gatsby by F. Scott Fitzgerald
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Brothers Karamazov by Fyodor Dostoyevsky
+8. The Odyssey by Homer
+9. Don Quixote by Miguel de Cervantes
+10. The Divine Comedy by Dante Alighieri
+11. The Adventures of Tom Sawyer by Mark Twain
+12. The Picture of Dorian Gray by Oscar Wilde
+13. Anna Karenina by Leo Tolstoy
+14. Brave New World by Aldous Huxley
+15. The Count of Monte Cristo by Alexandre Dumas
+16. The Grapes of Wrath by John Steinbeck
+17. Crime and Punishment by Fyodor Dostoyevsky
+18. The Hobbit by J.R.R. Tolkien
+19. The Pilgrim's Progress by John Bunyan
+20. Twenty Thousand Leagues Under the Sea by Jules Verne
+21. The Lord of the Rings by J.R.R. Tolkien
+22. Adventures of Huckleberry Finn by Mark Twain
+23. Tender Is the Night by F. Scott Fitzgerald
+24. Paradise Lost by John Milton
+25. A Farewell to Arms by Ernest Hemingway
+26. Moby-Dick by Herman Melville
+27. The Sound and the Fury by William Faulkner
+28. The Sun Also Rises by Ernest Hemingway
+29. The Iliad by Homer
+30. The Stranger by Albert Camus
+31. The Old Man and the Sea by Ernest Hemingway
+32. The Scarlet Letter by Nathaniel Hawthorne
+33. The Canterbury Tales by Geoffrey Chaucer
+34. The Bell Jar by Sylvia Plath
+35. The Metamorphosis by Franz Kafka
+36. The Trial by Franz Kafka
+37. The Plague by Albert Camus
+38. The Idiot by Fyodor Dostoyevsky
+39. The Master and Margarita by Mikhail Bulgakov
+40. The Unbearable Lightness of Being by Milan Kundera
+41. The Name of the Rose by Umberto Eco
+42. The Stranger by Harlan Coben
+43. The Secret History by Donna Tartt
+44. The Shadow of the Wind by Carlos Ruiz Zafon
+45. The Book Thief by Markus Zusak
+46. The Night Circus by Erin Morgenstern
+47. The Alchemist by Paulo Coelho
+48. The Kite Runner by Khaled Hosseini
+49. The Secret Life of Bees by Sue Monk Kidd
+50. The Help by Kathryn Stockett
+
+These recommendations are based on the user's interest in classic literature, adventure, and psychological themes.

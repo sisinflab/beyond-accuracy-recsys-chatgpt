@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Air
+2. Thievery Corporation
+3. Morcheeba
+4. Hooverphonic
+5. Röyksopp
+6. The Cinematic Orchestra
+7. Kruder & Dorfmeister
+8. Nightmares on Wax
+9. DJ Shadow
+10. Boards of Canada
+11. Frou Frou
+12. Moloko
+13. Sneaker Pimps
+14. Télépopmusik
+15. Tricky
+16. Massive Attack
+17. Zero 7
+18. Portishead
+19. Goldfrapp
+20. Radiohead
+21. Lamb
+22. Bonobo
+23. Emiliana Torrini
+24. Little Dragon
+25. The xx
+26. London Grammar
+27. FKA twigs
+28. Lana Del Rey
+29. Sia
+30. Florence + The Machine
+31. Lykke Li
+32. Bat for Lashes
+33. Imogen Heap
+34. Björk
+35. Fiona Apple
+36. Norah Jones
+37. Amy Winehouse
+38. Nina Simone
+39. Ella Fitzgerald
+40. Etta James
+41. Sarah Vaughan
+42. Dinah Washington
+43. Peggy Lee
+44. Julie London
+45. Eartha Kitt
+46. Diana Krall
+47. Madeleine Peyroux
+48. Melody Gardot
+49. Stacey Kent
+50. Cassandra Wilson
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Covenant
+2. Camouflage
+3. Assemblage 23
+4. Iris
+5. Wolfsheim
+6. Blutengel
+7. The Birthday Massacre
+8. Rotersand
+9. Seabound
+10. Neuroticfish
+11. Andain
+12. Diary of Dreams
+13. Frozen Plasma
+14. Solar Fake
+15. Ashbury Heights
+16. Aesthetic Perfection
+17. Diorama
+18. Apoptygma Berzerk
+19. De/Vision
+20. Depeche Mode
+21. Ladytron
+22. Mesh
+23. VNV Nation
+24. Massive Attack
+25. Electric Light Orchestra
+26. Muse
+27. The Knife
+28. Crystal Castles
+29. Chvrches
+30. Grimes
+31. Purity Ring
+32. Phantogram
+33. Goldfrapp
+34. Little Boots
+35. La Roux
+36. IAMX
+37. She Wants Revenge
+38. The Faint
+39. White Lies
+40. Editors
+41. Interpol
+42. The Bravery
+43. Placebo
+44. The Killers
+45. Joy Division
+46. New Order
+47. The Cure
+48. Duran Duran
+49. Tears for Fears
+50. Pet Shop Boys
+
+These recommendations are based on the user's liking of similar artists and genres.

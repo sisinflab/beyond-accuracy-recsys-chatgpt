@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Animal Farm by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. Lord of the Flies by William Golding
+7. Brave New World by Aldous Huxley
+8. The Grapes of Wrath by John Steinbeck
+9. East of Eden by John Steinbeck
+10. The Old Man and the Sea by Ernest Hemingway
+11. The Sun Also Rises by Ernest Hemingway
+12. A Farewell to Arms by Ernest Hemingway
+13. The Sound and the Fury by William Faulkner
+14. As I Lay Dying by William Faulkner
+15. The Scarlet Letter by Nathaniel Hawthorne
+16. Moby-Dick by Herman Melville
+17. The Adventures of Huckleberry Finn by Mark Twain
+18. The Adventures of Tom Sawyer by Mark Twain
+19. The Picture of Dorian Gray by Oscar Wilde
+20. Dracula by Bram Stoker
+21. Frankenstein by Mary Shelley
+22. Wuthering Heights by Emily Brontë
+23. Jane Eyre by Charlotte Brontë
+24. Crime and Punishment by Fyodor Dostoevsky
+25. The Brothers Karamazov by Fyodor Dostoevsky
+26. Anna Karenina by Leo Tolstoy
+27. War and Peace by Leo Tolstoy
+28. The Count of Monte Cristo by Alexandre Dumas
+29. Les Misérables by Victor Hugo
+30. The Hunchback of Notre-Dame by Victor Hugo
+31. The Three Musketeers by Alexandre Dumas
+32. The Picture of Dorian Gray by Oscar Wilde
+33. Dracula by Bram Stoker
+34. Frankenstein by Mary Shelley
+35. Wuthering Heights by Emily Brontë
+36. Jane Eyre by Charlotte Brontë
+37. Crime and Punishment by Fyodor Dostoevsky
+38. The Brothers Karamazov by Fyodor Dostoevsky
+39. Anna Karenina by Leo Tolstoy
+40. War and Peace by Leo Tolstoy
+41. The Count of Monte Cristo by Alexandre Dumas
+42. Les Misérables by Victor Hugo
+43. The Hunchback of Notre-Dame by Victor Hugo
+44. The Three Musketeers by Alexandre Dumas
+45. The Picture of Dorian Gray by Oscar Wilde
+46. Dracula by Bram Stoker
+47. Frankenstein by Mary Shelley
+48. Wuthering Heights by Emily Brontë
+49. Jane Eyre by Charlotte Brontë
+50. Crime and Punishment by Fyodor Dostoevsky
+
+These recommendations are based on the user's interest in classic literature and similar genres to the books they have already enjoyed.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. Fahrenheit 451 by Ray Bradbury
+5. The Catcher in the Rye by J.D. Salinger
+6. One Flew Over the Cuckoo's Nest by Ken Kesey
+7. The Road by Cormac McCarthy
+8. The Bell Jar by Sylvia Plath
+9. The Handmaid's Tale by Margaret Atwood
+10. A Clockwork Orange by Anthony Burgess
+11. The Stranger by Albert Camus
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. Dune by Frank Herbert
+14. Neuromancer by William Gibson
+15. Do Androids Dream of Electric Sheep? by Philip K. Dick
+16. The Martian by Andy Weir
+17. Snow Crash by Neal Stephenson
+18. The Name of the Wind by Patrick Rothfuss
+19. American Gods by Neil Gaiman
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Alchemist by Paulo Coelho
+22. The Kite Runner by Khaled Hosseini
+23. The Book Thief by Markus Zusak
+24. The Night Circus by Erin Morgenstern
+25. The Goldfinch by Donna Tartt
+26. The Secret History by Donna Tartt
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Count of Monte Cristo by Alexandre Dumas
+29. The Brothers Karamazov by Fyodor Dostoevsky
+30. Crime and Punishment by Fyodor Dostoevsky
+31. The Master and Margarita by Mikhail Bulgakov
+32. The Wind-Up Bird Chronicle by Haruki Murakami
+33. Norwegian Wood by Haruki Murakami
+34. The Hand of Fatima by Ildefonso Falcones
+35. The Pillars of the Earth by Ken Follett
+36. The Name of the Rose by Umberto Eco
+37. The God of Small Things by Arundhati Roy
+38. The Poisonwood Bible by Barbara Kingsolver
+39. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+40. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+41. The Road to Wellville by T.C. Boyle
+42. The Shipping News by Annie Proulx
+43. The Corrections by Jonathan Franzen
+44. The History of Love by Nicole Krauss
+45. The Art of Racing in the Rain by Garth Stein
+46. The Nightingale by Kristin Hannah
+47. The Light Between Oceans by M.L. Stedman
+48. The Night Circus by Erin Morgenstern
+49. The Goldfinch by Donna Tartt
+50. The Secret History by Donna Tartt
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1271 likes.

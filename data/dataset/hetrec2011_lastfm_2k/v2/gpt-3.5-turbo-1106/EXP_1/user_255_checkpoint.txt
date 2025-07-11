@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bonobo
+2. Boards of Canada
+3. Lamb
+4. Thievery Corporation
+5. Tricky
+6. Emancipator
+7. DJ Shadow
+8. Morcheeba
+9. RJD2
+10. Zero 7
+11. Little Dragon
+12. Tycho
+13. Goldfrapp
+14. Air
+15. Nightmares on Wax
+16. The Herbaliser
+17. Ulver
+18. Archive
+19. Hooverphonic
+20. Moby
+21. Kruder & Dorfmeister
+22. The xx
+23. FKA twigs
+24. Portico Quartet
+25. Morcheeba
+26. Zero 7
+27. Little Dragon
+28. Tycho
+29. Goldfrapp
+30. Air
+31. Nightmares on Wax
+32. The Herbaliser
+33. Ulver
+34. Archive
+35. Hooverphonic
+36. Moby
+37. Kruder & Dorfmeister
+38. The xx
+39. FKA twigs
+40. Portico Quartet
+41. The Knife
+42. Fever Ray
+43. Moderat
+44. Trentemøller
+45. GusGus
+46. The Notwist
+47. Lamb
+48. Thievery Corporation
+49. Emancipator
+50. DJ Shadow
+
+These recommendations are based on the user's liking of similar artists and genres.

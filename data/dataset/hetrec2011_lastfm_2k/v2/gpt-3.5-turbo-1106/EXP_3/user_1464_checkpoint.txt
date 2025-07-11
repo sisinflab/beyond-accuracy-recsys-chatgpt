@@ -1,0 +1,54 @@
+Based on user 1464's preferences, here are the top 50 recommendations for the given artists:
+
+1. Radiohead
+2. Nirvana
+3. Queens of the Stone Age
+4. The Killers
+5. The Beatles
+6. Muse
+7. Red Hot Chili Peppers
+8. Coldplay
+9. Linkin Park
+10. System of a Down
+11. A Perfect Circle
+12. Placebo
+13. Nine Inch Nails
+14. The Cure
+15. Interpol
+16. Marilyn Manson
+17. Franz Ferdinand
+18. Depeche Mode
+19. Oasis
+20. Beck
+21. Bloc Party
+22. Modest Mouse
+23. Death Cab for Cutie
+24. The Smiths
+25. Lady Gaga
+26. AFI
+27. Elliott Smith
+28. Phoenix
+29. Metric
+30. La Roux
+31. Crystal Castles
+32. Maroon 5
+33. Thom Yorke
+34. Beirut
+35. Belle and Sebastian
+36. The Jesus and Mary Chain
+37. Kaiser Chiefs
+38. Blur
+39. Lily Allen
+40. The Smiths
+41. Tegan and Sara
+42. Paramore
+43. Michael Bublé
+44. Madonna
+45. George Harrison
+46. She Wants Revenge
+47. Alexisonfire
+48. Bring Me The Horizon
+49. Clint Mansell
+50. Cansei de Ser Sexy
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for their enjoyment.

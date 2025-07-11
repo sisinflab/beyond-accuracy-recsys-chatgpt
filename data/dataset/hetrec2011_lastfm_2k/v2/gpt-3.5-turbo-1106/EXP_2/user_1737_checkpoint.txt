@@ -1,0 +1,54 @@
+Based on user 1737's preferences, here is a re-ranked list of artists as top-50 recommendations:
+
+1. Nine Inch Nails
+2. Deftones
+3. Tool
+4. Incubus
+5. Amon Tobin
+6. System of a Down
+7. Chevelle
+8. Korn
+9. 65daysofstatic
+10. God Is an Astronaut
+11. Circa Survive
+12. dredg
+13. ASIAN KUNG-FU GENERATION
+14. Chiodos
+15. Bloc Party
+16. Muse
+17. Radiohead
+18. 30 Seconds to Mars
+19. Placebo
+20. The Killers
+21. Nirvana
+22. My Chemical Romance
+23. Green Day
+24. Linkin Park
+25. Avenged Sevenfold
+26. Iron Maiden
+27. Metallica
+28. Pearl Jam
+29. Led Zeppelin
+30. Michael Jackson
+31. U2
+32. Coldplay
+33. Pink Floyd
+34. The Beatles
+35. The Cure
+36. Depeche Mode
+37. Duran Duran
+38. a-ha
+39. Madonna
+40. Lady Gaga
+41. Rihanna
+42. Beyoncé
+43. Christina Aguilera
+44. Britney Spears
+45. Shakira
+46. Katy Perry
+47. Avril Lavigne
+48. Taylor Swift
+49. Paramore
+50. Miley Cyrus
+
+These recommendations are based on the user's liking of similar artists and may not necessarily reflect the user's personal preferences.

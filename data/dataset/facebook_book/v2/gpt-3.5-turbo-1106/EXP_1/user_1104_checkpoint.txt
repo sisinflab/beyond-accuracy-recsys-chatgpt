@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Perks of Being a Wallflower by Stephen Chbosky
+2. The Catcher in the Rye by J.D. Salinger
+3. The Bell Jar by Sylvia Plath
+4. Girl, Interrupted by Susanna Kaysen
+5. It's Kind of a Funny Story by Ned Vizzini
+6. The Lovely Bones by Alice Sebold
+7. The Secret Life of Bees by Sue Monk Kidd
+8. The Glass Castle by Jeannette Walls
+9. The Kite Runner by Khaled Hosseini
+10. The Book Thief by Markus Zusak
+11. The Fault in Our Stars by John Green
+12. Looking for Alaska by John Green
+13. Eleanor & Park by Rainbow Rowell
+14. Speak by Laurie Halse Anderson
+15. Thirteen Reasons Why by Jay Asher
+16. The Hate U Give by Angie Thomas
+17. All the Bright Places by Jennifer Niven
+18. We Were Liars by E. Lockhart
+19. Before I Fall by Lauren Oliver
+20. If I Stay by Gayle Forman
+21. Wintergirls by Laurie Halse Anderson
+22. The Outsiders by S.E. Hinton
+23. The Giver by Lois Lowry
+24. The Maze Runner by James Dashner
+25. Divergent by Veronica Roth
+26. The Hunger Games by Suzanne Collins
+27. The Road by Cormac McCarthy
+28. Room by Emma Donoghue
+29. The Lovely Bones by Alice Sebold
+30. The Help by Kathryn Stockett
+31. The Alchemist by Paulo Coelho
+32. The Night Circus by Erin Morgenstern
+33. The Goldfinch by Donna Tartt
+34. The Time Traveler's Wife by Audrey Niffenegger
+35. The Girl on the Train by Paula Hawkins
+36. Gone Girl by Gillian Flynn
+37. The Handmaid's Tale by Margaret Atwood
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Da Vinci Code by Dan Brown
+40. The Shadow of the Wind by Carlos Ruiz Zafón
+41. The Name of the Wind by Patrick Rothfuss
+42. The Martian by Andy Weir
+43. Ready Player One by Ernest Cline
+44. Dark Matter by Blake Crouch
+45. The Silent Patient by Alex Michaelides
+46. The Nightingale by Kristin Hannah
+47. Where the Crawdads Sing by Delia Owens
+48. Educated by Tara Westover
+49. Little Fires Everywhere by Celeste Ng
+50. The Great Alone by Kristin Hannah
+
+These recommendations are based on the user's interest in fiction, psychological thrillers, and coming-of-age stories.

@@ -1,0 +1,54 @@
+Based on user 1979's preferences, here are the top 50 recommendations for the user:
+
+1. Madonna
+2. Cher
+3. Britney Spears
+4. Lady Gaga
+5. Cyndi Lauper
+6. Katy Perry
+7. Duffy
+8. Michael Jackson
+9. Rihanna
+10. Elton John
+11. Amy Winehouse
+12. ABBA
+13. Avril Lavigne
+14. Blondie
+15. Sky Ferreira
+16. Amy Macdonald
+17. Lily Allen
+18. Ellie Goulding
+19. Ace of Base
+20. Robyn
+21. Paris Hilton
+22. Glee Cast
+23. Lindsay Lohan
+24. Miley Cyrus
+25. Hurts
+26. The Pretty Reckless
+27. Björk
+28. Uffie
+29. Fergie
+30. Eminem
+31. Goldfrapp
+32. Cascada
+33. No Doubt
+34. Florence + the Machine
+35. Black Eyed Peas
+36. Sophie Ellis-Bextor
+37. Nelly Furtado
+38. M.I.A.
+39. Beyoncé
+40. Eurythmics
+41. Daft Punk
+42. Ke$ha
+43. Adele
+44. Christina Aguilera
+45. Janet Jackson
+46. Shakira
+47. Jamiroquai
+48. Robbie Williams
+49. Kylie Minogue
+50. Gwen Stefani
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

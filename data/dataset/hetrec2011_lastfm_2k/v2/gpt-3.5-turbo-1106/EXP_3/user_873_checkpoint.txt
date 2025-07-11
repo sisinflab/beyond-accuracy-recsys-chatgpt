@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Rihanna
+2. Amy Winehouse
+3. Ne-Yo
+4. Avril Lavigne
+5. Miley Cyrus
+6. Destiny's Child
+7. Gwen Stefani
+8. Kelly Clarkson
+9. Ke$ha
+10. Shakira
+11. Bruno Mars
+12. Usher
+13. Hilary Duff
+14. Jay Sean
+15. Demi Lovato
+16. Vanessa Hudgens
+17. Cheryl Cole
+18. Adam Lambert
+19. Pixie Lott
+20. Hannah Montana
+21. Céline Dion
+22. Carrie Underwood
+23. Florence + the Machine
+24. The Veronicas
+25. Joss Stone
+26. Ana Carolina
+27. Wanessa
+28. M.I.A.
+29. t.A.T.u.
+30. Ivete Sangalo
+31. A*Teens
+32. Roberta Sá
+33. Kelly Clarkson
+34. Mamonas Assassinas
+35. Kelis
+36. Laura Pausini
+37. Sky Ferreira
+38. Backstreet Boys
+39. Jeffree Star
+40. Spice Girls
+41. Rouge
+42. Good Charlotte
+43. BoA
+44. Pitty
+45. Glee Cast
+46. 3OH!3
+47. Cascada
+48. RBD
+49. Girlicious
+50. Sandy e Junior
+
+These recommendations are based on similar artists liked by the user and are tailored to their music preferences.

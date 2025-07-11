@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. The Catcher in the Rye by J.D. Salinger
+3. The Da Vinci Code by Dan Brown
+4. The Stand by Stephen King
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Road by Cormac McCarthy
+7. The Hunger Games by Suzanne Collins
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. To Kill a Mockingbird by Harper Lee
+12. The Grapes of Wrath by John Steinbeck
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Kite Runner by Khaled Hosseini
+15. The Alchemist by Paulo Coelho
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Lovely Bones by Alice Sebold
+18. The Help by Kathryn Stockett
+19. The Book Thief by Markus Zusak
+20. The Giver by Lois Lowry
+21. The Maze Runner by James Dashner
+22. The Fault in Our Stars by John Green
+23. The Outsiders by S.E. Hinton
+24. The Perks of Being a Wallflower by Stephen Chbosky
+25. The Road to Woodbury by Robert Kirkman
+26. The Walking Dead: Rise of the Governor by Robert Kirkman
+27. The Martian by Andy Weir
+28. The Revenant by Michael Punke
+29. The Girl on the Train by Paula Hawkins
+30. The Night Circus by Erin Morgenstern
+31. The Goldfinch by Donna Tartt
+32. The Handmaid's Tale by Margaret Atwood
+33. The Time Traveler's Wife by Audrey Niffenegger
+34. The Help by Kathryn Stockett
+35. The Book Thief by Markus Zusak
+36. The Giver by Lois Lowry
+37. The Maze Runner by James Dashner
+38. The Fault in Our Stars by John Green
+39. The Outsiders by S.E. Hinton
+40. The Perks of Being a Wallflower by Stephen Chbosky
+41. The Road to Woodbury by Robert Kirkman
+42. The Walking Dead: Rise of the Governor by Robert Kirkman
+43. The Martian by Andy Weir
+44. The Revenant by Michael Punke
+45. The Girl on the Train by Paula Hawkins
+46. The Night Circus by Erin Morgenstern
+47. The Goldfinch by Donna Tartt
+48. The Handmaid's Tale by Margaret Atwood
+49. The Time Traveler's Wife by Audrey Niffenegger
+50. The Help by Kathryn Stockett
+
+These recommendations are based on the user's interest in authors like John Steinbeck, Stephen King, George Orwell, and Dan Brown, as well as their preference for novels in the thriller, dystopian, and mystery genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Perks of Being a Wallflower by Stephen Chbosky
+3. Looking for Alaska by John Green
+4. Thirteen Reasons Why by Jay Asher
+5. Speak by Laurie Halse Anderson
+6. The Bell Jar by Sylvia Plath
+7. It's Kind of a Funny Story by Ned Vizzini
+8. The Fault in Our Stars by John Green
+9. The Virgin Suicides by Jeffrey Eugenides
+10. Girl, Interrupted by Susanna Kaysen
+11. The Secret History by Donna Tartt
+12. We Were Liars by E. Lockhart
+13. The Lovely Bones by Alice Sebold
+14. Before I Fall by Lauren Oliver
+15. Wintergirls by Laurie Halse Anderson
+16. The Outsiders by S.E. Hinton
+17. Eleanor & Park by Rainbow Rowell
+18. If I Stay by Gayle Forman
+19. The Maze Runner by James Dashner
+20. The Giver by Lois Lowry
+21. Divergent by Veronica Roth
+22. The Hunger Games by Suzanne Collins
+23. Delirium by Lauren Oliver
+24. Matched by Ally Condie
+25. The 5th Wave by Rick Yancey
+26. The Book Thief by Markus Zusak
+27. Everything, Everything by Nicola Yoon
+28. All the Bright Places by Jennifer Niven
+29. The Hate U Give by Angie Thomas
+30. Simon vs. the Homo Sapiens Agenda by Becky Albertalli
+31. The Sun Is Also a Star by Nicola Yoon
+32. To All the Boys I've Loved Before by Jenny Han
+33. Fangirl by Rainbow Rowell
+34. The Fault in Our Stars by John Green
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. Looking for Alaska by John Green
+37. Thirteen Reasons Why by Jay Asher
+38. Speak by Laurie Halse Anderson
+39. The Bell Jar by Sylvia Plath
+40. It's Kind of a Funny Story by Ned Vizzini
+41. The Virgin Suicides by Jeffrey Eugenides
+42. Girl, Interrupted by Susanna Kaysen
+43. The Secret History by Donna Tartt
+44. We Were Liars by E. Lockhart
+45. The Lovely Bones by Alice Sebold
+46. Before I Fall by Lauren Oliver
+47. Wintergirls by Laurie Halse Anderson
+48. The Outsiders by S.E. Hinton
+49. Eleanor & Park by Rainbow Rowell
+50. If I Stay by Gayle Forman
+
+These recommendations are based on the user's interest in contemporary fiction, young adult literature, and coming-of-age stories.

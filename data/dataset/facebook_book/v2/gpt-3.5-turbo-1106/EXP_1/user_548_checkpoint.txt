@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. The Stand by Stephen King
+3. 1984 by George Orwell
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Hobbit by J.R.R. Tolkien
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Road by Cormac McCarthy
+11. The Stranger by Albert Camus
+12. Slaughterhouse-Five by Kurt Vonnegut
+13. One Flew Over the Cuckoo's Nest by Ken Kesey
+14. The Bell Jar by Sylvia Plath
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Old Man and the Sea by Ernest Hemingway
+17. Brave New World by Aldous Huxley
+18. The Grapes of Wrath by John Steinbeck
+19. The Sun Also Rises by Ernest Hemingway
+20. The Catcher in the Rye by J.D. Salinger
+21. The Road by Cormac McCarthy
+22. The Outsider by Stephen King
+23. The Dark Tower series by Stephen King
+24. The Talisman by Stephen King and Peter Straub
+25. The Dead Zone by Stephen King
+26. The Long Walk by Stephen King
+27. The Running Man by Stephen King
+28. The Regulators by Stephen King (as Richard Bachman)
+29. The Tommyknockers by Stephen King
+30. The Eyes of the Dragon by Stephen King
+31. The Dark Half by Stephen King
+32. Needful Things by Stephen King
+33. Gerald's Game by Stephen King
+34. Dolores Claiborne by Stephen King
+35. Rose Madder by Stephen King
+36. Desperation by Stephen King
+37. The Regulators by Stephen King (as Richard Bachman)
+38. Bag of Bones by Stephen King
+39. The Girl Who Loved Tom Gordon by Stephen King
+40. Dreamcatcher by Stephen King
+41. From a Buick 8 by Stephen King
+42. Cell by Stephen King
+43. Lisey's Story by Stephen King
+44. Duma Key by Stephen King
+45. Under the Dome by Stephen King
+46. 11/22/63 by Stephen King
+47. Doctor Sleep by Stephen King
+48. Revival by Stephen King
+49. The Institute by Stephen King
+50. If It Bleeds by Stephen King
+
+These recommendations are based on the user's interest in Stephen King's works and other classic literature.

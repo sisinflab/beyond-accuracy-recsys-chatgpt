@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tame Impala
+2. The National
+3. Bon Iver
+4. Arcade Fire
+5. Sufjan Stevens
+6. Fleet Foxes
+7. Vampire Weekend
+8. The War on Drugs
+9. Caribou
+10. Grimes
+11. The xx
+12. St. Vincent
+13. LCD Soundsystem
+14. Father John Misty
+15. Mac DeMarco
+16. The Antlers
+17. Sharon Van Etten
+18. Beach House
+19. Dirty Projectors
+20. Kurt Vile
+21. Angel Olsen
+22. Mitski
+23. Unknown Mortal Orchestra
+24. Parquet Courts
+25. King Krule
+26. Perfume Genius
+27. Julia Holter
+28. Big Thief
+29. Weyes Blood
+30. Aldous Harding
+31. Mount Eerie
+32. Destroyer
+33. Tim Hecker
+34. Grouper
+35. Julia Jacklin
+36. Cate Le Bon
+37. FKA twigs
+38. Yves Tumor
+39. serpentwithfeet
+40. Arca
+41. Oneohtrix Point Never
+42. Holly Herndon
+43. Jenny Hval
+44. Laurel Halo
+45. Pharmakon
+46. Moor Mother
+47. Yaeji
+48. SOPHIE
+49. 100 gecs
+50. JPEGMAFIA
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 798:
+
+1. System of a Down
+2. Metallica
+3. Lamb of God
+4. Amon Amarth
+5. Meshuggah
+6. Behemoth
+7. Black Label Society
+8. Bloodbath
+9. Cannibal Corpse
+10. Vader
+11. Sepultura
+12. Howard Shore
+13. Eluveitie
+14. Katatonia
+15. The Prodigy
+16. Britney Spears
+17. Lady Gaga
+18. Christina Aguilera
+19. Rihanna
+20. Shakira
+21. Madonna
+22. Beyoncé
+23. Paramore
+24. Avril Lavigne
+25. Katy Perry
+26. Taylor Swift
+27. Evanescence
+28. Glee Cast
+29. U2
+30. Muse
+31. Pink Floyd
+32. Miley Cyrus
+33. Ke$ha
+34. Duran Duran
+35. Coldplay
+36. Blur
+37. Arctic Monkeys
+38. Placebo
+39. The Killers
+40. Nirvana
+41. Iron Maiden
+42. Led Zeppelin
+43. Michael Jackson
+44. Pearl Jam
+45. a-ha
+46. Björk
+47. Daft Punk
+48. Linkin Park
+49. Nine Inch Nails
+50. Green Day
+
+These recommendations are based on the user's liking of similar artists and may not necessarily reflect the user's exact preferences.

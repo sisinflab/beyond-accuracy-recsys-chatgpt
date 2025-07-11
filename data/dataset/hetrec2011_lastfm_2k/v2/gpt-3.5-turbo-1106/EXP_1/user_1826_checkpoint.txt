@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Marilyn Manson
+3. Rammstein
+4. Evanescence
+5. Garbage
+6. The Smashing Pumpkins
+7. Florence + The Machine
+8. Marina and the Diamonds
+9. The Cardigans
+10. The Cranberries
+11. Siouxsie and the Banshees
+12. Tegan and Sara
+13. The xx
+14. Metric
+15. The Naked and Famous
+16. CHVRCHES
+17. La Roux
+18. Grimes
+19. Purity Ring
+20. Crystal Castles
+21. Phantogram
+22. M83
+23. The Knife
+24. Fever Ray
+25. Goldfrapp
+26. Lykke Li
+27. Bat for Lashes
+28. St. Vincent
+29. Halsey
+30. Lorde
+31. Tove Lo
+32. Charli XCX
+33. Haim
+34. Wolf Alice
+35. Warpaint
+36. Sleater-Kinney
+37. Yeah Yeah Yeahs
+38. The Kills
+39. PJ Harvey
+40. Fiona Apple
+41. Alanis Morissette
+42. Tori Amos
+43. Kate Bush
+44. Björk
+45. PJ Harvey
+46. Sia
+47. Lana Del Rey
+48. Lykke Li
+49. Florence + The Machine
+50. Bat for Lashes
+
+These recommendations are based on the user's liking of alternative, rock, pop, and electronic artists, and include similar artists that the user may enjoy based on their preferences.

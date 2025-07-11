@@ -1,0 +1,54 @@
+Based on user 1516's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Britney Spears
+2. Lady Gaga
+3. Rihanna
+4. Katy Perry
+5. Madonna
+6. Shakira
+7. U2
+8. Michael Jackson
+9. Black Eyed Peas
+10. 30 Seconds to Mars
+11. The Beatles
+12. Beyoncé
+13. Paramore
+14. Christina Aguilera
+15. Pink Floyd
+16. Muse
+17. Depeche Mode
+18. Coldplay
+19. Nirvana
+20. Linkin Park
+21. Avril Lavigne
+22. Taylor Swift
+23. Miley Cyrus
+24. Glee Cast
+25. Evanescence
+26. Kylie Minogue
+27. Radiohead
+28. Ke$ha
+29. Duran Duran
+30. Blur
+31. Arctic Monkeys
+32. Placebo
+33. The Killers
+34. Iron Maiden
+35. Amy Winehouse
+36. Led Zeppelin
+37. Metallica
+38. Pearl Jam
+39. a-ha
+40. Björk
+41. System of a Down
+42. Daft Punk
+43. Nine Inch Nails
+44. Kelly Clarkson
+45. All Time Low
+46. P!nk
+47. Avenged Sevenfold
+48. My Chemical Romance
+49. Green Day
+50. The Cure
+
+This re-ranked list is based on the user's liking of the given artists and aims to provide recommendations that align with their preferences.

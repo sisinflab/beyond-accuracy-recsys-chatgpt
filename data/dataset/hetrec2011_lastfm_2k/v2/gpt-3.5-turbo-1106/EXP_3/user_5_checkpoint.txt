@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 5:
+
+1. Pink Floyd
+2. The Beatles
+3. Radiohead
+4. Nirvana
+5. The Smiths
+6. Beck
+7. Arcade Fire
+8. Modest Mouse
+9. The Killers
+10. The Strokes
+11. The White Stripes
+12. Muse
+13. Arctic Monkeys
+14. The Decemberists
+15. Interpol
+16. Kings of Leon
+17. My Chemical Romance
+18. Death Cab for Cutie
+19. Thom Yorke
+20. Bright Eyes
+21. Beirut
+22. Bob Dylan
+23. Jeff Buckley
+24. Air
+25. M. Ward
+26. Red Hot Chili Peppers
+27. Travis
+28. Band of Horses
+29. Green Day
+30. Eels
+31. Clap Your Hands Say Yeah
+32. Damien Rice
+33. Andrew Bird
+34. System of a Down
+35. Gogol Bordello
+36. CAKE
+37. Tom Waits
+38. José González
+39. Placebo
+40. Metric
+41. Soundgarden
+42. The Cure
+43. Bloc Party
+44. MGMT
+45. Mumford & Sons
+46. Pearl Jam
+47. R.E.M.
+48. Rise Against
+49. Pixies
+50. Suede
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

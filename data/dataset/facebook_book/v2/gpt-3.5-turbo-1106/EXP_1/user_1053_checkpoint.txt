@@ -1,0 +1,38 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Drawing of the Three (The Dark Tower, Book 2) by Stephen King
+3. Homeland (Forgotten Realms: The Dark Elf Trilogy, Book 1) by R.A. Salvatore
+4. The Vampire Lestat (The Vampire Chronicles, Book 2) by Anne Rice
+5. The Fellowship of the Ring (The Lord of the Rings, Book 1) by J.R.R. Tolkien
+6. The Crystal Shard (The Legend of Drizzt, Book 4) by R.A. Salvatore
+7. Interview with the Vampire (The Vampire Chronicles, Book 1) by Anne Rice
+8. The Two Towers (The Lord of the Rings, Book 2) by J.R.R. Tolkien
+9. The Waste Lands (The Dark Tower, Book 3) by Stephen King
+10. The Return of the King (The Lord of the Rings, Book 3) by J.R.R. Tolkien
+11. The Vampire Armand (The Vampire Chronicles, Book 6) by Anne Rice
+12. The Dark Tower IV: Wizard and Glass by Stephen King
+13. The Dark Tower V: Wolves of the Calla by Stephen King
+14. The Dark Tower VI: Song of Susannah by Stephen King
+15. The Dark Tower VII: The Dark Tower by Stephen King
+16. The Vampire Queen's Servant (Vampire Queen, Book 1) by Joey W. Hill
+17. The Vampire Lestat (The Vampire Chronicles, Book 2) by Anne Rice
+18. The Vampire Armand (The Vampire Chronicles, Book 6) by Anne Rice
+19. The Tale of the Body Thief (The Vampire Chronicles, Book 4) by Anne Rice
+20. The Vampire Chronicles Collection: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned by Anne Rice
+21. The Vampire Lestat (The Vampire Chronicles, Book 2) by Anne Rice
+22. The Vampire Armand (The Vampire Chronicles, Book 6) by Anne Rice
+23. The Tale of the Body Thief (The Vampire Chronicles, Book 4) by Anne Rice
+24. The Vampire Chronicles Collection: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned by Anne Rice
+25. The Vampire Lestat (The Vampire Chronicles, Book 2) by Anne Rice
+26. The Vampire Armand (The Vampire Chronicles, Book 6) by Anne Rice
+27. The Tale of the Body Thief (The Vampire Chronicles, Book 4) by Anne Rice
+28. The Vampire Chronicles Collection: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned by Anne Rice
+29. The Vampire Lestat (The Vampire Chronicles, Book 2) by Anne Rice
+30. The Vampire Armand (The Vampire Chronicles, Book 6) by Anne Rice
+31. The Tale of the Body Thief (The Vampire Chronicles, Book 4) by Anne Rice
+32. The Vampire Chronicles Collection: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned by Anne Rice
+33. The Vampire Lestat (The Vampire Chronicles, Book 2) by Anne Rice
+34. The Vampire Armand (The Vampire Chronicles, Book 6) by Anne Rice
+35. The Tale of the Body Thief (The Vampire Chronicles, Book 4) by Anne Rice
+36. The Vampire Chronicles Collection: Interview with the

@@ -1,0 +1,54 @@
+Based on the preferences of user 2000, here are the top 50 recommendations for the listed artists:
+
+1. Lady Gaga
+2. Eminem
+3. Jay-Z
+4. Rihanna
+5. Kanye West
+6. Beyoncé
+7. Drake
+8. Nicki Minaj
+9. Usher
+10. Justin Timberlake
+11. Katy Perry
+12. Black Eyed Peas
+13. Mariah Carey
+14. Jennifer Lopez
+15. Enrique Iglesias
+16. P!nk
+17. Shakira
+18. Nelly Furtado
+19. Alicia Keys
+20. Lil' Wayne
+21. T.I.
+22. Flo Rida
+23. 50 Cent
+24. Madonna
+25. Timbaland
+26. David Guetta
+27. Pitbull
+28. Britney Spears
+29. Jason Mraz
+30. Calvin Harris
+31. Christina Aguilera
+32. Glee Cast
+33. Avril Lavigne
+34. Kings of Leon
+35. Leona Lewis
+36. Ke$ha
+37. B.o.B
+38. Ludacris
+39. Linkin Park
+40. Pixie Lott
+41. Hilary Duff
+42. The Pussycat Dolls
+43. Destiny's Child
+44. Ashlee Simpson
+45. Kelly Rowland
+46. Fergie
+47. 3OH!3
+48. The Ting Tings
+49. Jordin Sparks
+50. Kylie Minogue
+
+These recommendations are based on the similar music preferences of user 2000 and the popularity of the listed artists.

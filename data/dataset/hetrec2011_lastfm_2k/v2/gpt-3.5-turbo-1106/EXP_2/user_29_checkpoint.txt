@@ -1,0 +1,54 @@
+Based on user 29's preferences, here are the top 50 recommendations:
+
+1. All Time Low
+2. Paramore
+3. My Chemical Romance
+4. Avril Lavigne
+5. The Used
+6. The Pretty Reckless
+7. Forever the Sickest Kids
+8. Simple Plan
+9. Boys Like Girls
+10. Breathe Carolina
+11. 3OH!3
+12. The Maine
+13. 3 Doors Down
+14. Bullet for My Valentine
+15. Slipknot
+16. The Beatles
+17. Katy Perry
+18. Rihanna
+19. Lady Gaga
+20. Britney Spears
+21. Glee Cast
+22. Miley Cyrus
+23. Evanescence
+24. Madonna
+25. Christina Aguilera
+26. Shakira
+27. Beyoncé
+28. Ke$ha
+29. Taylor Swift
+30. Pink Floyd
+31. Muse
+32. 30 Seconds to Mars
+33. U2
+34. Coldplay
+35. The Killers
+36. Nirvana
+37. Linkin Park
+38. Green Day
+39. Metallica
+40. Avenged Sevenfold
+41. Black Eyed Peas
+42. P!nk
+43. Kelly Clarkson
+44. Daft Punk
+45. Nine Inch Nails
+46. System of a Down
+47. Iron Maiden
+48. AC/DC
+49. Bon Jovi
+50. Michael Jackson
+
+These recommendations are based on the user's liking of similar artists and are ranked accordingly.

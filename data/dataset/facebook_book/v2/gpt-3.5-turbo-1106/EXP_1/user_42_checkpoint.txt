@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Perks of Being a Wallflower by Stephen Chbosky
+5. Thirteen Reasons Why by Jay Asher
+6. The Maze Runner by James Dashner
+7. Eleanor & Park by Rainbow Rowell
+8. If I Stay by Gayle Forman
+9. Paper Towns by John Green
+10. The Book Thief by Markus Zusak
+11. Looking for Alaska by John Green
+12. The Giver by Lois Lowry
+13. The Outsiders by S.E. Hinton
+14. Speak by Laurie Halse Anderson
+15. Stargirl by Jerry Spinelli
+16. The Sisterhood of the Traveling Pants by Ann Brashares
+17. Uglies by Scott Westerfeld
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Alchemist by Paulo Coelho
+20. The Lovely Bones by Alice Sebold
+21. The Catcher in the Rye by J.D. Salinger
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Kite Runner by Khaled Hosseini
+24. The Help by Kathryn Stockett
+25. The Girl on the Train by Paula Hawkins
+26. Gone Girl by Gillian Flynn
+27. The Night Circus by Erin Morgenstern
+28. The Goldfinch by Donna Tartt
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Da Vinci Code by Dan Brown
+32. The Girl Who Played with Fire by Stieg Larsson
+33. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+34. The Hunger Games Trilogy Boxset by Suzanne Collins
+35. The Divergent Series Box Set by Veronica Roth
+36. The Maze Runner Series by James Dashner
+37. The Chronicles of Narnia by C.S. Lewis
+38. The Lord of the Rings by J.R.R. Tolkien
+39. The Hobbit by J.R.R. Tolkien
+40. The Chronicles of Prydain by Lloyd Alexander
+41. The Inheritance Cycle by Christopher Paolini
+42. The Dark Tower Series by Stephen King
+43. The Wheel of Time Series by Robert Jordan
+44. The Kingkiller Chronicle by Patrick Rothfuss
+45. The Stormlight Archive by Brandon Sanderson
+46. Mistborn Series by Brandon Sanderson
+47. The Way of Kings by Brandon Sanderson
+48. The Name of the Wind by Patrick Rothfuss
+49. The Lies of Locke Lamora by Scott Lynch
+50. The Blade Itself by Joe Abercrombie
+
+These recommendations are based on the user's interest in young adult fiction, fantasy, and contemporary literature.

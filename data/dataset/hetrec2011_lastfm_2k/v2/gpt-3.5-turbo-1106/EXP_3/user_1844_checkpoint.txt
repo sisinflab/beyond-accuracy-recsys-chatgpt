@@ -1,0 +1,54 @@
+Based on user 1844's preferences, here are the top 50 recommendations for the given artists:
+
+1. Beck
+2. Robyn
+3. Vampire Weekend
+4. Goldfrapp
+5. MGMT
+6. The Knife
+7. Belle and Sebastian
+8. Arcade Fire
+9. Sia
+10. P!nk
+11. Garbage
+12. No Doubt
+13. Sugababes
+14. Sara Bareilles
+15. Architecture in Helsinki
+16. Mika
+17. Little Boots
+18. Fiona Apple
+19. The xx
+20. of Montreal
+21. Cyndi Lauper
+22. Amiina
+23. Girls Aloud
+24. Laura Marling
+25. Leona Lewis
+26. Emilie Simon
+27. Róisín Murphy
+28. Tori Amos
+29. Fever Ray
+30. Ellie Goulding
+31. Janet Jackson
+32. Dido
+33. The Beatles
+34. Justice
+35. Adele
+36. September
+37. Yelle
+38. Jewel
+39. Colbie Caillat
+40. Scissor Sisters
+41. M.I.A.
+42. Sarah Brightman
+43. Placebo
+44. Eminem
+45. Annie Lennox
+46. Carrie Underwood
+47. ATB
+48. Robbie Williams
+49. Jessica Simpson
+50. Kylie Minogue
+
+These recommendations are based on similar genres, styles, and characteristics of the artists that user 1844 already likes.

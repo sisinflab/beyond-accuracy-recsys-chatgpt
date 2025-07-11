@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. Pride and Prejudice by Jane Austen
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Animal Farm by George Orwell
+8. Brave New World by Aldous Huxley
+9. The Grapes of Wrath by John Steinbeck
+10. The Adventures of Huckleberry Finn by Mark Twain
+11. Moby-Dick by Herman Melville
+12. Crime and Punishment by Fyodor Dostoevsky
+13. One Hundred Years of Solitude by Gabriel Garcia Marquez
+14. The Picture of Dorian Gray by Oscar Wilde
+15. Wuthering Heights by Emily Brontë
+16. The Count of Monte Cristo by Alexandre Dumas
+17. The Odyssey by Homer
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. Anna Karenina by Leo Tolstoy
+20. Don Quixote by Miguel de Cervantes
+21. War and Peace by Leo Tolstoy
+22. The Divine Comedy by Dante Alighieri
+23. The Canterbury Tales by Geoffrey Chaucer
+24. The Scarlet Letter by Nathaniel Hawthorne
+25. Frankenstein by Mary Shelley
+26. Dracula by Bram Stoker
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+29. The War of the Worlds by H.G. Wells
+30. The Time Machine by H.G. Wells
+31. The Call of the Wild by Jack London
+32. White Fang by Jack London
+33. The Jungle Book by Rudyard Kipling
+34. Heart of Darkness by Joseph Conrad
+35. The Secret Garden by Frances Hodgson Burnett
+36. Little Women by Louisa May Alcott
+37. The Three Musketeers by Alexandre Dumas
+38. The Hunchback of Notre-Dame by Victor Hugo
+39. The Phantom of the Opera by Gaston Leroux
+40. The Adventures of Tom Sawyer by Mark Twain
+41. The Prince and the Pauper by Mark Twain
+42. The Swiss Family Robinson by Johann David Wyss
+43. The Wind in the Willows by Kenneth Grahame
+44. Treasure Island by Robert Louis Stevenson
+45. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+46. The Legend of Sleepy Hollow by Washington Irving
+47. The Last of the Mohicans by James Fenimore Cooper
+48. The Red Badge of Courage by Stephen Crane
+49. The Call of the Wild by Jack London
+50. The Sea-Wolf by Jack London
+
+These recommendations are based on the user's interest in classic literature and popular fiction.

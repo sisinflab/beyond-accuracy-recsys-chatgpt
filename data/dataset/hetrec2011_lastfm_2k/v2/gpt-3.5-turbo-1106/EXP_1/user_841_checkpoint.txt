@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. Three Days Grace
+3. Breaking Benjamin
+4. My Chemical Romance
+5. Papa Roach
+6. Fall Out Boy
+7. Green Day
+8. The All-American Rejects
+9. Sum 41
+10. 30 Seconds to Mars
+11. The Red Jumpsuit Apparatus
+12. Simple Plan
+13. Paramore
+14. Yellowcard
+15. Good Charlotte
+16. All Time Low
+17. Blink-182
+18. The Used
+19. A Day to Remember
+20. Seether
+21. Shinedown
+22. Chevelle
+23. Theory of a Deadman
+24. Skillet
+25. Nickelback
+26. Hoobastank
+27. Evanescence
+28. 3 Doors Down
+29. Staind
+30. Hinder
+31. Puddle of Mudd
+32. Trapt
+33. Fuel
+34. Crossfade
+35. Saliva
+36. Drowning Pool
+37. Adelitas Way
+38. Sick Puppies
+39. Pop Evil
+40. Art of Dying
+41. Rev Theory
+42. Saving Abel
+43. Nonpoint
+44. Egypt Central
+45. Red
+46. 10 Years
+47. Evans Blue
+48. Trust Company
+49. Earshot
+50. Smile Empty Soul
+
+These recommendations are based on the user's liking of rock and alternative rock bands and artists.

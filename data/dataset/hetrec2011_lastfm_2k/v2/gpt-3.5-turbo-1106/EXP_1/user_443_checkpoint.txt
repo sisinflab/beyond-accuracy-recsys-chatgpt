@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Led Zeppelin
+2. Radiohead
+3. Black Sabbath
+4. Tool
+5. The Rolling Stones
+6. Iron Maiden
+7. Rush
+8. Opeth
+9. King Crimson
+10. The Who
+11. Porcupine Tree
+12. Cream
+13. Yes
+14. The Velvet Underground
+15. Alice in Chains
+16. Soundgarden
+17. The Smashing Pumpkins
+18. Pearl Jam
+19. The Mars Volta
+20. Queens of the Stone Age
+21. Mastodon
+22. The Flaming Lips
+23. The White Stripes
+24. Nine Inch Nails
+25. Faith No More
+26. System of a Down
+27. Mastodon
+28. Pantera
+29. Slayer
+30. Anthrax
+31. Testament
+32. Exodus
+33. Kreator
+34. Sodom
+35. Overkill
+36. Destruction
+37. Sepultura
+38. Carcass
+39. At the Gates
+40. Dark Tranquillity
+41. In Flames
+42. Soilwork
+43. Arch Enemy
+44. Children of Bodom
+45. Amon Amarth
+46. Ensiferum
+47. Wintersun
+48. Korpiklaani
+49. Eluveitie
+50. Finntroll
+
+These recommendations are based on the user's liking of classic rock, progressive rock, metal, and alternative music.

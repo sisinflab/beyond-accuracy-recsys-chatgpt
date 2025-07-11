@@ -1,0 +1,54 @@
+Based on user 2041's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The Killers
+2. Coldplay
+3. Snow Patrol
+4. The Cranberries
+5. Third Eye Blind
+6. Maroon 5
+7. Moby
+8. Editors
+9. Arctic Monkeys
+10. The National
+11. Death Cab for Cutie
+12. The Police
+13. Feist
+14. David Gray
+15. Stereophonics
+16. R.E.M.
+17. Gorillaz
+18. The Beatles
+19. Pulp
+20. The Used
+21. Ben Folds
+22. Jack Johnson
+23. Simple Minds
+24. Genesis
+25. The White Stripes
+26. Joy Division
+27. Robbie Williams
+28. Ryan Adams
+29. Phil Collins
+30. Beck
+31. Two Door Cinema Club
+32. INXS
+33. Train
+34. Katie Melua
+35. Millencolin
+36. 30 Seconds to Mars
+37. Sigur Rós
+38. Underoath
+39. Good Charlotte
+40. Wilco
+41. Blur
+42. The Devil Wears Prada
+43. Ray Charles
+44. John Lee Hooker
+45. Demon Hunter
+46. Lara Fabian
+47. The Cure
+48. Green Day
+49. Fall Out Boy
+50. Blue October
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

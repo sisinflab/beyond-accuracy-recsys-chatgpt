@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels & Demons by Dan Brown
+3. The Lost Symbol by Dan Brown
+4. Digital Fortress by Dan Brown
+5. Origin by Dan Brown
+6. Deception Point by Dan Brown
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Girl Who Played with Fire by Stieg Larsson
+9. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+10. The Night Circus by Erin Morgenstern
+11. The Book Thief by Markus Zusak
+12. The Shadow of the Wind by Carlos Ruiz Zafón
+13. The Alchemist by Paulo Coelho
+14. The Name of the Wind by Patrick Rothfuss
+15. The Wise Man's Fear by Patrick Rothfuss
+16. American Gods by Neil Gaiman
+17. Neverwhere by Neil Gaiman
+18. Stardust by Neil Gaiman
+19. Good Omens by Neil Gaiman and Terry Pratchett
+20. The Ocean at the End of the Lane by Neil Gaiman
+21. The Graveyard Book by Neil Gaiman
+22. Coraline by Neil Gaiman
+23. Anansi Boys by Neil Gaiman
+24. The Stand by Stephen King
+25. It by Stephen King
+26. Pet Sematary by Stephen King
+27. Misery by Stephen King
+28. The Shining by Stephen King
+29. Doctor Sleep by Stephen King
+30. 11/22/63 by Stephen King
+31. The Outsider by Stephen King
+32. The Institute by Stephen King
+33. The Green Mile by Stephen King
+34. The Talisman by Stephen King and Peter Straub
+35. Black House by Stephen King and Peter Straub
+36. The Eyes of the Dragon by Stephen King
+37. The Dark Tower II: The Drawing of the Three by Stephen King
+38. The Dark Tower III: The Waste Lands by Stephen King
+39. The Dark Tower IV: Wizard and Glass by Stephen King
+40. The Dark Tower V: Wolves of the Calla by Stephen King
+41. The Dark Tower VI: Song of Susannah by Stephen King
+42. The Dark Tower VII: The Dark Tower by Stephen King
+43. The Martian by Andy Weir
+44. Ready Player One by Ernest Cline
+45. Armada by Ernest Cline
+46. Dark Matter by Blake Crouch
+47. Recursion by Blake Crouch
+48. The Time Machine by H.G. Wells
+49. The Invisible Man by H.G. Wells
+50. War of the Worlds by H.G. Wells
+
+These recommendations are based on similar themes, genres, and authors to the books that user 284 likes.

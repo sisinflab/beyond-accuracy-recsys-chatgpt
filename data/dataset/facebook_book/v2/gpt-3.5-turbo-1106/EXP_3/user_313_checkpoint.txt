@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 313:
+
+1. The Lord of the Rings
+2. The Hobbit
+3. Inkspell by Cornelia Funke
+4. Holes by Louis Sachar
+5. Looking for Alaska by John Green
+6. Paper Towns by John Green
+7. His Dark Materials
+8. The Princess Bride by William Goldman
+9. Small Steps by Louis Sachar
+10. A Separate Peace
+11. Harry Potter
+12. Fablehaven
+13. I Am Legend (novel)
+14. The Trumpet of the Swan
+15. Vampire Academy (novel)
+16. Emma (novel)
+17. The End of Mr. Y
+18. Memoirs of a Geisha
+19. The Giver
+20. The Zombie Survival Guide
+21. The Borrowers
+22. I Am America (And So Can You!)
+23. Annie on My Mind
+24. An Inconvenient Book
+25. The Vampire Chronicles
+26. Nineteen Eighty-Four
+27. Mockingjay
+28. The Things They Carried
+29. A Tree Grows in Brooklyn (novel)
+30. Valiant: A Modern Tale of Faerie
+31. The Thief of Always
+32. The Eyes of the Dragon
+33. A Clockwork Orange
+34. The Walking Dead (comic book)
+35. The Silmarillion
+36. The Dante Club
+37. The Feminine Mystique
+38. The Truth About Forever
+39. Night (book)
+40. An Abundance of Katherines
+41. Fushigi Yûgi
+42. The Watchmen (novel)
+43. Manga
+44. The Stand
+45. The No. 1 Ladies' Detective Agency (novel)
+46. Twilight (series)
+47. Vampire Kisses
+48. The Scarlet Letter
+49. The Da Vinci Code
+50. Angels & Demons
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended books to the ones the user already likes.

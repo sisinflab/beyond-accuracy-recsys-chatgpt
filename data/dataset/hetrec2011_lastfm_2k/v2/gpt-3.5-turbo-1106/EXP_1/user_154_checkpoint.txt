@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Breaking Benjamin
+2. Seether
+3. Lacrimas Profundere
+4. HIM
+5. Apocalyptica
+6. In This Moment
+7. Papa Roach
+8. Three Days Grace
+9. My Chemical Romance
+10. Disturbed
+11. Linkin Park
+12. Slipknot
+13. Stone Sour
+14. Trivium
+15. Shinedown
+16. Chevelle
+17. Godsmack
+18. Staind
+19. Puddle of Mudd
+20. 30 Seconds to Mars
+21. The Rasmus
+22. Flyleaf
+23. Skillet
+24. Red
+25. Halestorm
+26. Theory of a Deadman
+27. Nonpoint
+28. Drowning Pool
+29. Fuel
+30. 10 Years
+31. Crossfade
+32. Evans Blue
+33. Egypt Central
+34. Adelitas Way
+35. Art of Dying
+36. Rev Theory
+37. Pop Evil
+38. Black Stone Cherry
+39. Hinder
+40. Saving Abel
+41. Saliva
+42. Sick Puppies
+43. Tantric
+44. Trust Company
+45. Earshot
+46. Default
+47. Smile Empty Soul
+48. The Veer Union
+49. Cavo
+50. Egypt Central

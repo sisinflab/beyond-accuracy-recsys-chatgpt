@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Glass Castle by Jeannette Walls
+2. The Kite Runner by Khaled Hosseini
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. The Catcher in the Rye by J.D. Salinger
+5. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+6. The Book Thief by Markus Zusak
+7. To Kill a Mockingbird by Harper Lee
+8. The Fault in Our Stars by John Green
+9. The Alchemist by Paulo Coelho
+10. The Hunger Games by Suzanne Collins
+11. The Girl on the Train by Paula Hawkins
+12. The Night Circus by Erin Morgenstern
+13. The Help by Kathryn Stockett
+14. The Goldfinch by Donna Tartt
+15. The Martian by Andy Weir
+16. The Handmaid's Tale by Margaret Atwood
+17. The Road by Cormac McCarthy
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Giver by Lois Lowry
+20. The Da Vinci Code by Dan Brown
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Secret History by Donna Tartt
+23. The Bell Jar by Sylvia Plath
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Sun Also Rises by Ernest Hemingway
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Name of the Wind by Patrick Rothfuss
+28. The Handmaid's Tale by Margaret Atwood
+29. The Road by Cormac McCarthy
+30. The Great Gatsby by F. Scott Fitzgerald
+31. The Giver by Lois Lowry
+32. The Da Vinci Code by Dan Brown
+33. The Time Traveler's Wife by Audrey Niffenegger
+34. The Secret History by Donna Tartt
+35. The Bell Jar by Sylvia Plath
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Sun Also Rises by Ernest Hemingway
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Name of the Wind by Patrick Rothfuss
+40. The Handmaid's Tale by Margaret Atwood
+41. The Road by Cormac McCarthy
+42. The Great Gatsby by F. Scott Fitzgerald
+43. The Giver by Lois Lowry
+44. The Da Vinci Code by Dan Brown
+45. The Time Traveler's Wife by Audrey Niffenegger
+46. The Secret History by Donna Tartt
+47. The Bell Jar by Sylvia Plath
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Sun Also Rises by Ernest Hemingway
+50. The Shadow of the Wind by Carlos Ruiz Zafón
+
+These recommendations are based on the user's preference for memoirs, novels, and classic literature, as well as popular and critically acclaimed books in various genres.

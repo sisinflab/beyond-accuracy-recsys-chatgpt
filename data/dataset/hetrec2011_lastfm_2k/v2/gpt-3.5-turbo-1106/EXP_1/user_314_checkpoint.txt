@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. Taylor Swift
+3. The Script
+4. OneRepublic
+5. Ed Sheeran
+6. Adele
+7. Coldplay
+8. Bruno Mars
+9. Imagine Dragons
+10. Kelly Clarkson
+11. Maroon 5
+12. Demi Lovato
+13. Ariana Grande
+14. The Weeknd
+15. Halsey
+16. Shawn Mendes
+17. Sam Smith
+18. Panic! At The Disco
+19. Twenty One Pilots
+20. Paramore
+21. Miley Cyrus
+22. Sandy Leah
+23. Jorge & Mateus
+24. Jason Mraz
+25. Katy Perry
+26. John Mayer
+27. Flyleaf
+28. Daughtry
+29. Evanescence
+30. Luan Santana
+31. 30 Seconds to Mars
+32. Lady Gaga
+33. Mariah Carey
+34. Justin Bieber
+35. Alanis Morissette
+36. James Blunt
+37. 3 Doors Down
+38. Pink
+39. Charlie Brown Jr.
+40. Guns N' Roses
+41. Ke$ha
+42. Avril Lavigne
+43. Legião Urbana
+44. P!nk
+45. The Cranberries
+46. Red Hot Chili Peppers
+47. Lady Antebellum
+48. Fall Out Boy
+49. Taylor Swift
+50. The Script
+
+These recommendations are based on the user's liking of similar artists and genres.

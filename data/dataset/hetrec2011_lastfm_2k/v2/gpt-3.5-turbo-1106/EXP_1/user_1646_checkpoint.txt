@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Adele
+2. Lana Del Rey
+3. Florence + The Machine
+4. Hozier
+5. Lorde
+6. Adele
+7. Haim
+8. Tove Lo
+9. Birdy
+10. London Grammar
+11. Lykke Li
+12. Jessie Ware
+13. CHVRCHES
+14. Zara Larsson
+15. Sigrid
+16. Dua Lipa
+17. MØ
+18. Charli XCX
+19. BANKS
+20. Grimes
+21. Tegan and Sara
+22. The xx
+23. St. Vincent
+24. Mitski
+25. Maggie Rogers
+26. Christine and the Queens
+27. Carly Rae Jepsen
+28. Marina
+29. Aurora
+30. Kacey Musgraves
+31. Mitski
+32. King Princess
+33. FKA twigs
+34. Kimbra
+35. AlunaGeorge
+36. MUNA
+37. Ryn Weaver
+38. Tei Shi
+39. Shura
+40. Wet
+41. K.Flay
+42. Bishop Briggs
+43. Elohim
+44. Verite
+45. Allie X
+46. Kiiara
+47. Phoebe Bridgers
+48. Clairo
+49. Japanese Breakfast
+50. Soccer Mommy
+
+These recommendations are based on the user's liking of similar artists and genres.

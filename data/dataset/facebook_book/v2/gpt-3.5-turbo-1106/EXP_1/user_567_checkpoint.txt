@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. Brave New World by Aldous Huxley
+10. Fahrenheit 451 by Ray Bradbury
+11. The Giver by Lois Lowry
+12. The Maze Runner by James Dashner
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Book Thief by Markus Zusak
+15. The Perks of Being a Wallflower by Stephen Chbosky
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. Gone Girl by Gillian Flynn
+18. The Da Vinci Code by Dan Brown
+19. Angels & Demons by Dan Brown
+20. The Girl on the Train by Paula Hawkins
+21. The Help by Kathryn Stockett
+22. The Kite Runner by Khaled Hosseini
+23. A Thousand Splendid Suns by Khaled Hosseini
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. Water for Elephants by Sara Gruen
+27. The Night Circus by Erin Morgenstern
+28. The Goldfinch by Donna Tartt
+29. The Handmaid's Tale by Margaret Atwood
+30. The Road by Cormac McCarthy
+31. The Martian by Andy Weir
+32. Ready Player One by Ernest Cline
+33. The Name of the Wind by Patrick Rothfuss
+34. The Nightingale by Kristin Hannah
+35. All the Light We Cannot See by Anthony Doerr
+36. The Silent Patient by Alex Michaelides
+37. Where the Crawdads Sing by Delia Owens
+38. Educated by Tara Westover
+39. The Tattooist of Auschwitz by Heather Morris
+40. Little Fires Everywhere by Celeste Ng
+41. Eleanor Oliphant Is Completely Fine by Gail Honeyman
+42. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+43. Circe by Madeline Miller
+44. The Alice Network by Kate Quinn
+45. The Light Between Oceans by M.L. Stedman
+46. The Nightingale by Kristin Hannah
+47. The Silent Patient by Alex Michaelides
+48. Where the Crawdads Sing by Delia Owens
+49. Educated by Tara Westover
+50. The Tattooist of Auschwitz by Heather Morris
+
+These recommendations are based on the user's interest in fantasy, self-help, and young adult fiction, as well as a mix of popular and critically acclaimed books across various genres.

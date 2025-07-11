@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Megadeth
+2. Metallica
+3. Motorhead
+4. Saxon
+5. Stryper
+6. W.A.S.P.
+7. Accept
+8. Angra
+9. Avantasia
+10. Blind Guardian
+11. Dio
+12. Gamma Ray
+13. Iced Earth
+14. Kamelot
+15. Nightwish
+16. Overkill
+17. Primal Fear
+18. Rhapsody of Fire
+19. Savatage
+20. Stratovarius
+21. Testament
+22. Yngwie Malmsteen
+23. Alice Cooper
+24. Blue Oyster Cult
+25. Cinderella
+26. Dokken
+27. Europe
+28. Great White
+29. Krokus
+30. Lita Ford
+31. Molly Hatchet
+32. Poison
+33. Ratt
+34. Skid Row
+35. Tesla
+36. Twisted Sister
+37. Warrant
+38. Winger
+39. Y&T
+40. UFO
+41. Kansas
+42. Journey
+43. Foreigner
+44. Boston
+45. Styx
+46. REO Speedwagon
+47. Toto
+48. Survivor
+49. Kansas
+50. Blue Oyster Cult
+
+These recommendations are based on the user's liking of classic rock and heavy metal bands and artists.

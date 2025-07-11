@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Impulse by Ellen Hopkins
+2. Crank by Ellen Hopkins
+3. Glass by Ellen Hopkins
+4. Fallout by Ellen Hopkins
+5. Tricks by Ellen Hopkins
+6. Tilt by Ellen Hopkins
+7. Perfect by Ellen Hopkins
+8. Burned by Ellen Hopkins
+9. Smoke by Ellen Hopkins
+10. Go Ask Alice by Anonymous
+11. Candy by Kevin Brooks
+12. The Road of the Dead by Kevin Brooks
+13. Martyn Pig by Kevin Brooks
+14. Kissing the Rain by Kevin Brooks
+15. Being by Kevin Brooks
+16. The Knife of Never Letting Go by Patrick Ness
+17. A Monster Calls by Patrick Ness
+18. More Than This by Patrick Ness
+19. The Ask and the Answer by Patrick Ness
+20. The Chaos Walking Trilogy by Patrick Ness
+21. Speak by Laurie Halse Anderson
+22. Wintergirls by Laurie Halse Anderson
+23. The Impossible Knife of Memory by Laurie Halse Anderson
+24. Catalyst by Laurie Halse Anderson
+25. Prom by Laurie Halse Anderson
+26. Girl, Interrupted by Susanna Kaysen
+27. Prozac Nation by Elizabeth Wurtzel
+28. It's Kind of a Funny Story by Ned Vizzini
+29. Cut by Patricia McCormick
+30. My Sister's Keeper by Jodi Picoult
+31. Nineteen Minutes by Jodi Picoult
+32. The Pact by Jodi Picoult
+33. House Rules by Jodi Picoult
+34. The Lovely Bones by Alice Sebold
+35. The Almost Moon by Alice Sebold
+36. Lucky by Alice Sebold
+37. The Hunger Games by Suzanne Collins
+38. Catching Fire by Suzanne Collins
+39. Mockingjay by Suzanne Collins
+40. Divergent by Veronica Roth
+41. Insurgent by Veronica Roth
+42. Allegiant by Veronica Roth
+43. The Maze Runner by James Dashner
+44. The Scorch Trials by James Dashner
+45. The Death Cure by James Dashner
+46. The Giver by Lois Lowry
+47. Gathering Blue by Lois Lowry
+48. Messenger by Lois Lowry
+49. Son by Lois Lowry
+50. The Messenger by Markus Zusak
+
+These recommendations are based on the user's interest in young adult fiction, coming-of-age stories, and novels with themes of addiction, mental health, and romance.

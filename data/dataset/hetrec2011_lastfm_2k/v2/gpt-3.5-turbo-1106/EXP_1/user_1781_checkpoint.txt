@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bruce Springsteen
+2. Bob Dylan
+3. Neil Young
+4. Tom Petty and the Heartbreakers
+5. The Police
+6. Fleetwood Mac
+7. Eric Clapton
+8. The Who
+9. Bob Marley & The Wailers
+10. The Doors
+11. Led Zeppelin
+12. The Kinks
+13. The Clash
+14. The Smiths
+15. Oasis
+16. R.E.M.
+17. Pearl Jam
+18. Radiohead
+19. The Cure
+20. Beck
+21. The Strokes
+22. Arctic Monkeys
+23. Kings of Leon
+24. The Black Keys
+25. Vampire Weekend
+26. The National
+27. Arcade Fire
+28. Tame Impala
+29. Florence + The Machine
+30. Hozier
+31. Mumford & Sons
+32. The Lumineers
+33. Imagine Dragons
+34. The Killers
+35. Cold War Kids
+36. Cage The Elephant
+37. Foster The People
+38. Young the Giant
+39. Portugal. The Man
+40. The War on Drugs
+41. Alt-J
+42. The 1975
+43. HAIM
+44. Bastille
+45. Two Door Cinema Club
+46. The Head and the Heart
+47. Of Monsters and Men
+48. The Avett Brothers
+49. The Decemberists
+50. Death Cab for Cutie
+
+These recommendations are based on the user's liking for rock, alternative, and indie music, as well as similar artists to the ones they already enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Graveyard Book by Neil Gaiman
+2. Coraline by Neil Gaiman
+3. The BFG by Roald Dahl
+4. The Hobbit by J.R.R. Tolkien
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Giver by Lois Lowry
+7. The Alchemist by Paulo Coelho
+8. The Little Prince by Antoine de Saint-Exupéry
+9. The Wind in the Willows by Kenneth Grahame
+10. The Secret Garden by Frances Hodgson Burnett
+11. The Phantom Tollbooth by Norton Juster
+12. The Neverending Story by Michael Ende
+13. A Wrinkle in Time by Madeleine L'Engle
+14. The Golden Compass by Philip Pullman
+15. The Book Thief by Markus Zusak
+16. The Night Circus by Erin Morgenstern
+17. The Name of the Wind by Patrick Rothfuss
+18. The Shadow of the Wind by Carlos Ruiz Zafón
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Ocean at the End of the Lane by Neil Gaiman
+21. American Gods by Neil Gaiman
+22. Stardust by Neil Gaiman
+23. The Magicians by Lev Grossman
+24. The Princess Bride by William Goldman
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. Good Omens by Neil Gaiman and Terry Pratchett
+27. Neverwhere by Neil Gaiman
+28. The Lies of Locke Lamora by Scott Lynch
+29. The Night Circus by Erin Morgenstern
+30. The Secret History by Donna Tartt
+31. The Goldfinch by Donna Tartt
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+34. The Count of Monte Cristo by Alexandre Dumas
+35. The Hunchback of Notre-Dame by Victor Hugo
+36. Les Misérables by Victor Hugo
+37. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+38. Frankenstein by Mary Shelley
+39. Dracula by Bram Stoker
+40. The Island of Dr. Moreau by H.G. Wells
+41. The War of the Worlds by H.G. Wells
+42. 1984 by George Orwell
+43. Brave New World by Aldous Huxley
+44. Fahrenheit 451 by Ray Bradbury
+45. The Handmaid's Tale by Margaret Atwood
+46. Dune by Frank Herbert
+47. Neuromancer by William Gibson
+48. Snow Crash by Neal Stephenson
+49. Ready Player One by Ernest Cline
+50. Ender's Shadow by Orson Scott Card
+
+These recommendations are based on similar themes, genres, and authors to the books that user 659 likes.

@@ -1,0 +1,54 @@
+Based on user 945's preferences and the list of books provided, here are the top 50 recommendations for them:
+
+1. Ender's Game by Orson Scott Card
+2. Pretties by Scott Westerfeld
+3. Uglies by Scott Westerfeld
+4. An Abundance of Katherines by John Green
+5. Looking for Alaska by John Green
+6. The Things They Carried by Tim O'Brien
+7. Where the Red Fern Grows by Wilson Rawls
+8. Summer of the Monkeys by Wilson Rawls
+9. A Northern Light by Jennifer Donnelly
+10. So B. It by Sarah Weeks
+11. The Perks of Being a Wallflower
+12. Catching Fire
+13. Little Women
+14. The Old Man and the Sea
+15. The Tale of Despereaux
+16. The Outsiders
+17. The Notebook
+18. Romeo and Juliet
+19. The Time Traveler's Wife
+20. Fahrenheit 451
+21. The Lovely Bones
+22. The Curious Incident of the Dog in the Night-Time
+23. Thirteen Reasons Why
+24. Everything Is Illuminated
+25. Extremely Loud and Incredibly Close
+26. The Sword of Truth
+27. The Rebel
+28. The Two Princesses of Bamarre
+29. Ironside: A Modern Faery's Tale
+30. Specials
+31. City of Ashes
+32. Twilight (series)
+33. Pretty Little Liars
+34. Witch & Wizard
+35. Watchers
+36. The Accidental Billionaires
+37. King Dork
+38. Valiant: A Modern Tale of Faerie
+39. Manga
+40. Chibi Vampire
+41. Perfect Chemistry
+42. If Tomorrow Comes
+43. Alice's Adventures in Wonderland
+44. A Wrinkle in Time
+45. Extras
+46. Brisingr
+47. Lock and Key
+48. Redwall
+49. Someone like You
+50. Go Ask Alice
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended books to those preferences.

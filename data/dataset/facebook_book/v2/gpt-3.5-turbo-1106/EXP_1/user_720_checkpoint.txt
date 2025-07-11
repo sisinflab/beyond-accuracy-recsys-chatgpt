@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Great Expectations by Charles Dickens
+2. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+3. The Picture of Dorian Gray by Oscar Wilde
+4. Treasure Island by Robert Louis Stevenson
+5. The Call of the Wild by Jack London
+6. Wuthering Heights by Emily Brontë
+7. Moby-Dick by Herman Melville
+8. The Adventures of Tom Sawyer by Mark Twain
+9. The War of the Worlds by H.G. Wells
+10. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+11. The Secret Garden by Frances Hodgson Burnett
+12. Little Women by Louisa May Alcott
+13. The Wind in the Willows by Kenneth Grahame
+14. The Three Musketeers by Alexandre Dumas
+15. The Phantom of the Opera by Gaston Leroux
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Time Machine by H.G. Wells
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. The Adventures of Huckleberry Finn by Mark Twain
+20. The Legend of Sleepy Hollow by Washington Irving
+21. The Canterbury Tales by Geoffrey Chaucer
+22. The Divine Comedy by Dante Alighieri
+23. The Odyssey by Homer
+24. The Aeneid by Virgil
+25. The Brothers Karamazov by Fyodor Dostoevsky
+26. Crime and Punishment by Fyodor Dostoevsky
+27. War and Peace by Leo Tolstoy
+28. Anna Karenina by Leo Tolstoy
+29. Les Misérables by Victor Hugo
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+32. The Count of Monte Cristo by Alexandre Dumas
+33. The Hound of the Baskervilles by Arthur Conan Doyle
+34. The Woman in White by Wilkie Collins
+35. The Moonstone by Wilkie Collins
+36. The Turn of the Screw by Henry James
+37. The Portrait of a Lady by Henry James
+38. The Age of Innocence by Edith Wharton
+39. The House of Mirth by Edith Wharton
+40. The Great Gatsby by F. Scott Fitzgerald
+41. The Catcher in the Rye by J.D. Salinger
+42. To Kill a Mockingbird by Harper Lee
+43. One Hundred Years of Solitude by Gabriel García Márquez
+44. Love in the Time of Cholera by Gabriel García Márquez
+45. The Name of the Rose by Umberto Eco
+46. The Shadow of the Wind by Carlos Ruiz Zafón
+47. The Pillars of the Earth by Ken Follett
+48. The Name of the Wind by Patrick Rothfuss
+49. The Night Circus by Erin Morgenstern
+50. The Book Thief by Markus Zusak
+
+These recommendations are based on the user's interest in classic literature, mystery, and historical fiction.

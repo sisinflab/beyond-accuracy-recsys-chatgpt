@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Brand New
+2. Taking Back Sunday
+3. The Wonder Years
+4. Mayday Parade
+5. The Front Bottoms
+6. The Maine
+7. All Time Low
+8. Yellowcard
+9. The Starting Line
+10. New Found Glory
+11. Motion City Soundtrack
+12. Say Anything
+13. Jimmy Eat World
+14. Saves The Day
+15. The Get Up Kids
+16. Something Corporate
+17. The Early November
+18. Senses Fail
+19. Finch
+20. Thrice
+21. Anberlin
+22. The Used
+23. Silverchair
+24. Third Eye Blind
+25. The Ataris
+26. Dashboard Confessional
+27. M83
+28. Kate Nash
+29. Passion Pit
+30. Josh Groban
+31. Dance Gavin Dance
+32. Lady Antebellum
+33. Kings of Leon
+34. Minus the Bear
+35. Colbie Caillat
+36. Mute Math
+37. Four Year Strong
+38. Band of Horses
+39. Damien Rice
+40. Silverstein
+41. The Devil Wears Prada
+42. City and Colour
+43. Rascal Flatts
+44. We Came As Romans
+45. The Beatles
+46. The Smiths
+47. Alexisonfire
+48. Death Cab for Cutie
+49. A Day to Remember
+50. The Lumineers
+
+These recommendations are based on the user's liking of similar artists and genres.

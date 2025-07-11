@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glass (novel) by Ellen Hopkins
+2. Fallout (novel) by Ellen Hopkins
+3. Perfect (novel) by Ellen Hopkins
+4. Tilt (novel) by Ellen Hopkins
+5. Rumble by Ellen Hopkins
+6. The You I've Never Known by Ellen Hopkins
+7. Smoke (novel) by Ellen Hopkins
+8. Traffick by Ellen Hopkins
+9. Burned (novel) by Ellen Hopkins
+10. Tricks (novel) by Ellen Hopkins
+11. Identical (novel) by Ellen Hopkins
+12. Crank (novel) by Ellen Hopkins
+13. Go Ask Alice by Anonymous
+14. It's Kind of a Funny Story by Ned Vizzini
+15. Thirteen Reasons Why by Jay Asher
+16. Wintergirls by Laurie Halse Anderson
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. Speak by Laurie Halse Anderson
+19. Cut by Patricia McCormick
+20. Girl, Interrupted by Susanna Kaysen
+21. Willow by Julia Hoban
+22. Impulse by Ellen Hopkins
+23. A Child Called "It" by Dave Pelzer
+24. The Bell Jar by Sylvia Plath
+25. Prozac Nation by Elizabeth Wurtzel
+26. The Burn Journals by Brent Runyon
+27. The Catcher in the Rye by J.D. Salinger
+28. The Lovely Bones by Alice Sebold
+29. Sharp Objects by Gillian Flynn
+30. Dark Places by Gillian Flynn
+31. Room by Emma Donoghue
+32. The Girl on the Train by Paula Hawkins
+33. Before I Fall by Lauren Oliver
+34. If I Stay by Gayle Forman
+35. The Fault in Our Stars by John Green
+36. Looking for Alaska by John Green
+37. Paper Towns by John Green
+38. An Abundance of Katherines by John Green
+39. Eleanor & Park by Rainbow Rowell
+40. Fangirl by Rainbow Rowell
+41. All the Bright Places by Jennifer Niven
+42. Every Last Word by Tamara Ireland Stone
+43. Suicide Notes by Michael Thomas Ford
+44. The Shock of the Fall by Nathan Filer
+45. The Silver Linings Playbook by Matthew Quick
+46. The Impossible Knife of Memory by Laurie Halse Anderson
+47. The Memory of Light by Francisco X. Stork
+48. The Astonishing Color of After by Emily X.R. Pan
+49. Challenger Deep by Neal Shusterman
+50. The Art of Starving by Sam J. Miller
+
+These recommendations are based on the user's interest in books by Ellen Hopkins and other similar themes and genres.

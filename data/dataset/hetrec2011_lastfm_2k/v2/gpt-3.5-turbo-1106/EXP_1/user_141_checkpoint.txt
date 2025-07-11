@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Depeche Mode
+2. U2
+3. The Smiths
+4. Talking Heads
+5. Joy Division
+6. Fleetwood Mac
+7. The Smithereens
+8. Echo & the Bunnymen
+9. The Clash
+10. The Smithereens
+11. The Psychedelic Furs
+12. The Church
+13. The Jam
+14. The Replacements
+15. The Stone Roses
+16. The Waterboys
+17. The Stranglers
+18. The Chameleons
+19. The House of Love
+20. The Sound
+21. The Teardrop Explodes
+22. The Charlatans
+23. The Mission
+24. The Cult
+25. The Sisters of Mercy
+26. The Jesus and Mary Chain
+27. New Order
+28. Bauhaus
+29. Siouxsie and the Banshees
+30. Cocteau Twins
+31. The Birthday Party
+32. The Gun Club
+33. The Cramps
+34. The Damned
+35. The Adicts
+36. The Dead Boys
+37. The Vibrators
+38. The Stranglers
+39. The Undertones
+40. The Buzzcocks
+41. The Ruts
+42. The Skids
+43. The Only Ones
+44. The Saints
+45. The Slits
+46. The Raincoats
+47. The Au Pairs
+48. The Pop Group
+49. The Fall
+50. The Television Personalities
+
+These recommendations are based on the user's liking of artists with similar musical styles and genres.

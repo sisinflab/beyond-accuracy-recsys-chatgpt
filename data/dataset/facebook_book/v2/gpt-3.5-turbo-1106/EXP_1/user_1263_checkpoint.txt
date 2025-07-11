@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Speak by Laurie Halse Anderson
+2. Wintergirls by Laurie Halse Anderson
+3. Identical by Ellen Hopkins
+4. Glass by Ellen Hopkins
+5. Impulse by Ellen Hopkins
+6. Burned by Ellen Hopkins
+7. Tricks by Ellen Hopkins
+8. Fallout by Ellen Hopkins
+9. Perfect by Ellen Hopkins
+10. Tilt by Ellen Hopkins
+11. Rumble by Ellen Hopkins
+12. The Astonishing Adventures of Fanboy and Goth Girl by Barry Lyga
+13. Boy Toy by Barry Lyga
+14. Goth Girl Rising by Barry Lyga
+15. The Disreputable History of Frankie Landau-Banks by E. Lockhart
+16. We Were Liars by E. Lockhart
+17. The Ruby Oliver Quartet by E. Lockhart
+18. The Book Thief by Markus Zusak
+19. I Am the Messenger by Markus Zusak
+20. The Messenger by Markus Zusak
+21. The Perks of Being a Wallflower by Stephen Chbosky
+22. The Catcher in the Rye by J.D. Salinger
+23. Looking for Alaska by John Green
+24. Paper Towns by John Green
+25. An Abundance of Katherines by John Green
+26. Will Grayson, Will Grayson by John Green and David Levithan
+27. Every Day by David Levithan
+28. Another Day by David Levithan
+29. Two Boys Kissing by David Levithan
+30. The Realm of Possibility by David Levithan
+31. The Fault in Our Stars by John Green
+32. Thirteen Reasons Why by Jay Asher
+33. The Future of Us by Jay Asher and Carolyn Mackler
+34. The Statistical Probability of Love at First Sight by Jennifer E. Smith
+35. This Is What Happy Looks Like by Jennifer E. Smith
+36. The Geography of You and Me by Jennifer E. Smith
+37. The Sun Is Also a Star by Nicola Yoon
+38. Everything, Everything by Nicola Yoon
+39. The Book of Broken Hearts by Sarah Ockler
+40. Twenty Boy Summer by Sarah Ockler
+41. Bittersweet by Sarah Ockler
+42. Fixing Delilah by Sarah Ockler
+43. The Summer of Chasing Mermaids by Sarah Ockler
+44. The Sky Is Everywhere by Jandy Nelson
+45. I'll Give You the Sun by Jandy Nelson
+46. The Universe Is Expanding and So Am I by Carolyn Mackler
+47. The Earth, My Butt, and Other Big Round Things by Carolyn Mackler
+48. Vegan, Virgin, Valentine by Carolyn Mackler
+49. Love and Other Four-Letter Words by Carolyn Mackler
+50. The Future of Us by Jay Asher and Carolyn Mackler
+
+These recommendations are based on the user's interest in contemporary young adult fiction and novels with themes of self-discovery, coming of age, and personal struggles.

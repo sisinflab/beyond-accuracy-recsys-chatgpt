@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Catch-22 by Joseph Heller
+4. The Catcher in the Rye by J.D. Salinger
+5. One Flew Over the Cuckoo's Nest by Ken Kesey
+6. The Bell Jar by Sylvia Plath
+7. The Road by Cormac McCarthy
+8. The Stranger by Albert Camus
+9. The Sun Also Rises by Ernest Hemingway
+10. The Great Gatsby by F. Scott Fitzgerald
+11. The Grapes of Wrath by John Steinbeck
+12. To Kill a Mockingbird by Harper Lee
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Sound and the Fury by William Faulkner
+16. The Road to Wigan Pier by George Orwell
+17. The Plague by Albert Camus
+18. The Trial by Franz Kafka
+19. The Metamorphosis by Franz Kafka
+20. Crime and Punishment by Fyodor Dostoevsky
+21. The Brothers Karamazov by Fyodor Dostoevsky
+22. Lolita by Vladimir Nabokov
+23. Heart of Darkness by Joseph Conrad
+24. Lord of the Flies by William Golding
+25. A Farewell to Arms by Ernest Hemingway
+26. For Whom the Bell Tolls by Ernest Hemingway
+27. The Sound and the Fury by William Faulkner
+28. As I Lay Dying by William Faulkner
+29. The Grapes of Wrath by John Steinbeck
+30. East of Eden by John Steinbeck
+31. Of Mice and Men by John Steinbeck
+32. The Road by Cormac McCarthy
+33. Blood Meridian by Cormac McCarthy
+34. No Country for Old Men by Cormac McCarthy
+35. The Stranger by Albert Camus
+36. The Fall by Albert Camus
+37. The Plague by Albert Camus
+38. The Trial by Franz Kafka
+39. The Metamorphosis by Franz Kafka
+40. The Castle by Franz Kafka
+41. The Brothers Karamazov by Fyodor Dostoevsky
+42. Crime and Punishment by Fyodor Dostoevsky
+43. The Idiot by Fyodor Dostoevsky
+44. The Master and Margarita by Mikhail Bulgakov
+45. One Day in the Life of Ivan Denisovich by Aleksandr Solzhenitsyn
+46. We by Yevgeny Zamyatin
+47. Darkness at Noon by Arthur Koestler
+48. The Handmaid's Tale by Margaret Atwood
+49. Fahrenheit 451 by Ray Bradbury
+50. The Road to Wigan Pier by George Orwell
+
+These recommendations are based on the user's interest in literary works with dark and thought-provoking themes, as well as a preference for classic and contemporary literature.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Brontë
+2. Pride and Prejudice by Jane Austen
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. The Grapes of Wrath by John Steinbeck
+8. Moby-Dick by Herman Melville
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Scarlet Letter by Nathaniel Hawthorne
+11. Anna Karenina by Leo Tolstoy
+12. The Picture of Dorian Gray by Oscar Wilde
+13. Heart of Darkness by Joseph Conrad
+14. The Sound and the Fury by William Faulkner
+15. Beloved by Toni Morrison
+16. A Passage to India by E.M. Forster
+17. The Sun Also Rises by Ernest Hemingway
+18. A Farewell to Arms by Ernest Hemingway
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Bell Jar by Sylvia Plath
+21. The Stranger by Albert Camus
+22. One Flew Over the Cuckoo's Nest by Ken Kesey
+23. The Brothers Karamazov by Fyodor Dostoevsky
+24. The Idiot by Fyodor Dostoevsky
+25. War and Peace by Leo Tolstoy
+26. The Count of Monte Cristo by Alexandre Dumas
+27. Les Misérables by Victor Hugo
+28. The Hunchback of Notre-Dame by Victor Hugo
+29. Madame Bovary by Gustave Flaubert
+30. The Trial by Franz Kafka
+31. The Metamorphosis by Franz Kafka
+32. The Plague by Albert Camus
+33. The Outsider by Albert Camus
+34. The Master and Margarita by Mikhail Bulgakov
+35. Doctor Zhivago by Boris Pasternak
+36. The Name of the Rose by Umberto Eco
+37. One Hundred Years of Solitude by Gabriel García Márquez
+38. Love in the Time of Cholera by Gabriel García Márquez
+39. Chronicle of a Death Foretold by Gabriel García Márquez
+40. Don Quixote by Miguel de Cervantes
+41. The Canterbury Tales by Geoffrey Chaucer
+42. The Divine Comedy by Dante Alighieri
+43. The Iliad by Homer
+44. The Odyssey by Homer
+45. The Aeneid by Virgil
+46. Paradise Lost by John Milton
+47. The Inferno by Dante Alighieri
+48. The Canterbury Tales by Geoffrey Chaucer
+49. The Decameron by Giovanni Boccaccio
+50. The Prince by Niccolò Machiavelli
+
+These recommendations are based on the user's interest in classic literature and may introduce them to new authors and genres.

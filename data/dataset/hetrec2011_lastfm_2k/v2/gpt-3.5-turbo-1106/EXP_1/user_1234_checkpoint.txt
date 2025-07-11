@@ -1,0 +1,54 @@
+Based on user 1234's preferences, here are the top 50 recommendations:
+
+1. Madonna
+2. Britney Spears
+3. Duran Duran
+4. Depeche Mode
+5. Erasure
+6. Cher
+7. David Bowie
+8. The Human League
+9. Pet Shop Boys
+10. Kylie Minogue
+11. George Michael
+12. Lady Gaga
+13. Adam Lambert
+14. Mylène Farmer
+15. Roxette
+16. New Order
+17. Cyndi Lauper
+18. Janet Jackson
+19. Whitney Houston
+20. Prince
+21. Michael Jackson
+22. ABBA
+23. Blondie
+24. The Cure
+25. INXS
+26. A-ha
+27. Bananarama
+28. Spandau Ballet
+29. Culture Club
+30. Eurythmics
+31. Pet Shop Boys
+32. Kylie Minogue
+33. George Michael
+34. Lady Gaga
+35. Adam Lambert
+36. Mylène Farmer
+37. Pet Shop Boys
+38. Kylie Minogue
+39. George Michael
+40. Lady Gaga
+41. Adam Lambert
+42. Mylène Farmer
+43. Pet Shop Boys
+44. Kylie Minogue
+45. George Michael
+46. Lady Gaga
+47. Adam Lambert
+48. Mylène Farmer
+49. Pet Shop Boys
+50. Kylie Minogue
+
+These recommendations are based on similar artists and genres liked by user 1234.

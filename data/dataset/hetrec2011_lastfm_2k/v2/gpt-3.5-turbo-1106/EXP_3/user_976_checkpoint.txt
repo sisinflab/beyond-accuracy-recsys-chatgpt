@@ -1,0 +1,54 @@
+Based on user 976's preferences, here are the top-50 recommendations for the given artists:
+
+1. The Rolling Stones
+2. The Beatles
+3. Queen
+4. AC/DC
+5. Guns N' Roses
+6. Black Sabbath
+7. Ozzy Osbourne
+8. Motörhead
+9. Iron Maiden
+10. Bruce Springsteen
+11. Madonna
+12. Oasis
+13. Linkin Park
+14. 30 Seconds to Mars
+15. Avenged Sevenfold
+16. Bullet for My Valentine
+17. Kings of Leon
+18. Dream Theater
+19. Michael Jackson
+20. P!nk
+21. Florence + the Machine
+22. Tegan and Sara
+23. Def Leppard
+24. Faith No More
+25. Marilyn Manson
+26. Megadeth
+27. Papa Roach
+28. Skid Row
+29. HIM
+30. Within Temptation
+31. Jeffree Star
+32. Backyard Babies
+33. The 69 Eyes
+34. Anberlin
+35. Skillet
+36. Roxette
+37. Bowling for Soup
+38. AFI
+39. Van Halen
+40. Bring Me The Horizon
+41. YUI
+42. The Pretty Reckless
+43. In This Moment
+44. Lacuna Coil
+45. Breaking Benjamin
+46. Ratt
+47. Glee Cast
+48. Tori Amos
+49. Mr. Big
+50. Tears for Fears
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

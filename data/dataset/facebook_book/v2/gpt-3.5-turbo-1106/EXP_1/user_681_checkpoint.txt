@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interpreter of Maladies by Jhumpa Lahiri
+2. The God of Small Things by Arundhati Roy
+3. Love in the Time of Cholera by Gabriel García Márquez
+4. The Alchemist by Paulo Coelho
+5. House of the Spirits by Isabel Allende
+6. Midnight's Children by Salman Rushdie
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. The Catcher in the Rye by J.D. Salinger
+10. To Kill a Mockingbird by Harper Lee
+11. The Great Gatsby by F. Scott Fitzgerald
+12. 100 Years of Solitude by Gabriel García Márquez
+13. The Metamorphosis by Franz Kafka
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Stranger by Albert Camus
+16. The Master and Margarita by Mikhail Bulgakov
+17. One Hundred Years of Solitude by Gabriel García Márquez
+18. Chronicle of a Death Foretold by Gabriel García Márquez
+19. Love in the Time of Cholera by Gabriel García Márquez
+20. The Picture of Dorian Gray by Oscar Wilde
+21. Ulysses by James Joyce
+22. Dubliners by James Joyce
+23. A Clockwork Orange by Anthony Burgess
+24. The Handmaid's Tale by Margaret Atwood
+25. The Road by Cormac McCarthy
+26. Slaughterhouse-Five by Kurt Vonnegut
+27. The Bell Jar by Sylvia Plath
+28. The Kite Runner by Khaled Hosseini
+29. The Book Thief by Markus Zusak
+30. The Shadow of the Wind by Carlos Ruiz Zafón
+31. The House of the Spirits by Isabel Allende
+32. Daughter of Fortune by Isabel Allende
+33. The House on Mango Street by Sandra Cisneros
+34. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+35. The Joy Luck Club by Amy Tan
+36. The Bonesetter's Daughter by Amy Tan
+37. The Glass Palace by Amitav Ghosh
+38. The White Tiger by Aravind Adiga
+39. The God of Small Things by Arundhati Roy
+40. The Ministry of Utmost Happiness by Arundhati Roy
+41. The Inheritance of Loss by Kiran Desai
+42. The Lowland by Jhumpa Lahiri
+43. The Namesake by Jhumpa Lahiri
+44. The Unbearable Lightness of Being by Milan Kundera
+45. The Book of Laughter and Forgetting by Milan Kundera
+46. The Joke by Milan Kundera
+47. The Trial by Franz Kafka
+48. The Castle by Franz Kafka
+49. The Stranger by Albert Camus
+50. The Plague by Albert Camus
+
+These recommendations are based on the user's interest in literary fiction, magical realism, and classic literature.

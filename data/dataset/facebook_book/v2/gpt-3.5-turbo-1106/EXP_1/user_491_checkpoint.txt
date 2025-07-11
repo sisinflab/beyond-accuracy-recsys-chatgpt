@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Fahrenheit 451 by Ray Bradbury
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. Animal Farm by George Orwell
+6. The Handmaid's Tale by Margaret Atwood
+7. Neuromancer by William Gibson
+8. Do Androids Dream of Electric Sheep? by Philip K. Dick
+9. The Road by Cormac McCarthy
+10. The Stranger by Albert Camus
+11. The Metamorphosis by Franz Kafka
+12. The Bell Jar by Sylvia Plath
+13. A Clockwork Orange by Anthony Burgess
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Stand by Stephen King
+16. The Shining by Stephen King
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Great Gatsby by F. Scott Fitzgerald
+19. Lord of the Flies by William Golding
+20. One Flew Over the Cuckoo's Nest by Ken Kesey
+21. The Road to Wigan Pier by George Orwell
+22. The Plague by Albert Camus
+23. The Trial by Franz Kafka
+24. The War of the Worlds by H.G. Wells
+25. The Time Machine by H.G. Wells
+26. The Island of Doctor Moreau by H.G. Wells
+27. The Invisible Man by H.G. Wells
+28. The Martian Chronicles by Ray Bradbury
+29. The Left Hand of Darkness by Ursula K. Le Guin
+30. Dune by Frank Herbert
+31. The Dispossessed by Ursula K. Le Guin
+32. Snow Crash by Neal Stephenson
+33. The Hand of Oberon by Roger Zelazny
+34. The Left Hand of Darkness by Ursula K. Le Guin
+35. The Dispossessed by Ursula K. Le Guin
+36. Snow Crash by Neal Stephenson
+37. The Hand of Oberon by Roger Zelazny
+38. The Moon is a Harsh Mistress by Robert A. Heinlein
+39. The Stars My Destination by Alfred Bester
+40. The Demolished Man by Alfred Bester
+41. The Left Hand of Darkness by Ursula K. Le Guin
+42. The Dispossessed by Ursula K. Le Guin
+43. Snow Crash by Neal Stephenson
+44. The Hand of Oberon by Roger Zelazny
+45. The Moon is a Harsh Mistress by Robert A. Heinlein
+46. The Stars My Destination by Alfred Bester
+47. The Demolished Man by Alfred Bester
+48. The Left Hand of Darkness by Ursula K. Le Guin
+49. The Dispossessed by Ursula K. Le Guin
+50. Snow Crash by Neal Stephenson
+
+These recommendations are based on the user's interest in dystopian, science fiction, and classic literature.

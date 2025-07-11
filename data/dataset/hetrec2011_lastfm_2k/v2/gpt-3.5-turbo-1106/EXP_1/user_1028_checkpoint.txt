@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Panic! At The Disco
+2. Arctic Monkeys
+3. Imagine Dragons
+4. Twenty One Pilots
+5. The Killers
+6. Red Hot Chili Peppers
+7. Paramore
+8. Fall Out Boy
+9. My Chemical Romance
+10. Linkin Park
+11. Green Day
+12. Muse
+13. 30 Seconds to Mars
+14. The All-American Rejects
+15. The Neighbourhood
+16. Florence + The Machine
+17. Lorde
+18. Halsey
+19. The 1975
+20. Bastille
+21. Coldplay
+22. The Strokes
+23. Foster The People
+24. The White Stripes
+25. Franz Ferdinand
+26. The Black Keys
+27. Cage The Elephant
+28. The Smashing Pumpkins
+29. Weezer
+30. The Offspring
+31. Sum 41
+32. Good Charlotte
+33. Simple Plan
+34. Bowling For Soup
+35. Jimmy Eat World
+36. Taking Back Sunday
+37. Dashboard Confessional
+38. Brand New
+39. Yellowcard
+40. New Found Glory
+41. All Time Low
+42. Mayday Parade
+43. A Day To Remember
+44. Sleeping With Sirens
+45. Pierce The Veil
+46. Bring Me The Horizon
+47. Of Mice & Men
+48. Asking Alexandria
+49. Falling In Reverse
+50. Motionless In White
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 1152's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Little Prince by Antoine de Saint-Exupéry
+5. The Art of Racing in the Rain by Garth Stein
+6. The Spy Who Came in from the Cold by John le Carré
+7. The Da Vinci Code by Dan Brown
+8. The Catcher in the Rye by J.D. Salinger
+9. The Wonderful Wizard of Oz by L. Frank Baum
+10. The Dante Club by Matthew Pearl
+11. The Plague by Albert Camus
+12. His Dark Materials by Philip Pullman
+13. I Am Legend by Richard Matheson
+14. I, Robot by Isaac Asimov
+15. Dune by Frank Herbert
+16. Brave New World by Aldous Huxley
+17. A Clockwork Orange by Anthony Burgess
+18. Nineteen Eighty-Four by George Orwell
+19. The Stand by Stephen King
+20. Ender's Game by Orson Scott Card
+21. Higurashi When They Cry by Ryukishi07
+22. Le Morte d'Arthur by Thomas Malory
+23. The Walking Dead by Robert Kirkman
+24. Holes by Louis Sachar
+25. Night by Elie Wiesel
+26. The War of the Worlds by H.G. Wells
+27. Seabiscuit: An American Legend by Laura Hillenbrand
+28. Twenties Girl by Sophie Kinsella
+29. The Scarlet Letter by Nathaniel Hawthorne
+30. Sophie's World by Jostein Gaarder
+31. Inkdeath by Cornelia Funke
+32. The Eyes of the Dragon by Stephen King
+33. Sin City by Frank Miller
+34. A Clockwork Orange by Anthony Burgess
+35. The Outsiders by S.E. Hinton
+36. Second Foundation by Isaac Asimov
+37. Foundation by Isaac Asimov
+38. The Horse and His Boy by C.S. Lewis
+39. The Things They Carried by Tim O'Brien
+40. Inferno by Dante Alighieri
+41. Tess of the d'Urbervilles by Thomas Hardy
+42. The Silmarillion by J.R.R. Tolkien
+43. Kidnapped by Robert Louis Stevenson
+44. Harry Potter by J.K. Rowling
+45. Peter and Wendy by J.M. Barrie
+46. 300 by Frank Miller
+47. Ranger's Apprentice by John Flanagan
+48. The Bourne Ultimatum by Robert Ludlum
+49. The End of Mr. Y by Scarlett Thomas
+50. The Old Man and the Sea by Ernest Hemingway
+
+These recommendations are based on the user's previous likes and are tailored to their specific tastes.

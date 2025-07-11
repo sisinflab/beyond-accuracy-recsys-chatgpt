@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Emma by Jane Austen
+3. Northanger Abbey by Jane Austen
+4. Persuasion by Jane Austen
+5. Wuthering Heights by Emily Brontë
+6. Jane Eyre by Charlotte Brontë
+7. The Tenant of Wildfell Hall by Anne Brontë
+8. The Secret Garden by Frances Hodgson Burnett
+9. To All the Boys I've Loved Before by Jenny Han
+10. Eleanor & Park by Rainbow Rowell
+11. Fangirl by Rainbow Rowell
+12. Anna and the French Kiss by Stephanie Perkins
+13. Lola and the Boy Next Door by Stephanie Perkins
+14. Isla and the Happily Ever After by Stephanie Perkins
+15. The Fault in Our Stars by John Green
+16. Looking for Alaska by John Green
+17. Paper Towns by John Green
+18. An Abundance of Katherines by John Green
+19. If I Stay by Gayle Forman
+20. Where She Went by Gayle Forman
+21. Just Listen by Sarah Dessen
+22. The Truth About Forever by Sarah Dessen
+23. This Lullaby by Sarah Dessen
+24. Someone Like You by Sarah Dessen
+25. Dreamland by Sarah Dessen
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Sun Is Also a Star by Nicola Yoon
+28. Everything, Everything by Nicola Yoon
+29. All the Bright Places by Jennifer Niven
+30. Holding Up the Universe by Jennifer Niven
+31. The Sky Is Everywhere by Jandy Nelson
+32. I'll Give You the Sun by Jandy Nelson
+33. The Statistical Probability of Love at First Sight by Jennifer E. Smith
+34. This Is What Happy Looks Like by Jennifer E. Smith
+35. The Geography of You and Me by Jennifer E. Smith
+36. The Book of Broken Hearts by Sarah Ockler
+37. Twenty Boy Summer by Sarah Ockler
+38. The Summer of Chasing Mermaids by Sarah Ockler
+39. The Distance Between Us by Kasie West
+40. P.S. I Like You by Kasie West
+41. By Your Side by Kasie West
+42. The Fill-In Boyfriend by Kasie West
+43. The Start of Me and You by Emery Lord
+44. When We Collided by Emery Lord
+45. Open Road Summer by Emery Lord
+46. Since You've Been Gone by Morgan Matson
+47. Second Chance Summer by Morgan Matson
+48. Amy & Roger's Epic Detour by Morgan Matson
+49. The Unexpected Everything by Morgan Matson
+50. Save the Date by Morgan Matson
+
+These recommendations are based on the user's interest in romance, coming-of-age, and classic literature.

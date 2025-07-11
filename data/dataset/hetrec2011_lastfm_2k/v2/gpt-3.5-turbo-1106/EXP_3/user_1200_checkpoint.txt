@@ -1,0 +1,54 @@
+Based on user 1200's preferences, here are the top 50 recommendations for the listed artists:
+
+1. R.E.M.
+2. New Order
+3. U2
+4. Madonna
+5. George Michael
+6. Tears for Fears
+7. Simple Minds
+8. The Human League
+9. Crowded House
+10. Genesis
+11. Billy Joel
+12. Eric Clapton
+13. Hall & Oates
+14. Culture Club
+15. Thompson Twins
+16. Cyndi Lauper
+17. Spandau Ballet
+18. a-ha
+19. Madness
+20. ABC
+21. Wham!
+22. George Harrison
+23. Tori Amos
+24. Elton John
+25. Pet Shop Boys
+26. The Pixies
+27. Stone Temple Pilots
+28. Ultravox
+29. Faith No More
+30. Erasure
+31. Orchestral Manoeuvres in the Dark
+32. Icehouse
+33. Lily Allen
+34. Howard Jones
+35. Mr. Bungle
+36. Girls Aloud
+37. Japan
+38. KISS
+39. Nine Inch Nails
+40. Helloween
+41. No Doubt
+42. Nik Kershaw
+43. Scissor Sisters
+44. Paul McCartney
+45. Iron Maiden
+46. Glee Cast
+47. Arcadia
+48. Eurythmics
+49. The Smiths
+50. David Bowie
+
+These recommendations are based on similar musical styles and genres to the user's listed preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Neil Gaiman and Terry Pratchett
+2. Lamb: The Gospel According to Biff, Christ's Childhood Pal by Christopher Moore
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. American Gods by Neil Gaiman
+5. Snow Crash by Neal Stephenson
+6. The Name of the Wind by Patrick Rothfuss
+7. Neuromancer by William Gibson
+8. The Graveyard Book by Neil Gaiman
+9. The Martian by Andy Weir
+10. The Lies of Locke Lamora by Scott Lynch
+11. Neverwhere by Neil Gaiman
+12. The Ocean at the End of the Lane by Neil Gaiman
+13. The Magicians by Lev Grossman
+14. The Night Circus by Erin Morgenstern
+15. The Dresden Files series by Jim Butcher
+16. The Alchemist by Paulo Coelho
+17. The Shadow of the Wind by Carlos Ruiz Zafón
+18. The Golem and the Jinni by Helene Wecker
+19. The Book Thief by Markus Zusak
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Princess Bride by William Goldman
+22. The Secret History by Donna Tartt
+23. The Goldfinch by Donna Tartt
+24. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+25. The Nightingale by Kristin Hannah
+26. The Kite Runner by Khaled Hosseini
+27. The Help by Kathryn Stockett
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Fault in Our Stars by John Green
+30. The Da Vinci Code by Dan Brown
+31. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+32. The Catcher in the Rye by J.D. Salinger
+33. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+34. The Road by Cormac McCarthy
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Perks of Being a Wallflower by Stephen Chbosky
+37. The Old Man and the Sea by Ernest Hemingway
+38. The Lovely Bones by Alice Sebold
+39. The Hunger Games by Suzanne Collins
+40. The Great Gatsby by F. Scott Fitzgerald
+41. The Glass Castle by Jeannette Walls
+42. The Girl on the Train by Paula Hawkins
+43. The Giver by Lois Lowry
+44. The Fault in Our Stars by John Green
+45. The Fellowship of the Ring by J.R.R. Tolkien
+46. The Fault in Our Stars by John Green
+47. The Fault in Our Stars by John Green
+48. The Fault in Our Stars by John Green
+49. The Fault in Our Stars by John Green
+50. The Fault in Our Stars by John Green
+
+These recommendations are based on the user's interest in science fiction, fantasy, and unconventional literature.

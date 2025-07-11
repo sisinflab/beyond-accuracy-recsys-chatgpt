@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. Nine Inch Nails
+4. The Smashing Pumpkins
+5. Incubus
+6. Deftones
+7. Queens of the Stone Age
+8. Chevelle
+9. Seether
+10. Stone Temple Pilots
+11. Soundgarden
+12. Red Hot Chili Peppers
+13. Foo Fighters
+14. 30 Seconds to Mars
+15. The Killers
+16. The White Stripes
+17. Arctic Monkeys
+18. The Strokes
+19. Interpol
+20. Placebo
+21. R.E.M.
+22. Pearl Jam
+23. Kings of Leon
+24. The Black Keys
+25. Cage the Elephant
+26. Silversun Pickups
+27. Modest Mouse
+28. Death Cab for Cutie
+29. The National
+30. Vampire Weekend
+31. Arcade Fire
+32. Florence + The Machine
+33. The xx
+34. Tame Impala
+35. Alt-J
+36. Foals
+37. Imagine Dragons
+38. Bastille
+39. Hozier
+40. Of Monsters and Men
+41. The Lumineers
+42. Mumford & Sons
+43. Foster the People
+44. Young the Giant
+45. Grouplove
+46. Walk the Moon
+47. The Neighbourhood
+48. X Ambassadors
+49. Portugal. The Man
+50. Cold War Kids
+
+These recommendations are based on the user's liking of alternative rock, progressive rock, and metal bands, and include similar artists across various subgenres within rock music.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Fault in Our Stars by John Green
+3. 1984 by George Orwell
+4. Brave New World by Aldous Huxley
+5. The Bell Jar by Sylvia Plath
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Lord of the Flies by William Golding
+8. The Giver by Lois Lowry
+9. Fahrenheit 451 by Ray Bradbury
+10. The Book Thief by Markus Zusak
+11. The Road by Cormac McCarthy
+12. One Flew Over the Cuckoo's Nest by Ken Kesey
+13. The Kite Runner by Khaled Hosseini
+14. The Hunger Games by Suzanne Collins
+15. Catch-22 by Joseph Heller
+16. The Handmaid's Tale by Margaret Atwood
+17. The Lovely Bones by Alice Sebold
+18. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+19. The Glass Castle by Jeannette Walls
+20. The Secret History by Donna Tartt
+21. The Goldfinch by Donna Tartt
+22. The Girl on the Train by Paula Hawkins
+23. Gone Girl by Gillian Flynn
+24. The Night Circus by Erin Morgenstern
+25. The Help by Kathryn Stockett
+26. The Alchemist by Paulo Coelho
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Road to Character by David Brooks
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Name of the Wind by Patrick Rothfuss
+31. The Martian by Andy Weir
+32. The Ocean at the End of the Lane by Neil Gaiman
+33. The Nightingale by Kristin Hannah
+34. The Rosie Project by Graeme Simsion
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Thirteenth Tale by Diane Setterfield
+37. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+38. The Poisonwood Bible by Barbara Kingsolver
+39. The Secret Life of Bees by Sue Monk Kidd
+40. The Art of Racing in the Rain by Garth Stein
+41. The Light Between Oceans by M.L. Stedman
+42. The Invention of Wings by Sue Monk Kidd
+43. The Night Circus by Erin Morgenstern
+44. The Help by Kathryn Stockett
+45. The Alchemist by Paulo Coelho
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Road to Character by David Brooks
+48. The Shadow of the Wind by Carlos Ruiz Zafón
+49. The Name of the Wind by Patrick Rothfuss
+50. The Martian by Andy Weir
+
+These recommendations are based on the user's interest in contemporary fiction, coming-of-age stories, and thought-provoking novels.

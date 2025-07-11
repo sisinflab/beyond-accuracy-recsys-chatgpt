@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ariana Grande
+2. Katy Perry
+3. Justin Bieber
+4. Kelly Clarkson
+5. Britney Spears
+6. Christina Aguilera
+7. Justin Timberlake
+8. Gwen Stefani
+9. Pink
+10. One Direction
+11. Backstreet Boys
+12. Spice Girls
+13. Nelly Furtado
+14. Jennifer Lopez
+15. Nick Jonas
+16. Christina Perri
+17. The Veronicas
+18. Kelly Rowland
+19. Demi Lovato
+20. Taylor Swift
+21. Carrie Underwood
+22. Avril Lavigne
+23. Jonas Brothers
+24. Selena Gomez
+25. Michelle Branch
+26. Third Eye Blind
+27. Céline Dion
+28. Shania Twain
+29. Skye Sweetnam
+30. Lady Gaga
+31. Fall Out Boy
+32. Panic! At the Disco
+33. Elvis Presley
+34. LeAnn Rimes
+35. The Beach Boys
+36. Miranda Cosgrove
+37. Savage Garden
+38. Ashlee Simpson
+39. Mika
+40. Jesse McCartney
+41. Hilary Duff
+42. Cascada
+43. JoJo
+44. Michael Bublé
+45. Mariah Carey
+46. Miley Cyrus
+47. Hannah Montana
+48. Savage Garden
+49. Ashlee Simpson
+50. Mika
+
+These recommendations are based on the user's liking of similar artists and genres.

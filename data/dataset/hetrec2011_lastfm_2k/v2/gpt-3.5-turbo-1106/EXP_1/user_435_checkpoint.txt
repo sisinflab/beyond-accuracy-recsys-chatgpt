@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Silverstein
+2. Chiodos
+3. A Day to Remember
+4. Escape the Fate
+5. Hawthorne Heights
+6. The Used
+7. My Chemical Romance
+8. Atreyu
+9. Bullet for My Valentine
+10. From First to Last
+11. The Red Jumpsuit Apparatus
+12. Taking Back Sunday
+13. Story of the Year
+14. Thursday
+15. Motion City Soundtrack
+16. The All-American Rejects
+17. The Academy Is...
+18. Anberlin
+19. Mayday Parade
+20. The Maine
+21. We Came as Romans
+22. Sleeping with Sirens
+23. Pierce the Veil
+24. Of Mice & Men
+25. Memphis May Fire
+26. Crown the Empire
+27. Issues
+28. Hands Like Houses
+29. I See Stars
+30. Woe, Is Me
+31. Blessthefall
+32. The Devil Wears Prada
+33. Senses Fail
+34. Saosin
+35. Funeral for a Friend
+36. Asking Alexandria
+37. Alexisonfire
+38. Hollywood Undead
+39. Nine Inch Nails
+40. Emarosa
+41. Bring Me The Horizon
+42. Underoath
+43. Placebo
+44. Enter Shikari
+45. Converge
+46. Cansei de Ser Sexy
+47. Foals
+48. Drop Dead, Gorgeous
+49. 65daysofstatic
+50. Alesana
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music within the same genre.

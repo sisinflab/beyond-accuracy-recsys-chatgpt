@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Kendrick Lamar
+2. Eminem
+3. J. Cole
+4. OutKast
+5. Childish Gambino
+6. Lupe Fiasco
+7. A Tribe Called Quest
+8. Chance the Rapper
+9. Big Sean
+10. Wiz Khalifa
+11. Logic
+12. Mac Miller
+13. Tyler, The Creator
+14. A$AP Rocky
+15. Run The Jewels
+16. Common
+17. Talib Kweli
+18. Anderson .Paak
+19. Vince Staples
+20. Schoolboy Q
+21. N.E.R.D
+22. The Roots
+23. G-Eazy
+24. Yelawolf
+25. Tech N9ne
+26. Atmosphere
+27. Earl Sweatshirt
+28. Freddie Gibbs
+29. Pusha T
+30. Meek Mill
+31. 50 Cent
+32. T.I.
+33. Rick Ross
+34. Young Jeezy
+35. Lil Wayne
+36. Future
+37. Travis Scott
+38. Migos
+39. Lil Uzi Vert
+40. 21 Savage
+41. Gucci Mane
+42. Young Thug
+43. Rae Sremmurd
+44. A$AP Ferg
+45. Chief Keef
+46. Lil Yachty
+47. Kodak Black
+48. 6LACK
+49. Post Malone
+50. XXXTentacion
+
+These recommendations are based on the user's liking of artists such as Nas, 2Pac, The Black Keys, The Killers, Jason Derülo, Jay-Z, Drake, Benny Benassi, The Fray, Kanye West, Mos Def, Trey Songz, and Sia.

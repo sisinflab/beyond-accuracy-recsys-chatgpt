@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. Pride and Prejudice by Jane Austen
+3. To Kill a Mockingbird by Harper Lee
+4. Jane Eyre by Charlotte Bronte
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. The Catcher in the Rye by J.D. Salinger
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Scarlet Letter by Nathaniel Hawthorne
+10. The Count of Monte Cristo by Alexandre Dumas
+11. The Grapes of Wrath by John Steinbeck
+12. Crime and Punishment by Fyodor Dostoevsky
+13. The Bell Jar by Sylvia Plath
+14. The Handmaid's Tale by Margaret Atwood
+15. One Hundred Years of Solitude by Gabriel Garcia Marquez
+16. The Kite Runner by Khaled Hosseini
+17. The Alchemist by Paulo Coelho
+18. The Road by Cormac McCarthy
+19. The Secret History by Donna Tartt
+20. The Night Circus by Erin Morgenstern
+21. The Goldfinch by Donna Tartt
+22. The Shadow of the Wind by Carlos Ruiz Zafon
+23. The Book of Lost Things by John Connolly
+24. The Nightingale by Kristin Hannah
+25. The Thirteenth Tale by Diane Setterfield
+26. The Historian by Elizabeth Kostova
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Poisonwood Bible by Barbara Kingsolver
+29. The Lovely Bones by Alice Sebold
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Help by Kathryn Stockett
+32. The Glass Castle by Jeannette Walls
+33. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+34. The Girl with the Dragon Tattoo by Stieg Larsson
+35. The Hunger Games by Suzanne Collins
+36. The Maze Runner by James Dashner
+37. The Giver by Lois Lowry
+38. The Lightning Thief by Rick Riordan
+39. The Hunger Games by Suzanne Collins
+40. The Maze Runner by James Dashner
+41. The Giver by Lois Lowry
+42. The Lightning Thief by Rick Riordan
+43. The Chronicles of Narnia by C.S. Lewis
+44. The Hobbit by J.R.R. Tolkien
+45. A Wrinkle in Time by Madeleine L'Engle
+46. The Secret Garden by Frances Hodgson Burnett
+47. Anne of Green Gables by L.M. Montgomery
+48. Little Women by Louisa May Alcott
+49. Matilda by Roald Dahl
+50. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+
+These recommendations are based on the user's interest in classic literature, fantasy, and young adult fiction.

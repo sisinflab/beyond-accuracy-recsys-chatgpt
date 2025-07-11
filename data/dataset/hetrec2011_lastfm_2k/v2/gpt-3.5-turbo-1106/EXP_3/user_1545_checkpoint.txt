@@ -1,0 +1,54 @@
+Based on user 1545's preferences, here are the top 50 recommendations for the given artists:
+
+1. Muse
+2. Red Hot Chili Peppers
+3. Bob Dylan
+4. Beck
+5. Elliott Smith
+6. Jeff Buckley
+7. U2
+8. Franz Ferdinand
+9. Kings of Convenience
+10. Oasis
+11. The White Stripes
+12. Blur
+13. Cat Power
+14. Feist
+15. Ray LaMontagne
+16. Gorillaz
+17. Placebo
+18. Björk
+19. Hans Zimmer
+20. John Lennon
+21. The Decemberists
+22. Snow Patrol
+23. Editors
+24. Jason Mraz
+25. Little Joy
+26. The Beach Boys
+27. David Bowie
+28. The Smashing Pumpkins
+29. The Devil Wears Prada
+30. Silverchair
+31. Explosions in the Sky
+32. Stereophonics
+33. Mika
+34. The Killers
+35. The Cure
+36. Interpol
+37. The Strokes
+38. Yeah Yeah Yeahs
+39. The Last Shadow Puppets
+40. Arcade Fire
+41. Pixies
+42. Nirvana
+43. The Cranberries
+44. We Are Scientists
+45. Manic Street Preachers
+46. Ramones
+47. The Beatles
+48. Kasabian
+49. Kaiser Chiefs
+50. Bad Religion
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

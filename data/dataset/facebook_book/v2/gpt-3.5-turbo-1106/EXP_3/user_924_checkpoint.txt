@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of top-50 book recommendations for user 924:
+
+1. The Three Musketeers by Alexandre Dumas, Auguste Maquet
+2. Dracula by Bram Stoker
+3. Uncle Tom's Cabin by Harriet Beecher Stowe
+4. The Prince and the Pauper by Mark Twain
+5. Oliver Twist by Charles Dickens
+6. The Adventures of Tom Sawyer by Mark Twain
+7. Around the World in Eighty Days by Jules Verne
+8. The Hunchback of Notre-Dame
+9. Les Misérables
+10. The Hobbit
+11. Adventures of Huckleberry Finn
+12. A Christmas Carol
+13. The Secret Garden
+14. The Picture of Dorian Gray
+15. The Legend of Sleepy Hollow
+16. The Giver
+17. The Shadow of the Wind
+18. The Queen of the Damned
+19. The Time Machine
+20. The Lord of the Rings
+21. The Lion, the Witch and the Wardrobe
+22. Wuthering Heights
+23. Frankenstein
+24. Moby-Dick
+25. A Midsummer Night's Dream
+26. Through the Looking-Glass
+27. Dreamcatcher (novel)
+28. The Screwtape Letters
+29. Pride and Prejudice
+30. Macbeth
+31. Little Men
+32. The Swiss Family Robinson
+33. Les Fleurs du mal
+34. The Fall of the House of Usher
+35. Far from the Madding Crowd
+36. Bleak House
+37. A Clockwork Orange
+38. Twilight (series)
+39. Harry Potter
+40. The Little Mermaid
+41. Aeneid
+42. The Canterbury Tales
+43. The Perfect Storm (book)
+44. Alice's Adventures in Wonderland
+45. The Kite Runner
+46. The War of the Worlds
+47. Pedro Páramo
+48. Winnie-the-Pooh (book)
+49. Demian
+50. Great Expectations
+
+These recommendations are based on the user's liking for classic literature and adventure stories.

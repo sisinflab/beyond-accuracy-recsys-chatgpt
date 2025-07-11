@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Frankenstein by Mary Shelley
+3. The Stand by Stephen King
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Exorcist by William Peter Blatty
+6. Misery by Stephen King
+7. Wuthering Heights by Emily Bronte
+8. The Haunting of Hill House by Shirley Jackson
+9. The Tell-Tale Heart by Edgar Allan Poe
+10. The Silence of the Lambs by Thomas Harris
+11. The Phantom of the Opera by Gaston Leroux
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Turn of the Screw by Henry James
+14. The Woman in White by Wilkie Collins
+15. The Secret History by Donna Tartt
+16. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+17. Rebecca by Daphne du Maurier
+18. The Lovely Bones by Alice Sebold
+19. The Night Circus by Erin Morgenstern
+20. The Thirteenth Tale by Diane Setterfield
+21. The Historian by Elizabeth Kostova
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Girl on the Train by Paula Hawkins
+24. The Book Thief by Markus Zusak
+25. The Name of the Wind by Patrick Rothfuss
+26. The Goldfinch by Donna Tartt
+27. The Secret Garden by Frances Hodgson Burnett
+28. The Giver by Lois Lowry
+29. The Hunger Games by Suzanne Collins
+30. The Maze Runner by James Dashner
+31. The Chronicles of Narnia by C.S. Lewis
+32. The Hobbit by J.R.R. Tolkien
+33. The Alchemist by Paulo Coelho
+34. The Catcher in the Rye by J.D. Salinger
+35. To Kill a Mockingbird by Harper Lee
+36. 1984 by George Orwell
+37. The Great Gatsby by F. Scott Fitzgerald
+38. Pride and Prejudice by Jane Austen
+39. Jane Eyre by Charlotte Bronte
+40. Little Women by Louisa May Alcott
+41. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+42. The Count of Monte Cristo by Alexandre Dumas
+43. The Three Musketeers by Alexandre Dumas
+44. War and Peace by Leo Tolstoy
+45. Crime and Punishment by Fyodor Dostoevsky
+46. One Hundred Years of Solitude by Gabriel Garcia Marquez
+47. The Brothers Karamazov by Fyodor Dostoevsky
+48. Anna Karenina by Leo Tolstoy
+49. Moby-Dick by Herman Melville
+50. The Odyssey by Homer
+
+These recommendations are based on the user's interest in horror, classic literature, and fantasy genres.

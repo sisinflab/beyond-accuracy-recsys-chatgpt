@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Kendrick Lamar
+2. Kanye West
+3. Lil Wayne
+4. J. Cole
+5. Biggie Smalls
+6. OutKast
+7. Wu-Tang Clan
+8. A Tribe Called Quest
+9. Missy Elliott
+10. Busta Rhymes
+11. Ice Cube
+12. Rakim
+13. Public Enemy
+14. LL Cool J
+15. Run-D.M.C.
+16. Beastie Boys
+17. Common
+18. Talib Kweli
+19. Mos Def
+20. The Notorious B.I.G.
+21. Mobb Deep
+22. Ghostface Killah
+23. Raekwon
+24. Method Man
+25. Redman
+26. GZA
+27. RZA
+28. Ol' Dirty Bastard
+29. Nas & Damian "Jr. Gong" Marley
+30. 50 Cent & G-Unit
+31. Eminem & Royce Da 5'9"
+32. Dr. Dre & Snoop Dogg
+33. The Game & 50 Cent
+34. 2Pac & Outlawz
+35. N.W.A.
+36. Eazy-E
+37. Ice-T
+38. Warren G
+39. Nate Dogg
+40. Xzibit
+41. Cypress Hill
+42. The Pharcyde
+43. De La Soul
+44. Black Star
+45. EPMD
+46. KRS-One
+47. Big L
+48. Nas & AZ
+49. Gang Starr & Nice & Smooth
+50. Nicki Minaj & Lil Wayne
+
+These recommendations are based on the user's liking of similar artists and are tailored to their music preferences.

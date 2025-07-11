@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tame Impala
+2. Vampire Weekend
+3. Fleet Foxes
+4. Bon Iver
+5. The National
+6. Modest Mouse
+7. MGMT
+8. The Flaming Lips
+9. Beach House
+10. Wilco
+11. The Shins
+12. My Morning Jacket
+13. Spoon
+14. The War on Drugs
+15. Father John Misty
+16. Neutral Milk Hotel
+17. Yo La Tengo
+18. The Strokes
+19. Phoenix
+20. The xx
+21. Interpol
+22. Foals
+23. Arctic Monkeys
+24. The Black Keys
+25. St. Vincent
+26. Kurt Vile
+27. Mac DeMarco
+28. Real Estate
+29. Grimes
+30. Sharon Van Etten
+31. Angel Olsen
+32. Parquet Courts
+33. Courtney Barnett
+34. King Krule
+35. Mitski
+36. Soccer Mommy
+37. Car Seat Headrest
+38. Big Thief
+39. Snail Mail
+40. Japanese Breakfast
+41. HAIM
+42. Warpaint
+43. Alvvays
+44. Beach Fossils
+45. DIIV
+46. Whitney
+47. Weyes Blood
+48. Perfume Genius
+49. Phoebe Bridgers
+50. Julien Baker
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands.

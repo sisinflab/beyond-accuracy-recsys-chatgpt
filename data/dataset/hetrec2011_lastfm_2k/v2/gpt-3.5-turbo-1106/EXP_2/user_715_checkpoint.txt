@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Iron Maiden
+2. Metallica
+3. Black Sabbath
+4. Judas Priest
+5. Ozzy Osbourne
+6. Avantasia
+7. HammerFall
+8. Helloween
+9. Bruce Dickinson
+10. Stratovarius
+11. Blind Guardian
+12. Accept
+13. Saxon
+14. Edguy
+15. Slayer
+16. Deep Purple
+17. Nightwish
+18. Sonata Arctica
+19. Dimmu Borgir
+20. Nevermore
+21. Overkill
+22. Def Leppard
+23. Avenged Sevenfold
+24. Nirvana
+25. System of a Down
+26. Linkin Park
+27. My Chemical Romance
+28. Green Day
+29. Pearl Jam
+30. The Killers
+31. Muse
+32. 30 Seconds to Mars
+33. Radiohead
+34. Arctic Monkeys
+35. Placebo
+36. Coldplay
+37. Blur
+38. U2
+39. The Beatles
+40. Pink Floyd
+41. Michael Jackson
+42. Madonna
+43. Lady Gaga
+44. Rihanna
+45. Beyoncé
+46. Christina Aguilera
+47. Britney Spears
+48. Katy Perry
+49. Taylor Swift
+50. Paramore
+
+This re-ranked list is based on the user's liking of similar artists and may not necessarily reflect the user's preferences for other genres or styles of music.

@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 1178:
+
+1. The Picture of Dorian Gray
+2. Macbeth
+3. The Merchant of Venice
+4. The Great Gatsby
+5. The Last Storytellers: Tales from the Heart of Morocco
+6. Les Misérables
+7. The Prestige
+8. The Masque of the Red Death
+9. Heart of Darkness
+10. The Cask of Amontillado
+11. The Pit and the Pendulum
+12. The Gold Bug Variations
+13. Factotum (novel)
+14. Mythology (book)
+15. The Seven Habits of Highly Effective People
+16. Alice's Adventures in Wonderland
+17. The Doors of Perception
+18. The Secret (book)
+19. Things Fall Apart
+20. The Lord of the Rings
+21. A Clockwork Orange
+22. The Catcher in the Rye
+23. The Seventh Tower
+24. Little Women
+25. The Tempest
+26. Slaughterhouse-Five
+27. The Canterbury Tales
+28. Be Here Now (book)
+29. All Quiet on the Western Front
+30. Inferno (Dante)
+31. The Monk
+32. To Kill a Mockingbird
+33. Veronika Decides to Die
+34. The Rum Diary (novel)
+35. Oliver Twist
+36. Bridge to Terabithia (novel)
+37. Wide Sargasso Sea
+38. Vampire Knight
+39. Leaving a Doll's House: A Memoir
+40. Seven Pillars of Wisdom
+41. Miss Christina
+42. Kingdom of Fear (book)
+43. Go Ask Alice
+44. Jabberwocky
+45. Charmed (comics)
+46. Brain Droppings
+47. Evermore (book)
+48. The Good Earth
+49. Emma (novel)
+50. Quran
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended books to the ones the user already likes.

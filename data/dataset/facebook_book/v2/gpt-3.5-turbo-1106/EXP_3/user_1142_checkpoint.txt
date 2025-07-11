@@ -1,0 +1,54 @@
+Based on user 1142's preferences, here are the top 50 book recommendations:
+
+1. The Dark Tower: The Gunslinger by Stephen King
+2. Needful Things by Stephen King
+3. Pet Sematary by Stephen King
+4. American Gods by Neil Gaiman
+5. The Phantom Tollbooth by Norton Juster
+6. Lolita by Vladimir Nabokov
+7. Invisible Monsters by Chuck Palahniuk
+8. Choke (novel) by Chuck Palahniuk
+9. The Collector by John Fowles
+10. Wuthering Heights by Emily Brontë
+11. Tropic of Capricorn (novel) by Henry Miller
+12. Memoirs of a Geisha by Arthur Golden
+13. The Celestine Prophecy
+14. A Thousand Splendid Suns
+15. The Lovely Bones
+16. It's Kind of a Funny Story
+17. Things Fall Apart
+18. Tuesdays with Morrie
+19. Nineteen Eighty-Four
+20. The Catcher in the Rye
+21. Fight Club (novel)
+22. Running with Scissors (memoir)
+23. Catch-22
+24. Slaughterhouse-Five
+25. The Lord of the Rings
+26. Cat's Cradle
+27. A Midsummer Night's Dream
+28. Stardust (novel)
+29. Harry Potter
+30. The Da Vinci Code
+31. Bury My Heart at Wounded Knee
+32. The Awakening (Chopin novel)
+33. Atonement (novel)
+34. The Count of Monte Cristo
+35. The Devil's Dictionary
+36. Pride and Prejudice
+37. Burned (Hopkins novel)
+38. The Kite Runner
+39. The Hitchhiker's Guide to the Galaxy (novel)
+40. Haunted (Palahniuk novel)
+41. The Great Gatsby
+42. Battle Royale
+43. A Tree Grows in Brooklyn (novel)
+44. The Bell Jar
+45. Vanity Fair (novel)
+46. The Walking Dead (comic book)
+47. To Kill a Mockingbird
+48. Gunnerkrigg Court
+49. Manga
+50. Geek Love
+
+These recommendations are based on the user's previous likes and are tailored to their specific tastes.

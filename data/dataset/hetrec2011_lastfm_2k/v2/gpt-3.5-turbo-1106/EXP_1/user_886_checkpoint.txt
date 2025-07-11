@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Evanescence
+2. Nightwish
+3. The Cranberries
+4. Muse
+5. Avril Lavigne
+6. Florence + The Machine
+7. Paramore
+8. Garbage
+9. The Killers
+10. Alanis Morissette
+11. The Cardigans
+12. No Doubt
+13. The Smashing Pumpkins
+14. Placebo
+15. Halsey
+16. Lorde
+17. The Offspring
+18. Weezer
+19. The White Stripes
+20. Arctic Monkeys
+21. The Strokes
+22. Radiohead
+23. Foo Fighters
+24. Red Hot Chili Peppers
+25. Incubus
+26. 3 Doors Down
+27. Goo Goo Dolls
+28. Maroon 5
+29. Coldplay
+30. Snow Patrol
+31. Keane
+32. OneRepublic
+33. Imagine Dragons
+34. Bastille
+35. The Fray
+36. 3 Doors Down
+37. Breaking Benjamin
+38. Seether
+39. Shinedown
+40. Three Days Grace
+41. Skillet
+42. Theory of a Deadman
+43. Chevelle
+44. Puddle of Mudd
+45. Staind
+46. Trapt
+47. Seether
+48. Papa Roach
+49. Disturbed
+50. Godsmack
+
+These recommendations are based on the user's liking of rock, pop, and alternative artists, and include similar bands and artists that they may enjoy based on their preferences.

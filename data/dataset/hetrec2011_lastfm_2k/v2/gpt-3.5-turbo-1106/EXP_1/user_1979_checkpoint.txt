@@ -1,0 +1,54 @@
+Based on user 1979's preferences, here are the top 50 recommendations:
+
+1. Kylie Minogue
+2. Christina Aguilera
+3. Gwen Stefani
+4. Mariah Carey
+5. Janet Jackson
+6. Jennifer Lopez
+7. P!nk
+8. Shakira
+9. Celine Dion
+10. Whitney Houston
+11. Destiny's Child
+12. Spice Girls
+13. Janet Jackson
+14. TLC
+15. Mariah Carey
+16. Jennifer Lopez
+17. P!nk
+18. Shakira
+19. Celine Dion
+20. Whitney Houston
+21. Destiny's Child
+22. Spice Girls
+23. Janet Jackson
+24. TLC
+25. Ariana Grande
+26. Selena Gomez
+27. Demi Lovato
+28. Taylor Swift
+29. Adele
+30. Sia
+31. Kelly Clarkson
+32. Jessie J
+33. Halsey
+34. Dua Lipa
+35. Bebe Rexha
+36. Camila Cabello
+37. Ariana Grande
+38. Selena Gomez
+39. Demi Lovato
+40. Taylor Swift
+41. Adele
+42. Sia
+43. Kelly Clarkson
+44. Jessie J
+45. Halsey
+46. Dua Lipa
+47. Bebe Rexha
+48. Camila Cabello
+49. Rita Ora
+50. Zara Larsson
+
+These recommendations are based on the similar musical styles and genres of the artists that user 1979 likes.

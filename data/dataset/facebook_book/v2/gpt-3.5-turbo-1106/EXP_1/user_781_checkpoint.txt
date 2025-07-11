@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Secret History by Donna Tartt
+2. The Night Circus by Erin Morgenstern
+3. The Book Thief by Markus Zusak
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. 1984 by George Orwell
+8. Brave New World by Aldous Huxley
+9. Fahrenheit 451 by Ray Bradbury
+10. The Handmaid's Tale by Margaret Atwood
+11. The Alchemist by Paulo Coelho
+12. The Kite Runner by Khaled Hosseini
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Help by Kathryn Stockett
+15. Gone Girl by Gillian Flynn
+16. The Goldfinch by Donna Tartt
+17. The Martian by Andy Weir
+18. Ready Player One by Ernest Cline
+19. The Name of the Wind by Patrick Rothfuss
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Nightingale by Kristin Hannah
+22. The Silent Patient by Alex Michaelides
+23. Where the Crawdads Sing by Delia Owens
+24. Educated by Tara Westover
+25. Little Fires Everywhere by Celeste Ng
+26. The Hate U Give by Angie Thomas
+27. All the Light We Cannot See by Anthony Doerr
+28. The Immortalists by Chloe Benjamin
+29. The Alice Network by Kate Quinn
+30. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+31. The Giver of Stars by Jojo Moyes
+32. The Tattooist of Auschwitz by Heather Morris
+33. The Nightingale by Kristin Hannah
+34. The Silent Patient by Alex Michaelides
+35. Where the Crawdads Sing by Delia Owens
+36. Educated by Tara Westover
+37. Little Fires Everywhere by Celeste Ng
+38. The Hate U Give by Angie Thomas
+39. All the Light We Cannot See by Anthony Doerr
+40. The Immortalists by Chloe Benjamin
+41. The Alice Network by Kate Quinn
+42. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+43. The Giver of Stars by Jojo Moyes
+44. The Tattooist of Auschwitz by Heather Morris
+45. The Nightingale by Kristin Hannah
+46. The Silent Patient by Alex Michaelides
+47. Where the Crawdads Sing by Delia Owens
+48. Educated by Tara Westover
+49. Little Fires Everywhere by Celeste Ng
+50. The Hate U Give by Angie Thomas
+
+These recommendations are based on the user's interest in a mix of fiction, historical fiction, and science fiction.

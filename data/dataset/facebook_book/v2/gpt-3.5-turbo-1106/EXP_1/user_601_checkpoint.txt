@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Dracula by Bram Stoker
+3. Frankenstein by Mary Shelley
+4. The Picture of Dorian Gray by Oscar Wilde
+5. 1984 by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Dark Tower series by Stephen King
+12. The Road by Cormac McCarthy
+13. The Handmaid's Tale by Margaret Atwood
+14. Fahrenheit 451 by Ray Bradbury
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Martian by Andy Weir
+17. The Hunger Games by Suzanne Collins
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Name of the Wind by Patrick Rothfuss
+20. The Alchemist by Paulo Coelho
+21. The Book Thief by Markus Zusak
+22. The Night Circus by Erin Morgenstern
+23. The Goldfinch by Donna Tartt
+24. The Secret History by Donna Tartt
+25. The Shadow of the Wind by Carlos Ruiz Zafón
+26. The Kite Runner by Khaled Hosseini
+27. The Help by Kathryn Stockett
+28. The Fault in Our Stars by John Green
+29. The Perks of Being a Wallflower by Stephen Chbosky
+30. The Giver by Lois Lowry
+31. The Maze Runner by James Dashner
+32. The Girl on the Train by Paula Hawkins
+33. Gone Girl by Gillian Flynn
+34. The Da Vinci Code by Dan Brown
+35. Angels & Demons by Dan Brown
+36. The Girl in the Spider's Web by David Lagercrantz
+37. The Girl Who Played with Fire by Stieg Larsson
+38. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+39. The Help by Kathryn Stockett
+40. The Lovely Bones by Alice Sebold
+41. The Time Traveler's Wife by Audrey Niffenegger
+42. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+43. The Glass Castle by Jeannette Walls
+44. The Nightingale by Kristin Hannah
+45. The Light Between Oceans by M.L. Stedman
+46. The Book of Lost Things by John Connolly
+47. The Ocean at the End of the Lane by Neil Gaiman
+48. The Night Circus by Erin Morgenstern
+49. The Snow Child by Eowyn Ivey
+50. The Thirteenth Tale by Diane Setterfield
+
+These recommendations are based on the user's interest in horror, fantasy, and classic literature.

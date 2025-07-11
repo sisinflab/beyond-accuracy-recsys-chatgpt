@@ -1,0 +1,54 @@
+Based on the preferences of user 333, here are the top 50 recommendations for the listed artists:
+
+1. Lady Gaga
+2. Mariah Carey
+3. Gwen Stefani
+4. Enrique Iglesias
+5. Nelly Furtado
+6. Alicia Keys
+7. Usher
+8. Avril Lavigne
+9. Taylor Swift
+10. Kelly Rowland
+11. Nicole Scherzinger
+12. Pink
+13. Bruno Mars
+14. Leona Lewis
+15. Ashlee Simpson
+16. Destiny's Child
+17. Madonna
+18. Michael Jackson
+19. Avenged Sevenfold
+20. Maroon 5
+21. Simple Plan
+22. Linkin Park
+23. Good Charlotte
+24. Robyn
+25. Sugababes
+26. Kylie Minogue
+27. Dido
+28. Ke$ha
+29. Evanescence
+30. Leighton Meester
+31. Christina Milian
+32. Hannah Montana
+33. Bon Jovi
+34. Adam Lambert
+35. Scissor Sisters
+36. The Veronicas
+37. David Guetta
+38. Pixie Lott
+39. Far East Movement
+40. Ciara
+41. Jessica Simpson
+42. Laura Pausini
+43. Belinda
+44. Girls Aloud
+45. Ana Carolina
+46. Simon Curtis
+47. Ashlee Simpson
+48. Skye Sweetnam
+49. Janet Jackson
+50. Fergie
+
+These recommendations are based on similar artists and genres liked by user 333.

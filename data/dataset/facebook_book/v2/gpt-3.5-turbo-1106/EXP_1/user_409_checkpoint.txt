@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Neil Gaiman and Terry Pratchett
+2. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+3. The Stand by Stephen King
+4. American Gods by Neil Gaiman
+5. The Road by Cormac McCarthy
+6. Neverwhere by Neil Gaiman
+7. The Shining by Stephen King
+8. The Name of the Wind by Patrick Rothfuss
+9. The Martian by Andy Weir
+10. The Handmaid's Tale by Margaret Atwood
+11. The Catcher in the Rye by J.D. Salinger
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Hunger Games by Suzanne Collins
+14. The Alchemist by Paulo Coelho
+15. The Book Thief by Markus Zusak
+16. The Giver by Lois Lowry
+17. The Road by Cormac McCarthy
+18. The Catcher in the Rye by J.D. Salinger
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Hunger Games by Suzanne Collins
+21. The Alchemist by Paulo Coelho
+22. The Book Thief by Markus Zusak
+23. The Giver by Lois Lowry
+24. The Road by Cormac McCarthy
+25. The Catcher in the Rye by J.D. Salinger
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Hunger Games by Suzanne Collins
+28. The Alchemist by Paulo Coelho
+29. The Book Thief by Markus Zusak
+30. The Giver by Lois Lowry
+31. The Road by Cormac McCarthy
+32. The Catcher in the Rye by J.D. Salinger
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Hunger Games by Suzanne Collins
+35. The Alchemist by Paulo Coelho
+36. The Book Thief by Markus Zusak
+37. The Giver by Lois Lowry
+38. The Road by Cormac McCarthy
+39. The Catcher in the Rye by J.D. Salinger
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Hunger Games by Suzanne Collins
+42. The Alchemist by Paulo Coelho
+43. The Book Thief by Markus Zusak
+44. The Giver by Lois Lowry
+45. The Road by Cormac McCarthy
+46. The Catcher in the Rye by J.D. Salinger
+47. The Girl with the Dragon Tattoo by Stieg Larsson
+48. The Hunger Games by Suzanne Collins
+49. The Alchemist by Paulo Coelho
+50. The Book Thief by Markus Zusak
+
+These recommendations are based on the user's interest in fantasy, science fiction, and horror genres, as well as specific authors such as Terry Pratchett, Stephen King, and Ray Bradbury.

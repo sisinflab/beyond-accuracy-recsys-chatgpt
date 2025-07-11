@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Sabaton
+2. Symphony X
+3. Helloween
+4. Tool
+5. Kamelot
+6. Epica
+7. Stratovarius
+8. Opeth
+9. Sirenia
+10. Amorphis
+11. Avantasia
+12. Anathema
+13. Kamelot
+14. Within Temptation
+15. Ayreon
+16. Children of Bodom
+17. Arch Enemy
+18. In Flames
+19. Nightwish
+20. Sonata Arctica
+21. Therion
+22. Dark Tranquillity
+23. Moonspell
+24. My Dying Bride
+25. Paradise Lost
+26. Lacrimosa
+27. Samael
+28. Tiamat
+29. Tristania
+30. The Gathering
+31. Katatonia
+32. Anathema
+33. Moonspell
+34. My Dying Bride
+35. Paradise Lost
+36. Lacrimosa
+37. Samael
+38. Tiamat
+39. Tristania
+40. The Gathering
+41. Katatonia
+42. Anathema
+43. Moonspell
+44. My Dying Bride
+45. Paradise Lost
+46. Lacrimosa
+47. Samael
+48. Tiamat
+49. Tristania
+50. The Gathering

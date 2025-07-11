@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 61:
+
+1. Radiohead
+2. David Bowie
+3. The Strokes
+4. Franz Ferdinand
+5. Arctic Monkeys
+6. Interpol
+7. Coldplay
+8. The Killers
+9. Daft Punk
+10. Gorillaz
+11. Jack Johnson
+12. George Harrison
+13. Paul McCartney
+14. John Mayer
+15. Elliott Smith
+16. Feist
+17. Maxïmo Park
+18. Travis
+19. System of a Down
+20. Incubus
+21. Justice
+22. The Chemical Brothers
+23. Explosions in the Sky
+24. Yellowcard
+25. Johnny Cash
+26. Nina Simone
+27. Buddy Holly
+28. Chuck Berry
+29. Sade
+30. Madonna
+31. Michael Jackson
+32. Beyoncé
+33. Erykah Badu
+34. Alanis Morissette
+35. The Smashing Pumpkins
+36. A Flock of Seagulls
+37. Zeca Baleiro
+38. Cássia Eller
+39. Marisa Monte
+40. Carla Bruni
+41. Adriana Calcanhotto
+42. Caetano Veloso
+43. Rita Lee
+44. Pato Fu
+45. Belle and Sebastian
+46. Little Joy
+47. Legião Urbana
+48. Marcelo Camelo
+49. Chico Buarque
+50. Maria Bethânia
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their taste.

@@ -1,0 +1,54 @@
+Based on user 1700's preferences, here are the top 50 recommendations for them:
+
+1. Radiohead
+2. Pink Floyd
+3. Björk
+4. The Cure
+5. Portishead
+6. Explosions in the Sky
+7. Morcheeba
+8. God Is an Astronaut
+9. Miles Davis
+10. Jeff Buckley
+11. Kings of Convenience
+12. Trentemøller
+13. Red Hot Chili Peppers
+14. Parov Stelar
+15. The Cardigans
+16. DJ Shadow
+17. Stevie Ray Vaughan and Double Trouble
+18. Madonna
+19. Lady Gaga
+20. Depeche Mode
+21. Britney Spears
+22. Christina Aguilera
+23. Rihanna
+24. Shakira
+25. Beyoncé
+26. U2
+27. Muse
+28. Kylie Minogue
+29. Katy Perry
+30. Taylor Swift
+31. Paramore
+32. Avril Lavigne
+33. 30 Seconds to Mars
+34. Evanescence
+35. Glee Cast
+36. The Beatles
+37. Ke$ha
+38. Duran Duran
+39. Coldplay
+40. Blur
+41. Arctic Monkeys
+42. Placebo
+43. The Killers
+44. Nirvana
+45. Iron Maiden
+46. Amy Winehouse
+47. Led Zeppelin
+48. Metallica
+49. Michael Jackson
+50. Pearl Jam
+
+These recommendations are based on the user's liking of similar artists and genres.

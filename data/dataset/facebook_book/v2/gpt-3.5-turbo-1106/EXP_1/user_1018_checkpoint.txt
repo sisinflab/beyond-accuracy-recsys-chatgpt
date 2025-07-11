@@ -1,0 +1,54 @@
+Based on the preferences of user 1018, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Bell Jar by Sylvia Plath
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Road by Cormac McCarthy
+8. The Handmaid's Tale by Margaret Atwood
+9. The Alchemist by Paulo Coelho
+10. The Book Thief by Markus Zusak
+11. The Fault in Our Stars by John Green
+12. Gone Girl by Gillian Flynn
+13. The Girl on the Train by Paula Hawkins
+14. Big Little Lies by Liane Moriarty
+15. The Night Circus by Erin Morgenstern
+16. The Goldfinch by Donna Tartt
+17. The Help by Kathryn Stockett
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Lovely Bones by Alice Sebold
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. Water for Elephants by Sara Gruen
+22. The Hunger Games by Suzanne Collins
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Da Vinci Code by Dan Brown
+25. The Shadow of the Wind by Carlos Ruiz Zafón
+26. The Name of the Wind by Patrick Rothfuss
+27. The Martian by Andy Weir
+28. Ready Player One by Ernest Cline
+29. Dark Matter by Blake Crouch
+30. The Silent Patient by Alex Michaelides
+31. Where the Crawdads Sing by Delia Owens
+32. Educated by Tara Westover
+33. Little Fires Everywhere by Celeste Ng
+34. Eleanor Oliphant Is Completely Fine by Gail Honeyman
+35. The Nightingale by Kristin Hannah
+36. All the Light We Cannot See by Anthony Doerr
+37. The Tattooist of Auschwitz by Heather Morris
+38. Before We Were Yours by Lisa Wingate
+39. The Alice Network by Kate Quinn
+40. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+41. The Giver of Stars by Jojo Moyes
+42. The Dutch House by Ann Patchett
+43. The Testaments by Margaret Atwood
+44. The Silent Wife by A.S.A. Harrison
+45. The Wife Between Us by Greer Hendricks and Sarah Pekkanen
+46. The Woman in the Window by A.J. Finn
+47. The Night Stalker by Robert Bryndza
+48. The Girl in the Ice by Robert Bryndza
+49. The Silent Corner by Dean Koontz
+50. The Outsider by Stephen King
+
+These recommendations are based on the genres and themes of the books that user 1018 enjoys.

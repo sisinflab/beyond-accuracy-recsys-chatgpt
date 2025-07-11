@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. The Strokes
+4. Franz Ferdinand
+5. The Cure
+6. Blur
+7. The Flaming Lips
+8. Spoon
+9. Modest Mouse
+10. The Black Keys
+11. Vampire Weekend
+12. The xx
+13. LCD Soundsystem
+14. Yeah Yeah Yeahs
+15. Tame Impala
+16. The War on Drugs
+17. Foals
+18. The National
+19. U2
+20. Elbow
+21. Beck
+22. Morrissey
+23. Arcade Fire
+24. Goldfrapp
+25. Doves
+26. Crowded House
+27. R.E.M.
+28. Interpol
+29. New Order
+30. Kasabian
+31. Madonna
+32. Coldplay
+33. Sigur Rós
+34. Bloc Party
+35. INXS
+36. The Killers
+37. Oasis
+38. Massive Attack
+39. Primal Scream
+40. Talk Talk
+41. Róisín Murphy
+42. Peter Gabriel
+43. Red Hot Chili Peppers
+44. The White Stripes
+45. Faithless
+46. Kaiser Chiefs
+47. Spiritualized
+48. The Smiths
+49. Keane
+50. Arctic Monkeys
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists that the user may enjoy.

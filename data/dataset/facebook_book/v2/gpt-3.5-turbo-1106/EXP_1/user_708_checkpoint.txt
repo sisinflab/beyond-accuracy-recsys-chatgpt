@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Giver by Lois Lowry
+2. Ender's Game by Orson Scott Card
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Lightning Thief by Rick Riordan
+6. The Fault in Our Stars by John Green
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Alchemist by Paulo Coelho
+9. The Book Thief by Markus Zusak
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. The Outsiders by S.E. Hinton
+12. The Catcher in the Rye by J.D. Salinger
+13. To Kill a Mockingbird by Harper Lee
+14. The Great Gatsby by F. Scott Fitzgerald
+15. 1984 by George Orwell
+16. Brave New World by Aldous Huxley
+17. Fahrenheit 451 by Ray Bradbury
+18. Animal Farm by George Orwell
+19. Lord of the Flies by William Golding
+20. The Handmaid's Tale by Margaret Atwood
+21. The Road by Cormac McCarthy
+22. The Stand by Stephen King
+23. The Shining by Stephen King
+24. It by Stephen King
+25. Pet Sematary by Stephen King
+26. Misery by Stephen King
+27. Carrie by Stephen King
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. Gone Girl by Gillian Flynn
+30. Sharp Objects by Gillian Flynn
+31. Dark Places by Gillian Flynn
+32. The Girl on the Train by Paula Hawkins
+33. Big Little Lies by Liane Moriarty
+34. The Husband's Secret by Liane Moriarty
+35. Sharp Objects by Gillian Flynn
+36. Dark Places by Gillian Flynn
+37. The Girl on the Train by Paula Hawkins
+38. Big Little Lies by Liane Moriarty
+39. The Husband's Secret by Liane Moriarty
+40. The Night Circus by Erin Morgenstern
+41. The Goldfinch by Donna Tartt
+42. The Secret History by Donna Tartt
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. Gone Girl by Gillian Flynn
+45. The Girl on the Train by Paula Hawkins
+46. Big Little Lies by Liane Moriarty
+47. The Husband's Secret by Liane Moriarty
+48. The Night Circus by Erin Morgenstern
+49. The Goldfinch by Donna Tartt
+50. The Secret History by Donna Tartt

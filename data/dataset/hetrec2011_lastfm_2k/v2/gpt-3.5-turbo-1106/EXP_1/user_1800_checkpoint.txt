@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. Pet Shop Boys
+3. The Killers
+4. Goldfrapp
+5. Ladytron
+6. Yazoo
+7. The Knife
+8. Chvrches
+9. La Roux
+10. Garbage
+11. The Human League
+12. M83
+13. Crystal Castles
+14. The xx
+15. Chromatics
+16. Grimes
+17. Robyn
+18. Metric
+19. Tegan and Sara
+20. Florence + The Machine
+21. Ellie Goulding
+22. The Chemical Brothers
+23. Portishead
+24. Sneaker Pimps
+25. Röyksopp
+26. Fever Ray
+27. Santigold
+28. Lykke Li
+29. Bat for Lashes
+30. Marina and the Diamonds
+31. Purity Ring
+32. Phantogram
+33. Chairlift
+34. St. Vincent
+35. Kate Boy
+36. AlunaGeorge
+37. Broods
+38. Banks
+39. Haim
+40. London Grammar
+41. FKA twigs
+42. Charli XCX
+43. Sky Ferreira
+44. Zola Jesus
+45. Aurora
+46. Tove Lo
+47. MØ
+48. Lorde
+49. Bishop Briggs
+50. Sigrid
+
+These recommendations are based on the user's liking of similar artists and genres.

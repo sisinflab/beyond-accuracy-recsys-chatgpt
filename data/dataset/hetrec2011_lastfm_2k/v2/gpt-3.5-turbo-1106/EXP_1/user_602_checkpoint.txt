@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Brand New
+2. Coheed and Cambria
+3. Thrice
+4. Circa Survive
+5. At the Drive-In
+6. Glassjaw
+7. Taking Back Sunday
+8. Manchester Orchestra
+9. The Used
+10. Thursday
+11. Anberlin
+12. Silverstein
+13. Saosin
+14. The Dear Hunter
+15. La Dispute
+16. Alexisonfire
+17. Senses Fail
+18. The Receiving End of Sirens
+19. The Mars Volta
+20. mewithoutYou
+21. The Sound of Animals Fighting
+22. The Fall of Troy
+23. Biffy Clyro
+24. Porcupine Tree
+25. Franz Ferdinand
+26. The Smashing Pumpkins
+27. HORSE the band
+28. Why?
+29. blink-182
+30. The Police
+31. Dethklok
+32. Bullet for My Valentine
+33. Arch Enemy
+34. Emarosa
+35. Radiohead
+36. Muse
+37. Arctic Monkeys
+38. Queens of the Stone Age
+39. Interpol
+40. The Strokes
+41. Bloc Party
+42. Death Cab for Cutie
+43. Modest Mouse
+44. The Killers
+45. Arctic Monkeys
+46. The White Stripes
+47. The Black Keys
+48. Vampire Weekend
+49. Cage the Elephant
+50. Foster the People
+
+These recommendations are based on the user's liking of alternative rock, post-hardcore, and indie rock bands.

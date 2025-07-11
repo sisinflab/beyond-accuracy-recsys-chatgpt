@@ -1,0 +1,54 @@
+Based on user 1150's preferences, here are the top 50 recommendations:
+
+1. Tim McGraw
+2. Carrie Underwood
+3. Kenny Chesney
+4. Shania Twain
+5. Alan Jackson
+6. Faith Hill
+7. Blake Shelton
+8. Reba McEntire
+9. Jason Aldean
+10. Luke Bryan
+11. Florida Georgia Line
+12. Lady Antebellum
+13. Chris Stapleton
+14. Martina McBride
+15. Toby Keith
+16. Patsy Cline
+17. Willie Nelson
+18. Loretta Lynn
+19. Hank Williams
+20. The Band Perry
+21. Thomas Rhett
+22. Kacey Musgraves
+23. Zac Brown Band
+24. Miranda Lambert
+25. George Strait
+26. Taylor Swift
+27. Garth Brooks
+28. Kelly Clarkson
+29. Brad Paisley
+30. Johnny Cash
+31. Dolly Parton
+32. Rascal Flatts
+33. Eagles
+34. Pixie Lott
+35. Dixie Chicks
+36. Keith Urban
+37. Demi Lovato
+38. Britney Spears
+39. Sam Hunt
+40. Eric Church
+41. Miranda Lambert
+42. George Strait
+43. Taylor Swift
+44. Miranda Lambert
+45. George Strait
+46. Taylor Swift
+47. Miranda Lambert
+48. George Strait
+49. Taylor Swift
+50. Miranda Lambert
+
+These recommendations are based on the user's liking of country and pop artists, and are aimed at providing a diverse range of similar artists for the user to explore.

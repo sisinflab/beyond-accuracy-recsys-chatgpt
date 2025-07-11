@@ -1,0 +1,54 @@
+Based on user 203's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games
+2. The Giver
+3. Cirque du Freak
+4. Uglies
+5. Lord of the Flies
+6. Fahrenheit 451
+7. To Kill a Mockingbird
+8. Slaughterhouse-Five
+9. Catching Fire
+10. Gone with the Wind
+11. Romeo and Juliet
+12. A Midsummer Night's Dream
+13. Little Women
+14. American Gods
+15. Macbeth
+16. Nineteen Eighty-Four
+17. The Other Boleyn Girl
+18. Complete Works of Shakespeare
+19. Book of Revelation
+20. Antony and Cleopatra (novel)
+21. The Vampire Diaries
+22. The Hatchet (novel)
+23. The Umbrella Academy
+24. Bone (comics)
+25. The Satanic Verses
+26. The Girl Who Played with Fire
+27. The Grapes of Wrath
+28. Quidditch Through the Ages
+29. The Giving Tree
+30. Bible
+31. The Hunchback of Notre-Dame
+32. Red Dragon (novel)
+33. The Host (novel)
+34. Animal Farm
+35. Misery (novel)
+36. Mythology (book)
+37. Vampire Academy (novel)
+38. The Crucible of Time
+39. Torah Or
+40. Rage of Angels
+41. Speak (novel)
+42. The Class (Erich Segal novel)
+43. Wuthering Heights
+44. Haunted (The Mediator)
+45. A Series of Unfortunate Events
+46. Ethan Frome
+47. The Luxe
+48. Stardust (novel)
+49. Mockingjay
+50. The Outsiders (novel)
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

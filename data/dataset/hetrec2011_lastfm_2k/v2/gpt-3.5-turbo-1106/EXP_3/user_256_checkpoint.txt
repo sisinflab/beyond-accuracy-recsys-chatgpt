@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 256:
+
+1. Madonna
+2. Janet Jackson
+3. Amy Winehouse
+4. Black Sabbath
+5. Pearl Jam
+6. Linkin Park
+7. The Cranberries
+8. Good Charlotte
+9. Hilary Duff
+10. Selena Gomez & the Scene
+11. Jordin Sparks
+12. Colbie Caillat
+13. Leighton Meester
+14. Paramore
+15. Korn
+16. Jennifer Lopez
+17. Nelly Furtado
+18. Justin Bieber
+19. Lily Allen
+20. Avril Lavigne
+21. Destiny's Child
+22. Shakira
+23. Alanis Morissette
+24. Nicki Minaj
+25. Robyn
+26. Sugababes
+27. Pixie Lott
+28. BoA
+29. Belinda
+30. Nicole Scherzinger
+31. Inna
+32. The Saturdays
+33. Flo Rida
+34. Keri Hilson
+35. Glee Cast
+36. Breaking Benjamin
+37. Cansei de Ser Sexy
+38. Massive Attack
+39. Far East Movement
+40. Simon Curtis
+41. Aaliyah
+42. Michael Jackson
+43. Ciara
+44. Ashley Tisdale
+45. Lindsay Lohan
+46. Slipknot
+47. Pitty
+48. Cobra Starship
+49. Alanis Morissette
+50. 浜崎あゆみ
+
+These recommendations are based on similar artists liked by user 256 and are ranked in order of likelihood of enjoyment based on their existing preferences.

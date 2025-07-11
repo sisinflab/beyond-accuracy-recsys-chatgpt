@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Muse
+3. The Killers
+4. Arctic Monkeys
+5. Placebo
+6. Bring Me The Horizon
+7. Panic! At The Disco
+8. The Smashing Pumpkins
+9. Nine Inch Nails
+10. The Cure
+11. Deftones
+12. AFI
+13. Fall Out Boy
+14. The Used
+15. Marilyn Manson
+16. Green Day
+17. System Of A Down
+18. Paramore
+19. Katatonia
+20. 30 Seconds to Mars
+21. Radiohead
+22. Flyleaf
+23. The Birthday Massacre
+24. Evanescence
+25. Florence + the Machine
+26. Marduk
+27. Coldplay
+28. Suicide Silence
+29. Atreyu
+30. Rihanna
+31. She & Him
+32. The Beatles
+33. Crystal Castles
+34. Uffie
+35. In Flames
+36. Behemoth
+37. Ke$ha
+38. Justice
+39. Architects
+40. Linkin Park
+41. Lady Gaga
+42. Heaven Shall Burn
+43. Die Ärzte
+44. Sigur Rós
+45. Bright Eyes
+46. Immortal
+47. Silverstein
+48. My Chemical Romance
+49. Muse
+50. The Killers
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists that the user may enjoy.

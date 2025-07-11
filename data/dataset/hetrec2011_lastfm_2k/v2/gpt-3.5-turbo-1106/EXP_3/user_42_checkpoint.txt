@@ -1,0 +1,54 @@
+Based on user 42's preferences, here are the top 50 recommendations for them:
+
+1. Red Hot Chili Peppers
+2. The Killers
+3. Coldplay
+4. Radiohead
+5. Muse
+6. Snow Patrol
+7. Travis
+8. Kings of Leon
+9. The Fray
+10. Franz Ferdinand
+11. Placebo
+12. Interpol
+13. Linkin Park
+14. 3 Doors Down
+15. Massive Attack
+16. System of a Down
+17. Nirvana
+18. Pink Floyd
+19. The Beatles
+20. Depeche Mode
+21. Portishead
+22. David Gilmour
+23. Korn
+24. The xx
+25. Thom Yorke
+26. Audioslave
+27. Breaking Benjamin
+28. OneRepublic
+29. 30 Seconds to Mars
+30. Limp Bizkit
+31. Boards of Canada
+32. Sonic Youth
+33. Crystal Castles
+34. Marilyn Manson
+35. Kate Nash
+36. Papa Roach
+37. Metric
+38. Queen
+39. The Doors
+40. Joy Division
+41. The Offspring
+42. Arctic Monkeys
+43. Foo Fighters
+44. Death Cab for Cutie
+45. Robbie Williams
+46. Beyoncé
+47. Madonna
+48. Shakira
+49. Garbage
+50. Bloc Party
+
+These recommendations are based on similar genres and artists liked by user 42.

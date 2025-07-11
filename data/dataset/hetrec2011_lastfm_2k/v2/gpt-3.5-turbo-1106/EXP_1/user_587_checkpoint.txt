@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. All That Remains
+2. Trivium
+3. As I Lay Dying
+4. Atreyu
+5. Lamb of God
+6. Bullet for My Valentine
+7. Machine Head
+8. Chimaira
+9. DevilDriver
+10. Shadows Fall
+11. Five Finger Death Punch
+12. Parkway Drive
+13. The Amity Affliction
+14. As Blood Runs Black
+15. Bleeding Through
+16. Caliban
+17. Darkest Hour
+18. Heaven Shall Burn
+19. Haste the Day
+20. It Dies Today
+21. Killswitch Engage
+22. Unearth
+23. Soilwork
+24. In Flames
+25. Dark Tranquillity
+26. Scar Symmetry
+27. Omnium Gatherum
+28. Insomnium
+29. Be'lakor
+30. Amon Amarth
+31. Arch Enemy
+32. Children of Bodom
+33. Kalmah
+34. Wintersun
+35. Ensiferum
+36. Eluveitie
+37. Equilibrium
+38. Amon Amarth
+39. Darkthrone
+40. Immortal
+41. Enslaved
+42. Satyricon
+43. Mayhem
+44. Emperor
+45. Dimmu Borgir
+46. Gorgoroth
+47. Behemoth
+48. Marduk
+49. Watain
+50. Dissection
+
+These recommendations are based on the user's liking of similar artists and genres.

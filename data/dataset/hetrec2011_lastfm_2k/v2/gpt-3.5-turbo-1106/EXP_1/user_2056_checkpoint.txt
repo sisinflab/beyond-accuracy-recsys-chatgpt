@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Delain
+2. Xandria
+3. Sirenia
+4. After Forever
+5. Tarja
+6. The Gathering
+7. Tristania
+8. Sirenia
+9. Amaranthe
+10. Stream of Passion
+11. Visions of Atlantis
+12. Edenbridge
+13. Amberian Dawn
+14. Epica
+15. Nightwish
+16. Within Temptation
+17. Leaves' Eyes
+18. Lacuna Coil
+19. La Oreja de Van Gogh
+20. Shakira
+21. Kamelot
+22. Schiller
+23. Whitney Houston
+24. Evanescence
+25. Kylie Minogue
+26. Backstreet Boys
+27. Apocalyptica
+28. Journey
+29. LeAnn Rimes
+30. After Forever
+31. Tarja
+32. The Gathering
+33. Tristania
+34. Amaranthe
+35. Stream of Passion
+36. Visions of Atlantis
+37. Edenbridge
+38. Amberian Dawn
+39. Epica
+40. Nightwish
+41. Within Temptation
+42. Leaves' Eyes
+43. Lacuna Coil
+44. La Oreja de Van Gogh
+45. Shakira
+46. Kamelot
+47. Schiller
+48. Whitney Houston
+49. Evanescence
+50. Kylie Minogue
+
+These recommendations are based on the user's liking of similar artists and genres.

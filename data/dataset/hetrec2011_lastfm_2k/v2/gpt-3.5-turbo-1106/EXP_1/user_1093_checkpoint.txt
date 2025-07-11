@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Stratovarius
+2. Epica
+3. Helloween
+4. Kamelot
+5. Rhapsody of Fire
+6. Edguy
+7. Sabaton
+8. Amorphis
+9. Children of Bodom
+10. Eluveitie
+11. Sirenia
+12. Tarja
+13. Delain
+14. Symphony X
+15. Angra
+16. Powerwolf
+17. Wintersun
+18. Sirenia
+19. Xandria
+20. Leaves' Eyes
+21. Arkona
+22. Turisas
+23. Alestorm
+24. Elvenking
+25. Falconer
+26. Sonata Arctica
+27. Avantasia
+28. Ensiferum
+29. Andrew Lloyd Webber
+30. Korpiklaani
+31. Ayreon
+32. Nightwish
+33. Therion
+34. In Flames
+35. Blind Guardian
+36. Within Temptation
+37. HammerFall
+38. Queen
+39. Johnny Cash
+40. Poets of the Fall
+41. Coldplay
+42. Theatre of Tragedy
+43. Blue Öyster Cult
+44. Dimmu Borgir
+45. The Killers
+46. The Dandy Warhols
+47. Amaranthe
+48. Lacuna Coil
+49. Arch Enemy
+50. Nightwish (with Tarja)
+
+These recommendations are based on the user's liking of similar artists and genres.

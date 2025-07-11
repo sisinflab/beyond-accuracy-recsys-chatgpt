@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fear and Loathing in Las Vegas by Hunter S. Thompson
+2. On the Road by Jack Kerouac
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. One Flew Over the Cuckoo's Nest by Ken Kesey
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Bell Jar by Sylvia Plath
+8. A Clockwork Orange by Anthony Burgess
+9. The Great Gatsby by F. Scott Fitzgerald
+10. Catch-22 by Joseph Heller
+11. The Road by Cormac McCarthy
+12. The Stranger by Albert Camus
+13. The Sun Also Rises by Ernest Hemingway
+14. The Picture of Dorian Gray by Oscar Wilde
+15. To Kill a Mockingbird by Harper Lee
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Grapes of Wrath by John Steinbeck
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Shining by Stephen King
+20. A Farewell to Arms by Ernest Hemingway
+21. The Stand by Stephen King
+22. The Road to Wigan Pier by George Orwell
+23. The Sound and the Fury by William Faulkner
+24. The Stranger by Albert Camus
+25. The Brothers Karamazov by Fyodor Dostoevsky
+26. The Trial by Franz Kafka
+27. The Metamorphosis by Franz Kafka
+28. The Plague by Albert Camus
+29. The Idiot by Fyodor Dostoevsky
+30. Crime and Punishment by Fyodor Dostoevsky
+31. The Master and Margarita by Mikhail Bulgakov
+32. The Unbearable Lightness of Being by Milan Kundera
+33. The Book Thief by Markus Zusak
+34. The Kite Runner by Khaled Hosseini
+35. The Alchemist by Paulo Coelho
+36. The Name of the Wind by Patrick Rothfuss
+37. The Night Circus by Erin Morgenstern
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Secret History by Donna Tartt
+40. The Goldfinch by Donna Tartt
+41. The Secret Life of Bees by Sue Monk Kidd
+42. The Help by Kathryn Stockett
+43. The Poisonwood Bible by Barbara Kingsolver
+44. The Handmaid's Tale by Margaret Atwood
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Girl on the Train by Paula Hawkins
+47. The Da Vinci Code by Dan Brown
+48. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+49. The Lovely Bones by Alice Sebold
+50. The Time Traveler's Wife by Audrey Niffenegger
+
+These recommendations are based on the user's interest in literature, classic novels, and contemporary fiction.

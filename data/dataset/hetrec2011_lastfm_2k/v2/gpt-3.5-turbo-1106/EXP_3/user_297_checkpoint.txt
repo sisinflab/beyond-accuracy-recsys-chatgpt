@@ -1,0 +1,54 @@
+Based on user 297's preferences, here are the top-50 recommendations for the given artists:
+
+1. Radiohead
+2. The Beatles
+3. Björk
+4. Arcade Fire
+5. Modest Mouse
+6. PJ Harvey
+7. Interpol
+8. Placebo
+9. Yeah Yeah Yeahs
+10. Sonic Youth
+11. The Kinks
+12. Franz Ferdinand
+13. Devendra Banhart
+14. Sufjan Stevens
+15. Regina Spektor
+16. Belle and Sebastian
+17. Cat Power
+18. The Dresden Dolls
+19. Architecture in Helsinki
+20. of Montreal
+21. CocoRosie
+22. Los Hermanos
+23. ...And You Will Know Us by the Trail of Dead
+24. Yann Tiersen
+25. Supergrass
+26. Cat Stevens
+27. George Harrison
+28. The Beach Boys
+29. Pink Floyd
+30. Bob Dylan
+31. Led Zeppelin
+32. Queen
+33. Simon & Garfunkel
+34. The Doors
+35. The Rolling Stones
+36. John Lennon
+37. The Strokes
+38. Arctic Monkeys
+39. The Killers
+40. Florence + the Machine
+41. Coldplay
+42. Bon Iver
+43. Beirut
+44. Portishead
+45. Ramones
+46. Vanguart
+47. Chico Buarque
+48. Marcelo Camelo
+49. Lenine
+50. Rammstein
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for their enjoyment.

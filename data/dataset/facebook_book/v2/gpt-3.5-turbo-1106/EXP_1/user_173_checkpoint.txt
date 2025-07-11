@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Secret Garden by Frances Hodgson Burnett
+5. The Giver by Lois Lowry
+6. The Alchemist by Paulo Coelho
+7. The Book Thief by Markus Zusak
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Little Prince by Antoine de Saint-Exupéry
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Outsiders by S.E. Hinton
+12. Anne of Green Gables by L.M. Montgomery
+13. A Wrinkle in Time by Madeleine L'Engle
+14. The Perks of Being a Wallflower by Stephen Chbosky
+15. The Hunger Games by Suzanne Collins
+16. The Fault in Our Stars by John Green
+17. The Lord of the Rings by J.R.R. Tolkien
+18. The Kite Runner by Khaled Hosseini
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Color Purple by Alice Walker
+21. The Glass Castle by Jeannette Walls
+22. The Help by Kathryn Stockett
+23. The Night Circus by Erin Morgenstern
+24. The Goldfinch by Donna Tartt
+25. The Girl on the Train by Paula Hawkins
+26. The Handmaid's Tale by Margaret Atwood
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Lovely Bones by Alice Sebold
+29. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+30. The Martian by Andy Weir
+31. The Name of the Wind by Patrick Rothfuss
+32. The Shadow of the Wind by Carlos Ruiz Zafón
+33. The Thirteenth Tale by Diane Setterfield
+34. The Nightingale by Kristin Hannah
+35. The Light Between Oceans by M.L. Stedman
+36. The Snow Child by Eowyn Ivey
+37. The Ocean at the End of the Lane by Neil Gaiman
+38. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+39. The Underground Railroad by Colson Whitehead
+40. The Orphan Master's Son by Adam Johnson
+41. The Sympathizer by Viet Thanh Nguyen
+42. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+43. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+44. The Road by Cormac McCarthy
+45. The Poisonwood Bible by Barbara Kingsolver
+46. The Glass Castle by Jeannette Walls
+47. The Joy Luck Club by Amy Tan
+48. The House on Mango Street by Sandra Cisneros
+49. The Bell Jar by Sylvia Plath
+50. The Handmaid's Tale by Margaret Atwood
+
+These recommendations are based on the user's interest in literary fiction, coming-of-age stories, and novels with strong character development and emotional depth.

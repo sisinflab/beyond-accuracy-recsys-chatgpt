@@ -1,0 +1,54 @@
+Based on user 1990's preferences, here are the top 50 recommendations for them:
+
+1. OutKast
+2. A Tribe Called Quest
+3. Nas
+4. Common
+5. Ghostface Killah
+6. Madlib
+7. Mos Def
+8. Amon Tobin
+9. Madvillain
+10. Gnarls Barkley
+11. Erykah Badu
+12. Flying Lotus
+13. De La Soul
+14. The Roots
+15. Raekwon
+16. Wu-Tang Clan
+17. Mobb Deep
+18. Lupe Fiasco
+19. Kanye West
+20. DJ Shadow
+21. Snoop Dogg
+22. MF DOOM
+23. Gang Starr
+24. Cypress Hill
+25. Notorious B.I.G.
+26. J Dilla
+27. Sublime
+28. Devin Townsend
+29. The Smashing Pumpkins
+30. Bob Marley & The Wailers
+31. The Flashbulb
+32. Drake
+33. Lil' Wayne
+34. Björk
+35. Aphex Twin
+36. My Bloody Valentine
+37. Burial
+38. Tim Hecker
+39. Daft Punk
+40. Ice Cube
+41. Prefuse 73
+42. The Beatles
+43. Eminem
+44. Jay-Z
+45. Digitalism
+46. Nelly Furtado
+47. Bone Thugs-N-Harmony
+48. Rage Against the Machine
+49. 2Pac
+50. Beastie Boys
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

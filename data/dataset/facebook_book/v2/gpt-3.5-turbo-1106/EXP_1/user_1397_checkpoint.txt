@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Perks of Being a Wallflower by Stephen Chbosky
+2. The Giver by Lois Lowry
+3. The Maze Runner by James Dashner
+4. Divergent by Veronica Roth
+5. The Hunger Games by Suzanne Collins
+6. Paper Towns by John Green
+7. Looking for Alaska by John Green
+8. The Fault in Our Stars by John Green
+9. The Outsiders by S.E. Hinton
+10. To Kill a Mockingbird by Harper Lee
+11. The Book Thief by Markus Zusak
+12. Catch-22 by Joseph Heller
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. Fahrenheit 451 by Ray Bradbury
+15. Brave New World by Aldous Huxley
+16. 1984 by George Orwell
+17. Animal Farm by George Orwell
+18. One Flew Over the Cuckoo's Nest by Ken Kesey
+19. The Bell Jar by Sylvia Plath
+20. A Separate Peace by John Knowles
+21. The Secret History by Donna Tartt
+22. The Virgin Suicides by Jeffrey Eugenides
+23. The Handmaid's Tale by Margaret Atwood
+24. The Road by Cormac McCarthy
+25. Never Let Me Go by Kazuo Ishiguro
+26. The Kite Runner by Khaled Hosseini
+27. A Thousand Splendid Suns by Khaled Hosseini
+28. The Alchemist by Paulo Coelho
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Great Gatsby by F. Scott Fitzgerald
+31. The Catcher in the Rye by J.D. Salinger
+32. Franny and Zooey by J.D. Salinger
+33. Ender's Game by Orson Scott Card
+34. Speaker for the Dead by Orson Scott Card
+35. The Hobbit by J.R.R. Tolkien
+36. The Lord of the Rings by J.R.R. Tolkien
+37. The Chronicles of Narnia by C.S. Lewis
+38. His Dark Materials by Philip Pullman
+39. The Inheritance Cycle by Christopher Paolini
+40. The Uglies series by Scott Westerfeld
+41. The Mortal Instruments series by Cassandra Clare
+42. The Infernal Devices series by Cassandra Clare
+43. The Lunar Chronicles series by Marissa Meyer
+44. The Selection series by Kiera Cass
+45. The 5th Wave series by Rick Yancey
+46. The Darkest Minds series by Alexandra Bracken
+47. The Legend series by Marie Lu
+48. The Red Queen series by Victoria Aveyard
+49. The Grisha Trilogy by Leigh Bardugo
+50. The Throne of Glass series by Sarah J. Maas
+
+These recommendations are based on the user's interest in young adult fiction, dystopian themes, and coming-of-age stories.

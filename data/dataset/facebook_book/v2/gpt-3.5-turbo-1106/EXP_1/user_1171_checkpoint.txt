@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. The Chronicles of Narnia series by C.S. Lewis
+3. The Hunger Games series by Suzanne Collins
+4. Percy Jackson & the Olympians series by Rick Riordan
+5. The Hobbit by J.R.R. Tolkien
+6. Eragon series by Christopher Paolini
+7. The Maze Runner series by James Dashner
+8. Divergent series by Veronica Roth
+9. The Golden Compass by Philip Pullman
+10. The Giver by Lois Lowry
+11. The Lightning Thief by Rick Riordan
+12. The Alchemist by Paulo Coelho
+13. The Name of the Wind by Patrick Rothfuss
+14. The Night Circus by Erin Morgenstern
+15. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Fault in Our Stars by John Green
+18. The Book Thief by Markus Zusak
+19. The Da Vinci Code by Dan Brown
+20. The Girl on the Train by Paula Hawkins
+21. The Help by Kathryn Stockett
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Kite Runner by Khaled Hosseini
+24. The Lovely Bones by Alice Sebold
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+27. The Catcher in the Rye by J.D. Salinger
+28. To Kill a Mockingbird by Harper Lee
+29. 1984 by George Orwell
+30. Brave New World by Aldous Huxley
+31. Fahrenheit 451 by Ray Bradbury
+32. Slaughterhouse-Five by Kurt Vonnegut
+33. The Handmaid's Tale by Margaret Atwood
+34. The Road by Cormac McCarthy
+35. The Stand by Stephen King
+36. The Shining by Stephen King
+37. The Martian by Andy Weir
+38. Ready Player One by Ernest Cline
+39. Dark Matter by Blake Crouch
+40. The Silent Patient by Alex Michaelides
+41. The Nightingale by Kristin Hannah
+42. Where the Crawdads Sing by Delia Owens
+43. Educated by Tara Westover
+44. Little Fires Everywhere by Celeste Ng
+45. The Tattooist of Auschwitz by Heather Morris
+46. The Great Alone by Kristin Hannah
+47. Before We Were Yours by Lisa Wingate
+48. The Alice Network by Kate Quinn
+49. The Light We Lost by Jill Santopolo
+50. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+
+These recommendations are based on the user's interest in fantasy, science fiction, and young adult literature, as well as a mix of popular and critically acclaimed books across various genres.

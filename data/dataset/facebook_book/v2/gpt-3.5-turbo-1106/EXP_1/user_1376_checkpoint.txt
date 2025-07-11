@@ -1,0 +1,54 @@
+Based on the preferences of user 1376, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. Gone Girl by Gillian Flynn
+3. Sharp Objects by Gillian Flynn
+4. Dark Places by Gillian Flynn
+5. The Shining by Stephen King
+6. Misery by Stephen King
+7. The Stand by Stephen King
+8. The Silence of the Lambs by Thomas Harris
+9. Red Dragon by Thomas Harris
+10. Hannibal by Thomas Harris
+11. American Psycho by Bret Easton Ellis
+12. Less Than Zero by Bret Easton Ellis
+13. Lunar Park by Bret Easton Ellis
+14. The Lovely Bones by Alice Sebold
+15. The Girl on the Train by Paula Hawkins
+16. Into the Water by Paula Hawkins
+17. The Night Circus by Erin Morgenstern
+18. The Thirteenth Tale by Diane Setterfield
+19. The Shadow of the Wind by Carlos Ruiz Zafón
+20. The Angel's Game by Carlos Ruiz Zafón
+21. The Prisoner of Heaven by Carlos Ruiz Zafón
+22. The Historian by Elizabeth Kostova
+23. The Shadow Land by Elizabeth Kostova
+24. The Historian by Elizabeth Kostova
+25. The Secret History by Donna Tartt
+26. The Goldfinch by Donna Tartt
+27. The Little Friend by Donna Tartt
+28. The Alienist by Caleb Carr
+29. The Angel of Darkness by Caleb Carr
+30. The Italian Secretary by Caleb Carr
+31. The Alienist by Caleb Carr
+32. The Angel of Darkness by Caleb Carr
+33. The Italian Secretary by Caleb Carr
+34. The Alienist by Caleb Carr
+35. The Angel of Darkness by Caleb Carr
+36. The Italian Secretary by Caleb Carr
+37. The Alienist by Caleb Carr
+38. The Angel of Darkness by Caleb Carr
+39. The Italian Secretary by Caleb Carr
+40. The Alienist by Caleb Carr
+41. The Angel of Darkness by Caleb Carr
+42. The Italian Secretary by Caleb Carr
+43. The Alienist by Caleb Carr
+44. The Angel of Darkness by Caleb Carr
+45. The Italian Secretary by Caleb Carr
+46. The Alienist by Caleb Carr
+47. The Angel of Darkness by Caleb Carr
+48. The Italian Secretary by Caleb Carr
+49. The Alienist by Caleb Carr
+50. The Angel of Darkness by Caleb Carr
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1376 enjoys.

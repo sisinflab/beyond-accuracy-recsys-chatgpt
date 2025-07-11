@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight (novel series) by Stephenie Meyer
+2. The Mortal Instruments by Cassandra Clare
+3. The Fault in Our Stars by John Green
+4. The Maze Runner by James Dashner
+5. The Giver by Lois Lowry
+6. City of Bones by Cassandra Clare
+7. The Selection by Kiera Cass
+8. The 5th Wave by Rick Yancey
+9. Uglies by Scott Westerfeld
+10. The Darkest Minds by Alexandra Bracken
+11. The Lunar Chronicles by Marissa Meyer
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. Delirium by Lauren Oliver
+14. Legend by Marie Lu
+15. Matched by Ally Condie
+16. Shatter Me by Tahereh Mafi
+17. Red Queen by Victoria Aveyard
+18. Cinder by Marissa Meyer
+19. The Host by Stephenie Meyer
+20. The DUFF by Kody Keplinger
+21. The 100 by Kass Morgan
+22. The Testing by Joelle Charbonneau
+23. The 5th Wave by Rick Yancey
+24. The Knife of Never Letting Go by Patrick Ness
+25. The Raven Boys by Maggie Stiefvater
+26. The Scorpio Races by Maggie Stiefvater
+27. The Unbecoming of Mara Dyer by Michelle Hodkin
+28. The Wrath and the Dawn by Renee Ahdieh
+29. The Winner's Curse by Marie Rutkoski
+30. The Young Elites by Marie Lu
+31. Throne of Glass by Sarah J. Maas
+32. To All the Boys I've Loved Before by Jenny Han
+33. Vampire Academy by Richelle Mead
+34. Wicked Lovely by Melissa Marr
+35. Wings by Aprilynne Pike
+36. Witch & Wizard by James Patterson
+37. The Alchemyst by Michael Scott
+38. The Amulet of Samarkand by Jonathan Stroud
+39. The Bartimaeus Trilogy by Jonathan Stroud
+40. The Beyonders by Brandon Mull
+41. The Black Prism by Brent Weeks
+42. The Bone Season by Samantha Shannon
+43. The Broken Empire by Mark Lawrence
+44. The Burning Sky by Sherry Thomas
+45. The Chronicles of Prydain by Lloyd Alexander
+46. The Dark Tower by Stephen King
+47. The Demon Cycle by Peter V. Brett
+48. The Dresden Files by Jim Butcher
+49. The Emperor's Edge by Lindsay Buroker
+50. The Farseer Trilogy by Robin Hobb
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and dystopian novels.

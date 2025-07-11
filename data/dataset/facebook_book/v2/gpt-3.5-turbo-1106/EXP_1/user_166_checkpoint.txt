@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Handmaid's Tale by Margaret Atwood
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. Brave New World by Aldous Huxley
+5. The Road by Cormac McCarthy
+6. The Stranger by Albert Camus
+7. The Bell Jar by Sylvia Plath
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Sun Also Rises by Ernest Hemingway
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. The Grapes of Wrath by John Steinbeck
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Road to Wigan Pier by George Orwell
+17. The Sound and the Fury by William Faulkner
+18. The Heart is a Lonely Hunter by Carson McCullers
+19. The Color Purple by Alice Walker
+20. The Handmaid's Tale by Margaret Atwood
+21. The Catcher in the Rye by J.D. Salinger
+22. 1984 by George Orwell
+23. Brave New World by Aldous Huxley
+24. The Road by Cormac McCarthy
+25. The Stranger by Albert Camus
+26. The Bell Jar by Sylvia Plath
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Sun Also Rises by Ernest Hemingway
+29. One Hundred Years of Solitude by Gabriel Garcia Marquez
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Great Gatsby by F. Scott Fitzgerald
+32. To Kill a Mockingbird by Harper Lee
+33. The Grapes of Wrath by John Steinbeck
+34. The Old Man and the Sea by Ernest Hemingway
+35. The Road to Wigan Pier by George Orwell
+36. The Sound and the Fury by William Faulkner
+37. The Heart is a Lonely Hunter by Carson McCullers
+38. The Color Purple by Alice Walker
+39. The Handmaid's Tale by Margaret Atwood
+40. The Catcher in the Rye by J.D. Salinger
+41. 1984 by George Orwell
+42. Brave New World by Aldous Huxley
+43. The Road by Cormac McCarthy
+44. The Stranger by Albert Camus
+45. The Bell Jar by Sylvia Plath
+46. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+47. The Sun Also Rises by Ernest Hemingway
+48. One Hundred Years of Solitude by Gabriel Garcia Marquez
+49. The Picture of Dorian Gray by Oscar Wilde
+50. The Great Gatsby by F. Scott Fitzgerald
+
+These recommendations are based on the user's interest in literary fiction, science fiction, and social commentary.

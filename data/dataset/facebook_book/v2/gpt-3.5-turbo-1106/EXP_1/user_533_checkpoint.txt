@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Stranger by Albert Camus
+3. The Master and Margarita by Mikhail Bulgakov
+4. The Trial by Franz Kafka
+5. The Brothers Karamazov by Fyodor Dostoevsky
+6. The Plague by Albert Camus
+7. The Metamorphosis by Franz Kafka
+8. The Idiot by Fyodor Dostoevsky
+9. The Unbearable Lightness of Being by Milan Kundera
+10. The Book of Disquiet by Fernando Pessoa
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Catcher in the Rye by J.D. Salinger
+13. Brave New World by Aldous Huxley
+14. Heart of Darkness by Joseph Conrad
+15. The Bell Jar by Sylvia Plath
+16. The Handmaid's Tale by Margaret Atwood
+17. A Clockwork Orange by Anthony Burgess
+18. The Road by Cormac McCarthy
+19. Cat's Cradle by Kurt Vonnegut
+20. The Wind-Up Bird Chronicle by Haruki Murakami
+21. Kafka on the Shore by Haruki Murakami
+22. The Stranger by Harlan Coben
+23. The Name of the Wind by Patrick Rothfuss
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Alchemist by Paulo Coelho
+26. The Kite Runner by Khaled Hosseini
+27. The Night Circus by Erin Morgenstern
+28. The Goldfinch by Donna Tartt
+29. The Secret History by Donna Tartt
+30. The God of Small Things by Arundhati Roy
+31. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+32. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+33. The History of Love by Nicole Krauss
+34. The Elegance of the Hedgehog by Muriel Barbery
+35. The Book Thief by Markus Zusak
+36. The Giver by Lois Lowry
+37. The Hunger Games by Suzanne Collins
+38. The Martian by Andy Weir
+39. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Handmaid's Tale by Margaret Atwood
+42. The Road by Cormac McCarthy
+43. The Catcher in the Rye by J.D. Salinger
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Book Thief by Markus Zusak
+46. The Giver by Lois Lowry
+47. The Hunger Games by Suzanne Collins
+48. The Martian by Andy Weir
+49. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+50. The Time Traveler's Wife by Audrey Niffenegger
+
+These recommendations are based on the user's interest in literary fiction, philosophical themes, and classic literature.

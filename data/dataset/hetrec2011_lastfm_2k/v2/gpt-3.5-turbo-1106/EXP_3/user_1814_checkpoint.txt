@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendation:
+
+1. The Killers
+2. Red Hot Chili Peppers
+3. Oasis
+4. Paramore
+5. The Fratellis
+6. Jack Johnson
+7. The Smashing Pumpkins
+8. Florence + the Machine
+9. Arcade Fire
+10. Coldplay
+11. System of a Down
+12. Muse
+13. The Strokes
+14. Arctic Monkeys
+15. Interpol
+16. Franz Ferdinand
+17. Queens of the Stone Age
+18. Nirvana
+19. Radiohead
+20. Pearl Jam
+21. Bloc Party
+22. Kaiser Chiefs
+23. We Are Scientists
+24. The Police
+25. Panic! At the Disco
+26. Goo Goo Dolls
+27. Keane
+28. Stone Temple Pilots
+29. Velvet Revolver
+30. Ramones
+31. Hard-Fi
+32. Hot Chip
+33. OK Go
+34. The Bravery
+35. Kasabian
+36. John Mayer
+37. The Who
+38. Björk
+39. Depeche Mode
+40. Motörhead
+41. Echo & The Bunnymen
+42. Van Halen
+43. Cachorro Grande
+44. U2
+45. Foo Fighters
+46. Glee Cast
+47. Moby
+48. Papa Roach
+49. Linkin Park
+50. Silverchair
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for the user to explore.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Linkin Park
+2. 30 Seconds to Mars
+3. Arctic Monkeys
+4. System of a Down
+5. Michael Jackson
+6. Katy Perry
+7. All Time Low
+8. Anberlin
+9. Five Finger Death Punch
+10. Dream Theater
+11. Muse
+12. Paramore
+13. The Killers
+14. My Chemical Romance
+15. Green Day
+16. Avenged Sevenfold
+17. Iron Maiden
+18. Metallica
+19. Nirvana
+20. The Used
+21. Angra
+22. Charlie Brown Jr.
+23. Skillet
+24. HEVO84
+25. Forfun
+26. Forever the Sickest Kids
+27. Hey Monday
+28. Before Their Eyes
+29. Cute Is What We Aim For
+30. Gloria
+31. Britney Spears
+32. Lady Gaga
+33. Rihanna
+34. Christina Aguilera
+35. Madonna
+36. Shakira
+37. Katy Perry
+38. Avril Lavigne
+39. Taylor Swift
+40. Evanescence
+41. Glee Cast
+42. Beyoncé
+43. U2
+44. Muse
+45. Pink Floyd
+46. Kylie Minogue
+47. Miley Cyrus
+48. Radiohead
+49. Ke$ha
+50. Duran Duran
+
+This re-ranked list takes into account the user's liking for the given artists and suggests similar artists based on their preferences.

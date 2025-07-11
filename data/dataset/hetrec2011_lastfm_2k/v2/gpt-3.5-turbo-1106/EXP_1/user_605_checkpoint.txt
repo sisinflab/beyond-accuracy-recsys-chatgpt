@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tame Impala
+2. The Strokes
+3. Vampire Weekend
+4. Beck
+5. Arcade Fire
+6. The Smiths
+7. Interpol
+8. Florence + The Machine
+9. The National
+10. The Kooks
+11. The Black Keys
+12. Modest Mouse
+13. The Flaming Lips
+14. MGMT
+15. The Shins
+16. Yeah Yeah Yeahs
+17. The Cranberries
+18. The Verve
+19. The Smashing Pumpkins
+20. The Cure
+21. R.E.M.
+22. The xx
+23. Belle and Sebastian
+24. Phoenix
+25. Spoon
+26. Wilco
+27. Cat Power
+28. Grizzly Bear
+29. Spoon
+30. The War on Drugs
+31. The Decemberists
+32. Death Cab for Cutie
+33. The Postal Service
+34. Neutral Milk Hotel
+35. Sufjan Stevens
+36. Fleet Foxes
+37. Bon Iver
+38. Father John Misty
+39. Sharon Van Etten
+40. Angel Olsen
+41. Mitski
+42. Courtney Barnett
+43. St. Vincent
+44. HAIM
+45. Warpaint
+46. Beach House
+47. Phoebe Bridgers
+48. Mitski
+49. Soccer Mommy
+50. Big Thief
+
+These recommendations are based on the user's liking of similar artists and genres.

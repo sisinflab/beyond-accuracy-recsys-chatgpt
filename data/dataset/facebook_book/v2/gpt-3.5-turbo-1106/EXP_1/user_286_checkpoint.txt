@@ -1,0 +1,54 @@
+Based on the preferences of user 286, here are the top 50 book recommendations:
+
+1. The Book Thief by Markus Zusak
+2. The Alchemist by Paulo Coelho
+3. The Night Circus by Erin Morgenstern
+4. The Giver by Lois Lowry
+5. The Hunger Games by Suzanne Collins
+6. The Maze Runner by James Dashner
+7. The Lightning Thief by Rick Riordan
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Help by Kathryn Stockett
+10. The Fault in Our Stars by John Green
+11. The Lovely Bones by Alice Sebold
+12. The Kite Runner by Khaled Hosseini
+13. The Da Vinci Code by Dan Brown
+14. The Time Traveler's Wife by Audrey Niffenegger
+15. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+16. The Secret Garden by Frances Hodgson Burnett
+17. The Catcher in the Rye by J.D. Salinger
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Hobbit by J.R.R. Tolkien
+20. The Chronicles of Narnia by C.S. Lewis
+21. The Lord of the Rings by J.R.R. Tolkien
+22. The Catcher in the Rye by J.D. Salinger
+23. The Girl on the Train by Paula Hawkins
+24. The Goldfinch by Donna Tartt
+25. The Martian by Andy Weir
+26. The Nightingale by Kristin Hannah
+27. The Silent Patient by Alex Michaelides
+28. The Tattooist of Auschwitz by Heather Morris
+29. The Handmaid's Tale by Margaret Atwood
+30. The Testaments by Margaret Atwood
+31. The Underground Railroad by Colson Whitehead
+32. The Glass Castle by Jeannette Walls
+33. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+34. The Road by Cormac McCarthy
+35. The Sun Also Rises by Ernest Hemingway
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Count of Monte Cristo by Alexandre Dumas
+38. The Odyssey by Homer
+39. The Iliad by Homer
+40. The Divine Comedy by Dante Alighieri
+41. The Canterbury Tales by Geoffrey Chaucer
+42. The Aeneid by Virgil
+43. The Inferno by Dante Alighieri
+44. The Odyssey by Homer
+45. The Republic by Plato
+46. The Art of War by Sun Tzu
+47. The Odyssey by Homer
+48. The Odyssey by Homer
+49. The Odyssey by Homer
+50. The Odyssey by Homer
+
+These recommendations are based on the genres and themes of the books liked by user 286.

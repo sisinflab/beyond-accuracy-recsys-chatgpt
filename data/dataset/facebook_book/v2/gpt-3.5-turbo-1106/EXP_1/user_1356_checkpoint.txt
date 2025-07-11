@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 20,000 Leagues Under the Sea by Jules Verne
+2. Journey to the Center of the Earth by Jules Verne
+3. The Count of Monte Cristo by Alexandre Dumas
+4. War and Peace by Leo Tolstoy
+5. Crime and Punishment by Fyodor Dostoevsky
+6. The Brothers Karamazov by Fyodor Dostoevsky
+7. Anna Karenina by Leo Tolstoy
+8. The Idiot by Fyodor Dostoevsky
+9. Don Quixote by Miguel de Cervantes
+10. The Odyssey by Homer
+11. The Iliad by Homer
+12. The Divine Comedy by Dante Alighieri
+13. Paradise Lost by John Milton
+14. The Old Man and the Sea by Ernest Hemingway
+15. Moby-Dick by Herman Melville
+16. Typee by Herman Melville
+17. Billy Budd by Herman Melville
+18. The Hunchback of Notre-Dame by Victor Hugo
+19. The Toilers of the Sea by Victor Hugo
+20. The Man Who Laughs by Victor Hugo
+21. The Three Musketeers by Alexandre Dumas
+22. The Phantom of the Opera by Gaston Leroux
+23. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+24. Frankenstein by Mary Shelley
+25. Wuthering Heights by Emily Brontë
+26. Jane Eyre by Charlotte Brontë
+27. Great Expectations by Charles Dickens
+28. Oliver Twist by Charles Dickens
+29. A Tale of Two Cities by Charles Dickens
+30. Les Misérables by Victor Hugo
+31. The Hunchback of Notre-Dame by Victor Hugo
+32. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+33. Harry Potter and the Chamber of Secrets by J.K. Rowling
+34. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+35. Harry Potter and the Goblet of Fire by J.K. Rowling
+36. Harry Potter and the Order of the Phoenix by J.K. Rowling
+37. Harry Potter and the Half-Blood Prince by J.K. Rowling
+38. Harry Potter and the Deathly Hallows by J.K. Rowling
+39. The Flowers of Evil by Charles Baudelaire
+40. Paris Spleen by Charles Baudelaire
+41. The Poems and Prose Poems by Charles Baudelaire
+42. Through the Looking-Glass by Lewis Carroll
+43. The Hunting of the Snark by Lewis Carroll
+44. Sylvie and Bruno by Lewis Carroll
+45. Dracula by Bram Stoker
+46. Dracula's Guest by Bram Stoker
+47. Lair of the White Worm by Bram Stoker
+48. Like Water for Chocolate by Laura Esquivel
+49. One Hundred Years of Solitude by Gabriel García Márquez
+50. Love in the Time of Cholera by Gabriel García Márquez
+
+These recommendations are based on the user's liking of specific authors and genres.

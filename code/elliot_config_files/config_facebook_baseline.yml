@@ -1,0 +1,180 @@
+experiment:
+  #backend: pytorch
+  gpu: 1 # Run on GPU
+  #                                           #
+  # Dataset pre-processing and configuration  #
+  #                                           #
+  dataset: facebook_book_baseline
+  data_config:
+    strategy: fixed
+    train_path: ../../data/dataset/facebook_book/trainingset.tsv
+    test_path: ../../data/dataset/facebook_book/testset.tsv
+    side_information:
+      - dataloader: ChainedKG
+        map: ../../data/dataset/facebook_book/MAPS/map.tsv
+        properties: ../../data/dataset/facebook_book/properties.config
+        threshold: 0
+        features: ../../data/dataset/facebook_book/features.tsv
+  top_k: 50
+  #                   #
+  # Evaluation Setup  #
+  #                   #
+  evaluation:
+    cutoffs: [5, 10, 20]
+    simple_metrics: [nDCG, Recall, Precision, nDCGRendle2020, HR, F1, MAP, MAR, MRR, ACLT, APLT, ARP, PopREO, PopRSP, ItemCoverage, NumRetrived, UserCoverage, Gini, SEntropy, EFD, EPC]
+    paired_ttest: True
+    wilcoxon_test: True
+  print_results_as_triplets: True
+  external_models_path: ../external/models/__init__.py
+  #               #
+  # Models Setup  #
+  #               #
+  models:
+#    #
+#    # Content Base Filtering
+#    #
+    VSM:
+      meta:
+        hyper_max_evals: 20
+        hyper_opt_alg: tpe
+        save_recs: True
+        verbose: True
+      similarity: [cosine, correlation]
+      user_profile: [tfidf, binary]
+      item_profile: [tfidf, binary]
+      neighbors: [quniform , 2, 100, 1]
+      loader: ChainedKG
+    AttributeItemKNN:
+      meta:
+        hyper_max_evals: 20
+        hyper_opt_alg: tpe
+        save_recs: True
+        verbose: True
+      neighbors: [ quniform , 2, 100, 1]
+      similarity: [cosine, correlation]
+      implicit: [True, False]
+      #profile: [binary]
+      loader: ChainedKG
+    AttributeUserKNN:
+      meta:
+        hyper_max_evals: 20
+        hyper_opt_alg: tpe
+        save_recs: True
+        verbose: True
+      neighbors: [quniform , 2, 100, 1]
+      similarity: [cosine, correlation]
+      implicit: [True, False]
+      #profile: [binary]
+      loader: ChainedKG
+##    #
+##    # Collaborative Filtering
+##    #
+    EASER: # Shallow Autoencoder
+      meta:
+        hyper_max_evals: 20
+        hyper_opt_alg: tpe
+        save_recs: True
+        verbose: True
+      l2_norm: [uniform, 10, 10e7]
+      neighborhood: [quniform , 2, 100, 1]
+    RP3beta:
+      meta:
+        hyper_max_evals: 20
+        hyper_opt_alg: tpe
+        save_recs: True
+        verbose: True
+      neighborhood: [quniform , 2, 100, 1]
+      alpha: [uniform, 0, 2]
+      beta: [uniform, 0, 2]
+      normalize_similarity: [True, False]
+    ItemKNN:
+      meta:
+        hyper_max_evals: 20
+        hyper_opt_alg: tpe
+        save_recs: True
+        verbose: True
+      neighbors: [ quniform , 2, 100, 1 ]
+      similarity: [cosine, correlation]
+#      implementation: [ standard, aiolli ]
+      implicit: [ True, False ]
+      #shrink: []
+#      normalize: [ True, False ]
+      #asymmetric_alpha: []
+      #tversky_alpha: []
+      #tversky_beta: []
+      #row_weights: []
+    UserKNN:
+      meta:
+        hyper_max_evals: 20
+        hyper_opt_alg: tpe
+        save_recs: True
+        verbose: True
+      neighbors: [quniform , 2, 100, 1]
+      similarity: [cosine, correlation]
+#      implementation: [standard, aiolli]
+      implicit: [True, False]
+      #shrink: []
+#      normalize: [ True, False ]
+      #asymmetric_alpha: []
+      #tversky_alpha: []
+      #tversky_beta: []
+      #row_weights: []
+#    LightGCN:
+#      meta:
+#        hyper_max_evals: 50
+#        hyper_opt_alg: tpe
+#        save_recs: True
+#        verbose: True
+#      lr: [ loguniform, -10, -1 ]
+#      latent_dim: [ uniform, 100, 300 ]
+#      n_layers: [ 1, 2, 3, 4 ]
+#      l_w: [ quniform, 10e-5, 10, 100 ]
+#      n_fold: [ uniform, 2, 10 ]
+#      factors: [ uniform, 1, 200 ]
+#      epochs: [ 10, 1, 50 ]
+#      batch_size: [ 64, 128, 256, 512 ]
+    MF2020:
+      meta:
+        hyper_max_evals: 20
+        hyper_opt_alg: tpe
+        save_recs: True
+        verbose: True
+        validation_rate: 1
+      factors: [quniform , 2, 200, 1]
+      lr: [loguniform, -10, -1]
+      reg: [uniform, 10e-3, 10e-1]
+      m: [quniform, 2, 10, 1]
+      epochs: [ 10, 20, 50 ]
+      batch_size: [ 64, 128, 256, 512 ]
+    NeuMF:
+      meta:
+        hyper_max_evals: 20
+        hyper_opt_alg: tpe
+        save_recs: True
+        verbose: True
+        validation_rate: 1
+      mf_factors: [quniform, 8, 256, 1 ]
+      mlp_factors: 10
+      mlp_hidden_size: (64,32)
+      lr: [loguniform, -10, -1]
+      m: [ 4,6,8 ]
+      dropout: 0.0
+      is_mf_train: True
+      is_mlp_train: True
+      epochs: [ 10, 20, 50 ]
+      batch_size: [ 64, 128, 256, 512 ]
+#    #
+#    # Most Popular
+#    #
+    MostPop:
+      meta:
+        verbose: True
+        save_recs: True
+#    #
+#    # Random Recommender
+#    #
+    Random:
+      meta:
+        save_recs: True
+        verbose: True
+      random_seed: 42

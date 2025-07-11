@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Picture of Dorian Gray by Oscar Wilde
+2. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+3. Wuthering Heights by Emily Brontë
+4. Jane Eyre by Charlotte Brontë
+5. The Tell-Tale Heart by Edgar Allan Poe
+6. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+7. The Hound of the Baskervilles by Arthur Conan Doyle
+8. The Phantom of the Opera by Gaston Leroux
+9. The Turn of the Screw by Henry James
+10. The Legend of Sleepy Hollow by Washington Irving
+11. The Raven by Edgar Allan Poe
+12. The Call of Cthulhu by H.P. Lovecraft
+13. The War of the Worlds by H.G. Wells
+14. The Time Machine by H.G. Wells
+15. The Island of Doctor Moreau by H.G. Wells
+16. The Invisible Man by H.G. Wells
+17. The Metamorphosis by Franz Kafka
+18. The Trial by Franz Kafka
+19. The Castle by Franz Kafka
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. Crime and Punishment by Fyodor Dostoevsky
+22. The Idiot by Fyodor Dostoevsky
+23. Anna Karenina by Leo Tolstoy
+24. War and Peace by Leo Tolstoy
+25. The Death of Ivan Ilyich by Leo Tolstoy
+26. Heart of Darkness by Joseph Conrad
+27. Lord Jim by Joseph Conrad
+28. Nostromo by Joseph Conrad
+29. Moby-Dick by Herman Melville
+30. Bartleby, the Scrivener by Herman Melville
+31. Typee by Herman Melville
+32. The Scarlet Letter by Nathaniel Hawthorne
+33. The House of the Seven Gables by Nathaniel Hawthorne
+34. The Marble Faun by Nathaniel Hawthorne
+35. The Count of Monte Cristo by Alexandre Dumas
+36. The Three Musketeers by Alexandre Dumas
+37. The Man in the Iron Mask by Alexandre Dumas
+38. Les Misérables by Victor Hugo
+39. The Hunchback of Notre-Dame by Victor Hugo
+40. Toilers of the Sea by Victor Hugo
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Importance of Being Earnest by Oscar Wilde
+43. Lady Windermere's Fan by Oscar Wilde
+44. The Canterbury Tales by Geoffrey Chaucer
+45. Beowulf by Unknown
+46. The Divine Comedy by Dante Alighieri
+47. Paradise Lost by John Milton
+48. The Iliad by Homer
+49. The Odyssey by Homer
+50. The Aeneid by Virgil
+
+These recommendations are based on similar themes and genres to the books liked by user 1314.

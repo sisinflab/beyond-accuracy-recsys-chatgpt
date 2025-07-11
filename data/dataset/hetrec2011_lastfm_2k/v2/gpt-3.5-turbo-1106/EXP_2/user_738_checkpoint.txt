@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the re-ranked top-50 recommendations:
+
+1. Iron Maiden
+2. Metallica
+3. Led Zeppelin
+4. Pink Floyd
+5. The Beatles
+6. Black Sabbath
+7. Judas Priest
+8. Megadeth
+9. Pantera
+10. Motörhead
+11. Anthrax
+12. Rainbow
+13. KISS
+14. Kreator
+15. Helloween
+16. Blind Guardian
+17. Alestorm
+18. Death
+19. Saxon
+20. Gamma Ray
+21. Immortal
+22. W.A.S.P.
+23. The Rolling Stones
+24. Lynyrd Skynyrd
+25. John Williams
+26. Creedence Clearwater Revival
+27. Britney Spears
+28. Lady Gaga
+29. Madonna
+30. Rihanna
+31. Christina Aguilera
+32. Shakira
+33. Katy Perry
+34. Avril Lavigne
+35. Taylor Swift
+36. Beyoncé
+37. U2
+38. Muse
+39. 30 Seconds to Mars
+40. Paramore
+41. Evanescence
+42. Glee Cast
+43. Miley Cyrus
+44. Ke$ha
+45. Kelly Clarkson
+46. P!nk
+47. Avenged Sevenfold
+48. My Chemical Romance
+49. Green Day
+50. Nirvana
+
+These recommendations are based on the user's liking of similar artists and are re-ranked to reflect their preferences.

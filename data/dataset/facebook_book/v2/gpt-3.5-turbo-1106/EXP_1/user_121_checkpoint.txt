@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Hunger Games by Suzanne Collins
+5. The Da Vinci Code by Dan Brown
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Alchemist by Paulo Coelho
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. The Secret Garden by Frances Hodgson Burnett
+13. The Giver by Lois Lowry
+14. The Maze Runner by James Dashner
+15. The Lightning Thief by Rick Riordan
+16. The Outsiders by S.E. Hinton
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Fault in Our Stars by John Green
+19. The Book Thief by Markus Zusak
+20. The Kite Runner by Khaled Hosseini
+21. The Road by Cormac McCarthy
+22. The Lovely Bones by Alice Sebold
+23. The Help by Kathryn Stockett
+24. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+25. The Handmaid's Tale by Margaret Atwood
+26. The Night Circus by Erin Morgenstern
+27. The Goldfinch by Donna Tartt
+28. The Martian by Andy Weir
+29. The Silent Patient by Alex Michaelides
+30. The Nightingale by Kristin Hannah
+31. The Tattooist of Auschwitz by Heather Morris
+32. The Alice Network by Kate Quinn
+33. The Light Between Oceans by M.L. Stedman
+34. The Nightingale by Kristin Hannah
+35. The Tattooist of Auschwitz by Heather Morris
+36. The Alice Network by Kate Quinn
+37. The Light Between Oceans by M.L. Stedman
+38. The Nightingale by Kristin Hannah
+39. The Tattooist of Auschwitz by Heather Morris
+40. The Alice Network by Kate Quinn
+41. The Light Between Oceans by M.L. Stedman
+42. The Nightingale by Kristin Hannah
+43. The Tattooist of Auschwitz by Heather Morris
+44. The Alice Network by Kate Quinn
+45. The Light Between Oceans by M.L. Stedman
+46. The Nightingale by Kristin Hannah
+47. The Tattooist of Auschwitz by Heather Morris
+48. The Alice Network by Kate Quinn
+49. The Light Between Oceans by M.L. Stedman
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's interest in a variety of genres and authors.

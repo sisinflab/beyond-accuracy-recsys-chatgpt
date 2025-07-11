@@ -1,0 +1,54 @@
+Based on user 200's preferences, here are the top-50 recommendations for them:
+
+1. David Gilmour
+2. Pearl Jam
+3. Deep Purple
+4. Metallica
+5. Nirvana
+6. Rush
+7. Jimi Hendrix
+8. Queens of the Stone Age
+9. Megadeth
+10. Guns N' Roses
+11. David Bowie
+12. Black Sabbath
+13. Aerosmith
+14. Slipknot
+15. Foo Fighters
+16. Cream
+17. Bon Jovi
+18. Ramones
+19. Bruce Dickinson
+20. Rammstein
+21. Motörhead
+22. Muse
+23. The Rolling Stones
+24. Daft Punk
+25. The Jimi Hendrix Experience
+26. Ozzy Osbourne
+27. Jet
+28. The Beach Boys
+29. Eric Clapton
+30. Fleetwood Mac
+31. Bob Dylan
+32. Santana
+33. John Lennon
+34. Anthrax
+35. Slayer
+36. The Doors
+37. Tenacious D
+38. Depeche Mode
+39. Skid Row
+40. W.A.S.P.
+41. Morbid Angel
+42. Death
+43. Overkill
+44. Hanoi Rocks
+45. Chico Buarque
+46. The Beach Boys
+47. Queensrÿche
+48. The Beach Boys
+49. The Beach Boys
+50. The Beach Boys
+
+These recommendations are based on the user's existing preferences and are designed to introduce them to new artists they may enjoy.

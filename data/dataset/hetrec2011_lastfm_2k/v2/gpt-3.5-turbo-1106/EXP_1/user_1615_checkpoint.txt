@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. The Strokes
+3. Radiohead
+4. Pearl Jam
+5. Incubus
+6. System of a Down
+7. The Offspring
+8. Muse
+9. Linkin Park
+10. Paramore
+11. The White Stripes
+12. Cage the Elephant
+13. Queens of the Stone Age
+14. The Black Keys
+15. Blink-182
+16. The Smashing Pumpkins
+17. Stone Temple Pilots
+18. Soundgarden
+19. Alice in Chains
+20. The Killers
+21. Franz Ferdinand
+22. The Raconteurs
+23. Kings of Leon
+24. The Hives
+25. Interpol
+26. Modest Mouse
+27. Vampire Weekend
+28. The Kooks
+29. The Vines
+30. Jet
+31. The Libertines
+32. Kasabian
+33. Bloc Party
+34. The Bravery
+35. The Fratellis
+36. The Wombats
+37. The Vaccines
+38. Foster the People
+39. Two Door Cinema Club
+40. Phoenix
+41. The Kooks
+42. The 1975
+43. The Neighbourhood
+44. Catfish and the Bottlemen
+45. Arctic Monkeys
+46. The Strokes
+47. Radiohead
+48. Pearl Jam
+49. Incubus
+50. System of a Down
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of options within the alternative and rock genres.

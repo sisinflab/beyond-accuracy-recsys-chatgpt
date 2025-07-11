@@ -1,0 +1,54 @@
+Based on user 2040's preferences, here are the top 50 recommendations for the given artists:
+
+1. Lady Gaga
+2. Rihanna
+3. P!nk
+4. Beyoncé
+5. Katy Perry
+6. Mariah Carey
+7. Adele
+8. Shakira
+9. Nicki Minaj
+10. Kelly Clarkson
+11. Christina Aguilera
+12. Avril Lavigne
+13. Justin Bieber
+14. Jennifer Lopez
+15. Miley Cyrus
+16. Selena Gomez
+17. Demi Lovato
+18. Britney Spears
+19. Madonna
+20. The Killers
+21. Arctic Monkeys
+22. Paramore
+23. Muse
+24. Coldplay
+25. Maroon 5
+26. The Pretty Reckless
+27. Florence + the Machine
+28. Ellie Goulding
+29. Little Boots
+30. Girls Aloud
+31. Dragonette
+32. Kylie Minogue
+33. The Sounds
+34. Aqualung
+35. The Veronicas
+36. Ashlee Simpson
+37. Death Cab for Cutie
+38. Yeah Yeah Yeahs
+39. Sufjan Stevens
+40. Lifehouse
+41. She & Him
+42. The Bird and The Bee
+43. Sky Ferreira
+44. RBD
+45. Ashley Tisdale
+46. The Pussycat Dolls
+47. Mitchel Musso
+48. Vanessa Hudgens
+49. Hannah Montana
+50. Taylor Swift
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists that align with their current tastes.

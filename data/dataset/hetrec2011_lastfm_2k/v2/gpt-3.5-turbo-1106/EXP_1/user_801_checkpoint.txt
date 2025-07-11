@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Prince
+2. Diana Ross
+3. Earth, Wind & Fire
+4. Whitney Houston
+5. Stevie Wonder
+6. Tina Turner
+7. George Michael
+8. Donna Summer
+9. Marvin Gaye
+10. Cyndi Lauper
+11. Lionel Richie
+12. Elton John
+13. The Supremes
+14. Al Green
+15. The Pointer Sisters
+16. The Temptations
+17. Patti LaBelle
+18. Gladys Knight & The Pips
+19. The Bee Gees
+20. Sade
+21. Luther Vandross
+22. The Isley Brothers
+23. The Four Tops
+24. Chaka Khan
+25. Otis Redding
+26. The Commodores
+27. The Jackson 5
+28. The Ronettes
+29. The Shirelles
+30. The Drifters
+31. The Platters
+32. The Marvelettes
+33. The Crystals
+34. The Chiffons
+35. The Shangri-Las
+36. The Ronettes
+37. The Supremes
+38. The Temptations
+39. The Miracles
+40. The Four Seasons
+41. The Beach Boys
+42. The Everly Brothers
+43. The Righteous Brothers
+44. The Byrds
+45. The Mamas & The Papas
+46. The Carpenters
+47. The Monkees
+48. The Turtles
+49. The Lovin' Spoonful
+50. The Association
+
+These recommendations are based on the user's liking of artists with similar styles and genres.

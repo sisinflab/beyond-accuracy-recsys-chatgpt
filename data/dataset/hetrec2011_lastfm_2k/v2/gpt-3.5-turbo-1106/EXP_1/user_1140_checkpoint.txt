@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Velvet Underground
+2. Sonic Youth
+3. The Flaming Lips
+4. Yo La Tengo
+5. Neutral Milk Hotel
+6. The Strokes
+7. Modest Mouse
+8. The White Stripes
+9. Tame Impala
+10. Vampire Weekend
+11. The National
+12. Fleet Foxes
+13. Animal Collective
+14. Grizzly Bear
+15. Spoon
+16. Belle and Sebastian
+17. The Shins
+18. Arcade Fire
+19. LCD Soundsystem
+20. The War on Drugs
+21. Father John Misty
+22. Mac DeMarco
+23. Parquet Courts
+24. Real Estate
+25. Kurt Vile
+26. Courtney Barnett
+27. The Black Keys
+28. The Raconteurs
+29. Arctic Monkeys
+30. The Libertines
+31. Franz Ferdinand
+32. Interpol
+33. Yeah Yeah Yeahs
+34. The Kills
+35. The Horrors
+36. Foals
+37. Bloc Party
+38. Editors
+39. The Vaccines
+40. Wolf Alice
+41. Temples
+42. The Growlers
+43. King Gizzard & The Lizard Wizard
+44. Pond
+45. Ty Segall
+46. Oh Sees
+47. Unknown Mortal Orchestra
+48. Mac Demarco
+49. Angel Olsen
+50. Sharon Van Etten
+
+These recommendations are based on the user's liking of indie rock, alternative, and experimental music, as well as similar artists to the ones they already enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+2. 1984 by George Orwell
+3. Outliers: The Story of Success by Malcolm Gladwell
+4. The Catcher in the Rye by J.D. Salinger
+5. The Alchemist by Paulo Coelho
+6. The Great Gatsby by F. Scott Fitzgerald
+7. To Kill a Mockingbird by Harper Lee
+8. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+9. The Martian by Andy Weir
+10. The Handmaid's Tale by Margaret Atwood
+11. The Hunger Games by Suzanne Collins
+12. The Da Vinci Code by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+15. The Road to Wigan Pier by George Orwell
+16. The Power of Habit by Charles Duhigg
+17. The Art of War by Sun Tzu
+18. The Stranger by Albert Camus
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Sun Also Rises by Ernest Hemingway
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Bell Jar by Sylvia Plath
+23. The Grapes of Wrath by John Steinbeck
+24. The Book Thief by Markus Zusak
+25. The Kite Runner by Khaled Hosseini
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Night Circus by Erin Morgenstern
+28. The Goldfinch by Donna Tartt
+29. The Secret History by Donna Tartt
+30. The Name of the Rose by Umberto Eco
+31. The Giver by Lois Lowry
+32. The Maze Runner by James Dashner
+33. The Girl on the Train by Paula Hawkins
+34. The Help by Kathryn Stockett
+35. The Fault in Our Stars by John Green
+36. The Catcher Was a Spy by Nicholas Dawidoff
+37. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+38. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+39. The Road Less Traveled by M. Scott Peck
+40. The Road to Character by David Brooks
+41. The Road to Serfdom by Friedrich Hayek
+42. The Road to Reality by Roger Penrose
+43. The Road to Ruin by James Rickards
+44. The Road to Little Dribbling by Bill Bryson
+45. The Road to Oxiana by Robert Byron
+46. The Road to Wigan Pier by George Orwell
+47. The Road to Mecca by Muhammad Asad
+48. The Road to Serfdom by Friedrich Hayek
+49. The Road to Reality by Roger Penrose
+50. The Road to Ruin by James Rickards
+
+These recommendations are based on the user's interest in non-fiction, dystopian fiction, science, and thought-provoking literature.

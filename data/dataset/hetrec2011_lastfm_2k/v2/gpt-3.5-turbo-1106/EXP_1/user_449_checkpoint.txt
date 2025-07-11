@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Judas Priest
+2. Megadeth
+3. Slayer
+4. Motorhead
+5. Ozzy Osbourne
+6. Dio
+7. Queensryche
+8. Scorpions
+9. Anthrax
+10. Sepultura
+11. Pantera
+12. Testament
+13. Accept
+14. Saxon
+15. UFO
+16. Blue Oyster Cult
+17. Thin Lizzy
+18. Mercyful Fate
+19. King Diamond
+20. Helloween
+21. Kreator
+22. Exodus
+23. Overkill
+24. Sodom
+25. Destruction
+26. Celtic Frost
+27. Bathory
+28. Mayhem
+29. Emperor
+30. Darkthrone
+31. Enslaved
+32. Immortal
+33. Gorgoroth
+34. Satyricon
+35. Marduk
+36. Behemoth
+37. Dimmu Borgir
+38. Cradle of Filth
+39. Mayhem
+40. Darkthrone
+41. Enslaved
+42. Immortal
+43. Gorgoroth
+44. Satyricon
+45. Marduk
+46. Behemoth
+47. Dimmu Borgir
+48. Cradle of Filth
+49. Morbid Angel
+50. Deicide
+
+These recommendations are based on the user's liking of classic rock and heavy metal bands, and include similar artists within those genres.

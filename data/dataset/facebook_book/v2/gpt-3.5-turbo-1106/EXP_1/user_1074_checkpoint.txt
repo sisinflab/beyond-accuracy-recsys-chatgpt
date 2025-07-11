@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Brothers Karamazov by Fyodor Dostoevsky
+3. The Stranger by Albert Camus
+4. 1984 by George Orwell
+5. Brave New World by Aldous Huxley
+6. The Catcher in the Rye by J.D. Salinger
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. To Kill a Mockingbird by Harper Lee
+9. The Great Gatsby by F. Scott Fitzgerald
+10. One Flew Over the Cuckoo's Nest by Ken Kesey
+11. The Road by Cormac McCarthy
+12. The Bell Jar by Sylvia Plath
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Alchemist by Paulo Coelho
+15. Siddhartha by Hermann Hesse
+16. The Power of Now by Eckhart Tolle
+17. The Art of Happiness by Dalai Lama XIV
+18. Man's Search for Meaning by Viktor E. Frankl
+19. The Prophet by Kahlil Gibran
+20. The Little Prince by Antoine de Saint-Exupéry
+21. The Book Thief by Markus Zusak
+22. The Kite Runner by Khaled Hosseini
+23. The Shadow of the Wind by Carlos Ruiz Zafón
+24. The Name of the Wind by Patrick Rothfuss
+25. The Night Circus by Erin Morgenstern
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. Dune by Frank Herbert
+28. Neuromancer by William Gibson
+29. Snow Crash by Neal Stephenson
+30. The Martian by Andy Weir
+31. Ready Player One by Ernest Cline
+32. The Handmaid's Tale by Margaret Atwood
+33. Fahrenheit 451 by Ray Bradbury
+34. The Stand by Stephen King
+35. The Shining by Stephen King
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Da Vinci Code by Dan Brown
+38. Angels & Demons by Dan Brown
+39. The Hunger Games by Suzanne Collins
+40. The Maze Runner by James Dashner
+41. The Giver by Lois Lowry
+42. The Time Traveler's Wife by Audrey Niffenegger
+43. The Lovely Bones by Alice Sebold
+44. Life of Pi by Yann Martel
+45. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+46. The Help by Kathryn Stockett
+47. The Fault in Our Stars by John Green
+48. The Perks of Being a Wallflower by Stephen Chbosky
+49. Eleanor & Park by Rainbow Rowell
+50. Me Before You by Jojo Moyes
+
+These recommendations are based on the user's interest in philosophical and thought-provoking literature, as well as science fiction and classic novels.

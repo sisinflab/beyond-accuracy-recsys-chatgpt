@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tame Impala
+2. Beach House
+3. Deerhunter
+4. M83
+5. The Flaming Lips
+6. Beach House
+7. Dirty Projectors
+8. The Antlers
+9. Ariel Pink's Haunted Graffiti
+10. Youth Lagoon
+11. Unknown Mortal Orchestra
+12. Real Estate
+13. Panda Bear
+14. Grimes
+15. Washed Out
+16. Animal Collective
+17. Why?
+18. of Montreal
+19. Caribou
+20. Boards of Canada
+21. Burial
+22. Gorillaz
+23. The Knife
+24. Grizzly Bear
+25. Bonobo
+26. Weezer
+27. The xx
+28. My Bloody Valentine
+29. Sufjan Stevens
+30. Fever Ray
+31. Four Tet
+32. Final Fantasy
+33. Yann Tiersen
+34. Pavement
+35. Patrick Wolf
+36. Radiohead
+37. LCD Soundsystem
+38. Tim Hecker
+39. Crystal Castles
+40. Sigur Rós
+41. Explosions in the Sky
+42. Godspeed You! Black Emperor
+43. Mogwai
+44. The Microphones
+45. Neutral Milk Hotel
+46. The War on Drugs
+47. Fleet Foxes
+48. Vampire Weekend
+49. The National
+50. Arcade Fire
+
+These recommendations are based on the user's liking of similar artists and genres.

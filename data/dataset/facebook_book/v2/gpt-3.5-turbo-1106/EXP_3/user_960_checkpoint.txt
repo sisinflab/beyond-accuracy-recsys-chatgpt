@@ -1,0 +1,54 @@
+Based on user 960's preferences, here are the top 50 book recommendations for them:
+
+1. The Lord of the Rings
+2. The Hobbit
+3. The Great Gatsby
+4. Harry Potter
+5. Twilight (series)
+6. The Last Song (novel)
+7. City of Ashes
+8. The Giver
+9. The Lost World (Crichton novel)
+10. The Watchmen (novel)
+11. The Beautiful Boy
+12. The Demon in the Freezer
+13. The Diary of a Young Girl
+14. Into Thin Air
+15. Murder on the Orient Express
+16. The Ask and the Answer
+17. Gossip Girl (novel series)
+18. The Wonderful Wizard of Oz
+19. Sold (McCormick novel)
+20. The Trial
+21. Fear and Loathing in Las Vegas
+22. Fahrenheit 451
+23. Prometheus Rising
+24. Bram Stoker's Dracula
+25. Black Beauty
+26. Fushigi Yūgi
+27. Ceres, Celestial Legend
+28. Strange Angels (novel)
+29. Silas Marner
+30. Animal Farm
+31. Gospel of Matthew
+32. Night (book)
+33. Naked Lunch
+34. Prey (novel)
+35. 300 (comics)
+36. Macbeth
+37. The Inheritance (novel)
+38. Identical (novel)
+39. Bible
+40. Pride and Prejudice
+41. Romeo and Juliet
+42. Of Mice and Men
+43. Finnegans Wake
+44. Mountains Beyond Mountains
+45. Gospel of Mark
+46. Anne of Green Gables
+47. Ancient History (novel)
+48. The Last Storytellers: Tales from the Heart of Morocco
+49. Manga
+50. Sun Bin's Art of War
+
+These recommendations are based on the user's previous likes and are ranked according to their potential interest.

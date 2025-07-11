@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Andrea Bocelli
+2. Il Divo
+3. Charlotte Church
+4. Michael Bublé
+5. Il Volo
+6. Yanni
+7. Katherine Jenkins
+8. Il Volo
+9. Plácido Domingo
+10. Luciano Pavarotti
+11. Sarah McLachlan
+12. Enya
+13. Sissel
+14. Celtic Woman
+15. Hayley Westenra
+16. Secret Garden
+17. Jackie Evancho
+18. David Garrett
+19. Vanessa-Mae
+20. Bond
+21. The Priests
+22. Russell Watson
+23. Mario Frangoulis
+24. Sarah Brightman & Andrea Bocelli
+25. Josh Groban & Sarah Brightman
+26. Laura Pausini & Andrea Bocelli
+27. Enrique Iglesias & Whitney Houston
+28. Elton John & Kiki Dee
+29. Roxette & Gessle
+30. Gregorian & Amelia Brightman
+31. Era & Oliver Shanti
+32. Luis Miguel & Christina Aguilera
+33. Diana Krall & Tony Bennett
+34. Céline Dion & Peabo Bryson
+35. Tina Turner & Bryan Adams
+36. Sarah Brightman & José Cura
+37. Josh Groban & Charlotte Church
+38. Laura Pausini & Michael Bublé
+39. Enrique Iglesias & Pitbull
+40. Elton John & George Michael
+41. Roxette & Marie Fredriksson
+42. Gregorian & Amelia Brightman
+43. Era & Enigma
+44. Luis Miguel & Alejandro Fernández
+45. Diana Krall & Michael Bublé
+46. Céline Dion & Andrea Bocelli
+47. Tina Turner & Rod Stewart
+48. Sarah Brightman & Paul Miles-Kingston
+49. Josh Groban & Céline Dion
+50. Laura Pausini & Marc Anthony
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music that aligns with their preferences.

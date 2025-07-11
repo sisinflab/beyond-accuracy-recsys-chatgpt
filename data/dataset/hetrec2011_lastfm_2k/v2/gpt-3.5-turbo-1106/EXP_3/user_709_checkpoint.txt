@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the re-ranked top-50 recommendations:
+
+1. Pink Floyd
+2. AC/DC
+3. Rush
+4. Alice Cooper
+5. The Rolling Stones
+6. Def Leppard
+7. Aerosmith
+8. Bon Jovi
+9. The Who
+10. Black Label Society
+11. Metallica
+12. Red Hot Chili Peppers
+13. David Gilmour
+14. Nightwish
+15. Bryan Adams
+16. Joan Jett and the Blackhearts
+17. Lynyrd Skynyrd
+18. ZZ Top
+19. Foreigner
+20. Helloween
+21. Rainbow
+22. Modern Talking
+23. Electric Light Orchestra
+24. Janis Joplin
+25. The 69 Eyes
+26. Poison
+27. Exodus
+28. Motörhead
+29. Toto
+30. Sixx:A.M.
+31. Europe
+32. Hardcore Superstar
+33. Backyard Babies
+34. Kreator
+35. Anthrax
+36. Korpiklaani
+37. Alestorm
+38. Roxette
+39. Elton John
+40. Dream Theater
+41. Bob Dylan
+42. David Bowie
+43. In Extremo
+44. CRASHDÏET
+45. Evanescence
+46. Faith No More
+47. Ratt
+48. Skid Row
+49. Hanoi Rocks
+50. Foreigner

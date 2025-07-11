@@ -1,0 +1,54 @@
+Based on user 200's preferences, here are the top 50 recommendations:
+
+1. Black Sabbath
+2. Deep Purple
+3. Rush
+4. Scorpions
+5. The Rolling Stones
+6. Dire Straits
+7. The Doors
+8. Pink Floyd
+9. Aerosmith
+10. Guns N' Roses
+11. Metallica
+12. The Eagles
+13. Lynyrd Skynyrd
+14. The Kinks
+15. ZZ Top
+16. The Velvet Underground
+17. The Smiths
+18. The Cure
+19. Joy Division
+20. Talking Heads
+21. The Smithereens
+22. The Replacements
+23. R.E.M.
+24. The Stone Roses
+25. The Strokes
+26. Arctic Monkeys
+27. The White Stripes
+28. The Black Keys
+29. The Killers
+30. The National
+31. Interpol
+32. Arcade Fire
+33. The War on Drugs
+34. Tame Impala
+35. Fleet Foxes
+36. Vampire Weekend
+37. The Shins
+38. Modest Mouse
+39. Spoon
+40. Wilco
+41. My Morning Jacket
+42. The Flaming Lips
+43. Radiohead
+44. Oasis
+45. Blur
+46. Pulp
+47. Suede
+48. The Verve
+49. Supergrass
+50. Elbow
+
+These recommendations are based on the user's liking of classic rock, alternative, and progressive rock artists, as well as their interest in bands with a similar sound and era.

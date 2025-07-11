@@ -1,0 +1,54 @@
+Based on user 22's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. A Game of Thrones by George R.R. Martin
+3. Neuromancer by William Gibson
+4. Snow Crash by Neal Stephenson
+5. Dune by Frank Herbert
+6. The Name of the Wind by Patrick Rothfuss
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. Fahrenheit 451 by Ray Bradbury
+9. Brave New World by Aldous Huxley
+10. 1984 by George Orwell
+11. The Martian by Andy Weir
+12. Ready Player One by Ernest Cline
+13. The Hunger Games by Suzanne Collins
+14. The Road by Cormac McCarthy
+15. The Handmaid's Tale by Margaret Atwood
+16. The Stand by Stephen King
+17. The Alchemist by Paulo Coelho
+18. The Catcher in the Rye by J.D. Salinger
+19. To Kill a Mockingbird by Harper Lee
+20. The Great Gatsby by F. Scott Fitzgerald
+21. The Catcher in the Rye by J.D. Salinger
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Count of Monte Cristo by Alexandre Dumas
+24. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Da Vinci Code by Dan Brown
+27. The Hunger Games by Suzanne Collins
+28. The Road by Cormac McCarthy
+29. The Handmaid's Tale by Margaret Atwood
+30. The Stand by Stephen King
+31. The Alchemist by Paulo Coelho
+32. The Catcher in the Rye by J.D. Salinger
+33. To Kill a Mockingbird by Harper Lee
+34. The Great Gatsby by F. Scott Fitzgerald
+35. The Catcher in the Rye by J.D. Salinger
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Count of Monte Cristo by Alexandre Dumas
+38. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Da Vinci Code by Dan Brown
+41. The Hunger Games by Suzanne Collins
+42. The Road by Cormac McCarthy
+43. The Handmaid's Tale by Margaret Atwood
+44. The Stand by Stephen King
+45. The Alchemist by Paulo Coelho
+46. The Catcher in the Rye by J.D. Salinger
+47. To Kill a Mockingbird by Harper Lee
+48. The Great Gatsby by F. Scott Fitzgerald
+49. The Catcher in the Rye by J.D. Salinger
+50. The Picture of Dorian Gray by Oscar Wilde
+
+These recommendations are based on similar themes, genres, and authors to the books that user 22 likes.

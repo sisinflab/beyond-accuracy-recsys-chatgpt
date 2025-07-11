@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Howl's Moving Castle by Diana Wynne Jones
+2. The Night Circus by Erin Morgenstern
+3. The Shadow of the Wind by Carlos Ruiz Zafón
+4. The Time Traveler's Wife by Audrey Niffenegger
+5. The Name of the Wind by Patrick Rothfuss
+6. The Thirteenth Tale by Diane Setterfield
+7. The Alchemist by Paulo Coelho
+8. The Secret History by Donna Tartt
+9. The Book Thief by Markus Zusak
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Goldfinch by Donna Tartt
+12. The Golem and the Jinni by Helene Wecker
+13. The Nightingale by Kristin Hannah
+14. The Secret Life of Bees by Sue Monk Kidd
+15. The Help by Kathryn Stockett
+16. The Kite Runner by Khaled Hosseini
+17. The Glass Castle by Jeannette Walls
+18. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+19. The Lovely Bones by Alice Sebold
+20. The Hunger Games by Suzanne Collins
+21. The Martian by Andy Weir
+22. The Handmaid's Tale by Margaret Atwood
+23. The Catcher in the Rye by J.D. Salinger
+24. The Great Gatsby by F. Scott Fitzgerald
+25. To Kill a Mockingbird by Harper Lee
+26. 1984 by George Orwell
+27. Animal Farm by George Orwell
+28. Brave New World by Aldous Huxley
+29. Fahrenheit 451 by Ray Bradbury
+30. Slaughterhouse-Five by Kurt Vonnegut
+31. Catch-22 by Joseph Heller
+32. One Hundred Years of Solitude by Gabriel García Márquez
+33. Love in the Time of Cholera by Gabriel García Márquez
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Count of Monte Cristo by Alexandre Dumas
+36. Crime and Punishment by Fyodor Dostoevsky
+37. The Brothers Karamazov by Fyodor Dostoevsky
+38. War and Peace by Leo Tolstoy
+39. Anna Karenina by Leo Tolstoy
+40. Pride and Prejudice by Jane Austen
+41. Sense and Sensibility by Jane Austen
+42. Emma by Jane Austen
+43. Persuasion by Jane Austen
+44. Northanger Abbey by Jane Austen
+45. Wuthering Heights by Emily Brontë
+46. Jane Eyre by Charlotte Brontë
+47. Great Expectations by Charles Dickens
+48. David Copperfield by Charles Dickens
+49. Oliver Twist by Charles Dickens
+50. A Tale of Two Cities by Charles Dickens
+
+These recommendations are based on similar themes, genres, and authors to the books that user 139 likes.

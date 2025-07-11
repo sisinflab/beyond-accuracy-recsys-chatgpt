@@ -1,0 +1,54 @@
+Based on user 48's preferences, here are the top 50 book recommendations:
+
+1. Catch-22 by Joseph Heller
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. One Flew Over the Cuckoo's Nest by Ken Kesey
+5. The Grapes of Wrath by John Steinbeck
+6. Animal Farm by George Orwell
+7. 1984 by George Orwell
+8. The Great Gatsby by F. Scott Fitzgerald
+9. Lord of the Flies by William Golding
+10. The Bell Jar by Sylvia Plath
+11. The Road by Cormac McCarthy
+12. The Old Man and the Sea by Ernest Hemingway
+13. The Sun Also Rises by Ernest Hemingway
+14. A Farewell to Arms by Ernest Hemingway
+15. For Whom the Bell Tolls by Ernest Hemingway
+16. The Sound and the Fury by William Faulkner
+17. As I Lay Dying by William Faulkner
+18. The Sound and the Fury by William Faulkner
+19. The Road by Cormac McCarthy
+20. Blood Meridian by Cormac McCarthy
+21. All the Pretty Horses by Cormac McCarthy
+22. The Road by Cormac McCarthy
+23. The Sound and the Fury by William Faulkner
+24. As I Lay Dying by William Faulkner
+25. The Sound and the Fury by William Faulkner
+26. The Road by Cormac McCarthy
+27. Blood Meridian by Cormac McCarthy
+28. All the Pretty Horses by Cormac McCarthy
+29. The Road by Cormac McCarthy
+30. Blood Meridian by Cormac McCarthy
+31. All the Pretty Horses by Cormac McCarthy
+32. The Road by Cormac McCarthy
+33. Blood Meridian by Cormac McCarthy
+34. All the Pretty Horses by Cormac McCarthy
+35. The Road by Cormac McCarthy
+36. Blood Meridian by Cormac McCarthy
+37. All the Pretty Horses by Cormac McCarthy
+38. The Road by Cormac McCarthy
+39. Blood Meridian by Cormac McCarthy
+40. All the Pretty Horses by Cormac McCarthy
+41. The Road by Cormac McCarthy
+42. Blood Meridian by Cormac McCarthy
+43. All the Pretty Horses by Cormac McCarthy
+44. The Road by Cormac McCarthy
+45. Blood Meridian by Cormac McCarthy
+46. All the Pretty Horses by Cormac McCarthy
+47. The Road by Cormac McCarthy
+48. Blood Meridian by Cormac McCarthy
+49. All the Pretty Horses by Cormac McCarthy
+50. The Road by Cormac McCarthy
+
+These recommendations are based on the user's preference for classic literature, dystopian themes, and historical fiction.

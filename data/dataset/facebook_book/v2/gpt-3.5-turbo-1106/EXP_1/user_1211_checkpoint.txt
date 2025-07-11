@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glass (Crank series) by Ellen Hopkins
+2. Identical by Ellen Hopkins
+3. Perfect by Ellen Hopkins
+4. Tricks by Ellen Hopkins
+5. Tilt by Ellen Hopkins
+6. The Giver by Lois Lowry
+7. Gathering Blue by Lois Lowry
+8. Messenger by Lois Lowry
+9. Son by Lois Lowry
+10. The Alchemist by Paulo Coelho
+11. The House on Mango Street by Sandra Cisneros
+12. One Hundred Years of Solitude by Gabriel Garcia Marquez
+13. Love in the Time of Cholera by Gabriel Garcia Marquez
+14. The Lightning Thief by Rick Riordan
+15. The Sea of Monsters by Rick Riordan
+16. The Titan's Curse by Rick Riordan
+17. The Battle of the Labyrinth by Rick Riordan
+18. The Last Olympian by Rick Riordan
+19. The Hunger Games by Suzanne Collins
+20. Catching Fire by Suzanne Collins
+21. Mockingjay by Suzanne Collins
+22. Divergent by Veronica Roth
+23. Insurgent by Veronica Roth
+24. Allegiant by Veronica Roth
+25. The Book Thief by Markus Zusak
+26. The Fault in Our Stars by John Green
+27. Looking for Alaska by John Green
+28. Paper Towns by John Green
+29. An Abundance of Katherines by John Green
+30. The Maze Runner by James Dashner
+31. The Scorch Trials by James Dashner
+32. The Death Cure by James Dashner
+33. The Kill Order by James Dashner
+34. The Fever Code by James Dashner
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. Eleanor & Park by Rainbow Rowell
+37. Fangirl by Rainbow Rowell
+38. Carry On by Rainbow Rowell
+39. Landline by Rainbow Rowell
+40. The Sun Is Also a Star by Nicola Yoon
+41. Everything, Everything by Nicola Yoon
+42. All the Bright Places by Jennifer Niven
+43. Holding Up the Universe by Jennifer Niven
+44. The Hate U Give by Angie Thomas
+45. On the Come Up by Angie Thomas
+46. Dear Martin by Nic Stone
+47. Odd One Out by Nic Stone
+48. Jackpot by Nic Stone
+49. Let Me Hear a Rhyme by Tiffany D. Jackson
+50. Monday's Not Coming by Tiffany D. Jackson
+
+These recommendations are based on the user's interest in young adult fiction, coming-of-age stories, and novels with themes of personal growth and self-discovery.

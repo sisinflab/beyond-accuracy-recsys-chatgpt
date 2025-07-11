@@ -1,0 +1,54 @@
+Based on user 1254's preferences, here are the top 50 recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. Frankenstein by Mary Shelley
+3. The Zombie Survival Guide by Max Brooks
+4. Eat, Pray, Love by Elizabeth Gilbert
+5. The Communist Manifesto
+6. Dracula
+7. Dune (novel)
+8. The Hunger Games
+9. A Clockwork Orange
+10. Nineteen Eighty-Four
+11. The Great Gatsby
+12. Macbeth
+13. The Picture of Dorian Gray
+14. American Gods
+15. The Island of Doctor Moreau
+16. The Catcher in the Rye
+17. Inferno (Dante)
+18. Les Misérables
+19. The Mists of Avalon
+20. The Seventh Tower
+21. The Canterbury Tales
+22. The Aeneid
+23. The Hitchhiker's Guide to the Galaxy (novel)
+24. The Outsiders (novel)
+25. The Watchmen (novel)
+26. City of Bones (Mortal Instruments)
+27. The Seven Pillars of Wisdom
+28. Adventures of Huckleberry Finn
+29. The Frankenstein Series
+30. The Harry Potter Series
+31. The Twilight Series
+32. The Darkest Powers Series
+33. The Sevenwaters Trilogy
+34. The Divine Comedy
+35. The Old Farmer's Almanac
+36. The Bone Comics
+37. The Fullmetal Alchemist Series
+38. The Vampire Kisses Series
+39. The Charlie and the Chocolate Factory
+40. The Jane Eyre
+41. The Romeo and Juliet
+42. The Dear John (novel)
+43. The All Quiet on the Western Front
+44. The Needful Things
+45. The Dear John (novel)
+46. The All the King's Men
+47. The John Dies at the End
+48. The Watchmen
+49. The Battle Royale
+50. The Horton Hears a Who!
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

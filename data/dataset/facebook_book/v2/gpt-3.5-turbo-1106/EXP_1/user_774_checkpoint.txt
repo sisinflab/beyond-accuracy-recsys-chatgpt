@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. Prozac Nation by Elizabeth Wurtzel
+3. The Virgin Suicides by Jeffrey Eugenides
+4. White Oleander by Janet Fitch
+5. Wasted: A Memoir of Anorexia and Bulimia by Marya Hornbacher
+6. The Lovely Bones by Alice Sebold
+7. Sharp Objects by Gillian Flynn
+8. The Catcher in the Rye by J.D. Salinger
+9. Less Than Zero by Bret Easton Ellis
+10. A Million Little Pieces by James Frey
+11. The Secret History by Donna Tartt
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. Running with Scissors by Augusten Burroughs
+14. The Pact by Jodi Picoult
+15. Girl, Interrupted by Susanna Kaysen
+16. The Rules of Attraction by Bret Easton Ellis
+17. Speak by Laurie Halse Anderson
+18. The Glass Castle by Jeannette Walls
+19. Tweak: Growing Up on Methamphetamines by Nic Sheff
+20. It's Kind of a Funny Story by Ned Vizzini
+21. Wintergirls by Laurie Halse Anderson
+22. The Burn Journals by Brent Runyon
+23. Crank by Ellen Hopkins
+24. Thirteen Reasons Why by Jay Asher
+25. The Silver Linings Playbook by Matthew Quick
+26. The Road by Cormac McCarthy
+27. The Kite Runner by Khaled Hosseini
+28. A Child Called "It" by Dave Pelzer
+29. The Outsiders by S.E. Hinton
+30. The Giver by Lois Lowry
+31. The Fault in Our Stars by John Green
+32. Looking for Alaska by John Green
+33. The Book Thief by Markus Zusak
+34. The Hunger Games by Suzanne Collins
+35. Divergent by Veronica Roth
+36. The Maze Runner by James Dashner
+37. The Girl with the Dragon Tattoo by Stieg Larsson
+38. Gone Girl by Gillian Flynn
+39. The Shining by Stephen King
+40. We Need to Talk About Kevin by Lionel Shriver
+41. The Road Less Traveled by M. Scott Peck
+42. The Stand by Stephen King
+43. The Handmaid's Tale by Margaret Atwood
+44. The Power of Now by Eckhart Tolle
+45. The Alchemist by Paulo Coelho
+46. The Celestine Prophecy by James Redfield
+47. The Art of Happiness by Dalai Lama XIV
+48. The Four Agreements by Don Miguel Ruiz
+49. The Road Less Traveled by M. Scott Peck
+50. The Power of Now by Eckhart Tolle
+
+These recommendations are based on the user's interest in psychological and coming-of-age themes, as well as their preference for books by authors such as Jodi Picoult, Chuck Palahniuk, and Augusten Burroughs.

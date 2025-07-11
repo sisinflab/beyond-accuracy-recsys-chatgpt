@@ -1,0 +1,54 @@
+Based on user 1986's preferences, here are the top 50 recommendations for the user:
+
+1. Iron Maiden
+2. Megadeth
+3. Slayer
+4. Korpiklaani
+5. AC/DC
+6. Matanza
+7. Avenged Sevenfold
+8. Black Sabbath
+9. Pantera
+10. Judas Priest
+11. Jethro Tull
+12. Metallica
+13. Mr. Big
+14. Avantasia
+15. Motörhead
+16. Paramore
+17. Kreator
+18. Exodus
+19. Van Halen
+20. Lynyrd Skynyrd
+21. Creedence Clearwater Revival
+22. Blind Guardian
+23. Arch Enemy
+24. Porcupine Tree
+25. HammerFall
+26. Vader
+27. Mamonas Assassinas
+28. KISS
+29. Breaking Benjamin
+30. Blackmore's Night
+31. Scorpions
+32. Twisted Sister
+33. Children of Bodom
+34. Saxon
+35. Rainbow
+36. Korn
+37. The Black Keys
+38. Nirvana
+39. Eluveitie
+40. Bon Jovi
+41. System of a Down
+42. Sodom
+43. Ozzy Osbourne
+44. Slipknot
+45. Helloween
+46. Nautilus Pompilius
+47. Paradise Lost
+48. Toto
+49. Queen
+50. Pearl Jam
+
+These recommendations are based on the user's existing preferences and are ranked accordingly.

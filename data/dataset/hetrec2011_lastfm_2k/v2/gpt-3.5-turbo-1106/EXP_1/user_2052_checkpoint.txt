@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Rolling Stones
+2. David Bowie
+3. The Who
+4. Genesis
+5. Yes
+6. Toto
+7. The Police
+8. Talking Heads
+9. The Moody Blues
+10. Jethro Tull
+11. Rush
+12. Styx
+13. Kansas
+14. Foreigner
+15. Boston
+16. The Doobie Brothers
+17. REO Speedwagon
+18. Journey
+19. The Cars
+20. Cheap Trick
+21. ZZ Top
+22. Aerosmith
+23. Lynyrd Skynyrd
+24. Bad Company
+25. Steve Miller Band
+26. The Eagles
+27. Tom Petty and the Heartbreakers
+28. Fleetwood Mac
+29. The Beach Boys
+30. The Kinks
+31. The Doors
+32. Cream
+33. The Byrds
+34. The Yardbirds
+35. The Animals
+36. The Hollies
+37. The Zombies
+38. The Turtles
+39. The Monkees
+40. The Lovin' Spoonful
+41. The Mamas & The Papas
+42. The Association
+43. The Box Tops
+44. The Rascals
+45. The Grass Roots
+46. The Buckinghams
+47. The Young Rascals
+48. The Dave Clark Five
+49. The Searchers
+50. The Shadows
+
+These recommendations are based on the user's liking of classic rock, progressive rock, and new wave artists, and are aimed at providing a diverse range of similar artists for the user to explore.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Handmaid's Tale by Margaret Atwood
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Grapes of Wrath by John Steinbeck
+9. Fahrenheit 451 by Ray Bradbury
+10. The Sun Also Rises by Ernest Hemingway
+11. The Old Man and the Sea by Ernest Hemingway
+12. The Road by Cormac McCarthy
+13. The Stranger by Albert Camus
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Alchemist by Paulo Coelho
+16. The Kite Runner by Khaled Hosseini
+17. The Book Thief by Markus Zusak
+18. The Secret History by Donna Tartt
+19. The Goldfinch by Donna Tartt
+20. The Night Circus by Erin Morgenstern
+21. The Shadow of the Wind by Carlos Ruiz Zafon
+22. The Name of the Wind by Patrick Rothfuss
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Poisonwood Bible by Barbara Kingsolver
+25. The Lovely Bones by Alice Sebold
+26. The Help by Kathryn Stockett
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Hunger Games by Suzanne Collins
+29. The Road by Cormac McCarthy
+30. The Martian by Andy Weir
+31. The Handmaid's Tale by Margaret Atwood
+32. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+33. The Giver by Lois Lowry
+34. The Fault in Our Stars by John Green
+35. The Da Vinci Code by Dan Brown
+36. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+37. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+38. The Book of Lost Things by John Connolly
+39. The Bone Clocks by David Mitchell
+40. The Bell Jar by Sylvia Plath
+41. The Vampire Lestat by Anne Rice
+42. The Blind Assassin by Margaret Atwood
+43. Oryx and Crake by Margaret Atwood
+44. The Crow (novel) by Alison Croggon
+45. Battle Royale by Koushun Takami
+46. Go Ask Alice by Anonymous
+47. The Witches by Roald Dahl
+48. Charlotte's Web by E.B. White
+49. The Waste Land by T.S. Eliot
+50. The Great Gatsby by F. Scott Fitzgerald
+
+These recommendations are based on the user's liking of classic literature, dystopian fiction, and coming-of-age stories.

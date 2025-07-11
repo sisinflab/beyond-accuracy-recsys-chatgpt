@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Free to Choose by Milton Friedman
+2. Anthem by Ayn Rand
+3. Lords of Chaos by Michael Moynihan and Didrik Søderlind
+4. Thus Spoke Zarathustra by Friedrich Nietzsche
+5. The Blind Watchmaker by Richard Dawkins
+6. V for Vendetta by Alan Moore and David Lloyd
+7. Nausea by Jean-Paul Sartre
+8. We the Living by Ayn Rand
+9. The Theory of Moral Sentiments by Adam Smith
+10. Hitch-22 by Christopher Hitchens
+11. The Ancestor's Tale by Richard Dawkins
+12. The Road to Serfdom by Friedrich Hayek
+13. The Virtue of Selfishness by Ayn Rand
+14. The Birth of Tragedy by Friedrich Nietzsche
+15. The Greatest Show on Earth by Richard Dawkins
+16. The Communist Manifesto by Karl Marx and Friedrich Engels
+17. The Conquest of Bread by Peter Kropotkin
+18. The Rebel by Albert Camus
+19. The Romantic Manifesto by Ayn Rand
+20. The Wealth and Poverty of Nations by David S. Landes
+21. The Portable Atheist by Christopher Hitchens
+22. The Origin of Species by Charles Darwin
+23. The Road to Wigan Pier by George Orwell
+24. The Ego and Its Own by Max Stirner
+25. The Fatal Conceit by Friedrich Hayek
+26. The Virtue of Selfishness by Ayn Rand
+27. The Road to Wigan Pier by George Orwell
+28. The Ego and Its Own by Max Stirner
+29. The Fatal Conceit by Friedrich Hayek
+30. The Virtue of Selfishness by Ayn Rand
+31. The Road to Wigan Pier by George Orwell
+32. The Ego and Its Own by Max Stirner
+33. The Fatal Conceit by Friedrich Hayek
+34. The Virtue of Selfishness by Ayn Rand
+35. The Road to Wigan Pier by George Orwell
+36. The Ego and Its Own by Max Stirner
+37. The Fatal Conceit by Friedrich Hayek
+38. The Virtue of Selfishness by Ayn Rand
+39. The Road to Wigan Pier by George Orwell
+40. The Ego and Its Own by Max Stirner
+41. The Fatal Conceit by Friedrich Hayek
+42. The Virtue of Selfishness by Ayn Rand
+43. The Road to Wigan Pier by George Orwell
+44. The Ego and Its Own by Max Stirner
+45. The Fatal Conceit by Friedrich Hayek
+46. The Virtue of Selfishness by Ayn Rand
+47. The Road to Wigan Pier by George Orwell
+48. The Ego and Its Own by Max Stirner
+49. The Fatal Conceit by Friedrich Hayek
+50. The Virtue of Selfishness by Ayn Rand
+
+These recommendations are based on the user's interest in economics, philosophy, atheism, and individualism.

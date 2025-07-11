@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1239:
+
+1. The Velvet Underground
+2. Pink Floyd
+3. Porcupine Tree
+4. Kings of Leon
+5. John Frusciante
+6. Chico Buarque
+7. Red Hot Chili Peppers
+8. Led Zeppelin
+9. Lily Allen
+10. John Mayer
+11. Stereophonics
+12. Nick Drake
+13. The Doors
+14. Oasis
+15. Paul McCartney
+16. The Strokes
+17. Ryan Adams
+18. Queens of the Stone Age
+19. Neil Young
+20. Bonobo
+21. The Mars Volta
+22. Parov Stelar
+23. Cat Power
+24. Foo Fighters
+25. Air
+26. Cream
+27. Elliott Smith
+28. The Cure
+29. The Cranberries
+30. Janis Joplin
+31. Portishead
+32. Blur
+33. Damien Rice
+34. City and Colour
+35. The Smashing Pumpkins
+36. The Cardigans
+37. Mr. Big
+38. Slayer
+39. Syd Barrett
+40. Antimatter
+41. Parkway Drive
+42. Coheed and Cambria
+43. Talk Talk
+44. Miles Davis
+45. Dire Straits
+46. Eagles
+47. Bob Marley & The Wailers
+48. Sigur Rós
+49. David Gilmour
+50. Brian Eno
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

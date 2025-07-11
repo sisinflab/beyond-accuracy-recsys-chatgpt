@@ -1,0 +1,54 @@
+Based on user 1705's preferences, here are the top 50 recommendations for the user:
+
+1. The Beatles
+2. Coldplay
+3. Arctic Monkeys
+4. Radiohead
+5. Muse
+6. The Killers
+7. Nirvana
+8. Led Zeppelin
+9. Pink Floyd
+10. The Strokes
+11. The Who
+12. Kings of Leon
+13. Franz Ferdinand
+14. Queens of the Stone Age
+15. The Kooks
+16. The Libertines
+17. The Hives
+18. Foals
+19. The Wombats
+20. The Futureheads
+21. White Lies
+22. The Mars Volta
+23. ...And You Will Know Us by the Trail of Dead
+24. At the Drive-In
+25. City and Colour
+26. Kings of Convenience
+27. Vanguart
+28. Los Hermanos
+29. The Subways
+30. The Kills
+31. The Arctic Monkeys
+32. The Beatles
+33. The Mars Volta
+34. Los Hermanos
+35. Kings of Leon
+36. The Who
+37. Arctic Monkeys
+38. Vanguart
+39. The Kills
+40. The Kooks
+41. Kings of Convenience
+42. Queens of the Stone Age
+43. Matt & Kim
+44. The Hives
+45. O Teatro Mágico
+46. Dirty Pretty Things
+47. Coldplay
+48. Chico Buarque
+49. The Subways
+50. White Lies
+
+These recommendations are based on the user's existing preferences and are ranked in a way that aligns with their liking for the listed artists.

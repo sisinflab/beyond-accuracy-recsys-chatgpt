@@ -1,0 +1,54 @@
+Based on user 1215's preferences, here are the top 50 recommendations for them:
+
+1. Colbie Caillat
+2. Sara Bareilles
+3. Ingrid Michaelson
+4. Jason Mraz
+5. Norah Jones
+6. Adele
+7. Regina Spektor
+8. Corinne Bailey Rae
+9. Duffy
+10. Paolo Nutini
+11. Coldplay
+12. The Cranberries
+13. Michael Jackson
+14. Mika
+15. Ke$ha
+16. The Cardigans
+17. Rilo Kiley
+18. Gavin DeGraw
+19. Kate Nash
+20. City and Colour
+21. Mariah Carey
+22. Shania Twain
+23. Billy Joel
+24. Jamie Cullum
+25. The Corrs
+26. Lily Allen
+27. Avril Lavigne
+28. Rihanna
+29. Lady Gaga
+30. Katy Perry
+31. Beyoncé
+32. Taylor Swift
+33. Kelly Clarkson
+34. Natasha Bedingfield
+35. Jennifer Hudson
+36. Leona Lewis
+37. Mary J. Blige
+38. Whitney Houston
+39. Hilary Duff
+40. Anastacia
+41. Carrie Underwood
+42. Lara Fabian
+43. Kelly Rowland
+44. Sade
+45. Ashlee Simpson
+46. Heart
+47. Keyshia Cole
+48. Maroon 5
+49. Lady Antebellum
+50. Glee Cast
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

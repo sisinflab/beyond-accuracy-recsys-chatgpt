@@ -1,0 +1,54 @@
+Based on user 1001's preferences, here are the top 50 book recommendations:
+
+1. Crank (novel) by Ellen Hopkins
+2. Burned (Hopkins novel) by Ellen Hopkins
+3. Identical (novel) by Ellen Hopkins
+4. Impulse economy by Gary Schwartz (designer)
+5. Wake (Lisa McMann novel) by 
+6. Lock and Key by 
+7. Go Ask Alice by 
+8. Wings (Pike novel) by 
+9. Cut (novel) by Patricia McCormick (author)
+10. Brave New World
+11. A Million Little Pieces
+12. The Messenger (Markus Zusak novel)
+13. Glass (novel)
+14. The Truth About Forever
+15. Before I Die
+16. Thirteen Reasons Why
+17. It Happened to Nancy: By an Anonymous Teenager
+18. Oliver Twist
+19. Paper Towns
+20. Be More Chill
+21. The Mark (novel)
+22. The Secret Life of Bees
+23. Twilight (series)
+24. PS, I Love You (novel)
+25. Old Yeller
+26. I'd Tell You I Love You, But Then I'd Have to Kill You
+27. Hate List
+28. Cirque du Freak
+29. Tricks (novel)
+30. The Chocolate War
+31. The Named
+32. Looking for Alaska
+33. Fallen (Kate novel)
+34. Fallout: An American Nuclear Tragedy
+35. Change of Heart (novel)
+36. Fear and Loathing in Las Vegas
+37. The Bell Jar
+38. The Giver
+39. The Summoning (novel)
+40. Jay's Journal
+41. Gospel of Matthew
+42. Under the Dome
+43. Pretties
+44. The Catcher in the Rye
+45. Alice's Adventures in Wonderland
+46. The Time Traveler's Wife
+47. My Sister's Keeper (novel)
+48. The Invention of Hugo Cabret
+49. Vampire Kisses
+50. The Thief of Always
+
+These recommendations are based on the user's previous book preferences and are ranked according to their potential appeal to the user.

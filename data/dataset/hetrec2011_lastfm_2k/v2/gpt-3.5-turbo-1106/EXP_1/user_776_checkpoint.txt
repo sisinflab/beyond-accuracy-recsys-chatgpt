@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. The Offspring
+3. Rancid
+4. Sum 41
+5. My Chemical Romance
+6. System of a Down
+7. Papa Roach
+8. Linkin Park
+9. Foo Fighters
+10. Pearl Jam
+11. Soundgarden
+12. Stone Temple Pilots
+13. Alice in Chains
+14. Bush
+15. Smashing Pumpkins
+16. Weezer
+17. 311
+18. Sublime
+19. Rage Against the Machine
+20. Beastie Boys
+21. Cypress Hill
+22. Deftones
+23. Incubus
+24. Audioslave
+25. Queens of the Stone Age
+26. Arctic Monkeys
+27. The Strokes
+28. Interpol
+29. The White Stripes
+30. The Killers
+31. Kings of Leon
+32. Muse
+33. Radiohead
+34. Coldplay
+35. Oasis
+36. Blur
+37. Gorillaz
+38. Arctic Monkeys
+39. The Libertines
+40. Franz Ferdinand
+41. The Hives
+42. The Vines
+43. Jet
+44. The Raconteurs
+45. The Black Keys
+46. Cage the Elephant
+47. Arctic Monkeys
+48. The Vaccines
+49. The Arctic Monkeys
+50. The Strokes
+
+These recommendations are based on the user's liking of punk, rock, and alternative music, and include similar artists that they may enjoy.

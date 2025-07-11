@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Nightwish
+2. Kamelot
+3. Epica
+4. Within Temptation
+5. Iron Maiden
+6. Dire Straits
+7. Scorpions
+8. Angra
+9. Tarja
+10. Avantasia
+11. Sonata Arctica
+12. Apocalyptica
+13. Anathema
+14. Pink Floyd
+15. Sarah Brightman
+16. Andrea Bocelli
+17. Evanescence
+18. U2
+19. Muse
+20. The Beatles
+21. Radiohead
+22. Coldplay
+23. David Guetta
+24. Tiësto
+25. Britney Spears
+26. Lady Gaga
+27. Madonna
+28. Rihanna
+29. Shakira
+30. Katy Perry
+31. Christina Aguilera
+32. Paramore
+33. Avril Lavigne
+34. Taylor Swift
+35. Glee Cast
+36. Beyoncé
+37. 30 Seconds to Mars
+38. Kylie Minogue
+39. Miley Cyrus
+40. Ke$ha
+41. Duran Duran
+42. Blur
+43. Arctic Monkeys
+44. Placebo
+45. The Killers
+46. Nirvana
+47. Amy Winehouse
+48. Led Zeppelin
+49. Metallica
+50. Michael Jackson
+
+This re-ranked list takes into account the user's liking for the initial set of artists and suggests similar artists based on their preferences.

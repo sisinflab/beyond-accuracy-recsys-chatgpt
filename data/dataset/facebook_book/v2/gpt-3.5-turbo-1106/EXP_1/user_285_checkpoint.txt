@@ -1,0 +1,54 @@
+Based on the preferences of user 285, here are the top 50 book recommendations:
+
+1. The Dark Tower series by Stephen King
+2. The Wheel of Time series by Robert Jordan
+3. The Name of the Wind by Patrick Rothfuss
+4. Mistborn series by Brandon Sanderson
+5. The Way of Kings by Brandon Sanderson
+6. The Malazan Book of the Fallen series by Steven Erikson
+7. The Lies of Locke Lamora by Scott Lynch
+8. The Black Prism by Brent Weeks
+9. The Stormlight Archive series by Brandon Sanderson
+10. The Kingkiller Chronicle series by Patrick Rothfuss
+11. The First Law series by Joe Abercrombie
+12. The Broken Empire series by Mark Lawrence
+13. The Riyria Revelations series by Michael J. Sullivan
+14. The Lightbringer series by Brent Weeks
+15. The Powder Mage trilogy by Brian McClellan
+16. The Gentlemen Bastard series by Scott Lynch
+17. The Farseer Trilogy by Robin Hobb
+18. The Night Angel Trilogy by Brent Weeks
+19. The Demon Cycle series by Peter V. Brett
+20. The Inheritance Trilogy by N.K. Jemisin
+21. The Chronicles of Amber series by Roger Zelazny
+22. The Dresden Files series by Jim Butcher
+23. The Broken Earth series by N.K. Jemisin
+24. The Black Company series by Glen Cook
+25. The Codex Alera series by Jim Butcher
+26. The Chronicles of the Black Company series by Glen Cook
+27. The Dagger and the Coin series by Daniel Abraham
+28. The Empire Trilogy by Raymond E. Feist and Janny Wurts
+29. The Long Price Quartet series by Daniel Abraham
+30. The Prince of Nothing series by R. Scott Bakker
+31. The Traitor Son Cycle series by Miles Cameron
+32. The Book of the New Sun series by Gene Wolfe
+33. The Broken Empire series by Mark Lawrence
+34. The Witcher series by Andrzej Sapkowski
+35. The Riyria Chronicles series by Michael J. Sullivan
+36. The Chronicles of the Unhewn Throne series by Brian Staveley
+37. The Divine Cities trilogy by Robert Jackson Bennett
+38. The Red Queen's War series by Mark Lawrence
+39. The Greatcoats series by Sebastien de Castell
+40. The Shadow Campaigns series by Django Wexler
+41. The Chronicles of the Raven series by James Barclay
+42. The Legends of the First Empire series by Michael J. Sullivan
+43. The Broken Earth series by N.K. Jemisin
+44. The Inheritance Trilogy by N.K. Jemisin
+45. The Lightbringer series by Brent Weeks
+46. The Powder Mage trilogy by Brian McClellan
+47. The Gentlemen Bastard series by Scott Lynch
+48. The Farseer Trilogy by Robin Hobb
+49. The Night Angel Trilogy by Brent Weeks
+50. The Demon Cycle series by Peter V. Brett
+
+These recommendations are based on the user's interest in fantasy, science fiction, and supernatural themes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Calvin Harris
+2. Rihanna
+3. David Guetta
+4. Katy Perry
+5. Tiesto
+6. Avicii
+7. Sia
+8. The Weeknd
+9. Zedd
+10. Ellie Goulding
+11. Martin Garrix
+12. Nicki Minaj
+13. Skrillex
+14. Ariana Grande
+15. Marshmello
+16. The Chainsmokers
+17. Halsey
+18. Kygo
+19. Dua Lipa
+20. Major Lazer
+21. Steve Aoki
+22. Bebe Rexha
+23. Diplo
+24. Clean Bandit
+25. Sigala
+26. Galantis
+27. Alan Walker
+28. Axwell Λ Ingrosso
+29. Alesso
+30. Jonas Blue
+31. Krewella
+32. Afrojack
+33. Nervo
+34. Kaskade
+35. Hardwell
+36. Don Diablo
+37. Oliver Heldens
+38. R3HAB
+39. Tove Lo
+40. MØ
+41. Flume
+42. Dillon Francis
+43. Cash Cash
+44. Gryffin
+45. Lost Frequencies
+46. Jax Jones
+47. Robin Schulz
+48. Matoma
+49. Cheat Codes
+50. Kygo & Selena Gomez
+
+These recommendations are based on similar genres, popularity, and artist collaborations.

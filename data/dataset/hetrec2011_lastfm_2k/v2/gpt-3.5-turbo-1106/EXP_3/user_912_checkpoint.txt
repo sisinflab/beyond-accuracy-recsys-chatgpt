@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 912:
+
+1. Led Zeppelin
+2. Black Sabbath
+3. Queen
+4. AC/DC
+5. Aerosmith
+6. Van Halen
+7. Guns N' Roses
+8. Metallica
+9. Pink Floyd
+10. The Rolling Stones
+11. Iron Maiden
+12. Lynyrd Skynyrd
+13. Deep Purple
+14. KISS
+15. Motörhead
+16. Ozzy Osbourne
+17. Def Leppard
+18. Bon Jovi
+19. Alice Cooper
+20. Pantera
+21. Megadeth
+22. Ratt
+23. Anthrax
+24. Nirvana
+25. Rammstein
+26. Helloween
+27. HammerFall
+28. Stratovarius
+29. Children of Bodom
+30. Iced Earth
+31. Angra
+32. Manowar
+33. Rainbow
+34. Hardcore Superstar
+35. Backyard Babies
+36. Mötley Crüe
+37. Poison
+38. Mr. Big
+39. Whitesnake
+40. Skid Row
+41. Cinderella
+42. Twisted Sister
+43. Europe
+44. Boston
+45. The Beatles
+46. Elvis Presley
+47. Michael Jackson
+48. Joan Jett and the Blackhearts
+49. The 69 Eyes
+50. Toto
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists that align with their musical tastes.

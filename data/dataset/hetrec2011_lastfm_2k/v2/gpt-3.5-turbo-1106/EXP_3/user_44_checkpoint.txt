@@ -1,0 +1,54 @@
+Based on user 44's preferences, here are the top 50 recommendations for the given artists:
+
+1. The Doors
+2. Pearl Jam
+3. Bob Marley
+4. The Who
+5. Ramones
+6. John Lennon
+7. Rush
+8. The Stone Roses
+9. Bob Dylan
+10. Janis Joplin
+11. Rage Against the Machine
+12. Elvis Presley
+13. Queen
+14. The Beach Boys
+15. Oasis
+16. The Kinks
+17. George Harrison
+18. Guns N' Roses
+19. New Order
+20. Chuck Berry
+21. The Yardbirds
+22. The Smiths
+23. Jefferson Airplane
+24. Black Eyed Peas
+25. Arctic Monkeys
+26. Gorillaz
+27. The Runaways
+28. Flyleaf
+29. A Fine Frenzy
+30. The Adicts
+31. The Runaways
+32. Rammstein
+33. NOFX
+34. Amy Winehouse
+35. KISS
+36. Placebo
+37. Engenheiros do Hawaii
+38. Legião Urbana
+39. Móveis Coloniais de Acaju
+40. Carbona
+41. Angra
+42. Scorpions
+43. Regina Spektor
+44. Hanoi Rocks
+45. Bring Me The Horizon
+46. Sodom
+47. Black Sabbath
+48. A Silver Mt. Zion
+49. Blind Guardian
+50. Megadeth
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

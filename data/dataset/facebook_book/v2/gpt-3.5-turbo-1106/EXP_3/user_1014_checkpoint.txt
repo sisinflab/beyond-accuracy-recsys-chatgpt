@@ -1,0 +1,52 @@
+Based on user 1014's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. Les Liaisons dangereuses by Pierre Choderlos de Laclos
+3. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+4. And the Ass Saw the Angel by Nick Cave
+5. Lord of the Flies by William Golding
+6. A Portrait of the Artist as a Young Man by James Joyce
+7. Dune (novel) by Frank Herbert
+8. Fear and Loathing in Las Vegas by Hunter S. Thompson
+9. The Hunger Games
+10. One Hundred Years of Solitude
+11. Heart-Shaped Box (novel)
+12. Reviving Ophelia
+13. Northern Lights (novel)
+14. Of Mice and Men
+15. The Doors of Perception
+16. On the Road
+17. Jane Eyre
+18. The Giver
+19. Isaac Asimov's Robot City
+20. Dracula
+21. The Sword of Truth
+22. The Watchmen (novel)
+23. The Shadow of the Wind
+24. The Kite Runner
+25. Man's Search for Meaning
+26. At the Mountains of Madness
+27. The Metamorphosis
+28. World War Z
+29. Alice's Adventures in Wonderland
+30. Dubliners
+31. The Outsiders (novel)
+32. The Grapes of Wrath
+33. The Call of Cthulhu and Other Weird Stories
+34. The Secret Garden
+35. The Hours (novel)
+36. Fade (novel)
+37. Ender's Shadow
+38. Eric (novel)
+39. A Clockwork Orange
+40. The Trial
+41. The Da Vinci Code
+42. I Am Legend (novel)
+43. Harry Potter
+44. The Castle (novel)
+45. The Lord of the Rings
+46. The Good Earth
+47. The Catcher in the Rye
+48. D.Gray-man
+49. The Great Gatsby
+50. Ulysses (novel)

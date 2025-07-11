@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Kyuss
+2. Arctic Monkeys
+3. Black Rebel Motorcycle Club
+4. The Smashing Pumpkins
+5. Nine Inch Nails
+6. Jane's Addiction
+7. The White Stripes
+8. Primus
+9. The Black Keys
+10. System of a Down
+11. Stone Temple Pilots
+12. Pixies
+13. The Mars Volta
+14. Faith No More
+15. Alice in Chains
+16. Deftones
+17. Queens of the Stone Age
+18. Tool
+19. Nick Cave and the Bad Seeds
+20. Them Crooked Vultures
+21. Yo La Tengo
+22. Siouxsie and the Banshees
+23. A Perfect Circle
+24. Pearl Jam
+25. The Raconteurs
+26. Melvins
+27. Eddie Vedder
+28. The Brian Jonestown Massacre
+29. Muse
+30. Sonic Youth
+31. Soundgarden
+32. David Bowie
+33. Marilyn Manson
+34. Metallica
+35. Rage Against the Machine
+36. AC/DC
+37. Rammstein
+38. Pink Floyd
+39. Beck
+40. Radiohead
+41. Monster Magnet
+42. Mr. Bungle
+43. Foo Fighters
+44. Nirvana
+45. Red Hot Chili Peppers
+46. The Strokes
+47. Queensrÿche
+48. Mastodon
+49. Tool
+50. The Cure
+
+These recommendations are based on the user's liking of similar artists and genres.

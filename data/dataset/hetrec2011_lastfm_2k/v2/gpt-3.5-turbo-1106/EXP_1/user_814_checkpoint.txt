@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Taylor Swift
+2. Selena Gomez
+3. Katy Perry
+4. Ariana Grande
+5. One Direction
+6. Ed Sheeran
+7. Taylor Momsen
+8. The Veronicas
+9. 5 Seconds of Summer
+10. Halsey
+11. The Pretty Reckless
+12. P!nk
+13. Kelly Clarkson
+14. The All-American Rejects
+15. The Fray
+16. Simple Plan
+17. Good Charlotte
+18. The Offspring
+19. Sum 41
+20. Yellowcard
+21. My Chemical Romance
+22. 30 Seconds to Mars
+23. The Used
+24. Taking Back Sunday
+25. Jimmy Eat World
+26. Dashboard Confessional
+27. New Found Glory
+28. All American Rejects
+29. The Academy Is...
+30. Cobra Starship
+31. The Cab
+32. Mayday Parade
+33. Boys Like Girls
+34. We the Kings
+35. The Maine
+36. Forever the Sickest Kids
+37. Cute Is What We Aim For
+38. The Red Jumpsuit Apparatus
+39. Cartel
+40. Every Avenue
+41. The Starting Line
+42. Motion City Soundtrack
+43. Something Corporate
+44. Jack's Mannequin
+45. The Rocket Summer
+46. Valencia
+47. Anberlin
+48. The Early November
+49. The Spill Canvas
+50. Mae
+
+These recommendations are based on the user's liking of similar artists and genres.

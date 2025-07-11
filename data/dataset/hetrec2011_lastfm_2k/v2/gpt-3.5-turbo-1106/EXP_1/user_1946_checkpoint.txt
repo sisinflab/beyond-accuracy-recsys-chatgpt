@@ -1,0 +1,54 @@
+Based on user 1946's preferences, here are the top 50 recommendations:
+
+1. Enya
+2. Enigma
+3. Sia
+4. Lana Del Rey
+5. Florence + The Machine
+6. Ellie Goulding
+7. Adele
+8. Lana Lane
+9. Delerium
+10. Evanescence
+11. Tori Amos
+12. Dido
+13. The Cranberries
+14. Sarah McLachlan
+15. Alanis Morissette
+16. Imogen Heap
+17. Kate Bush
+18. Portishead
+19. Frou Frou
+20. The Corrs
+21. The Cardigans
+22. Garbage
+23. Hooverphonic
+24. La Roux
+25. Lykke Li
+26. Bat for Lashes
+27. The xx
+28. London Grammar
+29. CHVRCHES
+30. Halsey
+31. Tove Lo
+32. Zola Jesus
+33. Grimes
+34. Purity Ring
+35. BANKS
+36. Aurora
+37. Lorde
+38. Birdy
+39. Marina and the Diamonds
+40. Haim
+41. Charli XCX
+42. Tegan and Sara
+43. Metric
+44. Phantogram
+45. CHVRCHES
+46. Broods
+47. M83
+48. The Naked and Famous
+49. CHVRCHES
+50. Purity Ring
+
+These recommendations are based on the similar musical styles and genres of the artists liked by user 1946.

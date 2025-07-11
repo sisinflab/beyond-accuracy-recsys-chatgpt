@@ -1,0 +1,54 @@
+Based on the preferences of user 104, here are the top 50 book recommendations:
+
+1. The Notebook by Nicholas Sparks
+2. A Walk to Remember by Nicholas Sparks
+3. The Last Song by Nicholas Sparks
+4. The Lucky One by Nicholas Sparks
+5. Safe Haven by Nicholas Sparks
+6. The Best of Me by Nicholas Sparks
+7. Message in a Bottle by Nicholas Sparks
+8. Nights in Rodanthe by Nicholas Sparks
+9. The Choice by Nicholas Sparks
+10. True Believer by Nicholas Sparks
+11. At First Sight by Nicholas Sparks
+12. The Guardian by Nicholas Sparks
+13. The Wedding by Nicholas Sparks
+14. The Rescue by Nicholas Sparks
+15. The Longest Ride by Nicholas Sparks
+16. The Return by Nicholas Sparks
+17. The Great Gatsby by F. Scott Fitzgerald
+18. To Kill a Mockingbird by Harper Lee
+19. The Catcher in the Rye by J.D. Salinger
+20. 1984 by George Orwell
+21. Animal Farm by George Orwell
+22. The Alchemist by Paulo Coelho
+23. The Kite Runner by Khaled Hosseini
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. And the Mountains Echoed by Khaled Hosseini
+26. The Hunger Games by Suzanne Collins
+27. Catching Fire by Suzanne Collins
+28. Mockingjay by Suzanne Collins
+29. Divergent by Veronica Roth
+30. Insurgent by Veronica Roth
+31. Allegiant by Veronica Roth
+32. The Fault in Our Stars by John Green
+33. Looking for Alaska by John Green
+34. Paper Towns by John Green
+35. An Abundance of Katherines by John Green
+36. Turtles All the Way Down by John Green
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. Me Before You by Jojo Moyes
+39. After You by Jojo Moyes
+40. Still Me by Jojo Moyes
+41. The Girl on the Train by Paula Hawkins
+42. Gone Girl by Gillian Flynn
+43. Sharp Objects by Gillian Flynn
+44. Dark Places by Gillian Flynn
+45. Big Little Lies by Liane Moriarty
+46. The Husband's Secret by Liane Moriarty
+47. Truly Madly Guilty by Liane Moriarty
+48. Nine Perfect Strangers by Liane Moriarty
+49. The Hypnotist's Love Story by Liane Moriarty
+50. What Alice Forgot by Liane Moriarty
+
+These recommendations are based on the authors and genres of the books that user 104 likes.

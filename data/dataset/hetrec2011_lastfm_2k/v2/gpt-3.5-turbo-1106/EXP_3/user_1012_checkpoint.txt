@@ -1,0 +1,54 @@
+Based on user 1012's preferences, here are the top 50 recommendations for the given artists:
+
+1. Radiohead
+2. The Beatles
+3. Red Hot Chili Peppers
+4. The Killers
+5. Depeche Mode
+6. Gorillaz
+7. Oasis
+8. System of a Down
+9. The Strokes
+10. The Smashing Pumpkins
+11. Tool
+12. Incubus
+13. Bloc Party
+14. Death Cab for Cutie
+15. Franz Ferdinand
+16. Keane
+17. The Pretty Reckless
+18. Audioslave
+19. Florence + the Machine
+20. Arctic Monkeys
+21. Nickelback
+22. Garbage
+23. The GazettE
+24. Skinny Puppy
+25. Slipknot
+26. Korn
+27. Nightwish
+28. P.O.D.
+29. Mr. Bungle
+30. Mindless Self Indulgence
+31. In Flames
+32. Enter Shikari
+33. Simple Plan
+34. The Smashing Pumpkins
+35. Lady Gaga
+36. Christina Aguilera
+37. Beyoncé
+38. Katy Perry
+39. Britney Spears
+40. Michael Jackson
+41. Kid Cudi
+42. Kanye West
+43. Jack Johnson
+44. Adam Lambert
+45. Glee Cast
+46. Noize MC
+47. Linkin Park
+48. Sopor Aeternus & The Ensemble of Shadows
+49. Психея
+50. David Gray
+
+These recommendations are based on similar genres and artist preferences to those that user 1012 enjoys.

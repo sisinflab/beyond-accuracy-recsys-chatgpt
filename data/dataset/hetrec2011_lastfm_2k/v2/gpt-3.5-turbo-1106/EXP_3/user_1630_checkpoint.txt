@@ -1,0 +1,54 @@
+Based on user 1630's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Nirvana
+2. Pearl Jam
+3. Alice in Chains
+4. The Smashing Pumpkins
+5. Kings of Leon
+6. The Strokes
+7. Red Hot Chili Peppers
+8. Muse
+9. The Rolling Stones
+10. The Beatles
+11. Pink Floyd
+12. Oasis
+13. The Cure
+14. Radiohead
+15. Depeche Mode
+16. Joy Division
+17. Queen
+18. The Stone Roses
+19. Arcade Fire
+20. Coldplay
+21. The xx
+22. Phoenix
+23. The Cardigans
+24. Stereophonics
+25. The Fray
+26. Band of Horses
+27. The Temper Trap
+28. Kings of Convenience
+29. Bat for Lashes
+30. Mew
+31. Slowdive
+32. Portishead
+33. PJ Harvey
+34. Röyksopp
+35. Black Rebel Motorcycle Club
+36. Sonic Youth
+37. Tool
+38. Frank Sinatra
+39. Alanis Morissette
+40. Ani DiFranco
+41. Tori Amos
+42. Feist
+43. Sia
+44. Beirut
+45. Metronomy
+46. She & Him
+47. Timbaland
+48. Incubus
+49. John Mayer
+50. Eric Clapton
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for them to explore.

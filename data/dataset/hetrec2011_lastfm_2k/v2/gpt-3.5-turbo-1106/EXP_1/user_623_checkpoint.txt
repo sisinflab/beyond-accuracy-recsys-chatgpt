@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. Led Zeppelin
+3. The Doors
+4. Tame Impala
+5. Steven Wilson
+6. David Bowie
+7. Cream
+8. The Velvet Underground
+9. King Gizzard & The Lizard Wizard
+10. Jethro Tull
+11. The Mars Volta
+12. Porcupine Tree
+13. Radiohead
+14. King Crimson
+15. The Beatles
+16. Os Mutantes
+17. Deep Purple
+18. Muse
+19. Tool
+20. Opeth
+21. Jeff Buckley
+22. Anathema
+23. Silverchair
+24. Genesis
+25. Elliott Smith
+26. Yes
+27. Deftones
+28. Nirvana
+29. Antônio Carlos Jobim
+30. Sonic Youth
+31. Pixies
+32. Emerson, Lake & Palmer
+33. The Smashing Pumpkins
+34. Rush
+35. Frank Zappa
+36. Riverside
+37. Alice in Chains
+38. Blur
+39. Placebo
+40. Blackfield
+41. Grand Funk Railroad
+42. Portishead
+43. Gentle Giant
+44. Mastodon
+45. Pink Floyd
+46. Led Zeppelin
+47. The Doors
+48. Tame Impala
+49. Steven Wilson
+50. David Bowie
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and bands that align with their current tastes.

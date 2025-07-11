@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Explosions in the Sky
+2. Godspeed You! Black Emperor
+3. Yann Tiersen
+4. Philip Glass
+5. Max Richter
+6. Ólafur Arnalds
+7. Nils Frahm
+8. Ludovico Einaudi
+9. Arvo Pärt
+10. Johann Pachelbel
+11. Ludovico Einaudi
+12. Ólafur Arnalds
+13. Max Richter
+14. Yann Tiersen
+15. Philip Glass
+16. Godspeed You! Black Emperor
+17. Explosions in the Sky
+18. Ólafur Arnalds
+19. Nils Frahm
+20. Max Richter
+21. Yann Tiersen
+22. Ludovico Einaudi
+23. Arvo Pärt
+24. Johann Pachelbel
+25. Ólafur Arnalds
+26. Max Richter
+27. Nils Frahm
+28. Yann Tiersen
+29. Philip Glass
+30. Godspeed You! Black Emperor
+31. Explosions in the Sky
+32. Ólafur Arnalds
+33. Max Richter
+34. Ludovico Einaudi
+35. Arvo Pärt
+36. Johann Pachelbel
+37. Ólafur Arnalds
+38. Max Richter
+39. Nils Frahm
+40. Yann Tiersen
+41. Philip Glass
+42. Godspeed You! Black Emperor
+43. Explosions in the Sky
+44. Ólafur Arnalds
+45. Max Richter
+46. Ludovico Einaudi
+47. Arvo Pärt
+48. Johann Pachelbel
+49. Ólafur Arnalds
+50. Max Richter

@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Radiohead
+2. The Beatles
+3. Björk
+4. Daft Punk
+5. Blur
+6. Sigur Rós
+7. Portishead
+8. Arcade Fire
+9. Thom Yorke
+10. The White Stripes
+11. Animal Collective
+12. Grizzly Bear
+13. Caribou
+14. The Decemberists
+15. Beirut
+16. Sufjan Stevens
+17. Devendra Banhart
+18. LCD Soundsystem
+19. Talking Heads
+20. Pulp
+21. Supergrass
+22. Broken Social Scene
+23. Deerhunter
+24. The Jimi Hendrix Experience
+25. Bat for Lashes
+26. Belle and Sebastian
+27. The Mountain Goats
+28. Andrew Bird
+29. The Killers
+30. Nirvana
+31. Coldplay
+32. Arctic Monkeys
+33. Muse
+34. Pink Floyd
+35. Lady Gaga
+36. Madonna
+37. Rihanna
+38. Britney Spears
+39. Christina Aguilera
+40. Shakira
+41. Katy Perry
+42. Avril Lavigne
+43. Taylor Swift
+44. Paramore
+45. Beyoncé
+46. Miley Cyrus
+47. Glee Cast
+48. U2
+49. 30 Seconds to Mars
+50. Evanescence
+
+This re-ranked list is based on the user's liking of similar artists and may help in providing relevant recommendations.

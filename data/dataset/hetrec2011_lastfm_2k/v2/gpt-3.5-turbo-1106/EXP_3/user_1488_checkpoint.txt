@@ -1,0 +1,54 @@
+Based on user 1488's preferences, here are the top 50 recommendations for the given artists:
+
+1. Metallica
+2. Black Sabbath
+3. AC/DC
+4. Led Zeppelin
+5. Alice in Chains
+6. Nirvana
+7. Megadeth
+8. Iron Maiden
+9. Guns N' Roses
+10. Pink Floyd
+11. System of a Down
+12. Slayer
+13. Pantera
+14. Dream Theater
+15. Lamb of God
+16. Opeth
+17. Symphony X
+18. Faith No More
+19. Yngwie Malmsteen
+20. Joe Satriani
+21. Machine Head
+22. Sepultura
+23. Municipal Waste
+24. KISS
+25. Aerosmith
+26. Skid Row
+27. Bon Jovi
+28. Interpol
+29. Alestorm
+30. Sonata Arctica
+31. Devin Townsend
+32. Destruction
+33. The Jimi Hendrix Experience
+34. Rammstein
+35. Capital Inicial
+36. Katatonia
+37. King Diamond
+38. Judas Priest
+39. Helloween
+40. Red Hot Chili Peppers
+41. The Police
+42. Kreator
+43. Soilwork
+44. Anthrax
+45. Mötley Crüe
+46. blink-182
+47. Bruce Dickinson
+48. Ramones
+49. Motörhead
+50. Kamelot
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists within the rock and metal genres.

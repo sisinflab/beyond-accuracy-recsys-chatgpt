@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Imagine Dragons
+2. Foo Fighters
+3. Red Hot Chili Peppers
+4. Paramore
+5. Green Day
+6. Fall Out Boy
+7. Kings of Leon
+8. The Fray
+9. Panic! At The Disco
+10. Florence + The Machine
+11. The Script
+12. OneRepublic
+13. Maroon 5
+14. The 1975
+15. Bastille
+16. The Neighbourhood
+17. Twenty One Pilots
+18. Hozier
+19. The Black Keys
+20. Vampire Weekend
+21. Foster The People
+22. Arctic Monkeys
+23. Muse
+24. U2
+25. Oasis
+26. Hadouken!
+27. Lifehouse
+28. Taylor Swift
+29. The Strokes
+30. t.A.T.u.
+31. Bon Jovi
+32. Linkin Park
+33. The Killers
+34. The Pretty Reckless
+35. Coldplay
+36. Radiohead
+37. the GazettE
+38. Avril Lavigne
+39. Fresno
+40. Breaking Benjamin
+41. nevershoutnever!
+42. The Saturdays
+43. My Chemical Romance
+44. All Time Low
+45. Adam Lambert
+46. City and Colour
+47. Tokio Hotel
+48. Alesana
+49. Eyes Set to Kill
+50. Cinema Bizarre
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music that aligns with their preferences.

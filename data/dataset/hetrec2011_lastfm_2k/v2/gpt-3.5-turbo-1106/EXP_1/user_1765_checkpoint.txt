@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Marina and the Diamonds
+2. Lana Del Rey
+3. Lorde
+4. Haim
+5. Tove Lo
+6. Charli XCX
+7. CHVRCHES
+8. The 1975
+9. Bastille
+10. Halsey
+11. The Weeknd
+12. Sia
+13. Zara Larsson
+14. Dua Lipa
+15. Years & Years
+16. Sam Smith
+17. Ellie Goulding
+18. M83
+19. The xx
+20. Vampire Weekend
+21. Two Door Cinema Club
+22. The Strokes
+23. Arctic Monkeys
+24. The Killers
+25. Imagine Dragons
+26. Foster the People
+27. Florence + the Machine
+28. Kings of Leon
+29. The Black Keys
+30. Arctic Monkeys
+31. The Neighbourhood
+32. Cage the Elephant
+33. The Lumineers
+34. Mumford & Sons
+35. Of Monsters and Men
+36. Florence + the Machine
+37. The Head and the Heart
+38. The War on Drugs
+39. Alt-J
+40. Portugal. The Man
+41. Tame Impala
+42. Foals
+43. Glass Animals
+44. MGMT
+45. Phoenix
+46. Passion Pit
+47. Empire of the Sun
+48. Miike Snow
+49. Grouplove
+50. Young the Giant
+
+These recommendations are based on the user's liking of similar artists and genres.

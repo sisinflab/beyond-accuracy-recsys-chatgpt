@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. Delirium by Lauren Oliver
+6. Legend by Marie Lu
+7. The Selection by Kiera Cass
+8. Matched by Ally Condie
+9. Cinder by Marissa Meyer
+10. Red Queen by Victoria Aveyard
+11. The 5th Wave by Rick Yancey
+12. The Darkest Minds by Alexandra Bracken
+13. Shatter Me by Tahereh Mafi
+14. The Knife of Never Letting Go by Patrick Ness
+15. The Testing by Joelle Charbonneau
+16. The Uglies Series by Scott Westerfeld
+17. Paper Towns by John Green
+18. Will Grayson, Will Grayson by John Green and David Levithan
+19. Turtles All the Way Down by John Green
+20. The Fault in Our Stars by John Green
+21. Thirteen Reasons Why by Jay Asher
+22. If I Stay by Gayle Forman
+23. Before I Fall by Lauren Oliver
+24. We Were Liars by E. Lockhart
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. Speak by Laurie Halse Anderson
+27. Thirteen Little Blue Envelopes by Maureen Johnson
+28. The Book Thief by Markus Zusak
+29. All the Bright Places by Jennifer Niven
+30. Eleanor & Park by Rainbow Rowell
+31. Fangirl by Rainbow Rowell
+32. Simon vs. the Homo Sapiens Agenda by Becky Albertalli
+33. Aristotle and Dante Discover the Secrets of the Universe by Benjamin Alire Sáenz
+34. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+35. The Hate U Give by Angie Thomas
+36. To All the Boys I've Loved Before by Jenny Han
+37. Anna and the French Kiss by Stephanie Perkins
+38. The Sun Is Also a Star by Nicola Yoon
+39. Everything, Everything by Nicola Yoon
+40. The Astonishing Color of After by Emily X.R. Pan
+41. I'll Give You the Sun by Jandy Nelson
+42. The Sky Is Everywhere by Jandy Nelson
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. The Catcher in the Rye by J.D. Salinger
+45. Looking for Alaska by John Green
+46. An Abundance of Katherines by John Green
+47. Paper Towns by John Green
+48. Turtles All the Way Down by John Green
+49. Will Grayson, Will Grayson by John Green and David Levithan
+50. Let It Snow by John Green, Maureen Johnson, and Lauren Myracle
+
+These recommendations are based on the user's interest in young adult fiction, coming-of-age stories, and contemporary literature.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Portishead
+2. Garbage
+3. The Cardigans
+4. Goldfrapp
+5. Moloko
+6. La Roux
+7. Lily Allen
+8. Robyn
+9. Moby
+10. The Prodigy
+11. Massive Attack
+12. Gorillaz
+13. The Knife
+14. Grimes
+15. CHVRCHES
+16. Tove Lo
+17. Lykke Li
+18. Santigold
+19. Florence + The Machine
+20. Lana Del Rey
+21. HAIM
+22. Lorde
+23. Charli XCX
+24. St. Vincent
+25. FKA twigs
+26. Christine and the Queens
+27. Aurora
+28. Marina and the Diamonds
+29. Carly Rae Jepsen
+30. Tegan and Sara
+31. Metric
+32. Yeah Yeah Yeahs
+33. Sleater-Kinney
+34. Bikini Kill
+35. The Breeders
+36. Hole
+37. PJ Harvey
+38. Liz Phair
+39. Alanis Morissette
+40. No Doubt
+41. Gwen Stefani
+42. The Cranberries
+43. The Corrs
+44. Sheryl Crow
+45. Natalie Imbruglia
+46. Jewel
+47. Sarah McLachlan
+48. Dido
+49. Nelly Furtado
+50. Vanessa Carlton
+
+These recommendations are based on similar music genres and artists liked by the user.

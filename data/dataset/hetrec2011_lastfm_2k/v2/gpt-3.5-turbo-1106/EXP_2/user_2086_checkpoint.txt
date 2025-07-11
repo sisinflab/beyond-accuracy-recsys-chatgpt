@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Radiohead
+2. Muse
+3. The Beatles
+4. Pink Floyd
+5. Nirvana
+6. The Killers
+7. Coldplay
+8. Depeche Mode
+9. Lady Gaga
+10. Madonna
+11. The White Stripes
+12. The Dead Weather
+13. IAMX
+14. Kasabian
+15. The Raconteurs
+16. Yeah Yeah Yeahs
+17. MGMT
+18. The Mars Volta
+19. Bloc Party
+20. The Horrors
+21. Crystal Castles
+22. Gossip
+23. Hurts
+24. Late of the Pier
+25. The Kills
+26. Klaxons
+27. We Are Scientists
+28. Patrick Wolf
+29. Aqualung
+30. Wolfmother
+31. Sneaker Pimps
+32. Christina Aguilera
+33. Rihanna
+34. Beyoncé
+35. U2
+36. Katy Perry
+37. Paramore
+38. Avril Lavigne
+39. Taylor Swift
+40. Evanescence
+41. Glee Cast
+42. 30 Seconds to Mars
+43. Kylie Minogue
+44. Miley Cyrus
+45. Ke$ha
+46. Duran Duran
+47. Blur
+48. Arctic Monkeys
+49. Placebo
+50. Metallica
+
+This re-ranked list takes into account the user's liking for similar artists and suggests other artists that they might enjoy based on their preferences.

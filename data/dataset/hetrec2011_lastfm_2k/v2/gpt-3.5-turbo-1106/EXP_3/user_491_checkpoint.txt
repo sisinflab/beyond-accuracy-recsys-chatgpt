@@ -1,0 +1,54 @@
+Based on user 491's preferences, here are the top-50 recommendations for the given artists:
+
+1. Mastodon
+2. Sepultura
+3. The Jimi Hendrix Experience
+4. Scorpions
+5. King Crimson
+6. Def Leppard
+7. Interpol
+8. A Perfect Circle
+9. Blue Öyster Cult
+10. Alice in Chains
+11. Alice Cooper
+12. The Dillinger Escape Plan
+13. The Rolling Stones
+14. Frank Zappa
+15. Helloween
+16. AC/DC
+17. Napalm Death
+18. Machine Head
+19. Pearl Jam
+20. Apocalyptica
+21. Sodom
+22. Michael Jackson
+23. Guns N' Roses
+24. Massive Attack
+25. Nirvana
+26. In Flames
+27. Destruction
+28. Opeth
+29. Children of Bodom
+30. Red Hot Chili Peppers
+31. The Beatles
+32. Jimi Hendrix
+33. Rammstein
+34. Placebo
+35. The Black Keys
+36. Annihilator
+37. Anathema
+38. Skid Row
+39. Twisted Sister
+40. Dark Tranquillity
+41. HIM
+42. Tool
+43. Millencolin
+44. The Smashing Pumpkins
+45. System of a Down
+46. Jethro Tull
+47. Matanza
+48. Exodus
+49. Soilwork
+50. King Diamond
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists that align with their current tastes.

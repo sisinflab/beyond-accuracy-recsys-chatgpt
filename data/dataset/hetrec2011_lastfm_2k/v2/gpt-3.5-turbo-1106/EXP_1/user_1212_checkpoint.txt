@@ -1,0 +1,54 @@
+Based on user 1212's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. Muse
+3. Coldplay
+4. The Strokes
+5. Modest Mouse
+6. Interpol
+7. The Shins
+8. Vampire Weekend
+9. Phoenix
+10. The Black Keys
+11. Spoon
+12. The Flaming Lips
+13. Bloc Party
+14. The National
+15. Kings of Leon
+16. The Decemberists
+17. LCD Soundsystem
+18. Weezer
+19. The Kooks
+20. Franz Ferdinand
+21. The Hives
+22. The Vines
+23. The Bravery
+24. The Raconteurs
+25. The White Lies
+26. The Wombats
+27. The Vaccines
+28. The Libertines
+29. The Fratellis
+30. The Kooks
+31. The 1975
+32. Two Door Cinema Club
+33. Foster the People
+34. The Killers
+35. The Postal Service
+36. Death Cab for Cutie
+37. The Smashing Pumpkins
+38. The New Pornographers
+39. Tegan and Sara
+40. CAKE
+41. Garbage
+42. Deftones
+43. Oasis
+44. Yeah Yeah Yeahs
+45. Gorillaz
+46. Jet
+47. Scissor Sisters
+48. Franz Ferdinand
+49. Radiohead
+50. Beck
+
+These recommendations are based on the user's existing preferences and are aimed at providing similar artists that they may enjoy.

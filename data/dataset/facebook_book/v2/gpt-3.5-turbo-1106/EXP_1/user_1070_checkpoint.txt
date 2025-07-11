@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. On the Road by Jack Kerouac
+2. The Catcher in the Rye by J.D. Salinger
+3. One Flew Over the Cuckoo's Nest by Ken Kesey
+4. The Bell Jar by Sylvia Plath
+5. A Clockwork Orange by Anthony Burgess
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Electric Kool-Aid Acid Test by Tom Wolfe
+8. The Dharma Bums by Jack Kerouac
+9. The Sun Also Rises by Ernest Hemingway
+10. Less Than Zero by Bret Easton Ellis
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. The Road by Cormac McCarthy
+13. Into the Wild by Jon Krakauer
+14. The Virgin Suicides by Jeffrey Eugenides
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Stranger by Albert Camus
+17. The Road to Los Angeles by John Fante
+18. The Basketball Diaries by Jim Carroll
+19. The Secret History by Donna Tartt
+20. The Grapes of Wrath by John Steinbeck
+21. A Farewell to Arms by Ernest Hemingway
+22. The Old Man and the Sea by Ernest Hemingway
+23. The Sun Also Rises by Ernest Hemingway
+24. The Beautiful and Damned by F. Scott Fitzgerald
+25. The Sound and the Fury by William Faulkner
+26. The Crying of Lot 49 by Thomas Pynchon
+27. The Big Sleep by Raymond Chandler
+28. The Maltese Falcon by Dashiell Hammett
+29. The Long Goodbye by Raymond Chandler
+30. The Postman Always Rings Twice by James M. Cain
+31. The Day of the Locust by Nathanael West
+32. The Great Shark Hunt by Hunter S. Thompson
+33. Hell's Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs by Hunter S. Thompson
+34. The Electric Kool-Aid Acid Test by Tom Wolfe
+35. The Doors of Perception by Aldous Huxley
+36. The Teachings of Don Juan: A Yaqui Way of Knowledge by Carlos Castaneda
+37. The Electric Acid Kool-Aid Test by Tom Wolfe
+38. The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead by Timothy Leary, Ralph Metzner, and Richard Alpert
+39. The Doors of Perception and Heaven and Hell by Aldous Huxley
+40. The Teachings of Don Juan: A Yaqui Way of Knowledge by Carlos Castaneda
+41. The Electric Kool-Aid Acid Test by Tom Wolfe
+42. The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead by Timothy Leary, Ralph Metzner, and Richard Alpert
+43. The Doors of Perception and Heaven and Hell by Aldous Huxley
+44. The Teachings of Don Juan: A Yaqui Way of Knowledge by Carlos Castaneda
+45. The Electric Kool-Aid Acid Test by Tom Wolfe
+46. The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead by Timothy Leary, Ralph Metzner, and Richard Alpert
+47. The Doors of Perception and Heaven and Hell by Aldous Huxley
+48. The Teachings of Don Juan: A Yaqui Way of Knowledge by Carlos Castaneda
+49. The Electric Kool-Aid Acid Test

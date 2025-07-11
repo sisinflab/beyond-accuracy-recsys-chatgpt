@@ -1,0 +1,54 @@
+Based on the user's preferences for metal and rock bands, here are the re-ranked top-50 recommendations:
+
+1. Black Sabbath
+2. Iron Maiden
+3. Megadeth
+4. Slayer
+5. Metallica
+6. Judas Priest
+7. Opeth
+8. Death
+9. Behemoth
+10. Testament
+11. Vader
+12. Sepultura
+13. Dimmu Borgir
+14. Bathory
+15. Immortal
+16. Hypocrisy
+17. Marduk
+18. Cannibal Corpse
+19. Ozzy Osbourne
+20. Led Zeppelin
+21. Soundgarden
+22. Queens of the Stone Age
+23. The Smashing Pumpkins
+24. The Doors
+25. Pink Floyd
+26. Rush
+27. Anathema
+28. Deftones
+29. Red Hot Chili Peppers
+30. Them Crooked Vultures
+31. Nick Cave and the Bad Seeds
+32. System of a Down
+33. Korn
+34. Dream Theater
+35. Porcupine Tree
+36. Riverside
+37. Linkin Park
+38. A Perfect Circle
+39. Faith No More
+40. Muse
+41. Our Lady Peace
+42. Pearl Jam
+43. Alice in Chains
+44. Green Day
+45. The Cranberries
+46. U2
+47. R.E.M.
+48. Coldplay
+49. Blue October
+50. Switchfoot
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended artists to the ones the user already likes.

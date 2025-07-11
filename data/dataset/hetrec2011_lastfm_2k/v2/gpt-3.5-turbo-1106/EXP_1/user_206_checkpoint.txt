@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. Franz Ferdinand
+3. Kasabian
+4. The Killers
+5. Muse
+6. Florence + The Machine
+7. The Black Keys
+8. Tame Impala
+9. The Kooks
+10. Foals
+11. Vampire Weekend
+12. The Arctic Monkeys
+13. The Libertines
+14. The White Stripes
+15. The Raconteurs
+16. The Hives
+17. The Vines
+18. The Fratellis
+19. The Wombats
+20. The Vaccines
+21. The 1975
+22. The Neighbourhood
+23. The Kooks
+24. The Fratellis
+25. The Wombats
+26. The Vaccines
+27. The 1975
+28. The Neighbourhood
+29. The Kooks
+30. The Fratellis
+31. The Wombats
+32. The Vaccines
+33. The 1975
+34. The Neighbourhood
+35. The Kooks
+36. The Fratellis
+37. The Wombats
+38. The Vaccines
+39. The 1975
+40. The Neighbourhood
+41. The Kooks
+42. The Fratellis
+43. The Wombats
+44. The Vaccines
+45. The 1975
+46. The Neighbourhood
+47. The Kooks
+48. The Fratellis
+49. The Wombats
+50. The Vaccines
+
+These recommendations are based on the user's liking of similar artists and genres.

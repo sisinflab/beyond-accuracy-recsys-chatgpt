@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. Radiohead
+2. Muse
+3. The Killers
+4. Coldplay
+5. Nine Inch Nails
+6. Nirvana
+7. Arctic Monkeys
+8. Queens of the Stone Age
+9. Franz Ferdinand
+10. Beck
+11. Interpol
+12. The Strokes
+13. Joy Division
+14. Kings of Leon
+15. Mew
+16. Supergrass
+17. Kyuss
+18. Kaiser Chiefs
+19. The Sounds
+20. Elliott Smith
+21. Arcade Fire
+22. At the Drive-In
+23. David Bowie
+24. Los Hermanos
+25. Moptop
+26. The Hellacopters
+27. Backyard Babies
+28. Jimmy Eat World
+29. The Mars Volta
+30. Albert Hammond, Jr.
+31. The Beatles
+32. Depeche Mode
+33. Lady Gaga
+34. Madonna
+35. U2
+36. Pink Floyd
+37. Michael Jackson
+38. Pearl Jam
+39. System of a Down
+40. Daft Punk
+41. Linkin Park
+42. Avenged Sevenfold
+43. My Chemical Romance
+44. Green Day
+45. The Cure
+46. Paramore
+47. Avril Lavigne
+48. Christina Aguilera
+49. Katy Perry
+50. Rihanna
+
+This re-ranked list is based on the user's liking of similar artists and may provide a better match for their preferences.

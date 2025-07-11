@@ -1,0 +1,54 @@
+Based on user 149's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. The Beatles
+3. Coldplay
+4. Radiohead
+5. Arctic Monkeys
+6. The Who
+7. The Kooks
+8. The All-American Rejects
+9. Sum 41
+10. Bowling for Soup
+11. The Maine
+12. The Veronicas
+13. The Birthday Massacre
+14. McFly
+15. Flyleaf
+16. The Subways
+17. Los Hermanos
+18. The Runaways
+19. Joan Jett and the Blackhearts
+20. Death Cab for Cutie
+21. The Cure
+22. Placebo
+23. Three Days Grace
+24. System of a Down
+25. Papa Roach
+26. Slipknot
+27. Funeral for a Friend
+28. Incubus
+29. Green Day
+30. Foo Fighters
+31. The Smashing Pumpkins
+32. Good Charlotte
+33. All Time Low
+34. Automatic Loveletter
+35. 30 Seconds to Mars
+36. Lifehouse
+37. Within Temptation
+38. Evanescence
+39. Cinema Bizarre
+40. Paramore
+41. t.A.T.u.
+42. Pink
+43. P!nk
+44. Katy Perry
+45. Adele
+46. MGMT
+47. Lady Gaga
+48. YUI
+49. Dido
+50. Ray Charles
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

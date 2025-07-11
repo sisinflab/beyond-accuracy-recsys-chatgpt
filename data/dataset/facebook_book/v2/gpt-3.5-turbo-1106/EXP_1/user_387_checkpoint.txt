@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+2. The Book Thief by Markus Zusak
+3. The Giver by Lois Lowry
+4. Holes by Louis Sachar
+5. The Lightning Thief by Rick Riordan
+6. The Hunger Games by Suzanne Collins
+7. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+8. Wonder by R.J. Palacio
+9. The Fault in Our Stars by John Green
+10. Hatchet by Gary Paulsen
+11. The Maze Runner by James Dashner
+12. The Outsiders by S.E. Hinton
+13. Bridge to Terabithia by Katherine Paterson
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Perks of Being a Wallflower by Stephen Chbosky
+16. The Secret Garden by Frances Hodgson Burnett
+17. The Alchemist by Paulo Coelho
+18. The Catcher in the Rye by J.D. Salinger
+19. To Kill a Mockingbird by Harper Lee
+20. The Hobbit by J.R.R. Tolkien
+21. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+22. The Little Prince by Antoine de Saint-Exupéry
+23. The Kite Runner by Khaled Hosseini
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Help by Kathryn Stockett
+26. The Night Circus by Erin Morgenstern
+27. The Goldfinch by Donna Tartt
+28. The Martian by Andy Weir
+29. The Handmaid's Tale by Margaret Atwood
+30. The Great Gatsby by F. Scott Fitzgerald
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Road by Cormac McCarthy
+33. The Bell Jar by Sylvia Plath
+34. The Sun Also Rises by Ernest Hemingway
+35. The Catcher in the Rye by J.D. Salinger
+36. The Old Man and the Sea by Ernest Hemingway
+37. The Grapes of Wrath by John Steinbeck
+38. The Color Purple by Alice Walker
+39. The Joy Luck Club by Amy Tan
+40. The Glass Castle by Jeannette Walls
+41. The Poisonwood Bible by Barbara Kingsolver
+42. The Lovely Bones by Alice Sebold
+43. The Secret Life of Bees by Sue Monk Kidd
+44. The Namesake by Jhumpa Lahiri
+45. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+46. The House on Mango Street by Sandra Cisneros
+47. The Book of Unknown Americans by Cristina Henríquez
+48. The Round House by Louise Erdrich
+49. The Invention of Wings by Sue Monk Kidd
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's interest in fiction, coming-of-age stories, and diverse characters and settings.

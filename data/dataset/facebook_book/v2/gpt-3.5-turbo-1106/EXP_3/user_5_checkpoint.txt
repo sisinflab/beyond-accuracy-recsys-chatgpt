@@ -1,0 +1,54 @@
+Based on user 5's preferences, here are the top-50 recommendations re-ranked for them:
+
+1. The Great Gatsby
+2. The Catcher in the Rye
+3. To Kill a Mockingbird
+4. The Picture of Dorian Gray
+5. Frankenstein
+6. Crime and Punishment
+7. The Grapes of Wrath
+8. The Boy in the Striped Pyjamas
+9. The Phantom of the Opera
+10. Of Mice and Men
+11. The Scarlet Letter
+12. Strange Case of Dr Jekyll and Mr Hyde
+13. Invisible Man
+14. The Giver
+15. Lady Chatterley's Lover
+16. Walden
+17. The Stand
+18. Madame Bovary
+19. Johnny Got His Gun
+20. Sun Bin's Art of War
+21. Persuasion (novel)
+22. The Book Thief
+23. The Umbrella Academy
+24. Persepolis (comics)
+25. The Princess Bride
+26. Maximum Ride
+27. Tropic of Cancer (novel)
+28. Aztec (novel)
+29. Inferno (Dante)
+30. Will Grayson, Will Grayson
+31. Alice's Adventures in Wonderland
+32. Breaking Point (novel)
+33. Around the World in Eighty Days
+34. Lilith (novel)
+35. Cannery Row (novel)
+36. Jane Eyre
+37. The Hamlet
+38. The Gold Bug Variations
+39. Blood and Chocolate (novel)
+40. On the Road
+41. The Outsiders (novel)
+42. A Light in the Attic
+43. Oxford English Dictionary
+44. Go Ask Alice
+45. Zen and the Art of Motorcycle Maintenance
+46. A Clockwork Orange
+47. The Wanderers (Price novel)
+48. As I Lay Dying (novel)
+49. Mansfield Park
+50. Absolutely Normal Chaos
+
+These recommendations are based on the user's previous likes and are tailored to their specific tastes.

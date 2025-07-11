@@ -1,0 +1,54 @@
+Based on user 930's preferences, here are the top 50 recommendations for the given artists:
+
+1. Arctic Monkeys
+2. 30 Seconds to Mars
+3. Skillet
+4. Placebo
+5. Evanescence
+6. Cobra Starship
+7. Paramore
+8. Linkin Park
+9. Coldplay
+10. Red Hot Chili Peppers
+11. MGMT
+12. Marilyn Manson
+13. The Kooks
+14. The Beatles
+15. blink-182
+16. The Veronicas
+17. Jonas Brothers
+18. Black Eyed Peas
+19. Katy Perry
+20. P!nk
+21. The Pussycat Dolls
+22. Enrique Iglesias
+23. Justin Timberlake
+24. Ciara
+25. Kylie Minogue
+26. Christina Aguilera
+27. Hilary Duff
+28. Ashley Tisdale
+29. Jessica Simpson
+30. 浜崎あゆみ
+31. Vanessa Hudgens
+32. Camp Rock
+33. Hannah Montana
+34. Justin Bieber
+35. Miley Cyrus
+36. Miranda Cosgrove
+37. Mitchel Musso
+38. Lolene
+39. Nicole Scherzinger
+40. Shakira
+41. Cascada
+42. JoJo
+43. McFly
+44. The Kooks
+45. Pixies
+46. 3OH!3
+47. Kerli
+48. Far East Movement
+49. Ramones
+50. NX Zero
+
+These recommendations are based on similar genres, themes, and styles to the user's liked artists.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. Swan Song by Robert R. McCammon
+3. The Road by Cormac McCarthy
+4. The Fireman by Joe Hill
+5. The Dark Tower series by Stephen King
+6. The Shining by Stephen King
+7. The Gunslinger by Stephen King
+8. The Talisman by Stephen King and Peter Straub
+9. The Bone Clocks by David Mitchell
+10. The Night Circus by Erin Morgenstern
+11. The Ocean at the End of the Lane by Neil Gaiman
+12. Neverwhere by Neil Gaiman
+13. Stardust by Neil Gaiman
+14. Coraline by Neil Gaiman
+15. Good Omens by Neil Gaiman and Terry Pratchett
+16. The Graveyard Book by Neil Gaiman
+17. The Magicians by Lev Grossman
+18. The Name of the Wind by Patrick Rothfuss
+19. American Psycho by Bret Easton Ellis
+20. House of Leaves by Mark Z. Danielewski
+21. The Secret History by Donna Tartt
+22. The Goldfinch by Donna Tartt
+23. The Martian by Andy Weir
+24. Ready Player One by Ernest Cline
+25. Dark Matter by Blake Crouch
+26. The Passage by Justin Cronin
+27. The Twelve by Justin Cronin
+28. City of Mirrors by Justin Cronin
+29. NOS4A2 by Joe Hill
+30. Heart-Shaped Box by Joe Hill
+31. Horns by Joe Hill
+32. The Girl with All the Gifts by M.R. Carey
+33. Bird Box by Josh Malerman
+34. The Road by Cormac McCarthy
+35. The Book Thief by Markus Zusak
+36. The Lovely Bones by Alice Sebold
+37. The Hunger Games by Suzanne Collins
+38. Divergent by Veronica Roth
+39. The Maze Runner by James Dashner
+40. The Giver by Lois Lowry
+41. Ender's Game by Orson Scott Card
+42. The Alchemist by Paulo Coelho
+43. The Shadow of the Wind by Carlos Ruiz Zafón
+44. The Nightingale by Kristin Hannah
+45. All the Light We Cannot See by Anthony Doerr
+46. The Kite Runner by Khaled Hosseini
+47. A Thousand Splendid Suns by Khaled Hosseini
+48. The Help by Kathryn Stockett
+49. The Secret Life of Bees by Sue Monk Kidd
+50. The Glass Castle by Jeannette Walls
+
+These recommendations are based on the user's interest in a mix of fantasy, horror, and adventure novels.

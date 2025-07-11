@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Outsiders by S.E. Hinton
+2. Rumble Fish by S.E. Hinton
+3. Tex by S.E. Hinton
+4. Taming the Star Runner by S.E. Hinton
+5. The Giver by Lois Lowry
+6. Gathering Blue by Lois Lowry
+7. Messenger by Lois Lowry
+8. Son by Lois Lowry
+9. Through the Looking-Glass by Lewis Carroll
+10. The Hunting of the Snark by Lewis Carroll
+11. Jabberwocky by Lewis Carroll
+12. Glass by Ellen Hopkins
+13. Tricks by Ellen Hopkins
+14. Fallout by Ellen Hopkins
+15. Identical by Ellen Hopkins
+16. The Alchemist by Paulo Coelho
+17. The Forty Rules of Love by Elif Shafak
+18. The Bastard of Istanbul by Elif Shafak
+19. My Name Is Red by Orhan Pamuk
+20. Snow by Orhan Pamuk
+21. The Moor's Last Sigh by Salman Rushdie
+22. Midnight's Children by Salman Rushdie
+23. The Satanic Verses by Salman Rushdie
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. And the Mountains Echoed by Khaled Hosseini
+27. Feed by M.T. Anderson
+28. The Maze Runner by James Dashner
+29. Divergent by Veronica Roth
+30. The Hunger Games by Suzanne Collins
+31. 1984 by George Orwell
+32. Brave New World by Aldous Huxley
+33. The Handmaid's Tale by Margaret Atwood
+34. Animal Farm by George Orwell
+35. The Road by Cormac McCarthy
+36. The Martian by Andy Weir
+37. Ready Player One by Ernest Cline
+38. Neuromancer by William Gibson
+39. Snow Crash by Neal Stephenson
+40. Do Androids Dream of Electric Sheep? by Philip K. Dick
+41. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+42. Foundation by Isaac Asimov
+43. Hyperion by Dan Simmons
+44. The Left Hand of Darkness by Ursula K. Le Guin
+45. The Dispossessed by Ursula K. Le Guin
+46. The Time Machine by H.G. Wells
+47. The War of the Worlds by H.G. Wells
+48. 20,000 Leagues Under the Sea by Jules Verne
+49. Journey to the Center of the Earth by Jules Verne
+50. The Invisible Man by H.G. Wells
+
+These recommendations are based on the user's interest in young adult fiction, classic literature, and dystopian themes.

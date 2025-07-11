@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Hunger Games by Suzanne Collins
+3. Ender's Game by Orson Scott Card
+4. Dune by Frank Herbert
+5. The Martian by Andy Weir
+6. The Giver by Lois Lowry
+7. The Alchemist by Paulo Coelho
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. Fahrenheit 451 by Ray Bradbury
+11. The Stand by Stephen King
+12. The Time Traveler's Wife by Audrey Niffenegger
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Name of the Wind by Patrick Rothfuss
+16. The Night Circus by Erin Morgenstern
+17. The Goldfinch by Donna Tartt
+18. The Shadow of the Wind by Carlos Ruiz Zafón
+19. The Book Thief by Markus Zusak
+20. The Secret History by Donna Tartt
+21. The Catcher in the Rye by J.D. Salinger
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Bell Jar by Sylvia Plath
+24. The Kite Runner by Khaled Hosseini
+25. The Glass Castle by Jeannette Walls
+26. The Lovely Bones by Alice Sebold
+27. The Help by Kathryn Stockett
+28. The Nightingale by Kristin Hannah
+29. The Great Gatsby by F. Scott Fitzgerald
+30. To Kill a Mockingbird by Harper Lee
+31. The Catcher in the Rye by J.D. Salinger
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Bell Jar by Sylvia Plath
+34. The Kite Runner by Khaled Hosseini
+35. The Glass Castle by Jeannette Walls
+36. The Lovely Bones by Alice Sebold
+37. The Help by Kathryn Stockett
+38. The Nightingale by Kristin Hannah
+39. The Great Gatsby by F. Scott Fitzgerald
+40. To Kill a Mockingbird by Harper Lee
+41. The Catcher in the Rye by J.D. Salinger
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Bell Jar by Sylvia Plath
+44. The Kite Runner by Khaled Hosseini
+45. The Glass Castle by Jeannette Walls
+46. The Lovely Bones by Alice Sebold
+47. The Help by Kathryn Stockett
+48. The Nightingale by Kristin Hannah
+49. The Great Gatsby by F. Scott Fitzgerald
+50. To Kill a Mockingbird by Harper Lee
+
+These recommendations are based on the user's interest in science fiction, fantasy, dystopian literature, and popular fiction.

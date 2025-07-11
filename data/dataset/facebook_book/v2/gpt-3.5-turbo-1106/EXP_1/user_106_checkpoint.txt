@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Factotum by Charles Bukowski
+2. Ham on Rye by Charles Bukowski
+3. Love in the Time of Cholera by Gabriel García Márquez
+4. Chronicle of a Death Foretold by Gabriel García Márquez
+5. The Stranger by Albert Camus
+6. Story of the Eye by Georges Bataille
+7. Justine by Marquis de Sade
+8. The Tenant by Roland Topor
+9. The Exorcist by William Peter Blatty
+10. Ubik by Philip K. Dick
+11. Do Androids Dream of Electric Sheep? by Philip K. Dick
+12. The Doors of Perception by Aldous Huxley
+13. Journey to Ixtlan by Carlos Castaneda
+14. The Art of Dreaming by Carlos Castaneda
+15. The Book of Laughter and Forgetting by Milan Kundera
+16. The Joke by Milan Kundera
+17. The Calvin and Hobbes Lazy Sunday Book by Bill Watterson
+18. The Complete Calvin and Hobbes by Bill Watterson
+19. Hunger by Knut Hamsun
+20. Mysteries by Knut Hamsun
+21. Tropic of Capricorn by Henry Miller
+22. Black Spring by Henry Miller
+23. Animal Farm by George Orwell
+24. Brave New World by Aldous Huxley
+25. The Catcher in the Rye by J.D. Salinger
+26. The Sun Also Rises by Ernest Hemingway
+27. Fear and Loathing in Las Vegas by Hunter S. Thompson
+28. The Rum Diary by Hunter S. Thompson
+29. The Maltese Falcon by Dashiell Hammett
+30. The Big Sleep by Raymond Chandler
+31. The Sound and the Fury by William Faulkner
+32. The Old Man and the Sea by Ernest Hemingway
+33. The Bell Jar by Sylvia Plath
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Metamorphosis by Franz Kafka
+36. The Trial by Franz Kafka
+37. The Plague by Albert Camus
+38. The Fall by Albert Camus
+39. The Stranger by Albert Camus
+40. The Story of O by Pauline Réage
+41. Delta of Venus by Anaïs Nin
+42. The Sheltering Sky by Paul Bowles
+43. The Dharma Bums by Jack Kerouac
+44. On the Road by Jack Kerouac
+45. The Electric Kool-Aid Acid Test by Tom Wolfe
+46. Fear and Trembling by Søren Kierkegaard
+47. The Sickness Unto Death by Søren Kierkegaard
+48. The Plague by Albert Camus
+49. The Fall by Albert Camus
+50. The Stranger by Albert Camus
+
+These recommendations are based on the user's interest in literature, philosophy, and counterculture themes.

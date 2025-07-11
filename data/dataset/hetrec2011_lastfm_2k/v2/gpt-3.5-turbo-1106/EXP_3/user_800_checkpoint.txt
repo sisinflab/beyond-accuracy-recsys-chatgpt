@@ -1,0 +1,54 @@
+Based on user 800's preferences, here are the top-50 recommendations for them:
+
+1. Black Sabbath
+2. Megadeth
+3. Blind Guardian
+4. Children of Bodom
+5. Sepultura
+6. A Perfect Circle
+7. Tool
+8. Opeth
+9. King Diamond
+10. Kreator
+11. Iced Earth
+12. Death
+13. HIM
+14. Slipknot
+15. Interpol
+16. The Offspring
+17. The Used
+18. My Chemical Romance
+19. Queens of the Stone Age
+20. The Kills
+21. Anathema
+22. Infected Mushroom
+23. The Subways
+24. Escape The Fate
+25. blessthefall
+26. Pierce the Veil
+27. The Beatles
+28. Red Hot Chili Peppers
+29. Metallica
+30. Avenged Sevenfold
+31. Sonata Arctica
+32. KISS
+33. Angra
+34. Dream Theater
+35. Ozzy Osbourne
+36. Pink Floyd
+37. Edguy
+38. Raimundos
+39. Motörhead
+40. Iron Maiden
+41. System of a Down
+42. Helloween
+43. ZZ Top
+44. AC/DC
+45. Van Halen
+46. Manowar
+47. Stratovarius
+48. Bruce Dickinson
+49. Muse
+50. Dope
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

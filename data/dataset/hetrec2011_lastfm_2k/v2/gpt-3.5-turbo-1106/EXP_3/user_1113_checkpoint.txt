@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1113:
+
+1. Nicki Minaj
+2. Beyoncé
+3. Rihanna
+4. Lady Gaga
+5. Christina Aguilera
+6. Drake
+7. Ne-Yo
+8. Usher
+9. Chris Brown
+10. Jay Sean
+11. Destiny's Child
+12. Alicia Keys
+13. Timbaland
+14. Nelly Furtado
+15. Shakira
+16. Mariah Carey
+17. Jennifer Lopez
+18. Black Eyed Peas
+19. Katy Perry
+20. Britney Spears
+21. Miley Cyrus
+22. Lil' Wayne
+23. Kanye West
+24. Fergie
+25. Avril Lavigne
+26. P!nk
+27. Kelly Rowland
+28. Keri Hilson
+29. Ciara
+30. Keyshia Cole
+31. The Pussycat Dolls
+32. Cassie
+33. Christina Milian
+34. Jordin Sparks
+35. Maroon 5
+36. Jason Mraz
+37. Lily Allen
+38. 3OH!3
+39. Jessie J
+40. Leona Lewis
+41. Jennifer Hudson
+42. T.I.
+43. Nelly
+44. Kid Cudi
+45. B.o.B
+46. Taylor Swift
+47. Katy Perry
+48. Leighton Meester
+49. Miley Cyrus
+50. Kylie Minogue
+
+These recommendations are based on the user's existing preferences and are tailored to their taste in music.

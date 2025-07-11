@@ -1,0 +1,54 @@
+Based on the preferences of user 1202, here are the top 50 book recommendations:
+
+1. Just Listen by Sarah Dessen
+2. Before I Fall by Lauren Oliver
+3. The Fault in Our Stars by John Green
+4. If I Stay by Gayle Forman
+5. Eleanor & Park by Rainbow Rowell
+6. Paper Towns by John Green
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. Looking for Alaska by John Green
+9. Speak by Laurie Halse Anderson
+10. Thirteen Little Blue Envelopes by Maureen Johnson
+11. The Sky Is Everywhere by Jandy Nelson
+12. The Truth About Forever by Sarah Dessen
+13. The Sisterhood of the Traveling Pants by Ann Brashares
+14. The Lovely Bones by Alice Sebold
+15. Wintergirls by Laurie Halse Anderson
+16. Before We Were Strangers by Renée Carlino
+17. The Summer I Turned Pretty by Jenny Han
+18. The Statistical Probability of Love at First Sight by Jennifer E. Smith
+19. The Sun Is Also a Star by Nicola Yoon
+20. Everything, Everything by Nicola Yoon
+21. The Geography of You and Me by Jennifer E. Smith
+22. The Moon and More by Sarah Dessen
+23. The Future of Us by Jay Asher and Carolyn Mackler
+24. The Book Thief by Markus Zusak
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Night Circus by Erin Morgenstern
+27. The Rosie Project by Graeme Simsion
+28. Me Before You by Jojo Moyes
+29. The Light We Lost by Jill Santopolo
+30. One Day by David Nicholls
+31. The Girl on the Train by Paula Hawkins
+32. Gone Girl by Gillian Flynn
+33. Big Little Lies by Liane Moriarty
+34. The Husband's Secret by Liane Moriarty
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. Sharp Objects by Gillian Flynn
+37. Dark Places by Gillian Flynn
+38. The Woman in the Window by A.J. Finn
+39. The Silent Patient by Alex Michaelides
+40. The Girl Before by J.P. Delaney
+41. The Couple Next Door by Shari Lapena
+42. Behind Closed Doors by B.A. Paris
+43. The Girl in the Ice by Robert Bryndza
+44. The Girl Who Lived by Christopher Greyson
+45. The Girl in the Spider's Web by David Lagercrantz
+46. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+47. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+48. The Girl Who Played with Fire by Stieg Larsson
+49. The Girl with the Dragon Tattoo by Stieg Larsson
+50. The Girl in the Woods by Gregg Olsen
+
+These recommendations are based on the similar themes and authors of the books that user 1202 likes.

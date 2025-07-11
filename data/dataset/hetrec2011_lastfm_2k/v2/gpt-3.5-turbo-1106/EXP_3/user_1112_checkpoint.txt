@@ -1,0 +1,54 @@
+Based on user 1112's preferences, here are the top 50 recommendations for the given artists:
+
+1. Nirvana
+2. Muse
+3. Queens of the Stone Age
+4. Tool
+5. The Beatles
+6. A Perfect Circle
+7. Placebo
+8. Foo Fighters
+9. Coldplay
+10. Cream
+11. Rage Against the Machine
+12. The Fall of Troy
+13. The Doors
+14. Korn
+15. Thrice
+16. Devin Townsend
+17. Kings of Leon
+18. Ben Folds
+19. Queen
+20. The Strokes
+21. Oasis
+22. 30 Seconds to Mars
+23. Late of the Pier
+24. Metro Station
+25. All Time Low
+26. Avenged Sevenfold
+27. The All-American Rejects
+28. Cobra Starship
+29. Architects
+30. Foals
+31. Chiodos
+32. Pierce the Veil
+33. Funeral for a Friend
+34. Underoath
+35. Saosin
+36. Dance Gavin Dance
+37. Arctic Monkeys
+38. Interpol
+39. Final Fantasy
+40. Devin Townsend
+41. The Blackout
+42. Born of Osiris
+43. Senses Fail
+44. Sum 41
+45. Silverstein
+46. A Day to Remember
+47. Plain White T's
+48. Parkway Drive
+49. Lostprophets
+50. The Cribs
+
+These recommendations are based on the user's existing preferences and are tailored to their music taste.

@@ -1,0 +1,54 @@
+Based on user 1148's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The Beatles
+2. Queen
+3. David Bowie
+4. U2
+5. George Michael
+6. Thom Yorke
+7. Trentemøller
+8. Miles Davis
+9. Bob Marley & The Wailers
+10. Cat Stevens
+11. AC/DC
+12. a-ha
+13. Thievery Corporation
+14. Porcupine Tree
+15. Lady Gaga
+16. Jack Johnson
+17. Tool
+18. Eagles
+19. Manu Chao
+20. Placebo
+21. Slayer
+22. Brian Eno
+23. Duran Duran
+24. Yes
+25. David Gilmour
+26. Frank Sinatra
+27. Cut Copy
+28. Joe Satriani
+29. James Morrison
+30. Sigur Rós
+31. Tears for Fears
+32. The Velvet Underground
+33. Martin L. Gore
+34. King Crimson
+35. Dire Straits
+36. Joy Division
+37. Goldfrapp
+38. Muse
+39. The Doors
+40. Captain Beefheart & His Magic Band
+41. Skid Row
+42. Talk Talk
+43. Kaiser Chiefs
+44. The Killers
+45. Camouflage
+46. And One
+47. Czesław Śpiewa
+48. Ólafur Arnalds
+49. Einstürzende Neubauten
+50. The Cure
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

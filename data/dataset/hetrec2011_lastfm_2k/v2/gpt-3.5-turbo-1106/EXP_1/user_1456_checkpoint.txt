@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Pet Shop Boys
+3. New Order
+4. Erasure
+5. Tears for Fears
+6. OMD
+7. Yazoo
+8. Simple Minds
+9. Talk Talk
+10. The Human League
+11. Thompson Twins
+12. Spandau Ballet
+13. Ultravox
+14. ABC
+15. Visage
+16. Blancmange
+17. Heaven 17
+18. Soft Cell
+19. Dead or Alive
+20. A Flock of Seagulls
+21. The Psychedelic Furs
+22. Echo & the Bunnymen
+23. The Smiths
+24. Joy Division
+25. Siouxsie and the Banshees
+26. Cocteau Twins
+27. The Jesus and Mary Chain
+28. The Chameleons
+29. The Sisters of Mercy
+30. Bauhaus
+31. The Mission
+32. Clan of Xymox
+33. The Birthday Massacre
+34. She Wants Revenge
+35. The Horrors
+36. The Soft Moon
+37. Cold Cave
+38. Drab Majesty
+39. Lebanon Hanover
+40. Boy Harsher
+41. Black Marble
+42. TR/ST
+43. Linea Aspera
+44. Ash Code
+45. Hante.
+46. Zanias
+47. Kontravoid
+48. Selofan
+49. Kaelan Mikla
+50. Agent Side Grinder
+
+These recommendations are based on the user's liking for synth-pop, new wave, and alternative artists.

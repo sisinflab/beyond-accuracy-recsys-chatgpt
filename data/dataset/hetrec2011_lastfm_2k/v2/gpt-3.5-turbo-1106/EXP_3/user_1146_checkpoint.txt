@@ -1,0 +1,54 @@
+Based on user 1146's preferences, here are the top 50 recommendations for the given artists:
+
+1. My Chemical Romance
+2. Panic! At the Disco
+3. Linkin Park
+4. Three Days Grace
+5. Breaking Benjamin
+6. The Used
+7. Sum 41
+8. Seether
+9. Apocalyptica
+10. The All-American Rejects
+11. Yellowcard
+12. Boys Like Girls
+13. Good Charlotte
+14. The Strokes
+15. The Fray
+16. 30 Seconds to Mars
+17. The Pretty Reckless
+18. The Veronicas
+19. Lacuna Coil
+20. HIM
+21. Funeral for a Friend
+22. Therion
+23. Poets of the Fall
+24. Johnny Cash
+25. Kelly Clarkson
+26. Laura Pausini
+27. Taylor Swift
+28. P!nk
+29. Hans Zimmer
+30. Howard Shore
+31. Enrique Iglesias
+32. Beyoncé
+33. Shakira
+34. Nelly Furtado
+35. Zoé
+36. t.A.T.u.
+37. Nightwish
+38. Epica
+39. AC/DC
+40. Lady Gaga
+41. Ke$ha
+42. Dido
+43. BrokeNCYDE
+44. OneRepublic
+45. Fort Minor
+46. Nickelback
+47. IAMX
+48. Lostprophets
+49. A Fine Frenzy
+50. Avenged Sevenfold
+
+These recommendations are based on similar genres and artists liked by user 1146.

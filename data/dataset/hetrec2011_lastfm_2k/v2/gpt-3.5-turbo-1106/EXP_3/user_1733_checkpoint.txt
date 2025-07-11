@@ -1,0 +1,54 @@
+Based on user 1733's preferences, here are the top 50 recommendations for the user:
+
+1. Tool
+2. Soundgarden
+3. Alice in Chains
+4. Pearl Jam
+5. Rage Against the Machine
+6. Metallica
+7. Nirvana
+8. Green Day
+9. Foo Fighters
+10. Queens of the Stone Age
+11. Iron Maiden
+12. Rise Against
+13. Incubus
+14. Bullet for My Valentine
+15. AFI
+16. Anthrax
+17. Blind Guardian
+18. Apocalyptica
+19. Faith No More
+20. Motörhead
+21. Nick Cave and the Bad Seeds
+22. Monster Magnet
+23. God Is an Astronaut
+24. KISS
+25. Audioslave
+26. Linkin Park
+27. Guns N' Roses
+28. The Who
+29. Silverchair
+30. In Flames
+31. Black Flag
+32. The Cure
+33. Papa Roach
+34. Hoobastank
+35. Sum 41
+36. Ramones
+37. Joy Division
+38. Rammstein
+39. Bush
+40. Kyuss
+41. Aerosmith
+42. The Cult
+43. P.O.D.
+44. The Hellacopters
+45. The Libertines
+46. Paramore
+47. blink-182
+48. The Beatles
+49. Van Halen
+50. AC/DC
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

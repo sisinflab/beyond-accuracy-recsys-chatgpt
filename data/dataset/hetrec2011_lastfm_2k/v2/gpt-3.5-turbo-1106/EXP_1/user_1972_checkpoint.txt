@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Autechre
+2. Explosions in the Sky
+3. Godspeed You! Black Emperor
+4. Squarepusher
+5. Tortoise
+6. Battles
+7. Caribou
+8. Four Tet
+9. Animal Collective
+10. Grizzly Bear
+11. Radiohead
+12. Tame Impala
+13. Tycho
+14. M83
+15. Flying Lotus
+16. The Knife
+17. LCD Soundsystem
+18. Beach House
+19. Deerhunter
+20. The Flaming Lips
+21. My Bloody Valentine
+22. Slowdive
+23. Cocteau Twins
+24. The War on Drugs
+25. Yo La Tengo
+26. Spiritualized
+27. The Notwist
+28. Stereolab
+29. Broadcast
+30. The Avalanches
+31. Air
+32. Röyksopp
+33. Ulrich Schnauss
+34. Tycho
+35. Bon Iver
+36. Sigur Rós
+37. Explosions in the Sky
+38. Hammock
+39. Eluvium
+40. Mogwai
+41. Boards of Canada
+42. The Flashbulb
+43. Venetian Snares
+44. Aphex Twin
+45. Shpongle
+46. The Mars Volta
+47. Porcupine Tree
+48. Mr. Bungle
+49. Fantômas
+50. At the Drive-In
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 2015's preferences, here are the top 50 recommendations:
+
+1. Tool
+2. Alice in Chains
+3. King Crimson
+4. Porcupine Tree
+5. The Mars Volta
+6. Dire Straits
+7. The Cure
+8. Yes
+9. Santana
+10. Miles Davis
+11. Joe Satriani
+12. Skid Row
+13. Joy Division
+14. Simon & Garfunkel
+15. Mr. Big
+16. Manu Chao
+17. Children of Bodom
+18. Ozzy Osbourne
+19. Cat Stevens
+20. The Beatles
+21. Queen
+22. Led Zeppelin
+23. Frank Sinatra
+24. David Gilmour
+25. Brian Eno
+26. Phoenix
+27. Sigur Rós
+28. AC/DC
+29. Thom Yorke
+30. Slayer
+31. Alanis Morissette
+32. Megadeth
+33. Antimatter
+34. Dark Tranquillity
+35. Ólafur Arnalds
+36. Depeche Mode
+37. Billy Joel
+38. Jamiroquai
+39. Eagles
+40. Jack Johnson
+41. Anathema
+42. Kamelot
+43. Czesław Śpiewa
+44. Arch Enemy
+45. Norther
+46. Katatonia
+47. Sonata Arctica
+48. Captain Beefheart & His Magic Band
+49. A Perfect Circle
+50. Shpongle
+
+These recommendations are based on similar genres and artists liked by user 2015.

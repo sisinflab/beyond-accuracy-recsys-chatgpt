@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Pride and Prejudice by Jane Austen
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Jane Eyre by Charlotte Bronte
+7. Wuthering Heights by Emily Bronte
+8. The Adventures of Huckleberry Finn by Mark Twain
+9. The Grapes of Wrath by John Steinbeck
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Crime and Punishment by Fyodor Dostoevsky
+12. One Hundred Years of Solitude by Gabriel Garcia Marquez
+13. The Bell Jar by Sylvia Plath
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Sun Also Rises by Ernest Hemingway
+16. The Sound and the Fury by William Faulkner
+17. The Stranger by Albert Camus
+18. The Road by Cormac McCarthy
+19. The Brothers Karamazov by Fyodor Dostoevsky
+20. The Scarlet Letter by Nathaniel Hawthorne
+21. Moby-Dick by Herman Melville
+22. The Count of Monte Cristo by Alexandre Dumas
+23. Anna Karenina by Leo Tolstoy
+24. Les Miserables by Victor Hugo
+25. The Odyssey by Homer
+26. The Iliad by Homer
+27. The Divine Comedy by Dante Alighieri
+28. Don Quixote by Miguel de Cervantes
+29. War and Peace by Leo Tolstoy
+30. The Canterbury Tales by Geoffrey Chaucer
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Metamorphosis by Franz Kafka
+33. Heart of Darkness by Joseph Conrad
+34. The Trial by Franz Kafka
+35. The Stranger by Albert Camus
+36. The Plague by Albert Camus
+37. The Master and Margarita by Mikhail Bulgakov
+38. The Idiot by Fyodor Dostoevsky
+39. The Unbearable Lightness of Being by Milan Kundera
+40. The Name of the Rose by Umberto Eco
+41. The Book Thief by Markus Zusak
+42. The Kite Runner by Khaled Hosseini
+43. A Thousand Splendid Suns by Khaled Hosseini
+44. The Alchemist by Paulo Coelho
+45. The Shadow of the Wind by Carlos Ruiz Zafon
+46. The Night Circus by Erin Morgenstern
+47. The Book of Lost Things by John Connolly
+48. The Thirteenth Tale by Diane Setterfield
+49. The Secret History by Donna Tartt
+50. The Historian by Elizabeth Kostova
+
+These recommendations are based on the user's interest in classic literature, mystery, and fantasy genres.

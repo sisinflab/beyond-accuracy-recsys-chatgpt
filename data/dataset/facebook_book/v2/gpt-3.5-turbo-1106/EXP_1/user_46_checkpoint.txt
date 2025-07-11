@@ -1,0 +1,54 @@
+Based on the preferences of user 46, here are the top 50 book recommendations:
+
+1. Angels & Demons by Dan Brown
+2. Digital Fortress by Dan Brown
+3. Deception Point by Dan Brown
+4. Origin by Dan Brown
+5. Inferno by Dan Brown
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Girl Who Played with Fire by Stieg Larsson
+8. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+9. The Alchemist by Paulo Coelho
+10. The Night Circus by Erin Morgenstern
+11. The Name of the Wind by Patrick Rothfuss
+12. The Wise Man's Fear by Patrick Rothfuss
+13. The Shadow of the Wind by Carlos Ruiz Zafón
+14. The Angel's Game by Carlos Ruiz Zafón
+15. The Prisoner of Heaven by Carlos Ruiz Zafón
+16. The Martian by Andy Weir
+17. Ready Player One by Ernest Cline
+18. Armada by Ernest Cline
+19. Dark Matter by Blake Crouch
+20. Recursion by Blake Crouch
+21. The Silent Patient by Alex Michaelides
+22. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+23. Daisy Jones & The Six by Taylor Jenkins Reid
+24. The Nightingale by Kristin Hannah
+25. The Great Alone by Kristin Hannah
+26. Where the Crawdads Sing by Delia Owens
+27. Educated by Tara Westover
+28. The Goldfinch by Donna Tartt
+29. The Secret History by Donna Tartt
+30. The Night Circus by Erin Morgenstern
+31. The Starless Sea by Erin Morgenstern
+32. The Book Thief by Markus Zusak
+33. The Nightingale by Kristin Hannah
+34. The Great Alone by Kristin Hannah
+35. The Light Between Oceans by M.L. Stedman
+36. The Nightingale by Kristin Hannah
+37. The Great Alone by Kristin Hannah
+38. The Nightingale by Kristin Hannah
+39. The Great Alone by Kristin Hannah
+40. The Nightingale by Kristin Hannah
+41. The Great Alone by Kristin Hannah
+42. The Nightingale by Kristin Hannah
+43. The Great Alone by Kristin Hannah
+44. The Nightingale by Kristin Hannah
+45. The Great Alone by Kristin Hannah
+46. The Nightingale by Kristin Hannah
+47. The Great Alone by Kristin Hannah
+48. The Nightingale by Kristin Hannah
+49. The Great Alone by Kristin Hannah
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the genres and authors that user 46 has shown interest in.

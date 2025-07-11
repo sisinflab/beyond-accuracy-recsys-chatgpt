@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Florence + The Machine
+2. Lana Del Rey
+3. Sia
+4. Haim
+5. Marina and the Diamonds
+6. Lorde
+7. Ellie Goulding
+8. Metric
+9. CHVRCHES
+10. Grimes
+11. Kate Nash
+12. La Roux
+13. Bat for Lashes
+14. Santigold
+15. Fiona Apple
+16. St. Vincent
+17. Charli XCX
+18. M.I.A.
+19. Kate Bush
+20. Garbage
+21. Sleater-Kinney
+22. Yeah Yeah Yeahs
+23. The Cardigans
+24. The Cranberries
+25. Alanis Morissette
+26. Tori Amos
+27. PJ Harvey
+28. The Breeders
+29. Hole
+30. Veruca Salt
+31. Bikini Kill
+32. Sleater-Kinney
+33. The Distillers
+34. Courtney Love
+35. Patti Smith
+36. Siouxsie and the Banshees
+37. The Runaways
+38. Joan Jett
+39. The Donnas
+40. The Bangles
+41. The Go-Go's
+42. The Pretenders
+43. Blondie
+44. Pat Benatar
+45. Heart
+46. Stevie Nicks
+47. Fleetwood Mac
+48. Joan Baez
+49. Janis Joplin
+50. Carole King
+
+These recommendations are based on the user's liking of female artists and bands with a similar sound or appeal to the ones they already enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+3. The Hunger Games by Suzanne Collins
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. The Great Gatsby by F. Scott Fitzgerald
+7. 1984 by George Orwell
+8. Animal Farm by George Orwell
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Alchemist by Paulo Coelho
+12. The Da Vinci Code by Dan Brown
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Shining by Stephen King
+16. The Stand by Stephen King
+17. The Road by Cormac McCarthy
+18. The Kite Runner by Khaled Hosseini
+19. The Book Thief by Markus Zusak
+20. The Fault in Our Stars by John Green
+21. The Maze Runner by James Dashner
+22. The Girl on the Train by Paula Hawkins
+23. Gone Girl by Gillian Flynn
+24. The Help by Kathryn Stockett
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Lovely Bones by Alice Sebold
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+29. The Night Circus by Erin Morgenstern
+30. The Goldfinch by Donna Tartt
+31. The Martian by Andy Weir
+32. Ready Player One by Ernest Cline
+33. The Handmaid's Tale by Margaret Atwood
+34. The Name of the Wind by Patrick Rothfuss
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Thirteenth Tale by Diane Setterfield
+37. The Nightingale by Kristin Hannah
+38. The Silent Patient by Alex Michaelides
+39. The Tattooist of Auschwitz by Heather Morris
+40. The Alice Network by Kate Quinn
+41. The Light Between Oceans by M.L. Stedman
+42. The Nightingale by Kristin Hannah
+43. The Silent Patient by Alex Michaelides
+44. The Tattooist of Auschwitz by Heather Morris
+45. The Alice Network by Kate Quinn
+46. The Light Between Oceans by M.L. Stedman
+47. The Nightingale by Kristin Hannah
+48. The Silent Patient by Alex Michaelides
+49. The Tattooist of Auschwitz by Heather Morris
+50. The Alice Network by Kate Quinn
+
+These recommendations are based on the user's interest in a mix of classic literature, popular fiction, and some contemporary bestsellers.

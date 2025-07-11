@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1225:
+
+1. Radiohead
+2. Nirvana
+3. The Smiths
+4. David Bowie
+5. Oasis
+6. The Killers
+7. The Cranberries
+8. Pet Shop Boys
+9. Tool
+10. New Order
+11. Moby
+12. The Chemical Brothers
+13. Goldfrapp
+14. Talk Talk
+15. Boards of Canada
+16. Aphex Twin
+17. The Human League
+18. Duran Duran
+19. Erasure
+20. Squarepusher
+21. 30 Seconds to Mars
+22. Franz Ferdinand
+23. Two Door Cinema Club
+24. Nelly Furtado
+25. Kings of Leon
+26. Kaiser Chiefs
+27. Metallica
+28. Thousand Foot Krutch
+29. P!nk
+30. a-ha
+31. The Rasmus
+32. Nitzer Ebb
+33. AC/DC
+34. MGMT
+35. Dead Can Dance
+36. HIM
+37. Keane
+38. Kraftwerk
+39. Dire Straits
+40. Linkin Park
+41. Martin L. Gore
+42. Crystal Castles
+43. And One
+44. Camouflage
+45. Michael Jackson
+46. David Guetta
+47. Plaid
+48. Evanescence
+49. The Prodigy
+50. Manic Street Preachers
+
+These recommendations are based on similar genres and artists liked by user 1225.

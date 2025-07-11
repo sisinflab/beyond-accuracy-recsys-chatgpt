@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Oasis
+2. Arctic Monkeys
+3. The Smiths
+4. Vampire Weekend
+5. Beck
+6. The Shins
+7. Arcade Fire
+8. The Black Keys
+9. Florence + The Machine
+10. The National
+11. Tame Impala
+12. Bon Iver
+13. The xx
+14. Fleet Foxes
+15. Interpol
+16. Death Cab for Cutie
+17. The Flaming Lips
+18. Yeah Yeah Yeahs
+19. Spoon
+20. Modest Mouse
+21. The Decemberists
+22. Bloc Party
+23. The Postal Service
+24. Sufjan Stevens
+25. The War on Drugs
+26. Grizzly Bear
+27. Spoon
+28. The Avett Brothers
+29. Father John Misty
+30. Hozier
+31. The Lumineers
+32. Alt-J
+33. The Head and the Heart
+34. Of Monsters and Men
+35. Edward Sharpe & The Magnetic Zeros
+36. The Tallest Man on Earth
+37. Local Natives
+38. The Antlers
+39. Phosphorescent
+40. Real Estate
+41. Mac DeMarco
+42. Sharon Van Etten
+43. Angel Olsen
+44. Mitski
+45. Courtney Barnett
+46. Car Seat Headrest
+47. Big Thief
+48. Soccer Mommy
+49. Snail Mail
+50. Japanese Breakfast
+
+These recommendations are based on the user's liking of similar artists and genres.

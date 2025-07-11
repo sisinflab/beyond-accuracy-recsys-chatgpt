@@ -1,0 +1,54 @@
+Based on user 678's preferences, here are the top 50 recommendations for them:
+
+1. Coldplay
+2. Radiohead
+3. Green Day
+4. Red Hot Chili Peppers
+5. The Police
+6. Muse
+7. The Beatles
+8. Nirvana
+9. Pearl Jam
+10. Foo Fighters
+11. U2
+12. Metallica
+13. Oasis
+14. AC/DC
+15. Bon Jovi
+16. The Offspring
+17. Blink-182
+18. Goo Goo Dolls
+19. Lifehouse
+20. 3 Doors Down
+21. The Calling
+22. Yellowcard
+23. Fall Out Boy
+24. All Time Low
+25. The Kinks
+26. R.E.M.
+27. The Hellacopters
+28. Los Hermanos
+29. The Veronicas
+30. Explosions in the Sky
+31. Depeche Mode
+32. Ramones
+33. Johnny Cash
+34. Dido
+35. Kaiser Chiefs
+36. Van Halen
+37. John Mayer
+38. Sigur Rós
+39. Bad Religion
+40. Black Label Society
+41. Billy Joel
+42. Electric Light Orchestra
+43. Gavin DeGraw
+44. Apocalyptica
+45. Audioslave
+46. The Beach Boys
+47. Rammstein
+48. Yann Tiersen
+49. Enya
+50. Elvis Costello
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

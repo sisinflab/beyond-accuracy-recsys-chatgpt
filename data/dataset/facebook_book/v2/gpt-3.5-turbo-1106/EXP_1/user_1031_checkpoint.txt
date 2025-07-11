@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Carrie by Stephen King
+3. Misery by Stephen King
+4. The Dark Tower series by Stephen King
+5. Sharp Objects by Gillian Flynn
+6. Gone Girl by Gillian Flynn
+7. Dark Places by Gillian Flynn
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Girl Who Played with Fire by Stieg Larsson
+10. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+11. The Night Circus by Erin Morgenstern
+12. The Book Thief by Markus Zusak
+13. The Lovely Bones by Alice Sebold
+14. The Road by Cormac McCarthy
+15. No Country for Old Men by Cormac McCarthy
+16. All the Light We Cannot See by Anthony Doerr
+17. The Goldfinch by Donna Tartt
+18. The Secret History by Donna Tartt
+19. The Catcher in the Rye by J.D. Salinger
+20. To Kill a Mockingbird by Harper Lee
+21. 1984 by George Orwell
+22. Animal Farm by George Orwell
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. The Handmaid's Tale by Margaret Atwood
+26. Neverwhere by Neil Gaiman
+27. Stardust by Neil Gaiman
+28. Coraline by Neil Gaiman
+29. Good Omens by Neil Gaiman and Terry Pratchett
+30. The Ocean at the End of the Lane by Neil Gaiman
+31. The Graveyard Book by Neil Gaiman
+32. The Alchemist by Paulo Coelho
+33. One Hundred Years of Solitude by Gabriel Garcia Marquez
+34. Love in the Time of Cholera by Gabriel Garcia Marquez
+35. The Shadow of the Wind by Carlos Ruiz Zafon
+36. The Name of the Wind by Patrick Rothfuss
+37. The Wise Man's Fear by Patrick Rothfuss
+38. The Lies of Locke Lamora by Scott Lynch
+39. The Name of the Wind by Patrick Rothfuss
+40. The Wise Man's Fear by Patrick Rothfuss
+41. The Lies of Locke Lamora by Scott Lynch
+42. The Lies of Locke Lamora by Scott Lynch
+43. The Name of the Wind by Patrick Rothfuss
+44. The Wise Man's Fear by Patrick Rothfuss
+45. The Lies of Locke Lamora by Scott Lynch
+46. The Name of the Wind by Patrick Rothfuss
+47. The Wise Man's Fear by Patrick Rothfuss
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss
+
+These recommendations are based on the user's interest in books by Stephen King, Neil Gaiman, and other popular authors, as well as a mix of genres and styles.

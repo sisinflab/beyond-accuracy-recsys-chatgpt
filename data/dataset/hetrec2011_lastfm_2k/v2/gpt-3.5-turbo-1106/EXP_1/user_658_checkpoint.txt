@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. The Cure
+3. Joy Division
+4. Kraftwerk
+5. Talking Heads
+6. The Smiths
+7. Yazoo
+8. OMD
+9. Gary Numan
+10. Echo & the Bunnymen
+11. The Human League
+12. Simple Minds
+13. Blancmange
+14. A Flock of Seagulls
+15. Tears for Fears
+16. The Psychedelic Furs
+17. Siouxsie and the Banshees
+18. Cocteau Twins
+19. The Jesus and Mary Chain
+20. My Bloody Valentine
+21. Ride
+22. Slowdive
+23. Lush
+24. Chapterhouse
+25. Curve
+26. The Stone Roses
+27. Happy Mondays
+28. Primal Scream
+29. The Charlatans
+30. Inspiral Carpets
+31. The Verve
+32. Suede
+33. Pulp
+34. Blur
+35. Oasis
+36. Supergrass
+37. The Libertines
+38. Arctic Monkeys
+39. Franz Ferdinand
+40. The Strokes
+41. Interpol
+42. Bloc Party
+43. The Killers
+44. The Bravery
+45. Editors
+46. White Lies
+47. The Horrors
+48. Foals
+49. Two Door Cinema Club
+50. The Wombats
+
+These recommendations are based on the user's liking of similar artists and genres.

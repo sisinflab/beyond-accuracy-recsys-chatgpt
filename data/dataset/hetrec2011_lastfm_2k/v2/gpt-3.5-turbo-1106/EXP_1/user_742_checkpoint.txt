@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Lana Del Rey
+2. Lorde
+3. Haim
+4. London Grammar
+5. Marina and the Diamonds
+6. Tove Lo
+7. CHVRCHES
+8. BANKS
+9. The xx
+10. Hozier
+11. Sia
+12. The National
+13. Bon Iver
+14. The Weeknd
+15. Sam Smith
+16. James Blake
+17. Alt-J
+18. The 1975
+19. Arctic Monkeys
+20. Tame Impala
+21. Vampire Weekend
+22. Florence + The Machine
+23. Lykke Li
+24. Ellie Goulding
+25. Björk
+26. Kanye West
+27. Hurts
+28. Robyn
+29. Mumford & Sons
+30. Antony and the Johnsons
+31. Clare Maguire
+32. Ladyhawke
+33. Beirut
+34. Drake
+35. Burial
+36. Kings of Leon
+37. Gorillaz
+38. Laura Marling
+39. Chase & Status
+40. Emilíana Torrini
+41. Solange
+42. Frank Ocean
+43. Solomun
+44. Jamie xx
+45. The War on Drugs
+46. FKA twigs
+47. Christine and the Queens
+48. M83
+49. Grimes
+50. The Knife
+
+These recommendations are based on the user's liking of similar artists and genres.

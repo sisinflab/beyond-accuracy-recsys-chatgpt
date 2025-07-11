@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+3. The Chronicles of Narnia by C.S. Lewis
+4. The Giver by Lois Lowry
+5. Holes by Louis Sachar
+6. The Secret Garden by Frances Hodgson Burnett
+7. A Wrinkle in Time by Madeleine L'Engle
+8. Bridge to Terabithia by Katherine Paterson
+9. The Outsiders by S.E. Hinton
+10. The Lightning Thief by Rick Riordan
+11. The Hobbit by J.R.R. Tolkien
+12. The Maze Runner by James Dashner
+13. Percy Jackson & the Olympians by Rick Riordan
+14. The Fault in Our Stars by John Green
+15. Divergent by Veronica Roth
+16. The Book Thief by Markus Zusak
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. To Kill a Mockingbird by Harper Lee
+19. The Catcher in the Rye by J.D. Salinger
+20. The Alchemist by Paulo Coelho
+21. The Little Prince by Antoine de Saint-Exupéry
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Kite Runner by Khaled Hosseini
+24. The Help by Kathryn Stockett
+25. The Night Circus by Erin Morgenstern
+26. The Goldfinch by Donna Tartt
+27. The Handmaid's Tale by Margaret Atwood
+28. The Great Gatsby by F. Scott Fitzgerald
+29. 1984 by George Orwell
+30. Animal Farm by George Orwell
+31. The Lord of the Rings by J.R.R. Tolkien
+32. The Girl on the Train by Paula Hawkins
+33. Gone Girl by Gillian Flynn
+34. The Da Vinci Code by Dan Brown
+35. Angels & Demons by Dan Brown
+36. The Girl with the Pearl Earring by Tracy Chevalier
+37. The Time Traveler's Wife by Audrey Niffenegger
+38. The Lovely Bones by Alice Sebold
+39. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+40. Life of Pi by Yann Martel
+41. The Secret Life of Bees by Sue Monk Kidd
+42. The Glass Castle by Jeannette Walls
+43. The Road by Cormac McCarthy
+44. The Help by Kathryn Stockett
+45. The Night Circus by Erin Morgenstern
+46. The Goldfinch by Donna Tartt
+47. The Handmaid's Tale by Margaret Atwood
+48. The Great Gatsby by F. Scott Fitzgerald
+49. 1984 by George Orwell
+50. Animal Farm by George Orwell
+
+These recommendations are based on the user's interest in young adult fiction, fantasy, and classic literature.

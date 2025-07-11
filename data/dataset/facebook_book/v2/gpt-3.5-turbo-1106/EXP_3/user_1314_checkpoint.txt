@@ -1,0 +1,52 @@
+Based on user 1314's preferences, here are the top 50 book recommendations:
+
+1. Dracula by Bram Stoker
+2. Frankenstein by Mary Shelley
+3. The Wonderful Wizard of Oz by L. Frank Baum
+4. Gospel of Mark
+5. Book of Revelation
+6. Gospel of Matthew
+7. Bible
+8. King James Version
+9. Epistle to the Romans
+10. The Lord of the Rings
+11. The Chronicles of Narnia: Prince Caspian
+12. Harry Potter
+13. The Da Vinci Code
+14. Twilight (series)
+15. Angels & Demons
+16. The Watchmen (novel)
+17. The Mist
+18. Crime (novel)
+19. Oliver Twist
+20. Alice's Adventures in Wonderland
+21. Sense and Sensibility and Sea Monsters
+22. Perfume (novel)
+23. Memoirs of a Geisha
+24. Weetzie Bat
+25. Cujo
+26. Treasure Island
+27. Macbeth
+28. Holes (novel)
+29. The House (novel)
+30. Silverwing (novel)
+31. Northanger Abbey
+32. Carrie (novel)
+33. The Last Song (novel)
+34. The Child Thief
+35. King Solomon's Mines
+36. Tithe: A Modern Faerie Tale
+37. Girl, Interrupted
+38. The Perks of Being a Wallflower
+39. Freakonomics
+40. Walk Two Moons
+41. One Hundred Years of Solitude
+42. Pet Sematary
+43. Angus, Thongs and Full-Frontal Snogging
+44. Slaughterhouse-Five
+45. Twisted (book)
+46. Of Mice and Men
+47. Great Expectations
+48. The Pirate (novel)
+49. Strange Case of Dr Jekyll and Mr Hyde
+50. Cosmos (book)

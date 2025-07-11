@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Night Circus by Erin Morgenstern
+2. The Mortal Instruments series by Cassandra Clare
+3. Inkheart by Cornelia Funke
+4. The Name of the Wind by Patrick Rothfuss
+5. Uglies series by Scott Westerfeld
+6. The Hunger Games series by Suzanne Collins
+7. The Raven Boys by Maggie Stiefvater
+8. The Darkest Part of the Forest by Holly Black
+9. The Diviners by Libba Bray
+10. The Infernal Devices series by Cassandra Clare
+11. The Archived by Victoria Schwab
+12. The Secret History by Donna Tartt
+13. The Hazel Wood by Melissa Albert
+14. The Bone Season by Samantha Shannon
+15. Daughter of Smoke & Bone by Laini Taylor
+16. The Night Angel Trilogy by Brent Weeks
+17. The Giver by Lois Lowry
+18. The Magicians by Lev Grossman
+19. The Secret Circle series by L.J. Smith
+20. The Gemma Doyle Trilogy by Libba Bray
+21. The Dark Artifices series by Cassandra Clare
+22. The Wicked Deep by Shea Ernshaw
+23. The Grisha Trilogy by Leigh Bardugo
+24. The Archived by Victoria Schwab
+25. The Unbecoming of Mara Dyer by Michelle Hodkin
+26. The Coldest Girl in Coldtown by Holly Black
+27. The Diviners by Libba Bray
+28. The Bone Season by Samantha Shannon
+29. The Hazel Wood by Melissa Albert
+30. The Archived by Victoria Schwab
+31. The Secret History by Donna Tartt
+32. The Night Angel Trilogy by Brent Weeks
+33. The Giver by Lois Lowry
+34. The Magicians by Lev Grossman
+35. The Secret Circle series by L.J. Smith
+36. The Gemma Doyle Trilogy by Libba Bray
+37. The Dark Artifices series by Cassandra Clare
+38. The Wicked Deep by Shea Ernshaw
+39. The Grisha Trilogy by Leigh Bardugo
+40. The Archived by Victoria Schwab
+41. The Unbecoming of Mara Dyer by Michelle Hodkin
+42. The Coldest Girl in Coldtown by Holly Black
+43. The Diviners by Libba Bray
+44. The Bone Season by Samantha Shannon
+45. The Hazel Wood by Melissa Albert
+46. The Archived by Victoria Schwab
+47. The Secret History by Donna Tartt
+48. The Night Angel Trilogy by Brent Weeks
+49. The Giver by Lois Lowry
+50. The Magicians by Lev Grossman
+
+These recommendations are based on the user's interest in fantasy, supernatural, and young adult fiction.

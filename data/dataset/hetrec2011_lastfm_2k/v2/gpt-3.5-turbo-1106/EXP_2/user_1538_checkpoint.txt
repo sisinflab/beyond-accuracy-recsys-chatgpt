@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 1538:
+
+1. Radiohead
+2. Muse
+3. Coldplay
+4. The Beatles
+5. Placebo
+6. The Killers
+7. Amy Winehouse
+8. System of a Down
+9. Blur
+10. Nirvana
+11. Iron Maiden
+12. Metallica
+13. Pink Floyd
+14. The Cure
+15. Linkin Park
+16. Green Day
+17. My Chemical Romance
+18. Nine Inch Nails
+19. Pearl Jam
+20. Arctic Monkeys
+21. Kings of Leon
+22. Oasis
+23. Kasabian
+24. The Last Shadow Puppets
+25. Feist
+26. Editors
+27. Travis
+28. Jeff Buckley
+29. PJ Harvey
+30. Iron & Wine
+31. Beirut
+32. Neutral Milk Hotel
+33. Pain of Salvation
+34. Dream Theater
+35. Epica
+36. Jethro Tull
+37. The Cranberries
+38. dredg
+39. Deep Purple
+40. She Wants Revenge
+41. The Killers
+42. The Last Shadow Puppets
+43. blink-182
+44. Kings of Leon
+45. The Cranberries
+46. The Cure
+47. Jethro Tull
+48. Editors
+49. Oasis
+50. Blur
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

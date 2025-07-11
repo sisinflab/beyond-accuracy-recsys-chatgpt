@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. The Grapes of Wrath by John Steinbeck
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Old Man and the Sea by Ernest Hemingway
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Sun Also Rises by Ernest Hemingway
+10. The Sound and the Fury by William Faulkner
+11. East of Eden by John Steinbeck
+12. The Stranger by Albert Camus
+13. A Farewell to Arms by Ernest Hemingway
+14. The Road by Cormac McCarthy
+15. The Brothers Karamazov by Fyodor Dostoyevsky
+16. The Picture of Dorian Gray by Oscar Wilde
+17. Heart of Darkness by Joseph Conrad
+18. The Bell Jar by Sylvia Plath
+19. The Trial by Franz Kafka
+20. The Idiot by Fyodor Dostoyevsky
+21. The Plague by Albert Camus
+22. The Outsider by Albert Camus
+23. The Metamorphosis by Franz Kafka
+24. The Stranger by Harlan Coben
+25. The Secret History by Donna Tartt
+26. The Road to Wigan Pier by George Orwell
+27. The Sound of Waves by Yukio Mishima
+28. The Great Gatsby by F. Scott Fitzgerald
+29. The Beautiful and Damned by F. Scott Fitzgerald
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Old Man and the Sea by Ernest Hemingway
+32. The Sun Also Rises by Ernest Hemingway
+33. The Sound and the Fury by William Faulkner
+34. The Catcher in the Rye by J.D. Salinger
+35. The Grapes of Wrath by John Steinbeck
+36. The Old Man and the Sea by Ernest Hemingway
+37. The Sun Also Rises by Ernest Hemingway
+38. The Sound and the Fury by William Faulkner
+39. The Catcher in the Rye by J.D. Salinger
+40. The Grapes of Wrath by John Steinbeck
+41. The Old Man and the Sea by Ernest Hemingway
+42. The Sun Also Rises by Ernest Hemingway
+43. The Sound and the Fury by William Faulkner
+44. The Catcher in the Rye by J.D. Salinger
+45. The Grapes of Wrath by John Steinbeck
+46. The Old Man and the Sea by Ernest Hemingway
+47. The Sun Also Rises by Ernest Hemingway
+48. The Sound and the Fury by William Faulkner
+49. The Catcher in the Rye by J.D. Salinger
+50. The Grapes of Wrath by John Steinbeck
+
+These recommendations are based on the user's liking of classic literature and novels with deep philosophical themes.

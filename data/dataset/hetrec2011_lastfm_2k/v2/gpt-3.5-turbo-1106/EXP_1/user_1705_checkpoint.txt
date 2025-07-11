@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Nirvana
+3. Red Hot Chili Peppers
+4. Pearl Jam
+5. Muse
+6. The White Stripes
+7. Oasis
+8. The Black Keys
+9. The Smashing Pumpkins
+10. The Killers
+11. Interpol
+12. The National
+13. Tame Impala
+14. The Flaming Lips
+15. Modest Mouse
+16. Vampire Weekend
+17. The Shins
+18. Death Cab for Cutie
+19. Spoon
+20. Yeah Yeah Yeahs
+21. Bloc Party
+22. The Decemberists
+23. Phoenix
+24. MGMT
+25. The Postal Service
+26. Arctic Monkeys
+27. The Strokes
+28. Kings of Leon
+29. Franz Ferdinand
+30. The Libertines
+31. The Hives
+32. The Kooks
+33. The Subways
+34. The Futureheads
+35. The Wombats
+36. Foals
+37. White Lies
+38. Coldplay
+39. The Vines
+40. The Raconteurs
+41. The Bravery
+42. The Fratellis
+43. The Coral
+44. The Zutons
+45. The View
+46. The Pigeon Detectives
+47. The Cribs
+48. The Rakes
+49. The Maccabees
+50. The Courteeners
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for the user to explore.

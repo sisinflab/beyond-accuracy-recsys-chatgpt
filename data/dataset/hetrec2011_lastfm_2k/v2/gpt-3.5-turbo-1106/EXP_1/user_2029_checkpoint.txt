@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Prodigy
+2. Arctic Monkeys
+3. Radiohead
+4. Muse
+5. The Strokes
+6. Gorillaz
+7. The White Stripes
+8. Beck
+9. Interpol
+10. Kasabian
+11. The Chemical Brothers
+12. Bloc Party
+13. Tame Impala
+14. The Black Keys
+15. MGMT
+16. Cage The Elephant
+17. The Hives
+18. Franz Ferdinand
+19. The Killers
+20. Modest Mouse
+21. Spoon
+22. The Flaming Lips
+23. Vampire Weekend
+24. The National
+25. Death From Above 1979
+26. Silversun Pickups
+27. The Raconteurs
+28. TV On The Radio
+29. Foals
+30. Hot Chip
+31. LCD Soundsystem
+32. Yeah Yeah Yeahs
+33. The Rapture
+34. Cut Copy
+35. Friendly Fires
+36. Chromeo
+37. Hot Hot Heat
+38. The Bravery
+39. The Faint
+40. She Wants Revenge
+41. White Lies
+42. Editors
+43. The Horrors
+44. The Wombats
+45. The Vaccines
+46. Two Door Cinema Club
+47. Foster The People
+48. Phoenix
+49. Passion Pit
+50. Empire of the Sun
+
+These recommendations are based on the user's liking of similar artists and genres.

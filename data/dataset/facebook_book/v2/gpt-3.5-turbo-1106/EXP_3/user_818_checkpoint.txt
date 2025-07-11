@@ -1,0 +1,54 @@
+Based on user 818's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Handmaid's Tale by Margaret Atwood
+3. Brave New World by Aldous Huxley
+4. The Name of the Wind by Patrick Rothfuss
+5. The Fountainhead by Ayn Rand
+6. The Count of Monte Cristo by Alexandre Dumas
+7. Anna Karenina by Leo Tolstoy
+8. Marked (novel) by P.C. Cast and Kristin Cast
+9. Oliver Twist by Charles Dickens
+10. Pride and Prejudice by Jane Austen
+11. The Grapes of Wrath by John Steinbeck
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Old Man and the Sea by Ernest Hemingway
+14. Player Piano (novel) by Kurt Vonnegut
+15. War and Peace by Leo Tolstoy
+16. Thirteen Reasons Why by Jay Asher
+17. Northern Lights (novel) by Philip Pullman
+18. Harry Potter series by J.K. Rowling
+19. Left Behind (novel) by Tim LaHaye and Jerry B. Jenkins
+20. The Good Earth by Pearl S. Buck
+21. The Lottery by Shirley Jackson
+22. City of Ashes by Cassandra Clare
+23. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Hobbit by J.R.R. Tolkien
+26. Twilight series by Stephenie Meyer
+27. Speak (novel) by Laurie Halse Anderson
+28. Room (novel) by Emma Donoghue
+29. Anthem (novella) by Ayn Rand
+30. The Watchmen (novel) by Alan Moore and Dave Gibbons
+31. A Tale of Two Cities by Charles Dickens
+32. Go Ask Alice by Beatrice Sparks
+33. Fallen (Kate novel) by Lauren Kate
+34. The Shining (novel) by Stephen King
+35. The Lord of the Rings by J.R.R. Tolkien
+36. The Chosen (Potok novel) by Chaim Potok
+37. Incarceron by Catherine Fisher
+38. Civil Disobedience by Henry David Thoreau
+39. Blink (book) by Malcolm Gladwell
+40. Let the Right One In (novel) by John Ajvide Lindqvist
+41. The Legend of Sleepy Hollow by Washington Irving
+42. Bartleby, the Scrivener by Herman Melville
+43. Fruits Basket by Natsuki Takaya
+44. Alice's Adventures in Wonderland by Lewis Carroll
+45. The Great Gatsby by F. Scott Fitzgerald
+46. Tess of the d'Urbervilles by Thomas Hardy
+47. Crime and Punishment by Fyodor Dostoevsky
+48. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+49. Beauty: A Retelling of the Story of Beauty and the Beast by Robin McKinley
+50. Pretty Little Liars (book) by Sara Shepard
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

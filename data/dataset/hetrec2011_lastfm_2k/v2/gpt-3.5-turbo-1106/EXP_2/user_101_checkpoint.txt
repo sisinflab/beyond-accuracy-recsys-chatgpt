@@ -1,0 +1,54 @@
+Based on user 101's preferences, here are the top 50 recommendations for them:
+
+1. Metallica
+2. My Chemical Romance
+3. Avenged Sevenfold
+4. Linkin Park
+5. Nine Inch Nails
+6. Daft Punk
+7. Blink-182
+8. Queens of the Stone Age
+9. Foo Fighters
+10. Bullet for My Valentine
+11. Bring Me The Horizon
+12. A Day to Remember
+13. Escape The Fate
+14. The Used
+15. Pierce the Veil
+16. The GazettE
+17. Gloria
+18. Sum 41
+19. Red Hot Chili Peppers
+20. Fall Out Boy
+21. Panic! At the Disco
+22. All Time Low
+23. We Came As Romans
+24. Simple Plan
+25. nevershoutnever!
+26. Atreyu
+27. Cobra Starship
+28. Weezer
+29. ASIAN KUNG-FU GENERATION
+30. Demi Lovato
+31. Paramore
+32. Muse
+33. 30 Seconds to Mars
+34. Green Day
+35. The Killers
+36. Nirvana
+37. Iron Maiden
+38. Michael Jackson
+39. Lady Gaga
+40. Rihanna
+41. Katy Perry
+42. Christina Aguilera
+43. Britney Spears
+44. Madonna
+45. Shakira
+46. Beyoncé
+47. U2
+48. Glee Cast
+49. Taylor Swift
+50. Miley Cyrus
+
+These recommendations are based on the user's liking for similar artists and genres.

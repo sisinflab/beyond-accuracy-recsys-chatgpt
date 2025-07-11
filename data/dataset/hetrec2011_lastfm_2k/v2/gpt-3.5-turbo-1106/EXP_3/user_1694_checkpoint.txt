@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1694:
+
+1. Kid Cudi
+2. A Tribe Called Quest
+3. Common
+4. Ghostface Killah
+5. J Dilla
+6. De La Soul
+7. GZA/Genius
+8. MF DOOM
+9. Cypress Hill
+10. O.S.T.R.
+11. Ashanti
+12. Alicia Keys
+13. Yeah Yeah Yeahs
+14. Brandy
+15. Gang Starr
+16. Red Hot Chili Peppers
+17. Lil' Wayne
+18. Chris Brown
+19. Sublime
+20. The Game
+21. Ne-Yo
+22. Band of Horses
+23. Keri Hilson
+24. Mary J. Blige
+25. ATB
+26. Mobb Deep
+27. Fleet Foxes
+28. Ciara
+29. Eminem
+30. Madlib
+31. Lupe Fiasco
+32. Linkin Park
+33. Raekwon
+34. Busta Rhymes
+35. John Mayer
+36. 50 Cent
+37. Rage Against the Machine
+38. Black Sabbath
+39. Aaliyah
+40. B.o.B
+41. OutKast
+42. Erykah Badu
+43. Lykke Li
+44. Muse
+45. Flying Lotus
+46. The Beatles
+47. The Fray
+48. Kanye West
+49. Mos Def
+50. Sia
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their taste in music.

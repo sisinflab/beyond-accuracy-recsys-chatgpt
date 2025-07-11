@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Imagine Dragons
+2. Twenty One Pilots
+3. Bastille
+4. The 1975
+5. Florence + The Machine
+6. Paramore
+7. Hozier
+8. Vance Joy
+9. Lorde
+10. The Neighbourhood
+11. Foster The People
+12. Tame Impala
+13. CHVRCHES
+14. The Lumineers
+15. Of Monsters and Men
+16. Arctic Monkeys
+17. Muse
+18. The Killers
+19. Coldplay
+20. Green Day
+21. Jorge & Mateus
+22. Avril Lavigne
+23. NX Zero
+24. Linkin Park
+25. Lady Gaga
+26. Red Hot Chili Peppers
+27. Nirvana
+28. Maroon 5
+29. Black Eyed Peas
+30. Incubus
+31. Beyoncé
+32. The Fray
+33. Panic! At the Disco
+34. Skank
+35. Pitty
+36. Katy Perry
+37. David Guetta
+38. Britney Spears
+39. Tokio Hotel
+40. Serj Tankian
+41. Evanescence
+42. Nickelback
+43. Daughtry
+44. Simple Plan
+45. Jonas Brothers
+46. Miley Cyrus
+47. Charlie Brown Jr.
+48. Rihanna
+49. Fresno
+50. OneRepublic
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 13's preferences, here are the top 50 recommendations:
+
+1. The Lord of the Rings
+2. The Hobbit
+3. Anthem (novella)
+4. Night (book)
+5. The Doors of Perception
+6. Angels & Demons
+7. Inferno (Dante)
+8. Dear John (novel)
+9. The Fabric of the Cosmos
+10. The Silmarillion
+11. To Kill a Mockingbird
+12. The Five People You Meet in Heaven
+13. Atlas Shrugged
+14. Nineteen Eighty-Four
+15. The Kite Runner
+16. A Walk in the Woods
+17. Brave New World
+18. The Giver
+19. The Lovely Bones
+20. Flowers in the Attic
+21. The Hunger Games
+22. The Chronicles of Narnia: Prince Caspian
+23. Les Misérables
+24. Frankenstein
+25. Holes (novel)
+26. The Autobiography of Malcolm X
+27. His Dark Materials
+28. Bhagavad Gita
+29. Pet Sematary
+30. The Trumpet of the Swan
+31. Jane Eyre
+32. Encyclopædia Britannica
+33. The Zombie Survival Guide
+34. Mockingjay
+35. A Midsummer Night's Dream
+36. Fallen (Kate novel)
+37. The Hatchet (novel)
+38. An Inconvenient Book
+39. Through the Looking-Glass
+40. I Am America (And So Can You!)
+41. Anne of Green Gables
+42. The Other Side of Midnight
+43. 'Salem's Lot
+44. Alas, Babylon
+45. The Monk Who Sold His Ferrari
+46. Insomnia (novel)
+47. A Million Little Pieces
+48. The Godfather (novel)
+49. Fablehaven
+50. The Curious Incident of the Dog in the Night-Time
+
+These recommendations are based on the user's previous book preferences and are ranked according to their potential appeal to the user.

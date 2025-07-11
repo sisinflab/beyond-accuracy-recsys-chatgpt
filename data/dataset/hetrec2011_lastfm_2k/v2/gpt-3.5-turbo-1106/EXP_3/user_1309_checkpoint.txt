@@ -1,0 +1,54 @@
+Based on user 1309's preferences, here are the top-50 recommendations for the given artists:
+
+1. Nirvana
+2. The White Stripes
+3. The Strokes
+4. The Mars Volta
+5. The Smashing Pumpkins
+6. Pixies
+7. The Verve
+8. Joy Division
+9. The Kinks
+10. The Beatles
+11. Radiohead
+12. Muse
+13. Sonic Youth
+14. Soundgarden
+15. Pearl Jam
+16. Alice in Chains
+17. Red Hot Chili Peppers
+18. Foo Fighters
+19. Nine Inch Nails
+20. Tool
+21. Queens of the Stone Age
+22. Them Crooked Vultures
+23. A Perfect Circle
+24. Deftones
+25. Rage Against the Machine
+26. Metallica
+27. Marilyn Manson
+28. Rammstein
+29. Pink Floyd
+30. David Bowie
+31. Beck
+32. Monster Magnet
+33. Mr. Bungle
+34. Faith No More
+35. Melvins
+36. The Raconteurs
+37. The Brian Jonestown Massacre
+38. Nick Cave and the Bad Seeds
+39. Siouxsie and the Banshees
+40. Yo La Tengo
+41. The Doors
+42. Tom Waits
+43. Black Sabbath
+44. Led Zeppelin
+45. Deep Purple
+46. Dire Straits
+47. Gorillaz
+48. Massive Attack
+49. The Prodigy
+50. O.S.T.R.
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists that align with their musical tastes.

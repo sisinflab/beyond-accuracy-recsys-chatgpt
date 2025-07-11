@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. The Hunger Games by Suzanne Collins
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Alchemist by Paulo Coelho
+6. The Da Vinci Code by Dan Brown
+7. The Secret Garden by Frances Hodgson Burnett
+8. The Outsiders by S.E. Hinton
+9. The Book Thief by Markus Zusak
+10. The Fault in Our Stars by John Green
+11. The Great Gatsby by F. Scott Fitzgerald
+12. The Little Prince by Antoine de Saint-Exupéry
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Maze Runner by James Dashner
+15. The Road by Cormac McCarthy
+16. The Kite Runner by Khaled Hosseini
+17. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+18. The Perks of Being a Wallflower by Stephen Chbosky
+19. The Help by Kathryn Stockett
+20. The Lovely Bones by Alice Sebold
+21. The Girl on the Train by Paula Hawkins
+22. The Night Circus by Erin Morgenstern
+23. The Goldfinch by Donna Tartt
+24. The Handmaid's Tale by Margaret Atwood
+25. The Martian by Andy Weir
+26. The Silent Patient by Alex Michaelides
+27. The Tattooist of Auschwitz by Heather Morris
+28. The Nightingale by Kristin Hannah
+29. The Glass Castle by Jeannette Walls
+30. The Light Between Oceans by M.L. Stedman
+31. The Rosie Project by Graeme Simsion
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Help by Kathryn Stockett
+34. The Lovely Bones by Alice Sebold
+35. The Girl on the Train by Paula Hawkins
+36. The Night Circus by Erin Morgenstern
+37. The Goldfinch by Donna Tartt
+38. The Handmaid's Tale by Margaret Atwood
+39. The Martian by Andy Weir
+40. The Silent Patient by Alex Michaelides
+41. The Tattooist of Auschwitz by Heather Morris
+42. The Nightingale by Kristin Hannah
+43. The Glass Castle by Jeannette Walls
+44. The Light Between Oceans by M.L. Stedman
+45. The Rosie Project by Graeme Simsion
+46. The Time Traveler's Wife by Audrey Niffenegger
+47. The Help by Kathryn Stockett
+48. The Lovely Bones by Alice Sebold
+49. The Girl on the Train by Paula Hawkins
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the user's interest in fantasy, dystopian, adventure, and mystery genres.

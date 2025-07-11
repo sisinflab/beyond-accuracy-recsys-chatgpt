@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Kendrick Lamar
+2. Tame Impala
+3. Gorillaz
+4. Beck
+5. Vampire Weekend
+6. The Strokes
+7. Arctic Monkeys
+8. Bon Iver
+9. The Flaming Lips
+10. Modest Mouse
+11. Spoon
+12. Interpol
+13. The Black Keys
+14. Yeah Yeah Yeahs
+15. The War on Drugs
+16. Father John Misty
+17. Fleet Foxes
+18. The Shins
+19. Sufjan Stevens
+20. Wilco
+21. The National
+22. LCD Soundsystem
+23. Grizzly Bear
+24. Animal Collective
+25. Radiohead
+26. Arcade Fire
+27. The xx
+28. The Smiths
+29. Pixies
+30. of Montreal
+31. Simian Mobile Disco
+32. Wire
+33. The Rolling Stones
+34. Crystal Castles
+35. Daft Punk
+36. M.I.A.
+37. Jay-Z
+38. R.E.M.
+39. Tom Waits
+40. Burial
+41. Raekwon
+42. Empire of the Sun
+43. Blur
+44. Flying Lotus
+45. Ghostface Killah
+46. Portishead
+47. Massive Attack
+48. The Chemical Brothers
+49. Aphex Twin
+50. Boards of Canada
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current likes.

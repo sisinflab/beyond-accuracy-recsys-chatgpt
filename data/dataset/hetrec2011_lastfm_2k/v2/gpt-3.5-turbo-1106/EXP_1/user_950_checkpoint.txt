@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Judas Priest
+2. Black Sabbath
+3. Megadeth
+4. Metallica
+5. Ozzy Osbourne
+6. AC/DC
+7. Motorhead
+8. Guns N' Roses
+9. Deep Purple
+10. Scorpions
+11. Van Halen
+12. Whitesnake
+13. Anthrax
+14. Slayer
+15. Pantera
+16. Testament
+17. Sepultura
+18. Exodus
+19. Kreator
+20. Saxon
+21. Helloween
+22. Iron Maiden (if not already in the user's collection)
+23. Def Leppard (if not already in the user's collection)
+24. The Beatles (if not already in the user's collection)
+25. KISS (if not already in the user's collection)
+26. Alice Cooper (if not already in the user's collection)
+27. Dokken (if not already in the user's collection)
+28. Cradle of Filth (if not already in the user's collection)
+29. Europe (if not already in the user's collection)
+30. Manowar (if not already in the user's collection)
+31. Bruce Dickinson (if not already in the user's collection)
+32. W.A.S.P. (if not already in the user's collection)
+33. George Harrison (if not already in the user's collection)
+34. The Cure (if not already in the user's collection)
+35. Depeche Mode (if not already in the user's collection)
+36. Cinderella (if not already in the user's collection)
+37. David Bowie (if not already in the user's collection)
+38. Burzum (if not already in the user's collection)
+39. Mötley Crüe (if not already in the user's collection)
+40. Poison (if not already in the user's collection)
+41. Pink Floyd (if not already in the user's collection)
+42. Dimmu Borgir (if not already in the user's collection)
+43. Twisted Sister (if not already in the user's collection)
+44. Ratt (if not already in the user's collection)
+45. Accept (if not already in the user's collection)
+46. Billy Idol (if not already in the user's collection)
+47. Led Zeppelin
+48. Queen
+49. The Rolling Stones
+50. The Who
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands.

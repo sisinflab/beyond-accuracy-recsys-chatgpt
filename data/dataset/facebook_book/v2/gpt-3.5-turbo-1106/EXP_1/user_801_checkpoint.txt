@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J. D. Salinger
+2. The Great Gatsby by F. Scott Fitzgerald
+3. 1984 by George Orwell
+4. To Kill a Mockingbird by Harper Lee
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Picture of Dorian Gray by Oscar Wilde
+7. Brave New World by Aldous Huxley
+8. Crime and Punishment by Fyodor Dostoevsky
+9. The Stranger by Albert Camus
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. The Handmaid's Tale by Margaret Atwood
+12. Lolita by Vladimir Nabokov
+13. The Road by Cormac McCarthy
+14. The Grapes of Wrath by John Steinbeck
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Sound and the Fury by William Faulkner
+18. A Clockwork Orange by Anthony Burgess
+19. The Bell Jar by Sylvia Plath
+20. The Heart is a Lonely Hunter by Carson McCullers
+21. The Stranger Beside Me by Ann Rule
+22. The Shining by Stephen King
+23. The Stand by Stephen King
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Road by Cormac McCarthy
+26. The Handmaid's Tale by Margaret Atwood
+27. The Catcher in the Rye by J. D. Salinger
+28. The Great Gatsby by F. Scott Fitzgerald
+29. 1984 by George Orwell
+30. To Kill a Mockingbird by Harper Lee
+31. One Hundred Years of Solitude by Gabriel Garcia Marquez
+32. The Picture of Dorian Gray by Oscar Wilde
+33. Brave New World by Aldous Huxley
+34. Crime and Punishment by Fyodor Dostoevsky
+35. The Stranger by Albert Camus
+36. Slaughterhouse-Five by Kurt Vonnegut
+37. The Handmaid's Tale by Margaret Atwood
+38. Lolita by Vladimir Nabokov
+39. The Road by Cormac McCarthy
+40. The Grapes of Wrath by John Steinbeck
+41. The Sun Also Rises by Ernest Hemingway
+42. The Old Man and the Sea by Ernest Hemingway
+43. The Sound and the Fury by William Faulkner
+44. A Clockwork Orange by Anthony Burgess
+45. The Bell Jar by Sylvia Plath
+46. The Heart is a Lonely Hunter by Carson McCullers
+47. The Stranger Beside Me by Ann Rule
+48. The Shining by Stephen King
+49. The Stand by Stephen King
+50. The Girl with the Dragon Tattoo by Stieg Larsson
+
+These recommendations are based on the user's interest in classic literature, psychological thrillers, and dark, thought-provoking themes.

@@ -1,0 +1,54 @@
+Based on user 2020's preferences, here are the top 50 recommendations for them:
+
+1. Paramore
+2. Lady Gaga
+3. Rihanna
+4. Katy Perry
+5. Arctic Monkeys
+6. Nirvana
+7. 30 Seconds to Mars
+8. Michael Jackson
+9. Beyoncé
+10. Muse
+11. Pink Floyd
+12. Radiohead
+13. Coldplay
+14. The Killers
+15. Iron Maiden
+16. Led Zeppelin
+17. Metallica
+18. Björk
+19. System of a Down
+20. Daft Punk
+21. Nine Inch Nails
+22. Linkin Park
+23. Avenged Sevenfold
+24. My Chemical Romance
+25. Green Day
+26. The Cure
+27. Madonna
+28. Shakira
+29. Avril Lavigne
+30. Taylor Swift
+31. Evanescence
+32. Glee Cast
+33. U2
+34. Kylie Minogue
+35. Miley Cyrus
+36. Ke$ha
+37. Duran Duran
+38. Blur
+39. Placebo
+40. Amy Winehouse
+41. Pearl Jam
+42. a-ha
+43. Depeche Mode
+44. The Beatles
+45. Black Eyed Peas
+46. Christina Aguilera
+47. Britney Spears
+48. The Rolling Stones
+49. The Who
+50. Queen
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

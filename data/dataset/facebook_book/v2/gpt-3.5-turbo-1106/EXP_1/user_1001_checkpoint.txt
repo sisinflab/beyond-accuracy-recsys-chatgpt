@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glass (Crank) by Ellen Hopkins
+2. Tricks (novel) by Ellen Hopkins
+3. Fallout (Hopkins novel) by Ellen Hopkins
+4. Perfect (Hopkins novel) by Ellen Hopkins
+5. Tilt (Hopkins novel) by Ellen Hopkins
+6. Rumble by Ellen Hopkins
+7. The You I've Never Known by Ellen Hopkins
+8. Identical (novel) by Ellen Hopkins
+9. Burned (Hopkins novel) by Ellen Hopkins
+10. Crank (novel) by Ellen Hopkins
+11. Go Ask Alice by Anonymous
+12. Jay's Journal by Beatrice Sparks
+13. Smack (novel) by Melvin Burgess
+14. Cut (novel) by Patricia McCormick
+15. Impulse by Ellen Hopkins
+16. Impulse economy by Gary Schwartz (designer)
+17. Identical by Scott Turow
+18. The Lovely Bones by Alice Sebold
+19. Speak by Laurie Halse Anderson
+20. Wintergirls by Laurie Halse Anderson
+21. Thirteen Reasons Why by Jay Asher
+22. The Perks of Being a Wallflower by Stephen Chbosky
+23. It's Kind of a Funny Story by Ned Vizzini
+24. Girl, Interrupted by Susanna Kaysen
+25. Prozac Nation by Elizabeth Wurtzel
+26. The Bell Jar by Sylvia Plath
+27. The Catcher in the Rye by J.D. Salinger
+28. The Fault in Our Stars by John Green
+29. Looking for Alaska by John Green
+30. Paper Towns by John Green
+31. An Abundance of Katherines by John Green
+32. Will Grayson, Will Grayson by John Green and David Levithan
+33. Every Day by David Levithan
+34. Another Day by David Levithan
+35. If I Stay by Gayle Forman
+36. Where She Went by Gayle Forman
+37. Just Listen by Sarah Dessen
+38. Thirteen Little Blue Envelopes by Maureen Johnson
+39. The Sky Is Everywhere by Jandy Nelson
+40. I'll Give You the Sun by Jandy Nelson
+41. All the Bright Places by Jennifer Niven
+42. Holding Up the Universe by Jennifer Niven
+43. Before I Fall by Lauren Oliver
+44. Vanishing Girls by Lauren Oliver
+45. Panic by Lauren Oliver
+46. Delirium by Lauren Oliver
+47. Before I Die by Jenny Downham
+48. You Against Me by Jenny Downham
+49. The Manifesto on How to be Interesting by Holly Bourne
+50. Am I Normal Yet? by Holly Bourne
+
+These recommendations are based on the user's interest in books by Ellen Hopkins, as well as other young adult fiction and novels dealing with similar themes.

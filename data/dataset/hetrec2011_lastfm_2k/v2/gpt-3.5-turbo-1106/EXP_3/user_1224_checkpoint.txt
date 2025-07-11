@@ -1,0 +1,54 @@
+Based on the preferences of user 1224, here are the top 50 recommendations for them:
+
+1. The Rolling Stones
+2. Eric Clapton
+3. Jimi Hendrix
+4. Cream
+5. ZZ Top
+6. Santana
+7. The Doors
+8. Gary Moore
+9. Lynyrd Skynyrd
+10. B.B. King
+11. Muddy Waters
+12. Stevie Ray Vaughan
+13. Howlin' Wolf
+14. Robert Johnson
+15. Buddy Guy
+16. John Lee Hooker
+17. Ray Charles
+18. Elvis Presley
+19. Johnny Cash
+20. The Animals
+21. David Bowie
+22. Janis Joplin
+23. Aerosmith
+24. Neil Young
+25. Bob Marley
+26. The Who
+27. Fleetwood Mac
+28. John Mayer
+29. Beck
+30. Green Day
+31. Nirvana
+32. The Kinks
+33. The Gaslight Anthem
+34. U2
+35. R.E.M.
+36. Weezer
+37. David Gilmour
+38. Paul McCartney & Wings
+39. Andrew Bird
+40. Manu Chao
+41. Sublime
+42. Bruce Springsteen
+43. Chuck Berry
+44. Elvis Costello
+45. Jethro Tull
+46. Bob Dylan
+47. The Beatles
+48. Red Hot Chili Peppers
+49. Radiohead
+50. Soda Stereo
+
+These recommendations are based on the similar musical styles and genres of the artists that user 1224 likes.

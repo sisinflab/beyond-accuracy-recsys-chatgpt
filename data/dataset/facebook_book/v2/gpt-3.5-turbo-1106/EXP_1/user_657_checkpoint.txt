@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. The Book Thief by Markus Zusak
+7. The Fault in Our Stars by John Green
+8. The Kite Runner by Khaled Hosseini
+9. The Alchemist by Paulo Coelho
+10. The Giver by Lois Lowry
+11. The Outsiders by S.E. Hinton
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Maze Runner by James Dashner
+14. Divergent by Veronica Roth
+15. The Girl on the Train by Paula Hawkins
+16. Gone Girl by Gillian Flynn
+17. The Help by Kathryn Stockett
+18. The Night Circus by Erin Morgenstern
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Glass Castle by Jeannette Walls
+21. The Lovely Bones by Alice Sebold
+22. The Goldfinch by Donna Tartt
+23. The Handmaid's Tale by Margaret Atwood
+24. The Road by Cormac McCarthy
+25. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Martian by Andy Weir
+29. The Nightingale by Kristin Hannah
+30. The Silent Patient by Alex Michaelides
+31. The Tattooist of Auschwitz by Heather Morris
+32. The Light Between Oceans by M.L. Stedman
+33. The Rosie Project by Graeme Simsion
+34. The Husband's Secret by Liane Moriarty
+35. The Secret History by Donna Tartt
+36. The Shadow of the Wind by Carlos Ruiz Zafón
+37. The Thirteenth Tale by Diane Setterfield
+38. The Night Circus by Erin Morgenstern
+39. The Secret Life of Bees by Sue Monk Kidd
+40. The Glass Castle by Jeannette Walls
+41. The Lovely Bones by Alice Sebold
+42. The Goldfinch by Donna Tartt
+43. The Handmaid's Tale by Margaret Atwood
+44. The Road by Cormac McCarthy
+45. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Time Traveler's Wife by Audrey Niffenegger
+48. The Martian by Andy Weir
+49. The Nightingale by Kristin Hannah
+50. The Silent Patient by Alex Michaelides
+
+These recommendations are based on the user's interest in fiction, memoirs, and popular contemporary novels.

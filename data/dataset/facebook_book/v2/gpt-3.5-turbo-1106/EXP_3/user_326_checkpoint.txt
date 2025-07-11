@@ -1,0 +1,54 @@
+Based on user 326's preferences, here are the top 50 book recommendations:
+
+1. The Vampire Lestat by Anne Rice
+2. Frankenstein by Mary Shelley
+3. Dracula by Bram Stoker
+4. Cujo by Stephen King
+5. Carrie by Stephen King
+6. The Silver Kiss by Annette Curtis Klause
+7. Living Dead in Dallas by Charlaine Harris
+8. Dead and Gone by Charlaine Harris
+9. The Notebook by Nicholas Sparks
+10. To Kill a Mockingbird by Harper Lee
+11. The Pact by Jodi Picoult
+12. The Last Dog on Earth by Daniel Ehrenhaft
+13. The Old Man and the Sea by Ernest Hemingway
+14. Elsewhere by Michael Barry
+15. A Certain Slant of Light by Laura Whitcomb
+16. Uglies by Scott Westerfeld
+17. Pretties by Scott Westerfeld
+18. Lioness Rampant by Tamora Pierce
+19. Of Mice and Men by John Steinbeck
+20. Club Dead by Charlaine Harris
+21. Dear John by Nicholas Sparks
+22. A Separate Peace by John Knowles
+23. Les Misérables by Victor Hugo
+24. Alice's Adventures in Wonderland by Lewis Carroll
+25. The Lovely Bones by Alice Sebold
+26. Tithe: A Modern Faerie Tale by Holly Black
+27. A Wrinkle in Time by Madeleine L'Engle
+28. Fahrenheit 451 by Ray Bradbury
+29. Pretty Little Liars by Sara Shepard
+30. Their Eyes Were Watching God by Zora Neale Hurston
+31. The Umbrella Academy by Gerard Way
+32. The Hunger Games by Suzanne Collins
+33. Catching Fire by Suzanne Collins
+34. Harry Potter series by J.K. Rowling
+35. The Looking Glass Wars by Frank Beddor
+36. Pet Sematary by Stephen King
+37. The Queen of the Damned by Anne Rice
+38. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+39. Ironside: A Modern Faery's Tale by Holly Black
+40. The Mist by Stephen King
+41. Twilight series by Stephenie Meyer
+42. Thirteen Reasons Why by Jay Asher
+43. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+44. The Scarlet Letter by Nathaniel Hawthorne
+45. Percy Jackson & the Olympians series by Rick Riordan
+46. Garfield comics by Jim Davis
+47. Nicholas Nickleby by Charles Dickens
+48. Seeing Redd by Frank Beddor
+49. Perfect Chemistry by Simone Elkeles
+50. The Wolves of Mercy Falls series by Maggie Stiefvater
+
+These recommendations are based on the user's preferences and are ranked according to their potential appeal to the user.

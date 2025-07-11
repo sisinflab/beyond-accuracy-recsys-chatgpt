@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Panic! At The Disco
+3. The Killers
+4. Franz Ferdinand
+5. Paramore
+6. The Neighbourhood
+7. Florence + The Machine
+8. Vampire Weekend
+9. The 1975
+10. Hozier
+11. Bastille
+12. Tame Impala
+13. Two Door Cinema Club
+14. Lorde
+15. Arctic Monkeys
+16. The Strokes
+17. Muse
+18. Fall Out Boy
+19. The Last Shadow Puppets
+20. Placebo
+21. Cobra Starship
+22. Britney Spears
+23. Little Boots
+24. Klaxons
+25. Yeah Yeah Yeahs
+26. The Veronicas
+27. Infected Mushroom
+28. My Chemical Romance
+29. Kid Abelha
+30. Air
+31. Miley Cyrus
+32. Tokio Hotel
+33. Lady Gaga
+34. Rammstein
+35. Queens of the Stone Age
+36. Shakira
+37. Regina Spektor
+38. Depeche Mode
+39. Gorillaz
+40. Portishead
+41. Coldplay
+42. Avril Lavigne
+43. Oasis
+44. Móveis Coloniais de Acaju
+45. Maroon 5
+46. Beirut
+47. September
+48. Audioslave
+49. Silverchair
+50. The White Stripes
+
+These recommendations are based on the user's liking of similar artists and genres.

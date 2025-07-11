@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Aphex Twin
+2. Squarepusher
+3. Plaid
+4. The Prodigy
+5. Nine Inch Nails
+6. Radiohead
+7. Massive Attack
+8. Björk
+9. Portishead
+10. Sigur Rós
+11. Mogwai
+12. Tool
+13. My Bloody Valentine
+14. The Chemical Brothers
+15. Ulver
+16. Godspeed You! Black Emperor
+17. M83
+18. The Knife
+19. Fever Ray
+20. Trentemøller
+21. Röyksopp
+22. Air
+23. Moby
+24. Bonobo
+25. Tycho
+26. Caribou
+27. Four Tet
+28. Jon Hopkins
+29. Moderat
+30. Apparat
+31. Rival Consoles
+32. Nosaj Thing
+33. Shpongle
+34. Ott
+35. Bluetech
+36. Entheogenic
+37. Carbon Based Lifeforms
+38. Solar Fields
+39. Aes Dana
+40. H.U.V.A. Network
+41. Androcell
+42. Younger Brother
+43. Kaya Project
+44. Ott
+45. Shulman
+46. Kaminanda
+47. Desert Dwellers
+48. Kalya Scintilla
+49. Globular
+50. Kuba
+
+These recommendations are based on the user's liking of electronic, experimental, and alternative music, and include artists with similar styles and genres.

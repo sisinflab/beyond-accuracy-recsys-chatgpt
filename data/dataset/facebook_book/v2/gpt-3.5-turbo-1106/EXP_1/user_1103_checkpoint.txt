@@ -1,0 +1,54 @@
+Based on the preferences of user 1103, here are the top 50 book recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. Snow Crash by Neal Stephenson
+3. Neuromancer by William Gibson
+4. Ready Player One by Ernest Cline
+5. The Martian by Andy Weir
+6. The Hunger Games by Suzanne Collins
+7. The Name of the Wind by Patrick Rothfuss
+8. Red Rising by Pierce Brown
+9. The Maze Runner by James Dashner
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. The Alchemist by Paulo Coelho
+13. The Shadow of the Wind by Carlos Ruiz Zafón
+14. The Night Circus by Erin Morgenstern
+15. American Gods by Neil Gaiman
+16. The Handmaid's Tale by Margaret Atwood
+17. The Road by Cormac McCarthy
+18. The Goldfinch by Donna Tartt
+19. The Book Thief by Markus Zusak
+20. The Catcher in the Rye by J.D. Salinger
+21. To Kill a Mockingbird by Harper Lee
+22. 1984 by George Orwell
+23. Brave New World by Aldous Huxley
+24. Fahrenheit 451 by Ray Bradbury
+25. Slaughterhouse-Five by Kurt Vonnegut
+26. The Great Gatsby by F. Scott Fitzgerald
+27. The Catcher in the Rye by J.D. Salinger
+28. The Bell Jar by Sylvia Plath
+29. One Hundred Years of Solitude by Gabriel García Márquez
+30. The Kite Runner by Khaled Hosseini
+31. The Secret History by Donna Tartt
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Count of Monte Cristo by Alexandre Dumas
+34. The Brothers Karamazov by Fyodor Dostoevsky
+35. Crime and Punishment by Fyodor Dostoevsky
+36. The Stranger by Albert Camus
+37. The Road by Cormac McCarthy
+38. The Stand by Stephen King
+39. The Shining by Stephen King
+40. It by Stephen King
+41. The Girl on the Train by Paula Hawkins
+42. Gone Girl by Gillian Flynn
+43. Sharp Objects by Gillian Flynn
+44. Dark Places by Gillian Flynn
+45. The Silent Patient by Alex Michaelides
+46. The Woman in the Window by A.J. Finn
+47. The Girl in the Spider's Web by David Lagercrantz
+48. The Girl Who Played with Fire by Stieg Larsson
+49. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+50. The Girl in the Ice by Robert Bryndza
+
+These recommendations are based on similar themes, genres, and authors to the books liked by user 1103.

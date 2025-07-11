@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. Fear and Loathing on the Campaign Trail '72 by Hunter S. Thompson
+3. Brave New World by Aldous Huxley
+4. Love in the Time of Cholera by Gabriel García Márquez
+5. Animal Farm by George Orwell
+6. The Shadow over Innsmouth by H. P. Lovecraft
+7. Dune by Frank Herbert
+8. World War Z by Max Brooks
+9. The Shining by Stephen King
+10. Hell's Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs by Hunter S. Thompson
+11. Island by Aldous Huxley
+12. One Hundred Years of Solitude by Gabriel García Márquez
+13. The Road to Wigan Pier by George Orwell
+14. The Dunwich Horror and Others by H. P. Lovecraft
+15. The Hobbit by J.R.R. Tolkien
+16. The Martian Chronicles by Ray Bradbury
+17. Misery by Stephen King
+18. The Rum Diary by Hunter S. Thompson
+19. Island by Aldous Huxley
+20. Chronicle of a Death Foretold by Gabriel García Márquez
+21. Animal Farm by George Orwell
+22. The Case of Charles Dexter Ward by H. P. Lovecraft
+23. The Silmarillion by J.R.R. Tolkien
+24. Fahrenheit 451 by Ray Bradbury
+25. Pet Sematary by Stephen King
+26. The Great Shark Hunt by Hunter S. Thompson
+27. The Doors of Perception and Heaven and Hell by Aldous Huxley
+28. Love in the Time of Cholera by Gabriel García Márquez
+29. Down and Out in Paris and London by George Orwell
+30. The Colour Out of Space by H. P. Lovecraft
+31. The Children of Húrin by J.R.R. Tolkien
+32. Something Wicked This Way Comes by Ray Bradbury
+33. The Dead Zone by Stephen King
+34. Kingdom of Fear by Hunter S. Thompson
+35. The Perennial Philosophy by Aldous Huxley
+36. Of Love and Other Demons by Gabriel García Márquez
+37. Homage to Catalonia by George Orwell
+38. The Whisperer in Darkness by H. P. Lovecraft
+39. The Fall of Gondolin by J.R.R. Tolkien
+40. The Illustrated Man by Ray Bradbury
+41. The Green Mile by Stephen King
+42. The Proud Highway by Hunter S. Thompson
+43. Moksha: Writings on Psychedelics and the Visionary Experience by Aldous Huxley
+44. In Evil Hour by Gabriel García Márquez
+45. Burmese Days by George Orwell
+46. The Shadow Out of Time by H. P. Lovecraft
+47. The Book of Lost Tales by J.R.R. Tolkien
+48. The October Country by Ray Bradbury
+49. Bag of Bones by Stephen King
+50. The Curse of Lono by Hunter S. Thompson
+
+These recommendations are based on the user's interest in specific authors and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Opeth
+2. Dream Theater
+3. Tool
+4. Porcupine Tree
+5. Haken
+6. Anathema
+7. Katatonia
+8. Ayreon
+9. Fates Warning
+10. Devin Townsend
+11. Riverside
+12. Steven Wilson
+13. Symphony X
+14. Pain of Salvation
+15. Pink Floyd
+16. Amorphis
+17. Queen
+18. Faith No More
+19. L'Arc~en~Ciel
+20. Incubus
+21. System of a Down
+22. Pearl Jam
+23. The Mars Volta
+24. Kansas
+25. Metallica
+26. Queensrÿche
+27. Radiohead
+28. Toto
+29. Rush
+30. Yes
+31. Genesis
+32. King Crimson
+33. Camel
+34. Jethro Tull
+35. Marillion
+36. Emerson, Lake & Palmer
+37. Gentle Giant
+38. Van der Graaf Generator
+39. Spock's Beard
+40. The Flower Kings
+41. Transatlantic
+42. Big Big Train
+43. IQ
+44. Pendragon
+45. Arena
+46. Shadow Gallery
+47. Threshold
+48. Symphony X
+49. Vanden Plas
+50. Circus Maximus
+
+These recommendations are based on the user's liking of progressive rock and metal bands, and include similar artists that they may enjoy.

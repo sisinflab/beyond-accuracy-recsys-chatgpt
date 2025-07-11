@@ -1,0 +1,52 @@
+Based on user 1354's preferences, here is a re-ranked list of books into a top-50 recommendations:
+
+1. Harry Potter by []
+2. Twilight (series) by []
+3. Inkheart by ['Cornelia Funke']
+4. Protector of the Small by []
+5. The Hunger Games
+6. Percy Jackson & the Olympians
+7. Inkspell
+8. Inkdeath
+9. The Princess Bride
+10. Ender's Game
+11. The Book Thief
+12. The Da Vinci Code
+13. The Picture of Dorian Gray
+14. The Lovely Bones
+15. The Great Gatsby
+16. The Catcher in the Rye
+17. To Kill a Mockingbird
+18. The Outsiders (novel) by ['S. E. Hinton']
+19. Daughter of the Lioness by ['Tamora Pierce']
+20. A Mango-Shaped Space by ['Wendy Mass']
+21. Teen Idol (novel) by ['Meg Cabot']
+22. Someone like You (novel) by ['Sarah Dessen']
+23. The Lord of the Rings by []
+24. Warriors (anthology)
+25. Black Beauty
+26. Quidditch Through the Ages
+27. The Sight (novel)
+28. Fell (novel)
+29. Bible
+30. Dark Prince
+31. Along for the Ride
+32. Jane Eyre
+33. A Tree Grows in Brooklyn (novel)
+34. Inheritance (novel)
+35. The Phantom Tollbooth
+36. Vampire Kisses
+37. Doctrine and Covenants
+38. Cecilia (McClure novel)
+39. Daughters of the Moon
+40. Brisingr
+41. The True Game
+42. Dracula
+43. The Jungle Book
+44. Seabiscuit: An American Legend
+45. Macbeth
+46. The Coldest Winter Ever
+47. Twenties Girl
+48. The Immortals (novel)
+49. Tithe: A Modern Faerie Tale
+50. The Watchmen (novel)

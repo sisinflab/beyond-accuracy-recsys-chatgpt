@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Night Circus by Erin Morgenstern
+2. The Book Thief by Markus Zusak
+3. The Shadow of the Wind by Carlos Ruiz Zafón
+4. The Alchemist by Paulo Coelho
+5. The Secret History by Donna Tartt
+6. The Goldfinch by Donna Tartt
+7. The Lovely Bones by Alice Sebold
+8. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+9. The Fault in Our Stars by John Green
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. Eleanor Oliphant Is Completely Fine by Gail Honeyman
+12. The Nightingale by Kristin Hannah
+13. The Kite Runner by Khaled Hosseini
+14. A Man Called Ove by Fredrik Backman
+15. The Help by Kathryn Stockett
+16. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows
+17. The Time Keeper by Mitch Albom
+18. The Light Between Oceans by M.L. Stedman
+19. The Nightingale by Kristin Hannah
+20. The Great Gatsby by F. Scott Fitzgerald
+21. The Catcher in the Rye by J.D. Salinger
+22. To Kill a Mockingbird by Harper Lee
+23. The Bell Jar by Sylvia Plath
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Secret Garden by Frances Hodgson Burnett
+26. Little Women by Louisa May Alcott
+27. Anne of Green Gables by L.M. Montgomery
+28. Pride and Prejudice by Jane Austen
+29. Jane Eyre by Charlotte Brontë
+30. Wuthering Heights by Emily Brontë
+31. Rebecca by Daphne du Maurier
+32. Gone with the Wind by Margaret Mitchell
+33. The Handmaid's Tale by Margaret Atwood
+34. 1984 by George Orwell
+35. Brave New World by Aldous Huxley
+36. Fahrenheit 451 by Ray Bradbury
+37. Animal Farm by George Orwell
+38. Slaughterhouse-Five by Kurt Vonnegut
+39. Catch-22 by Joseph Heller
+40. One Hundred Years of Solitude by Gabriel García Márquez
+41. Love in the Time of Cholera by Gabriel García Márquez
+42. The House of the Spirits by Isabel Allende
+43. Like Water for Chocolate by Laura Esquivel
+44. The God of Small Things by Arundhati Roy
+45. Midnight's Children by Salman Rushdie
+46. The Namesake by Jhumpa Lahiri
+47. Interpreter of Maladies by Jhumpa Lahiri
+48. The Inheritance of Loss by Kiran Desai
+49. A Fine Balance by Rohinton Mistry
+50. The White Tiger by Aravind Adiga
+
+These recommendations are based on the user's interest in fiction, time travel, and coming-of-age themes.

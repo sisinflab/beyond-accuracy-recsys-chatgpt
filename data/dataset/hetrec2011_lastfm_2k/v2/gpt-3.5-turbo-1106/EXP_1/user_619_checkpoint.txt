@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. Vampire Weekend
+3. Foals
+4. Interpol
+5. Bloc Party
+6. The Kooks
+7. The Vaccines
+8. Two Door Cinema Club
+9. Arcade Fire
+10. The National
+11. Tame Impala
+12. Phoenix
+13. The Black Keys
+14. The 1975
+15. Florence + The Machine
+16. HAIM
+17. Arctic Monkeys (if not already in the user's library)
+18. Los Campesinos! (if not already in the user's library)
+19. The Beatles (if not already in the user's library)
+20. Death Cab for Cutie (if not already in the user's library)
+21. Muse (if not already in the user's library)
+22. The Last Shadow Puppets (if not already in the user's library)
+23. Maxïmo Park (if not already in the user's library)
+24. The Wombats (if not already in the user's library)
+25. The Libertines (if not already in the user's library)
+26. Blood Red Shoes (if not already in the user's library)
+27. of Montreal (if not already in the user's library)
+28. Belle and Sebastian (if not already in the user's library)
+29. Franz Ferdinand (if not already in the user's library)
+30. The Subways (if not already in the user's library)
+31. Kings of Leon (if not already in the user's library)
+32. Kate Nash (if not already in the user's library)
+33. The Smiths (if not already in the user's library)
+34. Laura Marling (if not already in the user's library)
+35. Radiohead (if not already in the user's library)
+36. Sonic Youth (if not already in the user's library)
+37. Babyshambles (if not already in the user's library)
+38. Why? (if not already in the user's library)
+39. Yann Tiersen (if not already in the user's library)
+40. The Killers (if not already in the user's library)
+41. We Are Scientists (if not already in the user's library)
+42. White Lies (if not already in the user's library)
+43. Klaxons (if not already in the user's library)
+44. The Cribs (if not already in the user's library)
+45. M.I.A. (if not already in the user's library)
+46. The Maccabees (if not already in the user's library)
+47. David Bowie (if not already in the user's library)
+48. Gorillaz (if not already in the user's library)
+49. The Wombats (if not already in the user's library)
+50. The Kooks (if not already in the user's library)
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands that the user may enjoy.

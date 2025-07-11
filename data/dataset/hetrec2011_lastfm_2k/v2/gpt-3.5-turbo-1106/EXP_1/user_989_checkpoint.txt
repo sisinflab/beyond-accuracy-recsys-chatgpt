@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Grimes
+2. Tame Impala
+3. Lana Del Rey
+4. Florence + The Machine
+5. The xx
+6. Fleet Foxes
+7. The National
+8. Lykke Li
+9. Bon Iver
+10. St. Vincent
+11. The Flaming Lips
+12. HAIM
+13. The Postal Service
+14. Yeah Yeah Yeahs
+15. LCD Soundsystem
+16. Gorillaz
+17. The Shins
+18. Spoon
+19. Father John Misty
+20. The War on Drugs
+21. Caribou
+22. Alt-J
+23. Grizzly Bear
+24. MGMT
+25. The Knife
+26. Hot Chip
+27. M83
+28. Beach House
+29. Vampire Weekend
+30. Beck
+31. Arcade Fire
+32. Phoenix
+33. Animal Collective
+34. Sufjan Stevens
+35. The Strokes
+36. Radiohead
+37. Belle and Sebastian
+38. PJ Harvey
+39. of Montreal
+40. Robyn
+41. Architecture in Helsinki
+42. Amiina
+43. Lady Gaga
+44. The Beatles
+45. Los Hermanos
+46. Emilíana Torrini
+47. Cat Power
+48. Marisa Monte
+49. Yeasayer
+50. The Smiths
+
+These recommendations are based on the user's liking of similar artists and genres.

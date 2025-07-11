@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Running with Scissors by Augusten Burroughs
+3. Misery by Stephen King
+4. A Man Named Dave by Dave Pelzer
+5. The Stand by Stephen King
+6. The Glass Castle by Jeannette Walls
+7. The Dead Zone by Stephen King
+8. A Wolf at the Table by Augusten Burroughs
+9. The Dark Half by Stephen King
+10. The Lovely Bones by Alice Sebold
+11. The Girl Who Loved Tom Gordon by Stephen King
+12. Look Me in the Eye by John Elder Robison
+13. The Green Mile by Stephen King
+14. Possible Side Effects by Augusten Burroughs
+15. The Talisman by Stephen King and Peter Straub
+16. The Night Circus by Erin Morgenstern
+17. The Tommyknockers by Stephen King
+18. Running with the Demon by Terry Brooks
+19. The Bazaar of Bad Dreams by Stephen King
+20. The Catcher in the Rye by J.D. Salinger
+21. The Institute by Stephen King
+22. A Heartbreaking Work of Staggering Genius by Dave Eggers
+23. The Outsider by Stephen King
+24. The Perks of Being a Wallflower by Stephen Chbosky
+25. The Regulators by Stephen King (as Richard Bachman)
+26. The Bell Jar by Sylvia Plath
+27. The Eyes of the Dragon by Stephen King
+28. The Virgin Suicides by Jeffrey Eugenides
+29. The Dark Tower series by Stephen King
+30. The Secret History by Donna Tartt
+31. The Long Walk by Stephen King (as Richard Bachman)
+32. The Goldfinch by Donna Tartt
+33. The Girl Who Loved Tom Gordon by Stephen King
+34. The Secret Life of Bees by Sue Monk Kidd
+35. The Girl Who Loved Tom Gordon by Stephen King
+36. The Secret Life of Bees by Sue Monk Kidd
+37. The Girl Who Loved Tom Gordon by Stephen King
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Girl Who Loved Tom Gordon by Stephen King
+40. The Secret Life of Bees by Sue Monk Kidd
+41. The Girl Who Loved Tom Gordon by Stephen King
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Girl Who Loved Tom Gordon by Stephen King
+44. The Secret Life of Bees by Sue Monk Kidd
+45. The Girl Who Loved Tom Gordon by Stephen King
+46. The Secret Life of Bees by Sue Monk Kidd
+47. The Girl Who Loved Tom Gordon by Stephen King
+48. The Secret Life of Bees by Sue Monk Kidd
+49. The Girl Who Loved Tom Gordon by Stephen King
+50. The Secret Life of Bees by Sue Monk Kidd
+
+These recommendations are based on the user's interest in books by Stephen King, Augusten Burroughs, and other similar authors.

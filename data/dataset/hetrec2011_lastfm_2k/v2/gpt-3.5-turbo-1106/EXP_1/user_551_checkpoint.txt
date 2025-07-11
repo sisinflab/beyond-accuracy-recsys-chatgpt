@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Red Hot Chili Peppers
+2. Linkin Park
+3. Paramore
+4. Green Day
+5. The Fray
+6. Three Days Grace
+7. The All-American Rejects
+8. Fall Out Boy
+9. Panic! At The Disco
+10. The Used
+11. AFI
+12. The White Stripes
+13. Arctic Monkeys
+14. The Strokes
+15. Foo Fighters
+16. Incubus
+17. System of a Down
+18. The Offspring
+19. Blink-182
+20. Weezer
+21. Jimmy Eat World
+22. Good Charlotte
+23. Simple Plan
+24. Sum 41
+25. 3 Doors Down
+26. Seether
+27. Papa Roach
+28. Evanescence
+29. My Chemical Romance
+30. Breaking Benjamin
+31. Avenged Sevenfold
+32. Muse
+33. The Killers
+34. 30 Seconds to Mars
+35. Bullet for My Valentine
+36. Angels & Airwaves
+37. Nickelback
+38. Rise Against
+39. Shinedown
+40. Seether
+41. Chevelle
+42. Theory of a Deadman
+43. Puddle of Mudd
+44. Hinder
+45. Daughtry
+46. 3 Doors Down
+47. Lifehouse
+48. Goo Goo Dolls
+49. Matchbox Twenty
+50. Train
+
+These recommendations are based on the user's liking of similar artists and genres.

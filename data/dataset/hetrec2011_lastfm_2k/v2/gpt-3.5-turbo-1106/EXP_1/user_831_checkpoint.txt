@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Delerium
+2. Deep Forest
+3. Enya
+4. Era
+5. Vangelis
+6. Enigma
+7. Loreena McKennitt
+8. Pet Shop Boys
+9. Robbie Williams
+10. Faithless
+11. Madonna
+12. Simple Minds
+13. Michael Jackson
+14. The Police
+15. Amy Winehouse
+16. U2
+17. Katie Melua
+18. Prince
+19. Santana
+20. Mando Diao
+21. Oasis
+22. Die Ärzte
+23. Within Temptation
+24. Amy Macdonald
+25. Sade
+26. The Smiths
+27. AC/DC
+28. George Michael
+29. Massive Attack
+30. Portishead
+31. The Chemical Brothers
+32. Depeche Mode
+33. New Order
+34. The Cure
+35. Duran Duran
+36. Tears for Fears
+37. A-ha
+38. Spandau Ballet
+39. Eurythmics
+40. Pet Shop Boys
+41. Erasure
+42. Yazoo
+43. Orchestral Manoeuvres in the Dark
+44. Thompson Twins
+45. Howard Jones
+46. Ultravox
+47. Visage
+48. Soft Cell
+49. Blancmange
+50. Bronski Beat
+
+These recommendations are based on the user's liking of similar artists and genres.

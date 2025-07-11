@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Grapes of Wrath by John Steinbeck
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Picture of Dorian Gray by Oscar Wilde
+7. Brave New World by Aldous Huxley
+8. The Old Man and the Sea by Ernest Hemingway
+9. The Sun Also Rises by Ernest Hemingway
+10. The Road by Cormac McCarthy
+11. The Kite Runner by Khaled Hosseini
+12. The Alchemist by Paulo Coelho
+13. The Shadow of the Wind by Carlos Ruiz Zafón
+14. The Book Thief by Markus Zusak
+15. The Secret History by Donna Tartt
+16. The Goldfinch by Donna Tartt
+17. The Night Circus by Erin Morgenstern
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Help by Kathryn Stockett
+20. The Lovely Bones by Alice Sebold
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Da Vinci Code by Dan Brown
+23. The Name of the Wind by Patrick Rothfuss
+24. The Hunger Games by Suzanne Collins
+25. The Girl on the Train by Paula Hawkins
+26. Gone Girl by Gillian Flynn
+27. The Martian by Andy Weir
+28. Ready Player One by Ernest Cline
+29. The Handmaid's Tale by Margaret Atwood
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Catcher in the Rye by J.D. Salinger
+32. Fahrenheit 451 by Ray Bradbury
+33. Slaughterhouse-Five by Kurt Vonnegut
+34. The Bell Jar by Sylvia Plath
+35. The Age of Spiritual Machines by Raymond Kurzweil
+36. East of Eden by John Steinbeck
+37. Midnight in the Garden of Good and Evil by John Berendt
+38. Sundays at Tiffany's by James Patterson
+39. The Historian by Elizabeth Kostova
+40. Of Mice and Men by John Steinbeck
+41. Catch-22 by Joseph Heller
+42. The Handmaid's Tale by Margaret Atwood
+43. The Road by Cormac McCarthy
+44. The Shadow of the Wind by Carlos Ruiz Zafón
+45. The Book Thief by Markus Zusak
+46. The Secret History by Donna Tartt
+47. The Goldfinch by Donna Tartt
+48. The Night Circus by Erin Morgenstern
+49. The Secret Life of Bees by Sue Monk Kidd
+50. The Help by Kathryn Stockett
+
+These recommendations are based on the user's liking of similar genres and authors.

@@ -1,0 +1,54 @@
+Based on user 1734's preferences, here are the top 50 recommendations:
+
+1. Lady Gaga
+2. Rihanna
+3. Beyoncé
+4. Mariah Carey
+5. Usher
+6. Jay-Z
+7. Chris Brown
+8. Demi Lovato
+9. Avenged Sevenfold
+10. Paramore
+11. Muse
+12. Kings of Leon
+13. Three Days Grace
+14. The Used
+15. 3 Doors Down
+16. Adam Lambert
+17. Britney Spears
+18. Leona Lewis
+19. Christina Aguilera
+20. Kelly Rowland
+21. Ciara
+22. Miley Cyrus
+23. Selena Gomez & the Scene
+24. Shontelle
+25. 3OH!3
+26. Escape The Fate
+27. Carter Burwell
+28. Darren Hayes
+29. Lenny Kravitz
+30. Sade
+31. Christina Milian
+32. The Pussycat Dolls
+33. Atreyu
+34. Claudia Leitte
+35. Alicia Keys
+36. Black Eyed Peas
+37. Glee Cast
+38. Madonna
+39. Jennifer Lopez
+40. Katy Perry
+41. Justin Bieber
+42. Taylor Swift
+43. Avril Lavigne
+44. Shakira
+45. Enrique Iglesias
+46. Maroon 5
+47. P!nk
+48. Justin Timberlake
+49. Nicole Scherzinger
+50. Ne-Yo
+
+These recommendations are based on the user's existing preferences and are designed to align with their music taste.

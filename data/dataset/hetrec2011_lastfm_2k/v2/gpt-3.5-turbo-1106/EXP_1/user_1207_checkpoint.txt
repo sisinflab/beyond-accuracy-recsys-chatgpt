@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. Queen
+3. Led Zeppelin
+4. The Beatles
+5. Deep Purple
+6. The Rolling Stones
+7. AC/DC
+8. Guns N' Roses
+9. Metallica
+10. Van Halen
+11. Pearl Jam
+12. The Who
+13. Black Sabbath
+14. Aerosmith
+15. Def Leppard
+16. Bon Jovi
+17. The Doors
+18. Nirvana
+19. Jimi Hendrix
+20. U2
+21. Foo Fighters
+22. The Police
+23. The Eagles
+24. Lynyrd Skynyrd
+25. ZZ Top
+26. Cream
+27. Santana
+28. The Allman Brothers Band
+29. Steely Dan
+30. Genesis
+31. The Beach Boys
+32. The Kinks
+33. The Moody Blues
+34. Jethro Tull
+35. King Crimson
+36. Emerson, Lake & Palmer
+37. Yes
+38. Rush
+39. Dream Theater
+40. Toto
+41. Yanni
+42. Iron Maiden
+43. Kansas
+44. KISS
+45. Red Hot Chili Peppers
+46. Journey
+47. Soda Stereo
+48. Michael Jackson
+49. blink-182
+50. Dire Straits
+
+These recommendations are based on the user's liking of progressive rock, classic rock, and other related genres, as well as similar artists to the ones the user already likes.

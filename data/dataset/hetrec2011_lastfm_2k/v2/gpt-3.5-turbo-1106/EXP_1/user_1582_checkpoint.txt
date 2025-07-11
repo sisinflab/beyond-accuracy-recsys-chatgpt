@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Brand New
+2. Bright Eyes
+3. Death Cab for Cutie
+4. Modest Mouse
+5. The Shins
+6. Arctic Monkeys
+7. The Strokes
+8. Interpol
+9. Bloc Party
+10. Franz Ferdinand
+11. The White Stripes
+12. The Postal Service
+13. Arcade Fire
+14. The Decemberists
+15. Spoon
+16. Yeah Yeah Yeahs
+17. The National
+18. Vampire Weekend
+19. The Black Keys
+20. Kings of Leon
+21. The Flaming Lips
+22. Beck
+23. The Raconteurs
+24. The Bravery
+25. Silversun Pickups
+26. MGMT
+27. Foster the People
+28. Cage the Elephant
+29. Two Door Cinema Club
+30. Foals
+31. The Vaccines
+32. Phoenix
+33. Tame Impala
+34. Alt-J
+35. The War on Drugs
+36. Portugal. The Man
+37. Hozier
+38. Bastille
+39. Imagine Dragons
+40. Florence + The Machine
+41. Haim
+42. CHVRCHES
+43. Lorde
+44. The 1975
+45. Twenty One Pilots
+46. Panic! At The Disco
+47. Paramore
+48. Fall Out Boy
+49. All Time Low
+50. Panic! At The Disco
+
+These recommendations are based on the user's liking of similar artists and genres.

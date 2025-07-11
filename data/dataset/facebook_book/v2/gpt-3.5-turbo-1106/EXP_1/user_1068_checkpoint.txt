@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Frankenstein by Mary Shelley
+2. The Shining by Stephen King
+3. 1984 by George Orwell
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Tell-Tale Heart by Edgar Allan Poe
+8. The Adventures of Huckleberry Finn by Mark Twain
+9. The Grapes of Wrath by John Steinbeck
+10. The Scarlet Letter by Nathaniel Hawthorne
+11. Wuthering Heights by Emily Brontë
+12. The Call of the Wild by Jack London
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Bell Jar by Sylvia Plath
+15. The Road by Cormac McCarthy
+16. The Handmaid's Tale by Margaret Atwood
+17. The Count of Monte Cristo by Alexandre Dumas
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. Crime and Punishment by Fyodor Dostoevsky
+20. The Stranger by Albert Camus
+21. The Sun Also Rises by Ernest Hemingway
+22. The Grapes of Wrath by John Steinbeck
+23. The Sound and the Fury by William Faulkner
+24. The Lord of the Rings by J.R.R. Tolkien
+25. The Hobbit by J.R.R. Tolkien
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+28. The Handmaid's Tale by Margaret Atwood
+29. The Road by Cormac McCarthy
+30. The Catcher in the Rye by J.D. Salinger
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Tell-Tale Heart by Edgar Allan Poe
+33. The Adventures of Huckleberry Finn by Mark Twain
+34. The Grapes of Wrath by John Steinbeck
+35. The Scarlet Letter by Nathaniel Hawthorne
+36. Wuthering Heights by Emily Brontë
+37. The Call of the Wild by Jack London
+38. The Old Man and the Sea by Ernest Hemingway
+39. The Bell Jar by Sylvia Plath
+40. The Handmaid's Tale by Margaret Atwood
+41. The Count of Monte Cristo by Alexandre Dumas
+42. The Brothers Karamazov by Fyodor Dostoevsky
+43. Crime and Punishment by Fyodor Dostoevsky
+44. The Stranger by Albert Camus
+45. The Sun Also Rises by Ernest Hemingway
+46. The Grapes of Wrath by John Steinbeck
+47. The Sound and the Fury by William Faulkner
+48. The Lord of the Rings by J.R.R. Tolkien
+49. The Hobbit by J.R.R. Tolkien
+50. The Chronicles of Narnia by C.S. Lewis
+
+These recommendations are based on the user's interest in classic literature, horror, mystery, and poetry.

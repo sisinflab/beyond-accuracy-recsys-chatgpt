@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. One Flew Over the Cuckoo's Nest by Ken Kesey
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. Brave New World by Aldous Huxley
+5. 1984 by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. Fahrenheit 451 by Ray Bradbury
+10. The Grapes of Wrath by John Steinbeck
+11. The Old Man and the Sea by Ernest Hemingway
+12. The Bell Jar by Sylvia Plath
+13. The Road by Cormac McCarthy
+14. The Handmaid's Tale by Margaret Atwood
+15. The Stand by Stephen King
+16. The Shining by Stephen King
+17. Misery by Stephen King
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Da Vinci Code by Dan Brown
+20. Angels & Demons by Dan Brown
+21. The Girl on the Train by Paula Hawkins
+22. Gone Girl by Gillian Flynn
+23. The Lovely Bones by Alice Sebold
+24. The Hunger Games by Suzanne Collins
+25. Divergent by Veronica Roth
+26. The Maze Runner by James Dashner
+27. The Giver by Lois Lowry
+28. The Chronicles of Narnia by C.S. Lewis
+29. His Dark Materials by Philip Pullman
+30. The Hobbit by J.R.R. Tolkien
+31. The Name of the Wind by Patrick Rothfuss
+32. Mistborn: The Final Empire by Brandon Sanderson
+33. The Lies of Locke Lamora by Scott Lynch
+34. The Way of Kings by Brandon Sanderson
+35. The Night Circus by Erin Morgenstern
+36. Neverwhere by Neil Gaiman
+37. American Gods by Neil Gaiman
+38. The Alchemist by Paulo Coelho
+39. The Kite Runner by Khaled Hosseini
+40. A Thousand Splendid Suns by Khaled Hosseini
+41. The Book Thief by Markus Zusak
+42. Life of Pi by Yann Martel
+43. The Secret Life of Bees by Sue Monk Kidd
+44. The Help by Kathryn Stockett
+45. Water for Elephants by Sara Gruen
+46. The Time Traveler's Wife by Audrey Niffenegger
+47. The Nightingale by Kristin Hannah
+48. All the Light We Cannot See by Anthony Doerr
+49. The Goldfinch by Donna Tartt
+50. The Secret History by Donna Tartt
+
+These recommendations are based on the user's liking for books with themes of dystopia, fantasy, and mystery.

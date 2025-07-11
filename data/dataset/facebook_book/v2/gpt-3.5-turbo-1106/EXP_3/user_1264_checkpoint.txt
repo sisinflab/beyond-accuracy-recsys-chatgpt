@@ -1,0 +1,54 @@
+Based on user 1264's preferences, here is a re-ranked list of top-50 book recommendations:
+
+1. The Catcher in the Rye by J. D. Salinger
+2. The Bell Jar by Sylvia Plath
+3. The Road by Cormac McCarthy
+4. Fahrenheit 451 by Ray Bradbury
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. A Million Little Pieces by James Frey
+7. It's Kind of a Funny Story by Ned Vizzini
+8. Invisible Monsters by Chuck Palahniuk
+9. Assholes Finish First by Tucker Max
+10. Belinda (Edgeworth novel) by Maria Edgeworth
+11. The Giver by Lois Lowry
+12. The Lord of the Rings by J.R.R. Tolkien
+13. The Outsiders by S.E. Hinton
+14. Wuthering Heights by Emily Brontë
+15. The Secret Garden by Frances Hodgson Burnett
+16. Memoirs of a Geisha by Arthur Golden
+17. The Godfather by Mario Puzo
+18. American Gods by Neil Gaiman
+19. The Stars My Destination by Alfred Bester
+20. Water for Elephants by Sara Gruen
+21. The Other Boleyn Girl by Philippa Gregory
+22. The Tipping Point by Malcolm Gladwell
+23. The Five People You Meet in Heaven by Mitch Albom
+24. Holes by Louis Sachar
+25. Speak by Laurie Halse Anderson
+26. Things Fall Apart by Chinua Achebe
+27. The Prince by Niccolò Machiavelli
+28. A Clockwork Orange by Anthony Burgess
+29. The Undercover Economist by Tim Harford
+30. Freakonomics by Steven D. Levitt and Stephen J. Dubner
+31. The Zombie Survival Guide by Max Brooks
+32. The Watchmen by Alan Moore
+33. The Very Hungry Caterpillar by Eric Carle
+34. Little Women by Louisa May Alcott
+35. Bridge to Terabithia by Katherine Paterson
+36. Blink by Malcolm Gladwell
+37. Atlas Shrugged by Ayn Rand
+38. The BFG by Roald Dahl
+39. The Stinky Cheese Man and Other Fairly Stupid Tales by Jon Scieszka
+40. A Clockwork Orange by Anthony Burgess
+41. The Last Song by Nicholas Sparks
+42. Nicholas Nickleby by Charles Dickens
+43. The Giver by Lois Lowry
+44. Harry Potter by J.K. Rowling
+45. The Five People You Meet in Heaven by Mitch Albom
+46. The Lord of the Rings by J.R.R. Tolkien
+47. The Outsiders by S.E. Hinton
+48. Wuthering Heights by Emily Brontë
+49. The Secret Garden by Frances Hodgson Burnett
+50. Memoirs of a Geisha by Arthur Golden
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

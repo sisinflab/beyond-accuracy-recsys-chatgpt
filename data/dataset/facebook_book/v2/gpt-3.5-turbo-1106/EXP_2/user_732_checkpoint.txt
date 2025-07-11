@@ -1,0 +1,54 @@
+Based on the user's liking of the books provided, here is a re-ranked top-50 recommendation list for user 732:
+
+1. Nineteen Eighty-Four by George Orwell
+2. Left Behind (novel) by Tim LaHaye, Jerry B. Jenkins
+3. Northern Lights (novel) by Philip Pullman
+4. Oliver Twist by Charles Dickens
+5. Alice's Adventures in Wonderland by Lewis Carroll
+6. The Stinky Cheese Man and Other Fairly Stupid Tales by Jon Scieszka
+7. Marked (novel) by Kristin Cast, P.C. Cast
+8. The Unbearable Lightness of Being
+9. The Great Gatsby
+10. Brave New World
+11. The Picture of Dorian Gray
+12. The Catcher in the Rye
+13. The Hobbit
+14. The Maze Runner
+15. The City of Ember
+16. The Southern Vampire Mysteries
+17. The Silmarillion
+18. The Giver
+19. The Lord of the Rings
+20. The Stand
+21. Dracula
+22. Harry Potter
+23. The Pillowman
+24. The Lost Books (novel series)
+25. Gravity's Rainbow
+26. Twilight Eyes
+27. Across the Universe (novel)
+28. Delta of Venus
+29. Medea (play)
+30. Dexter in the Dark
+31. And the Ass Saw the Angel
+32. Incarceron
+33. World War Z
+34. Frankenstein
+35. If There Be Thorns
+36. Petals on the Wind
+37. Cut (novel)
+38. Vampire Kisses
+39. The Outsiders (novel)
+40. The Tenant of Wildfell Hall
+41. Invisible Man
+42. Lady Chatterley's Lover
+43. Strange Case of Dr Jekyll and Mr Hyde
+44. Crime and Punishment
+45. The Scarlet Letter
+46. The Phantom of the Opera
+47. A Series of Unfortunate Events
+48. The Rapture (novel)
+49. Shakespeares sonnets
+50. Pygmalion (play)
+
+This list is based on the user's liking of the provided books and aims to recommend similar books that the user may enjoy.

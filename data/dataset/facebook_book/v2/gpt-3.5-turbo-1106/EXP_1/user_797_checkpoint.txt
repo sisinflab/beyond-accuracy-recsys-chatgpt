@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Handmaid's Tale by Margaret Atwood
+9. The Road by Cormac McCarthy
+10. The Grapes of Wrath by John Steinbeck
+11. The Bell Jar by Sylvia Plath
+12. The Stranger by Albert Camus
+13. The Sun Also Rises by Ernest Hemingway
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Alchemist by Paulo Coelho
+16. The Kite Runner by Khaled Hosseini
+17. The Book Thief by Markus Zusak
+18. The Shadow of the Wind by Carlos Ruiz Zafón
+19. The Name of the Wind by Patrick Rothfuss
+20. The Night Circus by Erin Morgenstern
+21. The Secret History by Donna Tartt
+22. The Goldfinch by Donna Tartt
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Poisonwood Bible by Barbara Kingsolver
+25. The Color Purple by Alice Walker
+26. The Joy Luck Club by Amy Tan
+27. The House on Mango Street by Sandra Cisneros
+28. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+29. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+30. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Mahabharata (Narayan book) by R.K. Narayan
+34. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+35. The Prestige by Christopher Priest (novelist)
+36. The Scarlet Pimpernel by Emma Orczy
+37. Tess of the d'Urbervilles by Thomas Hardy
+38. Vanity Fair (novel) by William Makepeace Thackeray
+39. The Illustrated Man by Ray Bradbury
+40. Something Wicked This Way Comes (novel) by Ray Bradbury
+41. Fahrenheit 451 by Ray Bradbury
+42. The Martian by Andy Weir
+43. Ready Player One by Ernest Cline
+44. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+45. Ender's Game by Orson Scott Card
+46. Dune by Frank Herbert
+47. Neuromancer by William Gibson
+48. Snow Crash by Neal Stephenson
+49. The Left Hand of Darkness by Ursula K. Le Guin
+50. The Dispossessed by Ursula K. Le Guin
+
+These recommendations are based on the user's interest in classic literature, science fiction, fantasy, and contemporary fiction.

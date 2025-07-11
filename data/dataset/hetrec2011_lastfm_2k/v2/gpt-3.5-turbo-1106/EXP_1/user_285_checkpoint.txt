@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. The Offspring
+3. Raimundos
+4. Rancid
+5. Black Sabbath
+6. Guns N' Roses
+7. The Strokes
+8. Arctic Monkeys
+9. The White Stripes
+10. Queens of the Stone Age
+11. The Killers
+12. Muse
+13. Radiohead
+14. Arctic Monkeys
+15. The Black Keys
+16. The Smashing Pumpkins
+17. Weezer
+18. The Cranberries
+19. The Libertines
+20. The Vines
+21. The Hives
+22. The Kooks
+23. Franz Ferdinand
+24. Interpol
+25. Bloc Party
+26. The Raconteurs
+27. The Bravery
+28. The Vaccines
+29. The Wombats
+30. The Fratellis
+31. The Kooks
+32. The Pigeon Detectives
+33. The Courteeners
+34. The View
+35. The Maccabees
+36. The Enemy
+37. The Cribs
+38. The Futureheads
+39. The Zutons
+40. The Rakes
+41. The Subways
+42. The Pigeon Detectives
+43. The Rifles
+44. The Twang
+45. The Holloways
+46. The Paddingtons
+47. The Sunshine Underground
+48. The Dykeenies
+49. The Automatic
+50. The Ordinary Boys

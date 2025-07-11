@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Identical by Ellen Hopkins
+2. Fallout by Ellen Hopkins
+3. Perfect by Ellen Hopkins
+4. Tilt by Ellen Hopkins
+5. Rumble by Ellen Hopkins
+6. Burned by Ellen Hopkins
+7. Smoke by Ellen Hopkins
+8. Triangles by Ellen Hopkins
+9. Collateral by Ellen Hopkins
+10. The Maze Runner by James Dashner
+11. Divergent by Veronica Roth
+12. Insurgent by Veronica Roth
+13. Allegiant by Veronica Roth
+14. The Hunger Games by Suzanne Collins
+15. Catching Fire by Suzanne Collins
+16. Mockingjay by Suzanne Collins
+17. The Fault in Our Stars by John Green
+18. Looking for Alaska by John Green
+19. Paper Towns by John Green
+20. An Abundance of Katherines by John Green
+21. Thirteen Reasons Why by Jay Asher
+22. The Book Thief by Markus Zusak
+23. If I Stay by Gayle Forman
+24. Where She Went by Gayle Forman
+25. Before I Fall by Lauren Oliver
+26. Delirium by Lauren Oliver
+27. Pandemonium by Lauren Oliver
+28. Requiem by Lauren Oliver
+29. Uglies by Scott Westerfeld
+30. Pretties by Scott Westerfeld
+31. Specials by Scott Westerfeld
+32. Extras by Scott Westerfeld
+33. The Uglies Quartet by Scott Westerfeld
+34. The Testing by Joelle Charbonneau
+35. Independent Study by Joelle Charbonneau
+36. Graduation Day by Joelle Charbonneau
+37. The Selection by Kiera Cass
+38. The Elite by Kiera Cass
+39. The One by Kiera Cass
+40. The Heir by Kiera Cass
+41. The Crown by Kiera Cass
+42. The Siren by Kiera Cass
+43. The 5th Wave by Rick Yancey
+44. The Infinite Sea by Rick Yancey
+45. The Last Star by Rick Yancey
+46. The Monstrumologist by Rick Yancey
+47. The Curse of the Wendigo by Rick Yancey
+48. The Isle of Blood by Rick Yancey
+49. The Final Descent by Rick Yancey
+50. The Extraordinary Adventures of Alfred Kropp by Rick Yancey
+
+These recommendations are based on the user's interest in young adult fiction, dystopian novels, and books by Ellen Hopkins and Lois Lowry.

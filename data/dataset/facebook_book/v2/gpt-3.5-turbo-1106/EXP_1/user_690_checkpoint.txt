@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. Fahrenheit 451 by Ray Bradbury
+5. The Book Thief by Markus Zusak
+6. Catch-22 by Joseph Heller
+7. One Flew Over the Cuckoo's Nest by Ken Kesey
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Bell Jar by Sylvia Plath
+10. A Clockwork Orange by Anthony Burgess
+11. The Road by Cormac McCarthy
+12. The Handmaid's Tale by Margaret Atwood
+13. The Stranger by Albert Camus
+14. The Sun Also Rises by Ernest Hemingway
+15. The Great Gatsby by F. Scott Fitzgerald
+16. The Old Man and the Sea by Ernest Hemingway
+17. Animal Farm by George Orwell
+18. The Grapes of Wrath by John Steinbeck
+19. Of Mice and Men by John Steinbeck
+20. The Kite Runner by Khaled Hosseini
+21. The Alchemist by Paulo Coelho
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Road Not Taken by Robert Frost
+24. The Scarlet Letter by Nathaniel Hawthorne
+25. The Adventures of Huckleberry Finn by Mark Twain
+26. The Count of Monte Cristo by Alexandre Dumas
+27. Crime and Punishment by Fyodor Dostoevsky
+28. The Brothers Karamazov by Fyodor Dostoevsky
+29. Anna Karenina by Leo Tolstoy
+30. War and Peace by Leo Tolstoy
+31. The Idiot by Fyodor Dostoevsky
+32. The Picture of Dorian Gray by Oscar Wilde
+33. Wuthering Heights by Emily Brontë
+34. Great Expectations by Charles Dickens
+35. Moby-Dick by Herman Melville
+36. The Adventures of Tom Sawyer by Mark Twain
+37. The Call of the Wild by Jack London
+38. White Fang by Jack London
+39. The Jungle Book by Rudyard Kipling
+40. The Secret Garden by Frances Hodgson Burnett
+41. Little Women by Louisa May Alcott
+42. Anne of Green Gables by L.M. Montgomery
+43. The Chronicles of Narnia by C.S. Lewis
+44. A Wrinkle in Time by Madeleine L'Engle
+45. The Hobbit by J.R.R. Tolkien
+46. The Lord of the Rings by J.R.R. Tolkien
+47. Watership Down by Richard Adams
+48. The Wind in the Willows by Kenneth Grahame
+49. Charlotte's Web by E.B. White
+50. Where the Red Fern Grows by Wilson Rawls
+
+These recommendations are based on the user's interest in classic literature, young adult fiction, and some darker themes.

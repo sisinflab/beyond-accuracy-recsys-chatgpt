@@ -1,0 +1,52 @@
+Based on user 878's preferences, here are the top-50 recommendations for the given artists:
+
+1. Lady Gaga
+2. Rihanna
+3. Katy Perry
+4. Justin Bieber
+5. Black Eyed Peas
+6. Gwen Stefani
+7. Michael Jackson
+8. Nelly Furtado
+9. Jason Mraz
+10. Fall Out Boy
+11. Muse
+12. Panic! At the Disco
+13. Green Day
+14. Ladyhawke
+15. The Black Keys
+16. Arctic Monkeys
+17. Kings of Leon
+18. Ellie Goulding
+19. The Ting Tings
+20. MGMT
+21. The Kooks
+22. Alanis Morissette
+23. Carrie Underwood
+24. John Mayer
+25. Fergie
+26. Natasha Bedingfield
+27. Juanes
+28. David Archuleta
+29. Jesse McCartney
+30. Vanessa Hudgens
+31. Ashley Tisdale
+32. Jonas Brothers
+33. Owl City
+34. A Fine Frenzy
+35. Keane
+36. Camila
+37. Ricky Martin
+38. Alejandro Sanz
+39. Glee Cast
+40. High School Musical
+41. Mitchel Musso
+42. Miranda Cosgrove
+43. Black Kids
+44. McFly
+45. blink-182
+46. All Time Low
+47. Cascada
+48. Lena
+49. The Pretty Reckless
+50. Belinda

@@ -1,0 +1,52 @@
+Based on user 454's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia
+2. The Hobbit
+3. The Lord of the Rings
+4. Harry Potter
+5. The Lion, the Witch and the Wardrobe
+6. The Da Vinci Code
+7. Angels & Demons
+8. Inferno (Dante)
+9. Fahrenheit 451
+10. Ulysses (novel)
+11. Les Misérables
+12. Dune (novel)
+13. Great Expectations
+14. Frankenstein
+15. The Old Man and the Sea
+16. The Little Prince
+17. The Hunger Games
+18. Catching Fire
+19. The Maze Runner
+20. Lone Survivor (book)
+21. Steppenwolf (novel)
+22. A Million Little Pieces
+23. Twisted (book)
+24. The Jungle Book
+25. Romeo and Juliet
+26. To Kill a Mockingbird
+27. The Inheritance (novel)
+28. Burned (Hopkins novel)
+29. The Hamlet
+30. Gulliver's Travels
+31. One Hundred Years of Solitude
+32. The Notebook (novel)
+33. Sleeping Freshmen Never Lie
+34. A Walk in the Woods
+35. Wuthering Heights
+36. Mountains Beyond Mountains
+37. The Importance of Being Earnest
+38. Farewell, My Lovely
+39. Ender's Game
+40. Metamorphoses
+41. Everworld
+42. Snow Flower and the Secret Fan
+43. The Beautiful Boy
+44. Tuesdays with Morrie
+45. I Am America (And So Can You!)
+46. Bible
+47. The Chronicles of Narnia
+48. Graphic novel
+49. Encyclopædia Britannica
+50. Lord of the Flies

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. Fahrenheit 451 by Ray Bradbury
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Catch-22 by Joseph Heller
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Road by Cormac McCarthy
+10. The Stranger by Albert Camus
+11. The Bell Jar by Sylvia Plath
+12. The Handmaid's Tale by Margaret Atwood
+13. The Grapes of Wrath by John Steinbeck
+14. East of Eden by John Steinbeck
+15. The Sun Also Rises by Ernest Hemingway
+16. A Moveable Feast by Ernest Hemingway
+17. The Sound and the Fury by William Faulkner
+18. As I Lay Dying by William Faulkner
+19. The Sound of Waves by Yukio Mishima
+20. The Wind-Up Bird Chronicle by Haruki Murakami
+21. Norwegian Wood by Haruki Murakami
+22. The Catcher in the Rye by J.D. Salinger
+23. Franny and Zooey by J.D. Salinger
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Importance of Being Earnest by Oscar Wilde
+26. Crime and Punishment by Fyodor Dostoevsky
+27. The Brothers Karamazov by Fyodor Dostoevsky
+28. The Metamorphosis by Franz Kafka
+29. The Trial by Franz Kafka
+30. The Stranger by Albert Camus
+31. The Plague by Albert Camus
+32. The Old Man and the Sea by Ernest Hemingway
+33. A Farewell to Arms by Ernest Hemingway
+34. For Whom the Bell Tolls by Ernest Hemingway
+35. Lord of the Flies by William Golding
+36. The Lord of the Rings by J.R.R. Tolkien
+37. The Hobbit by J.R.R. Tolkien
+38. The Chronicles of Narnia by C.S. Lewis
+39. The Alchemist by Paulo Coelho
+40. One Flew Over the Cuckoo's Nest by Ken Kesey
+41. The Road Less Traveled by M. Scott Peck
+42. The Book Thief by Markus Zusak
+43. The Kite Runner by Khaled Hosseini
+44. A Thousand Splendid Suns by Khaled Hosseini
+45. The Secret Life of Bees by Sue Monk Kidd
+46. The Help by Kathryn Stockett
+47. The Color Purple by Alice Walker
+48. Beloved by Toni Morrison
+49. The Joy Luck Club by Amy Tan
+50. The Poisonwood Bible by Barbara Kingsolver
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, and coming-of-age stories.

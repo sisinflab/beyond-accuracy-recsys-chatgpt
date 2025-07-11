@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. The Bell Jar by Sylvia Plath
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. The Stranger by Albert Camus
+11. The Grapes of Wrath by John Steinbeck
+12. The Sun Also Rises by Ernest Hemingway
+13. A Farewell to Arms by Ernest Hemingway
+14. The Old Man and the Sea by Ernest Hemingway
+15. For Whom the Bell Tolls by Ernest Hemingway
+16. The Sound and the Fury by William Faulkner
+17. As I Lay Dying by William Faulkner
+18. Absalom, Absalom! by William Faulkner
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Portrait of a Lady by Henry James
+21. The Age of Innocence by Edith Wharton
+22. The House of Mirth by Edith Wharton
+23. The Secret History by Donna Tartt
+24. The Goldfinch by Donna Tartt
+25. The Night Circus by Erin Morgenstern
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Book Thief by Markus Zusak
+28. The Alchemist by Paulo Coelho
+29. Life of Pi by Yann Martel
+30. The God of Small Things by Arundhati Roy
+31. A Fine Balance by Rohinton Mistry
+32. The White Tiger by Aravind Adiga
+33. The Lowland by Jhumpa Lahiri
+34. Interpreter of Maladies by Jhumpa Lahiri
+35. The Inheritance of Loss by Kiran Desai
+36. A Suitable Boy by Vikram Seth
+37. The God of Small Things by Arundhati Roy
+38. The Ministry of Utmost Happiness by Arundhati Roy
+39. The Glass Palace by Amitav Ghosh
+40. The Hungry Tide by Amitav Ghosh
+41. The Calcutta Chromosome by Amitav Ghosh
+42. The Moor's Last Sigh by Salman Rushdie
+43. Haroun and the Sea of Stories by Salman Rushdie
+44. The Satanic Verses by Salman Rushdie
+45. The Enchantress of Florence by Salman Rushdie
+46. The Ground Beneath Her Feet by Salman Rushdie
+47. The Golden House by Salman Rushdie
+48. The Midnight Library by Matt Haig
+49. The Vanishing Half by Brit Bennett
+50. The Glass Hotel by Emily St. John Mandel
+
+These recommendations are based on the user's preference for literary fiction, historical fiction, and books by authors such as Gabriel García Márquez, Milan Kundera, and Salman Rushdie.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Joy Division
+2. Radiohead
+3. The Killers
+4. Interpol
+5. Placebo
+6. The Smashing Pumpkins
+7. The Stone Roses
+8. Echo & the Bunnymen
+9. New Order
+10. The Jesus and Mary Chain
+11. The Verve
+12. R.E.M.
+13. The Charlatans
+14. The Libertines
+15. The Cranberries
+16. The Psychedelic Furs
+17. The National
+18. The Jesus Lizard
+19. The Black Keys
+20. The War on Drugs
+21. The Horrors
+22. The Chameleons
+23. The Church
+24. The Psychedelic Furs
+25. The National
+26. The Jesus Lizard
+27. The Black Keys
+28. The War on Drugs
+29. The Horrors
+30. The Chameleons
+31. The Church
+32. The Psychedelic Furs
+33. The National
+34. The Jesus Lizard
+35. The Black Keys
+36. The War on Drugs
+37. The Horrors
+38. The Chameleons
+39. The Church
+40. The Psychedelic Furs
+41. The National
+42. The Jesus Lizard
+43. The Black Keys
+44. The War on Drugs
+45. The Horrors
+46. The Chameleons
+47. The Church
+48. The Psychedelic Furs
+49. The National
+50. The Jesus Lizard
+
+These recommendations are based on the user's liking of similar artists and genres.

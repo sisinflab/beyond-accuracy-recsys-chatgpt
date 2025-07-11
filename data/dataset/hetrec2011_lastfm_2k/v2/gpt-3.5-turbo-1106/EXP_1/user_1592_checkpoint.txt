@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Led Zeppelin
+2. The Offspring
+3. System of a Down
+4. Black Sabbath
+5. Soundgarden
+6. The Smashing Pumpkins
+7. Def Leppard
+8. The White Stripes
+9. Korn
+10. The Strokes
+11. Nine Inch Nails
+12. Pantera
+13. Alice Cooper
+14. The Black Keys
+15. Judas Priest
+16. The Doors
+17. Deep Purple
+18. Marilyn Manson
+19. Tool
+20. The Who
+21. Rage Against the Machine
+22. The Cure
+23. Motorhead
+24. Queens of the Stone Age
+25. The Clash
+26. Jane's Addiction
+27. The Ramones
+28. The Velvet Underground
+29. The Kinks
+30. The Pixies
+31. Iggy Pop
+32. The Flaming Lips
+33. The Cult
+34. The Hives
+35. The Stranglers
+36. The Damned
+37. The Misfits
+38. The Cramps
+39. The Dead Kennedys
+40. The Buzzcocks
+41. The Replacements
+42. The Sonics
+43. The Modern Lovers
+44. The Stooges
+45. The New York Dolls
+46. The MC5
+47. The Velvet Underground
+48. The Byrds
+49. The Yardbirds
+50. The Animals
+
+These recommendations are based on the user's liking of classic rock, hard rock, punk rock, and alternative rock bands.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1333:
+
+1. Radiohead
+2. Coldplay
+3. Arctic Monkeys
+4. Blur
+5. The Beatles
+6. Muse
+7. Pink Floyd
+8. Nirvana
+9. The Killers
+10. U2
+11. The Cure
+12. Depeche Mode
+13. Placebo
+14. The Smashing Pumpkins
+15. Franz Ferdinand
+16. Keane
+17. Interpol
+18. The Libertines
+19. The Vines
+20. Rooney
+21. Spoon
+22. Hot Hot Heat
+23. Feist
+24. Kaiser Chiefs
+25. Dire Straits
+26. Bob Dylan
+27. The Bird and The Bee
+28. The Beach Boys
+29. Modest Mouse
+30. Death Cab for Cutie
+31. Belle and Sebastian
+32. Weezer
+33. Travis
+34. Doves
+35. Hot Chip
+36. Sufjan Stevens
+37. Lady Gaga
+38. Madonna
+39. Rihanna
+40. Beyoncé
+41. Katy Perry
+42. Christina Aguilera
+43. Britney Spears
+44. Shakira
+45. Avril Lavigne
+46. Taylor Swift
+47. Glee Cast
+48. 30 Seconds to Mars
+49. Kylie Minogue
+50. Miley Cyrus
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

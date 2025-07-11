@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+2. The Alchemist by Paulo Coelho
+3. 1984 by George Orwell
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Hunger Games by Suzanne Collins
+8. The Da Vinci Code by Dan Brown
+9. The Hobbit by J.R.R. Tolkien
+10. The Kite Runner by Khaled Hosseini
+11. The Help by Kathryn Stockett
+12. The Road by Cormac McCarthy
+13. The Book Thief by Markus Zusak
+14. The Fault in Our Stars by John Green
+15. The Maze Runner by James Dashner
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Lovely Bones by Alice Sebold
+18. The Giver by Lois Lowry
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+21. The Glass Castle by Jeannette Walls
+22. The Goldfinch by Donna Tartt
+23. The Night Circus by Erin Morgenstern
+24. The Help by Kathryn Stockett
+25. The Road by Cormac McCarthy
+26. The Book Thief by Markus Zusak
+27. The Fault in Our Stars by John Green
+28. The Maze Runner by James Dashner
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Lovely Bones by Alice Sebold
+31. The Giver by Lois Lowry
+32. The Perks of Being a Wallflower by Stephen Chbosky
+33. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+34. The Glass Castle by Jeannette Walls
+35. The Goldfinch by Donna Tartt
+36. The Night Circus by Erin Morgenstern
+37. The Help by Kathryn Stockett
+38. The Road by Cormac McCarthy
+39. The Book Thief by Markus Zusak
+40. The Fault in Our Stars by John Green
+41. The Maze Runner by James Dashner
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Lovely Bones by Alice Sebold
+44. The Giver by Lois Lowry
+45. The Perks of Being a Wallflower by Stephen Chbosky
+46. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+47. The Glass Castle by Jeannette Walls
+48. The Goldfinch by Donna Tartt
+49. The Night Circus by Erin Morgenstern
+50. The Help by Kathryn Stockett
+
+These recommendations are based on the user's previous likes and popular books in similar genres.

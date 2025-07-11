@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 489:
+
+1. Muse
+2. Pink Floyd
+3. The Beatles
+4. U2
+5. The Killers
+6. Radiohead
+7. Coldplay
+8. Blur
+9. Nirvana
+10. Led Zeppelin
+11. Metallica
+12. Pearl Jam
+13. Queen
+14. The Rolling Stones
+15. The Doors
+16. The White Stripes
+17. Queens of the Stone Age
+18. The Strokes
+19. Arctic Monkeys
+20. Green Day
+21. My Chemical Romance
+22. The Cure
+23. Nine Inch Nails
+24. Linkin Park
+25. Avenged Sevenfold
+26. Iron Maiden
+27. Slayer
+28. AC/DC
+29. The Velvet Underground
+30. Bob Dylan
+31. Jimi Hendrix
+32. The Jimi Hendrix Experience
+33. Lynyrd Skynyrd
+34. Creedence Clearwater Revival
+35. B.B. King
+36. The Kinks
+37. 3 Doors Down
+38. Tenacious D
+39. Them Crooked Vultures
+40. Janis Joplin
+41. Beirut
+42. The Rolling Stones
+43. Audioslave
+44. Creed
+45. The Doors
+46. The White Stripes
+47. Them Crooked Vultures
+48. Janis Joplin
+49. Beirut
+50. The Jimi Hendrix Experience
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists that align with their musical tastes.

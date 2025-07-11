@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. One Hundred Years of Solitude by Gabriel Garcia Marquez
+3. The Stranger by Albert Camus
+4. Catch-22 by Joseph Heller
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Moby-Dick by Herman Melville
+8. The Sun Also Rises by Ernest Hemingway
+9. The Bell Jar by Sylvia Plath
+10. The Road by Cormac McCarthy
+11. A Clockwork Orange by Anthony Burgess
+12. The Grapes of Wrath by John Steinbeck
+13. Heart of Darkness by Joseph Conrad
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+16. The Handmaid's Tale by Margaret Atwood
+17. The Plague by Albert Camus
+18. The Master and Margarita by Mikhail Bulgakov
+19. The Metamorphosis by Franz Kafka
+20. The Wind-Up Bird Chronicle by Haruki Murakami
+21. The Crying of Lot 49 by Thomas Pynchon
+22. White Noise by Don DeLillo
+23. The Trial by Franz Kafka
+24. The Catcher in the Rye by J. D. Salinger
+25. Lolita by Vladimir Nabokov
+26. Notes from Underground by Fyodor Dostoevsky
+27. Invisible Man by Ralph Ellison
+28. Brave New World by Aldous Huxley
+29. Fear and Trembling by Søren Kierkegaard
+30. The Picture of Dorian Gray by Oscar Wilde
+31. A Passage to India by E.M. Forster
+32. The Sound and the Fury by William Faulkner
+33. The Brothers Karamazov by Fyodor Dostoyevsky
+34. Crime and Punishment by Fyodor Dostoyevsky
+35. Fear and Loathing in Las Vegas by Hunter S. Thompson
+36. The Stranger by Albert Camus
+37. The Road by Cormac McCarthy
+38. A Clockwork Orange by Anthony Burgess
+39. The Grapes of Wrath by John Steinbeck
+40. Heart of Darkness by Joseph Conrad
+41. The Old Man and the Sea by Ernest Hemingway
+42. The Handmaid's Tale by Margaret Atwood
+43. The Plague by Albert Camus
+44. The Master and Margarita by Mikhail Bulgakov
+45. The Metamorphosis by Franz Kafka
+46. The Wind-Up Bird Chronicle by Haruki Murakami
+47. The Crying of Lot 49 by Thomas Pynchon
+48. White Noise by Don DeLillo
+49. The Trial by Franz Kafka
+50. The Catcher in the Rye by J. D. Salinger

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Sarah McLachlan
+2. Sade
+3. Tori Amos
+4. Enya
+5. Joni Mitchell
+6. The Cranberries
+7. Cat Power
+8. PJ Harvey
+9. Portishead
+10. Mazzy Star
+11. Kate Bush
+12. Fleetwood Mac
+13. The Pretenders
+14. The Cardigans
+15. The Corrs
+16. Tracy Chapman
+17. Sheryl Crow
+18. Alanis Morissette
+19. Jewel
+20. Natalie Merchant
+21. Suzanne Vega
+22. Aimee Mann
+23. Indigo Girls
+24. Ani DiFranco
+25. Lisa Loeb
+26. Fiona Apple
+27. Norah Jones
+28. Imogen Heap
+29. Alanis Morissette
+30. R.E.M.
+31. The Beach Boys
+32. David Bowie
+33. Simon & Garfunkel
+34. Danny Elfman
+35. Oingo Boingo
+36. Johann Sebastian Bach
+37. Cyndi Lauper
+38. Kansas
+39. Wolfgang Amadeus Mozart
+40. Avril Lavigne
+41. XTC
+42. Iggy Pop
+43. Annie Lennox
+44. ABBA
+45. Echo & The Bunnymen
+46. Britney Spears
+47. The Beatles
+48. Led Zeppelin
+49. Pink Floyd
+50. The Rolling Stones
+
+These recommendations are based on the user's liking of similar artists and genres.

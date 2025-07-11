@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Looking for Alaska by John Green
+2. Thirteen Reasons Why by Jay Asher
+3. If I Stay by Gayle Forman
+4. Paper Towns by John Green
+5. The Fault in Our Stars by John Green
+6. Eleanor & Park by Rainbow Rowell
+7. All the Bright Places by Jennifer Niven
+8. Before I Fall by Lauren Oliver
+9. The Lovely Bones by Alice Sebold
+10. We Were Liars by E. Lockhart
+11. Everything, Everything by Nicola Yoon
+12. The Hate U Give by Angie Thomas
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. Speak by Laurie Halse Anderson
+15. Wintergirls by Laurie Halse Anderson
+16. The Book Thief by Markus Zusak
+17. The Sky Is Everywhere by Jandy Nelson
+18. Lamb: The Gospel According to Biff, Christ's Childhood Pal by Christopher Moore
+19. The Realm of Possibility by David Levithan
+20. The Sisterhood of the Traveling Pants by Ann Brashares
+21. Deadline by Mira Grant
+22. Ella Enchanted by Gail Carson Levine
+23. Suzanne's Diary for Nicholas by James Patterson
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Alchemist by Paulo Coelho
+26. The Night Circus by Erin Morgenstern
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Help by Kathryn Stockett
+31. The Girl on the Train by Paula Hawkins
+32. Gone Girl by Gillian Flynn
+33. Sharp Objects by Gillian Flynn
+34. Dark Places by Gillian Flynn
+35. The Goldfinch by Donna Tartt
+36. The Secret History by Donna Tartt
+37. The Bell Jar by Sylvia Plath
+38. The Catcher in the Rye by J.D. Salinger
+39. To Kill a Mockingbird by Harper Lee
+40. The Great Gatsby by F. Scott Fitzgerald
+41. 1984 by George Orwell
+42. Brave New World by Aldous Huxley
+43. Fahrenheit 451 by Ray Bradbury
+44. Animal Farm by George Orwell
+45. Lord of the Flies by William Golding
+46. One Hundred Years of Solitude by Gabriel Garcia Marquez
+47. Love in the Time of Cholera by Gabriel Garcia Marquez
+48. The House of the Spirits by Isabel Allende
+49. Like Water for Chocolate by Laura Esquivel
+50. The Shadow of the Wind by Carlos Ruiz Zafón
+
+These recommendations are based on the user's interest in young adult fiction, coming-of-age stories, and contemporary literature.

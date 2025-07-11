@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bring Me The Horizon
+2. A Day To Remember
+3. Three Days Grace
+4. Breaking Benjamin
+5. Papa Roach
+6. My Chemical Romance
+7. Disturbed
+8. System Of A Down
+9. Five Finger Death Punch
+10. Seether
+11. Stone Sour
+12. Korn
+13. Shinedown
+14. Halestorm
+15. In This Moment
+16. Trivium
+17. All Time Low
+18. The Used
+19. PVRIS
+20. Motionless In White
+21. Asking Alexandria
+22. Falling In Reverse
+23. Beartooth
+24. Architects
+25. Crown The Empire
+26. The Amity Affliction
+27. Of Mice & Men
+28. We Came As Romans
+29. Blessthefall
+30. Issues
+31. Sleeping With Sirens
+32. Escape the Fate
+33. The Word Alive
+34. I Prevail
+35. Atreyu
+36. Bullet for My Valentine
+37. Avenged Sevenfold
+38. Paramore
+39. Nightwish
+40. Slipknot
+41. Limp Bizkit
+42. Escape The Fate
+43. Good Charlotte
+44. Coma
+45. Arch Enemy
+46. Eminem
+47. Marilyn Manson
+48. Static-X
+49. Anti-Flag
+50. Sum 41
+
+These recommendations are based on the user's liking of similar artists and genres.

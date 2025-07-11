@@ -1,0 +1,54 @@
+Based on user 5's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. Brave New World by Aldous Huxley
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Bell Jar by Sylvia Plath
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. The Handmaid's Tale by Margaret Atwood
+12. Wuthering Heights by Emily Bronte
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Sun Also Rises by Ernest Hemingway
+15. A Clockwork Orange by Anthony Burgess
+16. The Road by Cormac McCarthy
+17. The Stranger by Albert Camus
+18. Slaughterhouse-Five by Kurt Vonnegut
+19. The Grapes of Wrath by John Steinbeck
+20. The Sound and the Fury by William Faulkner
+21. The Brothers Karamazov by Fyodor Dostoyevsky
+22. The Idiot by Fyodor Dostoyevsky
+23. The Trial by Franz Kafka
+24. Heart of Darkness by Joseph Conrad
+25. The Metamorphosis by Franz Kafka
+26. The Plague by Albert Camus
+27. The Outsider by Albert Camus
+28. The Count of Monte Cristo by Alexandre Dumas
+29. Les Miserables by Victor Hugo
+30. Anna Karenina by Leo Tolstoy
+31. War and Peace by Leo Tolstoy
+32. Crime and Punishment by Fyodor Dostoyevsky
+33. The Master and Margarita by Mikhail Bulgakov
+34. Lolita by Vladimir Nabokov
+35. The Trial by Franz Kafka
+36. The Stranger by Albert Camus
+37. The Road by Cormac McCarthy
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Bell Jar by Sylvia Plath
+40. One Hundred Years of Solitude by Gabriel Garcia Marquez
+41. The Handmaid's Tale by Margaret Atwood
+42. Wuthering Heights by Emily Bronte
+43. The Old Man and the Sea by Ernest Hemingway
+44. The Sun Also Rises by Ernest Hemingway
+45. A Clockwork Orange by Anthony Burgess
+46. The Sound and the Fury by William Faulkner
+47. The Brothers Karamazov by Fyodor Dostoyevsky
+48. The Idiot by Fyodor Dostoyevsky
+49. The Plague by Albert Camus
+50. The Outsider by Albert Camus
+
+These recommendations are based on the user's preference for classic literature and include a mix of classic and contemporary novels with similar themes and styles.

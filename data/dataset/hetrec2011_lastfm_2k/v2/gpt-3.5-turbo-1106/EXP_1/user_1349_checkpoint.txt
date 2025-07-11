@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smashing Pumpkins
+2. Nine Inch Nails
+3. The Cure
+4. Depeche Mode
+5. Interpol
+6. The Killers
+7. Arctic Monkeys
+8. Joy Division
+9. The Strokes
+10. The White Stripes
+11. Queens of the Stone Age
+12. System of a Down
+13. Foo Fighters
+14. Green Day
+15. Rammstein
+16. The Chemical Brothers
+17. Garbage
+18. The Verve
+19. Blur
+20. Gorillaz
+21. The Flaming Lips
+22. Beck
+23. Bloc Party
+24. The Black Keys
+25. Modest Mouse
+26. The National
+27. Death Cab for Cutie
+28. Arcade Fire
+29. Vampire Weekend
+30. Tame Impala
+31. Florence + The Machine
+32. Hozier
+33. Lana Del Rey
+34. Lorde
+35. The xx
+36. Alt-J
+37. CHVRCHES
+38. HAIM
+39. Bastille
+40. Imagine Dragons
+41. Twenty One Pilots
+42. Panic! At The Disco
+43. My Chemical Romance
+44. Fall Out Boy
+45. Paramore
+46. Bring Me The Horizon
+47. Sleeping With Sirens
+48. Pierce The Veil
+49. All Time Low
+50. Mayday Parade
+
+These recommendations are based on the user's liking of alternative, rock, and electronic music, and include artists with similar styles and fan bases.

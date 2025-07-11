@@ -1,0 +1,54 @@
+Based on user 1272's preferences, here are the top-50 recommendations for the listed artists:
+
+1. Linkin Park
+2. Muse
+3. 30 Seconds to Mars
+4. Fall Out Boy
+5. Paramore
+6. My Chemical Romance
+7. Panic! At the Disco
+8. Green Day
+9. All Time Low
+10. Simple Plan
+11. Sum 41
+12. The Used
+13. Black Eyed Peas
+14. Lady Antebellum
+15. Maroon 5
+16. Katy Perry
+17. Rihanna
+18. Bruno Mars
+19. Lady Gaga
+20. Demi Lovato
+21. P!nk
+22. Kelly Clarkson
+23. Adele
+24. Florence + the Machine
+25. Coldplay
+26. Evanescence
+27. Adam Lambert
+28. Madonna
+29. Beyoncé
+30. Shakira
+31. Ke$ha
+32. Britney Spears
+33. Justin Bieber
+34. Selena Gomez & the Scene
+35. MGMT
+36. Owl City
+37. 3OH!3
+38. Glee Cast
+39. Tokio Hotel
+40. The Veronicas
+41. Boys Like Girls
+42. Avril Lavigne
+43. Lily Allen
+44. Taylor Swift
+45. Christina Aguilera
+46. Kylie Minogue
+47. Mika
+48. Sara Bareilles
+49. David Guetta
+50. Nicki Minaj
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

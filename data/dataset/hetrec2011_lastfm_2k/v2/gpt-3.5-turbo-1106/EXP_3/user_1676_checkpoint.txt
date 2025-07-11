@@ -1,0 +1,54 @@
+Based on user 1676's preferences, here are the top 50 recommendations for them:
+
+1. Nirvana
+2. Radiohead
+3. Joy Division
+4. The Beatles
+5. Red Hot Chili Peppers
+6. Arctic Monkeys
+7. Coldplay
+8. Queen
+9. The Doors
+10. System of a Down
+11. Guns N' Roses
+12. Kings of Convenience
+13. PJ Harvey
+14. The Mars Volta
+15. Gorillaz
+16. Archive
+17. At the Drive-In
+18. Yeah Yeah Yeahs
+19. John Frusciante
+20. 65daysofstatic
+21. Myslovitz
+22. Nouvelle Vague
+23. Why?
+24. Primal Scream
+25. Muse
+26. The Killers
+27. Pink Floyd
+28. U2
+29. R.E.M.
+30. Pearl Jam
+31. Dire Straits
+32. Oasis
+33. Blur
+34. The Rolling Stones
+35. Led Zeppelin
+36. Jimi Hendrix
+37. Stevie Wonder
+38. Elvis Presley
+39. Johnny Cash
+40. Bob Marley
+41. The Raconteurs
+42. Lady Gaga
+43. MGMT
+44. Tricky
+45. Faith No More
+46. Aerosmith
+47. Duran Duran
+48. The Kooks
+49. Green Day
+50. AC/DC
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

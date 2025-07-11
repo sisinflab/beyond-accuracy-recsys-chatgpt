@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Great Gatsby by F. Scott Fitzgerald
+4. The Grapes of Wrath by John Steinbeck
+5. The Bell Jar by Sylvia Plath
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Road by Cormac McCarthy
+8. The Stranger by Albert Camus
+9. The Sun Also Rises by Ernest Hemingway
+10. The Old Man and the Sea by Ernest Hemingway
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Sound and the Fury by William Faulkner
+13. A Farewell to Arms by Ernest Hemingway
+14. The Handmaid's Tale by Margaret Atwood
+15. Fahrenheit 451 by Ray Bradbury
+16. Lord of the Flies by William Golding
+17. Animal Farm by George Orwell
+18. The Alchemist by Paulo Coelho
+19. The Kite Runner by Khaled Hosseini
+20. The Book Thief by Markus Zusak
+21. The Road Not Taken by Robert Frost
+22. The Glass Castle by Jeannette Walls
+23. The Poisonwood Bible by Barbara Kingsolver
+24. The Color Purple by Alice Walker
+25. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+26. The Namesake by Jhumpa Lahiri
+27. The House on Mango Street by Sandra Cisneros
+28. The Things They Carried by Tim O'Brien
+29. The Handmaid's Tale by Margaret Atwood
+30. The Goldfinch by Donna Tartt
+31. The Night Circus by Erin Morgenstern
+32. The Secret History by Donna Tartt
+33. The Shadow of the Wind by Carlos Ruiz Zafón
+34. The Book of Lost Things by John Connolly
+35. The Nightingale by Kristin Hannah
+36. The Light Between Oceans by M.L. Stedman
+37. The Night Circus by Erin Morgenstern
+38. The Secret History by Donna Tartt
+39. The Shadow of the Wind by Carlos Ruiz Zafón
+40. The Book of Lost Things by John Connolly
+41. The Nightingale by Kristin Hannah
+42. The Light Between Oceans by M.L. Stedman
+43. The Night Circus by Erin Morgenstern
+44. The Secret History by Donna Tartt
+45. The Shadow of the Wind by Carlos Ruiz Zafón
+46. The Book of Lost Things by John Connolly
+47. The Nightingale by Kristin Hannah
+48. The Light Between Oceans by M.L. Stedman
+49. The Night Circus by Erin Morgenstern
+50. The Secret History by Donna Tartt
+
+These recommendations are based on the user's preference for classic literature and novels with deep themes and emotional depth.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Joy Division
+2. New Order
+3. Siouxsie and the Banshees
+4. Bauhaus
+5. Echo & the Bunnymen
+6. The Smiths
+7. Interpol
+8. The Sisters of Mercy
+9. The Jesus and Mary Chain
+10. The Psychedelic Furs
+11. The Chameleons
+12. The Mission
+13. Killing Joke
+14. Cocteau Twins
+15. My Bloody Valentine
+16. The Church
+17. The Cult
+18. The Birthday Massacre
+19. She Wants Revenge
+20. The Horrors
+21. Editors
+22. White Lies
+23. Placebo
+24. The Raveonettes
+25. The Kills
+26. The Black Angels
+27. The War on Drugs
+28. The Black Keys
+29. Arctic Monkeys
+30. The Strokes
+31. The Libertines
+32. The White Stripes
+33. The Raconteurs
+34. The Hives
+35. The Vines
+36. The Kooks
+37. Franz Ferdinand
+38. Bloc Party
+39. The Bravery
+40. The Wombats
+41. The Vaccines
+42. The Pigeon Detectives
+43. The Fratellis
+44. The Courteeners
+45. The Maccabees
+46. The Cribs
+47. The View
+48. The Futureheads
+49. Maxïmo Park
+50. Kaiser Chiefs
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Crime and Punishment by Fyodor Dostoevsky
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Grapes of Wrath by John Steinbeck
+8. War and Peace by Leo Tolstoy
+9. Anna Karenina by Leo Tolstoy
+10. The Brothers Karamazov by Fyodor Dostoevsky
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Stranger by Albert Camus
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Sun Also Rises by Ernest Hemingway
+16. A Farewell to Arms by Ernest Hemingway
+17. The Road by Cormac McCarthy
+18. East of Eden by John Steinbeck
+19. The Bell Jar by Sylvia Plath
+20. The Handmaid's Tale by Margaret Atwood
+21. The Kite Runner by Khaled Hosseini
+22. The Alchemist by Paulo Coelho
+23. The Book Thief by Markus Zusak
+24. The Secret History by Donna Tartt
+25. The Goldfinch by Donna Tartt
+26. The Shadow of the Wind by Carlos Ruiz Zafon
+27. The Name of the Wind by Patrick Rothfuss
+28. The Night Circus by Erin Morgenstern
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Poisonwood Bible by Barbara Kingsolver
+31. The Road to Character by David Brooks
+32. The Art of Racing in the Rain by Garth Stein
+33. The Nightingale by Kristin Hannah
+34. The Light Between Oceans by M.L. Stedman
+35. The Nightingale by Kristin Hannah
+36. The Light Between Oceans by M.L. Stedman
+37. The Night Circus by Erin Morgenstern
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Poisonwood Bible by Barbara Kingsolver
+40. The Road to Character by David Brooks
+41. The Art of Racing in the Rain by Garth Stein
+42. The Nightingale by Kristin Hannah
+43. The Light Between Oceans by M.L. Stedman
+44. The Nightingale by Kristin Hannah
+45. The Light Between Oceans by M.L. Stedman
+46. The Night Circus by Erin Morgenstern
+47. The Secret Life of Bees by Sue Monk Kidd
+48. The Poisonwood Bible by Barbara Kingsolver
+49. The Road to Character by David Brooks
+50. The Art of Racing in the Rain by Garth Stein
+
+These recommendations are based on the user's preference for classic literature and may include a mix of classic and contemporary novels.

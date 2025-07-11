@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Divergent by Veronica Roth
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. Thirteen Reasons Why by Jay Asher
+5. The Maze Runner by James Dashner
+6. The Book Thief by Markus Zusak
+7. The Giver by Lois Lowry
+8. Paper Towns by John Green
+9. Looking for Alaska by John Green
+10. If I Stay by Gayle Forman
+11. Eleanor & Park by Rainbow Rowell
+12. The Selection by Kiera Cass
+13. Delirium by Lauren Oliver
+14. Uglies by Scott Westerfeld
+15. Matched by Ally Condie
+16. The 5th Wave by Rick Yancey
+17. Legend by Marie Lu
+18. The Darkest Minds by Alexandra Bracken
+19. Shatter Me by Tahereh Mafi
+20. Cinder by Marissa Meyer
+21. Red Queen by Victoria Aveyard
+22. The Lunar Chronicles by Marissa Meyer
+23. The Mortal Instruments by Cassandra Clare
+24. The Infernal Devices by Cassandra Clare
+25. The Selection by Kiera Cass
+26. The Host by Stephenie Meyer
+27. The Chemist by Stephenie Meyer
+28. The Twilight Saga by Stephenie Meyer
+29. The Vampire Diaries by L.J. Smith
+30. The Secret Circle by L.J. Smith
+31. The Forbidden Game by L.J. Smith
+32. The Dark Visions by L.J. Smith
+33. The Mediator by Meg Cabot
+34. The Princess Diaries by Meg Cabot
+35. Avalon High by Meg Cabot
+36. Airhead by Meg Cabot
+37. The Luxe by Anna Godbersen
+38. The It Girl by Cecily von Ziegesar
+39. Gossip Girl by Cecily von Ziegesar
+40. The Clique by Lisi Harrison
+41. Private by Kate Brian
+42. Pretty Little Liars by Sara Shepard
+43. The Lying Game by Sara Shepard
+44. The Heiresses by Sara Shepard
+45. The Amateurs by Sara Shepard
+46. The Good Girls by Sara Shepard
+47. The Elizas by Sara Shepard
+48. The Perfectionists by Sara Shepard
+49. The Visibles by Sara Shepard
+50. The Amateurs by Sara Shepard
+
+These recommendations are based on the user's interest in young adult fiction, fantasy, and supernatural themes.

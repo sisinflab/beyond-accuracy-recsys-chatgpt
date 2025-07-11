@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Linkin Park
+3. Three Days Grace
+4. Breaking Benjamin
+5. Papa Roach
+6. 30 Seconds to Mars
+7. The All-American Rejects
+8. Blink-182
+9. Green Day
+10. Evanescence
+11. System of a Down
+12. The Offspring
+13. Seether
+14. Chevelle
+15. Shinedown
+16. Nickelback
+17. Foo Fighters
+18. The Killers
+19. Muse
+20. Arctic Monkeys
+21. The Strokes
+22. Kings of Leon
+23. Imagine Dragons
+24. Florence + The Machine
+25. The Neighbourhood
+26. Cage The Elephant
+27. Twenty One Pilots
+28. Panic! At The Disco
+29. Paramore
+30. Fall Out Boy
+31. All Time Low
+32. Mayday Parade
+33. Sleeping With Sirens
+34. Pierce The Veil
+35. Bring Me The Horizon
+36. A Day To Remember
+37. Of Mice & Men
+38. Asking Alexandria
+39. Motionless In White
+40. Beartooth
+41. Crown The Empire
+42. Memphis May Fire
+43. We Came As Romans
+44. Issues
+45. The Amity Affliction
+46. Hands Like Houses
+47. Tonight Alive
+48. State Champs
+49. Neck Deep
+50. Real Friends
+
+These recommendations are based on the user's liking of similar artists and genres.

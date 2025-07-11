@@ -1,0 +1,54 @@
+Based on the preferences of user 1297, here are the top 50 book recommendations:
+
+1. The Book Thief by Markus Zusak
+2. The Kite Runner by Khaled Hosseini
+3. The Alchemist by Paulo Coelho
+4. To Kill a Mockingbird by Harper Lee
+5. 1984 by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Hunger Games by Suzanne Collins
+9. The Fault in Our Stars by John Green
+10. The Girl on the Train by Paula Hawkins
+11. Gone Girl by Gillian Flynn
+12. The Da Vinci Code by Dan Brown
+13. The Help by Kathryn Stockett
+14. The Night Circus by Erin Morgenstern
+15. The Goldfinch by Donna Tartt
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Lovely Bones by Alice Sebold
+19. The Secret History by Donna Tartt
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Name of the Wind by Patrick Rothfuss
+22. The Martian by Andy Weir
+23. The Handmaid's Tale by Margaret Atwood
+24. The Road by Cormac McCarthy
+25. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+26. The Glass Castle by Jeannette Walls
+27. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+28. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+29. The Underground Railroad by Colson Whitehead
+30. The Nightingale by Kristin Hannah
+31. The Light Between Oceans by M.L. Stedman
+32. The Invention of Wings by Sue Monk Kidd
+33. The Goldfinch by Donna Tartt
+34. The Giver by Lois Lowry
+35. The Fault in Our Stars by John Green
+36. The Book Thief by Markus Zusak
+37. The Hunger Games by Suzanne Collins
+38. The Help by Kathryn Stockett
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Girl on the Train by Paula Hawkins
+41. The Fault in Our Stars by John Green
+42. The Da Vinci Code by Dan Brown
+43. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+44. The Catcher in the Rye by J.D. Salinger
+45. The Alchemist by Paulo Coelho
+46. The 7 Habits of Highly Effective People by Stephen R. Covey
+47. The Power of Now by Eckhart Tolle
+48. The Four Agreements by Don Miguel Ruiz
+49. The Subtle Art of Not Giving a F*ck by Mark Manson
+50. The Art of Racing in the Rain by Garth Stein
+
+These recommendations are based on the genres and themes of the books that user 1297 likes.

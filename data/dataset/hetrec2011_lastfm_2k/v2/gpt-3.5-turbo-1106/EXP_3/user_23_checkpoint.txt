@@ -1,0 +1,54 @@
+Based on user 23's preferences, here are the top-50 recommendations for them:
+
+1. Radiohead
+2. Nirvana
+3. The Smiths
+4. The Doors
+5. Joy Division
+6. Siouxsie and the Banshees
+7. New Order
+8. Bob Dylan
+9. Nick Drake
+10. Tom Waits
+11. Jeff Buckley
+12. Morrissey
+13. Interpol
+14. The Killers
+15. Franz Ferdinand
+16. Muse
+17. Placebo
+18. Mew
+19. Bright Eyes
+20. Arcade Fire
+21. Suede
+22. Duran Duran
+23. Tears for Fears
+24. The Police
+25. The Offspring
+26. Ramones
+27. Martin L. Gore
+28. Pet Shop Boys
+29. a-ha
+30. Dave Gahan
+31. Mando Diao
+32. Weezer
+33. Dead Can Dance
+34. Kent
+35. Neutral Milk Hotel
+36. Cocteau Twins
+37. Gorillaz
+38. Regina Spektor
+39. Yann Tiersen
+40. Noize MC
+41. Chris Cornell
+42. Bloodhound Gang
+43. AFI
+44. Black Flag
+45. Ghostface Killah
+46. Throbbing Gristle
+47. Slayer
+48. Misfits
+49. The Velvet Underground
+50. Marilyn Manson
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

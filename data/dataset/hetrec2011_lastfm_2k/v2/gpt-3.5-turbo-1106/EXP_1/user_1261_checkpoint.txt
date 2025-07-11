@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The National
+3. Tame Impala
+4. The Strokes
+5. Vampire Weekend
+6. Arctic Monkeys
+7. Bon Iver
+8. The Killers
+9. Grizzly Bear
+10. The Shins
+11. Spoon
+12. Yeah Yeah Yeahs
+13. The Black Keys
+14. Modest Mouse
+15. Wilco
+16. The Decemberists
+17. Spoon
+18. The Flaming Lips
+19. LCD Soundsystem
+20. Phoenix
+21. The War on Drugs
+22. Fleetwood Mac
+23. HAIM
+24. The xx
+25. Alt-J
+26. M83
+27. St. Vincent
+28. Sufjan Stevens
+29. Beach House
+30. Father John Misty
+31. Angel Olsen
+32. Mitski
+33. Sharon Van Etten
+34. Mac DeMarco
+35. Courtney Barnett
+36. Parquet Courts
+37. Car Seat Headrest
+38. Big Thief
+39. Soccer Mommy
+40. Snail Mail
+41. Mitski
+42. King Krule
+43. Perfume Genius
+44. Weyes Blood
+45. Julia Holter
+46. Aldous Harding
+47. Cate Le Bon
+48. Destroyer
+49. Sharon Van Etten
+50. Big Thief
+
+These recommendations are based on the user's liking of similar artists and genres.

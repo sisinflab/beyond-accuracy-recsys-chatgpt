@@ -1,0 +1,52 @@
+Based on user 1215's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter
+2. The Hobbit
+3. The Lord of the Rings
+4. The Da Vinci Code
+5. The Count of Monte Cristo
+6. Memoirs of a Geisha
+7. Inkheart
+8. Catching Fire
+9. Eldest
+10. Life of Pi
+11. The Alchemist (novel)
+12. Fablehaven
+13. The Silmarillion
+14. A Thousand Splendid Suns
+15. A Song of Ice and Fire
+16. The Stand
+17. The Walking Dead (comic book)
+18. The Lovely Bones
+19. Eragon
+20. City of Ashes
+21. Maximum Ride
+22. City of Bones (Mortal Instruments)
+23. The Notebook (novel)
+24. The Little Prince
+25. Alice's Adventures in Wonderland
+26. The Mists of Avalon
+27. The Purpose Driven Life
+28. The Things They Carried
+29. Fallen (Kate novel)
+30. The Luxe
+31. The Shack
+32. The Southern Vampire Mysteries
+33. The Watchmen (novel)
+34. Pride and Prejudice and Zombies
+35. Nineteen Eighty-Four
+36. All American Girl (novel)
+37. Magic Study
+38. Elixir (novel)
+39. Black Beauty
+40. Tuesdays with Morrie
+41. Brisingr
+42. Night (book)
+43. The Feminine Mystique
+44. Ceres, Celestial Legend
+45. Fushigi Yûgi
+46. The Amazing Adventures of Kavalier & Clay
+47. The Wish (novel)
+48. Through the Looking-Glass
+49. The Last Storytellers: Tales from the Heart of Morocco
+50. Twilight (series)

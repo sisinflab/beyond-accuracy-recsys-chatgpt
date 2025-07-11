@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Book Thief by Markus Zusak
+6. The Alchemist by Paulo Coelho
+7. The Grapes of Wrath by John Steinbeck
+8. The Road by Cormac McCarthy
+9. The Glass Castle by Jeannette Walls
+10. The Poisonwood Bible by Barbara Kingsolver
+11. The Handmaid's Tale by Margaret Atwood
+12. The Night Circus by Erin Morgenstern
+13. The Goldfinch by Donna Tartt
+14. The Help by Kathryn Stockett
+15. The Lovely Bones by Alice Sebold
+16. The Girl on the Train by Paula Hawkins
+17. The Martian by Andy Weir
+18. The Hunger Games by Suzanne Collins
+19. The Fault in Our Stars by John Green
+20. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Time Machine by H.G. Wells
+23. The Handmaid's Tale by Margaret Atwood
+24. The Road by Cormac McCarthy
+25. The Glass Castle by Jeannette Walls
+26. The Poisonwood Bible by Barbara Kingsolver
+27. The Night Circus by Erin Morgenstern
+28. The Goldfinch by Donna Tartt
+29. The Help by Kathryn Stockett
+30. The Lovely Bones by Alice Sebold
+31. The Girl on the Train by Paula Hawkins
+32. The Martian by Andy Weir
+33. The Hunger Games by Suzanne Collins
+34. The Fault in Our Stars by John Green
+35. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+36. The Shadow of the Wind by Carlos Ruiz Zafón
+37. The Time Machine by H.G. Wells
+38. The Handmaid's Tale by Margaret Atwood
+39. The Road by Cormac McCarthy
+40. The Glass Castle by Jeannette Walls
+41. The Poisonwood Bible by Barbara Kingsolver
+42. The Night Circus by Erin Morgenstern
+43. The Goldfinch by Donna Tartt
+44. The Help by Kathryn Stockett
+45. The Lovely Bones by Alice Sebold
+46. The Girl on the Train by Paula Hawkins
+47. The Martian by Andy Weir
+48. The Hunger Games by Suzanne Collins
+49. The Fault in Our Stars by John Green
+50. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+
+These recommendations are based on the user's liking for literary fiction, historical fiction, and classic novels.

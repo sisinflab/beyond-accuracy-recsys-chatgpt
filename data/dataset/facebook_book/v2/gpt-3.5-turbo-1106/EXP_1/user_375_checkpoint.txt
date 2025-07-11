@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Great Gatsby by F. Scott Fitzgerald
+5. To Kill a Mockingbird by Harper Lee
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Hunger Games by Suzanne Collins
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Da Vinci Code by Dan Brown
+11. The Shining by Stephen King
+12. The Road by Cormac McCarthy
+13. The Handmaid's Tale by Margaret Atwood
+14. The Stand by Stephen King
+15. The Martian by Andy Weir
+16. The Alchemist by Paulo Coelho
+17. The Name of the Wind by Patrick Rothfuss
+18. The Shadow of the Wind by Carlos Ruiz Zafón
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Count of Monte Cristo by Alexandre Dumas
+21. The Brothers Karamazov by Fyodor Dostoevsky
+22. The Bell Jar by Sylvia Plath
+23. The Secret History by Donna Tartt
+24. The Goldfinch by Donna Tartt
+25. The Night Circus by Erin Morgenstern
+26. The Book Thief by Markus Zusak
+27. The Kite Runner by Khaled Hosseini
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Help by Kathryn Stockett
+30. The Poisonwood Bible by Barbara Kingsolver
+31. The Lovely Bones by Alice Sebold
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Giver by Lois Lowry
+34. The Maze Runner by James Dashner
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. The Fault in Our Stars by John Green
+37. The Girl on the Train by Paula Hawkins
+38. The Silent Patient by Alex Michaelides
+39. The Nightingale by Kristin Hannah
+40. The Tattooist of Auschwitz by Heather Morris
+41. The Glass Castle by Jeannette Walls
+42. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+43. The Power of One by Bryce Courtenay
+44. The Pillars of the Earth by Ken Follett
+45. The Thorn Birds by Colleen McCullough
+46. The Joy Luck Club by Amy Tan
+47. The Color Purple by Alice Walker
+48. The Handmaid's Tale by Margaret Atwood
+49. The Secret History by Donna Tartt
+50. The Goldfinch by Donna Tartt
+
+These recommendations are based on the user's interest in a variety of genres and authors.

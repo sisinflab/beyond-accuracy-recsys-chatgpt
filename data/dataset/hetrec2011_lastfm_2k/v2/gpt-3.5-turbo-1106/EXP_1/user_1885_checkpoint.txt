@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Explosions in the Sky
+2. Hammock
+3. Ólafur Arnalds
+4. Eluvium
+5. Godspeed You! Black Emperor
+6. Tycho
+7. Helios
+8. A Winged Victory for the Sullen
+9. This Will Destroy You
+10. Nils Frahm
+11. Hammock
+12. Balmorhea
+13. Kiasmos
+14. Goldmund
+15. Rachel's
+16. The Cinematic Orchestra
+17. Yann Tiersen
+18. Olafur Arnalds & Nils Frahm
+19. The Tired Sounds of Stars of the Lid
+20. The Dead Texan
+21. The Sight Below
+22. Rafael Anton Irisarri
+23. Tim Hecker
+24. Grouper
+25. William Basinski
+26. Fennesz
+27. Stars of the Lid and Their Refinement of the Decline
+28. Tim Hecker & Daniel Lopatin
+29. Arovane
+30. Benoît Pioulard
+31. Windy & Carl
+32. Fennesz + Sakamoto
+33. The Dead Texan
+34. Tim Hecker & Aidan Baker
+35. The Sight Below
+36. Rafael Anton Irisarri
+37. Grouper
+38. William Basinski
+39. Fennesz
+40. Stars of the Lid and Their Refinement of the Decline
+41. Tim Hecker & Daniel Lopatin
+42. Arovane
+43. Benoît Pioulard
+44. Windy & Carl
+45. Fennesz + Sakamoto
+46. The Dead Texan
+47. Tim Hecker & Aidan Baker
+48. The Sight Below
+49. Rafael Anton Irisarri
+50. Grouper
+
+These recommendations are based on the user's liking of similar artists and genres.

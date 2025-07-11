@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Mayday Parade
+2. Yellowcard
+3. Paramore
+4. Blink-182
+5. The Maine
+6. We the Kings
+7. My Chemical Romance
+8. Panic! At The Disco
+9. The Red Jumpsuit Apparatus
+10. New Found Glory
+11. Taking Back Sunday
+12. Jimmy Eat World
+13. The Academy Is...
+14. Dashboard Confessional
+15. The Starting Line
+16. Motion City Soundtrack
+17. The Story So Far
+18. State Champs
+19. Neck Deep
+20. Real Friends
+21. Knuckle Puck
+22. Seaway
+23. The Wonder Years
+24. All American Rejects
+25. Simple Plan
+26. Good Charlotte
+27. Boys Like Girls
+28. All Time Low
+29. Sum 41
+30. A Day to Remember
+31. Linkin Park
+32. Green Day
+33. Fall Out Boy
+34. 3OH!3
+35. Hey Monday
+36. You Me At Six
+37. The Used
+38. Escape The Fate
+39. The Pretty Reckless
+40. All Time Low
+41. Tonight Alive
+42. Set It Off
+43. Sleeping With Sirens
+44. Pierce The Veil
+45. Bring Me The Horizon
+46. Of Mice & Men
+47. Issues
+48. Crown The Empire
+49. Hands Like Houses
+50. Beartooth
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music within the same genre.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The Smiths
+3. Arcade Fire
+4. The National
+5. Bon Iver
+6. Fleet Foxes
+7. The xx
+8. Interpol
+9. The Flaming Lips
+10. Phoenix
+11. Grizzly Bear
+12. The Shins
+13. Spoon
+14. The Decemberists
+15. Belle and Sebastian
+16. Neutral Milk Hotel
+17. Wilco
+18. Death Cab for Cutie
+19. The Postal Service
+20. Band of Horses
+21. The War on Drugs
+22. Tame Impala
+23. LCD Soundsystem
+24. Animal Collective
+25. Beach House
+26. Father John Misty
+27. St. Vincent
+28. Hozier
+29. Florence + the Machine
+30. Lana Del Rey
+31. Lorde
+32. HAIM
+33. CHVRCHES
+34. London Grammar
+35. Alt-J
+36. The 1975
+37. Vampire Weekend
+38. Foster the People
+39. Two Door Cinema Club
+40. The Kooks
+41. The Wombats
+42. Bombay Bicycle Club
+43. The Vaccines
+44. Foals
+45. Arctic Monkeys
+46. Cage the Elephant
+47. The Black Keys
+48. Kings of Leon
+49. Imagine Dragons
+50. Twenty One Pilots
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands that the user may enjoy.

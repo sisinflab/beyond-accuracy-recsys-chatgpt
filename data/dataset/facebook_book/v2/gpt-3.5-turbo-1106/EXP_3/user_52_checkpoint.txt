@@ -1,0 +1,52 @@
+Based on user 52's preferences, here are the top 50 book recommendations:
+
+1. The Shining (novel) by ['Stephen King']
+2. The Green Mile (novel) by ['Stephen King']
+3. Cell (novel) by ['Stephen King']
+4. Dreamcatcher (novel) by ['Stephen King']
+5. The Watchmen (novel) by ['John Altman (author)']
+6. Of Mice and Men by ['John Steinbeck']
+7. The Bourne Identity (novel) by ['Robert Ludlum']
+8. The Bourne Supremacy by ['Robert Ludlum']
+9. Angels & Demons by ['Dan Brown']
+10. Nineteen Eighty-Four by ['George Orwell']
+11. The Alchemist (novel)
+12. A Clockwork Orange
+13. The Name of the Wind
+14. Good Omens
+15. The Forever War
+16. Neuromancer
+17. Ender's Game
+18. The Outsiders (novel)
+19. The Stranger (novel)
+20. The Handmaid's Tale
+21. Brave New World
+22. Hannibal (novel)
+23. The Regulators
+24. The Silence of the Lambs (novel)
+25. The Myth of Sisyphus
+26. On Writing
+27. The Art of Deception
+28. The Forever War
+29. Battle Royale
+30. Cirque du Freak
+31. The Stainless Steel Rat
+32. Old Man's War
+33. Journey to the West
+34. Winnie-the-Pooh (book)
+35. Duma Key
+36. Inheritance (novel)
+37. Dragon Tears
+38. The Bad Place
+39. Let the Right One In (novel)
+40. Never Let Me Go (novel)
+41. Batman: Year One
+42. Inkheart
+43. Harry Potter
+44. Macbeth
+45. Twilight (series)
+46. Skeleton Creek (novel)
+47. Batman: The Killing Joke
+48. Island (book)
+49. Looking for Alaska
+50. Even Cowgirls Get the Blues (novel)

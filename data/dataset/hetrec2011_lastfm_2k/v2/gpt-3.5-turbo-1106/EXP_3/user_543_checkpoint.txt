@@ -1,0 +1,54 @@
+Based on user 543's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The Beatles
+2. Red Hot Chili Peppers
+3. Linkin Park
+4. Foo Fighters
+5. System of a Down
+6. Snow Patrol
+7. 30 Seconds to Mars
+8. Oasis
+9. The Strokes
+10. Paramore
+11. Kings of Leon
+12. The Smashing Pumpkins
+13. Death Cab for Cutie
+14. Papa Roach
+15. Marilyn Manson
+16. Audioslave
+17. Noize MC
+18. 3 Doors Down
+19. Simple Plan
+20. Nickelback
+21. The Offspring
+22. Korn
+23. Breaking Benjamin
+24. In Flames
+25. Garbage
+26. Bloc Party
+27. The Script
+28. Lily Allen
+29. Glee Cast
+30. Britney Spears
+31. The Last Shadow Puppets
+32. Mindless Self Indulgence
+33. Sopor Aeternus & The Ensemble of Shadows
+34. Sara Bareilles
+35. Limp Bizkit
+36. Christina Aguilera
+37. P!nk
+38. Marilyn Manson
+39. Психея
+40. Florence + the Machine
+41. Protest The Hero
+42. Zемфира
+43. Travis
+44. Jack Johnson
+45. Beyoncé
+46. The Last Shadow Puppets
+47. The Script
+48. Lily Allen
+49. Glee Cast
+50. Britney Spears
+
+These recommendations are based on similar genres and styles to the user's liked artists.

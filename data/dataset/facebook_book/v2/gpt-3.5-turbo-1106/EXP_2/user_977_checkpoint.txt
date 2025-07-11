@@ -1,0 +1,54 @@
+Based on the user's liking of the books provided, here is a re-ranked top-50 recommendation list for user 977:
+
+1. The Lovely Bones by Alice Sebold
+2. The Last Song (novel) by Nicholas Sparks
+3. The Notebook (novel) by Nicholas Sparks
+4. The Last Olympian by Rick Riordan
+5. The Sea of Monsters by Rick Riordan
+6. Catching Fire by Suzanne Collins
+7. The Purpose Driven Life
+8. The Great Gatsby
+9. The Hobbit
+10. The Catcher in the Rye
+11. The Picture of Dorian Gray
+12. The Unbearable Lightness of Being
+13. The Maze Runner
+14. The City of Ember
+15. The Stand
+16. The Giver
+17. The Scarlet Letter
+18. The Lord of the Rings
+19. The Phantom of the Opera
+20. The Silmarillion
+21. The Southern Vampire Mysteries
+22. The House of Mirth
+23. The Outsiders (novel)
+24. The Rapture (novel)
+25. The Tenant of Wildfell Hall
+26. The Lost Books (novel series)
+27. The Giver
+28. The Maze Runner
+29. The City of Ember
+30. The Southern Vampire Mysteries
+31. The Hobbit
+32. The Great Gatsby
+33. The Catcher in the Rye
+34. The Picture of Dorian Gray
+35. The Unbearable Lightness of Being
+36. The Stand
+37. The Lord of the Rings
+38. The Phantom of the Opera
+39. The Silmarillion
+40. The House of Mirth
+41. The Outsiders (novel)
+42. The Rapture (novel)
+43. The Tenant of Wildfell Hall
+44. The Lost Books (novel series)
+45. The Giver
+46. The Maze Runner
+47. The City of Ember
+48. The Southern Vampire Mysteries
+49. The Hobbit
+50. The Great Gatsby
+
+These recommendations are based on the user's liking of similar books and are ranked accordingly.

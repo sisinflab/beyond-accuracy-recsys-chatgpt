@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tame Impala
+2. Phoenix
+3. The Strokes
+4. Vampire Weekend
+5. Arctic Monkeys
+6. The xx
+7. Beach House
+8. Radiohead
+9. The Knife
+10. Caribou
+11. Washed Out
+12. Grimes
+13. Beach Fossils
+14. Wild Nothing
+15. The War on Drugs
+16. The National
+17. Chromatics
+18. Toro y Moi
+19. Purity Ring
+20. Youth Lagoon
+21. Real Estate
+22. DIIV
+23. Unknown Mortal Orchestra
+24. Foxygen
+25. Mac DeMarco
+26. Kurt Vile
+27. Deerhunter
+28. Crystal Castles
+29. Digitalism
+30. Cut Copy
+31. MGMT
+32. Hot Chip
+33. Joy Division
+34. The Horrors
+35. LCD Soundsystem
+36. Yeah Yeah Yeahs
+37. Passion Pit
+38. Daft Punk
+39. Bloc Party
+40. Foals
+41. Animal Collective
+42. Empire of the Sun
+43. Arcade Fire
+44. Florence + the Machine
+45. Interpol
+46. Atlas Sound
+47. Led Zeppelin
+48. Moby
+49. Devendra Banhart
+50. Late of the Pier
+
+These recommendations are based on the user's liking of similar artists and genres.

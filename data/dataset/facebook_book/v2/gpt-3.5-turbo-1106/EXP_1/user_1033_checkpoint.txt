@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+2. 1984 by George Orwell
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. The Alchemist by Paulo Coelho
+7. Brave New World by Aldous Huxley
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Handmaid's Tale by Margaret Atwood
+10. The Road by Cormac McCarthy
+11. The Book Thief by Markus Zusak
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Stranger by Albert Camus
+14. The Kite Runner by Khaled Hosseini
+15. The Giver by Lois Lowry
+16. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+17. The Shadow of the Wind by Carlos Ruiz Zafón
+18. The Name of the Wind by Patrick Rothfuss
+19. The Night Circus by Erin Morgenstern
+20. The Secret History by Donna Tartt
+21. The Goldfinch by Donna Tartt
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Martian by Andy Weir
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Handmaid's Tale by Margaret Atwood
+26. The Road by Cormac McCarthy
+27. The Book Thief by Markus Zusak
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Stranger by Albert Camus
+30. The Kite Runner by Khaled Hosseini
+31. The Giver by Lois Lowry
+32. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+33. The Shadow of the Wind by Carlos Ruiz Zafón
+34. The Name of the Wind by Patrick Rothfuss
+35. The Night Circus by Erin Morgenstern
+36. The Secret History by Donna Tartt
+37. The Goldfinch by Donna Tartt
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Martian by Andy Weir
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Handmaid's Tale by Margaret Atwood
+42. The Road by Cormac McCarthy
+43. The Book Thief by Markus Zusak
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Stranger by Albert Camus
+46. The Kite Runner by Khaled Hosseini
+47. The Giver by Lois Lowry
+48. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+49. The Shadow of the Wind by Carlos Ruiz Zafón
+50. The Name of the Wind by Patrick Rothfuss
+
+These recommendations are based on the user's interest in fiction, fantasy, mystery, and philosophical themes.

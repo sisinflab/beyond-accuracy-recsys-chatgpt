@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. Less Than Zero by Bret Easton Ellis
+3. In Cold Blood by Truman Capote
+4. The Bell Jar by Sylvia Plath
+5. American Psycho by Bret Easton Ellis
+6. The Stranger by Albert Camus
+7. The Catcher in the Rye by J.D. Salinger
+8. Brave New World by Aldous Huxley
+9. The Great Gatsby by F. Scott Fitzgerald
+10. One Flew Over the Cuckoo's Nest by Ken Kesey
+11. The Road by Cormac McCarthy
+12. The Handmaid's Tale by Margaret Atwood
+13. A Clockwork Orange by Anthony Burgess
+14. The Virgin Suicides by Jeffrey Eugenides
+15. The Sun Also Rises by Ernest Hemingway
+16. The Grapes of Wrath by John Steinbeck
+17. The Fountainhead by Ayn Rand
+18. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+19. The Shining by Stephen King
+20. The Stand by Stephen King
+21. The Secret History by Donna Tartt
+22. The Brothers Karamazov by Fyodor Dostoevsky
+23. Crime and Punishment by Fyodor Dostoevsky
+24. Lolita by Vladimir Nabokov
+25. The Road to Wigan Pier by George Orwell
+26. The Plague by Albert Camus
+27. The Trial by Franz Kafka
+28. The Metamorphosis by Franz Kafka
+29. The Idiot by Fyodor Dostoevsky
+30. The Master and Margarita by Mikhail Bulgakov
+31. The Unbearable Lightness of Being by Milan Kundera
+32. The Wind-Up Bird Chronicle by Haruki Murakami
+33. Norwegian Wood by Haruki Murakami
+34. The Hand of Fatima by Ildefonso Falcones
+35. The Name of the Wind by Patrick Rothfuss
+36. The Lies of Locke Lamora by Scott Lynch
+37. The Night Circus by Erin Morgenstern
+38. The Book Thief by Markus Zusak
+39. The Shadow of the Wind by Carlos Ruiz Zafón
+40. The Alchemist by Paulo Coelho
+41. The Kite Runner by Khaled Hosseini
+42. A Thousand Splendid Suns by Khaled Hosseini
+43. The God of Small Things by Arundhati Roy
+44. The Poisonwood Bible by Barbara Kingsolver
+45. The Glass Castle by Jeannette Walls
+46. The Joy Luck Club by Amy Tan
+47. The Color Purple by Alice Walker
+48. The Help by Kathryn Stockett
+49. The Secret Life of Bees by Sue Monk Kidd
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's interest in authors like Truman Capote, Bret Easton Ellis, Thomas More, Chuck Palahniuk, and Oscar Wilde, as well as their preference for novels and memoirs.

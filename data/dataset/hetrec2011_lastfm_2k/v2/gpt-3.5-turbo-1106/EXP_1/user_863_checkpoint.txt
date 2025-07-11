@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Phoenix
+2. Two Door Cinema Club
+3. Foals
+4. Bloc Party
+5. Vampire Weekend
+6. The Wombats
+7. The Hives
+8. Interpol
+9. The Vaccines
+10. The Black Keys
+11. Tame Impala
+12. Foster the People
+13. Arctic Monkeys
+14. The Kooks
+15. The Strokes
+16. Franz Ferdinand
+17. The Killers
+18. Kings of Leon
+19. MGMT
+20. Muse
+21. The Ting Tings
+22. Friendly Fires
+23. Crystal Castles
+24. The Beatles
+25. Metric
+26. Klaxons
+27. Coldplay
+28. Justice
+29. Placebo
+30. Queens of the Stone Age
+31. The Bravery
+32. Fischerspooner
+33. Kaiser Chiefs
+34. Simian Mobile Disco
+35. Yelle
+36. Yeah Yeah Yeahs
+37. Ladyhawke
+38. Keane
+39. The Presets
+40. Daft Punk
+41. LCD Soundsystem
+42. Hot Chip
+43. Cut Copy
+44. Empire of the Sun
+45. Passion Pit
+46. Arctic Monkeys
+47. The Kooks
+48. The Strokes
+49. Franz Ferdinand
+50. The Killers
+
+These recommendations are based on the user's existing preferences and are aimed at providing similar artists that the user may enjoy.

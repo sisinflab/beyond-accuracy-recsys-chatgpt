@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Aerosmith
+2. AC/DC
+3. Metallica
+4. Pink Floyd
+5. U2
+6. The Beatles
+7. Nirvana
+8. Red Hot Chili Peppers
+9. The Who
+10. Pearl Jam
+11. The Doors
+12. Oasis
+13. Foo Fighters
+14. Soundgarden
+15. Eric Clapton
+16. Bob Dylan
+17. Fleetwood Mac
+18. The Rolling Stones
+19. Elton John
+20. The Eagles
+21. Tom Petty and the Heartbreakers
+22. Stevie Wonder
+23. Prince
+24. Bob Marley
+25. Santana
+26. The Beach Boys
+27. The Kinks
+28. The Clash
+29. The Police
+30. Dire Straits
+31. Talking Heads
+32. R.E.M.
+33. The Cure
+34. Depeche Mode
+35. Duran Duran
+36. Pet Shop Boys
+37. INXS
+38. Tears for Fears
+39. Simple Minds
+40. The Smiths
+41. Joy Division
+42. New Order
+43. Echo & the Bunnymen
+44. The Psychedelic Furs
+45. The Cult
+46. Siouxsie and the Banshees
+47. The Jesus and Mary Chain
+48. Cocteau Twins
+49. The Sisters of Mercy
+50. Bauhaus
+
+These recommendations are based on the user's liking of classic rock, pop, and some electronic and dance music.

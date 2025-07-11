@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Da Vinci Code by Dan Brown
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. The Alchemist by Paulo Coelho
+8. The Kite Runner by Khaled Hosseini
+9. The Book Thief by Markus Zusak
+10. The Fault in Our Stars by John Green
+11. Gone Girl by Gillian Flynn
+12. The Help by Kathryn Stockett
+13. The Maze Runner by James Dashner
+14. The Night Circus by Erin Morgenstern
+15. The Goldfinch by Donna Tartt
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Lovely Bones by Alice Sebold
+18. The Girl on the Train by Paula Hawkins
+19. The Handmaid's Tale by Margaret Atwood
+20. The Martian by Andy Weir
+21. The Silent Patient by Alex Michaelides
+22. The Tattooist of Auschwitz by Heather Morris
+23. The Nightingale by Kristin Hannah
+24. The Light Between Oceans by M.L. Stedman
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Glass Castle by Jeannette Walls
+28. The Thirteenth Tale by Diane Setterfield
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Pillars of the Earth by Ken Follett
+31. The Name of the Wind by Patrick Rothfuss
+32. The Giver by Lois Lowry
+33. The Road by Cormac McCarthy
+34. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+35. The Night Circus by Erin Morgenstern
+36. The Goldfinch by Donna Tartt
+37. The Secret Life of Bees by Sue Monk Kidd
+38. The Lovely Bones by Alice Sebold
+39. The Girl on the Train by Paula Hawkins
+40. The Handmaid's Tale by Margaret Atwood
+41. The Martian by Andy Weir
+42. The Silent Patient by Alex Michaelides
+43. The Tattooist of Auschwitz by Heather Morris
+44. The Nightingale by Kristin Hannah
+45. The Light Between Oceans by M.L. Stedman
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Time Traveler's Wife by Audrey Niffenegger
+48. The Glass Castle by Jeannette Walls
+49. The Thirteenth Tale by Diane Setterfield
+50. The Shadow of the Wind by Carlos Ruiz Zafón
+
+These recommendations are based on the user's interest in a mix of fiction, mystery, and young adult genres.

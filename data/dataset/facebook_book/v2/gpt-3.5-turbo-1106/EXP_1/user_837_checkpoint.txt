@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. The Outsiders by S.E. Hinton
+7. The Old Man and the Sea by Ernest Hemingway
+8. The Adventures of Huckleberry Finn by Mark Twain
+9. The Giver by Lois Lowry
+10. The Hobbit by J.R.R. Tolkien
+11. The Alchemist by Paulo Coelho
+12. The Little Prince by Antoine de Saint-Exupéry
+13. The Road by Cormac McCarthy
+14. The Grapes of Wrath by John Steinbeck
+15. The Sun Also Rises by Ernest Hemingway
+16. The Bell Jar by Sylvia Plath
+17. One Hundred Years of Solitude by Gabriel García Márquez
+18. Slaughterhouse-Five by Kurt Vonnegut
+19. Brave New World by Aldous Huxley
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Stranger by Albert Camus
+22. The Kite Runner by Khaled Hosseini
+23. The Secret Life of Bees by Sue Monk Kidd
+24. The Road Not Taken by Robert Frost
+25. The Book Thief by Markus Zusak
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Fault in Our Stars by John Green
+28. The Hunger Games by Suzanne Collins
+29. The Maze Runner by James Dashner
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Da Vinci Code by Dan Brown
+32. The Help by Kathryn Stockett
+33. The Lovely Bones by Alice Sebold
+34. The Time Traveler's Wife by Audrey Niffenegger
+35. The Night Circus by Erin Morgenstern
+36. The Goldfinch by Donna Tartt
+37. The Martian by Andy Weir
+38. The Handmaid's Tale by Margaret Atwood
+39. The Silent Patient by Alex Michaelides
+40. The Tattooist of Auschwitz by Heather Morris
+41. The Nightingale by Kristin Hannah
+42. The Alice Network by Kate Quinn
+43. The Light Between Oceans by M.L. Stedman
+44. The Glass Castle by Jeannette Walls
+45. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+46. The Underground Railroad by Colson Whitehead
+47. The Nightingale by Kristin Hannah
+48. The Alice Network by Kate Quinn
+49. The Light Between Oceans by M.L. Stedman
+50. The Glass Castle by Jeannette Walls
+
+These recommendations are based on the user's interest in various genres and themes, including classic literature, contemporary fiction, and historical fiction.

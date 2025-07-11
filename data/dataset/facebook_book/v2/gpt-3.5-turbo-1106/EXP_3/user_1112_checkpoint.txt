@@ -1,0 +1,54 @@
+Based on user 1112's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye
+2. The Lovely Bones
+3. Never Let Me Go (novel)
+4. Memoirs of a Geisha
+5. The Princess Bride
+6. The Giver
+7. Little Women
+8. Adventures of Huckleberry Finn
+9. The Scarlet Pimpernel
+10. The Hobbit
+11. The Phantom Tollbooth
+12. The Joy Luck Club (novel)
+13. The Host (novel)
+14. Flowers in the Attic
+15. The Perks of Being a Wallflower
+16. His Dark Materials
+17. Percy Jackson & the Olympians
+18. The Vampire Chronicles
+19. Twilight (series)
+20. Inkheart
+21. The Hunger Games
+22. The Lord of the Rings
+23. The Da Vinci Code
+24. Angels & Demons
+25. Inferno (Dante)
+26. Dracula
+27. Interview with the Vampire
+28. Eragon
+29. The Antichrist (book)
+30. The Little Prince
+31. Malory Towers
+32. The Famous Five (series)
+33. Holes (novel)
+34. The Walking Dead (comic book)
+35. The Naughtiest Girl Again
+36. The Phantom Tollbooth
+37. Great Expectations
+38. Les Misérables
+39. The Princess Bride
+40. The Lovely Bones
+41. The Catcher in the Rye
+42. Never Let Me Go (novel)
+43. Memoirs of a Geisha
+44. The Giver
+45. Little Women
+46. Adventures of Huckleberry Finn
+47. The Scarlet Pimpernel
+48. The Hobbit
+49. The Phantom Tollbooth
+50. The Joy Luck Club (novel)
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1112 likes.

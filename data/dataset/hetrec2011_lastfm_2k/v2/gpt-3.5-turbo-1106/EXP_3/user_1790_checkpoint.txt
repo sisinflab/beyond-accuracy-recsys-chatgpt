@@ -1,0 +1,54 @@
+Based on user 1790's preferences, here are the top 50 recommendations for the given artists:
+
+1. Björk
+2. Mariah Carey
+3. Tori Amos
+4. Beyoncé
+5. Regina Spektor
+6. Dido
+7. Jennifer Lopez
+8. Cher
+9. Céline Dion
+10. Marisa Monte
+11. Caetano Veloso
+12. Nouvelle Vague
+13. Antimatter
+14. Travis
+15. Simply Red
+16. Daft Punk
+17. Justice
+18. Yeasayer
+19. Beirut
+20. Paramore
+21. Joss Stone
+22. Kelis
+23. Ulver
+24. Christina Aguilera
+25. The Killers
+26. The xx
+27. Sia
+28. Elvis Presley
+29. Donna Summer
+30. Coldplay
+31. Glee Cast
+32. Animal Collective
+33. Rihanna
+34. Lily Allen
+35. Robbie Williams
+36. Imogen Heap
+37. Caribou
+38. The Bird and The Bee
+39. ABBA
+40. Anathema
+41. Lady Gaga
+42. Lindsay Lohan
+43. Guns N' Roses
+44. Michael Jackson
+45. Luis Miguel
+46. Red Hot Chili Peppers
+47. Green Day
+48. Pink Floyd
+49. Pain of Salvation
+50. Madonna
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

@@ -1,0 +1,54 @@
+Based on user 1104's preferences, here are the top 50 recommendations:
+
+1. Michael Bublé
+2. Lionel Richie
+3. Sade
+4. Bruno Mars
+5. Adele
+6. John Legend
+7. Sam Smith
+8. Norah Jones
+9. Ed Sheeran
+10. Alicia Keys
+11. Justin Timberlake
+12. Coldplay
+13. U2
+14. Madonna
+15. The Weeknd
+16. Ariana Grande
+17. Justin Bieber
+18. Taylor Swift
+19. Shawn Mendes
+20. Dua Lipa
+21. Halsey
+22. Demi Lovato
+23. Selena Gomez
+24. Shawn Mendes
+25. Camila Cabello
+26. Khalid
+27. Drake
+28. Rihanna
+29. Katy Perry
+30. Pink
+31. The Chainsmokers
+32. Imagine Dragons
+33. OneRepublic
+34. Maroon 5
+35. Jason Mraz
+36. Train
+37. James Blunt
+38. The Script
+39. Gavin DeGraw
+40. Colbie Caillat
+41. Sara Bareilles
+42. Kelly Clarkson
+43. Leona Lewis
+44. James Morrison
+45. Duffy
+46. Amy Winehouse
+47. Joss Stone
+48. Corinne Bailey Rae
+49. John Mayer
+50. Jack Johnson
+
+These recommendations are based on similar genres, vocal styles, and popularity to the artists liked by user 1104.

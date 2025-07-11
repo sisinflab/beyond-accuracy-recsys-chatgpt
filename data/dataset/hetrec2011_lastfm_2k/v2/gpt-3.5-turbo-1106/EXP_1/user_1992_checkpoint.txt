@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Neutral Milk Hotel
+2. Belle and Sebastian
+3. The Shins
+4. Modest Mouse
+5. The Decemberists
+6. Wilco
+7. Yo La Tengo
+8. The National
+9. Fleet Foxes
+10. The Flaming Lips
+11. Animal Collective
+12. My Bloody Valentine
+13. The Magnetic Fields
+14. Built to Spill
+15. The War on Drugs
+16. Tame Impala
+17. Father John Misty
+18. The Strokes
+19. Vampire Weekend
+20. The Black Keys
+21. Spoon
+22. Interpol
+23. LCD Soundsystem
+24. Yeah Yeah Yeahs
+25. The White Stripes
+26. The Kills
+27. The xx
+28. Beach House
+29. Grimes
+30. Tegan and Sara
+31. HAIM
+32. CHVRCHES
+33. Florence + The Machine
+34. Lana Del Rey
+35. St. Vincent
+36. Mitski
+37. Angel Olsen
+38. Courtney Barnett
+39. Car Seat Headrest
+40. Parquet Courts
+41. Mac DeMarco
+42. King Krule
+43. Snail Mail
+44. Soccer Mommy
+45. Big Thief
+46. Mitski
+47. Sharon Van Etten
+48. Waxahatchee
+49. Phoebe Bridgers
+50. Lucy Dacus
+
+These recommendations are based on the user's liking of indie, alternative, and rock artists, and include similar artists that they may enjoy based on their preferences.

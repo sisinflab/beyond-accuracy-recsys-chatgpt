@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glass (Crank, #2) by Ellen Hopkins
+2. Burned (Burned, #1) by Ellen Hopkins
+3. Perfect (Impulse, #2) by Ellen Hopkins
+4. Fallout (Crank, #3) by Ellen Hopkins
+5. Tilt (Tilt, #1) by Ellen Hopkins
+6. Rumble by Ellen Hopkins
+7. Smoke (Burned, #2) by Ellen Hopkins
+8. Identical by Ellen Hopkins
+9. Tricks (Tricks, #1) by Ellen Hopkins
+10. Traffick (Tricks, #2) by Ellen Hopkins
+11. The You I've Never Known by Ellen Hopkins
+12. The Wolves of Mercy Falls series by Maggie Stiefvater
+13. Shiver (The Wolves of Mercy Falls, #1) by Maggie Stiefvater
+14. Linger (The Wolves of Mercy Falls, #2) by Maggie Stiefvater
+15. Forever (The Wolves of Mercy Falls, #3) by Maggie Stiefvater
+16. The Raven Boys (The Raven Cycle, #1) by Maggie Stiefvater
+17. The Dream Thieves (The Raven Cycle, #2) by Maggie Stiefvater
+18. Blue Lily, Lily Blue (The Raven Cycle, #3) by Maggie Stiefvater
+19. The Raven King (The Raven Cycle, #4) by Maggie Stiefvater
+20. The Book Thief by Markus Zusak
+21. Thirteen Reasons Why by Jay Asher
+22. Speak by Laurie Halse Anderson
+23. Wintergirls by Laurie Halse Anderson
+24. The Fault in Our Stars by John Green
+25. Looking for Alaska by John Green
+26. Paper Towns by John Green
+27. An Abundance of Katherines by John Green
+28. It's Kind of a Funny Story by Ned Vizzini
+29. Girl, Interrupted by Susanna Kaysen
+30. Prozac Nation by Elizabeth Wurtzel
+31. The Bell Jar by Sylvia Plath
+32. The Catcher in the Rye by J.D. Salinger
+33. A Separate Peace by John Knowles
+34. The Outsiders by S.E. Hinton
+35. The Giver by Lois Lowry
+36. Gathering Blue by Lois Lowry
+37. Messenger by Lois Lowry
+38. Son by Lois Lowry
+39. The Hunger Games by Suzanne Collins
+40. Catching Fire by Suzanne Collins
+41. Mockingjay by Suzanne Collins
+42. Divergent by Veronica Roth
+43. Insurgent by Veronica Roth
+44. Allegiant by Veronica Roth
+45. The Maze Runner by James Dashner
+46. The Scorch Trials by James Dashner
+47. The Death Cure by James Dashner
+48. The Kill Order by James Dashner
+49. The Fever Code by James Dashner
+50. The 5th Wave by Rick Yancey
+
+These recommendations are based on the user's interest in young adult fiction, coming-of-age stories, and classic literature.

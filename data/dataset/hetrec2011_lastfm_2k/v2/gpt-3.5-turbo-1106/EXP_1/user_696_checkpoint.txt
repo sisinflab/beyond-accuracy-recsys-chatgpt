@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. The Doors
+3. Guns N' Roses
+4. Jimi Hendrix
+5. Lynyrd Skynyrd
+6. Black Sabbath
+7. Van Halen
+8. The Kinks
+9. ZZ Top
+10. The Allman Brothers Band
+11. The Beach Boys
+12. The Byrds
+13. The Clash
+14. The Police
+15. Dire Straits
+16. The Velvet Underground
+17. The Kinks
+18. The Yardbirds
+19. The Animals
+20. The Hollies
+21. The Zombies
+22. The Turtles
+23. The Monkees
+24. The Mamas & The Papas
+25. The Lovin' Spoonful
+26. The Everly Brothers
+27. The Shirelles
+28. The Supremes
+29. The Temptations
+30. The Four Tops
+31. The Beach Boys
+32. The Drifters
+33. The Platters
+34. The Coasters
+35. The Chiffons
+36. The Ronettes
+37. The Shangri-Las
+38. The Crystals
+39. The Marvelettes
+40. The Shirelles
+41. The Supremes
+42. The Chantels
+43. The Angels
+44. The Shirelles
+45. The Crystals
+46. The Ronettes
+47. The Shangri-Las
+48. The Marvelettes
+49. The Chantels
+50. The Angels

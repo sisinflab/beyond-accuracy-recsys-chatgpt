@@ -1,0 +1,48 @@
+Based on the user's preferences, here are the top 50 movie recommendations:
+
+1. 10 Things I Hate About You (1999) - Similar to the user's liked movie
+2. The Italian Job (2003) - Action, heist movie
+3. Ocean's Eleven (2001) - Heist movie
+4. Ocean's Twelve (2004) - Heist movie
+5. Ocean's Thirteen (2007) - Heist movie
+6. The Fast and the Furious (2001) - Action, racing movie
+7. Fast & Furious (2009) - Action, racing movie
+8. Fast Five (2011) - Action, racing movie
+9. Fast & Furious 6 (2013) - Action, racing movie
+10. Furious 7 (2015) - Action, racing movie
+11. The Fate of the Furious (2017) - Action, racing movie
+12. 2 Fast 2 Furious (Fast and the Furious 2, The) (2003) - Similar to the user's liked movie
+13. 28 Days Later (2002) - Horror, thriller
+14. 28 Weeks Later (2007) - Similar to the user's liked movie
+15. The Punisher (2004) - Action, revenge movie
+16. Sin City (2005) - Crime, neo-noir movie
+17. Kill Bill: Vol. 1 (2003) - Action, revenge movie
+18. Kill Bill: Vol. 2 (2004) - Action, revenge movie
+19. The Boondock Saints (1999) - Action, crime movie
+20. The Matrix (1999) - Action, sci-fi
+21. The Matrix Reloaded (2003) - Action, sci-fi
+22. The Matrix Revolutions (2003) - Action, sci-fi
+23. The Bourne Identity (2002) - Action, spy movie
+24. The Bourne Supremacy (2004) - Action, spy movie
+25. The Bourne Ultimatum (2007) - Action, spy movie
+26. The Bourne Legacy (2012) - Action, spy movie
+27. The Equalizer (2014) - Action, thriller
+28. The Equalizer 2 (2018) - Action, thriller
+29. The Town (2010) - Crime, thriller
+30. Heat (1995) - Crime, heist movie
+31. Reservoir Dogs (1992) - Crime, thriller
+32. Pulp Fiction (1994) - Crime, thriller
+33. Jackie Brown (1997) - Crime, thriller
+34. Kill the Irishman (2011) - Crime, biographical movie
+35. The Departed (2006) - Crime, thriller
+36. Goodfellas (1990) - Crime, biographical movie
+37. Casino (1995) - Crime, drama
+38. American Gangster (2007) - Crime, biographical movie
+39. Blow (2001) - Crime, biographical movie
+40. Scarface (1983) - Crime, drama
+41. Donnie Brasco (1997) - Crime, biographical movie
+42. The Godfather (1972) - Crime, drama
+43. The Godfather: Part II (1974) - Crime, drama
+44. The Godfather: Part III (1990) - Crime, drama
+45. The Untouchables (1987) - Crime, drama
+46. Road to Perdition (2002) - Crime,

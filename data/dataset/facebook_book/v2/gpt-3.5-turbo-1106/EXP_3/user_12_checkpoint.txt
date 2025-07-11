@@ -1,0 +1,52 @@
+Based on user 12's preferences, here are the top 50 book recommendations:
+
+1. Uglies by Scott Westerfeld
+2. Specials (novel) by Scott Westerfeld
+3. Pretties by Scott Westerfeld
+4. Extras (novel) by Scott Westerfeld
+5. The Hunger Games
+6. Divergent (novel)
+7. The Host (novel)
+8. Twilight (series)
+9. The Passage (novel)
+10. Unwind (novel)
+11. The Thief of Always
+12. The Rules of Attraction
+13. This Lullaby
+14. Looking for Alaska
+15. Thirteen Reasons Why
+16. Go Ask Alice
+17. Impulse economy
+18. The Pact (novel)
+19. PS, I Love You (novel)
+20. The Last Lecture
+21. The Time Traveler's Wife
+22. Memoirs of a Geisha
+23. Everything Is Illuminated
+24. Extremely Loud and Incredibly Close
+25. Mansfield Park
+26. Sense and Sensibility
+27. Great Expectations
+28. A Midsummer Night's Dream
+29. The Song of the Lioness
+30. To Kill a Mockingbird
+31. The Merchant of Venice
+32. Romeo and Juliet
+33. The Awakening (Chopin novel)
+34. A Northern Light
+35. Leaving a Doll's House: A Memoir
+36. She's Come Undone
+37. The Things They Carried
+38. Moby-Dick
+39. The Last Storytellers: Tales from the Heart of Morocco
+40. Where the Sidewalk Ends (book)
+41. Watchers (novel)
+42. In the Forests of the Night
+43. Veronika Decides to Die
+44. So B. It
+45. Ghostgirl
+46. When I was Puerto Rican
+47. Summer of the Monkeys
+48. Little Women by Louisa May Alcott
+49. Where the Red Fern Grows by Wilson Rawls
+50. Someone like You (novel) by Sarah Dessen

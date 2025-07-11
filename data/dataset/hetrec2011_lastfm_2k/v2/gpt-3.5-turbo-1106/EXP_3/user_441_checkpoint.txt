@@ -1,0 +1,54 @@
+Based on user 441's preferences, here are the top-50 recommendations for the listed artists:
+
+1. Radiohead
+2. Muse
+3. The Strokes
+4. Arctic Monkeys
+5. The White Stripes
+6. Franz Ferdinand
+7. The Beatles
+8. U2
+9. Coldplay
+10. Red Hot Chili Peppers
+11. The Clash
+12. Blur
+13. Keane
+14. Bloc Party
+15. The Cure
+16. The xx
+17. Kings of Convenience
+18. Arcade Fire
+19. Kasabian
+20. The Fratellis
+21. White Lies
+22. Maxïmo Park
+23. Green Day
+24. Weezer
+25. The Killers
+26. Oasis
+27. Kings of Leon
+28. The Chemical Brothers
+29. Queens of the Stone Age
+30. Interpol
+31. New Order
+32. Depeche Mode
+33. Yeah Yeah Yeahs
+34. Editors
+35. The Mars Volta
+36. Massive Attack
+37. MGMT
+38. Bloc Party
+39. Athlete
+40. Hurts
+41. Modest Mouse
+42. 30 Seconds to Mars
+43. Incubus
+44. Razorlight
+45. Pink Floyd
+46. Morrissey
+47. Blur
+48. Dave Gahan
+49. The Fratellis
+50. The White Stripes
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for them to explore.

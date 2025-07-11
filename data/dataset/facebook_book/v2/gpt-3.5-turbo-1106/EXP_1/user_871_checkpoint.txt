@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Still Life with Woodpecker by Tom Robbins
+2. The World According to Garp by John Irving
+3. The Book of Laughter and Forgetting by Milan Kundera
+4. The Catcher in the Rye by J.D. Salinger
+5. Slaughterhouse-Five by Kurt Vonnegut
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Secret History by Donna Tartt
+9. The Brothers Karamazov by Fyodor Dostoevsky
+10. To Kill a Mockingbird by Harper Lee
+11. The Picture of Dorian Gray by Oscar Wilde
+12. Crime and Punishment by Fyodor Dostoevsky
+13. The Grapes of Wrath by John Steinbeck
+14. The Road by Cormac McCarthy
+15. The Kite Runner by Khaled Hosseini
+16. The Alchemist by Paulo Coelho
+17. The God of Small Things by Arundhati Roy
+18. The Poisonwood Bible by Barbara Kingsolver
+19. Atonement by Ian McEwan
+20. The Night Circus by Erin Morgenstern
+21. The Goldfinch by Donna Tartt
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Glass Castle by Jeannette Walls
+24. The Lovely Bones by Alice Sebold
+25. The Namesake by Jhumpa Lahiri
+26. The Color Purple by Alice Walker
+27. Beloved by Toni Morrison
+28. Song of Solomon by Toni Morrison
+29. The House on Mango Street by Sandra Cisneros
+30. The Handmaid's Tale by Margaret Atwood
+31. The Bell Jar by Sylvia Plath
+32. The Joy of Cooking by Irma S. Rombauer
+33. The Omnivore's Dilemma by Michael Pollan
+34. Kitchen Confidential by Anthony Bourdain
+35. Born to Run by Christopher McDougall
+36. Wild by Cheryl Strayed
+37. Eat, Pray, Love by Elizabeth Gilbert
+38. The Year of Living Danishly by Helen Russell
+39. The Art of Racing in the Rain by Garth Stein
+40. Water for Elephants by Sara Gruen
+41. The Help by Kathryn Stockett
+42. The Secret Garden by Frances Hodgson Burnett
+43. Little Women by Louisa May Alcott
+44. Anne of Green Gables by L.M. Montgomery
+45. The Chronicles of Narnia by C.S. Lewis
+46. Harry Potter series by J.K. Rowling
+47. The Hunger Games series by Suzanne Collins
+48. Divergent series by Veronica Roth
+49. The Fault in Our Stars by John Green
+50. The Perks of Being a Wallflower by Stephen Chbosky
+
+These recommendations are based on the user's liking of the mentioned books and authors.

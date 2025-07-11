@@ -1,0 +1,54 @@
+Based on user 1278's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Survivor by Chuck Palahniuk
+3. Choke by Chuck Palahniuk
+4. American Psycho by Bret Easton Ellis
+5. Less Than Zero by Bret Easton Ellis
+6. The Rules of Attraction by Bret Easton Ellis
+7. Sharp Objects by Gillian Flynn
+8. Dark Places by Gillian Flynn
+9. Gone Girl by Gillian Flynn
+10. The Road by Cormac McCarthy
+11. No Country for Old Men by Cormac McCarthy
+12. Blood Meridian by Cormac McCarthy
+13. The Bell Jar by Sylvia Plath
+14. We Need to Talk About Kevin by Lionel Shriver
+15. The Secret History by Donna Tartt
+16. The Goldfinch by Donna Tartt
+17. The Virgin Suicides by Jeffrey Eugenides
+18. Middlesex by Jeffrey Eugenides
+19. The Marriage Plot by Jeffrey Eugenides
+20. The Lovely Bones by Alice Sebold
+21. The Girl on the Train by Paula Hawkins
+22. Sharp Objects by Gillian Flynn
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Girl Who Played with Fire by Stieg Larsson
+25. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+26. The Shining by Stephen King
+27. Misery by Stephen King
+28. Pet Sematary by Stephen King
+29. The Handmaid's Tale by Margaret Atwood
+30. Alias Grace by Margaret Atwood
+31. The Blind Assassin by Margaret Atwood
+32. The Road by Cormac McCarthy
+33. No Country for Old Men by Cormac McCarthy
+34. Blood Meridian by Cormac McCarthy
+35. The Catcher in the Rye by J.D. Salinger
+36. Franny and Zooey by J.D. Salinger
+37. Nine Stories by J.D. Salinger
+38. The Great Gatsby by F. Scott Fitzgerald
+39. Tender Is the Night by F. Scott Fitzgerald
+40. This Side of Paradise by F. Scott Fitzgerald
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Importance of Being Earnest by Oscar Wilde
+43. Lady Windermere's Fan by Oscar Wilde
+44. The Stranger by Albert Camus
+45. The Plague by Albert Camus
+46. The Fall by Albert Camus
+47. The Road by Cormac McCarthy
+48. No Country for Old Men by Cormac McCarthy
+49. Blood Meridian by Cormac McCarthy
+50. The Catcher in the Rye by J.D. Salinger
+
+These recommendations are based on the similar themes, genres, and authors of the books that user 1278 likes.

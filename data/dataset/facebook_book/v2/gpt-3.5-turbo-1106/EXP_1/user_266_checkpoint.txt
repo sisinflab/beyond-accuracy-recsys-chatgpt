@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Alice's Adventures in Wonderland by Lewis Carroll
+2. The Secret Garden by Frances Hodgson Burnett
+3. Little Women by Louisa May Alcott
+4. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+5. Jane Eyre by Charlotte Brontë
+6. Wuthering Heights by Emily Brontë
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. 1984 by George Orwell
+10. The Catcher in the Rye by J.D. Salinger
+11. The Picture of Dorian Gray by Oscar Wilde
+12. Dracula by Bram Stoker
+13. Frankenstein by Mary Shelley
+14. The Hobbit by J.R.R. Tolkien
+15. The Lord of the Rings by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Hunger Games by Suzanne Collins
+18. The Giver by Lois Lowry
+19. The Alchemist by Paulo Coelho
+20. The Little Prince by Antoine de Saint-Exupéry
+21. The Book Thief by Markus Zusak
+22. The Kite Runner by Khaled Hosseini
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. Gone Girl by Gillian Flynn
+25. The Da Vinci Code by Dan Brown
+26. The Help by Kathryn Stockett
+27. The Night Circus by Erin Morgenstern
+28. The Goldfinch by Donna Tartt
+29. The Handmaid's Tale by Margaret Atwood
+30. The Road by Cormac McCarthy
+31. The Martian by Andy Weir
+32. Ready Player One by Ernest Cline
+33. The Name of the Wind by Patrick Rothfuss
+34. The Shadow of the Wind by Carlos Ruiz Zafón
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Fault in Our Stars by John Green
+37. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+38. The Lovely Bones by Alice Sebold
+39. The Girl on the Train by Paula Hawkins
+40. The Maze Runner by James Dashner
+41. The Perks of Being a Wallflower by Stephen Chbosky
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Glass Castle by Jeannette Walls
+44. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+45. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+46. The Poisonwood Bible by Barbara Kingsolver
+47. The Color Purple by Alice Walker
+48. The Joy Luck Club by Amy Tan
+49. The House on Mango Street by Sandra Cisneros
+50. The Bell Jar by Sylvia Plath
+
+These recommendations are based on the user's interest in classic literature, mystery, fantasy, and children's books.

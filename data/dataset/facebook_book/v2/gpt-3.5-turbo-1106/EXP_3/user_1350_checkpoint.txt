@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 1350:
+
+1. The Lord of the Rings
+2. Harry Potter
+3. The Hobbit
+4. The Chronicles of Narnia
+5. Ender's Game
+6. Catching Fire
+7. Mockingjay
+8. The Maze Runner
+9. The Giver
+10. The Stand
+11. A Clockwork Orange
+12. Crime and Punishment
+13. Brave New World
+14. The Old Man and the Sea
+15. The Picture of Dorian Gray
+16. A Midsummer Night's Dream
+17. Romeo and Juliet
+18. The Time Machine
+19. The New Jedi Order
+20. The Beautiful Boy
+21. The Prince
+22. The Screwtape Letters
+23. The Godfather (novel)
+24. The Little Prince
+25. The Lorax
+26. The Illuminatus! Trilogy
+27. The Stand
+28. The Chronicles of Narnia
+29. The Maze Runner
+30. The Lord of the Rings
+31. The Hobbit
+32. The Chronicles of Narnia
+33. The Maze Runner
+34. The Lord of the Rings
+35. The Hobbit
+36. The Chronicles of Narnia
+37. The Maze Runner
+38. The Lord of the Rings
+39. The Hobbit
+40. The Chronicles of Narnia
+41. The Maze Runner
+42. The Lord of the Rings
+43. The Hobbit
+44. The Chronicles of Narnia
+45. The Maze Runner
+46. The Lord of the Rings
+47. The Hobbit
+48. The Chronicles of Narnia
+49. The Maze Runner
+50. The Lord of the Rings
+
+These recommendations are based on the user's previous likes and the similarity of the recommended books to the ones the user has enjoyed.

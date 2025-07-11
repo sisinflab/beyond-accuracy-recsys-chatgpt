@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1723:
+
+1. Ólafur Arnalds
+2. Max Richter
+3. Sigur Rós
+4. Stars of the Lid
+5. Hammock
+6. Boards of Canada
+7. Massive Attack
+8. Bonobo
+9. Arovane
+10. Balmorhea
+11. Goldfrapp
+12. Air
+13. Portishead
+14. God Is an Astronaut
+15. Röyksopp
+16. A Perfect Circle
+17. Moby
+18. The Chemical Brothers
+19. Autechre
+20. Imogen Heap
+21. Clint Mansell
+22. Ennio Morricone
+23. Akira Yamaoka
+24. Mogwai
+25. Brian Eno
+26. Amethystium
+27. Radiohead
+28. Kraftwerk
+29. Depeche Mode
+30. Peter Gabriel
+31. Frédéric Chopin
+32. The Velvet Underground
+33. Marilyn Manson
+34. The Smashing Pumpkins
+35. Muse
+36. Stars
+37. Clint Mansell
+38. Ennio Morricone
+39. Akira Yamaoka
+40. Rammstein
+41. Pink Floyd
+42. Beck
+43. Björk
+44. The Album Leaf
+45. The Beatles
+46. Garbage
+47. Tom Waits
+48. Enigma
+49. Linkin Park
+50. Lady Gaga
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that the user may enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Fahrenheit 451 by Ray Bradbury
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. Animal Farm by George Orwell
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Road by Cormac McCarthy
+9. The Stranger by Albert Camus
+10. One Flew Over the Cuckoo's Nest by Ken Kesey
+11. The Grapes of Wrath by John Steinbeck
+12. The Great Gatsby by F. Scott Fitzgerald
+13. Lord of the Flies by William Golding
+14. The Bell Jar by Sylvia Plath
+15. A Clockwork Orange by Anthony Burgess
+16. The Handmaid's Tale by Margaret Atwood
+17. The Stand by Stephen King
+18. The Shining by Stephen King
+19. Misery by Stephen King
+20. Pet Sematary by Stephen King
+21. It by Stephen King
+22. The Dark Tower series by Stephen King
+23. The Stand by Stephen King
+24. The Road by Cormac McCarthy
+25. Blood Meridian by Cormac McCarthy
+26. No Country for Old Men by Cormac McCarthy
+27. All the Pretty Horses by Cormac McCarthy
+28. The Border Trilogy by Cormac McCarthy
+29. The Martian by Andy Weir
+30. Ready Player One by Ernest Cline
+31. Snow Crash by Neal Stephenson
+32. Neuromancer by William Gibson
+33. Do Androids Dream of Electric Sheep? by Philip K. Dick
+34. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+35. Foundation series by Isaac Asimov
+36. Dune by Frank Herbert
+37. Hyperion by Dan Simmons
+38. The Left Hand of Darkness by Ursula K. Le Guin
+39. The Dispossessed by Ursula K. Le Guin
+40. The Moon is a Harsh Mistress by Robert A. Heinlein
+41. Stranger in a Strange Land by Robert A. Heinlein
+42. The Forever War by Joe Haldeman
+43. Old Man's War by John Scalzi
+44. Altered Carbon by Richard K. Morgan
+45. The Expanse series by James S.A. Corey
+46. The Three-Body Problem by Liu Cixin
+47. The Windup Girl by Paolo Bacigalupi
+48. The City & the City by China Miéville
+49. The Southern Reach Trilogy by Jeff VanderMeer
+50. The Quantum Thief by Hannu Rajaniemi
+
+These recommendations are based on the user's interest in dystopian and science fiction novels, as well as psychological thrillers and philosophical works.

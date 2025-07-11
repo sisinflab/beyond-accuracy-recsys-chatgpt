@@ -1,0 +1,52 @@
+Based on the user's preferences, here is a re-ranked list of books into a top-50 recommendations:
+
+1. The Scarlet Letter by Nathaniel Hawthorne
+2. Their Eyes Were Watching God by Zora Neale Hurston
+3. A Separate Peace by John Knowles
+4. Frankenstein by Mary Shelley
+5. The Old Man and the Sea by Ernest Hemingway
+6. The Notebook (novel) by Nicholas Sparks
+7. Lord of the Flies by William Golding
+8. Lioness Rampant by Tamora Pierce
+9. Great Expectations
+10. The Lord of the Rings
+11. The Mists of Avalon
+12. Slaughterhouse-Five
+13. Dracula
+14. Sense and Sensibility
+15. The Alchemist (novel)
+16. Holes (novel)
+17. Gulliver's Travels
+18. Paradise Lost
+19. Cat's Cradle
+20. Les Misérables
+21. The Mayor of Casterbridge
+22. The Tempest
+23. A Wrinkle in Time
+24. A Passage to India
+25. To Kill a Mockingbird
+26. Wuthering Heights
+27. A Thousand Splendid Suns
+28. Interview with the Vampire
+29. The Jungle Book
+30. Nineteen Eighty-Four
+31. Jane Eyre
+32. The Prince
+33. Angels & Demons
+34. The Constitution of Liberty
+35. Darkest Powers
+36. Alas, Babylon
+37. The House of the Scorpion
+38. Tess of the d'Urbervilles
+39. The Seventh Tower
+40. Not Without My Daughter
+41. Lolita
+42. Inferno (Dante)
+43. Unaccustomed Earth
+44. The Zombie Survival Guide
+45. Old Farmer's Almanac
+46. Emma (novel)
+47. Studies of the Book of Mormon
+48. Twilight (series)
+49. Eat, Pray, Love
+50. City of Bones (Mortal Instruments)

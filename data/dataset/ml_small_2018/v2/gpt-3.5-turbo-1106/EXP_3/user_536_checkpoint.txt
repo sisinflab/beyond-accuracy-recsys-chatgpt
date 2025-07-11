@@ -1,0 +1,14 @@
+Based on the user's preferences, here are the top 10 movie recommendations from the list provided:
+
+1. Seven (a.k.a. Se7en) (1995)
+2. Interview with the Vampire: The Vampire Chronicles (1994)
+3. Pulp Fiction (1994)
+4. Shawshank Redemption, The (1994)
+5. Usual Suspects, The (1995)
+6. Twelve Monkeys (a.k.a. 12 Monkeys) (1995)
+7. Braveheart (1995)
+8. Toy Story (1995)
+9. Aladdin (1992)
+10. Legends of the Fall (1994)
+
+These recommendations are based on the user's ratings for similar movies and aim to provide a personalized list of top recommendations.

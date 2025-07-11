@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Hobbit by J.R.R. Tolkien
+7. The Alchemist by Paulo Coelho
+8. To Kill a Mockingbird by Harper Lee
+9. The Catcher in the Rye by J.D. Salinger
+10. 1984 by George Orwell
+11. Animal Farm by George Orwell
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Book Thief by Markus Zusak
+14. The Fault in Our Stars by John Green
+15. The Perks of Being a Wallflower by Stephen Chbosky
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Da Vinci Code by Dan Brown
+18. Angels & Demons by Dan Brown
+19. The Girl on the Train by Paula Hawkins
+20. Gone Girl by Gillian Flynn
+21. The Girl in the Spider's Web by David Lagercrantz
+22. The Help by Kathryn Stockett
+23. The Kite Runner by Khaled Hosseini
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. The Night Circus by Erin Morgenstern
+26. The Goldfinch by Donna Tartt
+27. The Secret History by Donna Tartt
+28. The Martian by Andy Weir
+29. Ready Player One by Ernest Cline
+30. The Name of the Wind by Patrick Rothfuss
+31. The Wise Man's Fear by Patrick Rothfuss
+32. American Gods by Neil Gaiman
+33. Neverwhere by Neil Gaiman
+34. The Ocean at the End of the Lane by Neil Gaiman
+35. The Handmaid's Tale by Margaret Atwood
+36. Oryx and Crake by Margaret Atwood
+37. The Road by Cormac McCarthy
+38. All the Light We Cannot See by Anthony Doerr
+39. The Nightingale by Kristin Hannah
+40. The Tattooist of Auschwitz by Heather Morris
+41. The Alice Network by Kate Quinn
+42. The Nightingale by Kristin Hannah
+43. The Light Between Oceans by M.L. Stedman
+44. The Night Circus by Erin Morgenstern
+45. The Goldfinch by Donna Tartt
+46. The Secret History by Donna Tartt
+47. The Martian by Andy Weir
+48. Ready Player One by Ernest Cline
+49. The Name of the Wind by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss
+
+These recommendations are based on the user's interest in fantasy, science fiction, historical fiction, and popular literature.

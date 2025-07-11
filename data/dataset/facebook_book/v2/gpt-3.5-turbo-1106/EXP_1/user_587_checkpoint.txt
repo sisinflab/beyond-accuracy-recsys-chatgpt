@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. Animal Farm by George Orwell
+5. Fahrenheit 451 by Ray Bradbury
+6. Lord of the Flies by William Golding
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Handmaid's Tale by Margaret Atwood
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Road by Cormac McCarthy
+11. The Stranger by Albert Camus
+12. The Grapes of Wrath by John Steinbeck
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Sun Also Rises by Ernest Hemingway
+15. The Sound and the Fury by William Faulkner
+16. The Bell Jar by Sylvia Plath
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Picture of Dorian Gray by Oscar Wilde
+19. Heart of Darkness by Joseph Conrad
+20. The Scarlet Letter by Nathaniel Hawthorne
+21. Moby-Dick by Herman Melville
+22. The Brothers Karamazov by Fyodor Dostoevsky
+23. The Stranger by Albert Camus
+24. The Road by Cormac McCarthy
+25. The Metamorphosis by Franz Kafka
+26. The Trial by Franz Kafka
+27. The Plague by Albert Camus
+28. The Idiot by Fyodor Dostoevsky
+29. The Master and Margarita by Mikhail Bulgakov
+30. The Unbearable Lightness of Being by Milan Kundera
+31. The Book Thief by Markus Zusak
+32. The Kite Runner by Khaled Hosseini
+33. The Alchemist by Paulo Coelho
+34. The Secret History by Donna Tartt
+35. The Goldfinch by Donna Tartt
+36. The Night Circus by Erin Morgenstern
+37. The Shadow of the Wind by Carlos Ruiz Zafon
+38. The Name of the Wind by Patrick Rothfuss
+39. The Book of Lost Things by John Connolly
+40. The Thirteenth Tale by Diane Setterfield
+41. The Historian by Elizabeth Kostova
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Poisonwood Bible by Barbara Kingsolver
+44. The Glass Castle by Jeannette Walls
+45. The Joy Luck Club by Amy Tan
+46. The Color Purple by Alice Walker
+47. The Help by Kathryn Stockett
+48. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+49. The Handmaid's Tale by Margaret Atwood
+50. The Lovely Bones by Alice Sebold
+
+These recommendations are based on the user's preference for classic literature, as well as some modern and diverse selections.

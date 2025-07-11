@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Def Leppard
+2. Poison
+3. Scorpions
+4. Bon Jovi
+5. Guns N' Roses
+6. Aerosmith
+7. Motley Crue
+8. Van Halen
+9. Cinderella
+10. Whitesnake
+11. Quiet Riot
+12. Twisted Sister
+13. Warrant
+14. Skid Row
+15. Ratt
+16. Lita Ford
+17. Joan Jett
+18. Heart
+19. Pat Benatar
+20. The Bangles
+21. Cyndi Lauper
+22. Tiffany
+23. Debbie Gibson
+24. Belinda Carlisle
+25. The Go-Go's
+26. The Runaways
+27. The Pretenders
+28. Blondie
+29. The B-52's
+30. The Cars
+31. Talking Heads
+32. Depeche Mode
+33. New Order
+34. The Cure
+35. Echo & the Bunnymen
+36. Siouxsie and the Banshees
+37. The Smiths
+38. Joy Division
+39. Bauhaus
+40. The Sisters of Mercy
+41. The Mission
+42. The Cult
+43. The Psychedelic Furs
+44. Simple Minds
+45. Tears for Fears
+46. Duran Duran
+47. Spandau Ballet
+48. A Flock of Seagulls
+49. OMD
+50. Pet Shop Boys
+
+These recommendations are based on the user's liking of rock and pop artists, and the list includes similar artists from the same era and genre.

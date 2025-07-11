@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Garbage
+3. Placebo
+4. Suede
+5. The Cranberries
+6. Tori Amos
+7. Sarah McLachlan
+8. Björk
+9. Massive Attack
+10. Goldfrapp
+11. Hooverphonic
+12. Lamb
+13. Fiona Apple
+14. Bat for Lashes
+15. PJ Harvey
+16. The Smashing Pumpkins
+17. Radiohead
+18. The xx
+19. Florence + The Machine
+20. Lana Del Rey
+21. Lykke Li
+22. CHVRCHES
+23. London Grammar
+24. Phantogram
+25. Purity Ring
+26. Grimes
+27. CHINAH
+28. M83
+29. Tame Impala
+30. Beach House
+31. Warpaint
+32. Daughter
+33. The Naked and Famous
+34. CHROMATICS
+35. Alvvays
+36. The Raveonettes
+37. Cocteau Twins
+38. Slowdive
+39. Mazzy Star
+40. Lush
+41. The Jesus and Mary Chain
+42. Ride
+43. My Bloody Valentine
+44. The Horrors
+45. The Kills
+46. Crystal Castles
+47. Phosphorescent
+48. Wild Nothing
+49. DIIV
+50. Beach Fossils
+
+These recommendations are based on the user's liking for artists with similar musical styles and genres.

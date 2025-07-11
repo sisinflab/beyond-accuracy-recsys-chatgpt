@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Hobbit by J.R.R. Tolkien
+8. Jane Eyre by Charlotte Brontë
+9. Wuthering Heights by Emily Brontë
+10. The Picture of Dorian Gray by Oscar Wilde
+11. Frankenstein by Mary Shelley
+12. Dracula by Bram Stoker
+13. Moby-Dick by Herman Melville
+14. The Adventures of Huckleberry Finn by Mark Twain
+15. The Adventures of Tom Sawyer by Mark Twain
+16. The War of the Worlds by H.G. Wells
+17. Treasure Island by Robert Louis Stevenson
+18. The Three Musketeers by Alexandre Dumas
+19. The Hunchback of Notre-Dame by Victor Hugo
+20. Les Misérables by Victor Hugo
+21. The Odyssey by Homer
+22. The Iliad by Homer
+23. The Divine Comedy by Dante Alighieri
+24. Don Quixote by Miguel de Cervantes
+25. Crime and Punishment by Fyodor Dostoevsky
+26. War and Peace by Leo Tolstoy
+27. Anna Karenina by Leo Tolstoy
+28. The Brothers Karamazov by Fyodor Dostoevsky
+29. One Hundred Years of Solitude by Gabriel García Márquez
+30. Love in the Time of Cholera by Gabriel García Márquez
+31. The Alchemist by Paulo Coelho
+32. The Little Prince by Antoine de Saint-Exupéry
+33. The Name of the Wind by Patrick Rothfuss
+34. The Book Thief by Markus Zusak
+35. The Kite Runner by Khaled Hosseini
+36. A Thousand Splendid Suns by Khaled Hosseini
+37. The Road by Cormac McCarthy
+38. The Grapes of Wrath by John Steinbeck
+39. East of Eden by John Steinbeck
+40. The Old Man and the Sea by Ernest Hemingway
+41. For Whom the Bell Tolls by Ernest Hemingway
+42. The Sun Also Rises by Ernest Hemingway
+43. The Bell Jar by Sylvia Plath
+44. The Handmaid's Tale by Margaret Atwood
+45. Brave New World by Aldous Huxley
+46. The Lord of the Flies by William Golding
+47. The Giver by Lois Lowry
+48. The Hunger Games by Suzanne Collins
+49. Divergent by Veronica Roth
+50. The Maze Runner by James Dashner
+
+These recommendations are based on the user's interest in classic literature, fantasy, and adventure novels.

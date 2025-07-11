@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. My Chemical Romance
+3. Panic! At The Disco
+4. The Killers
+5. Green Day
+6. The All-American Rejects
+7. OneRepublic
+8. Maroon 5
+9. The Fray
+10. Imagine Dragons
+11. Twenty One Pilots
+12. Bastille
+13. Arctic Monkeys
+14. Florence + The Machine
+15. The Script
+16. Halsey
+17. Bastille
+18. The 1975
+19. Vampire Weekend
+20. Foster The People
+21. Death Cab for Cutie
+22. The Neighbourhood
+23. Of Monsters and Men
+24. Two Door Cinema Club
+25. The Strokes
+26. Cage The Elephant
+27. Phoenix
+28. Metric
+29. Silversun Pickups
+30. The Naked and Famous
+31. Grouplove
+32. Young the Giant
+33. Passion Pit
+34. Walk The Moon
+35. Fitz and The Tantrums
+36. X Ambassadors
+37. The Lumineers
+38. Bleachers
+39. AWOLNATION
+40. Cold War Kids
+41. The Head and the Heart
+42. Portugal. The Man
+43. The Wombats
+44. The Kooks
+45. The Vaccines
+46. Foals
+47. Bombay Bicycle Club
+48. Catfish and the Bottlemen
+49. The Mowgli's
+50. Bad Suns
+
+These recommendations are based on the user's liking of similar artists and genres.

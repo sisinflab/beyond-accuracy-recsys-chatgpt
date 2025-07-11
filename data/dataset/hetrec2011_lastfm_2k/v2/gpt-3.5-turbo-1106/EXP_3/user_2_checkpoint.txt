@@ -1,0 +1,54 @@
+Based on user 2's preferences, here are the top 50 recommendations for the given artists:
+
+1. Radiohead
+2. Florence + the Machine
+3. Nouvelle Vague
+4. Sneaker Pimps
+5. Zero 7
+6. The Beatles
+7. Everything but the Girl
+8. Pink Floyd
+9. Flunk
+10. UNKLE
+11. Muse
+12. Gorillaz
+13. The Ting Tings
+14. Kylie Minogue
+15. Metallica
+16. Tiësto
+17. Social Distortion
+18. Kraftwerk
+19. Girl Talk
+20. Bonobo
+21. The Presets
+22. Benny Benassi
+23. Dragonette
+24. Digitalism
+25. Simian Mobile Disco
+26. The Knife
+27. Boards of Canada
+28. Ladytron
+29. Fatboy Slim
+30. Blonde Redhead
+31. Justice
+32. Massive Attack
+33. Garbage
+34. The Prodigy
+35. The Cranberries
+36. Queen
+37. Death from Above 1979
+38. La Roux
+39. Sia
+40. Little Boots
+41. Belle and Sebastian
+42. Sugababes
+43. Rammstein
+44. Sheryl Crow
+45. System of a Down
+46. Kanye West
+47. Girls Aloud
+48. Ratatat
+49. The Ting Tings
+50. IAMX
+
+These recommendations are based on the similar musical preferences of user 2.

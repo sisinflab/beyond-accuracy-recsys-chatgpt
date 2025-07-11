@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The Flaming Lips
+3. Sonic Youth
+4. Pixies
+5. My Bloody Valentine
+6. The Velvet Underground
+7. Joy Division
+8. The Jesus and Mary Chain
+9. Pavement
+10. The Cure
+11. Modest Mouse
+12. Dinosaur Jr.
+13. The Smiths
+14. Interpol
+15. The Strokes
+16. The National
+17. PJ Harvey
+18. The White Stripes
+19. Arcade Fire
+20. LCD Soundsystem
+21. Tame Impala
+22. Vampire Weekend
+23. Grizzly Bear
+24. Fleet Foxes
+25. Animal Collective
+26. Beach House
+27. The War on Drugs
+28. Deerhunter
+29. Yo La Tengo
+30. Built to Spill
+31. Neutral Milk Hotel
+32. Spoon
+33. The Black Keys
+34. Arctic Monkeys
+35. Queens of the Stone Age
+36. The Kills
+37. Yeah Yeah Yeahs
+38. TV on the Radio
+39. The xx
+40. St. Vincent
+41. Father John Misty
+42. Mac DeMarco
+43. Parquet Courts
+44. Courtney Barnett
+45. King Gizzard & The Lizard Wizard
+46. Car Seat Headrest
+47. Mitski
+48. Angel Olsen
+49. Big Thief
+50. Snail Mail
+
+These recommendations are based on the user's liking of alternative, indie, and experimental rock artists, as well as their affinity for electronic and experimental music.

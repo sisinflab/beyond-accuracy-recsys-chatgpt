@@ -1,0 +1,54 @@
+Based on user 492's preferences, here are the top 50 recommendations:
+
+1. Elliott Smith
+2. Belle and Sebastian
+3. Sufjan Stevens
+4. Regina Spektor
+5. The Magnetic Fields
+6. Cat Power
+7. Jeff Buckley
+8. Joanna Newsom
+9. Arcade Fire
+10. The Smiths
+11. Radiohead
+12. David Bowie
+13. Leonard Cohen
+14. Joni Mitchell
+15. Fleet Foxes
+16. Bon Iver
+17. The Shins
+18. Bright Eyes
+19. Iron & Wine
+20. The Decemberists
+21. Death Cab for Cutie
+22. The National
+23. Beirut
+24. Andrew Bird
+25. Father John Misty
+26. The Velvet Underground
+27. Bob Dylan
+28. Simon & Garfunkel
+29. The Kinks
+30. The Beach Boys
+31. The Rolling Stones
+32. The Doors
+33. Jimi Hendrix
+34. Led Zeppelin
+35. Pink Floyd
+36. The Who
+37. Queen
+38. Fleetwood Mac
+39. Stevie Wonder
+40. Marvin Gaye
+41. Aretha Franklin
+42. Otis Redding
+43. Nina Simone
+44. Billie Holiday
+45. Ella Fitzgerald
+46. Frank Sinatra
+47. Nat King Cole
+48. Louis Armstrong
+49. Duke Ellington
+50. Count Basie
+
+These recommendations are based on the user's liking for artists with similar musical styles and genres.

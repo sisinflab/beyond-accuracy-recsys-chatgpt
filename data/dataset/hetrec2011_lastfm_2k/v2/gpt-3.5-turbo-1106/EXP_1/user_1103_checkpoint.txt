@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. New Order
+3. Pet Shop Boys
+4. Duran Duran
+5. Garbage
+6. The Killers
+7. Placebo
+8. Florence + The Machine
+9. Lana Del Rey
+10. The xx
+11. CHVRCHES
+12. London Grammar
+13. Halsey
+14. Lorde
+15. Tove Lo
+16. Grimes
+17. Purity Ring
+18. Metric
+19. CHROMATICS
+20. Phantogram
+21. BANKS
+22. Ellie Goulding
+23. Lykke Li
+24. Aurora
+25. Marina and the Diamonds
+26. La Roux
+27. Goldfrapp
+28. Fever Ray
+29. Kate Bush
+30. Björk
+31. Massive Attack
+32. Nine Inch Nails
+33. Marilyn Manson
+34. Korn
+35. Tool
+36. Disturbed
+37. Rammstein
+38. Marilyn Manson
+39. Rob Zombie
+40. Ministry
+41. Nitzer Ebb
+42. Front Line Assembly
+43. Skinny Puppy
+44. VNV Nation
+45. Covenant
+46. Assemblage 23
+47. Apoptygma Berzerk
+48. And One
+49. Rotersand
+50. Aesthetic Perfection
+
+These recommendations are based on the user's liking of similar artists and genres.

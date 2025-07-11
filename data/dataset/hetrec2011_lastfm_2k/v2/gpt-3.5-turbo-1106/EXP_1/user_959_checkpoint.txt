@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pet Shop Boys
+2. Duran Duran
+3. Kraftwerk
+4. The Cure
+5. Joy Division
+6. David Bowie
+7. The Human League
+8. OMD
+9. Erasure
+10. Yazoo
+11. Roxy Music
+12. Talking Heads
+13. Siouxsie and the Banshees
+14. Echo & the Bunnymen
+15. Tears for Fears
+16. The Jesus and Mary Chain
+17. The Psychedelic Furs
+18. New Order
+19. Devo
+20. Blondie
+21. The B-52's
+22. The Clash
+23. The Smiths
+24. Simple Minds
+25. INXS
+26. Echo & the Bunnymen
+27. The Jesus and Mary Chain
+28. The Psychedelic Furs
+29. New Order
+30. Devo
+31. Blondie
+32. The B-52's
+33. The Clash
+34. The Smiths
+35. Simple Minds
+36. INXS
+37. Echo & the Bunnymen
+38. The Jesus and Mary Chain
+39. The Psychedelic Furs
+40. New Order
+41. Devo
+42. Blondie
+43. The B-52's
+44. The Clash
+45. The Smiths
+46. Simple Minds
+47. INXS
+48. Echo & the Bunnymen
+49. The Jesus and Mary Chain
+50. The Psychedelic Furs
+
+These recommendations are based on the user's liking of similar artists and genres.

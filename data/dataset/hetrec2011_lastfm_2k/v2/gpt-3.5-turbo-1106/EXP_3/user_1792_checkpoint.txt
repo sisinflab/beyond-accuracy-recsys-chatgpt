@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 1792:
+
+1. Jimi Hendrix
+2. Pearl Jam
+3. The Clash
+4. Lynyrd Skynyrd
+5. AC/DC
+6. Bob Dylan
+7. Bon Jovi
+8. Eagles
+9. Dream Theater
+10. Tom Petty and the Heartbreakers
+11. UFO
+12. The Kinks
+13. Queens of the Stone Age
+14. Velvet Revolver
+15. Lenny Kravitz
+16. Fleetwood Mac
+17. George Michael
+18. Camel
+19. Blur
+20. Riverside
+21. Opeth
+22. Aerosmith
+23. David Gilmour
+24. Neil Young
+25. Grand Funk Railroad
+26. Electric Light Orchestra
+27. King Crimson
+28. Dire Straits
+29. Nickelback
+30. Van Halen
+31. Them Crooked Vultures
+32. Black Sabbath
+33. T. Rex
+34. Mötley Crüe
+35. Audioslave
+36. Guns N' Roses
+37. The White Stripes
+38. Uriah Heep
+39. Roger Waters
+40. Muse
+41. Cinderella
+42. Porcupine Tree
+43. KISS
+44. Europe
+45. Whitesnake
+46. Anathema
+47. Jamiroquai
+48. Beirut
+49. Katatonia
+50. CAKE
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

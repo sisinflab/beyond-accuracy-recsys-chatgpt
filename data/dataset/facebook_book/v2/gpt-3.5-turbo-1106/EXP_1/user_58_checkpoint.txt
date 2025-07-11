@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Journey to the Center of the Earth by Jules Verne
+2. Twenty Thousand Leagues Under the Sea by Jules Verne
+3. The Time Machine by H.G. Wells
+4. The Invisible Man by H.G. Wells
+5. The War of the Worlds by H.G. Wells
+6. The Hobbit by J.R.R. Tolkien
+7. The Silmarillion by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. Divergent by Veronica Roth
+10. The Maze Runner by James Dashner
+11. The Great Gatsby by F. Scott Fitzgerald
+12. Wuthering Heights by Emily Brontë
+13. Pride and Prejudice by Jane Austen
+14. Emma by Jane Austen
+15. Persuasion by Jane Austen
+16. Mansfield Park by Jane Austen
+17. The Alchemist by Paulo Coelho
+18. Veronika Decides to Die by Paulo Coelho
+19. Animal Farm by George Orwell
+20. 1984 by George Orwell
+21. Brave New World by Aldous Huxley
+22. Fahrenheit 451 by Ray Bradbury
+23. To Kill a Mockingbird by Harper Lee
+24. The Catcher in the Rye by J.D. Salinger
+25. The Sound and the Fury by William Faulkner
+26. As I Lay Dying by William Faulkner
+27. Light in August by William Faulkner
+28. The Sound and the Fury by William Faulkner
+29. A Wind in the Door by Madeleine L'Engle
+30. A Swiftly Tilting Planet by Madeleine L'Engle
+31. The God Delusion by Richard Dawkins
+32. Letter to a Christian Nation by Sam Harris
+33. The Portable Atheist by Christopher Hitchens
+34. The End of Faith by Sam Harris
+35. The Demon-Haunted World by Carl Sagan
+36. Cosmos by Carl Sagan
+37. Contact by Carl Sagan
+38. The Elegant Universe by Brian Greene
+39. A Brief History of Time by Stephen Hawking
+40. The Universe in a Nutshell by Stephen Hawking
+41. The Grand Design by Stephen Hawking
+42. The Fabric of the Cosmos by Brian Greene
+43. The Hidden Reality by Brian Greene
+44. The Elegant Universe by Brian Greene
+45. The Fabric of the Cosmos by Brian Greene
+46. The Hidden Reality by Brian Greene
+47. The Elegant Universe by Brian Greene
+48. The Fabric of the Cosmos by Brian Greene
+49. The Hidden Reality by Brian Greene
+50. The Elegant Universe by Brian Greene
+
+These recommendations are based on similar themes, genres, and authors to the books that user 58 likes.

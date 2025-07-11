@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bring Me The Horizon
+2. Linkin Park
+3. Escape the Fate
+4. Falling In Reverse
+5. Three Days Grace
+6. Breaking Benjamin
+7. Papa Roach
+8. Evanescence
+9. The Pretty Reckless
+10. Sleeping With Sirens
+11. Of Mice & Men
+12. All Time Low
+13. Sum 41
+14. Good Charlotte
+15. Simple Plan
+16. Yellowcard
+17. Story of the Year
+18. Silverstein
+19. Hawthorne Heights
+20. A Skylit Drive
+21. The Red Jumpsuit Apparatus
+22. Alesana
+23. Underoath
+24. Senses Fail
+25. The Used
+26. Paramore
+27. Caliban
+28. Crystal Castles
+29. Muse
+30. My Chemical Romance
+31. The American Dollar
+32. A Day to Remember
+33. M83
+34. 30 Seconds to Mars
+35. Asking Alexandria
+36. Placebo
+37. Killswitch Engage
+38. Blackmore's Night
+39. Cradle of Filth
+40. Bullet for My Valentine
+41. AFI
+42. Flobots
+43. Motionless In White
+44. Crown the Empire
+45. Memphis May Fire
+46. We Came As Romans
+47. Blessthefall
+48. The Word Alive
+49. I See Stars
+50. Crown the Empire
+
+These recommendations are based on the user's liking of similar artists and genres.

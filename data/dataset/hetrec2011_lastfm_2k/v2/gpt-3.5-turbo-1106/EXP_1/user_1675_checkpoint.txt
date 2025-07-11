@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Summer Set
+2. We the Kings
+3. The Maine
+4. Tonight Alive
+5. All-American Rejects
+6. Fall Out Boy
+7. Panic! At The Disco
+8. 5 Seconds of Summer
+9. Good Charlotte
+10. Simple Plan
+11. The Academy Is...
+12. Hey Monday
+13. Cute Is What We Aim For
+14. The Ready Set
+15. Cobra Starship
+16. The Cab
+17. Forever the Sickest Kids
+18. Cartel
+19. The Starting Line
+20. Valencia
+21. The Friday Night Boys
+22. Hit the Lights
+23. Motion City Soundtrack
+24. The Rocket Summer
+25. Every Avenue
+26. The All-American Rejects
+27. The Red Jumpsuit Apparatus
+28. The Used
+29. Taking Back Sunday
+30. My Chemical Romance
+31. Dashboard Confessional
+32. Saves the Day
+33. Brand New
+34. Jimmy Eat World
+35. Something Corporate
+36. Jack's Mannequin
+37. The Early November
+38. The Movielife
+39. Senses Fail
+40. Finch
+41. Thrice
+42. Silverstein
+43. Hawthorne Heights
+44. Emery
+45. Underoath
+46. A Day to Remember
+47. The Story So Far
+48. Neck Deep
+49. Real Friends
+50. State Champs
+
+These recommendations are based on the user's liking of similar artists and are tailored to their music preferences.

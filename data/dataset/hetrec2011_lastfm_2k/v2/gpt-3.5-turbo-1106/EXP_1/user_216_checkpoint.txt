@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. Pet Shop Boys
+3. The Chemical Brothers
+4. LCD Soundsystem
+5. The Prodigy
+6. Nine Inch Nails
+7. Moby
+8. Gorillaz
+9. The Killers
+10. Arctic Monkeys
+11. The Strokes
+12. Franz Ferdinand
+13. Interpol
+14. Bloc Party
+15. Phoenix
+16. Yeah Yeah Yeahs
+17. Vampire Weekend
+18. Tame Impala
+19. The xx
+20. Grimes
+21. CHVRCHES
+22. HAIM
+23. Lorde
+24. Florence + The Machine
+25. Marina and the Diamonds
+26. Charli XCX
+27. Tove Lo
+28. Years & Years
+29. The 1975
+30. Bastille
+31. Imagine Dragons
+32. Foster the People
+33. Cage The Elephant
+34. Two Door Cinema Club
+35. Passion Pit
+36. Empire of the Sun
+37. Cut Copy
+38. Hot Hot Heat
+39. The Rapture
+40. Friendly Fires
+41. Klaxons
+42. Crystal Castles
+43. Santigold
+44. Robyn
+45. La Roux
+46. Goldfrapp
+47. Little Boots
+48. Peaches
+49. Yelle
+50. The Ting Tings
+
+These recommendations are based on the user's liking of electronic, alternative, and pop artists, and are aimed at providing a diverse range of similar artists for the user to explore.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Hunger Games by Suzanne Collins
+6. The Book Thief by Markus Zusak
+7. The Fault in Our Stars by John Green
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. The Giver by Lois Lowry
+10. The Maze Runner by James Dashner
+11. The Outsiders by S.E. Hinton
+12. The Secret Life of Bees by Sue Monk Kidd
+13. The Lovely Bones by Alice Sebold
+14. The Alchemist by Paulo Coelho
+15. The Kite Runner by Khaled Hosseini
+16. The Help by Kathryn Stockett
+17. The Night Circus by Erin Morgenstern
+18. The Goldfinch by Donna Tartt
+19. The Secret History by Donna Tartt
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Bell Jar by Sylvia Plath
+22. The Road by Cormac McCarthy
+23. The Handmaid's Tale by Margaret Atwood
+24. The Stand by Stephen King
+25. The Shining by Stephen King
+26. The Da Vinci Code by Dan Brown
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Name of the Wind by Patrick Rothfuss
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Thorn Birds by Colleen McCullough
+31. The Glass Castle by Jeannette Walls
+32. The Color Purple by Alice Walker
+33. The Joy Luck Club by Amy Tan
+34. The Road Less Traveled by M. Scott Peck
+35. The Sun Also Rises by Ernest Hemingway
+36. The Old Man and the Sea by Ernest Hemingway
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Count of Monte Cristo by Alexandre Dumas
+39. The Brothers Karamazov by Fyodor Dostoevsky
+40. The Idiot by Fyodor Dostoevsky
+41. The Master and Margarita by Mikhail Bulgakov
+42. The Stranger by Albert Camus
+43. The Plague by Albert Camus
+44. The Metamorphosis by Franz Kafka
+45. The Trial by Franz Kafka
+46. The Unbearable Lightness of Being by Milan Kundera
+47. The Book of Laughter and Forgetting by Milan Kundera
+48. The Wind-Up Bird Chronicle by Haruki Murakami
+49. The Elephant Vanishes by Haruki Murakami
+50. The Handmaid's Tale by Margaret Atwood
+
+These recommendations are based on the user's interest in various genres and authors.

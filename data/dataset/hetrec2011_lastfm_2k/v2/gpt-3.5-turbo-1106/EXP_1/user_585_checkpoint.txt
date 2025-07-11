@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. Foals
+3. Tame Impala
+4. The 1975
+5. Vampire Weekend
+6. Two Door Cinema Club
+7. The Neighbourhood
+8. Foster the People
+9. Cage the Elephant
+10. Franz Ferdinand
+11. The Wombats
+12. The Killers
+13. Interpol
+14. Bloc Party
+15. Phoenix
+16. The Vaccines
+17. Bombay Bicycle Club
+18. MGMT
+19. Arctic Monkeys
+20. The Kooks
+21. Muse
+22. happysad
+23. The Beatles
+24. Placebo
+25. Kings of Leon
+26. Bob Marley
+27. Coldplay
+28. Coma
+29. Eminem
+30. Czesław Śpiewa
+31. Dżem
+32. Korn
+33. Red Hot Chili Peppers
+34. Duffy
+35. Klaxons
+36. Kate Nash
+37. Alicia Keys
+38. Katie Melua
+39. Damien Rice
+40. Marilyn Manson
+41. Empire of the Sun
+42. Lenny Kravitz
+43. The Black Keys
+44. Imagine Dragons
+45. Hozier
+46. Florence + The Machine
+47. Lana Del Rey
+48. HAIM
+49. CHVRCHES
+50. Alt-J
+
+These recommendations are based on the user's liking of similar artists and genres.

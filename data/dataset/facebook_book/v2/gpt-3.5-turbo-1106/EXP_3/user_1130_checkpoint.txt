@@ -1,0 +1,52 @@
+Based on user 1130's preferences, here are the top 50 book recommendations:
+
+1. Black Butler
+2. D.N.Angel
+3. Ouran High School Host Club
+4. Fullmetal Alchemist
+5. Rosario + Vampire
+6. Naruto
+7. Soul Eater (manga)
+8. The Watchmen (novel)
+9. The Mercy Thompson Series
+10. The Chronicles of Narnia: Prince Caspian
+11. His Dark Materials
+12. The Walking Dead (comic book)
+13. Dragon Ball
+14. Black Cat (comics)
+15. The Count of Monte Cristo
+16. Holes (novel)
+17. Untamed (novel)
+18. Fushigi Yûgi
+19. Alice's Adventures in Wonderland
+20. Cirque du Freak
+21. The Queen of the Damned
+22. The Hunt for Red October
+23. Forgotten Realms Adventures
+24. The Magician's Nephew
+25. Howl's Moving Castle
+26. Vampire: The Masquerade
+27. Brisingr
+28. Goodnight Moon
+29. Bad Girls (Wilson novel)
+30. Skippyjon Jones
+31. Of Mice and Men
+32. Blue Bloods (novel series)
+33. Speak (novel)
+34. Angels & Demons
+35. Maximum Ride
+36. Vampire Kisses
+37. The Girl Who Leapt Through Time
+38. Cable & Deadpool
+39. Betrayed (novel)
+40. Ella Enchanted
+41. Captain Underpants
+42. The Pearl (novel)
+43. Dune (novel)
+44. Pride and Prejudice
+45. The Horse and His Boy
+46. Twilight (series)
+47. We Have Always Lived in the Castle
+48. Mythology (book)
+49. Child of God
+50. Something Wicked This Way Comes (novel)

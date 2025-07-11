@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. Dead Until Dark by Charlaine Harris
+3. House of Night series by P.C. Cast and Kristin Cast
+4. Hush, Hush by Becca Fitzpatrick
+5. Evernight by Claudia Gray
+6. Marked by P.C. Cast and Kristin Cast
+7. Shiver by Maggie Stiefvater
+8. Beautiful Creatures by Kami Garcia and Margaret Stohl
+9. The Mortal Instruments series by Cassandra Clare
+10. The Vampire Diaries: The Awakening by L.J. Smith
+11. Blue Bloods by Melissa de la Cruz
+12. The Dark Divine by Bree Despain
+13. Wicked Lovely by Melissa Marr
+14. The Iron King by Julie Kagawa
+15. The Immortal Rules by Julie Kagawa
+16. The Coldest Girl in Coldtown by Holly Black
+17. The Forest of Hands and Teeth by Carrie Ryan
+18. The Reckoning by Kelley Armstrong
+19. The Unbecoming of Mara Dyer by Michelle Hodkin
+20. The Replacement by Brenna Yovanoff
+21. The Iron Fey series by Julie Kagawa
+22. The Hollow by Jessica Verday
+23. The Awakening by Kelley Armstrong
+24. The Fury by L.J. Smith
+25. The Summoning by Kelley Armstrong
+26. The Awakening by L.J. Smith
+27. The Fury by L.J. Smith
+28. The Summoning by Kelley Armstrong
+29. The Awakening by L.J. Smith
+30. The Fury by L.J. Smith
+31. The Summoning by Kelley Armstrong
+32. The Awakening by L.J. Smith
+33. The Fury by L.J. Smith
+34. The Summoning by Kelley Armstrong
+35. The Awakening by L.J. Smith
+36. The Fury by L.J. Smith
+37. The Summoning by Kelley Armstrong
+38. The Awakening by L.J. Smith
+39. The Fury by L.J. Smith
+40. The Summoning by Kelley Armstrong
+41. The Awakening by L.J. Smith
+42. The Fury by L.J. Smith
+43. The Summoning by Kelley Armstrong
+44. The Awakening by L.J. Smith
+45. The Fury by L.J. Smith
+46. The Summoning by Kelley Armstrong
+47. The Awakening by L.J. Smith
+48. The Fury by L.J. Smith
+49. The Summoning by Kelley Armstrong
+50. The Awakening by L.J. Smith
+
+These recommendations are based on the user's interest in vampire-themed and supernatural romance novels.

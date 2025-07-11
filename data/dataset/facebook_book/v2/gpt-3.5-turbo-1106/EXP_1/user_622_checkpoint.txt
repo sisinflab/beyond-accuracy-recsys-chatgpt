@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Hobbit by J.R.R. Tolkien
+3. The Hunger Games by Suzanne Collins
+4. The Book Thief by Markus Zusak
+5. Pride and Prejudice by Jane Austen
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Giver by Lois Lowry
+8. The Alchemist by Paulo Coelho
+9. The Kite Runner by Khaled Hosseini
+10. The Secret Garden by Frances Hodgson Burnett
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Road by Cormac McCarthy
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+15. The Bell Jar by Sylvia Plath
+16. The Handmaid's Tale by Margaret Atwood
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Grapes of Wrath by John Steinbeck
+19. A Tale of Two Cities by Charles Dickens
+20. Brave New World by Aldous Huxley
+21. Wuthering Heights by Emily Brontë
+22. The Count of Monte Cristo by Alexandre Dumas
+23. The Scarlet Letter by Nathaniel Hawthorne
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+26. The Bell Jar by Sylvia Plath
+27. The Handmaid's Tale by Margaret Atwood
+28. The Old Man and the Sea by Ernest Hemingway
+29. The Grapes of Wrath by John Steinbeck
+30. A Tale of Two Cities by Charles Dickens
+31. Brave New World by Aldous Huxley
+32. Wuthering Heights by Emily Brontë
+33. The Count of Monte Cristo by Alexandre Dumas
+34. The Scarlet Letter by Nathaniel Hawthorne
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+37. The Bell Jar by Sylvia Plath
+38. The Handmaid's Tale by Margaret Atwood
+39. The Old Man and the Sea by Ernest Hemingway
+40. The Grapes of Wrath by John Steinbeck
+41. A Tale of Two Cities by Charles Dickens
+42. Brave New World by Aldous Huxley
+43. Wuthering Heights by Emily Brontë
+44. The Count of Monte Cristo by Alexandre Dumas
+45. The Scarlet Letter by Nathaniel Hawthorne
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+48. The Bell Jar by Sylvia Plath
+49. The Handmaid's Tale by Margaret Atwood
+50. The Old Man and the Sea by Ernest Hemingway
+
+These recommendations are based on the user's liking for classic literature, dystopian fiction, and fantasy novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Knife
+2. Goldfrapp
+3. Roisin Murphy
+4. LCD Soundsystem
+5. Pet Shop Boys
+6. New Order
+7. Moby
+8. Air
+9. The Presets
+10. Cut Copy
+11. Röyksopp
+12. Grimes
+13. Chvrches
+14. La Roux
+15. Hercules and Love Affair
+16. Hot Natured
+17. The xx
+18. Little Dragon
+19. Robyn
+20. Santigold
+21. The Rapture
+22. Simian Mobile Disco
+23. Crystal Castles
+24. Tegan and Sara
+25. Goldroom
+26. Classixx
+27. Holy Ghost!
+28. Yelle
+29. Metronomy
+30. Phoenix
+31. Empire of the Sun
+32. Friendly Fires
+33. Passion Pit
+34. Foster the People
+35. Two Door Cinema Club
+36. Vampire Weekend
+37. The Strokes
+38. Arctic Monkeys
+39. Franz Ferdinand
+40. The Killers
+41. Interpol
+42. Bloc Party
+43. The Bravery
+44. Yeah Yeah Yeahs
+45. The Hives
+46. The Vines
+47. The Libertines
+48. Kasabian
+49. The Kooks
+50. The Wombats
+
+These recommendations are based on the user's liking of electronic, pop, and alternative artists, and are aimed at providing a diverse range of similar artists for the user to explore.

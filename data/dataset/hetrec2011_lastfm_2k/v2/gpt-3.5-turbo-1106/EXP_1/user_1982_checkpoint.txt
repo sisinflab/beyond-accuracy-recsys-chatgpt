@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Sigur Rós
+3. The National
+4. Interpol
+5. The Cure
+6. Muse
+7. Florence + The Machine
+8. Arctic Monkeys
+9. The Smashing Pumpkins
+10. Röyksopp
+11. Fever Ray
+12. The Chemical Brothers
+13. The Flaming Lips
+14. Massive Attack
+15. Portishead
+16. Air
+17. Goldfrapp
+18. Trentemøller
+19. Bonobo
+20. Thievery Corporation
+21. Morcheeba
+22. Zero 7
+23. Hooverphonic
+24. Lamb
+25. M83
+26. The xx
+27. London Grammar
+28. Chvrches
+29. Grimes
+30. Purity Ring
+31. Phantogram
+32. Crystal Castles
+33. IAMX
+34. The Knife
+35. Fever Ray
+36. Björk
+37. FKA twigs
+38. Lykke Li
+39. Bat for Lashes
+40. Lana Del Rey
+41. Lorde
+42. Halsey
+43. BANKS
+44. Tove Lo
+45. Aurora
+46. CHVRCHES
+47. Broods
+48. Purity Ring
+49. Grimes
+50. Phantogram
+
+These recommendations are based on the user's liking of similar artists and genres.

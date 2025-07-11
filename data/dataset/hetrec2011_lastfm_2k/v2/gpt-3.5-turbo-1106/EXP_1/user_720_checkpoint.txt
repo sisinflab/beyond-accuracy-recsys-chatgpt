@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Led Zeppelin
+2. Pink Floyd
+3. Opeth
+4. Phoenix
+5. Whitesnake
+6. Alanis Morissette
+7. Queen
+8. Scorpions
+9. Santana
+10. The Beatles
+11. Simon & Garfunkel
+12. Eagles
+13. Billy Joel
+14. Supertramp
+15. Death
+16. Metallica
+17. AC/DC
+18. Johnny Cash
+19. Elton John
+20. The Police
+21. Creedence Clearwater Revival
+22. Blue Öyster Cult
+23. Agalloch
+24. Blind Guardian
+25. The Rolling Stones
+26. Electric Light Orchestra
+27. Dire Straits
+28. Anathema
+29. God Is an Astronaut
+30. Black Sabbath
+31. Stone Sour
+32. Nirvana
+33. Neil Young
+34. Led Zeppelin
+35. The Doors
+36. Deep Purple
+37. Pink Floyd
+38. Rush
+39. The Who
+40. Jethro Tull
+41. Yes
+42. King Crimson
+43. Genesis
+44. Emerson, Lake & Palmer
+45. The Moody Blues
+46. Cream
+47. The Jimi Hendrix Experience
+48. The Byrds
+49. The Kinks
+50. The Velvet Underground
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and bands that align with their current likes.

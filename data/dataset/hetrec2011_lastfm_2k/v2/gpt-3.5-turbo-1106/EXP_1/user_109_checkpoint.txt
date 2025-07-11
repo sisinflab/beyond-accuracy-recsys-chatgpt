@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. AC/DC
+2. Aerosmith
+3. Bon Jovi
+4. Def Leppard
+5. Van Halen
+6. Queen
+7. Black Sabbath
+8. Deep Purple
+9. The Who
+10. Pink Floyd
+11. Nirvana
+12. Pearl Jam
+13. The Doors
+14. Jimi Hendrix
+15. The Rolling Stones
+16. Lynyrd Skynyrd
+17. ZZ Top
+18. The Kinks
+19. The Clash
+20. Ramones
+21. The Ramones
+22. The Stooges
+23. The Velvet Underground
+24. The White Stripes
+25. The Black Keys
+26. The Strokes
+27. Arctic Monkeys
+28. The Killers
+29. The Libertines
+30. The Hives
+31. The Vines
+32. The Raconteurs
+33. The Bravery
+34. The Fratellis
+35. The Kooks
+36. The Wombats
+37. The Vaccines
+38. The Arctic Monkeys
+39. The Courteeners
+40. The Pigeon Detectives
+41. The View
+42. The Enemy
+43. The Maccabees
+44. The Cribs
+45. The Zutons
+46. The Futureheads
+47. The Rakes
+48. The Twang
+49. The Pigeon Detectives
+50. The Rifles

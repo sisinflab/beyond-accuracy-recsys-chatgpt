@@ -1,0 +1,54 @@
+Based on the preferences of user 846, here are the top 50 book recommendations:
+
+1. The Maze Runner by James Dashner
+2. Divergent by Veronica Roth
+3. The Giver by Lois Lowry
+4. The Fault in Our Stars by John Green
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Book Thief by Markus Zusak
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. The Girl with the Dragon Tattoo by Stieg Larsson
+9. The Catcher in the Rye by J.D. Salinger
+10. The Alchemist by Paulo Coelho
+11. The Da Vinci Code by Dan Brown
+12. The Lovely Bones by Alice Sebold
+13. The Help by Kathryn Stockett
+14. The Secret Life of Bees by Sue Monk Kidd
+15. The Kite Runner by Khaled Hosseini
+16. The Night Circus by Erin Morgenstern
+17. The Goldfinch by Donna Tartt
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Handmaid's Tale by Margaret Atwood
+20. The Martian by Andy Weir
+21. The Girl on the Train by Paula Hawkins
+22. The Silent Patient by Alex Michaelides
+23. The Nightingale by Kristin Hannah
+24. The Tattooist of Auschwitz by Heather Morris
+25. The Light Between Oceans by M.L. Stedman
+26. The Great Gatsby by F. Scott Fitzgerald
+27. To Kill a Mockingbird by Harper Lee
+28. 1984 by George Orwell
+29. Brave New World by Aldous Huxley
+30. Fahrenheit 451 by Ray Bradbury
+31. Animal Farm by George Orwell
+32. The Road by Cormac McCarthy
+33. The Handmaid's Tale by Margaret Atwood
+34. The Stand by Stephen King
+35. The Shining by Stephen King
+36. It by Stephen King
+37. Pet Sematary by Stephen King
+38. Misery by Stephen King
+39. Carrie by Stephen King
+40. The Outsider by Stephen King
+41. Doctor Sleep by Stephen King
+42. The Institute by Stephen King
+43. The Dark Tower series by Stephen King
+44. The Green Mile by Stephen King
+45. 11/22/63 by Stephen King
+46. The Talisman by Stephen King and Peter Straub
+47. The Eyes of the Dragon by Stephen King
+48. The Stand by Stephen King
+49. The Shining by Stephen King
+50. The Dead Zone by Stephen King
+
+These recommendations are based on the genres and themes of the books that user 846 likes.

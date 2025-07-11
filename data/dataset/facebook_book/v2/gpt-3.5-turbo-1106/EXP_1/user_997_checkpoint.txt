@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Fahrenheit 451 by Ray Bradbury
+4. The Handmaid's Tale by Margaret Atwood
+5. Catch-22 by Joseph Heller
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Road by Cormac McCarthy
+8. The Catcher in the Rye by J.D. Salinger
+9. To Kill a Mockingbird by Harper Lee
+10. The Bell Jar by Sylvia Plath
+11. The Stranger by Albert Camus
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Stand by Stephen King
+14. The Road by Cormac McCarthy
+15. The Martian by Andy Weir
+16. The Alchemist by Paulo Coelho
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Sun Also Rises by Ernest Hemingway
+21. The Grapes of Wrath by John Steinbeck
+22. East of Eden by John Steinbeck
+23. The Kite Runner by Khaled Hosseini
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. The Book Thief by Markus Zusak
+26. The Night Circus by Erin Morgenstern
+27. The Goldfinch by Donna Tartt
+28. The Secret History by Donna Tartt
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Name of the Wind by Patrick Rothfuss
+31. The Lies of Locke Lamora by Scott Lynch
+32. The Name of the Wind by Patrick Rothfuss
+33. The Lies of Locke Lamora by Scott Lynch
+34. The Way of Kings by Brandon Sanderson
+35. Mistborn: The Final Empire by Brandon Sanderson
+36. The Final Empire by Brandon Sanderson
+37. The Wise Man's Fear by Patrick Rothfuss
+38. The Slow Regard of Silent Things by Patrick Rothfuss
+39. The Wise Man's Fear by Patrick Rothfuss
+40. The Slow Regard of Silent Things by Patrick Rothfuss
+41. The Way of Kings by Brandon Sanderson
+42. Mistborn: The Final Empire by Brandon Sanderson
+43. The Final Empire by Brandon Sanderson
+44. The Wise Man's Fear by Patrick Rothfuss
+45. The Slow Regard of Silent Things by Patrick Rothfuss
+46. The Way of Kings by Brandon Sanderson
+47. Mistborn: The Final Empire by Brandon Sanderson
+48. The Final Empire by Brandon Sanderson
+49. The Wise Man's Fear by Patrick Rothfuss
+50. The Slow Regard of Silent Things by Patrick Rothfuss
+
+These recommendations are based on the user's interest in dystopian fiction, coming-of-age stories, and philosophical themes.

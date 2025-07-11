@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Perks of Being a Wallflower by Stephen Chbosky
+2. It's Kind of a Funny Story by Ned Vizzini
+3. Girl, Interrupted by Susanna Kaysen
+4. Tweak: Growing Up on Methamphetamines by Nic Sheff
+5. Running with Scissors by Augusten Burroughs
+6. Prozac Nation by Elizabeth Wurtzel
+7. The Bell Jar by Sylvia Plath
+8. Speak by Laurie Halse Anderson
+9. Crank by Ellen Hopkins
+10. Impulse by Ellen Hopkins
+11. Burned by Ellen Hopkins
+12. The Lovely Bones by Alice Sebold
+13. Looking for Alaska by John Green
+14. Persepolis: The Story of a Childhood by Marjane Satrapi
+15. The Virgin Suicides by Jeffrey Eugenides
+16. The Outsiders by S.E. Hinton
+17. The Fault in Our Stars by John Green
+18. The Glass Castle by Jeannette Walls
+19. We Were Liars by E. Lockhart
+20. The Silver Linings Playbook by Matthew Quick
+21. The Secret History by Donna Tartt
+22. The Road by Cormac McCarthy
+23. The Kite Runner by Khaled Hosseini
+24. The Book Thief by Markus Zusak
+25. Room by Emma Donoghue
+26. The Girl on the Train by Paula Hawkins
+27. Sharp Objects by Gillian Flynn
+28. Dark Places by Gillian Flynn
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. Gone Girl by Gillian Flynn
+31. The Goldfinch by Donna Tartt
+32. The Night Circus by Erin Morgenstern
+33. The Help by Kathryn Stockett
+34. The Hunger Games by Suzanne Collins
+35. Divergent by Veronica Roth
+36. The Maze Runner by James Dashner
+37. The Giver by Lois Lowry
+38. The Alchemist by Paulo Coelho
+39. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Lovely Bones by Alice Sebold
+42. The Handmaid's Tale by Margaret Atwood
+43. The Catcher Was a Spy by Nicholas Dawidoff
+44. The Catcher in the Rye by J.D. Salinger
+45. The Great Gatsby by F. Scott Fitzgerald
+46. To Kill a Mockingbird by Harper Lee
+47. 1984 by George Orwell
+48. Brave New World by Aldous Huxley
+49. Fahrenheit 451 by Ray Bradbury
+50. One Flew Over the Cuckoo's Nest by Ken Kesey
+
+These recommendations are based on the user's interest in contemporary fiction, young adult literature, and books with themes of mental health, addiction, and coming-of-age.

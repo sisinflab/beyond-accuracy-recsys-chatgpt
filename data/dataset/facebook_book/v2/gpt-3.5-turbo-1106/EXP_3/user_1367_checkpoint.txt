@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 1367:
+
+1. Dracula by Bram Stoker
+2. Frankenstein by Mary Shelley
+3. Sense and Sensibility by Jane Austen
+4. Northanger Abbey by Jane Austen
+5. Sense and Sensibility and Sea Monsters by Ben H. Winters
+6. The Pirate (novel) by Walter Scott
+7. The Watchmen (novel) by John Altman (author)
+8. One Hundred Years of Solitude by Gabriel García Márquez
+9. The Child Thief
+10. Harry Potter
+11. Gospel of Matthew
+12. Twenty Thousand Leagues Under the Sea
+13. Jane Eyre
+14. Choke (novel)
+15. Wishful Drinking
+16. Gospel of Mark
+17. Twenties Girl
+18. Johnny the Homicidal Maniac
+19. Twisted (book)
+20. Sin City
+21. Inkheart
+22. Nicholas Nickleby
+23. Holes (novel)
+24. Naruto
+25. Bleak House
+26. Macbeth
+27. The Silence of the Lambs (novel)
+28. Twilight (series)
+29. Seabiscuit: An American Legend
+30. Speak (novel)
+31. The Zombie Survival Guide
+32. New Living Translation
+33. A Wrinkle in Time
+34. Arkham Asylum: A Serious House on Serious Earth
+35. Interview with the Vampire
+36. Black Beauty
+37. The Giver
+38. Great Expectations
+39. The Hitchhiker's Guide to the Galaxy (novel)
+40. Wuthering Heights
+41. The Catcher in the Rye
+42. Inkdeath
+43. Dune (novel)
+44. The Lord of the Rings
+45. Inkspell
+46. Eragon
+47. Fahrenheit 451
+48. Hannibal Rising
+49. Hannibal (novel)
+50. King James Version
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended books to the ones the user already likes.

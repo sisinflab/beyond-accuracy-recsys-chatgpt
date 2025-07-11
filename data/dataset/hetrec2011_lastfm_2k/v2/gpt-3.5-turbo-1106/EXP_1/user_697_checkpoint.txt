@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ulrich Schnauss
+2. Emancipator
+3. Carbon Based Lifeforms
+4. Four Tet
+5. Aphex Twin
+6. Little People
+7. Emika
+8. Lemon Jelly
+9. Zero 7
+10. DJ Shadow
+11. Kruder & Dorfmeister
+12. Nightmares on Wax
+13. The Cinematic Orchestra
+14. Apparat
+15. Trentemøller
+16. Goldfrapp
+17. Portishead
+18. DJ Krush
+19. Bon Iver
+20. Explosions in the Sky
+21. Sigur Rós
+22. Mogwai
+23. God Is an Astronaut
+24. Hammock
+25. Helios
+26. Eluvium
+27. Tycho
+28. Boards of Canada
+29. Telefon Tel Aviv
+30. Enigma
+31. Bonobo
+32. Schiller
+33. Parov Stelar
+34. Shpongle
+35. M83
+36. The Prodigy
+37. Groove Armada
+38. Thievery Corporation
+39. Röyksopp
+40. Massive Attack
+41. Linkin Park
+42. Autechre
+43. Bola
+44. Morcheeba
+45. Papa Roach
+46. Coil
+47. Air
+48. Massive Attack
+49. Röyksopp
+50. Thievery Corporation
+
+These recommendations are based on the user's liking of similar artists and genres.

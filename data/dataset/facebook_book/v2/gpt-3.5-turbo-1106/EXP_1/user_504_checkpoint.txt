@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Perks of Being a Wallflower by Stephen Chbosky
+2. Thirteen Reasons Why by Jay Asher
+3. Speak by Laurie Halse Anderson
+4. Looking for Alaska by John Green
+5. The Fault in Our Stars by John Green
+6. It's Kind of a Funny Story by Ned Vizzini
+7. Wintergirls by Laurie Halse Anderson
+8. Crank by Ellen Hopkins
+9. Impulse by Ellen Hopkins
+10. Burned by Ellen Hopkins
+11. Identical by Ellen Hopkins
+12. Tricks by Ellen Hopkins
+13. Fallout by Ellen Hopkins
+14. Perfect by Ellen Hopkins
+15. Tilt by Ellen Hopkins
+16. Smoke by Ellen Hopkins
+17. Rumble by Ellen Hopkins
+18. The Lovely Bones by Alice Sebold
+19. Before I Fall by Lauren Oliver
+20. If I Was Your Girl by Meredith Russo
+21. The Hate U Give by Angie Thomas
+22. All the Bright Places by Jennifer Niven
+23. Eleanor & Park by Rainbow Rowell
+24. We Were Liars by E. Lockhart
+25. The Book Thief by Markus Zusak
+26. The Catcher in the Rye by J.D. Salinger
+27. The Bell Jar by Sylvia Plath
+28. Girl, Interrupted by Susanna Kaysen
+29. The Virgin Suicides by Jeffrey Eugenides
+30. The Secret History by Donna Tartt
+31. The Goldfinch by Donna Tartt
+32. The Night Circus by Erin Morgenstern
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Glass Castle by Jeannette Walls
+35. The Kite Runner by Khaled Hosseini
+36. A Thousand Splendid Suns by Khaled Hosseini
+37. The Alchemist by Paulo Coelho
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Giver by Lois Lowry
+40. The Hunger Games by Suzanne Collins
+41. Divergent by Veronica Roth
+42. The Maze Runner by James Dashner
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. Gone Girl by Gillian Flynn
+45. Sharp Objects by Gillian Flynn
+46. Dark Places by Gillian Flynn
+47. The Girl on the Train by Paula Hawkins
+48. Big Little Lies by Liane Moriarty
+49. The Nightingale by Kristin Hannah
+50. Me Before You by Jojo Moyes
+
+These recommendations are based on the user's interest in young adult fiction, contemporary literature, and psychological thrillers.

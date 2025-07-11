@@ -1,0 +1,54 @@
+Based on user 1889's preferences, here are the re-ranked top-50 recommendations:
+
+1. Pink Floyd
+2. The Beatles
+3. Led Zeppelin
+4. Black Sabbath
+5. Deep Purple
+6. The Rolling Stones
+7. Jimi Hendrix
+8. Eagles
+9. Neil Young
+10. The Doors
+11. Bob Dylan
+12. Cream
+13. The Kinks
+14. Genesis
+15. Yes
+16. David Gilmour
+17. Emerson, Lake & Palmer
+18. The Velvet Underground
+19. Jethro Tull
+20. Uriah Heep
+21. Whitesnake
+22. George Harrison
+23. KISS
+24. Rainbow
+25. Grand Funk Railroad
+26. Syd Barrett
+27. The Byrds
+28. Iggy Pop
+29. Creedence Clearwater Revival
+30. The Killers
+31. Muse
+32. Radiohead
+33. Nirvana
+34. Metallica
+35. U2
+36. 30 Seconds to Mars
+37. Duran Duran
+38. Coldplay
+39. Arctic Monkeys
+40. Placebo
+41. My Chemical Romance
+42. Green Day
+43. Linkin Park
+44. System of a Down
+45. Nine Inch Nails
+46. Avenged Sevenfold
+47. Iron Maiden
+48. Pearl Jam
+49. The Cure
+50. Depeche Mode
+
+These recommendations are based on the user's liking of classic rock and similar genres.

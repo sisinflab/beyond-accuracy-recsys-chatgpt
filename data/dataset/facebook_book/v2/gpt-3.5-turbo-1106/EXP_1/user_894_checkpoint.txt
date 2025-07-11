@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jurassic Park by Michael Crichton
+2. The Andromeda Strain by Michael Crichton
+3. The Lost World by Michael Crichton
+4. The Great Train Robbery by Michael Crichton
+5. The Stand by Stephen King
+6. World War Z by Max Brooks
+7. The Road by Cormac McCarthy
+8. The Girl with All the Gifts by M.R. Carey
+9. The Passage by Justin Cronin
+10. The Hot Zone by Richard Preston
+11. The Martian by Andy Weir
+12. The Day of the Triffids by John Wyndham
+13. The Maze Runner by James Dashner
+14. The Hunger Games by Suzanne Collins
+15. Divergent by Veronica Roth
+16. The Giver by Lois Lowry
+17. The Handmaid's Tale by Margaret Atwood
+18. Fahrenheit 451 by Ray Bradbury
+19. Brave New World by Aldous Huxley
+20. 1984 by George Orwell
+21. Snow Crash by Neal Stephenson
+22. Neuromancer by William Gibson
+23. Altered Carbon by Richard K. Morgan
+24. Do Androids Dream of Electric Sheep? by Philip K. Dick
+25. The War of the Worlds by H.G. Wells
+26. The Time Machine by H.G. Wells
+27. The Island of Dr. Moreau by H.G. Wells
+28. The Invisible Man by H.G. Wells
+29. The Stand by Stephen King
+30. The Road by Cormac McCarthy
+31. The Girl with All the Gifts by M.R. Carey
+32. The Passage by Justin Cronin
+33. The Hot Zone by Richard Preston
+34. The Martian by Andy Weir
+35. The Day of the Triffids by John Wyndham
+36. The Maze Runner by James Dashner
+37. The Hunger Games by Suzanne Collins
+38. Divergent by Veronica Roth
+39. The Giver by Lois Lowry
+40. The Handmaid's Tale by Margaret Atwood
+41. Fahrenheit 451 by Ray Bradbury
+42. Brave New World by Aldous Huxley
+43. 1984 by George Orwell
+44. Snow Crash by Neal Stephenson
+45. Neuromancer by William Gibson
+46. Altered Carbon by Richard K. Morgan
+47. Do Androids Dream of Electric Sheep? by Philip K. Dick
+48. The War of the Worlds by H.G. Wells
+49. The Time Machine by H.G. Wells
+50. The Island of Dr. Moreau by H.G. Wells
+
+These recommendations are based on the user's interest in science fiction, horror, and thriller genres, as well as specific authors and titles they have enjoyed.

@@ -1,0 +1,54 @@
+Based on user 38's preferences, here are the top-50 recommendations for that user:
+
+1. Coldplay
+2. Paramore
+3. Foo Fighters
+4. The Killers
+5. Gorillaz
+6. Glee Cast
+7. U2
+8. Oasis
+9. Blur
+10. Florence + the Machine
+11. Muse
+12. Taylor Swift
+13. The Beatles
+14. Móveis Coloniais de Acaju
+15. Katy Perry
+16. Daft Punk
+17. Avril Lavigne
+18. Bon Jovi
+19. Queen
+20. Them Crooked Vultures
+21. Weezer
+22. Franz Ferdinand
+23. Colbie Caillat
+24. Ke$ha
+25. The Beach Boys
+26. Owl City
+27. Scorpions
+28. Lily Allen
+29. Mika
+30. a-ha
+31. Elvis Presley
+32. Editors
+33. Panic! At the Disco
+34. The Calling
+35. Pearl Jam
+36. Rihanna
+37. Britney Spears
+38. Lady Gaga
+39. Madonna
+40. Christina Aguilera
+41. Shakira
+42. Evanescence
+43. Beyoncé
+44. 30 Seconds to Mars
+45. Pink Floyd
+46. Kylie Minogue
+47. Miley Cyrus
+48. Radiohead
+49. Duran Duran
+50. Arctic Monkeys
+
+These recommendations are based on the user's existing preferences and are re-ranked to reflect their potential interest in the listed artists.

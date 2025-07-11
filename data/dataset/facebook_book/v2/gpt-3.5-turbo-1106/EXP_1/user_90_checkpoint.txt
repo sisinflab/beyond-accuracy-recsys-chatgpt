@@ -1,0 +1,54 @@
+Based on user 90's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Grapes of Wrath by John Steinbeck
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Bell Jar by Sylvia Plath
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Alchemist by Paulo Coelho
+9. The Road by Cormac McCarthy
+10. The Book Thief by Markus Zusak
+11. The Sun Also Rises by Ernest Hemingway
+12. The Secret History by Donna Tartt
+13. The Handmaid's Tale by Margaret Atwood
+14. The Stranger by Albert Camus
+15. Brave New World by Aldous Huxley
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. Crime and Punishment by Fyodor Dostoevsky
+19. The Count of Monte Cristo by Alexandre Dumas
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Road by Cormac McCarthy
+22. The Book Thief by Markus Zusak
+23. The Sun Also Rises by Ernest Hemingway
+24. The Secret History by Donna Tartt
+25. The Handmaid's Tale by Margaret Atwood
+26. The Stranger by Albert Camus
+27. Brave New World by Aldous Huxley
+28. The Old Man and the Sea by Ernest Hemingway
+29. The Brothers Karamazov by Fyodor Dostoevsky
+30. Crime and Punishment by Fyodor Dostoevsky
+31. The Count of Monte Cristo by Alexandre Dumas
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Road by Cormac McCarthy
+34. The Book Thief by Markus Zusak
+35. The Sun Also Rises by Ernest Hemingway
+36. The Secret History by Donna Tartt
+37. The Handmaid's Tale by Margaret Atwood
+38. The Stranger by Albert Camus
+39. Brave New World by Aldous Huxley
+40. The Old Man and the Sea by Ernest Hemingway
+41. The Brothers Karamazov by Fyodor Dostoevsky
+42. Crime and Punishment by Fyodor Dostoevsky
+43. The Count of Monte Cristo by Alexandre Dumas
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Road by Cormac McCarthy
+46. The Book Thief by Markus Zusak
+47. The Sun Also Rises by Ernest Hemingway
+48. The Secret History by Donna Tartt
+49. The Handmaid's Tale by Margaret Atwood
+50. The Stranger by Albert Camus
+
+These recommendations are based on the user's liking of similar books and authors.

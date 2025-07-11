@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1929:
+
+1. The Beatles
+2. Pink Floyd
+3. Queen
+4. David Bowie
+5. Metallica
+6. Nirvana
+7. Led Zeppelin
+8. Black Sabbath
+9. Iron Maiden
+10. The Cure
+11. Depeche Mode
+12. Madonna
+13. Coldplay
+14. Michael Jackson
+15. Elton John
+16. Genesis
+17. Rush
+18. The Police
+19. Kate Bush
+20. The Human League
+21. Simple Minds
+22. Tears for Fears
+23. Pet Shop Boys
+24. Electric Light Orchestra
+25. Roxette
+26. Bon Jovi
+27. The Killers
+28. Morrissey
+29. Manic Street Preachers
+30. Gary Numan
+31. Sparks
+32. Ministry
+33. Skinny Puppy
+34. Coil
+35. Apoptygma Berzerk
+36. Front 242
+37. Type O Negative
+38. Blackfield
+39. Gregorian
+40. Josh Groban
+41. Andrea Bocelli
+42. Céline Dion
+43. Laura Pausini
+44. Enrique Iglesias
+45. Luis Miguel
+46. Robbie Williams
+47. Dido
+48. Natalie Imbruglia
+49. Miley Cyrus
+50. A*Teens
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that the user may enjoy.

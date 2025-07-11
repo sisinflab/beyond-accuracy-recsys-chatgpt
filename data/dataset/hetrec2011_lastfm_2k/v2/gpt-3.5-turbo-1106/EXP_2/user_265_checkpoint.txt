@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 265:
+
+1. Nirvana
+2. Paramore
+3. Radiohead
+4. The Beatles
+5. Metallica
+6. The Killers
+7. System of a Down
+8. Nine Inch Nails
+9. Muse
+10. Pink Floyd
+11. Linkin Park
+12. Green Day
+13. My Chemical Romance
+14. Slipknot
+15. Deftones
+16. Korn
+17. Stone Sour
+18. A Day to Remember
+19. Architects
+20. Whitechapel
+21. A Perfect Circle
+22. Machine Head
+23. Slayer
+24. Pantera
+25. Killswitch Engage
+26. The Dillinger Escape Plan
+27. Death
+28. Architects
+29. Incubus
+30. Suicide Silence
+31. Angels & Airwaves
+32. Ramones
+33. Motörhead
+34. City and Colour
+35. Funeral for a Friend
+36. Converge
+37. Britney Spears
+38. Lady Gaga
+39. Christina Aguilera
+40. Madonna
+41. Rihanna
+42. Shakira
+43. Katy Perry
+44. Avril Lavigne
+45. Taylor Swift
+46. Evanescence
+47. Glee Cast
+48. Beyoncé
+49. U2
+50. 30 Seconds to Mars
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

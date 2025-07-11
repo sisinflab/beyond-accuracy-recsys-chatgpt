@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Postal Service
+2. Feist
+3. The Kills
+4. The xx
+5. Florence + The Machine
+6. Lykke Li
+7. Santigold
+8. CHVRCHES
+9. Haim
+10. Sleater-Kinney
+11. St. Vincent
+12. Grimes
+13. Phantogram
+14. The Naked and Famous
+15. CHVRCHES
+16. Metric
+17. Yeah Yeah Yeahs
+18. Tegan and Sara
+19. The Cardigans
+20. The Cranberries
+21. Garbage
+22. The Breeders
+23. Lorde
+24. Marina and the Diamonds
+25. Kate Nash
+26. Lily Allen
+27. Ellie Goulding
+28. Marina and the Diamonds
+29. Charli XCX
+30. Halsey
+31. Carly Rae Jepsen
+32. Lorde
+33. Sky Ferreira
+34. Alvvays
+35. Mitski
+36. Soccer Mommy
+37. Japanese Breakfast
+38. Snail Mail
+39. Angel Olsen
+40. Waxahatchee
+41. Big Thief
+42. Julien Baker
+43. Lucy Dacus
+44. Phoebe Bridgers
+45. Sharon Van Etten
+46. Weyes Blood
+47. Mitski
+48. St. Vincent
+49. Angel Olsen
+50. Courtney Barnett
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Slayer
+2. Anthrax
+3. Motorhead
+4. Sepultura
+5. Judas Priest
+6. Black Sabbath
+7. Exodus
+8. Overkill
+9. Saxon
+10. Venom
+11. Accept
+12. Kreator
+13. Testament
+14. Morbid Angel
+15. Entombed
+16. Carcass
+17. Death
+18. Cannibal Corpse
+19. Dark Tranquillity
+20. At The Gates
+21. Arch Enemy
+22. Opeth
+23. Amorphis
+24. Paradise Lost
+25. My Dying Bride
+26. Anathema
+27. Katatonia
+28. Moonspell
+29. Tiamat
+30. Type O Negative
+31. Lacuna Coil
+32. Nightwish
+33. Within Temptation
+34. Epica
+35. Delain
+36. After Forever
+37. Tristania
+38. Theatre of Tragedy
+39. Sirenia
+40. Leaves' Eyes
+41. Xandria
+42. The Gathering
+43. Therion
+44. Samael
+45. Rotting Christ
+46. Septicflesh
+47. Behemoth
+48. Dimmu Borgir
+49. Emperor
+50. Cradle of Filth
+
+These recommendations are based on the user's liking of metal and rock bands, and include a mix of classic and contemporary artists within the genre.

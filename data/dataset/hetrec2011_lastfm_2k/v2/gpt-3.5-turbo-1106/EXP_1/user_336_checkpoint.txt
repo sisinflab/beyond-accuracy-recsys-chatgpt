@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Explosions in the Sky
+2. Sigur Rós
+3. Mogwai
+4. This Will Destroy You
+5. Russian Circles
+6. Pelican
+7. Mono
+8. Caspian
+9. If These Trees Could Talk
+10. Hammock
+11. Godspeed You! Black Emperor
+12. Tides From Nebula
+13. Maybeshewill
+14. And So I Watch You From Afar
+15. Do Make Say Think
+16. Red Sparowes
+17. Cult of Luna
+18. Isis
+19. Alcest
+20. Anathema
+21. The Album Leaf
+22. Yndi Halda
+23. 65daysofstatic
+24. God Is an Astronaut
+25. UNKLE
+26. Clint Mansell
+27. Muse
+28. Korn
+29. 30 Seconds to Mars
+30. Howard Shore
+31. System of a Down
+32. Boards of Canada
+33. Massive Attack
+34. Deftones
+35. Linkin Park
+36. M83
+37. Brian Eno
+38. Slipknot
+39. The Dillinger Escape Plan
+40. The Prodigy
+41. Röyksopp
+42. Crystal Castles
+43. Metric
+44. The xx
+45. Nine Inch Nails
+46. Tool
+47. A Perfect Circle
+48. Puscifer
+49. Porcupine Tree
+50. Riverside
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Depeche Mode
+2. Portishead
+3. Massive Attack
+4. The xx
+5. Garbage
+6. Goldfrapp
+7. The Chemical Brothers
+8. Florence + The Machine
+9. Lana Del Rey
+10. The Weeknd
+11. The Neighbourhood
+12. Chvrches
+13. Grimes
+14. FKA twigs
+15. Tove Lo
+16. Halsey
+17. Lorde
+18. The Knife
+19. Robyn
+20. Lykke Li
+21. Purity Ring
+22. Phantogram
+23. Crystal Castles
+24. Santigold
+25. Metric
+26. La Roux
+27. Ellie Goulding
+28. Marina and the Diamonds
+29. Charli XCX
+30. BANKS
+31. Aurora
+32. Zola Jesus
+33. Chairlift
+34. M83
+35. Empire of the Sun
+36. Tegan and Sara
+37. St. Vincent
+38. Bat for Lashes
+39. Kate Bush
+40. Siouxsie and the Banshees
+41. Cocteau Twins
+42. Echo & the Bunnymen
+43. New Order
+44. Joy Division
+45. The Smiths
+46. The Jesus and Mary Chain
+47. Bauhaus
+48. The Sisters of Mercy
+49. The Psychedelic Furs
+50. Talking Heads
+
+These recommendations are based on the user's liking of electronic, alternative, and pop artists, and include similar artists that they may enjoy based on their preferences.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. One Hundred Years of Solitude by Gabriel Garcia Marquez
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Crime and Punishment by Fyodor Dostoyevsky
+7. The Stranger by Albert Camus
+8. Fahrenheit 451 by Ray Bradbury
+9. Animal Farm by George Orwell
+10. The Grapes of Wrath by John Steinbeck
+11. The Road by Cormac McCarthy
+12. The Bell Jar by Sylvia Plath
+13. The Picture of Dorian Gray by Oscar Wilde
+14. Lolita by Vladimir Nabokov
+15. The Sun Also Rises by Ernest Hemingway
+16. A Clockwork Orange by Anthony Burgess
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Sound and the Fury by William Faulkner
+19. Heart of Darkness by Joseph Conrad
+20. The Trial by Franz Kafka
+21. The Plague by Albert Camus
+22. The Metamorphosis by Franz Kafka
+23. The Stranger by Albert Camus
+24. The Master and Margarita by Mikhail Bulgakov
+25. The Handmaid's Tale by Margaret Atwood
+26. The Road by Cormac McCarthy
+27. The Stand by Stephen King
+28. The Shining by Stephen King
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Name of the Wind by Patrick Rothfuss
+31. American Gods by Neil Gaiman
+32. The Alchemist by Paulo Coelho
+33. The Book Thief by Markus Zusak
+34. The Night Circus by Erin Morgenstern
+35. The Shadow of the Wind by Carlos Ruiz Zafon
+36. The Goldfinch by Donna Tartt
+37. The Secret History by Donna Tartt
+38. The Kite Runner by Khaled Hosseini
+39. A Thousand Splendid Suns by Khaled Hosseini
+40. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+41. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+42. The Corrections by Jonathan Franzen
+43. The Road by Cormac McCarthy
+44. The Stand by Stephen King
+45. The Shining by Stephen King
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Name of the Wind by Patrick Rothfuss
+48. American Gods by Neil Gaiman
+49. The Alchemist by Paulo Coelho
+50. The Book Thief by Markus Zusak

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Marina and the Diamonds
+2. Florence + The Machine
+3. Lana Del Rey
+4. Paramore
+5. HAIM
+6. Tegan and Sara
+7. The 1975
+8. Lorde
+9. Charli XCX
+10. Grimes
+11. CHVRCHES
+12. Metric
+13. The Cardigans
+14. Yeah Yeah Yeahs
+15. Wolf Alice
+16. The Cranberries
+17. Garbage
+18. No Doubt
+19. The Smashing Pumpkins
+20. Hole
+21. Veruca Salt
+22. Sleater-Kinney
+23. Bikini Kill
+24. The Breeders
+25. Sonic Youth
+26. PJ Harvey
+27. Mitski
+28. St. Vincent
+29. Mitski
+30. Sleater-Kinney
+31. The Breeders
+32. Sonic Youth
+33. PJ Harvey
+34. Mitski
+35. St. Vincent
+36. Sleater-Kinney
+37. The Breeders
+38. Sonic Youth
+39. PJ Harvey
+40. Mitski
+41. St. Vincent
+42. Sleater-Kinney
+43. The Breeders
+44. Sonic Youth
+45. PJ Harvey
+46. Mitski
+47. St. Vincent
+48. Sleater-Kinney
+49. The Breeders
+50. Sonic Youth
+
+These recommendations are based on the user's liking of similar artists and genres.

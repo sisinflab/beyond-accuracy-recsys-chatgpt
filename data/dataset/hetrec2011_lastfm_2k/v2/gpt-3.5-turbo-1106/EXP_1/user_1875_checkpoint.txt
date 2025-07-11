@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Death Cab for Cutie
+2. The Decemberists
+3. Rilo Kiley
+4. Modest Mouse
+5. The Postal Service
+6. The National
+7. Belle and Sebastian
+8. The Shins
+9. Neutral Milk Hotel
+10. Sufjan Stevens
+11. The Strokes
+12. Interpol
+13. Yeah Yeah Yeahs
+14. The White Stripes
+15. Arctic Monkeys
+16. The Black Keys
+17. Vampire Weekend
+18. Florence + The Machine
+19. The xx
+20. Lana Del Rey
+21. HAIM
+22. Lorde
+23. CHVRCHES
+24. Phantogram
+25. Grimes
+26. Purity Ring
+27. Metric
+28. Warpaint
+29. Sleater-Kinney
+30. St. Vincent
+31. Mitski
+32. Angel Olsen
+33. Sharon Van Etten
+34. Courtney Barnett
+35. Wolf Alice
+36. Daughter
+37. Alvvays
+38. Beach House
+39. The War on Drugs
+40. Foals
+41. Bombay Bicycle Club
+42. Two Door Cinema Club
+43. The 1975
+44. Catfish and the Bottlemen
+45. The Neighbourhood
+46. Foster the People
+47. Glass Animals
+48. Tame Impala
+49. Alt-J
+50. The Naked and Famous
+
+These recommendations are based on the user's liking of indie, alternative, and rock artists, and include similar artists that they may enjoy based on their preferences.

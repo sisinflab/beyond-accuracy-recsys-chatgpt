@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Thirteen Reasons Why by Jay Asher
+3. Before I Fall by Lauren Oliver
+4. Paper Towns by John Green
+5. Looking for Alaska by John Green
+6. Eleanor & Park by Rainbow Rowell
+7. If I Stay by Gayle Forman
+8. Where She Went by Gayle Forman
+9. Just Listen by Sarah Dessen
+10. Speak by Laurie Halse Anderson
+11. Wintergirls by Laurie Halse Anderson
+12. Identical by Ellen Hopkins
+13. Impulse by Ellen Hopkins
+14. Burned by Ellen Hopkins
+15. Glass by Ellen Hopkins
+16. Tricks by Ellen Hopkins
+17. The Crank Trilogy by Ellen Hopkins
+18. The Perks of Being a Wallflower by Stephen Chbosky
+19. The Book Thief by Markus Zusak
+20. The Lovely Bones by Alice Sebold
+21. Room by Emma Donoghue
+22. The Girl on the Train by Paula Hawkins
+23. Gone Girl by Gillian Flynn
+24. Sharp Objects by Gillian Flynn
+25. Dark Places by Gillian Flynn
+26. The Hunger Games by Suzanne Collins
+27. Catching Fire by Suzanne Collins
+28. Mockingjay by Suzanne Collins
+29. Divergent by Veronica Roth
+30. Insurgent by Veronica Roth
+31. Allegiant by Veronica Roth
+32. The Maze Runner by James Dashner
+33. The Scorch Trials by James Dashner
+34. The Death Cure by James Dashner
+35. The Giver by Lois Lowry
+36. Gathering Blue by Lois Lowry
+37. Messenger by Lois Lowry
+38. Son by Lois Lowry
+39. The Uglies Series by Scott Westerfeld
+40. The Selection by Kiera Cass
+41. The Elite by Kiera Cass
+42. The One by Kiera Cass
+43. The 5th Wave by Rick Yancey
+44. The Infinite Sea by Rick Yancey
+45. The Last Star by Rick Yancey
+46. The Maze Runner Series by James Dashner
+47. The Hunger Games Series by Suzanne Collins
+48. The Divergent Series by Veronica Roth
+49. The Uglies Series by Scott Westerfeld
+50. The Selection Series by Kiera Cass
+
+These recommendations are based on the user's interest in young adult fiction, contemporary novels, and books by Ellen Hopkins and Gayle Forman.

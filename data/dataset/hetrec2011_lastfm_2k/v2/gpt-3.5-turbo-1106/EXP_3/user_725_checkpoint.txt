@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 725:
+
+1. Ludwig van Beethoven
+2. Johann Sebastian Bach
+3. Antonio Vivaldi
+4. Miles Davis
+5. Sigur Rós
+6. Boards of Canada
+7. Max Richter
+8. Trentemøller
+9. Bonobo
+10. Franz Ferdinand
+11. Hammock
+12. Porcupine Tree
+13. Captain Beefheart & His Magic Band
+14. Lady Gaga
+15. Björk
+16. 宇多田ヒカル
+17. Balmorhea
+18. Marilyn Manson
+19. Tool
+20. Yes
+21. Bob Marley & The Wailers
+22. Beck
+23. David Gilmour
+24. Brian Eno
+25. Vampire Weekend
+26. Muse
+27. Led Zeppelin
+28. The Beatles
+29. Tom Waits
+30. Frank Sinatra
+31. Regina Spektor
+32. The Temper Trap
+33. Aerosmith
+34. Jack Johnson
+35. Goldfrapp
+36. A Perfect Circle
+37. Linkin Park
+38. ASIAN KUNG-FU GENERATION
+39. Gary Numan
+40. The Cure
+41. Massive Attack
+42. YUI
+43. Joy Division
+44. Garbage
+45. Yann Tiersen
+46. Thom Yorke
+47. The Smashing Pumpkins
+48. Ennio Morricone
+49. Danny Elfman
+50. The Alan Parsons Project
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists and genres that align with their tastes.

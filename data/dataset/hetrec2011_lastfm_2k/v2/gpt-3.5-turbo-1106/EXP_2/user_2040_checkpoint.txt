@@ -1,0 +1,54 @@
+Based on user 2040's preferences, here are the top-50 recommendations for the user:
+
+1. Muse
+2. Paramore
+3. Coldplay
+4. Katy Perry
+5. The Beatles
+6. Ke$ha
+7. Miley Cyrus
+8. Lady Gaga
+9. Rihanna
+10. Britney Spears
+11. Madonna
+12. Michael Jackson
+13. Shakira
+14. Glee Cast
+15. Kylie Minogue
+16. Demi Lovato
+17. Maroon 5
+18. Ellie Goulding
+19. Snow Patrol
+20. Florence + the Machine
+21. The Killers
+22. Garbage
+23. Something Corporate
+24. Selena Gomez & the Scene
+25. Jimmy Eat World
+26. The Pretty Reckless
+27. Little Boots
+28. Girls Aloud
+29. Dragonette
+30. The Sounds
+31. Aqualung
+32. The Veronicas
+33. Ashlee Simpson
+34. Death Cab for Cutie
+35. Yeah Yeah Yeahs
+36. Sufjan Stevens
+37. Lifehouse
+38. She & Him
+39. The Bird and The Bee
+40. Sky Ferreira
+41. Depeche Mode
+42. Christina Aguilera
+43. Avril Lavigne
+44. Taylor Swift
+45. Evanescence
+46. Beyoncé
+47. U2
+48. 30 Seconds to Mars
+49. Pink Floyd
+50. Duran Duran
+
+These recommendations are based on the user's liking of similar artists and their preferences.

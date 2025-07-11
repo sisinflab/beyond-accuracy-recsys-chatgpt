@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Neil Gaiman and Terry Pratchett
+2. Ender's Game by Orson Scott Card
+3. Neuromancer by William Gibson
+4. Snow Crash by Neal Stephenson
+5. Foundation by Isaac Asimov
+6. 1984 by George Orwell
+7. Brave New World by Aldous Huxley
+8. Fahrenheit 451 by Ray Bradbury
+9. The Martian by Andy Weir
+10. Ready Player One by Ernest Cline
+11. The Hunger Games by Suzanne Collins
+12. The Maze Runner by James Dashner
+13. The Giver by Lois Lowry
+14. The Time Machine by H.G. Wells
+15. The War of the Worlds by H.G. Wells
+16. The Left Hand of Darkness by Ursula K. Le Guin
+17. The Dispossessed by Ursula K. Le Guin
+18. The City and the Stars by Arthur C. Clarke
+19. The Moon is a Harsh Mistress by Robert A. Heinlein
+20. The Forever War by Joe Haldeman
+21. Hyperion by Dan Simmons
+22. The Expanse series by James S.A. Corey
+23. The Culture series by Iain M. Banks
+24. The Vorkosigan Saga by Lois McMaster Bujold
+25. The Kingkiller Chronicle by Patrick Rothfuss
+26. Mistborn series by Brandon Sanderson
+27. The Lies of Locke Lamora by Scott Lynch
+28. The Name of the Wind by Patrick Rothfuss
+29. The Blade Itself by Joe Abercrombie
+30. The Way of Kings by Brandon Sanderson
+31. The Black Company by Glen Cook
+32. The First Law trilogy by Joe Abercrombie
+33. The Malazan Book of the Fallen series by Steven Erikson
+34. The Broken Empire series by Mark Lawrence
+35. The Powder Mage trilogy by Brian McClellan
+36. The Lightbringer series by Brent Weeks
+37. The Stormlight Archive series by Brandon Sanderson
+38. The Riyria Revelations series by Michael J. Sullivan
+39. The Demon Cycle series by Peter V. Brett
+40. The Inheritance Trilogy by N.K. Jemisin
+41. The Broken Earth series by N.K. Jemisin
+42. The Poppy War series by R.F. Kuang
+43. The Divine Cities trilogy by Robert Jackson Bennett
+44. The Craft Sequence series by Max Gladstone
+45. The Tensorate series by JY Yang
+46. The Machineries of Empire series by Yoon Ha Lee
+47. The Murderbot Diaries series by Martha Wells
+48. The Southern Reach trilogy by Jeff VanderMeer
+49. The Three-Body Problem by Liu Cixin
+50. The Quantum Thief by Hannu Rajaniemi
+
+These recommendations are based on the user's interest in science fiction, fantasy, and dystopian literature.

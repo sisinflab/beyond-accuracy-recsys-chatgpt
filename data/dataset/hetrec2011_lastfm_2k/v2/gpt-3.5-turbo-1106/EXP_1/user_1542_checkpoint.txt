@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tame Impala
+2. The Smiths
+3. Arcade Fire
+4. The National
+5. Bon Iver
+6. Sufjan Stevens
+7. Fleet Foxes
+8. The War on Drugs
+9. Father John Misty
+10. Hozier
+11. Florence + The Machine
+12. The xx
+13. Alt-J
+14. Vampire Weekend
+15. Grizzly Bear
+16. The Shins
+17. Death Cab for Cutie
+18. MGMT
+19. The Strokes
+20. Interpol
+21. Spoon
+22. The Black Keys
+23. Arctic Monkeys
+24. Franz Ferdinand
+25. The Killers
+26. Kings of Leon
+27. Imagine Dragons
+28. Foster the People
+29. Cage the Elephant
+30. The Lumineers
+31. Mumford & Sons
+32. Of Monsters and Men
+33. Edward Sharpe & The Magnetic Zeros
+34. The Avett Brothers
+35. Band of Horses
+36. The Head and the Heart
+37. Portugal. The Man
+38. Young the Giant
+39. Grouplove
+40. Silversun Pickups
+41. Death Cab for Cutie
+42. The Decemberists
+43. Modest Mouse
+44. The Postal Service
+45. Bright Eyes
+46. Neutral Milk Hotel
+47. Belle and Sebastian
+48. The Magnetic Fields
+49. The New Pornographers
+50. The Mountain Goats
+
+These recommendations are based on the user's liking of similar artists and genres.

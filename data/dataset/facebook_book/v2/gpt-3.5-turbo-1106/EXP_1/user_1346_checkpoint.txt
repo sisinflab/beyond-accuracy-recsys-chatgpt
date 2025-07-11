@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Silent Patient by Alex Michaelides
+2. The Girl on the Train by Paula Hawkins
+3. Gone Girl by Gillian Flynn
+4. Sharp Objects by Gillian Flynn
+5. Dark Places by Gillian Flynn
+6. The Wife Between Us by Greer Hendricks and Sarah Pekkanen
+7. The Woman in the Window by A.J. Finn
+8. The Couple Next Door by Shari Lapena
+9. The Girl Before by J.P. Delaney
+10. The Girl in the Ice by Robert Bryndza
+11. The Girl Who Lived by Christopher Greyson
+12. The Girl in the Spider's Web by David Lagercrantz
+13. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+14. The Girl in the Woods by Gregg Olsen
+15. The Girl in the Mirror by Rose Carlyle
+16. The Girl in the Letter by Emily Gunnis
+17. The Girl in the Red Coat by Kate Hamer
+18. The Girl in the Glass Box by James Grippando
+19. The Girl in the Ice by Lotte Hammer and Søren Hammer
+20. The Girl in the Moon by Terry Goodkind
+21. The Girl in the Green Silk Gown by Seanan McGuire
+22. The Girl in the Tower by Katherine Arden
+23. The Girl in the Steel Corset by Kady Cross
+24. The Girl in the Clockwork Collar by Kady Cross
+25. The Girl in the Spider's Web by David Lagercrantz
+26. The Girl in the Tower by Katherine Arden
+27. The Girl in the Steel Corset by Kady Cross
+28. The Girl in the Clockwork Collar by Kady Cross
+29. The Girl in the Spider's Web by David Lagercrantz
+30. The Girl in the Tower by Katherine Arden
+31. The Girl in the Steel Corset by Kady Cross
+32. The Girl in the Clockwork Collar by Kady Cross
+33. The Girl in the Spider's Web by David Lagercrantz
+34. The Girl in the Tower by Katherine Arden
+35. The Girl in the Steel Corset by Kady Cross
+36. The Girl in the Clockwork Collar by Kady Cross
+37. The Girl in the Spider's Web by David Lagercrantz
+38. The Girl in the Tower by Katherine Arden
+39. The Girl in the Steel Corset by Kady Cross
+40. The Girl in the Clockwork Collar by Kady Cross
+41. The Girl in the Spider's Web by David Lagercrantz
+42. The Girl in the Tower by Katherine Arden
+43. The Girl in the Steel Corset by Kady Cross
+44. The Girl in the Clockwork Collar by Kady Cross
+45. The Girl in the Spider's Web by David Lagercrantz
+46. The Girl in the Tower by Katherine Arden
+47. The Girl in the Steel Corset by Kady Cross
+48. The Girl in the Clockwork Collar by Kady Cross
+49. The Girl in the Spider's Web by David Lagercrantz
+50. The Girl in the Tower by Katherine Arden
+
+These recommendations are based on the user's preference for mystery, thriller, and suspense novels.

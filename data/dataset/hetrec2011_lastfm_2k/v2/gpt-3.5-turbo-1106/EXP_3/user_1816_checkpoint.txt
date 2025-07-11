@@ -1,0 +1,54 @@
+Based on user 1816's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Björk
+2. Imogen Heap
+3. Ingrid Michaelson
+4. Avril Lavigne
+5. Jamie Cullum
+6. Jewel
+7. Arctic Monkeys
+8. The Beatles
+9. Kings of Leon
+10. McFly
+11. Joss Stone
+12. Chico Buarque
+13. Maria Bethânia
+14. Dave Matthews Band
+15. Kylie Minogue
+16. Eddie Vedder
+17. Hanson
+18. Feist
+19. Coldplay
+20. Jason Mraz
+21. Glee Cast
+22. Gavin DeGraw
+23. Pearl Jam
+24. Maria Rita
+25. Foo Fighters
+26. The Killers
+27. Muse
+28. Florence + the Machine
+29. Lily Allen
+30. Boys Like Girls
+31. Damien Rice
+32. Regina Spektor
+33. Belle and Sebastian
+34. The Fray
+35. KT Tunstall
+36. Zero 7
+37. Death Cab for Cutie
+38. Eric Clapton
+39. Alanis Morissette
+40. Ryan Adams
+41. Dixie Chicks
+42. Michael Bublé
+43. Ray LaMontagne
+44. Goo Goo Dolls
+45. Elis Regina
+46. The Cranberries
+47. Amy Winehouse
+48. Red Hot Chili Peppers
+49. Bob Marley
+50. The Chemical Brothers
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for their enjoyment.

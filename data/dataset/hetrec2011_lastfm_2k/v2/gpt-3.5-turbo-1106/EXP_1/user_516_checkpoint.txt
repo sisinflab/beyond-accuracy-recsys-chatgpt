@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Marilyn Manson
+3. Evanescence
+4. Rammstein
+5. Nine Inch Nails
+6. HIM
+7. The Cure
+8. Green Day
+9. Paramore
+10. Muse
+11. The Pretty Reckless
+12. The Rasmus
+13. Fall Out Boy
+14. Linkin Park
+15. 30 Seconds to Mars
+16. The Used
+17. Korn
+18. System of a Down
+19. Limp Bizkit
+20. Skillet
+21. Breaking Benjamin
+22. Three Days Grace
+23. Seether
+24. Stone Sour
+25. Bullet for My Valentine
+26. Papa Roach
+27. Tokio Hotel
+28. Elvis Presley
+29. Sopor Aeternus & The Ensemble of Shadows
+30. The Birthday Massacre
+31. Jeffree Star
+32. A Day to Remember
+33. Garbage
+34. Depeche Mode
+35. Simple Plan
+36. Cinema Bizarre
+37. Lacrimosa
+38. Amy Winehouse
+39. Placebo
+40. Deathstars
+41. AFI
+42. Nightwish
+43. Ozzy Osbourne
+44. Christina Aguilera
+45. The Beatles
+46. Adam Lambert
+47. Avenged Sevenfold
+48. t.A.T.u.
+49. Misfits
+50. Iron Maiden
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for the user to explore.

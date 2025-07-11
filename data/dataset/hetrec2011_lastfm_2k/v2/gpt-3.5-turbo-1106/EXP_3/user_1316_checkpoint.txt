@@ -1,0 +1,54 @@
+Based on user 1316's preferences, here are the top 50 recommendations for the given artists:
+
+1. Adele
+2. Beyoncé
+3. Elvis Costello
+4. Imogen Heap
+5. Ellie Goulding
+6. Anahí
+7. Britney Spears
+8. Selena Gomez & the Scene
+9. Christina Aguilera
+10. Evanescence
+11. Lights
+12. Pixie Lott
+13. Lily Allen
+14. P!nk
+15. Shakira
+16. Colbie Caillat
+17. Michael Bublé
+18. The Cranberries
+19. No Doubt
+20. Simple Plan
+21. Owl City
+22. Metric
+23. Linkin Park
+24. The Killers
+25. The National
+26. Katy Perry
+27. Rihanna
+28. Avril Lavigne
+29. Nicki Minaj
+30. Miley Cyrus
+31. Queen
+32. The Beatles
+33. John Mayer
+34. Simon & Garfunkel
+35. High School Musical
+36. Tarja
+37. Belinda
+38. The Veronicas
+39. Lolene
+40. KT Tunstall
+41. Soundtrack
+42. Michael Jackson
+43. Madonna
+44. Lady Gaga
+45. Taylor Swift
+46. R.E.M.
+47. Elton John
+48. David Bowie
+49. Fleet Foxes
+50. Bon Jovi
+
+These recommendations are based on similar artists and genres liked by user 1316.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Notebook by Nicholas Sparks
+2. The Fault in Our Stars by John Green
+3. Me Before You by Jojo Moyes
+4. The Hunger Games by Suzanne Collins
+5. The Girl on the Train by Paula Hawkins
+6. To Kill a Mockingbird by Harper Lee
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Pride and Prejudice by Jane Austen
+9. 1984 by George Orwell
+10. The Catcher in the Rye by J.D. Salinger
+11. Gone Girl by Gillian Flynn
+12. The Alchemist by Paulo Coelho
+13. The Kite Runner by Khaled Hosseini
+14. The Da Vinci Code by Dan Brown
+15. The Help by Kathryn Stockett
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Lovely Bones by Alice Sebold
+18. Water for Elephants by Sara Gruen
+19. The Night Circus by Erin Morgenstern
+20. The Goldfinch by Donna Tartt
+21. The Book Thief by Markus Zusak
+22. The Martian by Andy Weir
+23. The Handmaid's Tale by Margaret Atwood
+24. The Silent Patient by Alex Michaelides
+25. Where the Crawdads Sing by Delia Owens
+26. Big Little Lies by Liane Moriarty
+27. The Tattooist of Auschwitz by Heather Morris
+28. The Alice Network by Kate Quinn
+29. The Light Between Oceans by M.L. Stedman
+30. The Nightingale by Kristin Hannah
+31. The Glass Castle by Jeannette Walls
+32. The Underground Railroad by Colson Whitehead
+33. The Immortalists by Chloe Benjamin
+34. The Night Circus by Erin Morgenstern
+35. The Goldfinch by Donna Tartt
+36. The Book Thief by Markus Zusak
+37. The Martian by Andy Weir
+38. The Handmaid's Tale by Margaret Atwood
+39. The Silent Patient by Alex Michaelides
+40. Where the Crawdads Sing by Delia Owens
+41. Big Little Lies by Liane Moriarty
+42. The Tattooist of Auschwitz by Heather Morris
+43. The Alice Network by Kate Quinn
+44. The Light Between Oceans by M.L. Stedman
+45. The Nightingale by Kristin Hannah
+46. The Glass Castle by Jeannette Walls
+47. The Underground Railroad by Colson Whitehead
+48. The Immortalists by Chloe Benjamin
+49. The Night Circus by Erin Morgenstern
+50. The Goldfinch by Donna Tartt
+
+These recommendations are based on the user's interest in romance, fantasy, and self-help genres.

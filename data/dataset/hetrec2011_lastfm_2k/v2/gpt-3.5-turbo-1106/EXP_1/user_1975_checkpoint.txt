@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Autechre
+2. Four Tet
+3. Bonobo
+4. Tycho
+5. Caribou
+6. Bibio
+7. RJD2
+8. DJ Shadow
+9. Jon Hopkins
+10. The Cinematic Orchestra
+11. Emancipator
+12. Lapalux
+13. Shigeto
+14. Nosaj Thing
+15. Clark
+16. Gold Panda
+17. Mount Kimbie
+18. Lone
+19. Com Truise
+20. Baths
+21. Lorn
+22. Teebs
+23. Shlohmo
+24. Nosaj Thing
+25. Tokimonsta
+26. Prefuse 73
+27. Kettel
+28. Plaid
+29. Boards of Canada
+30. Venetian Snares
+31. Ólafur Arnalds
+32. Ulrich Schnauss
+33. Helios
+34. Bola
+35. Casino Versus Japan
+36. Telefon Tel Aviv
+37. Apparat
+38. Moderat
+39. Trentemøller
+40. The Field
+41. Pantha du Prince
+42. Jon Hopkins
+43. Max Cooper
+44. Nils Frahm
+45. Kiasmos
+46. Christian Löffler
+47. Olafur Arnalds & Nils Frahm
+48. Kiasmos
+49. Ólafur Arnalds & Nils Frahm
+50. Christian Löffler
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of books into a top-50 recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. Never Let Me Go (novel) by Kazuo Ishiguro
+3. Wuthering Heights by Emily Brontë
+4. The Book Thief by Markus Zusak
+5. The Historian by Elizabeth Kostova
+6. A Thousand Splendid Suns by Khaled Hosseini
+7. The Da Vinci Code by Dan Brown
+8. Les Misérables by Victor Hugo
+9. Angels & Demons by Dan Brown
+10. The Age of Innocence by Edith Wharton
+11. Flowers in the Attic by V. C. Andrews
+12. Petals on the Wind by V. C. Andrews
+13. The Scarlet Pimpernel by Baroness Orczy
+14. Life of Pi by Yann Martel
+15. Fahrenheit 451 by Ray Bradbury
+16. Eragon by Christopher Paolini
+17. The Little Prince by Antoine de Saint-Exupéry
+18. To Kill a Mockingbird by Harper Lee
+19. The Hobbit by J.R.R. Tolkien
+20. The House of the Scorpion by Nancy Farmer
+21. Great Expectations by Charles Dickens
+22. Mist (novel) by Miguel de Unamuno
+23. The Sight (novel) by David Clement-Davies
+24. Chinese Cinderella by Adeline Yen Mah
+25. Charlie and the Chocolate Factory by Roald Dahl
+26. The Ear, the Eye and the Arm by Nancy Farmer
+27. Rose Daughter by Robin McKinley
+28. The Constitution of Liberty by Friedrich Hayek
+29. Deception Point by Dan Brown
+30. A Clockwork Orange by Anthony Burgess
+31. Go Ask Alice by Beatrice Sparks
+32. Studies of the Book of Mormon by B.H. Roberts
+33. Master of the Game (novel) by Sidney Sheldon
+34. The Famous Five (series) by Enid Blyton
+35. The Little Prince by Antoine de Saint-Exupéry
+36. Sabriel by Garth Nix
+37. Stranger with My Face by Lois Duncan
+38. My Sister's Keeper (novel) by Jodi Picoult
+39. Abhorsen by Garth Nix
+40. Nineteen Eighty-Four by George Orwell
+41. Love Story (novel) by Erich Segal
+42. 2 States: The Story of My Marriage by Chetan Bhagat
+43. I Am Legend (novel) by Richard Matheson
+44. Alice's Adventures in Wonderland by Lewis Carroll
+45. His Dark Materials by Philip Pullman
+46. The Sands of Time (Hoeye novel) by Michael Hoeye
+47. Don Quixote by Miguel de Cervantes
+48. Thus Spoke Zarathustra by Friedrich Nietzsche
+49. Teaching with Calvin and Hobbes by Linda Holmen
+50. Digital Fortress by Dan Brown
+
+This list is based on the user's preferences and the similarity of the recommended books to the ones the user likes.

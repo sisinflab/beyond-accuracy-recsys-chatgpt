@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Pride and Prejudice by Jane Austen
+5. The Grapes of Wrath by John Steinbeck
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Brave New World by Aldous Huxley
+9. The Old Man and the Sea by Ernest Hemingway
+10. The Adventures of Huckleberry Finn by Mark Twain
+11. The Sun Also Rises by Ernest Hemingway
+12. Slaughterhouse-Five by Kurt Vonnegut
+13. The Road by Cormac McCarthy
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Stranger by Albert Camus
+16. Crime and Punishment by Fyodor Dostoevsky
+17. The Bell Jar by Sylvia Plath
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Count of Monte Cristo by Alexandre Dumas
+20. The Scarlet Letter by Nathaniel Hawthorne
+21. Moby-Dick by Herman Melville
+22. The Canterbury Tales by Geoffrey Chaucer
+23. The Divine Comedy by Dante Alighieri
+24. The Iliad by Homer
+25. The Odyssey by Homer
+26. Don Quixote by Miguel de Cervantes
+27. War and Peace by Leo Tolstoy
+28. Anna Karenina by Leo Tolstoy
+29. Les Misérables by Victor Hugo
+30. Wuthering Heights by Emily Brontë
+31. Jane Eyre by Charlotte Brontë
+32. Great Expectations by Charles Dickens
+33. Little Women by Louisa May Alcott
+34. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+35. Dracula by Bram Stoker
+36. The War of the Worlds by H.G. Wells
+37. The Time Machine by H.G. Wells
+38. The Call of the Wild by Jack London
+39. White Fang by Jack London
+40. The Jungle Book by Rudyard Kipling
+41. Heart of Darkness by Joseph Conrad
+42. The Secret Garden by Frances Hodgson Burnett
+43. The Wind in the Willows by Kenneth Grahame
+44. The Three Musketeers by Alexandre Dumas
+45. Around the World in 80 Days by Jules Verne
+46. Treasure Island by Robert Louis Stevenson
+47. The Adventures of Tom Sawyer by Mark Twain
+48. The Hound of the Baskervilles by Arthur Conan Doyle
+49. The Phantom of the Opera by Gaston Leroux
+50. The Picture of Dorian Gray by Oscar Wilde

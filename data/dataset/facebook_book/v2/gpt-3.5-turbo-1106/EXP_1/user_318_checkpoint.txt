@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. To Kill a Mockingbird by Harper Lee
+7. The Bell Jar by Sylvia Plath
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. The Grapes of Wrath by John Steinbeck
+11. The Old Man and the Sea by Ernest Hemingway
+12. The Sun Also Rises by Ernest Hemingway
+13. The Picture of Dorian Gray by Oscar Wilde
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. The Stranger by Albert Camus
+17. The Plague by Albert Camus
+18. The Myth of Sisyphus by Albert Camus
+19. The Fall by Albert Camus
+20. The Rebel by Albert Camus
+21. The Trial by Franz Kafka
+22. The Metamorphosis by Franz Kafka
+23. The Castle by Franz Kafka
+24. The Unbearable Lightness of Being by Milan Kundera
+25. The Book Thief by Markus Zusak
+26. The Kite Runner by Khaled Hosseini
+27. A Thousand Splendid Suns by Khaled Hosseini
+28. The Alchemist by Paulo Coelho
+29. The Name of the Wind by Patrick Rothfuss
+30. The Wise Man's Fear by Patrick Rothfuss
+31. The Shadow of the Wind by Carlos Ruiz Zafon
+32. The Night Circus by Erin Morgenstern
+33. The Secret History by Donna Tartt
+34. The Goldfinch by Donna Tartt
+35. The Secret Life of Bees by Sue Monk Kidd
+36. The Poisonwood Bible by Barbara Kingsolver
+37. The Glass Castle by Jeannette Walls
+38. The Joy Luck Club by Amy Tan
+39. The God of Small Things by Arundhati Roy
+40. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+41. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+42. The Yiddish Policemen's Union by Michael Chabon
+43. The Adventures of Augie March by Saul Bellow
+44. Herzog by Saul Bellow
+45. Humboldt's Gift by Saul Bellow
+46. The Art of Fielding by Chad Harbach
+47. The Natural by Bernard Malamud
+48. The Fixer by Bernard Malamud
+49. The Assistant by Bernard Malamud
+50. The Tenants by Bernard Malamud
+
+These recommendations are based on the user's interest in philosophical and literary fiction, as well as classic and contemporary literature.

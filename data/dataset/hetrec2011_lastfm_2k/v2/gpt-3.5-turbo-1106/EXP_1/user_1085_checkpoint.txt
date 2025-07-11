@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Explosions in the Sky
+2. Godspeed You! Black Emperor
+3. Hammock
+4. The Antlers
+5. Mogwai
+6. Caspian
+7. Do Make Say Think
+8. The Tallest Man on Earth
+9. Grouper
+10. Tycho
+11. Helios
+12. Boards of Canada
+13. The American Dollar
+14. The Cinematic Orchestra
+15. Hammock
+16. Stars of the Lid
+17. The Mercury Program
+18. The Appleseed Cast
+19. Yndi Halda
+20. Balmorhea
+21. The Six Parts Seven
+22. The Echelon Effect
+23. The Album Leaf
+24. El Ten Eleven
+25. Caspian
+26. The Tallest Man on Earth
+27. The American Dollar
+28. The Cinematic Orchestra
+29. The Mercury Program
+30. The Appleseed Cast
+31. Yndi Halda
+32. Balmorhea
+33. The Six Parts Seven
+34. The Echelon Effect
+35. The Album Leaf
+36. El Ten Eleven
+37. The Tallest Man on Earth
+38. The American Dollar
+39. The Cinematic Orchestra
+40. The Mercury Program
+41. The Appleseed Cast
+42. Yndi Halda
+43. Balmorhea
+44. The Six Parts Seven
+45. The Echelon Effect
+46. The Album Leaf
+47. El Ten Eleven
+48. The Tallest Man on Earth
+49. The American Dollar
+50. The Cinematic Orchestra
+
+These recommendations are based on the user's liking of similar artists and genres.

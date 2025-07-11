@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Iron Maiden
+2. Judas Priest
+3. Helloween
+4. Accept
+5. Dio
+6. Stratovarius
+7. Symphony X
+8. Sepultura
+9. Avantasia
+10. Saxon
+11. Gamma Ray
+12. Motorhead
+13. W.A.S.P.
+14. Savatage
+15. Testament
+16. Exodus
+17. Kreator
+18. Overkill
+19. Anthrax
+20. Venom
+21. Morbid Angel
+22. Carcass
+23. Entombed
+24. At The Gates
+25. Dark Tranquillity
+26. In Flames
+27. Soilwork
+28. Opeth
+29. Katatonia
+30. Amorphis
+31. Paradise Lost
+32. My Dying Bride
+33. Type O Negative
+34. Lacuna Coil
+35. Nightwish
+36. Epica
+37. Within Temptation
+38. Lacrimosa
+39. Therion
+40. Sirenia
+41. Tristania
+42. Leaves' Eyes
+43. After Forever
+44. Delain
+45. Xandria
+46. Visions of Atlantis
+47. Edenbridge
+48. Amberian Dawn
+49. The Agonist
+50. Unleash The Archers
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. Vampire Weekend
+3. The xx
+4. Tame Impala
+5. Lana Del Rey
+6. Arcade Fire
+7. The Black Keys
+8. Beck
+9. Phoenix
+10. HAIM
+11. Lorde
+12. The National
+13. Interpol
+14. The Neighbourhood
+15. Two Door Cinema Club
+16. Foster the People
+17. Alt-J
+18. Bastille
+19. Imagine Dragons
+20. CHVRCHES
+21. The 1975
+22. Florence + The Machine
+23. Arctic Monkeys
+24. The Killers
+25. Kings of Leon
+26. Muse
+27. Radiohead
+28. Coldplay
+29. The Beatles
+30. Daft Punk
+31. Justice
+32. Oasis
+33. Amy Winehouse
+34. No Doubt
+35. Linkin Park
+36. Franz Ferdinand
+37. The Ting Tings
+38. Gorillaz
+39. Florence + the Machine
+40. Arctic Monkeys
+41. Justice
+42. Oasis
+43. Amy Winehouse
+44. No Doubt
+45. Linkin Park
+46. Franz Ferdinand
+47. The Ting Tings
+48. Gorillaz
+49. Florence + the Machine
+50. Arctic Monkeys
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands that the user may enjoy.

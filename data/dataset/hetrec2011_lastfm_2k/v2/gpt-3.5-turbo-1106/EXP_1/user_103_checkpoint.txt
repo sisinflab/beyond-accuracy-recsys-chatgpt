@@ -1,0 +1,54 @@
+Based on user 103's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. Joy Division
+3. The Smiths
+4. Duran Duran
+5. Tears for Fears
+6. Echo & the Bunnymen
+7. Siouxsie and the Banshees
+8. The Human League
+9. OMD
+10. Simple Minds
+11. The Jesus and Mary Chain
+12. The Psychedelic Furs
+13. Talking Heads
+14. The Chameleons
+15. Cocteau Twins
+16. Bauhaus
+17. The Sisters of Mercy
+18. The Cult
+19. The Mission
+20. The Church
+21. The Sound
+22. Clan of Xymox
+23. The Bolshoi
+24. The Damned
+25. The Stranglers
+26. Magazine
+27. Wire
+28. Public Image Ltd
+29. Killing Joke
+30. The Birthday Party
+31. Nick Cave & The Bad Seeds
+32. The Velvet Underground
+33. Joy Division
+34. The Cure
+35. The Smiths
+36. The Jesus and Mary Chain
+37. Echo & the Bunnymen
+38. Siouxsie and the Banshees
+39. The Psychedelic Furs
+40. New Order
+41. The Chameleons
+42. The Sound
+43. The Sisters of Mercy
+44. The Mission
+45. The Church
+46. The Cult
+47. The Bolshoi
+48. Clan of Xymox
+49. The Damned
+50. The Stranglers
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

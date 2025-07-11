@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smiths
+2. Pixies
+3. Interpol
+4. The National
+5. My Bloody Valentine
+6. Slowdive
+7. PJ Harvey
+8. The Jesus and Mary Chain
+9. Siouxsie and the Banshees
+10. The Velvet Underground
+11. The Flaming Lips
+12. Portishead
+13. The Smashing Pumpkins
+14. R.E.M.
+15. Pavement
+16. The Stone Roses
+17. New Order
+18. The Pixies
+19. The Strokes
+20. The White Stripes
+21. The Black Keys
+22. Modest Mouse
+23. The Shins
+24. Death Cab for Cutie
+25. Arcade Fire
+26. Vampire Weekend
+27. Tame Impala
+28. Fleet Foxes
+29. Grizzly Bear
+30. Beach House
+31. Animal Collective
+32. M83
+33. The War on Drugs
+34. LCD Soundsystem
+35. Yeah Yeah Yeahs
+36. The Kills
+37. The xx
+38. Florence + The Machine
+39. Alt-J
+40. HAIM
+41. CHVRCHES
+42. St. Vincent
+43. Warpaint
+44. Daughter
+45. London Grammar
+46. Beach House
+47. Alvvays
+48. Mitski
+49. Snail Mail
+50. Soccer Mommy
+
+These recommendations are based on the user's liking for artists with similar musical styles and genres.

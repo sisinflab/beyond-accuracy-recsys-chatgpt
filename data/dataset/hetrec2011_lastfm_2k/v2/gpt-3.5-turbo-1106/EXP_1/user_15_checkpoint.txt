@@ -1,0 +1,54 @@
+Based on user 15's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Pink Floyd
+3. Nick Cave and the Bad Seeds
+4. Talking Heads
+5. Joy Division
+6. The Velvet Underground
+7. Arcade Fire
+8. Björk
+9. The Flaming Lips
+10. Sonic Youth
+11. Pixies
+12. The Cure
+13. Wilco
+14. Portishead
+15. Sigur Rós
+16. The National
+17. Interpol
+18. My Bloody Valentine
+19. The War on Drugs
+20. Tame Impala
+21. LCD Soundsystem
+22. Grizzly Bear
+23. Fleet Foxes
+24. The Strokes
+25. Vampire Weekend
+26. MGMT
+27. The xx
+28. Beach House
+29. Animal Collective
+30. Bon Iver
+31. Father John Misty
+32. The Black Keys
+33. Spoon
+34. St. Vincent
+35. The Shins
+36. Death Cab for Cutie
+37. Modest Mouse
+38. Neutral Milk Hotel
+39. The Decemberists
+40. Beirut
+41. Iron & Wine
+42. Kings of Convenience
+43. Andrew Bird
+44. José González
+45. Belle and Sebastian
+46. Sufjan Stevens
+47. Elliott Smith
+48. Jeff Buckley
+49. of Montreal
+50. Explosions in the Sky
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

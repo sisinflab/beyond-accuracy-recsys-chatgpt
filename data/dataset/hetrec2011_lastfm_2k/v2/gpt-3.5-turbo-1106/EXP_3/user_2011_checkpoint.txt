@@ -1,0 +1,54 @@
+Based on the preferences of user 2011, here are the top 50 recommendations for the listed artists:
+
+1. The Beatles
+2. Pearl Jam
+3. Johnny Cash
+4. Iron & Wine
+5. Damien Rice
+6. Janis Joplin
+7. Jason Mraz
+8. Vampire Weekend
+9. The Jimi Hendrix Experience
+10. Pink Floyd
+11. Bob Dylan
+12. Marisa Monte
+13. Los Hermanos
+14. Belle and Sebastian
+15. Florence + the Machine
+16. José González
+17. Eddie Vedder
+18. Coldplay
+19. Muse
+20. Incubus
+21. Dire Straits
+22. Dave Matthews Band
+23. The Fray
+24. Creedence Clearwater Revival
+25. Travis
+26. Bad Religion
+27. Jamiroquai
+28. Mika
+29. Eric Clapton
+30. The Rolling Stones
+31. Snoop Dogg
+32. Lifehouse
+33. Ani DiFranco
+34. Cypress Hill
+35. Flyleaf
+36. Alexisonfire
+37. Thousand Foot Krutch
+38. Pain of Salvation
+39. Relient K
+40. Dixie Chicks
+41. Timbaland
+42. 50 Cent
+43. Pitty
+44. Pato Fu
+45. Matanza
+46. Charlie Brown Jr.
+47. Paramore
+48. Porcupine Tree
+49. Ayreon
+50. Eagles
+
+These recommendations are based on the similar music preferences of user 2011 and are ranked accordingly.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. The Smashing Pumpkins
+3. Muse
+4. The Cure
+5. Massive Attack
+6. Portishead
+7. Radiohead
+8. Nine Inch Nails
+9. Sigur Rós
+10. UNKLE
+11. Tricky
+12. Korn
+13. Porcupine Tree
+14. Akira Yamaoka
+15. Max Richter
+16. Thom Yorke
+17. Boards of Canada
+18. A Perfect Circle
+19. Deftones
+20. Archive
+21. The Chemical Brothers
+22. Aphex Twin
+23. The Dandy Warhols
+24. Mogwai
+25. Placebo
+26. Blur
+27. Tool
+28. Four Tet
+29. Hans Zimmer
+30. VAST
+31. Pulp
+32. Hammock
+33. Massive Attack
+34. Portishead
+35. Radiohead
+36. Nine Inch Nails
+37. Sigur Rós
+38. UNKLE
+39. Tricky
+40. Korn
+41. Porcupine Tree
+42. Akira Yamaoka
+43. Max Richter
+44. Thom Yorke
+45. Boards of Canada
+46. A Perfect Circle
+47. Deftones
+48. Archive
+49. The Chemical Brothers
+50. Aphex Twin
+
+These recommendations are based on the user's existing preferences and are aimed at providing similar artists that the user may enjoy.

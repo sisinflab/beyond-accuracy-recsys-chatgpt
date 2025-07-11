@@ -1,0 +1,54 @@
+Based on user 1656's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Radiohead
+2. The Strokes
+3. The Killers
+4. Arctic Monkeys
+5. Muse
+6. The Stone Roses
+7. The Cure
+8. Pink Floyd
+9. The Chemical Brothers
+10. The Verve
+11. Sigur Rós
+12. The White Stripes
+13. Massive Attack
+14. Death Cab for Cutie
+15. Belle and Sebastian
+16. Kings of Leon
+17. LCD Soundsystem
+18. Nine Inch Nails
+19. Manic Street Preachers
+20. Placebo
+21. Depeche Mode
+22. The Last Shadow Puppets
+23. Travis
+24. Kasabian
+25. Stereophonics
+26. Air
+27. The Rolling Stones
+28. Jeff Buckley
+29. Björk
+30. Aphex Twin
+31. Snow Patrol
+32. The Chemical Brothers
+33. The Stone Roses
+34. The Verve
+35. Black Rebel Motorcycle Club
+36. The White Stripes
+37. The Cure
+38. The Chemical Brothers
+39. The Killers
+40. The Strokes
+41. Arctic Monkeys
+42. Muse
+43. The Stone Roses
+44. The Cure
+45. Pink Floyd
+46. The Chemical Brothers
+47. The Verve
+48. Sigur Rós
+49. The White Stripes
+50. Radiohead
+
+These recommendations are based on the user's existing preferences and are designed to introduce them to similar artists they may enjoy.

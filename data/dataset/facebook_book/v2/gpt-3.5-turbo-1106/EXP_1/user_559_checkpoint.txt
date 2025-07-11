@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Catcher in the Rye by J.D. Salinger
+3. The Bell Jar by Sylvia Plath
+4. Brave New World by Aldous Huxley
+5. One Flew Over the Cuckoo's Nest by Ken Kesey
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Grapes of Wrath by John Steinbeck
+8. The Sun Also Rises by Ernest Hemingway
+9. The Old Man and the Sea by Ernest Hemingway
+10. The Sound and the Fury by William Faulkner
+11. A Farewell to Arms by Ernest Hemingway
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Stranger by Albert Camus
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. The Road by Cormac McCarthy
+17. The Book Thief by Markus Zusak
+18. The Kite Runner by Khaled Hosseini
+19. The Alchemist by Paulo Coelho
+20. The Secret History by Donna Tartt
+21. The Goldfinch by Donna Tartt
+22. The Night Circus by Erin Morgenstern
+23. The Shadow of the Wind by Carlos Ruiz Zafón
+24. The Name of the Wind by Patrick Rothfuss
+25. The Lies of Locke Lamora by Scott Lynch
+26. The Girl on the Train by Paula Hawkins
+27. Gone Girl by Gillian Flynn
+28. Sharp Objects by Gillian Flynn
+29. Dark Places by Gillian Flynn
+30. The Da Vinci Code by Dan Brown
+31. Inferno by Dan Brown
+32. Digital Fortress by Dan Brown
+33. The Lost Symbol by Dan Brown
+34. The Girl Who Played with Fire by Stieg Larsson
+35. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+36. The Girl in the Spider's Web by David Lagercrantz
+37. The Stand by Stephen King
+38. It by Stephen King
+39. Pet Sematary by Stephen King
+40. Misery by Stephen King
+41. The Shining by Stephen King
+42. Doctor Sleep by Stephen King
+43. The Dark Tower series by Stephen King
+44. The Name of the Rose by Umberto Eco
+45. Foucault's Pendulum by Umberto Eco
+46. The Island of the Day Before by Umberto Eco
+47. The Prague Cemetery by Umberto Eco
+48. The Mysterious Flame of Queen Loana by Umberto Eco
+49. The Heroin Diaries: A Year in the Life of a Shattered Rock Star by Nikki Sixx
+50. The Death and Life of Charlie St. Cloud by Ben Sherwood
+
+These recommendations are based on the user's interest in classic literature, contemporary fiction, mystery, and psychological thrillers.

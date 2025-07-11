@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Survivor by Chuck Palahniuk
+2. Rant by Chuck Palahniuk
+3. Lullaby by Chuck Palahniuk
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. Breakfast of Champions by Kurt Vonnegut
+6. Cat's Cradle by Kurt Vonnegut
+7. Franny and Zooey by J.D. Salinger
+8. Nine Stories by J.D. Salinger
+9. We Have Always Lived in the Castle by Shirley Jackson
+10. The Secret History by Donna Tartt
+11. American Psycho by Bret Easton Ellis
+12. Less Than Zero by Bret Easton Ellis
+13. The Brothers Karamazov by Fyodor Dostoevsky
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Master and Margarita by Mikhail Bulgakov
+16. The Wind-Up Bird Chronicle by Haruki Murakami
+17. Norwegian Wood by Haruki Murakami
+18. Kafka on the Shore by Haruki Murakami
+19. The Stranger by Albert Camus
+20. The Plague by Albert Camus
+21. The Alchemist by Paulo Coelho
+22. One Hundred Years of Solitude by Gabriel Garcia Marquez
+23. Love in the Time of Cholera by Gabriel Garcia Marquez
+24. The Unbearable Lightness of Being by Milan Kundera
+25. The Book Thief by Markus Zusak
+26. The Road by Cormac McCarthy
+27. Blood Meridian by Cormac McCarthy
+28. House of Leaves by Mark Z. Danielewski
+29. The Goldfinch by Donna Tartt
+30. The Bell Jar by Sylvia Plath
+31. The Handmaid's Tale by Margaret Atwood
+32. Brave New World by Aldous Huxley
+33. 1984 by George Orwell
+34. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+35. Dune by Frank Herbert
+36. The Stand by Stephen King
+37. The Shining by Stephen King
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Name of the Wind by Patrick Rothfuss
+40. The Night Circus by Erin Morgenstern
+41. The Giver by Lois Lowry
+42. The Hunger Games by Suzanne Collins
+43. Ender's Game by Orson Scott Card
+44. Ready Player One by Ernest Cline
+45. The Martian by Andy Weir
+46. Dark Matter by Blake Crouch
+47. The Power of Now by Eckhart Tolle
+48. A Return to Love by Marianne Williamson
+49. The Four Agreements by Don Miguel Ruiz
+50. The Seat of the Soul by Gary Zukav
+
+These recommendations are based on the user's interest in authors like Chuck Palahniuk, J.D. Salinger, and similar genres and themes found in the provided book list.

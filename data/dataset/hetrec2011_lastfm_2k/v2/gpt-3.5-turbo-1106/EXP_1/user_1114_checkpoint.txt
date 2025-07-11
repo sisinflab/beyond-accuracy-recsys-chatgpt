@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Imagine Dragons
+3. The White Stripes
+4. The Cranberries
+5. Bastille
+6. The 1975
+7. Hozier
+8. The Neighbourhood
+9. Lorde
+10. The Black Keys
+11. Twenty One Pilots
+12. Vampire Weekend
+13. The xx
+14. Foster the People
+15. Arctic Monkeys
+16. The Killers
+17. Muse
+18. Paramore
+19. Florence + the Machine
+20. The Smashing Pumpkins
+21. Oasis
+22. Sara Bareilles
+23. Simple Plan
+24. The Strokes
+25. Glee Cast
+26. Jack Johnson
+27. Arcade Fire
+28. Depeche Mode
+29. U2
+30. Incubus
+31. P!nk
+32. Coldplay
+33. Queens of the Stone Age
+34. Green Day
+35. Flyleaf
+36. Katy Perry
+37. Black Eyed Peas
+38. Fergie
+39. The Pussycat Dolls
+40. The Beatles
+41. Metro Station
+42. Calvin Harris
+43. Taylor Swift
+44. Foo Fighters
+45. Weezer
+46. Evanescence
+47. La Oreja de Van Gogh
+48. Slipknot
+49. No Doubt
+50. Two Door Cinema Club
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands that the user may enjoy.

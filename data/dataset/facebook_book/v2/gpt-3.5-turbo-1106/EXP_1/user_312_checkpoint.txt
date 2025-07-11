@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Perks of Being a Wallflower by Stephen Chbosky
+2. Thirteen Reasons Why by Jay Asher
+3. Speak by Laurie Halse Anderson
+4. Wintergirls by Laurie Halse Anderson
+5. The Fault in Our Stars by John Green
+6. Looking for Alaska by John Green
+7. Paper Towns by John Green
+8. Eleanor & Park by Rainbow Rowell
+9. Fangirl by Rainbow Rowell
+10. We Were Liars by E. Lockhart
+11. If I Stay by Gayle Forman
+12. Before I Fall by Lauren Oliver
+13. The Book Thief by Markus Zusak
+14. The Hate U Give by Angie Thomas
+15. All the Bright Places by Jennifer Niven
+16. Every Day by David Levithan
+17. The Maze Runner by James Dashner
+18. Divergent by Veronica Roth
+19. The Hunger Games by Suzanne Collins
+20. The Giver by Lois Lowry
+21. The Outsiders by S.E. Hinton
+22. Stargirl by Jerry Spinelli
+23. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+24. The House on Mango Street by Sandra Cisneros
+25. The Catcher in the Rye by J.D. Salinger
+26. To Kill a Mockingbird by Harper Lee
+27. The Bell Jar by Sylvia Plath
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Kite Runner by Khaled Hosseini
+30. A Thousand Splendid Suns by Khaled Hosseini
+31. The Alchemist by Paulo Coelho
+32. The Night Circus by Erin Morgenstern
+33. The Time Traveler's Wife by Audrey Niffenegger
+34. The Lovely Bones by Alice Sebold
+35. Room by Emma Donoghue
+36. The Girl on the Train by Paula Hawkins
+37. Gone Girl by Gillian Flynn
+38. Sharp Objects by Gillian Flynn
+39. Big Little Lies by Liane Moriarty
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Help by Kathryn Stockett
+42. The Goldfinch by Donna Tartt
+43. The Secret History by Donna Tartt
+44. The Nightingale by Kristin Hannah
+45. The Light Between Oceans by M.L. Stedman
+46. Me Before You by Jojo Moyes
+47. The Rosie Project by Graeme Simsion
+48. The Martian by Andy Weir
+49. Ready Player One by Ernest Cline
+50. Dark Matter by Blake Crouch
+
+These recommendations are based on the user's interest in contemporary fiction, young adult literature, and coming-of-age stories.

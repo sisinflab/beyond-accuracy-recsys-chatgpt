@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 934:
+
+1. Led Zeppelin
+2. The Doors
+3. The Rolling Stones
+4. The Clash
+5. Ramones
+6. Bob Dylan
+7. Eric Clapton
+8. Frank Zappa
+9. The Kinks
+10. The Hives
+11. The Strokes
+12. The Black Keys
+13. The Kills
+14. The xx
+15. The Mars Volta
+16. Spoon
+17. Arctic Monkeys
+18. Queens of the Stone Age
+19. The Shins
+20. The New Pornographers
+21. Radiohead
+22. Nine Inch Nails
+23. Metallica
+24. Eagles of Death Metal
+25. Weezer
+26. Pearl Jam
+27. Cream
+28. Monster Magnet
+29. Pink Floyd
+30. David Bowie
+31. Black Sabbath
+32. Lamb of God
+33. Wilco
+34. Guided by Voices
+35. Queen
+36. Dethklok
+37. Nirvana
+38. Neil Young
+39. Sonic Youth
+40. MGMT
+41. Justice
+42. Red Hot Chili Peppers
+43. System of a Down
+44. Portishead
+45. Metric
+46. Crystal Castles
+47. Massive Attack
+48. Linkin Park
+49. Fiona Apple
+50. Elliott Smith
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

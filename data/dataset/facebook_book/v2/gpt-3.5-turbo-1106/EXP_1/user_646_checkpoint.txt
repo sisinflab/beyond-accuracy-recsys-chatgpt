@@ -1,0 +1,54 @@
+Based on the preferences of user 646, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Giver by Lois Lowry
+5. The Maze Runner by James Dashner
+6. To Kill a Mockingbird by Harper Lee
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. The Book Thief by Markus Zusak
+9. Eleanor & Park by Rainbow Rowell
+10. Thirteen Reasons Why by Jay Asher
+11. The Catcher in the Rye by J.D. Salinger
+12. The Great Gatsby by F. Scott Fitzgerald
+13. Looking for Alaska by John Green
+14. Paper Towns by John Green
+15. The Outsiders by S.E. Hinton
+16. The Crucible by Arthur Miller
+17. The Handmaid's Tale by Margaret Atwood
+18. Lord of the Flies by William Golding
+19. The Bell Jar by Sylvia Plath
+20. The Picture of Dorian Gray by Oscar Wilde
+21. Wuthering Heights by Emily Brontë
+22. Pride and Prejudice by Jane Austen
+23. Jane Eyre by Charlotte Brontë
+24. Little Women by Louisa May Alcott
+25. The Secret History by Donna Tartt
+26. The Night Circus by Erin Morgenstern
+27. The Name of the Wind by Patrick Rothfuss
+28. The Alchemist by Paulo Coelho
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Girl on the Train by Paula Hawkins
+32. Gone Girl by Gillian Flynn
+33. Sharp Objects by Gillian Flynn
+34. Dark Places by Gillian Flynn
+35. The Girl Who Played with Fire by Stieg Larsson
+36. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+37. The Girl in the Spider's Web by David Lagercrantz
+38. The Da Vinci Code by Dan Brown
+39. Angels & Demons by Dan Brown
+40. Inferno by Dan Brown
+41. Digital Fortress by Dan Brown
+42. Deception Point by Dan Brown
+43. The Lost Symbol by Dan Brown
+44. Origin by Dan Brown
+45. The Silent Patient by Alex Michaelides
+46. The Woman in the Window by A.J. Finn
+47. The Wife Between Us by Greer Hendricks and Sarah Pekkanen
+48. The Girl Before by J.P. Delaney
+49. The Woman in Cabin 10 by Ruth Ware
+50. The Lying Game by Ruth Ware
+
+These recommendations are based on the user's interest in young adult fiction, fantasy, and mystery/thriller genres.

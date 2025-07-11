@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Book Thief by Markus Zusak
+2. Specials by Scott Westerfeld
+3. The Hunger Games by Suzanne Collins
+4. Divergent by Veronica Roth
+5. 1984 by George Orwell
+6. To Kill a Mockingbird by Harper Lee
+7. The Sound and the Fury by William Faulkner
+8. Fahrenheit 451 by Ray Bradbury
+9. The Catcher in the Rye by J.D. Salinger
+10. Lord of the Flies by William Golding
+11. Animal Farm by George Orwell
+12. The Maze Runner by James Dashner
+13. The Handmaid's Tale by Margaret Atwood
+14. The Road by Cormac McCarthy
+15. The Alchemist by Paulo Coelho
+16. The Fault in Our Stars by John Green
+17. The Outsiders by S.E. Hinton
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Bell Jar by Sylvia Plath
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Scarlet Letter by Nathaniel Hawthorne
+23. The Count of Monte Cristo by Alexandre Dumas
+24. The Secret Garden by Frances Hodgson Burnett
+25. Little Women by Louisa May Alcott
+26. The Chronicles of Narnia by C.S. Lewis
+27. The Hobbit by J.R.R. Tolkien
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Catcher Was a Spy by Nicholas Dawidoff
+30. The Book of Lost Things by John Connolly
+31. The Book of Three by Lloyd Alexander
+32. The Book of Laughter and Forgetting by Milan Kundera
+33. The Book of Disquiet by Fernando Pessoa
+34. The Book of Illusions by Paul Auster
+35. The Book of Night Women by Marlon James
+36. The Book of Negroes by Lawrence Hill
+37. The Book of Speculation by Erika Swyler
+38. The Book of Unknown Americans by Cristina Henríquez
+39. The Book of Joy by Dalai Lama and Desmond Tutu
+40. The Book of Life by Deborah Harkness
+41. The Book of Dust by Philip Pullman
+42. The Book of Fate by Brad Meltzer
+43. The Book of Lost Fragrances by M.J. Rose
+44. The Book of Night with Moon by Diane Duane
+45. The Book of the Unnamed Midwife by Meg Elison
+46. The Book of the New Sun by Gene Wolfe
+47. The Book of the Long Sun by Gene Wolfe
+48. The Book of the Short Sun by Gene Wolfe
+49. The Book of the New Sun by Gene Wolfe
+50. The Book of the Long Sun by Gene Wolfe
+
+These recommendations are based on similar themes, genres, and authors to the books the user has enjoyed.

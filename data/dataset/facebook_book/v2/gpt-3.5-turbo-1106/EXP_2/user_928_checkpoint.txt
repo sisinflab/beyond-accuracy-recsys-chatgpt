@@ -1,0 +1,52 @@
+Based on the user's liking of the books, here is a re-ranked top-50 recommendation list for user 928:
+
+1. Harry Potter
+2. The Hobbit
+3. The Great Gatsby
+4. The Picture of Dorian Gray
+5. Dracula
+6. The Catcher in the Rye
+7. The Unbearable Lightness of Being
+8. The Stand
+9. The Lord of the Rings
+10. The Maze Runner
+11. The Giver
+12. Crime and Punishment
+13. The Scarlet Letter
+14. The Phantom of the Opera
+15. The Southern Vampire Mysteries
+16. The House of Mirth
+17. The Time Traveler's Wife
+18. The Chronicles of Narnia: Prince Caspian
+19. The Host (novel)
+20. Twilight (series)
+21. Vampire Academy (novel)
+22. The Lost Books (novel series)
+23. The City of Ember
+24. The Tenant of Wildfell Hall
+25. The Outsiders (novel)
+26. The Lord of the Rings
+27. The Silmarillion
+28. The Rapture (novel)
+29. The City of Ember
+30. The Maze Runner
+31. The Chronicles of Narnia: Prince Caspian
+32. The Host (novel)
+33. Twilight (series)
+34. Vampire Academy (novel)
+35. The Lost Books (novel series)
+36. The Tenant of Wildfell Hall
+37. The Outsiders (novel)
+38. The Lord of the Rings
+39. The Silmarillion
+40. The Rapture (novel)
+41. The City of Ember
+42. The Maze Runner
+43. The Chronicles of Narnia: Prince Caspian
+44. The Host (novel)
+45. Twilight (series)
+46. Vampire Academy (novel)
+47. The Lost Books (novel series)
+48. The Tenant of Wildfell Hall
+49. The Outsiders (novel)
+50. The Lord of the Rings

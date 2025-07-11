@@ -1,0 +1,54 @@
+Based on user 1191's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Michael Jackson
+2. Lady Gaga
+3. Eminem
+4. Coldplay
+5. Green Day
+6. Rihanna
+7. Katy Perry
+8. Adele
+9. Taylor Swift
+10. David Bowie
+11. Elton John
+12. Madonna
+13. Pink Floyd
+14. The Rolling Stones
+15. Prince
+16. Aerosmith
+17. The Who
+18. Led Zeppelin
+19. AC/DC
+20. Jimi Hendrix
+21. The Chemical Brothers
+22. Depeche Mode
+23. The Prodigy
+24. Moby
+25. Blondie
+26. The Killers
+27. Genesis
+28. Def Leppard
+29. Bon Jovi
+30. ZZ Top
+31. The Future Sound of London
+32. Erasure
+33. Eurythmics
+34. Heart
+35. Black Eyed Peas
+36. a-ha
+37. Marilyn Manson
+38. Eric Clapton
+39. Sade
+40. Alicia Keys
+41. Beyoncé
+42. Christina Aguilera
+43. Kelly Clarkson
+44. Shakira
+45. Nelly Furtado
+46. R.E.M.
+47. Bruce Springsteen
+48. Robbie Williams
+49. Dido
+50. Lily Allen
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

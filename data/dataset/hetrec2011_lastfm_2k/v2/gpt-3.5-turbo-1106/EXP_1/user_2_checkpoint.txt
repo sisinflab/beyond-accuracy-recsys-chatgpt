@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Massive Attack
+2. The Chemical Brothers
+3. Morcheeba
+4. Zero 7
+5. Goldfrapp
+6. Thievery Corporation
+7. Air
+8. Hooverphonic
+9. Daft Punk
+10. Portishead
+11. Röyksopp
+12. Moby
+13. Enigma
+14. New Order
+15. Talk Talk
+16. Coldplay
+17. Faithless
+18. Madonna
+19. Dido
+20. Depeche Mode
+21. Camouflage
+22. Electronic
+23. Groove Armada
+24. Cut Copy
+25. Ladytron
+26. Little Dragon
+27. Hot Chip
+28. Chvrches
+29. The xx
+30. London Grammar
+31. Lana Del Rey
+32. Florence + The Machine
+33. Sia
+34. Robyn
+35. La Roux
+36. Grimes
+37. Lykke Li
+38. Bat for Lashes
+39. Santigold
+40. Chairlift
+41. Purity Ring
+42. FKA twigs
+43. Haim
+44. Tove Lo
+45. Charli XCX
+46. Marina and the Diamonds
+47. Lorde
+48. Ellie Goulding
+49. Zola Jesus
+50. Banks
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands.

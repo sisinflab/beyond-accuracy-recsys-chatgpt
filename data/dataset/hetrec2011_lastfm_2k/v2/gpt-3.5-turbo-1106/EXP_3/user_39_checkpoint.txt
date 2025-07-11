@@ -1,0 +1,52 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Cradle of Filth
+2. Dimmu Borgir
+3. Arch Enemy
+4. Megadeth
+5. Death
+6. In Flames
+7. Moonspell
+8. Pain
+9. Vader
+10. Korpiklaani
+11. Children of Bodom
+12. Machine Head
+13. Black Sabbath
+14. Metallica
+15. Judas Priest
+16. Motörhead
+17. Bloodbath
+18. Slipknot
+19. Lamb of God
+20. Cannibal Corpse
+21. Paradise Lost
+22. Sepultura
+23. Immortal
+24. Slayer
+25. Kreator
+26. Sodom
+27. :wumpscut:
+28. Portishead
+29. Pantera
+30. Overkill
+31. Rage Against the Machine
+32. Trivium
+33. Godsmack
+34. Misfits
+35. Assemblage 23
+36. The Dillinger Escape Plan
+37. Disturbed
+38. Hatebreed
+39. Annihilator
+40. Stone Sour
+41. Blind Guardian
+42. T. Rex
+43. Venom
+44. Exodus
+45. Killing Joke
+46. MF DOOM
+47. Ramones
+48. Twisted Sister
+49. Ария
+50. Caliban

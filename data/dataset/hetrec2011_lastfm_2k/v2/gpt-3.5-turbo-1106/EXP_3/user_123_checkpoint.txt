@@ -1,0 +1,54 @@
+Based on user 123's preferences, here are the top 50 recommendations for them:
+
+1. Radiohead
+2. The Killers
+3. MGMT
+4. Arctic Monkeys
+5. Muse
+6. The Beatles
+7. Sigur Rós
+8. Belle and Sebastian
+9. LCD Soundsystem
+10. Justice
+11. Massive Attack
+12. Blur
+13. Oasis
+14. Green Day
+15. System of a Down
+16. The Doors
+17. Johnny Cash
+18. Jeff Buckley
+19. David Bowie
+20. Morrissey
+21. Alice Cooper
+22. The Album Leaf
+23. Crystal Castles
+24. Metric
+25. Air
+26. Aphex Twin
+27. Digitalism
+28. Pendulum
+29. Red Hot Chili Peppers
+30. Kings of Leon
+31. Kasabian
+32. Placebo
+33. The Veronicas
+34. Travis
+35. Funeral for a Friend
+36. Yann Tiersen
+37. Silverchair
+38. Los Hermanos
+39. Chico Buarque
+40. Björk
+41. Armin van Buuren
+42. Moby
+43. Sade
+44. Avril Lavigne
+45. Paramore
+46. Hey Monday
+47. Kid Cudi
+48. Tiziano Ferro
+49. The Prodigy
+50. Daft Punk
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

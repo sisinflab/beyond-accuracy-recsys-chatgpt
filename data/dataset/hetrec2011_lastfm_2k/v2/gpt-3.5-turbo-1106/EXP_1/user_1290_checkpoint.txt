@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Regina Spektor
+2. Cat Power
+3. Jenny Lewis
+4. Ingrid Michaelson
+5. Ani DiFranco
+6. Tegan and Sara
+7. Norah Jones
+8. PJ Harvey
+9. Neko Case
+10. Liz Phair
+11. Kate Nash
+12. Florence + The Machine
+13. Haim
+14. St. Vincent
+15. Laura Marling
+16. Bat for Lashes
+17. The Cardigans
+18. KT Tunstall
+19. Lorde
+20. Halsey
+21. Marina and the Diamonds
+22. Mitski
+23. Phoebe Bridgers
+24. Sleater-Kinney
+25. Alanis Morissette
+26. Tori Amos
+27. Imogen Heap
+28. A Fine Frenzy
+29. Rilo Kiley
+30. David Bowie
+31. Sia
+32. Sara Bareilles
+33. Sheryl Crow
+34. Sarah McLachlan
+35. Feist
+36. Fiona Apple
+37. Joni Mitchell
+38. Carole King
+39. Tracy Chapman
+40. Janis Joplin
+41. Patti Smith
+42. Joan Baez
+43. Emmylou Harris
+44. Linda Ronstadt
+45. Bonnie Raitt
+46. Dolly Parton
+47. Lucinda Williams
+48. Brandi Carlile
+49. Indigo Girls
+50. Dixie Chicks
+
+These recommendations are based on the user's liking of similar artists and genres.

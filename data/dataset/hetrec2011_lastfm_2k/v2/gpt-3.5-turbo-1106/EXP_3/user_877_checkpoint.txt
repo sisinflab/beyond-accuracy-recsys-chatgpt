@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 877:
+
+1. Metallica
+2. Slayer
+3. Megadeth
+4. Anthrax
+5. Exodus
+6. Testament
+7. Kreator
+8. Overkill
+9. Death
+10. Sepultura
+11. Cannibal Corpse
+12. Pantera
+13. Iron Maiden
+14. Judas Priest
+15. Saxon
+16. Venom
+17. Destruction
+18. Helloween
+19. HammerFall
+20. Black Sabbath
+21. AC/DC
+22. Led Zeppelin
+23. Dream Theater
+24. Alestorm
+25. Amon Amarth
+26. Bathory
+27. Iced Earth
+28. Queensrÿche
+29. Rhapsody of Fire
+30. Blind Guardian
+31. Immortal
+32. Misfits
+33. System of a Down
+34. In Flames
+35. Children of Bodom
+36. Slipknot
+37. Metallica
+38. Deep Purple
+39. The Rolling Stones
+40. Van Halen
+41. Nirvana
+42. Guns N' Roses
+43. Pink Floyd
+44. The Beatles
+45. Motörhead
+46. Annihilator
+47. T. Rex
+48. Municipal Waste
+49. Napalm Death
+50. Sodom
+
+These recommendations are based on the user's existing preferences and are tailored to their specific taste in music.

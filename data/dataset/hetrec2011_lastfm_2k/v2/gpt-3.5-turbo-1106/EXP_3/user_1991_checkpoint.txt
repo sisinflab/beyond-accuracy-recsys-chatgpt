@@ -1,0 +1,54 @@
+Based on user 1991's preferences, here are the top 50 recommendations for the given artists:
+
+1. Radiohead
+2. Sigur Rós
+3. The Cure
+4. Nirvana
+5. Pixies
+6. Blur
+7. David Bowie
+8. Muse
+9. Sneaker Pimps
+10. Nick Cave and the Bad Seeds
+11. Oasis
+12. Deerhunter
+13. Placebo
+14. Nine Inch Nails
+15. The Smiths
+16. A Perfect Circle
+17. Sonic Youth
+18. The Roots
+19. De La Soul
+20. Common
+21. Snoop Dogg
+22. Florence + the Machine
+23. Phoenix
+24. Metronomy
+25. IAMX
+26. Kings of Leon
+27. Cypress Hill
+28. Misfits
+29. Lupe Fiasco
+30. Nas
+31. Gang Starr
+32. Kanye West
+33. Joy Division
+34. Flying Lotus
+35. John Mayer
+36. Raekwon
+37. Beck
+38. A Tribe Called Quest
+39. Motion City Soundtrack
+40. DJ Shadow
+41. Black Flag
+42. 2Pac
+43. The Clash
+44. iamamiwhoami
+45. Tom Waits
+46. Pixies
+47. Calvin Harris
+48. Hole
+49. Aerosmith
+50. Kid Cudi
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

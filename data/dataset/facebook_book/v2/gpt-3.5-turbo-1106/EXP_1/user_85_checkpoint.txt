@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. The Alchemist by Paulo Coelho
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. Brave New World by Aldous Huxley
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Bell Jar by Sylvia Plath
+8. One Flew Over the Cuckoo's Nest by Ken Kesey
+9. The Road by Cormac McCarthy
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Stranger by Albert Camus
+12. The Sun Also Rises by Ernest Hemingway
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Grapes of Wrath by John Steinbeck
+15. East of Eden by John Steinbeck
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Idiot by Fyodor Dostoevsky
+19. The Master and Margarita by Mikhail Bulgakov
+20. Lolita by Vladimir Nabokov
+21. Pale Fire by Vladimir Nabokov
+22. The Trial by Franz Kafka
+23. The Metamorphosis by Franz Kafka
+24. The Plague by Albert Camus
+25. The Stranger by Harlan Coben
+26. The Book Thief by Markus Zusak
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Secret History by Donna Tartt
+30. The Goldfinch by Donna Tartt
+31. American Psycho by Bret Easton Ellis
+32. Less Than Zero by Bret Easton Ellis
+33. White Oleander by Janet Fitch
+34. The Virgin Suicides by Jeffrey Eugenides
+35. Middlesex by Jeffrey Eugenides
+36. The Handmaid's Tale by Margaret Atwood
+37. Cat's Cradle by Kurt Vonnegut
+38. Breakfast of Champions by Kurt Vonnegut
+39. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+40. The Shining by Stephen King
+41. Misery by Stephen King
+42. The Stand by Stephen King
+43. The Road by Cormac McCarthy
+44. No Country for Old Men by Cormac McCarthy
+45. Blood Meridian by Cormac McCarthy
+46. The Glass Castle by Jeannette Walls
+47. Half Broke Horses by Jeannette Walls
+48. The Lovely Bones by Alice Sebold
+49. Lucky by Alice Sebold
+50. The Help by Kathryn Stockett
+
+These recommendations are based on the user's interest in books by Chuck Palahniuk, F. Scott Fitzgerald, and Harper Lee, as well as the themes and genres of the mentioned books.

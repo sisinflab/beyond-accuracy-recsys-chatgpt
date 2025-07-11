@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Name of the Wind by Patrick Rothfuss
+2. The Lies of Locke Lamora by Scott Lynch
+3. Mistborn: The Final Empire by Brandon Sanderson
+4. The Way of Kings by Brandon Sanderson
+5. The Black Prism by Brent Weeks
+6. The Blade Itself by Joe Abercrombie
+7. The Eye of the World by Robert Jordan
+8. The Final Empire by Michael J. Sullivan
+9. The Painted Man by Peter V. Brett
+10. The Warded Man by Peter V. Brett
+11. The Magicians' Guild by Trudi Canavan
+12. The Name of the Wind by Patrick Rothfuss
+13. The Lies of Locke Lamora by Scott Lynch
+14. Mistborn: The Final Empire by Brandon Sanderson
+15. The Way of Kings by Brandon Sanderson
+16. The Black Prism by Brent Weeks
+17. The Blade Itself by Joe Abercrombie
+18. The Eye of the World by Robert Jordan
+19. The Final Empire by Michael J. Sullivan
+20. The Painted Man by Peter V. Brett
+21. The Warded Man by Peter V. Brett
+22. The Magicians' Guild by Trudi Canavan
+23. The Name of the Wind by Patrick Rothfuss
+24. The Lies of Locke Lamora by Scott Lynch
+25. Mistborn: The Final Empire by Brandon Sanderson
+26. The Way of Kings by Brandon Sanderson
+27. The Black Prism by Brent Weeks
+28. The Blade Itself by Joe Abercrombie
+29. The Eye of the World by Robert Jordan
+30. The Final Empire by Michael J. Sullivan
+31. The Painted Man by Peter V. Brett
+32. The Warded Man by Peter V. Brett
+33. The Magicians' Guild by Trudi Canavan
+34. The Name of the Wind by Patrick Rothfuss
+35. The Lies of Locke Lamora by Scott Lynch
+36. Mistborn: The Final Empire by Brandon Sanderson
+37. The Way of Kings by Brandon Sanderson
+38. The Black Prism by Brent Weeks
+39. The Blade Itself by Joe Abercrombie
+40. The Eye of the World by Robert Jordan
+41. The Final Empire by Michael J. Sullivan
+42. The Painted Man by Peter V. Brett
+43. The Warded Man by Peter V. Brett
+44. The Magicians' Guild by Trudi Canavan
+45. The Name of the Wind by Patrick Rothfuss
+46. The Lies of Locke Lamora by Scott Lynch
+47. Mistborn: The Final Empire by Brandon Sanderson
+48. The Way of Kings by Brandon Sanderson
+49. The Black Prism by Brent Weeks
+50. The Blade Itself by Joe Abercrombie
+
+These recommendations are based on the user's interest in fantasy and classic literature.

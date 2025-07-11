@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Neuromancer by William Gibson
+2. Snow Crash by Neal Stephenson
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. Fahrenheit 451 by Ray Bradbury
+5. Brave New World by Aldous Huxley
+6. 1984 by George Orwell
+7. The Martian by Andy Weir
+8. Ready Player One by Ernest Cline
+9. The Hunger Games by Suzanne Collins
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Stand by Stephen King
+13. The Left Hand of Darkness by Ursula K. Le Guin
+14. The Foundation Trilogy by Isaac Asimov
+15. Hyperion by Dan Simmons
+16. The Expanse series by James S.A. Corey
+17. The Three-Body Problem by Cixin Liu
+18. The Windup Girl by Paolo Bacigalupi
+19. The Diamond Age by Neal Stephenson
+20. The Forever War by Joe Haldeman
+21. The Dispossessed by Ursula K. Le Guin
+22. The Moon is a Harsh Mistress by Robert A. Heinlein
+23. The City & the City by China Miéville
+24. The Fifth Season by N.K. Jemisin
+25. The Quantum Thief by Hannu Rajaniemi
+26. The Culture series by Iain M. Banks
+27. The Southern Reach Trilogy by Jeff VanderMeer
+28. The Broken Earth Trilogy by N.K. Jemisin
+29. The Book of the New Sun by Gene Wolfe
+30. The Vorkosigan Saga by Lois McMaster Bujold
+31. The Long Way to a Small, Angry Planet by Becky Chambers
+32. The Left Hand of Darkness by Ursula K. Le Guin
+33. The Dispossessed by Ursula K. Le Guin
+34. The Moon is a Harsh Mistress by Robert A. Heinlein
+35. The City & the City by China Miéville
+36. The Fifth Season by N.K. Jemisin
+37. The Quantum Thief by Hannu Rajaniemi
+38. The Culture series by Iain M. Banks
+39. The Southern Reach Trilogy by Jeff VanderMeer
+40. The Broken Earth Trilogy by N.K. Jemisin
+41. The Book of the New Sun by Gene Wolfe
+42. The Vorkosigan Saga by Lois McMaster Bujold
+43. The Long Way to a Small, Angry Planet by Becky Chambers
+44. The Left Hand of Darkness by Ursula K. Le Guin
+45. The Dispossessed by Ursula K. Le Guin
+46. The Moon is a Harsh Mistress by Robert A. Heinlein
+47. The City & the City by China Miéville
+48. The Fifth Season by N.K. Jemisin
+49. The Quantum Thief by Hannu Rajaniemi
+50. The Culture series by Iain M. Banks
+
+These recommendations are based on the user's interest in science fiction, dystopian literature, and speculative fiction.

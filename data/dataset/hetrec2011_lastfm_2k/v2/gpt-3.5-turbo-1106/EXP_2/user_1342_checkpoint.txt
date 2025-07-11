@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Pink Floyd
+2. Metallica
+3. Black Sabbath
+4. Slayer
+5. King Crimson
+6. Joe Satriani
+7. David Gilmour
+8. Dire Straits
+9. Cat Stevens
+10. Norah Jones
+11. Bob Dylan
+12. Creedence Clearwater Revival
+13. Rainbow
+14. Ólafur Arnalds
+15. Manu Chao
+16. Soilwork
+17. Czesław Śpiewa
+18. Cinderella
+19. The Beatles
+20. Led Zeppelin
+21. Nirvana
+22. Iron Maiden
+23. Michael Jackson
+24. Madonna
+25. U2
+26. The Killers
+27. Muse
+28. Radiohead
+29. Coldplay
+30. Pearl Jam
+31. Nine Inch Nails
+32. System of a Down
+33. Linkin Park
+34. Avenged Sevenfold
+35. My Chemical Romance
+36. Green Day
+37. The Cure
+38. Depeche Mode
+39. Lady Gaga
+40. Christina Aguilera
+41. Rihanna
+42. Shakira
+43. Katy Perry
+44. Avril Lavigne
+45. Taylor Swift
+46. Paramore
+47. Miley Cyrus
+48. Kelly Clarkson
+49. P!nk
+50. Britney Spears
+
+This re-ranked list takes into account the user's liking for similar artists and suggests others that they might enjoy based on their preferences.

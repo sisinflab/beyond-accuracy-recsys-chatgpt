@@ -1,0 +1,54 @@
+Based on user 1001's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Rihanna
+2. Lady Gaga
+3. Beyoncé
+4. Katy Perry
+5. Mariah Carey
+6. Pink
+7. Britney Spears
+8. Miley Cyrus
+9. Selena Gomez & the Scene
+10. Taylor Swift
+11. Lady Gaga
+12. Beyoncé
+13. Katy Perry
+14. Mariah Carey
+15. Pink
+16. Britney Spears
+17. Miley Cyrus
+18. Selena Gomez & the Scene
+19. Taylor Swift
+20. Rihanna
+21. Lady Gaga
+22. Beyoncé
+23. Katy Perry
+24. Mariah Carey
+25. Pink
+26. Britney Spears
+27. Miley Cyrus
+28. Selena Gomez & the Scene
+29. Taylor Swift
+30. Rihanna
+31. Lady Gaga
+32. Beyoncé
+33. Katy Perry
+34. Mariah Carey
+35. Pink
+36. Britney Spears
+37. Miley Cyrus
+38. Selena Gomez & the Scene
+39. Taylor Swift
+40. Rihanna
+41. Lady Gaga
+42. Beyoncé
+43. Katy Perry
+44. Mariah Carey
+45. Pink
+46. Britney Spears
+47. Miley Cyrus
+48. Selena Gomez & the Scene
+49. Taylor Swift
+50. Rihanna
+
+These recommendations are based on similar artists and genres that user 1001 enjoys.

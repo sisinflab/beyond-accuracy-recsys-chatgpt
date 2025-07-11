@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Mogwai
+2. Explosions in the Sky
+3. Godspeed You! Black Emperor
+4. Russian Circles
+5. Pelican
+6. Neurosis
+7. Cult of Luna
+8. Deafheaven
+9. Mono
+10. This Will Destroy You
+11. The Cure
+12. New Order
+13. The Smiths
+14. Bauhaus
+15. Siouxsie and the Banshees
+16. Echo & the Bunnymen
+17. The Chameleons
+18. Cocteau Twins
+19. The Jesus and Mary Chain
+20. My Bloody Valentine
+21. The Psychedelic Furs
+22. The Sound
+23. The Sisters of Mercy
+24. The Mission
+25. The Birthday Party
+26. The Church
+27. The Damned
+28. The Cramps
+29. The Gun Club
+30. The Fall
+31. The Velvet Underground
+32. Television
+33. Wire
+34. Magazine
+35. Gang of Four
+36. Public Image Ltd
+37. The Pop Group
+38. The Slits
+39. The Raincoats
+40. The Au Pairs
+41. The Delta 5
+42. The Mekons
+43. The Swell Maps
+44. The Rain Parade
+45. The Dream Syndicate
+46. The Chills
+47. The Clean
+48. The Verlaines
+49. The Bats
+50. The Go-Betweens
+
+These recommendations are based on the user's liking of similar artists and genres.

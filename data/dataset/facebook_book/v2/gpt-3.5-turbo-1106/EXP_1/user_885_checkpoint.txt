@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fire by Kristin Cashore
+2. Bitterblue by Kristin Cashore
+3. Winterkeep by Kristin Cashore
+4. Jane, Unlimited by Kristin Cashore
+5. The Graceling Realm series by Kristin Cashore
+6. Son of the Shadows by Juliet Marillier
+7. Daughter of the Forest by Juliet Marillier
+8. Heart's Blood by Juliet Marillier
+9. Wildwood Dancing by Juliet Marillier
+10. Cybele's Secret by Juliet Marillier
+11. The Wicked Will Rise by Danielle Paige
+12. Yellow Brick War by Danielle Paige
+13. The End of Oz by Danielle Paige
+14. Dorothy Must Die by Danielle Paige
+15. The Wicked Years series by Gregory Maguire
+16. Confessions of an Ugly Stepsister by Gregory Maguire
+17. Mirror Mirror by Gregory Maguire
+18. Lost by Gregory Maguire
+19. The Chemist by Stephenie Meyer
+20. The Twilight Saga by Stephenie Meyer
+21. The Chemist by Stephenie Meyer
+22. The Short Second Life of Bree Tanner by Stephenie Meyer
+23. The Chemist by Stephenie Meyer
+24. The Twilight Saga by Stephenie Meyer
+25. The Mortal Instruments series by Cassandra Clare
+26. The Infernal Devices series by Cassandra Clare
+27. The Dark Artifices series by Cassandra Clare
+28. The Bane Chronicles by Cassandra Clare
+29. The Shadowhunter Chronicles by Cassandra Clare
+30. Stargirl by Jerry Spinelli
+31. Love, Stargirl by Jerry Spinelli
+32. Milkweed by Jerry Spinelli
+33. Wringer by Jerry Spinelli
+34. Maniac Magee by Jerry Spinelli
+35. The Forest of Hands and Teeth by Carrie Ryan
+36. The Dead-Tossed Waves by Carrie Ryan
+37. The Dark and Hollow Places by Carrie Ryan
+38. The Map to Everywhere by Carrie Ryan and John Parke Davis
+39. The Map to Everywhere by Carrie Ryan and John Parke Davis
+40. The Map to Everywhere by Carrie Ryan and John Parke Davis
+41. The Map to Everywhere by Carrie Ryan and John Parke Davis
+42. The Map to Everywhere by Carrie Ryan and John Parke Davis
+43. The Map to Everywhere by Carrie Ryan and John Parke Davis
+44. The Map to Everywhere by Carrie Ryan and John Parke Davis
+45. The Map to Everywhere by Carrie Ryan and John Parke Davis
+46. The Map to Everywhere by Carrie Ryan and John Parke Davis
+47. The Map to Everywhere by Carrie Ryan and John Parke Davis
+48. The Map to Everywhere by Carrie Ryan and John Parke Davis
+49. The Map to Everywhere by Carrie Ryan and John Parke Davis
+50. The Map to Everywhere by Carrie Ryan and John Parke Davis
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and dystopian novels.

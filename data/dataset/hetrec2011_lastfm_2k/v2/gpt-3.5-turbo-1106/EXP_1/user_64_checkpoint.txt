@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Michael Jackson
+2. Earth, Wind & Fire
+3. Aretha Franklin
+4. Al Green
+5. Diana Ross
+6. Chaka Khan
+7. Lionel Richie
+8. Sade
+9. Whitney Houston
+10. Luther Vandross
+11. Tina Turner
+12. James Brown
+13. Gladys Knight & The Pips
+14. Otis Redding
+15. The Temptations
+16. The Supremes
+17. Smokey Robinson & The Miracles
+18. Curtis Mayfield
+19. The Isley Brothers
+20. Bill Withers
+21. The O'Jays
+22. Marvin Gaye & Tammi Terrell
+23. The Four Tops
+24. The Spinners
+25. The Stylistics
+26. The Chi-Lites
+27. The Delfonics
+28. The Commodores
+29. The Jackson 5
+30. The Pointer Sisters
+31. The Emotions
+32. The Whispers
+33. The Gap Band
+34. Kool & The Gang
+35. The Brothers Johnson
+36. The S.O.S. Band
+37. Teena Marie
+38. Rick James
+39. The Time
+40. Cameo
+41. Parliament
+42. Funkadelic
+43. Bootsy Collins
+44. Ohio Players
+45. Average White Band
+46. Tower of Power
+47. War
+48. The Bar-Kays
+49. Rufus
+50. The Meters
+
+These recommendations are based on the user's liking of similar artists and genres.

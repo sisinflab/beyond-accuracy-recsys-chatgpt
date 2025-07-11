@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Glass (Crank, #2) by Ellen Hopkins
+2. Fallout (Crank, #3) by Ellen Hopkins
+3. Tricks (Tricks, #1) by Ellen Hopkins
+4. Identical by Ellen Hopkins
+5. Burned (Burned, #1) by Ellen Hopkins
+6. Tilt by Ellen Hopkins
+7. Perfect by Ellen Hopkins
+8. Smoke by Ellen Hopkins
+9. The You I've Never Known by Ellen Hopkins
+10. Traffick by Ellen Hopkins
+11. Cut by Patricia McCormick
+12. Sold by Patricia McCormick
+13. My Brother's Keeper by Patricia McCormick
+14. Never Fall Down by Patricia McCormick
+15. The Plot to Kill Hitler by Patricia McCormick
+16. The Dark Side of Nowhere by Neal Shusterman
+17. Impulse by Ellen Hopkins
+18. The Impossible Knife of Memory by Laurie Halse Anderson
+19. Wintergirls by Laurie Halse Anderson
+20. Speak by Laurie Halse Anderson
+21. The Pact by Jodi Picoult
+22. Nineteen Minutes by Jodi Picoult
+23. Handle with Care by Jodi Picoult
+24. Plain Truth by Jodi Picoult
+25. The Tenth Circle by Jodi Picoult
+26. I'd Tell You I Love You, But Then I'd Have to Kill You by Ally Carter
+27. Cross My Heart and Hope to Spy by Ally Carter
+28. Don't Judge a Girl by Her Cover by Ally Carter
+29. Only the Good Spy Young by Ally Carter
+30. Out of Sight, Out of Time by Ally Carter
+31. United We Spy by Ally Carter
+32. The Book Thief by Markus Zusak
+33. I Am the Messenger by Markus Zusak
+34. Bridge of Clay by Markus Zusak
+35. The Messenger by Markus Zusak
+36. The Book of Lost Things by John Connolly
+37. The Gates by John Connolly
+38. The Infernals by John Connolly
+39. Fear and Loathing in Las Vegas by Hunter S. Thompson
+40. The Rum Diary by Hunter S. Thompson
+41. Hell's Angels by Hunter S. Thompson
+42. The Proud Highway by Hunter S. Thompson
+43. Identical by Ellen Hopkins
+44. Candy by Luke Davies
+45. God of Speed by Luke Davies
+46. Isabelle the Navigator by Luke Davies
+47. The Art of Disappearing by Luke Davies
+48. The Magician's Assistant by Ann Patchett
+49. Bel Canto by Ann Patchett
+50. State of Wonder by Ann Patchett
+
+These recommendations are based on similar themes, genres, and authors to the books that user 422 likes.

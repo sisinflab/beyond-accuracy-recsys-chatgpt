@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Red Hot Chili Peppers
+3. Pearl Jam
+4. The Strokes
+5. The Killers
+6. The Cure
+7. Interpol
+8. Arcade Fire
+9. The Smiths
+10. R.E.M.
+11. Beck
+12. The Black Keys
+13. Tame Impala
+14. The Velvet Underground
+15. Joy Division
+16. Talking Heads
+17. The Flaming Lips
+18. Sonic Youth
+19. The White Stripes
+20. The Kinks
+21. The Clash
+22. David Bowie
+23. The Doors
+24. The Rolling Stones
+25. Led Zeppelin
+26. Pink Floyd
+27. Bob Dylan
+28. Bruce Springsteen
+29. Tom Petty and the Heartbreakers
+30. Neil Young & Crazy Horse
+31. Bob Marley & The Wailers
+32. The Band
+33. The Byrds
+34. Creedence Clearwater Revival
+35. The Allman Brothers Band
+36. Lynyrd Skynyrd
+37. The Eagles
+38. Fleetwood Mac
+39. Steely Dan
+40. The Doobie Brothers
+41. Santana
+42. The Grateful Dead
+43. The Who
+44. Cream
+45. Jimi Hendrix
+46. The Yardbirds
+47. The Animals
+48. The Zombies
+49. The Turtles
+50. The Monkees
+
+These recommendations are based on the user's liking of similar artists and genres.

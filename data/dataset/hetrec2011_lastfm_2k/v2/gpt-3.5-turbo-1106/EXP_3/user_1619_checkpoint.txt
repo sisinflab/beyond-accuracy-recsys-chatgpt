@@ -1,0 +1,54 @@
+Based on user 1619's preferences, here are the top-50 recommendations for the given artists:
+
+1. Marilyn Manson
+2. In This Moment
+3. Blutengel
+4. Children of Bodom
+5. In Extremo
+6. Eisbrecher
+7. Unheilig
+8. Placebo
+9. KMFDM
+10. The Rasmus
+11. Apocalyptica
+12. Combichrist
+13. Arch Enemy
+14. Metallica
+15. The 69 Eyes
+16. Lacrimosa
+17. Escape The Fate
+18. Mötley Crüe
+19. Nirvana
+20. Three Days Grace
+21. My Chemical Romance
+22. Panic! At the Disco
+23. The Killers
+24. Muse
+25. Paramore
+26. Red
+27. Haste the Day
+28. All Time Low
+29. Saosin
+30. New Order
+31. Tears for Fears
+32. Duran Duran
+33. Simple Plan
+34. The Offspring
+35. Alphaville
+36. Duffy
+37. And One
+38. Hurts
+39. Michael Jackson
+40. Britney Spears
+41. Beyoncé
+42. Lady Gaga
+43. Katy Perry
+44. 30 Seconds to Mars
+45. Maroon 5
+46. The Prodigy
+47. Depeche Mode
+48. Linkin Park
+49. The Cure
+50. The Smashing Pumpkins
+
+These recommendations are based on similar genres and artists liked by user 1619.

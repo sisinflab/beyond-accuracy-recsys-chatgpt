@@ -1,0 +1,54 @@
+Based on user 928's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. Radiohead
+2. Björk
+3. Daft Punk
+4. Nine Inch Nails
+5. Portishead
+6. The Beatles
+7. Muse
+8. The Killers
+9. Coldplay
+10. Pink Floyd
+11. Nirvana
+12. Metallica
+13. Led Zeppelin
+14. The Cure
+15. Depeche Mode
+16. Blur
+17. Placebo
+18. The Future Sound of London
+19. Orbital
+20. Amon Tobin
+21. The Flashbulb
+22. Telefon Tel Aviv
+23. Kettel
+24. Prefuse 73
+25. Four Tet
+26. Apparat
+27. Bola
+28. múm
+29. Air
+30. Tycho
+31. Aphex Twin
+32. Squarepusher
+33. Plaid
+34. Venetian Snares
+35. AFX
+36. Britney Spears
+37. Lady Gaga
+38. Madonna
+39. Rihanna
+40. Shakira
+41. Christina Aguilera
+42. Beyoncé
+43. U2
+44. 30 Seconds to Mars
+45. Kylie Minogue
+46. Katy Perry
+47. Avril Lavigne
+48. Taylor Swift
+49. Evanescence
+50. Paramore
+
+This re-ranked list is based on the similarity of the recommended artists to the ones that user 928 likes.

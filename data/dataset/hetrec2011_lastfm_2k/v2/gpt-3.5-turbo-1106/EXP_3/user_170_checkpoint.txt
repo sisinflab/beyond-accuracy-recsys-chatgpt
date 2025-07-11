@@ -1,0 +1,54 @@
+Based on user 170's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Nirvana
+2. System of a Down
+3. Guns N' Roses
+4. Nine Inch Nails
+5. Led Zeppelin
+6. Deep Purple
+7. Black Sabbath
+8. Pink Floyd
+9. Metallica
+10. Alice in Chains
+11. Tool
+12. Slayer
+13. Megadeth
+14. Pantera
+15. Faith No More
+16. Deftones
+17. In Flames
+18. Soulfly
+19. Machine Head
+20. Meshuggah
+21. Type O Negative
+22. Black Label Society
+23. Stone Sour
+24. Korn
+25. Slipknot
+26. Killswitch Engage
+27. Architects
+28. Dream Theater
+29. The Jimi Hendrix Experience
+30. Red Hot Chili Peppers
+31. Incubus
+32. Alexisonfire
+33. The Prodigy
+34. Radiohead
+35. The Mars Volta
+36. Pearl Jam
+37. The Dillinger Escape Plan
+38. Enter Shikari
+39. Explosions in the Sky
+40. Architects
+41. Hypocrisy
+42. Bloodbath
+43. Dimmu Borgir
+44. Soilwork
+45. Arch Enemy
+46. Death
+47. Municipal Waste
+48. Interpol
+49. Godsmack
+50. Stratovarius
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for them to explore.

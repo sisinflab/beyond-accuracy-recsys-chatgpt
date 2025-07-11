@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. Pride and Prejudice by Jane Austen
+5. The Catcher in the Rye by J.D. Salinger
+6. Brave New World by Aldous Huxley
+7. The Lord of the Rings by J.R.R. Tolkien
+8. Crime and Punishment by Fyodor Dostoevsky
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Grapes of Wrath by John Steinbeck
+11. Moby-Dick by Herman Melville
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Brothers Karamazov by Fyodor Dostoevsky
+14. The Odyssey by Homer
+15. The Divine Comedy by Dante Alighieri
+16. War and Peace by Leo Tolstoy
+17. The Stranger by Albert Camus
+18. The Road by Cormac McCarthy
+19. The Sun Also Rises by Ernest Hemingway
+20. The Bell Jar by Sylvia Plath
+21. Slaughterhouse-Five by Kurt Vonnegut
+22. The Alchemist by Paulo Coelho
+23. The Kite Runner by Khaled Hosseini
+24. The Handmaid's Tale by Margaret Atwood
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The Secret History by Donna Tartt
+27. The Shadow of the Wind by Carlos Ruiz Zafón
+28. The Name of the Wind by Patrick Rothfuss
+29. The Night Circus by Erin Morgenstern
+30. The Goldfinch by Donna Tartt
+31. The Book Thief by Markus Zusak
+32. The Martian by Andy Weir
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Help by Kathryn Stockett
+35. The Hunger Games by Suzanne Collins
+36. The Fault in Our Stars by John Green
+37. The Girl on the Train by Paula Hawkins
+38. The Da Vinci Code by Dan Brown
+39. The Girl with the Pearl Earring by Tracy Chevalier
+40. The Time Traveler's Wife by Audrey Niffenegger
+41. The Lovely Bones by Alice Sebold
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Glass Castle by Jeannette Walls
+44. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+45. The Color Purple by Alice Walker
+46. The Joy Luck Club by Amy Tan
+47. The Poisonwood Bible by Barbara Kingsolver
+48. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+49. The House on Mango Street by Sandra Cisneros
+50. The Namesake by Jhumpa Lahiri
+
+These recommendations are based on the user's interest in a variety of genres and authors.

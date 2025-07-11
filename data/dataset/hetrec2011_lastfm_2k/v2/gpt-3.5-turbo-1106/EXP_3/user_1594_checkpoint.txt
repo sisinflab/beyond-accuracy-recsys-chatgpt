@@ -1,0 +1,54 @@
+Based on user 1594's preferences, here are the top-50 recommendations for the given artists:
+
+1. The Doors
+2. The Who
+3. Led Zeppelin
+4. Queen
+5. The Rolling Stones
+6. Van Morrison
+7. Bruce Springsteen
+8. Panic! At the Disco
+9. Gorillaz
+10. Muse
+11. The Beach Boys
+12. The Kinks
+13. Oasis
+14. Blur
+15. My Chemical Romance
+16. Alice in Chains
+17. The Cardigans
+18. The Byrds
+19. Wilco
+20. Belle and Sebastian
+21. Iron Maiden
+22. Megadeth
+23. Scorpions
+24. Guns N' Roses
+25. Van Halen
+26. Flyleaf
+27. Alesana
+28. Beastie Boys
+29. Brand New
+30. Demi Lovato
+31. Eminem
+32. Johann Sebastian Bach
+33. Leonard Cohen
+34. Eric Clapton
+35. Bob Dylan
+36. Dave Matthews Band
+37. Eagles
+38. Journey
+39. Rammstein
+40. Andrew Lloyd Webber
+41. The Byrds
+42. Chiodos
+43. Jonathan Larson
+44. Lady Gaga
+45. Deftones
+46. Regina Spektor
+47. Jonas Brothers
+48. Glee Cast
+49. Luis Miguel
+50. Simon & Garfunkel
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

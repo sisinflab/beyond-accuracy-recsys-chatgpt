@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 1554:
+
+1. The Beatles
+2. Pink Floyd
+3. Jimi Hendrix
+4. The Who
+5. The Velvet Underground
+6. Ramones
+7. The Kinks
+8. Lou Reed
+9. David Bowie
+10. The Clash
+11. Led Zeppelin
+12. Santana
+13. Creedence Clearwater Revival
+14. The White Stripes
+15. The Yardbirds
+16. Elvis Presley
+17. The Animals
+18. Frank Zappa
+19. Arctic Monkeys
+20. Janis Joplin
+21. The Jimi Hendrix Experience
+22. Jefferson Airplane
+23. The Mamas & The Papas
+24. Amy Winehouse
+25. John Lennon
+26. Johnny Cash
+27. Nirvana
+28. Metallica
+29. Pearl Jam
+30. Iron Maiden
+31. The Killers
+32. Muse
+33. Radiohead
+34. U2
+35. Placebo
+36. Duran Duran
+37. Coldplay
+38. Blur
+39. 30 Seconds to Mars
+40. Ke$ha
+41. Katy Perry
+42. Lady Gaga
+43. Madonna
+44. Rihanna
+45. Christina Aguilera
+46. Britney Spears
+47. Avril Lavigne
+48. Taylor Swift
+49. Paramore
+50. Evanescence
+
+These recommendations are based on the user's liking for similar artists and their music preferences.

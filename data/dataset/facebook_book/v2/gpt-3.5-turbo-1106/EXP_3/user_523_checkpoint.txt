@@ -1,0 +1,52 @@
+Based on user 523's preferences, here is a re-ranked list of books into a top-50 recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Hobbit by J.R.R. Tolkien
+3. Dune (novel) by Frank Herbert
+4. Ender's Game by Orson Scott Card
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. A Tale of Two Cities by Charles Dickens
+8. The Silence of the Lambs (novel) by Thomas Harris
+9. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+10. The Kite Runner by Khaled Hosseini
+11. Franny and Zooey by J.D. Salinger
+12. The Man in the High Castle by Philip K. Dick
+13. Neverwhere (novel) by Neil Gaiman
+14. The Little Prince by Antoine de Saint-Exupéry
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Stars My Destination by Alfred Bester
+17. The Belgariad by David Eddings
+18. The Dresden Files by Jim Butcher
+19. The Taming of the Shrew by William Shakespeare
+20. The Sandman (book) by Neil Gaiman
+21. The Watchmen (novel) by Alan Moore
+22. The Stainless Steel Rat by Harry Harrison
+23. The Autobiography of Malcolm X by Malcolm X
+24. The Good Earth by Pearl S. Buck
+25. Inferno (Dante) by Dante Alighieri
+26. The Solitaire Mystery by Jostein Gaarder
+27. A Midsummer Night's Dream by William Shakespeare
+28. The Little Prince by Antoine de Saint-Exupéry
+29. The Silence of the Lambs (novel) by Thomas Harris
+30. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+31. The Kite Runner by Khaled Hosseini
+32. Franny and Zooey by J.D. Salinger
+33. The Man in the High Castle by Philip K. Dick
+34. Neverwhere (novel) by Neil Gaiman
+35. The Little Prince by Antoine de Saint-Exupéry
+36. The Old Man and the Sea by Ernest Hemingway
+37. The Stars My Destination by Alfred Bester
+38. The Belgariad by David Eddings
+39. The Dresden Files by Jim Butcher
+40. The Taming of the Shrew by William Shakespeare
+41. The Sandman (book) by Neil Gaiman
+42. The Watchmen (novel) by Alan Moore
+43. The Stainless Steel Rat by Harry Harrison
+44. The Autobiography of Malcolm X by Malcolm X
+45. The Good Earth by Pearl S. Buck
+46. Inferno (Dante) by Dante Alighieri
+47. The Solitaire Mystery by Jostein Gaarder
+48. A Midsummer Night's Dream by William Shakespeare
+49. The Little Prince by Antoine de Saint-Exupéry
+50. The Silence of the Lambs (novel) by Thomas Harris

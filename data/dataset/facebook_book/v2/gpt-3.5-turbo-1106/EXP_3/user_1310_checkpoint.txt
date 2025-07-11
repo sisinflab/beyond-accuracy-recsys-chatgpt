@@ -1,0 +1,54 @@
+Based on user 1310's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. Only Revolutions by Mark Z. Danielewski
+3. VALIS by Philip K. Dick
+4. Flow My Tears, the Policeman Said by Philip K. Dick
+5. The Handmaid's Tale
+6. A Separate Peace
+7. Slaughterhouse-Five
+8. War and Peace
+9. Inferno (Dante)
+10. A Tale of Two Cities
+11. The Lost World (Crichton novel)
+12. The Lord of the Rings
+13. The Hobbit
+14. Ender's Game
+15. Frankenstein
+16. Great Expectations by Charles Dickens
+17. A Scanner Darkly by Philip K. Dick
+18. The Cosmic Serpent by Jeremy Narby
+19. The Crow (novel) by Alison Croggon
+20. Glass (novel) by Ellen Hopkins
+21. The Zombie Survival Guide
+22. Les Misérables
+23. Angels & Demons
+24. The Art of Seduction
+25. Lolita
+26. The Boy in the Striped Pyjamas
+27. Wuthering Heights
+28. The Legend of Sleepy Hollow
+29. The Grapes of Wrath
+30. Dracula
+31. Oliver Twist
+32. The Mayor of Casterbridge
+33. Quran
+34. Bhagavad Gita
+35. Black Beauty
+36. Divine Comedy
+37. The Prince
+38. Skeleton Creek (novel)
+39. The Good Earth
+40. Jane Eyre
+41. Candide
+42. Cirque du Freak
+43. Civil Disobedience (Thoreau)
+44. Inkspell
+45. Inkheart
+46. Love Story (novel)
+47. Tess of the d'Urbervilles
+48. Ulysses (novel)
+49. The Mists of Avalon
+50. The Chosen (Potok novel)
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Eric Clapton
+2. John Lee Hooker
+3. Etta James
+4. Jimi Hendrix
+5. The Rolling Stones
+6. Tina Turner
+7. Fleetwood Mac
+8. Chuck Berry
+9. The Allman Brothers Band
+10. Otis Redding
+11. Cream
+12. The Doors
+13. Bonnie Raitt
+14. Bob Dylan
+15. Led Zeppelin
+16. The Beatles
+17. Nina Simone
+18. Elvis Presley
+19. Aretha Franklin
+20. Janis Joplin
+21. Buddy Guy
+22. Muddy Waters
+23. Ray Charles
+24. B.B. King
+25. Stevie Ray Vaughan
+26. Louis Armstrong
+27. Céline Dion
+28. U2
+29. Electric Light Orchestra
+30. Howlin' Wolf
+31. Stevie Ray Vaughan and Double Trouble
+32. Paul McCartney & Wings
+33. Sam Cooke
+34. Marvin Gaye
+35. Al Green
+36. Diana Ross
+37. The Temptations
+38. The Supremes
+39. Gladys Knight & The Pips
+40. The Four Tops
+41. The Isley Brothers
+42. The Jackson 5
+43. The Miracles
+44. The Marvelettes
+45. The Contours
+46. The Shirelles
+47. The Ronettes
+48. The Crystals
+49. The Chiffons
+50. The Shangri-Las
+
+These recommendations are based on the user's liking of blues, rock, and soul artists, and include similar artists and bands that they may enjoy based on their preferences.

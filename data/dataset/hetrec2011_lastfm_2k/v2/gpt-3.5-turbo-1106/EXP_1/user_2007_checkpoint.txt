@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nirvana
+2. Red Hot Chili Peppers
+3. Foo Fighters
+4. Green Day
+5. The Offspring
+6. Rancid
+7. System of a Down
+8. Nine Inch Nails
+9. Tool
+10. Rage Against the Machine
+11. Queens of the Stone Age
+12. The Smashing Pumpkins
+13. Pixies
+14. The White Stripes
+15. Arctic Monkeys
+16. The Strokes
+17. Muse
+18. The Killers
+19. Interpol
+20. The Black Keys
+21. Modest Mouse
+22. Vampire Weekend
+23. Arcade Fire
+24. Tame Impala
+25. The National
+26. LCD Soundsystem
+27. Gorillaz
+28. MGMT
+29. Phoenix
+30. Foster the People
+31. Cage the Elephant
+32. Kings of Leon
+33. The Raconteurs
+34. The Hives
+35. Yeah Yeah Yeahs
+36. The Libertines
+37. The Vines
+38. Franz Ferdinand
+39. Bloc Party
+40. The Kooks
+41. The Bravery
+42. The Wombats
+43. Two Door Cinema Club
+44. Foster the People
+45. Passion Pit
+46. The Vaccines
+47. The 1975
+48. Wolf Alice
+49. Catfish and the Bottlemen
+50. Royal Blood
+
+These recommendations are based on the user's liking of rock, alternative, and electronic music, and include a mix of well-known and emerging artists within those genres.

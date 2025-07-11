@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. AFI
+2. Breaking Benjamin
+3. Three Days Grace
+4. Papa Roach
+5. 30 Seconds to Mars
+6. Evanescence
+7. Seether
+8. Chevelle
+9. Shinedown
+10. The Used
+11. Taking Back Sunday
+12. Story of the Year
+13. A Day to Remember
+14. All Time Low
+15. The Red Jumpsuit Apparatus
+16. Silverstein
+17. Hawthorne Heights
+18. Senses Fail
+19. The All-American Rejects
+20. Yellowcard
+21. Simple Plan
+22. New Found Glory
+23. Sum 41
+24. Jimmy Eat World
+25. Rise Against
+26. Thrice
+27. Dashboard Confessional
+28. The Starting Line
+29. Motion City Soundtrack
+30. The Ataris
+31. Finch
+32. Thursday
+33. The Get Up Kids
+34. Saves the Day
+35. Brand New
+36. The Early November
+37. Something Corporate
+38. The Academy Is...
+39. The Maine
+40. Mayday Parade
+41. We the Kings
+42. Boys Like Girls
+43. Cute Is What We Aim For
+44. The Cab
+45. Forever the Sickest Kids
+46. Metro Station
+47. The Summer Set
+48. Hey Monday
+49. We Are the In Crowd
+50. Set It Off
+
+These recommendations are based on the user's liking of similar artists and genres.

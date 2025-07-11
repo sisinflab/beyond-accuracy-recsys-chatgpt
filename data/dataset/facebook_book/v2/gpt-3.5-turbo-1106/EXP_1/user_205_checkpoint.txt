@@ -1,0 +1,54 @@
+Based on the preferences of user 205, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Great Gatsby by F. Scott Fitzgerald
+3. 1984 by George Orwell
+4. Pride and Prejudice by Jane Austen
+5. The Catcher in the Rye by J.D. Salinger
+6. The Alchemist by Paulo Coelho
+7. The Hunger Games by Suzanne Collins
+8. The Book Thief by Markus Zusak
+9. The Kite Runner by Khaled Hosseini
+10. The Da Vinci Code by Dan Brown
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Help by Kathryn Stockett
+13. Gone Girl by Gillian Flynn
+14. The Night Circus by Erin Morgenstern
+15. The Goldfinch by Donna Tartt
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Lovely Bones by Alice Sebold
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Fault in Our Stars by John Green
+20. The Maze Runner by James Dashner
+21. The Giver by Lois Lowry
+22. The Lightning Thief by Rick Riordan
+23. The Hobbit by J.R.R. Tolkien
+24. The Chronicles of Narnia by C.S. Lewis
+25. The Lord of the Rings by J.R.R. Tolkien
+26. The Harry Potter series by J.K. Rowling
+27. The Hunger Games series by Suzanne Collins
+28. The Divergent series by Veronica Roth
+29. The Maze Runner series by James Dashner
+30. The Percy Jackson series by Rick Riordan
+31. The Twilight series by Stephenie Meyer
+32. The Mortal Instruments series by Cassandra Clare
+33. The Infernal Devices series by Cassandra Clare
+34. The Selection series by Kiera Cass
+35. The Lunar Chronicles series by Marissa Meyer
+36. The Grisha Trilogy series by Leigh Bardugo
+37. The Red Queen series by Victoria Aveyard
+38. The Throne of Glass series by Sarah J. Maas
+39. The Six of Crows series by Leigh Bardugo
+40. The Shadow and Bone series by Leigh Bardugo
+41. The Folk of the Air series by Holly Black
+42. The Court of Thorns and Roses series by Sarah J. Maas
+43. The Daughter of Smoke and Bone series by Laini Taylor
+44. The Shatter Me series by Tahereh Mafi
+45. The Legend series by Marie Lu
+46. The Darkest Minds series by Alexandra Bracken
+47. The Uglies series by Scott Westerfeld
+48. The Delirium series by Lauren Oliver
+49. The Matched series by Ally Condie
+50. The Chaos Walking series by Patrick Ness
+
+These recommendations are based on the genres and themes of the books that user 205 likes.

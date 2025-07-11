@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Diary of a Wimpy Kid: Dog Days by Jeff Kinney
+2. The Lightning Thief by Rick Riordan
+3. The Hunger Games by Suzanne Collins
+4. Percy Jackson and the Olympians: The Titan's Curse by Rick Riordan
+5. The Maze Runner by James Dashner
+6. Divergent by Veronica Roth
+7. The Giver by Lois Lowry
+8. The Fault in Our Stars by John Green
+9. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+10. The Alchemyst by Michael Scott
+11. The Hobbit by J.R.R. Tolkien
+12. The Outsiders by S.E. Hinton
+13. The Secret Garden by Frances Hodgson Burnett
+14. Holes by Louis Sachar
+15. Matilda by Roald Dahl
+16. The Perks of Being a Wallflower by Stephen Chbosky
+17. The Sisterhood of the Traveling Pants by Ann Brashares
+18. The Princess Diaries by Meg Cabot
+19. Inkheart by Cornelia Funke
+20. The Lightning Thief by Rick Riordan
+21. The Hunger Games by Suzanne Collins
+22. Percy Jackson and the Olympians: The Titan's Curse by Rick Riordan
+23. The Maze Runner by James Dashner
+24. Divergent by Veronica Roth
+25. The Giver by Lois Lowry
+26. The Fault in Our Stars by John Green
+27. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+28. The Alchemyst by Michael Scott
+29. The Hobbit by J.R.R. Tolkien
+30. The Outsiders by S.E. Hinton
+31. The Secret Garden by Frances Hodgson Burnett
+32. Holes by Louis Sachar
+33. Matilda by Roald Dahl
+34. The Perks of Being a Wallflower by Stephen Chbosky
+35. The Sisterhood of the Traveling Pants by Ann Brashares
+36. The Princess Diaries by Meg Cabot
+37. Inkheart by Cornelia Funke
+38. The Lightning Thief by Rick Riordan
+39. The Hunger Games by Suzanne Collins
+40. Percy Jackson and the Olympians: The Titan's Curse by Rick Riordan
+41. The Maze Runner by James Dashner
+42. Divergent by Veronica Roth
+43. The Giver by Lois Lowry
+44. The Fault in Our Stars by John Green
+45. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis
+46. The Alchemyst by Michael Scott
+47. The Hobbit by J.R.R. Tolkien
+48. The Outsiders by S.E. Hinton
+49. The Secret Garden by Frances Hodgson Burnett
+50. Holes by Louis Sachar
+
+These recommendations are based on the user's interest in fantasy, adventure, and coming-of-age novels.

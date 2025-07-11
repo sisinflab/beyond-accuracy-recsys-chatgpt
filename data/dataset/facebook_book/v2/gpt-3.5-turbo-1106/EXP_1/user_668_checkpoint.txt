@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Giver by Lois Lowry
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. The Hunger Games by Suzanne Collins
+5. The Book Thief by Markus Zusak
+6. The Kite Runner by Khaled Hosseini
+7. The Fault in Our Stars by John Green
+8. The Great Gatsby by F. Scott Fitzgerald
+9. Animal Farm by George Orwell
+10. Lord of the Flies by William Golding
+11. The Hobbit by J.R.R. Tolkien
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Da Vinci Code by Dan Brown
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Road by Cormac McCarthy
+16. The Maze Runner by James Dashner
+17. Divergent by Veronica Roth
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Help by Kathryn Stockett
+20. The Lovely Bones by Alice Sebold
+21. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+22. The Night Circus by Erin Morgenstern
+23. The Goldfinch by Donna Tartt
+24. The Handmaid's Tale by Margaret Atwood
+25. The Bell Jar by Sylvia Plath
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Count of Monte Cristo by Alexandre Dumas
+28. The Three Musketeers by Alexandre Dumas
+29. The Name of the Wind by Patrick Rothfuss
+30. The Shadow of the Wind by Carlos Ruiz Zafón
+31. The Nightingale by Kristin Hannah
+32. The Light Between Oceans by M.L. Stedman
+33. The Time Traveler's Wife by Audrey Niffenegger
+34. The Glass Castle by Jeannette Walls
+35. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+36. The Poisonwood Bible by Barbara Kingsolver
+37. The Color Purple by Alice Walker
+38. The Joy Luck Club by Amy Tan
+39. The House on Mango Street by Sandra Cisneros
+40. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+41. The Namesake by Jhumpa Lahiri
+42. The God of Small Things by Arundhati Roy
+43. The White Tiger by Aravind Adiga
+44. The Inheritance of Loss by Kiran Desai
+45. The Lowland by Jhumpa Lahiri
+46. The Reluctant Fundamentalist by Mohsin Hamid
+47. The Ministry of Utmost Happiness by Arundhati Roy
+48. The Alchemist by Paulo Coelho
+49. The Master and Margarita by Mikhail Bulgakov
+50. The Prince by Niccolò Machiavelli
+
+These recommendations are based on the user's interest in fiction, adventure, and classic literature.

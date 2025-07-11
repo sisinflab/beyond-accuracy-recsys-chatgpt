@@ -1,0 +1,54 @@
+Based on user 1509's preferences, here are the top-50 recommendations for the listed artists:
+
+1. Radiohead
+2. The Beatles
+3. Foo Fighters
+4. Oasis
+5. Kings of Leon
+6. My Chemical Romance
+7. Paramore
+8. Fall Out Boy
+9. Franz Ferdinand
+10. Kasabian
+11. The Strokes
+12. The Decemberists
+13. Blur
+14. Keane
+15. Snow Patrol
+16. Kaiser Chiefs
+17. The Kooks
+18. MGMT
+19. Gorillaz
+20. Florence + the Machine
+21. Arctic Monkeys
+22. Muse
+23. The Killers
+24. Coldplay
+25. Green Day
+26. Red Hot Chili Peppers
+27. Nirvana
+28. Maroon 5
+29. Black Eyed Peas
+30. Lady Gaga
+31. Linkin Park
+32. Incubus
+33. Panic! At the Disco
+34. Simple Plan
+35. Nickelback
+36. Daughtry
+37. Jonas Brothers
+38. Miley Cyrus
+39. Rihanna
+40. Katy Perry
+41. Britney Spears
+42. David Guetta
+43. Beyoncé
+44. Avril Lavigne
+45. Pink Floyd
+46. U2
+47. No Doubt
+48. Elliott Smith
+49. Jason Mraz
+50. Jack Johnson
+
+These recommendations are based on similar genres and artists liked by user 1509.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Epica
+2. Within Temptation
+3. Stratovarius
+4. Apocalyptica
+5. Avantasia
+6. Kamelot
+7. Delain
+8. Helloween
+9. Rhapsody of Fire
+10. Xandria
+11. Amaranthe
+12. Lacuna Coil
+13. Nightwish
+14. After Forever
+15. Sirenia
+16. Leaves' Eyes
+17. Tarja
+18. Therion
+19. Sirenia
+20. Kamelot
+21. Delain
+22. Epica
+23. Within Temptation
+24. Stratovarius
+25. Apocalyptica
+26. Avantasia
+27. Helloween
+28. Rhapsody of Fire
+29. Xandria
+30. Amaranthe
+31. Lacuna Coil
+32. Nightwish
+33. After Forever
+34. Sirenia
+35. Leaves' Eyes
+36. Tarja
+37. Therion
+38. Sirenia
+39. Kamelot
+40. Delain
+41. Epica
+42. Within Temptation
+43. Stratovarius
+44. Apocalyptica
+45. Avantasia
+46. Helloween
+47. Rhapsody of Fire
+48. Xandria
+49. Amaranthe
+50. Lacuna Coil
+
+These recommendations are based on the user's liking of similar artists and genres.

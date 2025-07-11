@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Stranger by Albert Camus
+8. Crime and Punishment by Fyodor Dostoyevsky
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Road by Cormac McCarthy
+11. The Picture of Dorian Gray by Oscar Wilde
+12. The Bell Jar by Sylvia Plath
+13. The Grapes of Wrath by John Steinbeck
+14. The Sun Also Rises by Ernest Hemingway
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Sound and the Fury by William Faulkner
+17. The Brothers Karamazov by Fyodor Dostoyevsky
+18. The Stranger by Harlan Coben
+19. The Stand by Stephen King
+20. The Shining by Stephen King
+21. The Martian by Andy Weir
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. The Alchemist by Paulo Coelho
+24. The Road to Wigan Pier by George Orwell
+25. The Art of War by Sun Tzu
+26. The Prince by Niccolo Machiavelli
+27. The Fountainhead by Ayn Rand
+28. The Book Thief by Markus Zusak
+29. The Kite Runner by Khaled Hosseini
+30. The Handmaid's Tale by Margaret Atwood
+31. The Stand by Stephen King
+32. The Dark Tower series by Stephen King
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Da Vinci Code by Dan Brown
+35. The Name of the Wind by Patrick Rothfuss
+36. The Road by Cormac McCarthy
+37. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+38. The Goldfinch by Donna Tartt
+39. The Night Circus by Erin Morgenstern
+40. The Shadow of the Wind by Carlos Ruiz Zafon
+41. The Book of Lost Things by John Connolly
+42. The Nightingale by Kristin Hannah
+43. The Night Circus by Erin Morgenstern
+44. The Nightingale by Kristin Hannah
+45. The Night Circus by Erin Morgenstern
+46. The Nightingale by Kristin Hannah
+47. The Night Circus by Erin Morgenstern
+48. The Nightingale by Kristin Hannah
+49. The Night Circus by Erin Morgenstern
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's interest in a variety of genres and authors, including classic literature, science fiction, horror, and philosophy.

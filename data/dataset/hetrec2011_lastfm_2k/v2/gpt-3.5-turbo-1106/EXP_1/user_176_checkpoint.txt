@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. The Cure
+3. Placebo
+4. The Killers
+5. Radiohead
+6. Muse
+7. The National
+8. The Black Keys
+9. Arcade Fire
+10. Tame Impala
+11. The Smashing Pumpkins
+12. The xx
+13. Vampire Weekend
+14. Modest Mouse
+15. Spoon
+16. Yeah Yeah Yeahs
+17. The War on Drugs
+18. LCD Soundsystem
+19. Phoenix
+20. Foals
+21. The Flaming Lips
+22. The Jesus and Mary Chain
+23. The Libertines
+24. The Vaccines
+25. The Rapture
+26. The Hives
+27. The Verve
+28. The Stone Roses
+29. The Psychedelic Furs
+30. The Charlatans
+31. The Horrors
+32. The Jesus and Mary Chain
+33. The Psychedelic Furs
+34. The Charlatans
+35. The Horrors
+36. The Jesus and Mary Chain
+37. The Psychedelic Furs
+38. The Charlatans
+39. The Horrors
+40. The Jesus and Mary Chain
+41. The Psychedelic Furs
+42. The Charlatans
+43. The Horrors
+44. The Jesus and Mary Chain
+45. The Psychedelic Furs
+46. The Charlatans
+47. The Horrors
+48. The Jesus and Mary Chain
+49. The Psychedelic Furs
+50. The Charlatans
+
+These recommendations are based on the user's liking of similar artists and genres.

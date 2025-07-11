@@ -1,0 +1,54 @@
+Based on user 124's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Nine Inch Nails
+3. The Smashing Pumpkins
+4. Red Hot Chili Peppers
+5. Radiohead
+6. Foo Fighters
+7. Nirvana
+8. The Killers
+9. Arctic Monkeys
+10. Interpol
+11. The Strokes
+12. Queens of the Stone Age
+13. Placebo
+14. Depeche Mode
+15. Muse
+16. Linkin Park
+17. Martin L. Gore
+18. Thousand Foot Krutch
+19. a-ha
+20. Zемфира
+21. Metallica
+22. Keane
+23. Coldplay
+24. 30 Seconds to Mars
+25. System of a Down
+26. Oasis
+27. Rammstein
+28. Green Day
+29. Era
+30. Moby
+31. Кино
+32. HIM
+33. Kreator
+34. Marilyn Manson
+35. Nautilus Pompilius
+36. Агата Кристи
+37. Michael Jackson
+38. Slipknot
+39. Maroon 5
+40. Limp Bizkit
+41. Дельфин
+42. Placebo
+43. Depeche Mode
+44. Muse
+45. Linkin Park
+46. Martin L. Gore
+47. Thousand Foot Krutch
+48. a-ha
+49. Zемфира
+50. Radiohead
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands.

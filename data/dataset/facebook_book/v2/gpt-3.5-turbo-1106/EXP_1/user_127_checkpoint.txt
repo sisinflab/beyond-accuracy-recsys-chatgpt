@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. Wuthering Heights by Emily Brontë
+3. To the Lighthouse by Virginia Woolf
+4. Middlemarch by George Eliot
+5. The Catcher in the Rye by J.D. Salinger
+6. The Bell Jar by Sylvia Plath
+7. Mrs. Dalloway by Virginia Woolf
+8. The Secret History by Donna Tartt
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Age of Innocence by Edith Wharton
+11. The Handmaid's Tale by Margaret Atwood
+12. The Remains of the Day by Kazuo Ishiguro
+13. The Road by Cormac McCarthy
+14. The Grapes of Wrath by John Steinbeck
+15. One Hundred Years of Solitude by Gabriel García Márquez
+16. Beloved by Toni Morrison
+17. The Color Purple by Alice Walker
+18. The Poisonwood Bible by Barbara Kingsolver
+19. The Kite Runner by Khaled Hosseini
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Book Thief by Markus Zusak
+22. The Night Circus by Erin Morgenstern
+23. The Goldfinch by Donna Tartt
+24. The Alchemist by Paulo Coelho
+25. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+26. The Namesake by Jhumpa Lahiri
+27. The God of Small Things by Arundhati Roy
+28. The House of the Spirits by Isabel Allende
+29. The Joy Luck Club by Amy Tan
+30. The Glass Castle by Jeannette Walls
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Thorn Birds by Colleen McCullough
+33. The Nightingale by Kristin Hannah
+34. The Light Between Oceans by M.L. Stedman
+35. The Girl on the Train by Paula Hawkins
+36. The Help by Kathryn Stockett
+37. The Martian by Andy Weir
+38. The Hunger Games by Suzanne Collins
+39. The Da Vinci Code by Dan Brown
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Maze Runner by James Dashner
+42. The Fault in Our Stars by John Green
+43. The Perks of Being a Wallflower by Stephen Chbosky
+44. The Giver by Lois Lowry
+45. The Outsiders by S.E. Hinton
+46. The Secret Garden by Frances Hodgson Burnett
+47. The Little Prince by Antoine de Saint-Exupéry
+48. The Chronicles of Narnia by C.S. Lewis
+49. The Hobbit by J.R.R. Tolkien
+50. The Harry Potter series by J.K. Rowling
+
+These recommendations are based on the user's preference for classic literature, coming-of-age stories, and emotionally impactful novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bon Jovi
+2. Aerosmith
+3. Journey
+4. Bonfire
+5. Cinderella
+6. KISS
+7. Motley Crue
+8. Poison
+9. Quiet Riot
+10. Warrant
+11. Whitesnake
+12. Skid Row
+13. Ratt
+14. Dokken
+15. Europe
+16. Great White
+17. Lita Ford
+18. Night Ranger
+19. Slaughter
+20. Tesla
+21. Twisted Sister
+22. Van Halen
+23. Def Leppard
+24. Guns N' Roses
+25. Ozzy Osbourne
+26. Led Zeppelin
+27. Metallica
+28. 30 Seconds to Mars
+29. Scorpions
+30. HIM
+31. The Beatles
+32. Sex Pistols
+33. CRASHDÏET
+34. T. Rex
+35. Green Day
+36. Megadeth
+37. Christina Aguilera
+38. AC/DC
+39. a-ha
+40. Alice Cooper
+41. The Rolling Stones
+42. Anberlin
+43. Eurythmics
+44. Eminem
+45. Adam Lambert
+46. Yngwie Malmsteen
+47. Linkin Park
+48. Black Sabbath
+49. Iron Maiden
+50. Judas Priest
+
+These recommendations are based on the user's liking of similar artists and genres.

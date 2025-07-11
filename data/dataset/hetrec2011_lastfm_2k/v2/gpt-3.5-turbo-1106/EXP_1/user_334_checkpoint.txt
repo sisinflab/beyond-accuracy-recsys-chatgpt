@@ -1,0 +1,54 @@
+Based on user 334's preferences, here are the top 50 recommendations:
+
+1. The White Stripes
+2. Foo Fighters
+3. The Killers
+4. Interpol
+5. The Raconteurs
+6. System of a Down
+7. The Offspring
+8. Green Day
+9. The Black Keys
+10. The Libertines
+11. The Smashing Pumpkins
+12. Pearl Jam
+13. Soundgarden
+14. Oasis
+15. The Cranberries
+16. Radiohead
+17. The Verve
+18. Placebo
+19. The Cure
+20. The Smiths
+21. Joy Division
+22. New Order
+23. Depeche Mode
+24. Nine Inch Nails
+25. Marilyn Manson
+26. Rammstein
+27. Slipknot
+28. Korn
+29. Limp Bizkit
+30. Incubus
+31. Audioslave
+32. Stone Temple Pilots
+33. Alice Cooper
+34. Iggy Pop
+35. The Velvet Underground
+36. The Kinks
+37. The Who
+38. Led Zeppelin
+39. Deep Purple
+40. AC/DC
+41. Guns N' Roses
+42. Van Halen
+43. Aerosmith
+44. Def Leppard
+45. Motörhead
+46. Judas Priest
+47. Iron Maiden
+48. Megadeth
+49. Slayer
+50. Pantera
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

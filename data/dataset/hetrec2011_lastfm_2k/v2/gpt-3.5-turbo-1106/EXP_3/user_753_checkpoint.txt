@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 753:
+
+1. The Beatles
+2. Pink Floyd
+3. Metallica
+4. The Who
+5. The Doors
+6. Aerosmith
+7. AC/DC
+8. Led Zeppelin
+9. Queen
+10. Guns N' Roses
+11. Deep Purple
+12. Lynyrd Skynyrd
+13. Iron Maiden
+14. Black Sabbath
+15. Van Halen
+16. Jimi Hendrix
+17. Motörhead
+18. Scorpions
+19. KISS
+20. Ozzy Osbourne
+21. Def Leppard
+22. Mötley Crüe
+23. The Rolling Stones
+24. Whitesnake
+25. Ratt
+26. W.A.S.P.
+27. Poison
+28. Cinderella
+29. Skid Row
+30. Hanoi Rocks
+31. Europe
+32. Mr. Big
+33. Megadeth
+34. Exodus
+35. In This Moment
+36. My Chemical Romance
+37. Avenged Sevenfold
+38. 30 Seconds to Mars
+39. Fall Out Boy
+40. HIM
+41. Jethro Tull
+42. T. Rex
+43. Eagles
+44. Fleetwood Mac
+45. Oasis
+46. Creedence Clearwater Revival
+47. The Eagles
+48. Bob Dylan
+49. John Lennon
+50. Robbie Williams
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists within the rock and pop genres.

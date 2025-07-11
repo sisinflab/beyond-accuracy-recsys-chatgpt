@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Muse
+2. My Chemical Romance
+3. Linkin Park
+4. The Killers
+5. Green Day
+6. Paramore
+7. Nirvana
+8. Radiohead
+9. Coldplay
+10. Pink Floyd
+11. Metallica
+12. The Beatles
+13. Queen
+14. Red Hot Chili Peppers
+15. Arctic Monkeys
+16. Foo Fighters
+17. System of a Down
+18. Pearl Jam
+19. Iron Maiden
+20. Nine Inch Nails
+21. Depeche Mode
+22. The Cure
+23. Placebo
+24. Blur
+25. Oasis
+26. The Smashing Pumpkins
+27. U2
+28. The Rolling Stones
+29. Led Zeppelin
+30. AC/DC
+31. Guns N' Roses
+32. Black Sabbath
+33. Aerosmith
+34. Bon Jovi
+35. Def Leppard
+36. Van Halen
+37. Judas Priest
+38. Deep Purple
+39. Motorhead
+40. Alice Cooper
+41. KISS
+42. Scorpions
+43. Whitesnake
+44. Megadeth
+45. Slayer
+46. Anthrax
+47. Pantera
+48. Lamb of God
+49. Slipknot
+50. Avenged Sevenfold
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bring Me The Horizon
+2. Enter Shikari
+3. The Devil Wears Prada
+4. A Day To Remember
+5. Underoath
+6. Dance Gavin Dance
+7. The Amity Affliction
+8. Of Mice & Men
+9. Parkway Drive
+10. Suicide Silence
+11. The Used
+12. My Chemical Romance
+13. Escape the Fate
+14. Silverstein
+15. AFI
+16. Atreyu
+17. Pierce the Veil
+18. Sleeping with Sirens
+19. Crown the Empire
+20. Memphis May Fire
+21. I See Stars
+22. Issues
+23. Hands Like Houses
+24. Emarosa
+25. Chiodos
+26. Hawthorne Heights
+27. Senses Fail
+28. Saosin
+29. From First to Last
+30. Scary Kids Scaring Kids
+31. The Red Jumpsuit Apparatus
+32. A Skylit Drive
+33. The Fall of Troy
+34. Thursday
+35. Thrice
+36. Glassjaw
+37. Alexisonfire
+38. Norma Jean
+39. Every Time I Die
+40. Converge
+41. The Dillinger Escape Plan
+42. At the Drive-In
+43. Refused
+44. La Dispute
+45. Touché Amoré
+46. Pianos Become the Teeth
+47. Title Fight
+48. Balance and Composure
+49. Citizen
+50. Basement
+
+These recommendations are based on the user's liking of similar artists and genres.

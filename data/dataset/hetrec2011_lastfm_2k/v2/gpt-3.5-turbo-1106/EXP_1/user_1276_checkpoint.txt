@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Joy Division
+3. Radiohead
+4. Pixies
+5. Sonic Youth
+6. Pavement
+7. Modest Mouse
+8. The Strokes
+9. Interpol
+10. The Libertines
+11. Arctic Monkeys
+12. The White Stripes
+13. Death Cab for Cutie
+14. The Flaming Lips
+15. Vampire Weekend
+16. The National
+17. Arcade Fire
+18. Tame Impala
+19. The Shins
+20. Spoon
+21. Built to Spill
+22. Yo La Tengo
+23. Dinosaur Jr.
+24. Guided by Voices
+25. The Jesus and Mary Chain
+26. R.E.M.
+27. The Replacements
+28. The War on Drugs
+29. Wilco
+30. Beck
+31. Blur
+32. Oasis
+33. The Stone Roses
+34. The Verve
+35. Pulp
+36. Suede
+37. Belle and Sebastian
+38. The Magnetic Fields
+39. The Decemberists
+40. Bright Eyes
+41. Elliott Smith
+42. Cat Power
+43. PJ Harvey
+44. Portishead
+45. Björk
+46. Sigur Rós
+47. M83
+48. Animal Collective
+49. Grizzly Bear
+50. Fleet Foxes
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Pride and Prejudice by Jane Austen
+3. The Hunger Games by Suzanne Collins
+4. The Book Thief by Markus Zusak
+5. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+6. The Fault in Our Stars by John Green
+7. 1984 by George Orwell
+8. The Hobbit by J.R.R. Tolkien
+9. The Giver by Lois Lowry
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. The Alchemist by Paulo Coelho
+13. The Maze Runner by James Dashner
+14. The Outsiders by S.E. Hinton
+15. The Secret Garden by Frances Hodgson Burnett
+16. The Little Prince by Antoine de Saint-Exupéry
+17. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+18. The Kite Runner by Khaled Hosseini
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Night Circus by Erin Morgenstern
+21. The Help by Kathryn Stockett
+22. The Picture of Dorian Gray by Oscar Wilde
+23. The Road by Cormac McCarthy
+24. The Handmaid's Tale by Margaret Atwood
+25. The Lovely Bones by Alice Sebold
+26. The Bell Jar by Sylvia Plath
+27. The Goldfinch by Donna Tartt
+28. The Sun Also Rises by Ernest Hemingway
+29. The Color Purple by Alice Walker
+30. The Glass Castle by Jeannette Walls
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Secret Life of Bees by Sue Monk Kidd
+33. The Catcher Was a Spy by Nicholas Dawidoff
+34. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+35. The Poisonwood Bible by Barbara Kingsolver
+36. The Joy Luck Club by Amy Tan
+37. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+38. The Namesake by Jhumpa Lahiri
+39. The House on Mango Street by Sandra Cisneros
+40. The Glass Menagerie by Tennessee Williams
+41. The Road Less Traveled by M. Scott Peck
+42. The Stand by Stephen King
+43. The Shining by Stephen King
+44. The Da Vinci Code by Dan Brown
+45. The Girl on the Train by Paula Hawkins
+46. The Martian by Andy Weir
+47. The Help by Kathryn Stockett
+48. The Night Circus by Erin Morgenstern
+49. The Picture of Dorian Gray by Oscar Wilde
+50. The Road by Cormac McCarthy
+
+These recommendations are based on the user's interest in a variety of genres and authors.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Thirty Seconds to Mars
+2. Adam Lambert
+3. Muse
+4. a-ha
+5. The Beatles
+6. Metallica
+7. Paramore
+8. Beyoncé
+9. Coheed and Cambria
+10. Circa Survive
+11. Depeche Mode
+12. Queen
+13. My Chemical Romance
+14. The Killers
+15. David Gray
+16. Panic! At the Disco
+17. AC/DC
+18. Deftones
+19. Lostprophets
+20. Led Zeppelin
+21. Arctic Monkeys
+22. ABBA
+23. Incubus
+24. Wolfgang Amadeus Mozart
+25. Coldplay
+26. Within Temptation
+27. Duffy
+28. Pet Shop Boys
+29. Björk
+30. Rihanna
+31. Avril Lavigne
+32. Kylie Minogue
+33. David Bowie
+34. Klaxons
+35. Justin Timberlake
+36. Aphex Twin
+37. Fall Out Boy
+38. HIM
+39. The White Stripes
+40. Sade
+41. Green Day
+42. Red Hot Chili Peppers
+43. The Rolling Stones
+44. U2
+45. Oasis
+46. Radiohead
+47. The Smashing Pumpkins
+48. Pearl Jam
+49. Nirvana
+50. The Strokes
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current likes.

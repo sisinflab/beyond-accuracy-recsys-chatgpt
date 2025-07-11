@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. Paramore
+3. Jimmy Eat World
+4. A Day to Remember
+5. The Used
+6. Yellowcard
+7. Weezer
+8. New Found Glory
+9. All-American Rejects
+10. The Offspring
+11. Good Charlotte
+12. Simple Plan
+13. Sum 41
+14. Fall Out Boy
+15. My Chemical Romance
+16. Blink-182
+17. Taking Back Sunday
+18. All Time Low
+19. Panic! At the Disco
+20. The All-American Rejects
+21. The Gaslight Anthem
+22. Senses Fail
+23. Hawthorne Heights
+24. Boys Like Girls
+25. Rise Against
+26. Against Me!
+27. The Pretty Reckless
+28. Bowling for Soup
+29. Linkin Park
+30. P!nk
+31. La Roux
+32. Biffy Clyro
+33. Nirvana
+34. Muse
+35. Deftones
+36. Avenged Sevenfold
+37. Three Days Grace
+38. Evanescence
+39. 30 Seconds to Mars
+40. The Killers
+41. Arctic Monkeys
+42. The Strokes
+43. Franz Ferdinand
+44. The White Stripes
+45. The Hives
+46. The Vines
+47. The Libertines
+48. Interpol
+49. Bloc Party
+50. Kaiser Chiefs
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of options within the alternative and rock genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. The Stand by Stephen King
+6. The Outsiders by S.E. Hinton
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Lord of the Flies by William Golding
+9. The Hunger Games by Suzanne Collins
+10. The Giver by Lois Lowry
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Da Vinci Code by Dan Brown
+13. The Hobbit by J.R.R. Tolkien
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Chronicles of Narnia by C.S. Lewis
+16. The Road by Cormac McCarthy
+17. The Book Thief by Markus Zusak
+18. The Lovely Bones by Alice Sebold
+19. The Secret Garden by Frances Hodgson Burnett
+20. The Alchemist by Paulo Coelho
+21. The Kite Runner by Khaled Hosseini
+22. The Help by Kathryn Stockett
+23. The Fault in Our Stars by John Green
+24. The Maze Runner by James Dashner
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+27. The Handmaid's Tale by Margaret Atwood
+28. The Road to Character by David Brooks
+29. The Night Circus by Erin Morgenstern
+30. The Goldfinch by Donna Tartt
+31. The Martian by Andy Weir
+32. The Girl on the Train by Paula Hawkins
+33. The Help by Kathryn Stockett
+34. The Fault in Our Stars by John Green
+35. The Maze Runner by James Dashner
+36. The Perks of Being a Wallflower by Stephen Chbosky
+37. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+38. The Handmaid's Tale by Margaret Atwood
+39. The Road to Character by David Brooks
+40. The Night Circus by Erin Morgenstern
+41. The Goldfinch by Donna Tartt
+42. The Martian by Andy Weir
+43. The Girl on the Train by Paula Hawkins
+44. The Help by Kathryn Stockett
+45. The Fault in Our Stars by John Green
+46. The Maze Runner by James Dashner
+47. The Perks of Being a Wallflower by Stephen Chbosky
+48. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+49. The Handmaid's Tale by Margaret Atwood
+50. The Road to Character by David Brooks
+
+These recommendations are based on the user's interest in horror, coming-of-age, and classic literature.

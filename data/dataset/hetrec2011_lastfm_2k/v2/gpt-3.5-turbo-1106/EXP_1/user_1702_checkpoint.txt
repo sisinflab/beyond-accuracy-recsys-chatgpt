@@ -1,0 +1,54 @@
+Based on user 1702's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. AC/DC
+3. Queen
+4. Aerosmith
+5. Van Halen
+6. Jimi Hendrix
+7. Rush
+8. The Allman Brothers Band
+9. Blackfoot
+10. Blue Öyster Cult
+11. ZZ Top
+12. Alice Cooper
+13. Scorpions
+14. Thin Lizzy
+15. Bad Company
+16. Free
+17. The Jimi Hendrix Experience
+18. The Rolling Stones
+19. The Kinks
+20. The Who
+21. Cream
+22. The Yardbirds
+23. The Doors
+24. The Velvet Underground
+25. Lynyrd Skynyrd
+26. The Animals
+27. KISS
+28. Deep Purple
+29. Uriah Heep
+30. Black Sabbath
+31. Whitesnake
+32. Europe
+33. Jethro Tull
+34. UFO
+35. Grand Funk Railroad
+36. Rainbow
+37. Camel
+38. Cinderella
+39. David Gilmour
+40. George Harrison
+41. Bob Dylan
+42. Jefferson Airplane
+43. Genesis
+44. Emerson, Lake & Palmer
+45. David Bowie
+46. Dio
+47. The Byrds
+48. The Band
+49. The Beach Boys
+50. The Eagles
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for their enjoyment.

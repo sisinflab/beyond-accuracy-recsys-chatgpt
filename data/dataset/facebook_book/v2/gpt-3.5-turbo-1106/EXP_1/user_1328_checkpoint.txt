@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Book Thief by Markus Zusak
+6. The Fault in Our Stars by John Green
+7. To Kill a Mockingbird by Harper Lee
+8. The Catcher in the Rye by J.D. Salinger
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. The Alchemist by Paulo Coelho
+11. The Kite Runner by Khaled Hosseini
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Girl on the Train by Paula Hawkins
+15. Gone Girl by Gillian Flynn
+16. The Night Circus by Erin Morgenstern
+17. The Goldfinch by Donna Tartt
+18. The Secret History by Donna Tartt
+19. The Shadow of the Wind by Carlos Ruiz Zafón
+20. The Name of the Wind by Patrick Rothfuss
+21. The Martian by Andy Weir
+22. Ready Player One by Ernest Cline
+23. Ender's Game by Orson Scott Card
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Lovely Bones by Alice Sebold
+27. The Help by Kathryn Stockett
+28. The Glass Castle by Jeannette Walls
+29. The Handmaid's Tale by Margaret Atwood
+30. Fallen by Lauren Kate
+31. City of Bones by Cassandra Clare
+32. Animal Farm by George Orwell
+33. The Three Musketeers by Alexandre Dumas
+34. My Name Is Asher Lev by Chaim Potok
+35. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+36. The Importance of Being Earnest by Oscar Wilde
+37. Island by Aldous Huxley
+38. The Hobbit by J.R.R. Tolkien
+39. The Chronicles of Narnia by C.S. Lewis
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Da Vinci Code by Dan Brown
+42. The Girl on the Train by Paula Hawkins
+43. Gone Girl by Gillian Flynn
+44. The Night Circus by Erin Morgenstern
+45. The Goldfinch by Donna Tartt
+46. The Secret History by Donna Tartt
+47. The Shadow of the Wind by Carlos Ruiz Zafón
+48. The Name of the Wind by Patrick Rothfuss
+49. The Martian by Andy Weir
+50. Ready Player One by Ernest Cline
+
+These recommendations are based on the user's interest in dystopian fiction, fantasy, classic literature, and young adult novels.

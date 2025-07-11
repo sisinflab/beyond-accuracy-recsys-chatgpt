@@ -1,0 +1,54 @@
+Based on user 1280's preferences, here are the top 50 book recommendations:
+
+1. The Time Traveler's Wife by Audrey Niffenegger
+2. Memoirs of a Geisha by Arthur Golden
+3. The Magicians (Grossman novel) by Lev Grossman
+4. Her Fearful Symmetry by Audrey Niffenegger
+5. The Princess Diaries (novel) by Meg Cabot
+6. The Miraculous Journey of Edward Tulane by Kate DiCamillo
+7. The Girl Who Leapt Through Time by Yasutaka Tsutsui
+8. Inkheart by Cornelia Funke
+9. An Abundance of Katherines by John Green
+10. Harry Potter series by J.K. Rowling
+11. The Lovely Bones by Alice Sebold
+12. The Time Machine by H.G. Wells
+13. Mockingjay by Suzanne Collins
+14. The Thief of Always by Clive Barker
+15. A Wrinkle in Time by Madeleine L'Engle
+16. The Shining (novel) by Stephen King
+17. To Kill a Mockingbird by Harper Lee
+18. Eragon by Christopher Paolini
+19. The Five People You Meet in Heaven by Mitch Albom
+20. The Graveyard Book by Neil Gaiman
+21. Inkspell by Cornelia Funke
+22. Goosebumps series by R.L. Stine
+23. Fahrenheit 451 by Ray Bradbury
+24. The Dark Tower: The Gunslinger by Stephen King
+25. Inferno (Dante) by Dan Brown
+26. Teaching with Calvin and Hobbes by Bill Watterson
+27. The Old Man and the Sea by Ernest Hemingway
+28. The Witch of Portobello by Paulo Coelho
+29. Halo: First Strike by Eric Nylund
+30. The Walking Dead (comic book) by Robert Kirkman
+31. Garfield comics by Jim Davis
+32. Stormbreaker (novel) by Anthony Horowitz
+33. For Whom the Bell Tolls by Ernest Hemingway
+34. Wild at Heart (book) by John Eldredge
+35. Angels & Demons by Dan Brown
+36. Where the Wild Things Are by Maurice Sendak
+37. Crime and Punishment by Fyodor Dostoevsky
+38. Impulse economy by Gary Vaynerchuk
+39. PS, I Love You (novel) by Cecelia Ahern
+40. Go Ask Alice by Beatrice Sparks
+41. Queers in History by Keith Stern
+42. The War of the Worlds by H.G. Wells
+43. Pretties by Scott Westerfeld
+44. Sense and Sensibility by Jane Austen
+45. Manual of the Warrior of Light by Paulo Coelho
+46. Crank (novel) by Ellen Hopkins
+47. The Chocolate War by Robert Cormier
+48. Jurassic Park (novel) by Michael Crichton
+49. I Am the Cheese by Robert Cormier
+50. Brida (novel) by Paulo Coelho
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user already likes.

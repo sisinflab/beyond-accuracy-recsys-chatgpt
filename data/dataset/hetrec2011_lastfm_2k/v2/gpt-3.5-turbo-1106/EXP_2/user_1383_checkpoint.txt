@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 1383:
+
+1. Radiohead
+2. Björk
+3. The Beatles
+4. Coldplay
+5. Arctic Monkeys
+6. Fleet Foxes
+7. Bat for Lashes
+8. The xx
+9. Beach House
+10. Kings of Convenience
+11. Sigur Rós
+12. Metric
+13. Portishead
+14. Blonde Redhead
+15. Ladytron
+16. Cat Power
+17. The Last Shadow Puppets
+18. Thom Yorke
+19. Kings of Leon
+20. Death Cab for Cutie
+21. M.I.A.
+22. Stars
+23. The Bird and The Bee
+24. The Doors
+25. Lady Gaga
+26. Madonna
+27. Rihanna
+28. Britney Spears
+29. Christina Aguilera
+30. Beyoncé
+31. Shakira
+32. Katy Perry
+33. Avril Lavigne
+34. Taylor Swift
+35. Paramore
+36. Glee Cast
+37. U2
+38. Muse
+39. Pink Floyd
+40. Kylie Minogue
+41. Miley Cyrus
+42. Ke$ha
+43. Duran Duran
+44. Blur
+45. Placebo
+46. The Killers
+47. Nirvana
+48. Iron Maiden
+49. Evanescence
+50. Depeche Mode
+
+These recommendations are based on the user's liking of similar artists and their preferences.

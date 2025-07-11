@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Franz Ferdinand
+3. Bloc Party
+4. The Killers
+5. The White Stripes
+6. The Libertines
+7. The Kooks
+8. The Vines
+9. The Hives
+10. The Raconteurs
+11. The Black Keys
+12. The Flaming Lips
+13. The Smashing Pumpkins
+14. The Cranberries
+15. The Cure
+16. The Smiths
+17. The Clash
+18. The Chemical Brothers
+19. The Prodigy
+20. The Offspring
+21. The Cranberries
+22. The Cure
+23. The Smiths
+24. The Clash
+25. The Chemical Brothers
+26. The Prodigy
+27. The Offspring
+28. The Fratellis
+29. The Wombats
+30. The Vaccines
+31. The Strokes
+32. The Bravery
+33. The Verve
+34. The Stone Roses
+35. The Jesus and Mary Chain
+36. The National
+37. The War on Drugs
+38. The Black Angels
+39. The Horrors
+40. The Kills
+41. The Raveonettes
+42. The Brian Jonestown Massacre
+43. The Dandy Warhols
+44. The Flaming Lips
+45. The Psychedelic Furs
+46. The Charlatans
+47. The La's
+48. The Lemonheads
+49. The Replacements
+50. The Feelies
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of options within the user's preferred genres.

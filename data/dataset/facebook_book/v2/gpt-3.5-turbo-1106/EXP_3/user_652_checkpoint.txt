@@ -1,0 +1,54 @@
+Based on user 652's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. Lolita by Vladimir Nabokov
+3. Lord of the Flies by William Golding
+4. PiHKAL by Ann Shulgin, Alexander Shulgin
+5. And the Hippos Were Boiled in Their Tanks by Jack Kerouac, William S. Burroughs
+6. Big Sur (novel) by Jack Kerouac
+7. The Waste Land by T. S. Eliot
+8. Through the Looking-Glass by Lewis Carroll
+9. The Stranger (novel)
+10. The Great Gatsby
+11. The Hobbit
+12. Brave New World
+13. The Catcher in the Rye
+14. The Outsiders (novel)
+15. The Lord of the Rings
+16. The Fountainhead
+17. The Old Man and the Sea
+18. The Brothers Karamazov
+19. A Clockwork Orange
+20. The Book Thief
+21. The Giving Tree
+22. The Once and Future King
+23. The Crucible of Time
+24. The Mists of Avalon
+25. The Trumpet of the Swan
+26. The Watchmen (novel)
+27. The Giver by Lois Lowry
+28. Inferno (Dante)
+29. Holes (novel)
+30. Frankenstein
+31. Jane Eyre
+32. Cosmos (book)
+33. Quidditch Through the Ages
+34. Anne of Green Gables
+35. Wolf Brother
+36. Isaac Asimov's Robot City
+37. Of Mice and Men
+38. A Tale of Two Cities
+39. A Farewell to Arms
+40. Romeo and Juliet
+41. Animal Farm
+42. The Stranger (novel)
+43. The Hamlet
+44. Sun Bin's Art of War
+45. D.Gray-man
+46. Diary (novel)
+47. I Know What You Did Last Summer (novel)
+48. For Whom the Bell Tolls
+49. Fade (novel)
+50. The Hatchet (novel)
+
+These recommendations are based on the user's preferences and the similarity of these books to the ones they have already enjoyed.

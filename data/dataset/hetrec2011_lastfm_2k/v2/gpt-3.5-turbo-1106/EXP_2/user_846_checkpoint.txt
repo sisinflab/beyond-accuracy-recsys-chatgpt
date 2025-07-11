@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Nirvana
+2. The Smiths
+3. Joy Division
+4. Bauhaus
+5. Mudhoney
+6. Alice in Chains
+7. Swans
+8. Melvins
+9. Einstürzende Neubauten
+10. Captain Beefheart & His Magic Band
+11. The Residents
+12. Coil
+13. Alien Sex Fiend
+14. Crystal Castles
+15. Gorillaz
+16. Misfits
+17. Venetian Snares
+18. Placebo
+19. Frank Zappa
+20. The Beatles
+21. Radiohead
+22. Muse
+23. Pink Floyd
+24. The Killers
+25. Iron Maiden
+26. Metallica
+27. Pearl Jam
+28. Led Zeppelin
+29. Nine Inch Nails
+30. System of a Down
+31. Daft Punk
+32. Linkin Park
+33. My Chemical Romance
+34. Green Day
+35. The Cure
+36. Depeche Mode
+37. U2
+38. Madonna
+39. Lady Gaga
+40. Rihanna
+41. Beyoncé
+42. Christina Aguilera
+43. Katy Perry
+44. Avril Lavigne
+45. Taylor Swift
+46. Paramore
+47. Evanescence
+48. Glee Cast
+49. Britney Spears
+50. Shakira
+
+This re-ranked list takes into account the user's liking for alternative and punk rock bands and places similar artists higher in the recommendations.

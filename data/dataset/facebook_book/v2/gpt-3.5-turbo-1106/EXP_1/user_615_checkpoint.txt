@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Trainspotting by Irvine Welsh
+3. The Girl on the Train by Paula Hawkins
+4. The Bell Jar by Sylvia Plath
+5. The Catcher in the Rye by J.D. Salinger
+6. The Secret History by Donna Tartt
+7. The Goldfinch by Donna Tartt
+8. The Lovely Bones by Alice Sebold
+9. The Night Circus by Erin Morgenstern
+10. The Book Thief by Markus Zusak
+11. The Secret Life of Bees by Sue Monk Kidd
+12. The Help by Kathryn Stockett
+13. The Hunger Games by Suzanne Collins
+14. To Kill a Mockingbird by Harper Lee
+15. The Great Gatsby by F. Scott Fitzgerald
+16. 1984 by George Orwell
+17. Animal Farm by George Orwell
+18. The Alchemist by Paulo Coelho
+19. The Da Vinci Code by Dan Brown
+20. Angels & Demons by Dan Brown
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. Life of Pi by Yann Martel
+24. The Road by Cormac McCarthy
+25. The Glass Castle by Jeannette Walls
+26. The Color Purple by Alice Walker
+27. The Joy Luck Club by Amy Tan
+28. The God of Small Things by Arundhati Roy
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. And the Mountains Echoed by Khaled Hosseini
+31. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+32. The House on Mango Street by Sandra Cisneros
+33. The Poisonwood Bible by Barbara Kingsolver
+34. The Handmaid's Tale by Margaret Atwood
+35. The Testaments by Margaret Atwood
+36. The Underground Railroad by Colson Whitehead
+37. The Nightingale by Kristin Hannah
+38. The Tattooist of Auschwitz by Heather Morris
+39. The Kite Runner by Khaled Hosseini
+40. Atonement by Ian McEwan
+41. The Road by Cormac McCarthy
+42. The Grapes of Wrath by John Steinbeck
+43. The Catcher in the Rye by J.D. Salinger
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Old Man and the Sea by Ernest Hemingway
+46. The Sun Also Rises by Ernest Hemingway
+47. The Sound and the Fury by William Faulkner
+48. As I Lay Dying by William Faulkner
+49. The Heart is a Lonely Hunter by Carson McCullers
+50. The Catcher in the Rye by J.D. Salinger
+
+These recommendations are based on the user's interest in novels by Irvine Welsh, Stephen King, Jhumpa Lahiri, and Khaled Hosseini, as well as their preference for literary fiction and coming-of-age stories.

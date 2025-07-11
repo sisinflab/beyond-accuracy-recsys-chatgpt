@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Daft Punk
+2. The Cure
+3. Arctic Monkeys
+4. Radiohead
+5. Muse
+6. The Chemical Brothers
+7. Nine Inch Nails
+8. Pendulum
+9. Tool
+10. MGMT
+11. Crystal Castles
+12. Prefuse 73
+13. Digitalism
+14. Flunk
+15. of Montreal
+16. Venetian Snares
+17. The Flashbulb
+18. Róisín Murphy
+19. Lenny Kravitz
+20. Sigur Rós
+21. 2Pac
+22. Calvin Harris
+23. Yelle
+24. The Ting Tings
+25. Bonobo
+26. O.S.T.R.
+27. Britney Spears
+28. Depeche Mode
+29. Lady Gaga
+30. Madonna
+31. Rihanna
+32. Shakira
+33. The Beatles
+34. Katy Perry
+35. Avril Lavigne
+36. Taylor Swift
+37. Evanescence
+38. Glee Cast
+39. Beyoncé
+40. U2
+41. 30 Seconds to Mars
+42. Pink Floyd
+43. Kylie Minogue
+44. Miley Cyrus
+45. Ke$ha
+46. Duran Duran
+47. Coldplay
+48. Blur
+49. Placebo
+50. The Killers
+
+This re-ranked list is based on the user's liking of similar artists and their music preferences.

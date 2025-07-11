@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of top-50 book recommendations for user 176:
+
+1. The Lord of the Rings
+2. Dune (novel)
+3. The Dark Tower: The Gunslinger by Stephen King
+4. Everything's Eventual by Stephen King
+5. Fear and Loathing in Las Vegas by Hunter S. Thompson
+6. Necroscope (novel) by Brian Lumley
+7. Stranger in a Strange Land by Robert A. Heinlein
+8. The Turn of the Screw by Henry James
+9. The God Delusion by Richard Dawkins
+10. Of Mice and Men by John Steinbeck
+11. Dracula
+12. The Hobbit
+13. The Catcher in the Rye
+14. The Grapes of Wrath
+15. Harry Potter
+16. The Outsiders (novel)
+17. East of Eden (novel)
+18. The Demon in the Freezer
+19. The Tommyknockers
+20. Macbeth
+21. One Hundred Years of Solitude
+22. On the Road
+23. The Bourne Identity (novel)
+24. Ranger's Apprentice
+25. The Brethren (novel)
+26. For Whom the Bell Tolls
+27. Gospel of Matthew
+28. Demian
+29. I Am Legend (novel)
+30. Queers in History
+31. Gospel of Mark
+32. The Civil War: A Narrative
+33. Inferno (Dante)
+34. Hulk (comics)
+35. Brave New World
+36. The Watchman (novel)
+37. The Sword of Truth
+38. At the Mountains of Madness
+39. Northern Lights (novel)
+40. Percy Jackson & the Olympians
+41. Into Thin Air
+42. Clear and Present Danger
+43. The Fall of the House of Usher
+44. No Country for Old Men
+45. Reviving Ophelia
+46. Nineteen Eighty-Four
+47. Les Misérables
+48. The Call of Cthulhu and Other Weird Stories
+49. Lullaby (Palahniuk novel)
+50. The Runaway Jury
+
+This re-ranked list takes into account the user's preferences and suggests books that are similar in genre, style, or themes to the ones they have already enjoyed.

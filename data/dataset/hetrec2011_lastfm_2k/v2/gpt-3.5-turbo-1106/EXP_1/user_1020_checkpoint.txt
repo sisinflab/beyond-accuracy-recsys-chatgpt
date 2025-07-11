@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. All Time Low
+2. Mayday Parade
+3. We the Kings
+4. 30 Seconds to Mars
+5. Simple Plan
+6. A Day to Remember
+7. The Maine
+8. Yellowcard
+9. Sleeping with Sirens
+10. Pierce the Veil
+11. Bring Me the Horizon
+12. Fall Out Boy
+13. Panic! At the Disco
+14. My Chemical Romance
+15. The All-American Rejects
+16. Good Charlotte
+17. The Academy Is...
+18. The Cab
+19. The Summer Set
+20. Forever the Sickest Kids
+21. Cute Is What We Aim For
+22. Dashboard Confessional
+23. The Starting Line
+24. New Found Glory
+25. Taking Back Sunday
+26. Jimmy Eat World
+27. Motion City Soundtrack
+28. The Used
+29. Brand New
+30. Saves the Day
+31. The Get Up Kids
+32. Something Corporate
+33. Jack's Mannequin
+34. The Early November
+35. Say Anything
+36. Cartel
+37. Valencia
+38. Hit the Lights
+39. The Red Jumpsuit Apparatus
+40. Hawthorne Heights
+41. Senses Fail
+42. Silverstein
+43. Emery
+44. Underoath
+45. Alesana
+46. Chiodos
+47. Escape the Fate
+48. Blessthefall
+49. A Skylit Drive
+50. Dance Gavin Dance
+
+These recommendations are based on the user's liking of similar artists and genres.

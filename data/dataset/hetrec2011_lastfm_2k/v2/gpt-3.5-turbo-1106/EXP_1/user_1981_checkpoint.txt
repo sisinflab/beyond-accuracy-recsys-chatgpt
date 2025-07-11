@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Killers
+2. Coldplay
+3. The Fray
+4. OneRepublic
+5. Snow Patrol
+6. The Script
+7. Maroon 5
+8. Foster the People
+9. Imagine Dragons
+10. Bastille
+11. The Wombats
+12. Two Door Cinema Club
+13. The Kooks
+14. The 1975
+15. Arctic Monkeys
+16. Kings of Leon
+17. Mumford & Sons
+18. Vampire Weekend
+19. Death Cab for Cutie
+20. The National
+21. Editors
+22. Bloc Party
+23. Interpol
+24. Foals
+25. M83
+26. Passion Pit
+27. Bombay Bicycle Club
+28. The Vaccines
+29. The Strokes
+30. Franz Ferdinand
+31. Kasabian
+32. The Libertines
+33. The Hives
+34. The Verve
+35. Kaiser Chiefs
+36. The Zutons
+37. The Coral
+38. The Pigeon Detectives
+39. The Courteeners
+40. The View
+41. The Maccabees
+42. The Rifles
+43. The Enemy
+44. The Twang
+45. The Pigeon Detectives
+46. The Subways
+47. The Fratellis
+48. The Kooks
+49. The Wombats
+50. The Pigeon Detectives
+
+These recommendations are based on the user's liking of similar artists and genres.

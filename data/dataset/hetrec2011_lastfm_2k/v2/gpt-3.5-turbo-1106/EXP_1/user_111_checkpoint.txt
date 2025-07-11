@@ -1,0 +1,54 @@
+Based on user 111's preferences, here are the top 50 recommendations:
+
+1. Nine Inch Nails
+2. Radiohead
+3. Muse
+4. The Chemical Brothers
+5. Depeche Mode
+6. The Kills
+7. LCD Soundsystem
+8. The Black Keys
+9. Portishead
+10. Interpol
+11. The Strokes
+12. Moby
+13. The xx
+14. The Raconteurs
+15. The Hives
+16. The Vines
+17. The Mars Volta
+18. The Flaming Lips
+19. The National
+20. Modest Mouse
+21. The Rapture
+22. The Bravery
+23. The Libertines
+24. The Fratellis
+25. The Subways
+26. The Von Bondies
+27. The Dandy Warhols
+28. The Kills
+29. The Black Angels
+30. The Horrors
+31. The Dead Weather
+32. The Brian Jonestown Massacre
+33. The Warlocks
+34. The Jesus and Mary Chain
+35. The Psychedelic Furs
+36. The Chameleons
+37. The Sound
+38. The Mission
+39. The Sisters of Mercy
+40. The Cult
+41. The Birthday Party
+42. The Gun Club
+43. The Cramps
+44. The Damned
+45. The Adicts
+46. The Exploited
+47. The Stranglers
+48. The Buzzcocks
+49. The Undertones
+50. The Ruts
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 12's preferences, here are the top 50 recommendations:
+
+1. Breaking Benjamin
+2. My Chemical Romance
+3. Muse
+4. Red Hot Chili Peppers
+5. Green Day
+6. System of a Down
+7. The Offspring
+8. Three Days Grace
+9. Seether
+10. Papa Roach
+11. Chevelle
+12. Shinedown
+13. Skillet
+14. Theory of a Deadman
+15. Staind
+16. Stone Sour
+17. Disturbed
+18. Slipknot
+19. Avenged Sevenfold
+20. Nickelback
+21. Foo Fighters
+22. Paramore
+23. Evanescence
+24. Linkin Park
+25. 30 Seconds to Mars
+26. Limp Bizkit
+27. Fort Minor
+28. Lostprophets
+29. Funeral for a Friend
+30. Finch
+31. Cold
+32. Flyleaf
+33. Poets of the Fall
+34. Bullet for My Valentine
+35. Angels & Airwaves
+36. Depeche Mode
+37. In Flames
+38. HIM
+39. Anathema
+40. Saosin
+41. P.O.D.
+42. Deftones
+43. Ill Niño
+44. Celldweller
+45. Korn
+46. The Rasmus
+47. Lacuna Coil
+48. Within Temptation
+49. Nightwish
+50. Apocalyptica
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for their enjoyment.

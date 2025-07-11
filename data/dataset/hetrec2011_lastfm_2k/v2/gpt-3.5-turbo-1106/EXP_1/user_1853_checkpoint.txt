@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tame Impala
+2. The Strokes
+3. Arctic Monkeys
+4. Radiohead
+5. Queens of the Stone Age
+6. Arcade Fire
+7. The National
+8. Interpol
+9. Modest Mouse
+10. Vampire Weekend
+11. LCD Soundsystem
+12. The Black Keys
+13. Yeah Yeah Yeahs
+14. The Killers
+15. Franz Ferdinand
+16. The White Stripes
+17. Spoon
+18. The Shins
+19. Bloc Party
+20. Phoenix
+21. The Decemberists
+22. Grizzly Bear
+23. The War on Drugs
+24. Beach House
+25. Fleet Foxes
+26. Sufjan Stevens
+27. Bon Iver
+28. Father John Misty
+29. Mac DeMarco
+30. Angel Olsen
+31. Mitski
+32. Car Seat Headrest
+33. Courtney Barnett
+34. Parquet Courts
+35. King Gizzard & The Lizard Wizard
+36. Unknown Mortal Orchestra
+37. Ty Segall
+38. Thee Oh Sees
+39. Deerhunter
+40. Real Estate
+41. DIIV
+42. Beach Fossils
+43. Alvvays
+44. Snail Mail
+45. Soccer Mommy
+46. Big Thief
+47. Sharon Van Etten
+48. Mitski
+49. Waxahatchee
+50. Lucy Dacus
+
+These recommendations are based on the user's liking of alternative, indie, and experimental artists, and are aimed at providing a diverse range of similar artists for the user to explore.

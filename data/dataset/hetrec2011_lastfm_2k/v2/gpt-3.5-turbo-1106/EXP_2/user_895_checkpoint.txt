@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 895:
+
+1. Pink Floyd
+2. Led Zeppelin
+3. Nirvana
+4. Metallica
+5. The Beatles
+6. Radiohead
+7. Muse
+8. The Killers
+9. Pearl Jam
+10. Iron Maiden
+11. Black Sabbath
+12. The Doors
+13. Nine Inch Nails
+14. Linkin Park
+15. Green Day
+16. My Chemical Romance
+17. Rage Against the Machine
+18. The Who
+19. Deep Purple
+20. Korn
+21. Motörhead
+22. The Prodigy
+23. System of a Down
+24. The White Stripes
+25. Judas Priest
+26. Jimi Hendrix
+27. King Crimson
+28. Apocalyptica
+29. Dead Can Dance
+30. Nouvelle Vague
+31. Bauhaus
+32. Creedence Clearwater Revival
+33. Tenacious D
+34. Gentle Giant
+35. The Raconteurs
+36. Camel
+37. Korpiklaani
+38. Britney Spears
+39. Depeche Mode
+40. Lady Gaga
+41. Christina Aguilera
+42. Paramore
+43. Madonna
+44. Rihanna
+45. Shakira
+46. Katy Perry
+47. Avril Lavigne
+48. Taylor Swift
+49. Evanescence
+50. Glee Cast
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

@@ -1,0 +1,52 @@
+Based on user 146's preferences, here are the top 50 book recommendations:
+
+1. The Lion, the Witch and the Wardrobe by C.S. Lewis
+2. The Secret Garden by Frances Hodgson Burnett
+3. Matilda by Roald Dahl
+4. The Chronicles of Narnia by C.S. Lewis
+5. The Hobbit by J.R.R. Tolkien
+6. The Wind in the Willows by Kenneth Grahame
+7. A Tale of Two Cities by Charles Dickens
+8. Great Expectations by Charles Dickens
+9. Animal Farm by George Orwell
+10. To Kill a Mockingbird by Harper Lee
+11. The Catcher in the Rye by J.D. Salinger
+12. The Giver by Lois Lowry
+13. The Book Thief by Markus Zusak
+14. The Secret Life of Bees by Sue Monk Kidd
+15. The Alchemist by Paulo Coelho
+16. The Little Prince by Antoine de Saint-Exupéry
+17. The Outsiders by S.E. Hinton
+18. The Grapes of Wrath by John Steinbeck
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Great Gatsby by F. Scott Fitzgerald
+21. 1984 by George Orwell
+22. Brave New World by Aldous Huxley
+23. The Lord of the Flies by William Golding
+24. The Bell Jar by Sylvia Plath
+25. Jane Eyre by Charlotte Brontë
+26. Pride and Prejudice by Jane Austen
+27. Sense and Sensibility by Jane Austen
+28. Emma by Jane Austen
+29. Persuasion by Jane Austen
+30. Mansfield Park by Jane Austen
+31. Northanger Abbey by Jane Austen
+32. Little Women by Louisa May Alcott
+33. The Secret Garden by Frances Hodgson Burnett
+34. A Little Princess by Frances Hodgson Burnett
+35. The Adventures of Tom Sawyer by Mark Twain
+36. The Adventures of Huckleberry Finn by Mark Twain
+37. The Picture of Dorian Gray by Oscar Wilde
+38. Dracula by Bram Stoker
+39. Frankenstein by Mary Shelley
+40. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+41. The Count of Monte Cristo by Alexandre Dumas
+42. Les Misérables by Victor Hugo
+43. Crime and Punishment by Fyodor Dostoevsky
+44. War and Peace by Leo Tolstoy
+45. Anna Karenina by Leo Tolstoy
+46. The Brothers Karamazov by Fyodor Dostoevsky
+47. One Hundred Years of Solitude by Gabriel García Márquez
+48. Love in the Time of Cholera by Gabriel García Márquez
+49. Don Quixote by Miguel de Cervantes
+50. The Odyssey by Homer

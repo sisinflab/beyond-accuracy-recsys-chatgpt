@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+2. The Yiddish Policemen's Union by Michael Chabon
+3. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+4. The Corrections by Jonathan Franzen
+5. Freedom by Jonathan Franzen
+6. The Road by Cormac McCarthy
+7. No Country for Old Men by Cormac McCarthy
+8. Blood Meridian by Cormac McCarthy
+9. The Grapes of Wrath by John Steinbeck
+10. East of Eden by John Steinbeck
+11. Slaughterhouse-Five by Kurt Vonnegut
+12. Cat's Cradle by Kurt Vonnegut
+13. Breakfast of Champions by Kurt Vonnegut
+14. The Handmaid's Tale by Margaret Atwood
+15. Oryx and Crake by Margaret Atwood
+16. The Blind Assassin by Margaret Atwood
+17. The Wind-Up Bird Chronicle by Haruki Murakami
+18. Kafka on the Shore by Haruki Murakami
+19. 1Q84 by Haruki Murakami
+20. American Gods by Neil Gaiman
+21. Neverwhere by Neil Gaiman
+22. Good Omens by Neil Gaiman and Terry Pratchett
+23. The Ocean at the End of the Lane by Neil Gaiman
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Angel's Game by Carlos Ruiz Zafón
+26. The Prisoner of Heaven by Carlos Ruiz Zafón
+27. The Name of the Wind by Patrick Rothfuss
+28. The Wise Man's Fear by Patrick Rothfuss
+29. The Slow Regard of Silent Things by Patrick Rothfuss
+30. The Lies of Locke Lamora by Scott Lynch
+31. Red Seas Under Red Skies by Scott Lynch
+32. The Republic of Thieves by Scott Lynch
+33. The Night Circus by Erin Morgenstern
+34. The Starless Sea by Erin Morgenstern
+35. The Night Ocean by Paul La Farge
+36. The City & The City by China Miéville
+37. Perdido Street Station by China Miéville
+38. The Scar by China Miéville
+39. The Left Hand of Darkness by Ursula K. Le Guin
+40. The Dispossessed by Ursula K. Le Guin
+41. The Lathe of Heaven by Ursula K. Le Guin
+42. The Book of the New Sun by Gene Wolfe
+43. The Fifth Head of Cerberus by Gene Wolfe
+44. The Sorcerer's House by Gene Wolfe
+45. The Three-Body Problem by Liu Cixin
+46. The Dark Forest by Liu Cixin
+47. Death's End by Liu Cixin
+48. The Fifth Season by N.K. Jemisin
+49. The Obelisk Gate by N.K. Jemisin
+50. The Stone Sky by N.K. Jemisin
+
+These recommendations are based on the user's interest in a variety of genres and authors, including historical non-fiction, science fiction, fantasy, and contemporary literature.

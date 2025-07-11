@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Rolling Stones
+2. David Bowie
+3. Florence + The Machine
+4. Lana Del Rey
+5. The Strokes
+6. Amy Winehouse
+7. Tame Impala
+8. Gorillaz
+9. The Smiths
+10. Arcade Fire
+11. Vampire Weekend
+12. Beck
+13. The Killers
+14. Franz Ferdinand
+15. Hozier
+16. The xx
+17. Bon Iver
+18. Fleetwood Mac
+19. The National
+20. Phoenix
+21. The Kooks
+22. The White Stripes
+23. The Weeknd
+24. Sufjan Stevens
+25. Interpol
+26. Cat Power
+27. Grimes
+28. Alt-J
+29. The Neighbourhood
+30. Arctic Monkeys
+31. Paolo Nutini
+32. The Cure
+33. Hot Chip
+34. Kings of Convenience
+35. Parov Stelar
+36. Placebo
+37. Elliott Smith
+38. Timbaland
+39. The Doors
+40. Justin Timberlake
+41. The Black Keys
+42. Patrick Wolf
+43. Beirut
+44. Radiohead
+45. Nine Inch Nails
+46. Modest Mouse
+47. Beyoncé
+48. The Libertines
+49. Babyshambles
+50. Lily Allen
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current likes.

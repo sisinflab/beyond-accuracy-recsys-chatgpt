@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. PJ Harvey
+2. Nick Cave & The Bad Seeds
+3. Portishead
+4. Mazzy Star
+5. Chelsea Wolfe
+6. The Velvet Underground
+7. Patti Smith
+8. Cat Power
+9. Marissa Nadler
+10. Agnes Obel
+11. Chelsea Wolfe
+12. The Cranberries
+13. Mazzy Star
+14. The Smiths
+15. Siouxsie and the Banshees
+16. Cocteau Twins
+17. Dead Can Dance
+18. This Mortal Coil
+19. The Cure
+20. Joy Division
+21. The Jesus and Mary Chain
+22. Slowdive
+23. My Bloody Valentine
+24. Lush
+25. The Cocteau Twins
+26. The Chameleons
+27. The Sisters of Mercy
+28. The Mission
+29. The Cult
+30. Fields of the Nephilim
+31. The Birthday Party
+32. Bauhaus
+33. The Damned
+34. The Cramps
+35. The Gun Club
+36. The Birthday Party
+37. The Fall
+38. The Teardrop Explodes
+39. Echo & the Bunnymen
+40. The Psychedelic Furs
+41. The Sound
+42. The Comsat Angels
+43. The Chameleons
+44. The Church
+45. The Bolshoi
+46. The March Violets
+47. The Rose of Avalanche
+48. The Danse Society
+49. The Southern Death Cult
+50. The Skeletal Family
+
+These recommendations are based on the user's liking of similar artists and genres.

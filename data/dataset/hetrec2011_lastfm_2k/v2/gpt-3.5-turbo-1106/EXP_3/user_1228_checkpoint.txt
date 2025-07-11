@@ -1,0 +1,54 @@
+Based on user 1228's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Opeth
+2. Black Sabbath
+3. King Crimson
+4. Anathema
+5. Crystal Castles
+6. Sigur Rós
+7. Muse
+8. Underoath
+9. Mindless Self Indulgence
+10. Enter Shikari
+11. VNV Nation
+12. Death Cab for Cutie
+13. The Birthday Massacre
+14. Elliott Smith
+15. Pain of Salvation
+16. Coheed and Cambria
+17. Devin Townsend
+18. Therion
+19. Blackfield
+20. IAMX
+21. Jeff Buckley
+22. Talk Talk
+23. Silverchair
+24. Oasis
+25. The Velvet Underground
+26. Fleetwood Mac
+27. Eric Clapton
+28. Deep Purple
+29. Cynic
+30. Sonata Arctica
+31. David Gilmour
+32. John Mayer
+33. Chico Buarque
+34. Miles Davis
+35. Jimi Hendrix
+36. Captain Beefheart & His Magic Band
+37. Genesis
+38. Yes
+39. Jethro Tull
+40. The Doors
+41. Red Hot Chili Peppers
+42. Nick Drake
+43. Stereophonics
+44. Syd Barrett
+45. Camel
+46. Amorphis
+47. The Smiths
+48. Lily Allen
+49. Kings of Leon
+50. Brian Eno
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

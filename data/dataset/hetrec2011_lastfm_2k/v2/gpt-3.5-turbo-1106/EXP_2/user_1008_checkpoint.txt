@@ -1,0 +1,54 @@
+Based on user 1008's preferences, here are the top 50 recommendations for them:
+
+1. Radiohead
+2. Nine Inch Nails
+3. Björk
+4. The Cure
+5. Joy Division
+6. Ulver
+7. Tim Hecker
+8. Burial
+9. Swans
+10. Ulrich Schnauss
+11. Moby
+12. Burzum
+13. The Smiths
+14. A Tribe Called Quest
+15. Neutral Milk Hotel
+16. Ólafur Arnalds
+17. Death Cab for Cutie
+18. Weezer
+19. Franz Ferdinand
+20. Coldplay
+21. Muse
+22. Pink Floyd
+23. The Beatles
+24. U2
+25. Nirvana
+26. Metallica
+27. Iron Maiden
+28. Led Zeppelin
+29. The Killers
+30. Placebo
+31. Arctic Monkeys
+32. Blur
+33. Duran Duran
+34. Depeche Mode
+35. Madonna
+36. Lady Gaga
+37. Christina Aguilera
+38. Paramore
+39. Rihanna
+40. Shakira
+41. Katy Perry
+42. Avril Lavigne
+43. Taylor Swift
+44. Evanescence
+45. Glee Cast
+46. Beyoncé
+47. 30 Seconds to Mars
+48. Kylie Minogue
+49. Miley Cyrus
+50. Britney Spears
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

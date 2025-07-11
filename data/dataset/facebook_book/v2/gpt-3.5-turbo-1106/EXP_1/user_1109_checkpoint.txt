@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Night Circus by Erin Morgenstern
+2. The Time Traveler's Wife by Audrey Niffenegger
+3. The Help by Kathryn Stockett
+4. The Book Thief by Markus Zusak
+5. The Lovely Bones by Alice Sebold
+6. The Kite Runner by Khaled Hosseini
+7. The Secret Life of Bees by Sue Monk Kidd
+8. The Glass Castle by Jeannette Walls
+9. The Girl on the Train by Paula Hawkins
+10. The Alchemist by Paulo Coelho
+11. The Goldfinch by Donna Tartt
+12. The Hunger Games by Suzanne Collins
+13. The Fault in Our Stars by John Green
+14. The Giver by Lois Lowry
+15. The Catcher in the Rye by J.D. Salinger
+16. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Bell Jar by Sylvia Plath
+20. The Handmaid's Tale by Margaret Atwood
+21. The Martian by Andy Weir
+22. The Nightingale by Kristin Hannah
+23. The Light Between Oceans by M.L. Stedman
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Da Vinci Code by Dan Brown
+26. The Help by Kathryn Stockett
+27. The Road by Cormac McCarthy
+28. The Shack by William P. Young
+29. The Thorn Birds by Colleen McCullough
+30. The Pillars of the Earth by Ken Follett
+31. The Stand by Stephen King
+32. The Shining by Stephen King
+33. The Green Mile by Stephen King
+34. The Girl Who Played with Fire by Stieg Larsson
+35. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+36. The Girl on the Train by Paula Hawkins
+37. The Night Circus by Erin Morgenstern
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Help by Kathryn Stockett
+40. The Book Thief by Markus Zusak
+41. The Lovely Bones by Alice Sebold
+42. The Kite Runner by Khaled Hosseini
+43. The Secret Life of Bees by Sue Monk Kidd
+44. The Glass Castle by Jeannette Walls
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Da Vinci Code by Dan Brown
+47. The Road by Cormac McCarthy
+48. The Shack by William P. Young
+49. The Thorn Birds by Colleen McCullough
+50. The Pillars of the Earth by Ken Follett

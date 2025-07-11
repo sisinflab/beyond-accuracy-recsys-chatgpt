@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. The White Stripes
+3. Bloc Party
+4. Yeah Yeah Yeahs
+5. The Libertines
+6. The Hives
+7. The Vines
+8. The Black Keys
+9. Spoon
+10. Modest Mouse
+11. Vampire Weekend
+12. The Raconteurs
+13. The Bravery
+14. The Kooks
+15. The Fratellis
+16. The Wombats
+17. The Vaccines
+18. The Strokes
+19. Interpol
+20. The Killers
+21. The Hellacopters
+22. Backyard Babies
+23. Jimmy Eat World
+24. Radiohead
+25. Nine Inch Nails
+26. Mando Diao
+27. Arcade Fire
+28. Elliott Smith
+29. The Mars Volta
+30. Muse
+31. David Bowie
+32. Los Hermanos
+33. Moptop
+34. Joy Division
+35. Coldplay
+36. Cachorro Grande
+37. At the Drive-In
+38. Queens of the Stone Age
+39. Beck
+40. Albert Hammond, Jr.
+41. Mew
+42. Supergrass
+43. Kyuss
+44. Kaiser Chiefs
+45. Misfits
+46. Kings of Leon
+47. Klaxons
+48. Franz Ferdinand
+49. The Sounds
+50. The National
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music that aligns with their preferences.

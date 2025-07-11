@@ -1,0 +1,54 @@
+Based on the preferences of user 79, here are the top 50 recommendations:
+
+1. Demi Lovato
+2. Selena Gomez
+3. Ariana Grande
+4. Taylor Swift
+5. Katy Perry
+6. Bruno Mars
+7. Adele
+8. Pink
+9. Beyoncé
+10. Justin Bieber
+11. Nicki Minaj
+12. Ed Sheeran
+13. Shawn Mendes
+14. The Weeknd
+15. Drake
+16. Sia
+17. Sam Smith
+18. Coldplay
+19. Imagine Dragons
+20. OneRepublic
+21. Maroon 5
+22. John Legend
+23. Jason Mraz
+24. Halsey
+25. Zayn
+26. Camila Cabello
+27. Khalid
+28. Lorde
+29. Meghan Trainor
+30. Charlie Puth
+31. Shawn Mendes
+32. Alessia Cara
+33. Dua Lipa
+34. Hailee Steinfeld
+35. Troye Sivan
+36. Zara Larsson
+37. Fifth Harmony
+38. Little Mix
+39. Demi Lovato
+40. Selena Gomez
+41. Ariana Grande
+42. Taylor Swift
+43. Katy Perry
+44. Bruno Mars
+45. Adele
+46. Pink
+47. Beyoncé
+48. Justin Bieber
+49. Nicki Minaj
+50. Ed Sheeran
+
+These recommendations are based on the similar music preferences of user 79 and are aimed at providing a diverse range of artists and genres that the user may enjoy.

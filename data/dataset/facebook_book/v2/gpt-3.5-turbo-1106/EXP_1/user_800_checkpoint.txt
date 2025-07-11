@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. Veronika Decides to Die by Paulo Coelho
+3. Inferno by Dan Brown
+4. Origin by Dan Brown
+5. The Lost Symbol by Dan Brown
+6. The Pilgrimage by Paulo Coelho
+7. Brida by Paulo Coelho
+8. The Valkyries by Paulo Coelho
+9. By the River Piedra I Sat Down and Wept by Paulo Coelho
+10. The Zahir by Paulo Coelho
+11. The Witch of Portobello by Paulo Coelho
+12. Manuscript Found in Accra by Paulo Coelho
+13. The Winner Stands Alone by Paulo Coelho
+14. The Fifth Mountain by Paulo Coelho
+15. Adultery by Paulo Coelho
+16. The Spy by Paulo Coelho
+17. The Devil and Miss Prym by Paulo Coelho
+18. The Golem and the Jinni by Helene Wecker
+19. The Night Circus by Erin Morgenstern
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Name of the Wind by Patrick Rothfuss
+22. The Book Thief by Markus Zusak
+23. The Kite Runner by Khaled Hosseini
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. The Catcher in the Rye by J.D. Salinger
+26. To Kill a Mockingbird by Harper Lee
+27. The Great Gatsby by F. Scott Fitzgerald
+28. Pride and Prejudice by Jane Austen
+29. Wuthering Heights by Emily Brontë
+30. Crime and Punishment by Fyodor Dostoevsky
+31. War and Peace by Leo Tolstoy
+32. Anna Karenina by Leo Tolstoy
+33. One Hundred Years of Solitude by Gabriel García Márquez
+34. Love in the Time of Cholera by Gabriel García Márquez
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Count of Monte Cristo by Alexandre Dumas
+37. Les Misérables by Victor Hugo
+38. The Brothers Karamazov by Fyodor Dostoevsky
+39. Moby-Dick by Herman Melville
+40. The Grapes of Wrath by John Steinbeck
+41. East of Eden by John Steinbeck
+42. The Sun Also Rises by Ernest Hemingway
+43. A Farewell to Arms by Ernest Hemingway
+44. For Whom the Bell Tolls by Ernest Hemingway
+45. Animal Farm by George Orwell
+46. Brave New World by Aldous Huxley
+47. Fahrenheit 451 by Ray Bradbury
+48. Slaughterhouse-Five by Kurt Vonnegut
+49. Catch-22 by Joseph Heller
+50. One Flew Over the Cuckoo's Nest by Ken Kesey
+
+These recommendations are based on the user's interest in books by Paulo Coelho, Dan Brown, and other classic literature.

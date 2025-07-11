@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. Maroon 5
+3. OneRepublic
+4. The All-American Rejects
+5. The Killers
+6. Weezer
+7. The Fray
+8. 30 Seconds to Mars
+9. Imagine Dragons
+10. The Script
+11. Panic! At the Disco
+12. Paramore
+13. My Chemical Romance
+14. All Time Low
+15. The Pretty Reckless
+16. Hey Monday
+17. Tonight Alive
+18. We Are the In Crowd
+19. The Summer Set
+20. VersaEmerge
+21. The Maine
+22. Mayday Parade
+23. The Academy Is...
+24. Cobra Starship
+25. Hot Chelle Rae
+26. The Cab
+27. The Ready Set
+28. Forever the Sickest Kids
+29. Metro Station
+30. Cute Is What We Aim For
+31. Boys Like Girls
+32. Good Charlotte
+33. Simple Plan
+34. Bowling for Soup
+35. Yellowcard
+36. Sum 41
+37. New Found Glory
+38. Jimmy Eat World
+39. Blink-182
+40. Green Day
+41. 5 Seconds of Summer
+42. The Vamps
+43. Little Mix
+44. Fifth Harmony
+45. Halsey
+46. Troye Sivan
+47. Lorde
+48. Charli XCX
+49. Tove Lo
+50. Alessia Cara
+
+These recommendations are based on the user's liking of pop-punk, alternative rock, and pop artists.

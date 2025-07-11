@@ -1,0 +1,54 @@
+Based on user 82's preferences, here are the top 50 book recommendations:
+
+1. The Name of the Wind by Patrick Rothfuss
+2. The Lies of Locke Lamora by Scott Lynch
+3. The Way of Kings by Brandon Sanderson
+4. The Final Empire by Brandon Sanderson
+5. Mistborn: The Well of Ascension by Brandon Sanderson
+6. Mistborn: The Hero of Ages by Brandon Sanderson
+7. Mistborn: The Alloy of Law by Brandon Sanderson
+8. Mistborn: Shadows of Self by Brandon Sanderson
+9. Mistborn: The Bands of Mourning by Brandon Sanderson
+10. Mistborn: Secret History by Brandon Sanderson
+11. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+12. Harry Potter and the Chamber of Secrets by J.K. Rowling
+13. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+14. Harry Potter and the Goblet of Fire by J.K. Rowling
+15. Harry Potter and the Order of the Phoenix by J.K. Rowling
+16. Harry Potter and the Half-Blood Prince by J.K. Rowling
+17. Harry Potter and the Deathly Hallows by J.K. Rowling
+18. The Magician's Nephew by C.S. Lewis
+19. The Horse and His Boy by C.S. Lewis
+20. Prince Caspian by C.S. Lewis
+21. The Voyage of the Dawn Treader by C.S. Lewis
+22. The Silver Chair by C.S. Lewis
+23. The Last Battle by C.S. Lewis
+24. The Stand by Stephen King
+25. It by Stephen King
+26. Carrie by Stephen King
+27. Pet Sematary by Stephen King
+28. 11/22/63 by Stephen King
+29. The Dark Tower: The Gunslinger by Stephen King
+30. The Dark Tower II: The Drawing of the Three by Stephen King
+31. The Dark Tower III: The Waste Lands by Stephen King
+32. The Dark Tower IV: Wizard and Glass by Stephen King
+33. The Dark Tower V: Wolves of the Calla by Stephen King
+34. The Dark Tower VI: Song of Susannah by Stephen King
+35. The Dark Tower VII: The Dark Tower by Stephen King
+36. Outlander by Diana Gabaldon
+37. Dragonfly in Amber by Diana Gabaldon
+38. Voyager by Diana Gabaldon
+39. Drums of Autumn by Diana Gabaldon
+40. The Fiery Cross by Diana Gabaldon
+41. A Breath of Snow and Ashes by Diana Gabaldon
+42. An Echo in the Bone by Diana Gabaldon
+43. Written in My Own Heart's Blood by Diana Gabaldon
+44. Animal Farm by George Orwell
+45. 1984 by George Orwell
+46. Brave New World by Aldous Huxley
+47. Fahrenheit 451 by Ray Bradbury
+48. The Handmaid's Tale by Margaret Atwood
+49. Lord of the Flies by William Golding
+50. To Kill a Mockingbird by Harper Lee
+
+These recommendations are based on similar themes, genres, and authors to the books that user 82 likes.

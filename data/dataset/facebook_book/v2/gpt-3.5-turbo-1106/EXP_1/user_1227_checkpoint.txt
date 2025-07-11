@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Giver by Lois Lowry
+2. Holes by Louis Sachar
+3. The Hunger Games by Suzanne Collins
+4. The Fault in Our Stars by John Green
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. To Kill a Mockingbird by Harper Lee
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Book Thief by Markus Zusak
+9. The Maze Runner by James Dashner
+10. Divergent by Veronica Roth
+11. The Catcher in the Rye by J.D. Salinger
+12. The Secret Garden by Frances Hodgson Burnett
+13. The Lightning Thief by Rick Riordan
+14. The Alchemist by Paulo Coelho
+15. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+16. The Lovely Bones by Alice Sebold
+17. The House on Mango Street by Sandra Cisneros
+18. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+19. The Outsiders by S.E. Hinton
+20. The Chronicles of Prydain by Lloyd Alexander
+21. The Inheritance Cycle by Christopher Paolini
+22. The Dark is Rising Sequence by Susan Cooper
+23. The Chronicles of Ancient Darkness by Michelle Paver
+24. The Underland Chronicles by Suzanne Collins
+25. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+26. The Bartimaeus Trilogy by Jonathan Stroud
+27. The Abhorsen Trilogy by Garth Nix
+28. The Inheritance Trilogy by N.K. Jemisin
+29. The Mistborn Trilogy by Brandon Sanderson
+30. The Kingkiller Chronicle by Patrick Rothfuss
+31. The Broken Empire Trilogy by Mark Lawrence
+32. The Lightbringer Series by Brent Weeks
+33. The Powder Mage Trilogy by Brian McClellan
+34. The Stormlight Archive by Brandon Sanderson
+35. The First Law Trilogy by Joe Abercrombie
+36. The Farseer Trilogy by Robin Hobb
+37. The Liveship Traders Trilogy by Robin Hobb
+38. The Tawny Man Trilogy by Robin Hobb
+39. The Gentleman Bastard Sequence by Scott Lynch
+40. The Malazan Book of the Fallen by Steven Erikson
+41. The Black Company by Glen Cook
+42. The Broken Earth Trilogy by N.K. Jemisin
+43. The Earthsea Cycle by Ursula K. Le Guin
+44. The Old Kingdom Series by Garth Nix
+45. The Inheritance Trilogy by N.K. Jemisin
+46. The Mistborn Series by Brandon Sanderson
+47. The Lightbringer Series by Brent Weeks
+48. The Powder Mage Trilogy by Brian McClellan
+49. The Stormlight Archive by Brandon Sanderson
+50. The First Law Trilogy by Joe Abercrombie
+
+These recommendations are based on the user's interest in young adult fiction, fantasy, and coming-of-age novels.

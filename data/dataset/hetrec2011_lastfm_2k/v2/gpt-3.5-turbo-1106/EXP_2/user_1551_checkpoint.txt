@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. The Beatles
+2. Pink Floyd
+3. Radiohead
+4. Metallica
+5. The Cure
+6. Depeche Mode
+7. Nirvana
+8. Muse
+9. The Killers
+10. Coldplay
+11. Green Day
+12. Nine Inch Nails
+13. Placebo
+14. My Chemical Romance
+15. Linkin Park
+16. System of a Down
+17. The Smashing Pumpkins
+18. AFI
+19. The Offspring
+20. Beck
+21. Underworld
+22. The Prodigy
+23. KMFDM
+24. Combichrist
+25. Deathstars
+26. She Wants Revenge
+27. Type O Negative
+28. Diary of Dreams
+29. The Crüxshadows
+30. Wolfsheim
+31. mind.in.a.box
+32. Assemblage 23
+33. Apoptygma Berzerk
+34. Blutengel
+35. Gary Numan
+36. Skinny Puppy
+37. Marilyn Manson
+38. Rammstein
+39. Nine Inch Nails
+40. Ministry
+41. Front Line Assembly
+42. VNV Nation
+43. Covenant
+44. And One
+45. Icon of Coil
+46. Rotersand
+47. Seabound
+48. Neuroticfish
+49. Assemblage 23
+50. Solitary Experiments
+
+This re-ranked list is based on the user's liking of similar artists and their music preferences.

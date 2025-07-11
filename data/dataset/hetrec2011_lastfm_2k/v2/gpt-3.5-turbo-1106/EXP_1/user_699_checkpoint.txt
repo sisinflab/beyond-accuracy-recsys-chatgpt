@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. Echo & the Bunnymen
+3. Siouxsie and the Banshees
+4. Bauhaus
+5. Joy Division
+6. Talking Heads
+7. The Sisters of Mercy
+8. The Cult
+9. The Psychedelic Furs
+10. The Chameleons
+11. The Mission
+12. The Damned
+13. Killing Joke
+14. Public Image Ltd
+15. Magazine
+16. Wire
+17. The Sound
+18. The Church
+19. The Jesus and Mary Chain
+20. Cocteau Twins
+21. The Teardrop Explodes
+22. The Birthday Party
+23. The Fall
+24. The Stranglers
+25. The Jam
+26. The Undertones
+27. The Adicts
+28. The Vibrators
+29. The Rezillos
+30. The Ruts
+31. The Skids
+32. The Adverts
+33. The Only Ones
+34. The Buzzcocks
+35. The Slits
+36. The Raincoats
+37. The Saints
+38. The Damned
+39. The Dead Boys
+40. The Dictators
+41. The Heartbreakers
+42. The New York Dolls
+43. The Stooges
+44. The Velvet Underground
+45. The Modern Lovers
+46. Television
+47. Richard Hell & The Voidoids
+48. Patti Smith
+49. Iggy Pop
+50. David Bowie
+
+These recommendations are based on the user's liking for similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Brontë
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Animal Farm by George Orwell
+7. The Catcher in the Rye by J.D. Salinger
+8. The Lord of the Rings by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Secret Garden by Frances Hodgson Burnett
+11. Little Women by Louisa May Alcott
+12. The Alchemist by Paulo Coelho
+13. The Giver by Lois Lowry
+14. The Hunger Games by Suzanne Collins
+15. The Maze Runner by James Dashner
+16. The Book Thief by Markus Zusak
+17. The Night Circus by Erin Morgenstern
+18. The Name of the Wind by Patrick Rothfuss
+19. The Lies of Locke Lamora by Scott Lynch
+20. Mistborn by Brandon Sanderson
+21. The Way of Kings by Brandon Sanderson
+22. The Girl with the Dragon Tattoo by Stieg Larsson
+23. The Da Vinci Code by Dan Brown
+24. The Girl on the Train by Paula Hawkins
+25. Gone Girl by Gillian Flynn
+26. The Girl with the Pearl Earring by Tracy Chevalier
+27. The Help by Kathryn Stockett
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Secret Life of Bees by Sue Monk Kidd
+31. The Color Purple by Alice Walker
+32. The Handmaid's Tale by Margaret Atwood
+33. The Bell Jar by Sylvia Plath
+34. The Road by Cormac McCarthy
+35. The Stand by Stephen King
+36. The Shining by Stephen King
+37. The Girl Who Loved Tom Gordon by Stephen King
+38. The Lovely Bones by Alice Sebold
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Host by Stephenie Meyer
+41. The Nightingale by Kristin Hannah
+42. The Light Between Oceans by M.L. Stedman
+43. The Goldfinch by Donna Tartt
+44. The Glass Castle by Jeannette Walls
+45. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+46. The Help by Kathryn Stockett
+47. The Book Thief by Markus Zusak
+48. The Night Circus by Erin Morgenstern
+49. The Name of the Wind by Patrick Rothfuss
+50. The Lies of Locke Lamora by Scott Lynch
+
+These recommendations are based on the user's interest in classic literature, fantasy, and historical fiction.

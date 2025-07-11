@@ -1,0 +1,54 @@
+Based on user 250's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The Beatles
+2. Pink Floyd
+3. Led Zeppelin
+4. The Who
+5. The Doors
+6. Jimi Hendrix
+7. Bob Dylan
+8. Fleetwood Mac
+9. Jefferson Airplane
+10. The Velvet Underground
+11. The Beach Boys
+12. Grand Funk Railroad
+13. The Smiths
+14. Pixies
+15. Sonic Youth
+16. Nirvana
+17. Roger Waters
+18. Tool
+19. King Crimson
+20. Primus
+21. Modest Mouse
+22. Gorillaz
+23. Jethro Tull
+24. King Diamond
+25. Cynic
+26. Daft Punk
+27. Emerson, Lake & Palmer
+28. Blind Guardian
+29. Opeth
+30. At the Drive-In
+31. Camel
+32. Electric Light Orchestra
+33. Death
+34. Ray Charles
+35. Tenacious D
+36. Coldplay
+37. Belle and Sebastian
+38. Weezer
+39. Third Eye Blind
+40. Louis Armstrong
+41. Explosions in the Sky
+42. Talk Talk
+43. Syd Barrett
+44. Brian Eno
+45. Jimmy Eat World
+46. Bloodhound Gang
+47. Joy Division
+48. My Bloody Valentine
+49. Eric Clapton
+50. Death Cab for Cutie
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Maze Runner by James Dashner
+2. Divergent by Veronica Roth
+3. The Hunger Games by Suzanne Collins
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. Thirteen Reasons Why by Jay Asher
+7. The Outsiders by S.E. Hinton
+8. Speak by Laurie Halse Anderson
+9. Looking for Alaska by John Green
+10. The Book Thief by Markus Zusak
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. Paper Towns by John Green
+13. Eleanor & Park by Rainbow Rowell
+14. If I Stay by Gayle Forman
+15. Before I Fall by Lauren Oliver
+16. The Absolutely True Diary of a Part-Time Indian by Sherman Alexie
+17. Stargirl by Jerry Spinelli
+18. The Sisterhood of the Traveling Pants by Ann Brashares
+19. The Chronicles of Narnia by C.S. Lewis
+20. The Alchemist by Paulo Coelho
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Lovely Bones by Alice Sebold
+23. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+24. The Catcher in the Rye by J.D. Salinger
+25. The Bell Jar by Sylvia Plath
+26. The Glass Castle by Jeannette Walls
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Color Purple by Alice Walker
+30. The Handmaid's Tale by Margaret Atwood
+31. The Help by Kathryn Stockett
+32. The Girl on the Train by Paula Hawkins
+33. Gone Girl by Gillian Flynn
+34. Sharp Objects by Gillian Flynn
+35. Dark Places by Gillian Flynn
+36. The Night Circus by Erin Morgenstern
+37. The Goldfinch by Donna Tartt
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Girl Who Played with Fire by Stieg Larsson
+41. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+42. The Da Vinci Code by Dan Brown
+43. Angels & Demons by Dan Brown
+44. Inferno by Dan Brown
+45. The Martian by Andy Weir
+46. Ready Player One by Ernest Cline
+47. The Name of the Wind by Patrick Rothfuss
+48. The Nightingale by Kristin Hannah
+49. All the Light We Cannot See by Anthony Doerr
+50. The Book of Lost Things by John Connolly
+
+These recommendations are based on the user's interest in young adult fiction, coming-of-age stories, and novels with dark themes.

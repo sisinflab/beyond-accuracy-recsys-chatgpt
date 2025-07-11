@@ -1,0 +1,54 @@
+Based on user 1554's preferences, here are the top 50 recommendations:
+
+1. The Rolling Stones
+2. Bob Dylan
+3. The Doors
+4. Nirvana
+5. Radiohead
+6. Queen
+7. The Smiths
+8. Oasis
+9. Pearl Jam
+10. The Strokes
+11. The Beach Boys
+12. Fleetwood Mac
+13. The Cure
+14. Joy Division
+15. The Smithereens
+16. The Byrds
+17. The Flaming Lips
+18. The Black Keys
+19. The Smashing Pumpkins
+20. The Velvet Underground & Nico
+21. The Stooges
+22. The Ramones
+23. The Clash
+24. The Kinks
+25. The White Stripes
+26. The Who
+27. The Jimi Hendrix Experience
+28. The Beatles
+29. Pink Floyd
+30. Jefferson Airplane
+31. Ramones
+32. Jimi Hendrix
+33. Arctic Monkeys
+34. Frank Zappa
+35. Lou Reed
+36. David Bowie
+37. The Kooks
+38. Cream
+39. Elvis Presley
+40. The Animals
+41. The Yardbirds
+42. Led Zeppelin
+43. Santana
+44. Creedence Clearwater Revival
+45. The Mamas & The Papas
+46. Amy Winehouse
+47. Sex Pistols
+48. John Lennon
+49. Janis Joplin
+50. Johnny Cash
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

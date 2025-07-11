@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Lana Del Rey
+2. Florence + The Machine
+3. Hozier
+4. Lorde
+5. The Strokes
+6. Tame Impala
+7. The Neighbourhood
+8. The 1975
+9. Arctic Monkeys
+10. The Kooks
+11. The Hush Sound
+12. The Killers
+13. Two Door Cinema Club
+14. The Wombats
+15. The Vaccines
+16. Franz Ferdinand
+17. Cage The Elephant
+18. Foster The People
+19. The Black Keys
+20. Kings of Leon
+21. Imagine Dragons
+22. Bastille
+23. Vampire Weekend
+24. The Lumineers
+25. Mumford & Sons
+26. Of Monsters and Men
+27. The Head and the Heart
+28. Death Cab for Cutie
+29. Coldplay
+30. Snow Patrol
+31. Keane
+32. The Fray
+33. OneRepublic
+34. Maroon 5
+35. Train
+36. The Script
+37. James Bay
+38. Ed Sheeran
+39. Sam Smith
+40. Adele
+41. Norah Jones
+42. Sara Bareilles
+43. Colbie Caillat
+44. Ingrid Michaelson
+45. Regina Spektor
+46. Sia
+47. Birdy
+48. Ellie Goulding
+49. Alessia Cara
+50. Halsey
+
+These recommendations are based on the user's liking of similar artists and genres.

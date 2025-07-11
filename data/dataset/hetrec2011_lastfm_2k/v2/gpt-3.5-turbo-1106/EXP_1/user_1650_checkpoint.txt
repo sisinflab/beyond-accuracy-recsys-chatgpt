@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. Rancid
+3. The Clash
+4. Descendents
+5. Operation Ivy
+6. Dead Kennedys
+7. The Offspring
+8. Social Distortion
+9. Misfits
+10. Black Flag
+11. Minor Threat
+12. Bad Brains
+13. The Ramones
+14. Sex Pistols
+15. The Stooges
+16. The Damned
+17. X-Ray Spex
+18. The Adicts
+19. The Buzzcocks
+20. The Exploited
+21. The Germs
+22. The Dead Boys
+23. The Adolescents
+24. The Vibrators
+25. The Dwarves
+26. The Dickies
+27. The Lurkers
+28. The Rezillos
+29. The Undertones
+30. The Saints
+31. The Stranglers
+32. The Only Ones
+33. The Ruts
+34. The Skids
+35. The Slits
+36. The Raincoats
+37. The Au Pairs
+38. The Distillers
+39. The Runaways
+40. The Donnas
+41. The Muffs
+42. The Breeders
+43. L7
+44. Bikini Kill
+45. Sleater-Kinney
+46. Hole
+47. Veruca Salt
+48. Babes in Toyland
+49. 7 Year Bitch
+50. Bratmobile
+
+These recommendations are based on the user's liking of punk, alternative, and classic rock artists.

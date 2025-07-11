@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. Delirium by Lauren Oliver
+3. The Maze Runner by James Dashner
+4. Uglies by Scott Westerfeld
+5. The Giver by Lois Lowry
+6. Legend by Marie Lu
+7. The Selection by Kiera Cass
+8. Shatter Me by Tahereh Mafi
+9. The 5th Wave by Rick Yancey
+10. Cinder by Marissa Meyer
+11. Red Queen by Victoria Aveyard
+12. The Darkest Minds by Alexandra Bracken
+13. The Host by Stephenie Meyer
+14. The Mortal Instruments series by Cassandra Clare
+15. The Infernal Devices series by Cassandra Clare
+16. Graceling by Kristin Cashore
+17. The Lunar Chronicles series by Marissa Meyer
+18. The Testing by Joelle Charbonneau
+19. The Knife of Never Letting Go by Patrick Ness
+20. The Chaos Walking series by Patrick Ness
+21. The Girl of Fire and Thorns by Rae Carson
+22. The Wrath and the Dawn by Renee Ahdieh
+23. An Ember in the Ashes by Sabaa Tahir
+24. The Young Elites by Marie Lu
+25. The Raven Cycle series by Maggie Stiefvater
+26. The Scorpio Races by Maggie Stiefvater
+27. The Night Circus by Erin Morgenstern
+28. Daughter of Smoke & Bone by Laini Taylor
+29. The Bone Season by Samantha Shannon
+30. The Diviners by Libba Bray
+31. The Raven Boys by Maggie Stiefvater
+32. The Secret History by Donna Tartt
+33. The Goldfinch by Donna Tartt
+34. The Book Thief by Markus Zusak
+35. All the Light We Cannot See by Anthony Doerr
+36. The Nightingale by Kristin Hannah
+37. The Secret Life of Bees by Sue Monk Kidd
+38. The Help by Kathryn Stockett
+39. The Kite Runner by Khaled Hosseini
+40. A Thousand Splendid Suns by Khaled Hosseini
+41. The Alchemist by Paulo Coelho
+42. The Shadow of the Wind by Carlos Ruiz Zafón
+43. The Night Circus by Erin Morgenstern
+44. The Time Traveler's Wife by Audrey Niffenegger
+45. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows
+46. The Thirteenth Tale by Diane Setterfield
+47. The Nightingale by Kristin Hannah
+48. The Light Between Oceans by M.L. Stedman
+49. The Night Circus by Erin Morgenstern
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's interest in dystopian fiction, fantasy, and young adult novels.

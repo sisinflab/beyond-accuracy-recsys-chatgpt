@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jimi Hendrix
+2. The Black Keys
+3. Arctic Monkeys
+4. Neil Young
+5. Pearl Jam
+6. The Strokes
+7. Oasis
+8. Tom Petty and the Heartbreakers
+9. The Velvet Underground
+10. R.E.M.
+11. The Clash
+12. Neil Diamond
+13. The Smiths
+14. Tom Waits
+15. The Flaming Lips
+16. The Police
+17. Talking Heads
+18. The Byrds
+19. The Rolling Stones
+20. Led Zeppelin
+21. Pink Floyd
+22. The White Stripes
+23. The Who
+24. Interpol
+25. David Bowie
+26. Jack Johnson
+27. 植松伸夫
+28. Kings of Leon
+29. Depeche Mode
+30. Arcade Fire
+31. CAKE
+32. The Beatles
+33. Foo Fighters
+34. Eric Clapton
+35. Queen
+36. Norah Jones
+37. The Doors
+38. U2
+39. Radiohead
+40. AC/DC
+41. John Williams
+42. Queens of the Stone Age
+43. The Smashing Pumpkins
+44. Santana
+45. The Kinks
+46. Johnny Cash
+47. Fleetwood Mac
+48. Red Hot Chili Peppers
+49. Serge Gainsbourg
+50. Iggy Pop
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current likes.

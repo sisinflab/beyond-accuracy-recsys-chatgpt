@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The White Stripes
+3. The Libertines
+4. The Verve
+5. The Smiths
+6. Franz Ferdinand
+7. Arctic Monkeys
+8. The Kooks
+9. The Black Keys
+10. The Hives
+11. The Raconteurs
+12. The Fratellis
+13. The Wombats
+14. The Vaccines
+15. The Strokes
+16. The Killers
+17. The Bravery
+18. The Rakes
+19. The Pigeon Detectives
+20. The Courteeners
+21. The View
+22. The Futureheads
+23. The Cribs
+24. The Coral
+25. The Charlatans
+26. The Bluetones
+27. The Stone Roses
+28. The La's
+29. The Jam
+30. The Housemartins
+31. The Happy Mondays
+32. The Fall
+33. The Buzzcocks
+34. The Undertones
+35. The Specials
+36. The Selecter
+37. The Beat
+38. The Adicts
+39. The Damned
+40. The Clash
+41. The Buzzcocks
+42. The Stranglers
+43. The Ramones
+44. The Sex Pistols
+45. The Dead Kennedys
+46. The Misfits
+47. The Offspring
+48. The Hives
+49. The Distillers
+50. The Donnas

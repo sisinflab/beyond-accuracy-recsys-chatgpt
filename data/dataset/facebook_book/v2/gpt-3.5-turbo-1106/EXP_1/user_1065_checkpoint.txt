@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shadow of the Wind by Carlos Ruiz Zafón
+2. Kafka on the Shore by Haruki Murakami
+3. The Wind-Up Bird Chronicle by Haruki Murakami
+4. Love in the Time of Cholera by Gabriel García Márquez
+5. The Remains of the Day by Kazuo Ishiguro
+6. The Unconsoled by Kazuo Ishiguro
+7. Matilda by Roald Dahl
+8. Charlie and the Chocolate Factory by Roald Dahl
+9. Holes by Louis Sachar
+10. The Witches by Roald Dahl
+11. The Graveyard Book by Neil Gaiman
+12. Coraline by Neil Gaiman
+13. The Giver by Lois Lowry
+14. Animal Farm by George Orwell
+15. Brave New World by Aldous Huxley
+16. Slaughterhouse-Five by Kurt Vonnegut
+17. Norwegian Wood by Haruki Murakami
+18. Colorless Tsukuru Tazaki and His Years of Pilgrimage by Haruki Murakami
+19. A Wild Sheep Chase by Haruki Murakami
+20. The Catcher in the Rye by J.D. Salinger
+21. To Kill a Mockingbird by Harper Lee
+22. The Great Gatsby by F. Scott Fitzgerald
+23. Catch-22 by Joseph Heller
+24. The Road by Cormac McCarthy
+25. The Handmaid's Tale by Margaret Atwood
+26. The Stand by Stephen King
+27. The Shining by Stephen King
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Name of the Wind by Patrick Rothfuss
+30. The Hobbit by J.R.R. Tolkien
+31. The Lord of the Rings by J.R.R. Tolkien
+32. The Alchemist by Paulo Coelho
+33. The Kite Runner by Khaled Hosseini
+34. Life of Pi by Yann Martel
+35. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+36. The Secret History by Donna Tartt
+37. The Goldfinch by Donna Tartt
+38. The Night Circus by Erin Morgenstern
+39. The Book Thief by Markus Zusak
+40. The Secret Garden by Frances Hodgson Burnett
+41. The Little Prince by Antoine de Saint-Exupéry
+42. The Chronicles of Narnia by C.S. Lewis
+43. The Hunger Games by Suzanne Collins
+44. Divergent by Veronica Roth
+45. The Maze Runner by James Dashner
+46. Ender's Game by Orson Scott Card
+47. Ready Player One by Ernest Cline
+48. The Martian by Andy Weir
+49. Dark Matter by Blake Crouch
+50. Station Eleven by Emily St. John Mandel
+
+These recommendations are based on the user's liking for magical realism, dystopian fiction, coming-of-age stories, and psychological thrillers.

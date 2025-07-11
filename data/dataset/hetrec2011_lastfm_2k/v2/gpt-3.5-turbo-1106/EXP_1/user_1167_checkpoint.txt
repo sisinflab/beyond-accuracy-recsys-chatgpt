@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. Alt-J
+3. Tame Impala
+4. Foals
+5. Vampire Weekend
+6. The xx
+7. MGMT
+8. Phoenix
+9. The National
+10. Fleet Foxes
+11. Grizzly Bear
+12. Beach House
+13. The War on Drugs
+14. Interpol
+15. The Antlers
+16. Radiohead
+17. LCD Soundsystem
+18. The Postal Service
+19. Death Cab for Cutie
+20. Belle and Sebastian
+21. The Shins
+22. Modest Mouse
+23. Spoon
+24. Band of Horses
+25. The Decemberists
+26. Iron & Wine
+27. Beirut
+28. Father John Misty
+29. Mac DeMarco
+30. Real Estate
+31. Kurt Vile
+32. Sharon Van Etten
+33. Angel Olsen
+34. Mitski
+35. Courtney Barnett
+36. Caribou
+37. Tycho
+38. Four Tet
+39. Röyksopp
+40. Air
+41. Tycho
+42. Rhye
+43. Washed Out
+44. Wild Nothing
+45. Youth Lagoon
+46. Porches
+47. Unknown Mortal Orchestra
+48. DIIV
+49. Beach Fossils
+50. Craft Spells
+
+These recommendations are based on the user's liking of indie, alternative, and electronic music, and are similar to the artists they already enjoy.

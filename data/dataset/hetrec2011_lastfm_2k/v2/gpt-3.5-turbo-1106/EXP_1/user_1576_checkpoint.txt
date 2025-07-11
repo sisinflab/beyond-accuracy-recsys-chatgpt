@@ -1,0 +1,54 @@
+Based on the preferences of user 1576, here are the top 50 recommendations:
+
+1. Madonna
+2. Cher
+3. Annie Lennox
+4. Kate Bush
+5. Pet Shop Boys
+6. Duran Duran
+7. The Bangles
+8. The Cranberries
+9. The Cure
+10. Depeche Mode
+11. Florence + The Machine
+12. Lana Del Rey
+13. Lady Gaga
+14. Adele
+15. Sia
+16. Halsey
+17. Paramore
+18. The Killers
+19. Panic! At The Disco
+20. Fall Out Boy
+21. My Chemical Romance
+22. Green Day
+23. The Rolling Stones
+24. Queen
+25. David Bowie
+26. Prince
+27. Michael Jackson
+28. Whitney Houston
+29. Tina Turner
+30. Janet Jackson
+31. George Michael
+32. Elton John
+33. Billy Joel
+34. Fleetwood Mac
+35. Stevie Nicks
+36. Pat Benatar
+37. Joan Jett & The Blackhearts
+38. Blondie
+39. The Pretenders
+40. The Go-Go's
+41. Cyndi Lauper
+42. Heart
+43. Siouxsie and the Banshees
+44. ABBA
+45. Sarah Brightman
+46. Jonathan Larson
+47. Glee Cast
+48. Marilyn Manson
+49. Mika
+50. Enya
+
+These recommendations are based on the similar music preferences of user 1576 and include a mix of artists from various genres and eras.

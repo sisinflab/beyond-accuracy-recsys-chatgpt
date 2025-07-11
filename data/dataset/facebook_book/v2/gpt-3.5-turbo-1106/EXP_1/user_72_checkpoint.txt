@@ -1,0 +1,54 @@
+Based on user 72's preferences, here are the top 50 book recommendations:
+
+1. Neverwhere by Neil Gaiman
+2. American Gods by Neil Gaiman
+3. The Ocean at the End of the Lane by Neil Gaiman
+4. Good Omens by Neil Gaiman and Terry Pratchett
+5. The Graveyard Book by Neil Gaiman
+6. Stardust by Neil Gaiman
+7. The Night Circus by Erin Morgenstern
+8. The Magicians by Lev Grossman
+9. The Lies of Locke Lamora by Scott Lynch
+10. The Name of the Wind by Patrick Rothfuss
+11. The Wise Man's Fear by Patrick Rothfuss
+12. The Slow Regard of Silent Things by Patrick Rothfuss
+13. The Shining by Stephen King
+14. It by Stephen King
+15. Pet Sematary by Stephen King
+16. Misery by Stephen King
+17. Doctor Sleep by Stephen King
+18. The Stand by Stephen King
+19. Let the Right One In by John Ajvide Lindqvist
+20. Handling the Undead by John Ajvide Lindqvist
+21. Little Star by John Ajvide Lindqvist
+22. The Handmaid's Tale by Margaret Atwood
+23. Oryx and Crake by Margaret Atwood
+24. The Blind Assassin by Margaret Atwood
+25. Alias Grace by Margaret Atwood
+26. Nineteen Eighty-Four by George Orwell
+27. Animal Farm by George Orwell
+28. Brave New World by Aldous Huxley
+29. Fahrenheit 451 by Ray Bradbury
+30. The Giver by Lois Lowry
+31. The Watchmen by Alan Moore and Dave Gibbons
+32. V for Vendetta by Alan Moore and David Lloyd
+33. From Hell by Alan Moore and Eddie Campbell
+34. Room by Emma Donoghue
+35. Frog Music by Emma Donoghue
+36. The Wonder by Emma Donoghue
+37. The Sealed Letter by Emma Donoghue
+38. Speak by Laurie Halse Anderson
+39. Wintergirls by Laurie Halse Anderson
+40. Catalyst by Laurie Halse Anderson
+41. Alice's Adventures in Wonderland by Lewis Carroll
+42. Through the Looking-Glass by Lewis Carroll
+43. The Annotated Alice by Lewis Carroll and Martin Gardner
+44. Alice in Wonderland and Philosophy by William Irwin
+45. The Looking Glass Wars by Frank Beddor
+46. Splintered by A.G. Howard
+47. Alice by Christina Henry
+48. After Alice by Gregory Maguire
+49. Alice I Have Been by Melanie Benjamin
+50. Alice in Zombieland by Gena Showalter
+
+These recommendations are based on similar themes, genres, and authors to the books that user 72 likes.

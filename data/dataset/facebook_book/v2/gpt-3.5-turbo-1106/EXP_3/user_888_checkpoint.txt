@@ -1,0 +1,51 @@
+Based on the user's preferences and the provided list of books, here are the top 50 recommendations for user 888:
+
+1. The Man Who Was Thursday
+2. A Series of Unfortunate Events
+3. Ulysses (novel)
+4. Percy Jackson & the Olympians
+5. Hannibal Rising
+6. Protector of the Small
+7. Skeleton Creek (novel)
+8. Along for the Ride
+9. Johnny the Homicidal Maniac
+10. The Host (novel)
+11. Vampire Academy (novel)
+12. Ranger's Apprentice
+13. Carmilla
+14. Nicholas Nickleby
+15. The Monk
+16. Haunted (The Mediator)
+17. The Umbrella Academy
+18. Naruto
+19. Les Misérables
+20. The Sirens of Titan
+21. Carrie (novel)
+22. Perfume (novel)
+23. Fallen (Kate novel)
+24. The Amber Spyglass
+25. The Lord of the Rings
+26. The Zombie Survival Guide
+27. Vampire: The Masquerade
+28. The Vampire Lestat
+29. Dracula
+30. The Hobbit
+31. Arkham Asylum: A Serious House on Serious Earth
+32. The Immortals (novel)
+33. Nightmares & Dreamscapes
+34. Mockingjay
+35. The Book Thief
+36. The Queen of the Damned
+37. A Clockwork Orange
+38. Vampire Kisses
+39. Lord of the Flies
+40. Bloodlines (Mead novel)
+41. The Amazing Adventures of Kavalier & Clay
+42. Paradise Lost
+43. Daughters of the Moon
+44. On the Road
+45. Inferno (Dante)
+46. The Southern Vampire Mysteries
+47. The Prosecution of George W. Bush for Murder
+48. Ender's Game
+49. Dune (novel)

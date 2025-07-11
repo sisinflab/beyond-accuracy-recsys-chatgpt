@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Moby-Dick by Herman Melville
+6. The Stranger by Albert Camus
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Grapes of Wrath by John Steinbeck
+11. Heart of Darkness by Joseph Conrad
+12. The Sound and the Fury by William Faulkner
+13. Ulysses by James Joyce
+14. The Sun Also Rises by Ernest Hemingway
+15. The Road by Cormac McCarthy
+16. The Old Man and the Sea by Ernest Hemingway
+17. A Clockwork Orange by Anthony Burgess
+18. The Bell Jar by Sylvia Plath
+19. The Stranger by Albert Camus
+20. The Trial by Franz Kafka
+21. The Plague by Albert Camus
+22. The Metamorphosis by Franz Kafka
+23. The Idiot by Fyodor Dostoevsky
+24. The Master and Margarita by Mikhail Bulgakov
+25. The Picture of Dorian Gray by Oscar Wilde
+26. The Prince by Niccolò Machiavelli
+27. Last Words by George Carlin
+28. The Canterbury Tales by Geoffrey Chaucer
+29. The Divine Comedy by Dante Alighieri
+30. Don Quixote by Miguel de Cervantes
+31. The Odyssey by Homer
+32. The Iliad by Homer
+33. The Aeneid by Virgil
+34. Paradise Lost by John Milton
+35. The Inferno by Dante Alighieri
+36. The Republic by Plato
+37. The Art of War by Sun Tzu
+38. Meditations by Marcus Aurelius
+39. The Prince by Niccolò Machiavelli
+40. The Wealth of Nations by Adam Smith
+41. Leviathan by Thomas Hobbes
+42. The Social Contract by Jean-Jacques Rousseau
+43. The Communist Manifesto by Karl Marx
+44. The Federalist Papers by Alexander Hamilton, James Madison, and John Jay
+45. Common Sense by Thomas Paine
+46. Democracy in America by Alexis de Tocqueville
+47. The Road to Serfdom by Friedrich Hayek
+48. The Second Sex by Simone de Beauvoir
+49. The Feminine Mystique by Betty Friedan
+50. The Beauty Myth by Naomi Wolf
+
+These recommendations are based on the user's interest in classic literature, philosophy, and political science.

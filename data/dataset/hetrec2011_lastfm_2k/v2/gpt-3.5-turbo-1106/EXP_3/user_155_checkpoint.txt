@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 155:
+
+1. The Smiths
+2. Joy Division
+3. Nick Cave and the Bad Seeds
+4. The Jesus and Mary Chain
+5. The Sisters of Mercy
+6. Depeche Mode
+7. The Cure
+8. Siouxsie and the Banshees
+9. Bauhaus
+10. The Cramps
+11. Dead Kennedys
+12. Killing Joke
+13. Alien Sex Fiend
+14. The Cult
+15. The Adicts
+16. Oingo Boingo
+17. Beck
+18. Elvis Presley
+19. Alice Cooper
+20. Misfits
+21. David Bowie
+22. Leonard Cohen
+23. T. Rex
+24. Captain Beefheart & His Magic Band
+25. Talk Talk
+26. Coil
+27. Einstürzende Neubauten
+28. Franz Ferdinand
+29. Gorillaz
+30. Mudhoney
+31. Billy Idol
+32. The Doors
+33. Metallica
+34. Nirvana
+35. Red Hot Chili Peppers
+36. AC/DC
+37. The Rolling Stones
+38. Kim Wilde
+39. Blur
+40. Orchestral Manoeuvres in the Dark
+41. AFI
+42. blink-182
+43. Gary Numan
+44. Coldplay
+45. NOFX
+46. Kate Bush
+47. The Residents
+48. Trivium
+49. Korn
+50. Pearl Jam
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

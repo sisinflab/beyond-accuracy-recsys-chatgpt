@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Kinks
+2. Neil Young
+3. Fleetwood Mac
+4. The Velvet Underground
+5. Nick Drake
+6. Leonard Cohen
+7. The Zombies
+8. Van Morrison
+9. The Band
+10. Joni Mitchell
+11. The Doors
+12. Bob Marley & The Wailers
+13. The Turtles
+14. The Hollies
+15. The Mamas & The Papas
+16. The Lovin' Spoonful
+17. The Byrds
+18. The Beach Boys
+19. The Rolling Stones
+20. The Beatles
+21. Johann Sebastian Bach
+22. Bob Dylan
+23. Belle and Sebastian
+24. Simon & Garfunkel
+25. Cat Stevens
+26. Loreena McKennitt
+27. Amiina
+28. John Lennon
+29. Buddy Holly
+30. The Who
+31. George Harrison
+32. Billie Holiday
+33. Françoise Hardy
+34. The Smiths
+35. David Bowie
+36. The Cure
+37. Joy Division
+38. Talking Heads
+39. The Clash
+40. Elvis Costello
+41. Patti Smith
+42. Tom Waits
+43. Bruce Springsteen
+44. R.E.M.
+45. Pixies
+46. Sonic Youth
+47. Radiohead
+48. Oasis
+49. Arctic Monkeys
+50. Tame Impala
+
+These recommendations are based on the user's liking of similar artists and genres.

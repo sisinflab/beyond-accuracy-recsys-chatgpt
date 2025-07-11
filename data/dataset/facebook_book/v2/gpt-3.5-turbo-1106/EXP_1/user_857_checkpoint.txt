@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Night Circus by Erin Morgenstern
+2. The Secret History by Donna Tartt
+3. The Shadow of the Wind by Carlos Ruiz Zafón
+4. The Name of the Wind by Patrick Rothfuss
+5. The Alchemist by Paulo Coelho
+6. The Goldfinch by Donna Tartt
+7. The Handmaid's Tale by Margaret Atwood
+8. The Catcher in the Rye by J.D. Salinger
+9. To Kill a Mockingbird by Harper Lee
+10. The Great Gatsby by F. Scott Fitzgerald
+11. Pride and Prejudice by Jane Austen
+12. Jane Eyre by Charlotte Brontë
+13. Little Women by Louisa May Alcott
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Bell Jar by Sylvia Plath
+16. The Kite Runner by Khaled Hosseini
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Hunger Games by Suzanne Collins
+19. The Da Vinci Code by Dan Brown
+20. The Martian by Andy Weir
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Giver by Lois Lowry
+23. The Maze Runner by James Dashner
+24. The Help by Kathryn Stockett
+25. The Lovely Bones by Alice Sebold
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Fault in Our Stars by John Green
+28. The Perks of Being a Wallflower by Stephen Chbosky
+29. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+30. The Road by Cormac McCarthy
+31. The Glass Castle by Jeannette Walls
+32. The Poisonwood Bible by Barbara Kingsolver
+33. The Color Purple by Alice Walker
+34. The Handmaid's Tale by Margaret Atwood
+35. The Catcher in the Rye by J.D. Salinger
+36. To Kill a Mockingbird by Harper Lee
+37. The Great Gatsby by F. Scott Fitzgerald
+38. Pride and Prejudice by Jane Austen
+39. Jane Eyre by Charlotte Brontë
+40. Little Women by Louisa May Alcott
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Bell Jar by Sylvia Plath
+43. The Kite Runner by Khaled Hosseini
+44. The Girl with the Dragon Tattoo by Stieg Larsson
+45. The Hunger Games by Suzanne Collins
+46. The Da Vinci Code by Dan Brown
+47. The Martian by Andy Weir
+48. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+49. The Giver by Lois Lowry
+50. The Maze Runner by James Dashner
+
+These recommendations are based on the user's liking of similar genres, themes, and authors.

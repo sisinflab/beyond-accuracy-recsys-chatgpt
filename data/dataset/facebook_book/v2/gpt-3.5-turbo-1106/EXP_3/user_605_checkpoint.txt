@@ -1,0 +1,54 @@
+Based on user 605's preferences, here are the top 50 recommendations for them:
+
+1. Good Omens by ['Neil Gaiman', 'Terry Pratchett']
+2. Neverwhere (novel) by ['Neil Gaiman']
+3. The City of Ember by ['Jeanne DuPrau']
+4. The Zombie Survival Guide by ['Max Brooks']
+5. A Wrinkle in Time by ["Madeleine L'Engle"]
+6. Paper Towns by ['John Green (author)']
+7. Fahrenheit 451 by ['Ray Bradbury']
+8. Animal Farm by ['George Orwell']
+9. The Giver
+10. The Dark Tower: The Gunslinger
+11. The Mercy Thompson Series
+12. The Count of Monte Cristo
+13. The Chosen (Potok novel)
+14. The Perks of Being a Wallflower
+15. The Outsiders (novel)
+16. The Picture of Dorian Gray
+17. The Fountainhead
+18. The Five People You Meet in Heaven
+19. The Mark (novel)
+20. The Very Hungry Caterpillar
+21. The Pact (novel)
+22. The Stinky Cheese Man and Other Fairly Stupid Tales
+23. The World According to Garp
+24. The Time Traveler's Wife
+25. The Giver
+26. The Dark Tower: The Gunslinger
+27. The Mercy Thompson Series
+28. The Count of Monte Cristo
+29. The Chosen (Potok novel)
+30. The Perks of Being a Wallflower
+31. The Outsiders (novel)
+32. The Picture of Dorian Gray
+33. The Fountainhead
+34. The Five People You Meet in Heaven
+35. The Mark (novel)
+36. The Very Hungry Caterpillar
+37. The Pact (novel)
+38. The Stinky Cheese Man and Other Fairly Stupid Tales
+39. The World According to Garp
+40. The Time Traveler's Wife
+41. The Giver
+42. The Dark Tower: The Gunslinger
+43. The Mercy Thompson Series
+44. The Count of Monte Cristo
+45. The Chosen (Potok novel)
+46. The Perks of Being a Wallflower
+47. The Outsiders (novel)
+48. The Picture of Dorian Gray
+49. The Fountainhead
+50. The Five People You Meet in Heaven
+
+These recommendations are based on the user's previous likes and are intended to provide a diverse range of options for their reading preferences.

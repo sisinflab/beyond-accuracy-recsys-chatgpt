@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. The Alchemist by Paulo Coelho
+6. The Book Thief by Markus Zusak
+7. The Kite Runner by Khaled Hosseini
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. Slaughterhouse-Five by Kurt Vonnegut
+12. The Bell Jar by Sylvia Plath
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Sun Also Rises by Ernest Hemingway
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Stranger by Albert Camus
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. Anna Karenina by Leo Tolstoy
+20. War and Peace by Leo Tolstoy
+21. The Count of Monte Cristo by Alexandre Dumas
+22. The Three Musketeers by Alexandre Dumas
+23. Don Quixote by Miguel de Cervantes
+24. The Name of the Wind by Patrick Rothfuss
+25. The Shadow of the Wind by Carlos Ruiz Zafon
+26. The Night Circus by Erin Morgenstern
+27. The Goldfinch by Donna Tartt
+28. The Secret History by Donna Tartt
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Girl on the Train by Paula Hawkins
+31. Gone Girl by Gillian Flynn
+32. Sharp Objects by Gillian Flynn
+33. The Martian by Andy Weir
+34. Ready Player One by Ernest Cline
+35. Ender's Game by Orson Scott Card
+36. Dune by Frank Herbert
+37. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+38. The Name of the Rose by Umberto Eco
+39. The Da Vinci Code by Dan Brown
+40. Angels & Demons by Dan Brown
+41. The Girl with the Pearl Earring by Tracy Chevalier
+42. The Help by Kathryn Stockett
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Lovely Bones by Alice Sebold
+45. The Glass Castle by Jeannette Walls
+46. Educated by Tara Westover
+47. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+48. The Devil in the White City by Erik Larson
+49. Into the Wild by Jon Krakauer
+50. Wild by Cheryl Strayed
+
+These recommendations are based on the user's interest in literary fiction, dystopian themes, and thought-provoking narratives.

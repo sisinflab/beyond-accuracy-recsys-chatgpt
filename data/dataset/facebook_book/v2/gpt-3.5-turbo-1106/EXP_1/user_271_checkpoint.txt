@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jurassic Park by Michael Crichton
+2. The Andromeda Strain by Michael Crichton
+3. The Lost World by Michael Crichton
+4. Prey by Michael Crichton
+5. The Stand by Stephen King
+6. It by Stephen King
+7. Pet Sematary by Stephen King
+8. The Shining by Stephen King
+9. Dracula by Bram Stoker
+10. The Picture of Dorian Gray by Oscar Wilde
+11. 1984 by George Orwell
+12. Animal Farm by George Orwell
+13. The Road by Cormac McCarthy
+14. Blood Meridian by Cormac McCarthy
+15. The Martian by Andy Weir
+16. Dune by Frank Herbert
+17. Neuromancer by William Gibson
+18. Snow Crash by Neal Stephenson
+19. Do Androids Dream of Electric Sheep? by Philip K. Dick
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. Slaughterhouse-Five by Kurt Vonnegut
+22. Cat's Cradle by Kurt Vonnegut
+23. The Sirens of Titan by Kurt Vonnegut
+24. The Left Hand of Darkness by Ursula K. Le Guin
+25. The Dispossessed by Ursula K. Le Guin
+26. The Lathe of Heaven by Ursula K. Le Guin
+27. The Moon is a Harsh Mistress by Robert A. Heinlein
+28. Stranger in a Strange Land by Robert A. Heinlein
+29. Starship Troopers by Robert A. Heinlein
+30. The Time Machine by H.G. Wells
+31. The War of the Worlds by H.G. Wells
+32. The Invisible Man by H.G. Wells
+33. The Day of the Triffids by John Wyndham
+34. The Chrysalids by John Wyndham
+35. The Midwich Cuckoos by John Wyndham
+36. The Handmaid's Tale by Margaret Atwood
+37. Oryx and Crake by Margaret Atwood
+38. The Year of the Flood by Margaret Atwood
+39. The Windup Girl by Paolo Bacigalupi
+40. Ship Breaker by Paolo Bacigalupi
+41. The Water Knife by Paolo Bacigalupi
+42. The City & the City by China Miéville
+43. Perdido Street Station by China Miéville
+44. The Scar by China Miéville
+45. The Road to Mars by Eric Idle
+46. Good Omens by Neil Gaiman and Terry Pratchett
+47. American Gods by Neil Gaiman
+48. Neverwhere by Neil Gaiman
+49. The Graveyard Book by Neil Gaiman
+50. Stardust by Neil Gaiman
+
+These recommendations are based on similar themes, genres, and authors to the books liked by user 271.

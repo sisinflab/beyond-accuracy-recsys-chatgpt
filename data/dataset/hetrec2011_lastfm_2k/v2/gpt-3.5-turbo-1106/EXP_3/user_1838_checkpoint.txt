@@ -1,0 +1,54 @@
+Based on user 1838's preferences, here are the top 50 recommendations for the given artists:
+
+1. Kylie Minogue
+2. Depeche Mode
+3. Laura Marling
+4. Shakira
+5. Danity Kane
+6. Mary J. Blige
+7. She Wants Revenge
+8. Katy Perry
+9. Jessica Simpson
+10. Spice Girls
+11. Marilyn Manson
+12. Michael Jackson
+13. Marvin Gaye
+14. Justice
+15. The Knife
+16. Jennifer Lopez
+17. Whitney Houston
+18. Placebo
+19. Keri Hilson
+20. The Strokes
+21. Black Eyed Peas
+22. The Jackson 5
+23. Florence + the Machine
+24. Róisín Murphy
+25. Imogen Heap
+26. Coldplay
+27. The xx
+28. The Pussycat Dolls
+29. Sigur Rós
+30. PJ Harvey
+31. Girls Aloud
+32. Britney Spears
+33. Emilie Simon
+34. Donna Summer
+35. Interpol
+36. Ellie Goulding
+37. No Doubt
+38. Yelle
+39. Beyoncé
+40. Dannii Minogue
+41. Calvin Harris
+42. The Police
+43. Sade
+44. Ciara
+45. Mika
+46. Fever Ray
+47. Franz Ferdinand
+48. Mariah Carey
+49. Adele
+50. Christina Aguilera
+
+These recommendations are based on similar artists and genres liked by user 1838.

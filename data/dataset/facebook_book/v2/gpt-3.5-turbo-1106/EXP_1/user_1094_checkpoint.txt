@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Survivor by Chuck Palahniuk
+3. Rant by Chuck Palahniuk
+4. American Psycho by Bret Easton Ellis
+5. Less Than Zero by Bret Easton Ellis
+6. The Picture of Dorian Gray by Oscar Wilde
+7. Brave New World by Aldous Huxley
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. Cat's Cradle by Kurt Vonnegut
+10. Breakfast of Champions by Kurt Vonnegut
+11. The Road by Cormac McCarthy
+12. Blood Meridian by Cormac McCarthy
+13. House of Leaves by Mark Z. Danielewski
+14. The Shining by Stephen King
+15. Misery by Stephen King
+16. The Stand by Stephen King
+17. The Bell Jar by Sylvia Plath
+18. One Flew Over the Cuckoo's Nest by Ken Kesey
+19. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+20. Good Omens by Neil Gaiman and Terry Pratchett
+21. Neverwhere by Neil Gaiman
+22. American Gods by Neil Gaiman
+23. The Brothers Karamazov by Fyodor Dostoevsky
+24. Crime and Punishment by Fyodor Dostoevsky
+25. The Master and Margarita by Mikhail Bulgakov
+26. Lolita by Vladimir Nabokov
+27. A Clockwork Orange by Anthony Burgess
+28. The Stranger by Albert Camus
+29. The Metamorphosis by Franz Kafka
+30. The Trial by Franz Kafka
+31. The Plague by Albert Camus
+32. The Handmaid's Tale by Margaret Atwood
+33. Oryx and Crake by Margaret Atwood
+34. The Road to Wigan Pier by George Orwell
+35. Animal Farm by George Orwell
+36. The Stand by Stephen King
+37. The Gunslinger by Stephen King
+38. The Drawing of the Three by Stephen King
+39. The Waste Lands by Stephen King
+40. Wizard and Glass by Stephen King
+41. Wolves of the Calla by Stephen King
+42. Song of Susannah by Stephen King
+43. The Dark Tower by Stephen King
+44. The Wind Through the Keyhole by Stephen King
+45. The Eyes of the Dragon by Stephen King
+46. The Talisman by Stephen King and Peter Straub
+47. Black House by Stephen King and Peter Straub
+48. The Girl Who Loved Tom Gordon by Stephen King
+49. Joyland by Stephen King
+50. Doctor Sleep by Stephen King
+
+These recommendations are based on similar themes, authors, and genres to the books that user 1094 likes.

@@ -1,0 +1,51 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catching Fire by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Alchemist by Paulo Coelho
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Fault in Our Stars by John Green
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Da Vinci Code by Dan Brown
+11. The Girl on the Train by Paula Hawkins
+12. The Lovely Bones by Alice Sebold
+13. The Secret Life of Bees by Sue Monk Kidd
+14. The Help by Kathryn Stockett
+15. The Kite Runner by Khaled Hosseini
+16. The Night Circus by Erin Morgenstern
+17. The Goldfinch by Donna Tartt
+18. The Handmaid's Tale by Margaret Atwood
+19. The Catcher in the Rye by J.D. Salinger
+20. The Great Gatsby by F. Scott Fitzgerald
+21. To Kill a Mockingbird by Harper Lee
+22. The Book Thief by Markus Zusak
+23. The Martian by Andy Weir
+24. The Hunger Games: Catching Fire by Suzanne Collins
+25. The Hobbit by J.R.R. Tolkien
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Twilight Saga by Stephenie Meyer
+28. The Lost Symbol by Dan Brown
+29. The Lost World by Michael Crichton
+30. The Lost Hero by Rick Riordan
+31. The Lost City of Z by David Grann
+32. The Lost Fleet by Jack Campbell
+33. The Lost Gate by Orson Scott Card
+34. The Lost Continent by Bill Bryson
+35. The Lost City of the Monkey God by Douglas Preston
+36. The Lost City of Faar by D.J. MacHale
+37. The Lost City of Z: A Tale of Deadly Obsession in the Amazon by David Grann
+38. The Lost City of the Jedi by Paul Davids
+39. The Lost City of the Monkey God: A True Story by Douglas Preston
+40. The Lost City of Z: A Legendary British Explorer's Deadly Quest to Uncover the Secrets of the Amazon by David Grann
+41. The Lost City of Z: A Tale of Deadly Obsession in the Amazon by David Grann
+42. The Lost City of Z: A Legendary British Explorer's Deadly Quest to Uncover the Secrets of the Amazon by David Grann
+43. The Lost City of Z: A Legendary British Explorer's Deadly Quest to Uncover the Secrets of the Amazon by David Grann
+44. The Lost City of Z: A Legendary British Explorer's Deadly Quest to Uncover the Secrets of the Amazon by David Grann
+45. The Lost City of Z: A Legendary British Explorer's Deadly Quest to Uncover the Secrets of the Amazon by David Grann
+46. The Lost City of Z: A Legendary British Explorer's Deadly Quest to Uncover the Secrets of the Amazon by David Grann
+47. The Lost City of Z: A Legendary British Explorer's Deadly Quest to Uncover the Secrets of the Amazon by David Grann
+48. The Lost City of Z: A Legendary British Explorer's Deadly Quest to Uncover the Secrets of the Amazon by David Grann
+49. The Lost City of Z: A Legendary British Explorer's Deadly Quest to Uncover the Secrets of the Amazon

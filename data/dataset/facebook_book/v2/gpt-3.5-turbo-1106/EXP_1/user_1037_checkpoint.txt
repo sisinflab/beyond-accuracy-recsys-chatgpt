@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Pride and Prejudice by Jane Austen
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. The Hobbit by J.R.R. Tolkien
+7. The Fellowship of the Ring by J.R.R. Tolkien
+8. The Two Towers by J.R.R. Tolkien
+9. The Return of the King by J.R.R. Tolkien
+10. The Alchemist by Paulo Coelho
+11. The Kite Runner by Khaled Hosseini
+12. The Book Thief by Markus Zusak
+13. Brave New World by Aldous Huxley
+14. Crime and Punishment by Fyodor Dostoevsky
+15. One Hundred Years of Solitude by Gabriel Garcia Marquez
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Count of Monte Cristo by Alexandre Dumas
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. Anna Karenina by Leo Tolstoy
+20. Moby-Dick by Herman Melville
+21. Don Quixote by Miguel de Cervantes
+22. The Odyssey by Homer
+23. The Iliad by Homer
+24. Les Misérables by Victor Hugo
+25. Wuthering Heights by Emily Brontë
+26. Jane Eyre by Charlotte Brontë
+27. Frankenstein by Mary Shelley
+28. Dracula by Bram Stoker
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Adventures of Huckleberry Finn by Mark Twain
+31. The Adventures of Tom Sawyer by Mark Twain
+32. The Grapes of Wrath by John Steinbeck
+33. East of Eden by John Steinbeck
+34. The Sun Also Rises by Ernest Hemingway
+35. A Farewell to Arms by Ernest Hemingway
+36. The Old Man and the Sea by Ernest Hemingway
+37. The Sound and the Fury by William Faulkner
+38. As I Lay Dying by William Faulkner
+39. The Scarlet Letter by Nathaniel Hawthorne
+40. The Call of the Wild by Jack London
+41. White Fang by Jack London
+42. The Jungle Book by Rudyard Kipling
+43. The Time Machine by H.G. Wells
+44. The War of the Worlds by H.G. Wells
+45. The Invisible Man by H.G. Wells
+46. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+47. Treasure Island by Robert Louis Stevenson
+48. The Three Musketeers by Alexandre Dumas
+49. The Prince by Niccolò Machiavelli
+50. The Art of War by Sun Tzu
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, and historical novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Deftones
+2. Tool
+3. Nine Inch Nails
+4. Rammstein
+5. Slipknot
+6. Muse
+7. Radiohead
+8. The Prodigy
+9. Linkin Park
+10. Marilyn Manson
+11. Korn
+12. The Chemical Brothers
+13. Incubus
+14. The Smashing Pumpkins
+15. Placebo
+16. The Cure
+17. The Offspring
+18. Limp Bizkit
+19. Foo Fighters
+20. My Chemical Romance
+21. Arctic Monkeys
+22. The White Stripes
+23. Queens of the Stone Age
+24. Interpol
+25. Bloc Party
+26. The Killers
+27. Franz Ferdinand
+28. The Hives
+29. The Vines
+30. The Libertines
+31. The Black Keys
+32. The Raconteurs
+33. The Strokes
+34. The Bravery
+35. The Rapture
+36. Yeah Yeah Yeahs
+37. LCD Soundsystem
+38. Hot Chip
+39. Cut Copy
+40. M83
+41. Crystal Castles
+42. Grimes
+43. Purity Ring
+44. CHVRCHES
+45. Phantogram
+46. Sylvan Esso
+47. Beach House
+48. Tame Impala
+49. Alt-J
+50. Foals
+
+These recommendations are based on the user's liking of alternative rock, electronic, and post-hardcore music, and include similar artists and bands within those genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. Oasis
+3. The Strokes
+4. The Killers
+5. Blur
+6. The Kooks
+7. Franz Ferdinand
+8. The White Stripes
+9. The Cure
+10. Interpol
+11. The National
+12. Bloc Party
+13. The Libertines
+14. The Stone Roses
+15. The Charlatans
+16. The Fratellis
+17. The Black Keys
+18. The War on Drugs
+19. The Flaming Lips
+20. Arcade Fire
+21. The Smashing Pumpkins
+22. The Cranberries
+23. The Jesus and Mary Chain
+24. The La's
+25. The Verve
+26. The Smiths
+27. The Replacements
+28. The Psychedelic Furs
+29. The Waterboys
+30. The Pogues
+31. The Jam
+32. The Clash
+33. The Specials
+34. The Style Council
+35. The Housemartins
+36. The Beautiful South
+37. The Lightning Seeds
+38. The Coral
+39. The Zutons
+40. The View
+41. The Futureheads
+42. The Rakes
+43. The Maccabees
+44. The Horrors
+45. The Wombats
+46. The Vaccines
+47. The Pigeon Detectives
+48. The Courteeners
+49. The Cribs
+50. The Enemy
+
+These recommendations are based on the user's liking for indie and alternative rock bands, as well as similar artists to those the user already enjoys.

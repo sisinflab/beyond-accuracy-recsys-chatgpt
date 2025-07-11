@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. City of Ashes (Mortal Instruments) by Cassandra Clare
+2. City of Glass (Mortal Instruments) by Cassandra Clare
+3. City of Fallen Angels (Mortal Instruments) by Cassandra Clare
+4. City of Lost Souls (Mortal Instruments) by Cassandra Clare
+5. City of Heavenly Fire (Mortal Instruments) by Cassandra Clare
+6. Clockwork Angel (The Infernal Devices) by Cassandra Clare
+7. Clockwork Prince (The Infernal Devices) by Cassandra Clare
+8. Clockwork Princess (The Infernal Devices) by Cassandra Clare
+9. Wicked Lovely by Melissa Marr
+10. Fragile Eternity by Melissa Marr
+11. Radiant Shadows by Melissa Marr
+12. Darkest Mercy by Melissa Marr
+13. The Cruel Prince by Holly Black
+14. The Wicked King by Holly Black
+15. The Queen of Nothing by Holly Black
+16. The Coldest Girl in Coldtown by Holly Black
+17. The Darkest Part of the Forest by Holly Black
+18. The Iron Trial (Magisterium) by Holly Black and Cassandra Clare
+19. The Copper Gauntlet (Magisterium) by Holly Black and Cassandra Clare
+20. The Bronze Key (Magisterium) by Holly Black and Cassandra Clare
+21. The Silver Mask (Magisterium) by Holly Black and Cassandra Clare
+22. The Golden Tower (Magisterium) by Holly Black and Cassandra Clare
+23. Divergent by Veronica Roth
+24. Insurgent by Veronica Roth
+25. Allegiant by Veronica Roth
+26. Carve the Mark by Veronica Roth
+27. The Fates Divide by Veronica Roth
+28. Shiver by Maggie Stiefvater
+29. Linger by Maggie Stiefvater
+30. Forever by Maggie Stiefvater
+31. The Raven Boys by Maggie Stiefvater
+32. The Dream Thieves by Maggie Stiefvater
+33. Blue Lily, Lily Blue by Maggie Stiefvater
+34. The Raven King by Maggie Stiefvater
+35. The Scorpio Races by Maggie Stiefvater
+36. The Host by Stephenie Meyer
+37. The Chemist by Stephenie Meyer
+38. The Chemist by Stephenie Meyer
+39. The Chemist by Stephenie Meyer
+40. The Chemist by Stephenie Meyer
+41. The Chemist by Stephenie Meyer
+42. The Chemist by Stephenie Meyer
+43. The Chemist by Stephenie Meyer
+44. The Chemist by Stephenie Meyer
+45. The Chemist by Stephenie Meyer
+46. The Chemist by Stephenie Meyer
+47. The Chemist by Stephenie Meyer
+48. The Chemist by Stephenie Meyer
+49. The Chemist by Stephenie Meyer
+50. The Chemist by Stephenie Meyer
+
+These recommendations are based on the user's interest in fantasy, young adult, and supernatural fiction.

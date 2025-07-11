@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 442:
+
+1. U2
+2. New Order
+3. Soft Cell
+4. Duran Duran
+5. Depeche Mode
+6. Pet Shop Boys
+7. Erasure
+8. Tears for Fears
+9. Talk Talk
+10. Howard Jones
+11. INXS
+12. Alphaville
+13. Ultravox
+14. Orchestral Manoeuvres in the Dark
+15. A-ha
+16. Madonna
+17. Cyndi Lauper
+18. George Michael
+19. Nik Kershaw
+20. David Bowie
+21. t.A.T.u.
+22. Garbage
+23. Placebo
+24. The Killers
+25. Snow Patrol
+26. Travis
+27. Maroon 5
+28. Keane
+29. Franz Ferdinand
+30. Lady Gaga
+31. Michael Jackson
+32. Brandon Flowers
+33. Crowded House
+34. Hall & Oates
+35. The Doors
+36. Enya
+37. Christina Aguilera
+38. Britney Spears
+39. Delta Goodrem
+40. Kim Wilde
+41. Josh Groban
+42. Spandau Ballet
+43. Electric Light Orchestra
+44. ABBA
+45. Shakira
+46. Massive Attack
+47. Röyksopp
+48. Suede
+49. Daft Punk
+50. Sigur Rós
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Death Cab for Cutie
+2. The National
+3. Interpol
+4. The Strokes
+5. Arcade Fire
+6. The Postal Service
+7. The xx
+8. Florence + The Machine
+9. The Cure
+10. R.E.M.
+11. The Smashing Pumpkins
+12. Vampire Weekend
+13. The Flaming Lips
+14. Modest Mouse
+15. The War on Drugs
+16. The Shins
+17. Fleet Foxes
+18. Sufjan Stevens
+19. Belle and Sebastian
+20. Neutral Milk Hotel
+21. My Bloody Valentine
+22. Sigur Rós
+23. Tame Impala
+24. M83
+25. Grizzly Bear
+26. Beach House
+27. Spoon
+28. Yo La Tengo
+29. Animal Collective
+30. Broken Social Scene
+31. The Antlers
+32. Explosions in the Sky
+33. Mogwai
+34. Godspeed You! Black Emperor
+35. Sigur Rós
+36. Slowdive
+37. Cocteau Twins
+38. Ride
+39. Lush
+40. My Bloody Valentine
+41. The Jesus and Mary Chain
+42. Swervedriver
+43. Chapterhouse
+44. Pale Saints
+45. Medicine
+46. Catherine Wheel
+47. Curve
+48. Lush
+49. Ride
+50. Slowdive
+
+These recommendations are based on the user's liking of alternative and indie rock bands, as well as some post-rock and shoegaze influences.

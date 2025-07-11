@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Watership Down by Richard Adams
+2. The Hobbit by J.R.R. Tolkien
+3. The Chronicles of Narnia by C.S. Lewis
+4. The Secret Garden by Frances Hodgson Burnett
+5. The Wind in the Willows by Kenneth Grahame
+6. The Tale of Despereaux by Kate DiCamillo
+7. The Outsiders by S.E. Hinton
+8. The Catcher in the Rye by J.D. Salinger
+9. The Alchemist by Paulo Coelho
+10. The Book Thief by Markus Zusak
+11. The Secret Life of Bees by Sue Monk Kidd
+12. The Little Prince by Antoine de Saint-Exupéry
+13. The Hunger Games by Suzanne Collins
+14. The Maze Runner by James Dashner
+15. The Lightning Thief by Rick Riordan
+16. The Chronicles of Prydain by Lloyd Alexander
+17. The Phantom Tollbooth by Norton Juster
+18. The Neverending Story by Michael Ende
+19. The Princess Bride by William Goldman
+20. The Once and Future King by T.H. White
+21. The Inheritance Cycle by Christopher Paolini
+22. The Harry Potter series by J.K. Rowling
+23. The Percy Jackson series by Rick Riordan
+24. The Artemis Fowl series by Eoin Colfer
+25. The His Dark Materials series by Philip Pullman
+26. The Inkheart trilogy by Cornelia Funke
+27. The Golden Compass by Philip Pullman
+28. The Chronicles of Ancient Darkness by Michelle Paver
+29. The Bartimaeus Trilogy by Jonathan Stroud
+30. The Septimus Heap series by Angie Sage
+31. The Redwall series by Brian Jacques
+32. The Warriors series by Erin Hunter
+33. The Guardians of Ga'Hoole series by Kathryn Lasky
+34. The Magic Tree House series by Mary Pope Osborne
+35. The Boxcar Children series by Gertrude Chandler Warner
+36. The Hardy Boys series by Franklin W. Dixon
+37. The Nancy Drew series by Carolyn Keene
+38. The Alex Rider series by Anthony Horowitz
+39. The Cherub series by Robert Muchamore
+40. The Maximum Ride series by James Patterson
+41. The Ranger's Apprentice series by John Flanagan
+42. The Brotherband Chronicles by John Flanagan
+43. The Chronicles of Ancient Darkness series by Michelle Paver
+44. The Underland Chronicles by Suzanne Collins
+45. The Dark is Rising sequence by Susan Cooper
+46. The Earthsea series by Ursula K. Le Guin
+47. The Abhorsen series by Garth Nix
+48. The Inheritance Cycle series by Christopher Paolini
+49. The Graceling Realm series by Kristin Cashore
+50. The Seven Realms series by Cinda Williams Chima
+
+These recommendations are based on the user's interest in fantasy, adventure, and classic literature.

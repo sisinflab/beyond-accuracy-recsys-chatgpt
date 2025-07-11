@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Lord of the Rings by J.R.R. Tolkien
+3. The Chronicles of Narnia by C.S. Lewis
+4. A Song of Ice and Fire by George R.R. Martin
+5. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+6. The Name of the Wind by Patrick Rothfuss
+7. American Gods by Neil Gaiman
+8. The Dark Tower series by Stephen King
+9. The Wheel of Time series by Robert Jordan
+10. The Dresden Files series by Jim Butcher
+11. The Magicians by Lev Grossman
+12. The Once and Future King by T.H. White
+13. The Alchemist by Paulo Coelho
+14. The Night Circus by Erin Morgenstern
+15. The Giver by Lois Lowry
+16. Ender's Game by Orson Scott Card
+17. The Hunger Games by Suzanne Collins
+18. Dune by Frank Herbert
+19. The Princess Bride by William Goldman
+20. The Golden Compass by Philip Pullman
+21. The Book Thief by Markus Zusak
+22. Ready Player One by Ernest Cline
+23. The Martian by Andy Weir
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Shadow of the Wind by Carlos Ruiz Zafón
+26. The Secret History by Donna Tartt
+27. The Night Angel Trilogy by Brent Weeks
+28. Mistborn series by Brandon Sanderson
+29. The Kingkiller Chronicle series by Patrick Rothfuss
+30. The Lies of Locke Lamora by Scott Lynch
+31. The Way of Kings by Brandon Sanderson
+32. The Stormlight Archive series by Brandon Sanderson
+33. The Gentleman Bastard series by Scott Lynch
+34. The Broken Empire series by Mark Lawrence
+35. The First Law series by Joe Abercrombie
+36. The Riyria Revelations series by Michael J. Sullivan
+37. The Farseer Trilogy by Robin Hobb
+38. The Inheritance Trilogy by N.K. Jemisin
+39. The Broken Earth series by N.K. Jemisin
+40. The Malazan Book of the Fallen series by Steven Erikson
+41. The Black Company series by Glen Cook
+42. The Lightbringer series by Brent Weeks
+43. The Powder Mage trilogy by Brian McClellan
+44. The Red Queen's War series by Mark Lawrence
+45. The Divine Cities trilogy by Robert Jackson Bennett
+46. The Craft Sequence series by Max Gladstone
+47. The Chronicles of the Black Company series by Glen Cook
+48. The Chronicles of Amber series by Roger Zelazny
+49. The Earthsea Cycle series by Ursula K. Le Guin
+50. The Broken Empire series by Mark Lawrence
+
+These recommendations are based on the user's interest in fantasy, horror, mythology, and mystery genres.

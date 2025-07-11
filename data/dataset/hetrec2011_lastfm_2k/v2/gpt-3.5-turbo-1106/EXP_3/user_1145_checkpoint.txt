@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1145:
+
+1. Taylor Swift
+2. Justin Timberlake
+3. Black Eyed Peas
+4. David Guetta
+5. Rihanna
+6. Enrique Iglesias
+7. Shakira
+8. Madonna
+9. Eminem
+10. Chris Brown
+11. Usher
+12. Ne-Yo
+13. Beyoncé
+14. Katy Perry
+15. Lady Gaga
+16. Bruno Mars
+17. P!nk
+18. Mariah Carey
+19. Britney Spears
+20. Paramore
+21. My Chemical Romance
+22. Linkin Park
+23. Panic! At the Disco
+24. Fall Out Boy
+25. Green Day
+26. The Pretty Reckless
+27. Florence + the Machine
+28. Arctic Monkeys
+29. Nirvana
+30. The Strokes
+31. Pearl Jam
+32. The Doors
+33. Jefferson Airplane
+34. Bob Marley
+35. Owl City
+36. 3OH!3
+37. Cobra Starship
+38. Glee Cast
+39. Jonas Brothers
+40. Miley Cyrus
+41. Demi Lovato
+42. Selena Gomez & the Scene
+43. Avril Lavigne
+44. Paramore
+45. Kelly Clarkson
+46. Carrie Underwood
+47. Lady Antebellum
+48. Colbie Caillat
+49. Miranda Lambert
+50. Hannah Montana
+
+These recommendations are based on similar artists and genres liked by user 1145.

@@ -1,0 +1,54 @@
+Based on user 90's preferences, here are the top 50 recommendations for them:
+
+1. Coldplay
+2. U2
+3. Radiohead
+4. The Killers
+5. Red Hot Chili Peppers
+6. Kings of Leon
+7. Arctic Monkeys
+8. The Strokes
+9. Oasis
+10. Linkin Park
+11. Franz Ferdinand
+12. Moby
+13. Paramore
+14. Lady Antebellum
+15. Florence + the Machine
+16. The Smashing Pumpkins
+17. Arcade Fire
+18. The Wombats
+19. Bloc Party
+20. Keane
+21. Goldfrapp
+22. The Subways
+23. Tokyo Police Club
+24. Silverchair
+25. The Red Jumpsuit Apparatus
+26. The Police
+27. The Beatles
+28. The Rolling Stones
+29. Shania Twain
+30. Green Day
+31. Muse
+32. Keith Urban
+33. Rascal Flatts
+34. Juanes
+35. Garth Brooks
+36. Billy Joel
+37. Brad Paisley
+38. Elvis Presley
+39. Faith Hill
+40. Stevie Wonder
+41. George Strait
+42. Peter Gabriel
+43. Creedence Clearwater Revival
+44. Enya
+45. Simple Plan
+46. Glee Cast
+47. Death Cab for Cutie
+48. System of a Down
+49. Marilyn Manson
+50. Depeche Mode
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. City of Bones by Cassandra Clare
+5. Twilight by Stephenie Meyer
+6. The Giver by Lois Lowry
+7. The Fault in Our Stars by John Green
+8. The Mortal Instruments series by Cassandra Clare
+9. The Selection by Kiera Cass
+10. The 5th Wave by Rick Yancey
+11. The Host by Stephenie Meyer
+12. Matched by Ally Condie
+13. Delirium by Lauren Oliver
+14. Legend by Marie Lu
+15. Shiver by Maggie Stiefvater
+16. The Uglies series by Scott Westerfeld
+17. The Immortals series by Alyson Noël
+18. The House of Night series by P.C. Cast and Kristin Cast
+19. The Iron Fey series by Julie Kagawa
+20. The Darkest Powers series by Kelley Armstrong
+21. The Infernal Devices series by Cassandra Clare
+22. The Lunar Chronicles series by Marissa Meyer
+23. The Chemical Garden series by Lauren DeStefano
+24. The Dark Artifices series by Cassandra Clare
+25. The Wolves of Mercy Falls series by Maggie Stiefvater
+26. The Unbecoming of Mara Dyer by Michelle Hodkin
+27. The Lux series by Jennifer L. Armentrout
+28. The Grisha trilogy by Leigh Bardugo
+29. The Red Queen series by Victoria Aveyard
+30. The Shatter Me series by Tahereh Mafi
+31. The Raven Cycle series by Maggie Stiefvater
+32. The Selection series by Kiera Cass
+33. The Delirium series by Lauren Oliver
+34. The Legend series by Marie Lu
+35. The Matched series by Ally Condie
+36. The Divergent series by Veronica Roth
+37. The Maze Runner series by James Dashner
+38. The Hunger Games series by Suzanne Collins
+39. The Twilight series by Stephenie Meyer
+40. The Giver series by Lois Lowry
+41. The Fault in Our Stars by John Green
+42. The Mortal Instruments series by Cassandra Clare
+43. The 5th Wave series by Rick Yancey
+44. The Host series by Stephenie Meyer
+45. The Darkest Minds series by Alexandra Bracken
+46. The Chaos Walking series by Patrick Ness
+47. The Lunar Chronicles series by Marissa Meyer
+48. The Chemical Garden series by Lauren DeStefano
+49. The Unwind Dystology series by Neal Shusterman
+50. The Uglies series by Scott Westerfeld
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and supernatural themes.

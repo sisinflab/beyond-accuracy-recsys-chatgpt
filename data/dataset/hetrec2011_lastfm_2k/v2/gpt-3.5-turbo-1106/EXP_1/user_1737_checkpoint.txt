@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. Queens of the Stone Age
+4. The Smashing Pumpkins
+5. Rage Against the Machine
+6. Placebo
+7. The Mars Volta
+8. At the Drive-In
+9. Glassjaw
+10. Thrice
+11. Atoms for Peace
+12. Silversun Pickups
+13. Brand New
+14. Coheed and Cambria
+15. Atreyu
+16. The Strokes
+17. Interpol
+18. Arctic Monkeys
+19. The Killers
+20. Modest Mouse
+21. Death From Above 1979
+22. The White Stripes
+23. Yeah Yeah Yeahs
+24. The Black Keys
+25. Foals
+26. Wolf Alice
+27. Royal Blood
+28. The Raconteurs
+29. The Hives
+30. Franz Ferdinand
+31. The Vines
+32. The Libertines
+33. Kasabian
+34. Bloc Party
+35. Editors
+36. The Bravery
+37. The Rapture
+38. The Subways
+39. The Von Bondies
+40. The Wombats
+41. The Fratellis
+42. The Pigeon Detectives
+43. The Kooks
+44. The Courteeners
+45. The Maccabees
+46. The Vaccines
+47. The Arctic Monkeys
+48. The Strokes
+49. The Libertines
+50. The Killers
+
+These recommendations are based on the user's liking of alternative rock, post-hardcore, and progressive rock bands.

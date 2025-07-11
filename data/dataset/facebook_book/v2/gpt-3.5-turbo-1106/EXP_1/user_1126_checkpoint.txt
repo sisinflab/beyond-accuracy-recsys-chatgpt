@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Animal Farm by George Orwell
+6. The Shining by Stephen King
+7. The Stand by Stephen King
+8. The Hobbit by J.R.R. Tolkien
+9. The Lord of the Rings by J.R.R. Tolkien
+10. The Hunger Games by Suzanne Collins
+11. Catching Fire by Suzanne Collins
+12. Mockingjay by Suzanne Collins
+13. Divergent by Veronica Roth
+14. Insurgent by Veronica Roth
+15. Allegiant by Veronica Roth
+16. The Maze Runner by James Dashner
+17. The Scorch Trials by James Dashner
+18. The Death Cure by James Dashner
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Girl Who Played with Fire by Stieg Larsson
+21. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+22. The Lost Symbol by Dan Brown
+23. Inferno by Dan Brown
+24. Origin by Dan Brown
+25. The Lightning Thief by Rick Riordan
+26. The Titan's Curse by Rick Riordan
+27. The Battle of the Labyrinth by Rick Riordan
+28. The Last Olympian by Rick Riordan
+29. The Son of Neptune by Rick Riordan
+30. The Mark of Athena by Rick Riordan
+31. The House of Hades by Rick Riordan
+32. The Blood of Olympus by Rick Riordan
+33. The Alchemist by Paulo Coelho
+34. Brida by Paulo Coelho
+35. The Witch of Portobello by Paulo Coelho
+36. The Fifth Mountain by Paulo Coelho
+37. The Zahir by Paulo Coelho
+38. The Winner Stands Alone by Paulo Coelho
+39. The Valkyries by Paulo Coelho
+40. The Devil and Miss Prym by Paulo Coelho
+41. The Pilgrimage by Paulo Coelho
+42. The Spy by Paulo Coelho
+43. The Witcher series by Andrzej Sapkowski
+44. The Name of the Wind by Patrick Rothfuss
+45. The Wise Man's Fear by Patrick Rothfuss
+46. The Slow Regard of Silent Things by Patrick Rothfuss
+47. The Doors of Stone by Patrick Rothfuss
+48. The Lies of Locke Lamora by Scott Lynch
+49. Red Seas Under Red Skies by Scott Lynch
+50. The Republic of Thieves by Scott Lynch
+
+These recommendations are based on the user's interest in mystery, fantasy, and thriller genres, as well as the authors they have already enjoyed.

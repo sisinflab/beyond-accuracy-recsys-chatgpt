@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Kite Runner by Khaled Hosseini
+2. The Alchemist by Paulo Coelho
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Pride and Prejudice by Jane Austen
+7. 1984 by George Orwell
+8. The Hunger Games by Suzanne Collins
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. Gone with the Wind by Margaret Mitchell
+11. The Help by Kathryn Stockett
+12. The Book Thief by Markus Zusak
+13. The Fault in Our Stars by John Green
+14. The Lovely Bones by Alice Sebold
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Night Circus by Erin Morgenstern
+17. Water for Elephants by Sara Gruen
+18. The Goldfinch by Donna Tartt
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Glass Castle by Jeannette Walls
+21. The Handmaid's Tale by Margaret Atwood
+22. The Martian by Andy Weir
+23. The Help by Kathryn Stockett
+24. The Girl on the Train by Paula Hawkins
+25. The Silent Patient by Alex Michaelides
+26. The Nightingale by Kristin Hannah
+27. The Tattooist of Auschwitz by Heather Morris
+28. The Alice Network by Kate Quinn
+29. The Light Between Oceans by M.L. Stedman
+30. The Night Circus by Erin Morgenstern
+31. The Nightingale by Kristin Hannah
+32. The Alice Network by Kate Quinn
+33. The Light Between Oceans by M.L. Stedman
+34. The Night Circus by Erin Morgenstern
+35. The Nightingale by Kristin Hannah
+36. The Alice Network by Kate Quinn
+37. The Light Between Oceans by M.L. Stedman
+38. The Night Circus by Erin Morgenstern
+39. The Nightingale by Kristin Hannah
+40. The Alice Network by Kate Quinn
+41. The Light Between Oceans by M.L. Stedman
+42. The Night Circus by Erin Morgenstern
+43. The Nightingale by Kristin Hannah
+44. The Alice Network by Kate Quinn
+45. The Light Between Oceans by M.L. Stedman
+46. The Night Circus by Erin Morgenstern
+47. The Nightingale by Kristin Hannah
+48. The Alice Network by Kate Quinn
+49. The Light Between Oceans by M.L. Stedman
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the user's interest in historical fiction, mystery, and fantasy genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Maze Runner by James Dashner
+3. Divergent by Veronica Roth
+4. The Giver by Lois Lowry
+5. The Lightning Thief by Rick Riordan
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Hobbit by J.R.R. Tolkien
+8. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+9. The Alchemist by Paulo Coelho
+10. The Catcher in the Rye by J.D. Salinger
+11. To Kill a Mockingbird by Harper Lee
+12. The Fault in Our Stars by John Green
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Outsiders by S.E. Hinton
+15. The Book Thief by Markus Zusak
+16. The Secret Garden by Frances Hodgson Burnett
+17. The Little Prince by Antoine de Saint-Exupéry
+18. The Chronicles of Prydain by Lloyd Alexander
+19. The Lord of the Rings by J.R.R. Tolkien
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Sisterhood of the Traveling Pants by Ann Brashares
+22. The Princess Diaries by Meg Cabot
+23. The Sisterhood of the Traveling Pants by Ann Brashares
+24. The Princess Diaries by Meg Cabot
+25. The Sisterhood of the Traveling Pants by Ann Brashares
+26. The Princess Diaries by Meg Cabot
+27. The Sisterhood of the Traveling Pants by Ann Brashares
+28. The Princess Diaries by Meg Cabot
+29. The Sisterhood of the Traveling Pants by Ann Brashares
+30. The Princess Diaries by Meg Cabot
+31. The Sisterhood of the Traveling Pants by Ann Brashares
+32. The Princess Diaries by Meg Cabot
+33. The Sisterhood of the Traveling Pants by Ann Brashares
+34. The Princess Diaries by Meg Cabot
+35. The Sisterhood of the Traveling Pants by Ann Brashares
+36. The Princess Diaries by Meg Cabot
+37. The Sisterhood of the Traveling Pants by Ann Brashares
+38. The Princess Diaries by Meg Cabot
+39. The Sisterhood of the Traveling Pants by Ann Brashares
+40. The Princess Diaries by Meg Cabot
+41. The Sisterhood of the Traveling Pants by Ann Brashares
+42. The Princess Diaries by Meg Cabot
+43. The Sisterhood of the Traveling Pants by Ann Brashares
+44. The Princess Diaries by Meg Cabot
+45. The Sisterhood of the Traveling Pants by Ann Brashares
+46. The Princess Diaries by Meg Cabot
+47. The Sisterhood of the Traveling Pants by Ann Brashares
+48. The Princess Diaries by Meg Cabot
+49. The Sisterhood of the Traveling Pants by Ann Brashares
+50. The Princess Diaries by Meg Cabot
+
+These recommendations are based on the user's interest in adventure, fantasy, and mystery genres.

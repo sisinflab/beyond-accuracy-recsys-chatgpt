@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1481:
+
+1. Muse
+2. My Chemical Romance
+3. Green Day
+4. The Killers
+5. Arctic Monkeys
+6. Placebo
+7. Blink-182
+8. Fall Out Boy
+9. Sum 41
+10. The Offspring
+11. Bowling for Soup
+12. Jet
+13. The Strokes
+14. The Hives
+15. The Vines
+16. Kasabian
+17. The Kooks
+18. Oasis
+19. The Subways
+20. Biffy Clyro
+21. Kings of Leon
+22. Rammstein
+23. Die Ärzte
+24. Billy Talent
+25. Anti-Flag
+26. Wolfmother
+27. The Beatles
+28. Nirvana
+29. Radiohead
+30. Coldplay
+31. U2
+32. Pink Floyd
+33. Metallica
+34. Led Zeppelin
+35. Iron Maiden
+36. Pearl Jam
+37. System of a Down
+38. Nine Inch Nails
+39. Linkin Park
+40. Avenged Sevenfold
+41. Black Eyed Peas
+42. Daft Punk
+43. Madonna
+44. Lady Gaga
+45. Britney Spears
+46. Rihanna
+47. Christina Aguilera
+48. Shakira
+49. Katy Perry
+50. Taylor Swift
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

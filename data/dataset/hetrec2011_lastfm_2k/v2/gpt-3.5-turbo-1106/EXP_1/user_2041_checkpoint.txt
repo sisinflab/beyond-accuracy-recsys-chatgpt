@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Mayday Parade
+2. The Killers
+3. 30 Seconds to Mars
+4. The Used
+5. Jimmy Eat World
+6. Blink-182
+7. Good Charlotte
+8. Three Days Grace
+9. Simple Plan
+10. The Fray
+11. Arctic Monkeys
+12. Coldplay
+13. The Offspring
+14. 3 Doors Down
+15. Maroon 5
+16. Kings of Leon
+17. The Script
+18. OneRepublic
+19. Imagine Dragons
+20. Foster the People
+21. The Neighbourhood
+22. Bastille
+23. Cage the Elephant
+24. Florence + The Machine
+25. Hozier
+26. The 1975
+27. Twenty One Pilots
+28. PVRIS
+29. Paramore
+30. All Time Low
+31. New Found Glory
+32. Yellowcard
+33. A Day to Remember
+34. Anberlin
+35. Silverstein
+36. Saosin
+37. The Red Jumpsuit Apparatus
+38. Story of the Year
+39. Hawthorne Heights
+40. Senses Fail
+41. The Starting Line
+42. Brand New
+43. Motion City Soundtrack
+44. The Academy Is...
+45. The All-American Rejects
+46. Taking Back Sunday
+47. Fall Out Boy
+48. My Chemical Romance
+49. Panic! At the Disco
+50. Dashboard Confessional
+
+These recommendations are based on the user's liking of similar artists and genres.

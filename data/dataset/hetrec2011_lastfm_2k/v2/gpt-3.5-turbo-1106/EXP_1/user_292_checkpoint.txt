@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. King Crimson
+3. Genesis
+4. Tame Impala
+5. The Doors
+6. Pink Floyd
+7. The Beatles
+8. Yes
+9. Joy Division
+10. Porcupine Tree
+11. Tool
+12. Brian Eno
+13. David Gilmour
+14. Captain Beefheart & His Magic Band
+15. Led Zeppelin
+16. Miles Davis
+17. Talk Talk
+18. The Velvet Underground
+19. Syd Barrett
+20. Nine Inch Nails
+21. Black Sabbath
+22. Swans
+23. Sigur Rós
+24. Queen
+25. Jethro Tull
+26. The Jimi Hendrix Experience
+27. Rush
+28. The Rolling Stones
+29. The Smashing Pumpkins
+30. Bob Dylan
+31. The Cure
+32. Interpol
+33. Emerson, Lake & Palmer
+34. Radiohead
+35. King Crimson
+36. Genesis
+37. Tame Impala
+38. The Doors
+39. Pink Floyd
+40. The Beatles
+41. Yes
+42. Joy Division
+43. Porcupine Tree
+44. Tool
+45. Brian Eno
+46. David Gilmour
+47. Captain Beefheart & His Magic Band
+48. Led Zeppelin
+49. Miles Davis
+50. Talk Talk
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands that the user may enjoy.

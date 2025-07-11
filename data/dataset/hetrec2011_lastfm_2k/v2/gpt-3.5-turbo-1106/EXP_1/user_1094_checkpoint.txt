@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Radiohead
+3. Arctic Monkeys
+4. The Killers
+5. Oasis
+6. Foo Fighters
+7. The Strokes
+8. Arcade Fire
+9. The National
+10. Interpol
+11. The Smiths
+12. Franz Ferdinand
+13. The Cure
+14. Pearl Jam
+15. The Smashing Pumpkins
+16. Placebo
+17. The Verve
+18. The Black Keys
+19. The White Stripes
+20. Modest Mouse
+21. Vampire Weekend
+22. The Flaming Lips
+23. Spoon
+24. The Shins
+25. Death Cab for Cutie
+26. Bloc Party
+27. The War on Drugs
+28. Tame Impala
+29. Phoenix
+30. The xx
+31. LCD Soundsystem
+32. Yeah Yeah Yeahs
+33. Grizzly Bear
+34. Fleet Foxes
+35. Bon Iver
+36. The Decemberists
+37. Band of Horses
+38. Silversun Pickups
+39. Foster the People
+40. Cage the Elephant
+41. The Black Angels
+42. Portugal. The Man
+43. The Horrors
+44. MGMT
+45. The Antlers
+46. Beach House
+47. Wild Beasts
+48. Foals
+49. Alt-J
+50. Warpaint
+
+These recommendations are based on the user's liking of alternative and indie rock bands, as well as some classic rock influences.

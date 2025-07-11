@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Led Zeppelin
+2. AC/DC
+3. Pink Floyd
+4. The Rolling Stones
+5. Lynyrd Skynyrd
+6. ZZ Top
+7. The Who
+8. Guns N' Roses
+9. Alice Cooper
+10. Steppenwolf
+11. Blue Öyster Cult
+12. The Allman Brothers Band
+13. Deep Purple
+14. Black Sabbath
+15. Ozzy Osbourne
+16. Jimi Hendrix
+17. Thin Lizzy
+18. Motörhead
+19. Creedence Clearwater Revival
+20. Uriah Heep
+21. Janis Joplin
+22. Scorpions
+23. Van Morrison
+24. The Animals
+25. Whitesnake
+26. Cream
+27. Dio
+28. The Jimi Hendrix Experience
+29. Jethro Tull
+30. Fleetwood Mac
+31. The Doors
+32. Jefferson Airplane
+33. Iron Maiden
+34. Queen
+35. Johnny Cash
+36. Aerosmith
+37. Tom Petty and the Heartbreakers
+38. KISS
+39. The Kinks
+40. Eagles
+41. Eric Clapton
+42. The Yardbirds
+43. Bad Company
+44. The Byrds
+45. The Band
+46. The Velvet Underground
+47. The Beach Boys
+48. The Grateful Dead
+49. The Steve Miller Band
+50. The Doobie Brothers
+
+These recommendations are based on the user's liking of classic rock, hard rock, and blues artists, and include similar bands and artists that the user may enjoy based on their existing preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. One Hundred Years of Solitude by Gabriel Garcia Marquez
+4. Crime and Punishment by Fyodor Dostoevsky
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Brave New World by Aldous Huxley
+7. The Brothers Karamazov by Fyodor Dostoevsky
+8. The Stranger by Albert Camus
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Bell Jar by Sylvia Plath
+11. The Road by Cormac McCarthy
+12. The Sun Also Rises by Ernest Hemingway
+13. The Grapes of Wrath by John Steinbeck
+14. The Sound and the Fury by William Faulkner
+15. A Clockwork Orange by Anthony Burgess
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Handmaid's Tale by Margaret Atwood
+18. The Metamorphosis by Franz Kafka
+19. Heart of Darkness by Joseph Conrad
+20. The Plague by Albert Camus
+21. The Trial by Franz Kafka
+22. The Idiot by Fyodor Dostoevsky
+23. The Unbearable Lightness of Being by Milan Kundera
+24. The Stranger by Harlan Coben
+25. The Book Thief by Markus Zusak
+26. The Kite Runner by Khaled Hosseini
+27. The Alchemist by Paulo Coelho
+28. The Secret History by Donna Tartt
+29. The Goldfinch by Donna Tartt
+30. The Night Circus by Erin Morgenstern
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Name of the Wind by Patrick Rothfuss
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Help by Kathryn Stockett
+35. The Lovely Bones by Alice Sebold
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Martian by Andy Weir
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Hunger Games by Suzanne Collins
+40. The Da Vinci Code by Dan Brown
+41. The Girl on the Train by Paula Hawkins
+42. The Maze Runner by James Dashner
+43. The Giver by Lois Lowry
+44. The Fault in Our Stars by John Green
+45. The Perks of Being a Wallflower by Stephen Chbosky
+46. The Outsiders by S.E. Hinton
+47. The Catcher in the Rye by J.D. Salinger
+48. The Picture of Dorian Gray by Oscar Wilde
+49. Wuthering Heights by Emily Brontë
+50. Lord of the Flies by William Golding
+
+These recommendations are based on the user's liking for classic literature, existentialist themes, and psychological depth in the books they have read.

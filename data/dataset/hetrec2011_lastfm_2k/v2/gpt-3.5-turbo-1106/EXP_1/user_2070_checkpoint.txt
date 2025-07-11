@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Green Day
+3. Fall Out Boy
+4. Panic! At The Disco
+5. The Offspring
+6. Nirvana
+7. The Smashing Pumpkins
+8. Arctic Monkeys
+9. The White Stripes
+10. Blink-182
+11. System of a Down
+12. The All-American Rejects
+13. Weezer
+14. The Used
+15. Paramore
+16. Aerosmith
+17. Three Days Grace
+18. 30 Seconds to Mars
+19. Linkin Park
+20. Pitty
+21. Joan Jett and the Blackhearts
+22. YUI
+23. The Beatles
+24. Jeffree Star
+25. Marilyn Manson
+26. Bowling for Soup
+27. The Distillers
+28. Sum 41
+29. Evanescence
+30. Guns N' Roses
+31. Tokio Hotel
+32. Ozzy Osbourne
+33. Bring Me The Horizon
+34. Slash
+35. Led Zeppelin
+36. Muse
+37. The Killers
+38. B.o.B
+39. Van Halen
+40. 3 Doors Down
+41. Angels & Airwaves
+42. AFI
+43. Foo Fighters
+44. New Found Glory
+45. Avril Lavigne
+46. Red Hot Chili Peppers
+47. Good Charlotte
+48. Stone Temple Pilots
+49. Alice in Chains
+50. Soundgarden
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of options within the rock and alternative music genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Demi Lovato
+2. Ariana Grande
+3. Katy Perry
+4. Miley Cyrus
+5. Demi Lovato
+6. Avril Lavigne
+7. Hilary Duff
+8. Carly Rae Jepsen
+9. Fergie
+10. Marina and the Diamonds
+11. Tove Lo
+12. Charli XCX
+13. Zara Larsson
+14. Halsey
+15. Meghan Trainor
+16. Ellie Goulding
+17. Sia
+18. Alessia Cara
+19. Hailee Steinfeld
+20. Bebe Rexha
+21. Dua Lipa
+22. Camila Cabello
+23. Lorde
+24. Tinashe
+25. Rita Ora
+26. Little Mix
+27. Fifth Harmony
+28. Zedd
+29. Calvin Harris
+30. David Guetta
+31. The Chainsmokers
+32. Kygo
+33. Martin Garrix
+34. Marshmello
+35. Alan Walker
+36. Clean Bandit
+37. Sigala
+38. Jonas Blue
+39. Galantis
+40. Rudimental
+41. Major Lazer
+42. Diplo
+43. Steve Aoki
+44. Afrojack
+45. Axwell Λ Ingrosso
+46. Alesso
+47. Tiësto
+48. Armin van Buuren
+49. Above & Beyond
+50. Deadmau5
+
+These recommendations are based on the user's liking of pop and dance artists and are aimed at providing a diverse range of similar artists for the user to explore.

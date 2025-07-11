@@ -1,0 +1,54 @@
+Based on user 656's preferences, here are the top 50 recommendations:
+
+1. Michael Jackson
+2. Madonna
+3. Queen
+4. U2
+5. The Rolling Stones
+6. INXS
+7. The Police
+8. Blondie
+9. Bon Jovi
+10. Eurythmics
+11. Pet Shop Boys
+12. The Cure
+13. Talking Heads
+14. Tears for Fears
+15. Simple Minds
+16. The Smiths
+17. New Order
+18. Roxy Music
+19. The Clash
+20. Echo & the Bunnymen
+21. The Human League
+22. Culture Club
+23. The Cars
+24. Bryan Adams
+25. Billy Joel
+26. Elton John
+27. Fleetwood Mac
+28. Dire Straits
+29. The Pretenders
+30. The Bangles
+31. The Go-Go's
+32. Pat Benatar
+33. Heart
+34. Journey
+35. REO Speedwagon
+36. Foreigner
+37. Toto
+38. Styx
+39. Boston
+40. Cheap Trick
+41. Def Leppard
+42. Guns N' Roses
+43. Van Halen
+44. AC/DC
+45. Aerosmith
+46. Scorpions
+47. Whitesnake
+48. Motley Crue
+49. Poison
+50. Ratt
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for potential discovery.

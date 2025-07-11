@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Little Women by Louisa May Alcott
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Jane Eyre by Charlotte Bronte
+7. The Grapes of Wrath by John Steinbeck
+8. The Scarlet Letter by Nathaniel Hawthorne
+9. Wuthering Heights by Emily Bronte
+10. The Adventures of Huckleberry Finn by Mark Twain
+11. The Picture of Dorian Gray by Oscar Wilde
+12. Brave New World by Aldous Huxley
+13. The Bell Jar by Sylvia Plath
+14. The Handmaid's Tale by Margaret Atwood
+15. The Road by Cormac McCarthy
+16. The Kite Runner by Khaled Hosseini
+17. The Alchemist by Paulo Coelho
+18. The Book Thief by Markus Zusak
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Help by Kathryn Stockett
+21. The Color Purple by Alice Walker
+22. The Joy Luck Club by Amy Tan
+23. The Poisonwood Bible by Barbara Kingsolver
+24. The Glass Castle by Jeannette Walls
+25. The Night Circus by Erin Morgenstern
+26. The Goldfinch by Donna Tartt
+27. The Secret History by Donna Tartt
+28. The Girl on the Train by Paula Hawkins
+29. Gone Girl by Gillian Flynn
+30. The Hunger Games by Suzanne Collins
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Da Vinci Code by Dan Brown
+33. The Girl on the Train by Paula Hawkins
+34. The Help by Kathryn Stockett
+35. The Lovely Bones by Alice Sebold
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Fault in Our Stars by John Green
+38. The Perks of Being a Wallflower by Stephen Chbosky
+39. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+40. The Martian by Andy Weir
+41. The Nightingale by Kristin Hannah
+42. The Light Between Oceans by M.L. Stedman
+43. The Girl Who Played with Fire by Stieg Larsson
+44. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+45. The Girl in the Spider's Web by David Lagercrantz
+46. The Night Circus by Erin Morgenstern
+47. The Goldfinch by Donna Tartt
+48. The Secret History by Donna Tartt
+49. The Girl on the Train by Paula Hawkins
+50. Gone Girl by Gillian Flynn
+
+These recommendations are based on the user's preference for classic literature, historical fiction, and contemporary novels.

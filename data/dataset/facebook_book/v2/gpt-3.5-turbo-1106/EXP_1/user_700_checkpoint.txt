@@ -1,0 +1,54 @@
+Based on user 700's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Maze Runner by James Dashner
+5. The Giver by Lois Lowry
+6. Ender's Game by Orson Scott Card
+7. The Lightning Thief by Rick Riordan
+8. The Book Thief by Markus Zusak
+9. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Mortal Instruments series by Cassandra Clare
+13. The Night Circus by Erin Morgenstern
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Name of the Wind by Patrick Rothfuss
+16. The Secret History by Donna Tartt
+17. The Goldfinch by Donna Tartt
+18. The Shadow of the Wind by Carlos Ruiz Zafón
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Lovely Bones by Alice Sebold
+21. The Help by Kathryn Stockett
+22. The Kite Runner by Khaled Hosseini
+23. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+24. The Nightingale by Kristin Hannah
+25. The Glass Castle by Jeannette Walls
+26. The Handmaid's Tale by Margaret Atwood
+27. The Martian by Andy Weir
+28. The Girl on the Train by Paula Hawkins
+29. The Silent Patient by Alex Michaelides
+30. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+31. The Tattooist of Auschwitz by Heather Morris
+32. The Alice Network by Kate Quinn
+33. The Light We Lost by Jill Santopolo
+34. The Nightingale by Kristin Hannah
+35. The Great Alone by Kristin Hannah
+36. The Night Circus by Erin Morgenstern
+37. The Nightingale by Kristin Hannah
+38. The Night Circus by Erin Morgenstern
+39. The Nightingale by Kristin Hannah
+40. The Night Circus by Erin Morgenstern
+41. The Nightingale by Kristin Hannah
+42. The Night Circus by Erin Morgenstern
+43. The Nightingale by Kristin Hannah
+44. The Night Circus by Erin Morgenstern
+45. The Nightingale by Kristin Hannah
+46. The Night Circus by Erin Morgenstern
+47. The Nightingale by Kristin Hannah
+48. The Night Circus by Erin Morgenstern
+49. The Nightingale by Kristin Hannah
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the genres and authors that user 700 has shown interest in.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Time Keeper by Mitch Albom
+2. The Zahir by Paulo Coelho
+3. A Walk to Remember by Nicholas Sparks
+4. Brida by Paulo Coelho
+5. Can You Keep a Secret? by Sophie Kinsella
+6. The First Phone Call from Heaven by Mitch Albom
+7. The Lost Symbol by Dan Brown
+8. The Notebook by Nicholas Sparks
+9. The Giver of Stars by Jojo Moyes
+10. The House of Hades by Rick Riordan
+11. The Magic Strings of Frankie Presto by Mitch Albom
+12. The Valkyries by Paulo Coelho
+13. Safe Haven by Nicholas Sparks
+14. Confessions of a Shopaholic by Sophie Kinsella
+15. The Son of Neptune by Rick Riordan
+16. The Winner Stands Alone by Paulo Coelho
+17. The Best of Me by Nicholas Sparks
+18. Shopaholic Takes Manhattan by Sophie Kinsella
+19. The Battle of the Labyrinth by Rick Riordan
+20. The Witch of Portobello by Paulo Coelho
+21. The Lucky One by Nicholas Sparks
+22. Shopaholic & Sister by Sophie Kinsella
+23. The Red Pyramid by Rick Riordan
+24. Eleven Minutes by Paulo Coelho
+25. Nights in Rodanthe by Nicholas Sparks
+26. Shopaholic & Baby by Sophie Kinsella
+27. The Serpent's Shadow by Rick Riordan
+28. The Devil and Miss Prym by Paulo Coelho
+29. The Longest Ride by Nicholas Sparks
+30. Mini Shopaholic by Sophie Kinsella
+31. The Throne of Fire by Rick Riordan
+32. The Pilgrimage by Paulo Coelho
+33. Dear John by Nicholas Sparks
+34. Remember Me? by Sophie Kinsella
+35. The Blood of Olympus by Rick Riordan
+36. The Spy by Paulo Coelho
+37. The Guardian by Nicholas Sparks
+38. Finding Audrey by Sophie Kinsella
+39. The Hidden Oracle by Rick Riordan
+40. The Witch of Portobello by Paulo Coelho
+41. The Rescue by Nicholas Sparks
+42. I've Got Your Number by Sophie Kinsella
+43. The Dark Prophecy by Rick Riordan
+44. The Alchemist by Paulo Coelho
+45. The Lucky One by Nicholas Sparks
+46. Can You Keep a Secret? by Sophie Kinsella
+47. The Lightning Thief by Rick Riordan
+48. The Fifth Mountain by Paulo Coelho
+49. The Last Song by Nicholas Sparks
+50. Confessions of a Shopaholic by Sophie Kinsella
+
+These recommendations are based on the user's liking for books by Paulo Coelho, Mitch Albom, Nicholas Sparks, Sophie Kinsella, and Rick Riordan.

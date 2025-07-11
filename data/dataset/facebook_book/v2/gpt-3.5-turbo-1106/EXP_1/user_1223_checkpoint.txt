@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Burned (novel) by Ellen Hopkins
+2. Impulse (novel) by Ellen Hopkins
+3. Perfect (novel) by Ellen Hopkins
+4. Crank (novel) by Ellen Hopkins
+5. Fallout (novel) by Ellen Hopkins
+6. Tilt (novel) by Ellen Hopkins
+7. Smoke (novel) by Ellen Hopkins
+8. Rumble (novel) by Ellen Hopkins
+9. Triangles (novel) by Ellen Hopkins
+10. Love Lies Beneath by Ellen Hopkins
+11. A New Dawn by Ellen Hopkins
+12. The Glass Castle by Jeannette Walls
+13. Running with Scissors by Augusten Burroughs
+14. Dry by Augusten Burroughs
+15. Sellevision by Augusten Burroughs
+16. Possible Side Effects by Augusten Burroughs
+17. Look Me in the Eye by John Elder Robison
+18. Be More Chill by Ned Vizzini
+19. House of Leaves by Mark Z. Danielewski
+20. The Virgin Suicides by Jeffrey Eugenides
+21. The Marriage Plot by Jeffrey Eugenides
+22. The Secret History by Donna Tartt
+23. Less Than Zero by Bret Easton Ellis
+24. American Psycho by Bret Easton Ellis
+25. Lunar Park by Bret Easton Ellis
+26. The Bell Jar by Sylvia Plath
+27. Girl, Interrupted by Susanna Kaysen
+28. Prozac Nation by Elizabeth Wurtzel
+29. The Perks of Being a Wallflower by Stephen Chbosky
+30. We Were Liars by E. Lockhart
+31. Before I Fall by Lauren Oliver
+32. Thirteen Reasons Why by Jay Asher
+33. Speak by Laurie Halse Anderson
+34. Wintergirls by Laurie Halse Anderson
+35. The Lovely Bones by Alice Sebold
+36. Sharp Objects by Gillian Flynn
+37. Dark Places by Gillian Flynn
+38. Gone Girl by Gillian Flynn
+39. The Girl on the Train by Paula Hawkins
+40. Sharp Objects by Gillian Flynn
+41. The Woman in the Window by A.J. Finn
+42. The Silent Patient by Alex Michaelides
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Girl Who Played with Fire by Stieg Larsson
+45. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+46. The Girl in the Spider's Web by David Lagercrantz
+47. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+48. The Girl Who Lived Twice by David Lagercrantz
+49. The Girl Who Wrote in Silk by Kelli Estes
+50. The Girl Who Smiled Beads by Clemantine Wamariya
+
+These recommendations are based on the user's interest in books by Ellen Hopkins, Chelsea Handler, and similar themes and genres.

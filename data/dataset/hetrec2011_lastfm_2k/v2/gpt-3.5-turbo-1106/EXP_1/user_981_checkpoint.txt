@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Shins
+2. The Postal Service
+3. Brand New
+4. The Decemberists
+5. The Strokes
+6. The Killers
+7. Taking Back Sunday
+8. Bright Eyes
+9. Sufjan Stevens
+10. The National
+11. Death Cab for Cutie
+12. Modest Mouse
+13. Anberlin
+14. Broken Social Scene
+15. Neutral Milk Hotel
+16. Cobra Starship
+17. Girl Talk
+18. Architecture in Helsinki
+19. Funeral for a Friend
+20. OK Go
+21. Lily Allen
+22. Bloc Party
+23. Something Corporate
+24. Jimmy Eat World
+25. The Spill Canvas
+26. Arcade Fire
+27. Band of Horses
+28. Iron & Wine
+29. Fall Out Boy
+30. Say Anything
+31. Copeland
+32. The New Pornographers
+33. Rilo Kiley
+34. MGMT
+35. Vampire Weekend
+36. Arctic Monkeys
+37. Franz Ferdinand
+38. Interpol
+39. Yeah Yeah Yeahs
+40. Metric
+41. Tegan and Sara
+42. The Bravery
+43. The Hush Sound
+44. Motion City Soundtrack
+45. The Academy Is...
+46. Panic! At The Disco
+47. My Chemical Romance
+48. Paramore
+49. Weezer
+50. The All-American Rejects
+
+These recommendations are based on the user's liking of similar artists and genres.

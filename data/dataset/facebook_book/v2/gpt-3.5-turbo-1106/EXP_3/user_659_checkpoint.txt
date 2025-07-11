@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations for user 659:
+
+1. Ender's Game by Orson Scott Card
+2. Speaker for the Dead by Orson Scott Card
+3. Children of the Mind by Orson Scott Card
+4. Xenocide by Orson Scott Card
+5. Ender's Shadow by Orson Scott Card
+6. Dune (novel)
+7. The Hobbit
+8. His Dark Materials
+9. The Watchmen (novel)
+10. The Dark Elf Trilogy
+11. The Hunger Games
+12. Catching Fire
+13. Mockingjay
+14. The Three Musketeers by Alexandre Dumas, Auguste Maquet
+15. The Catcher in the Rye
+16. Nineteen Eighty-Four
+17. I Am Legend (novel)
+18. The Picture of Dorian Gray
+19. The Melancholy Death of Oyster Boy & Other Stories by Tim Burton
+20. Through the Looking-Glass by Lewis Carroll
+21. Peter and Wendy by J. M. Barrie
+22. Paradise Lost
+23. Dhammapada
+24. The Greatest Show on Earth: The Evidence for Evolution by Richard Dawkins
+25. The Last Storytellers: Tales from the Heart of Morocco
+26. The Da Vinci Code
+27. Angels & Demons
+28. The Hunter's Blades Trilogy
+29. The Dark Elf Trilogy
+30. Water for Elephants
+31. As I Lay Dying (novel)
+32. God Emperor of Dune
+33. Halo: Ghosts of Onyx
+34. Halo: The Flood
+35. Halo: First Strike
+36. Deception Point
+37. The Melancholy Death of Oyster Boy & Other Stories by Tim Burton
+38. The Last Storytellers: Tales from the Heart of Morocco
+39. The Da Vinci Code
+40. Angels & Demons
+41. The Hunter's Blades Trilogy
+42. Water for Elephants
+43. As I Lay Dying (novel)
+44. God Emperor of Dune
+45. Halo: Ghosts of Onyx
+46. Halo: The Flood
+47. Halo: First Strike
+48. Deception Point
+49. The Melancholy Death of Oyster Boy & Other Stories by Tim Burton
+50. The Last Storytellers: Tales from the Heart of Morocco
+
+These recommendations are based on the user's liking for similar genres and authors.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Eric Clapton
+2. Jimi Hendrix
+3. The Allman Brothers Band
+4. John Lee Hooker
+5. Muddy Waters
+6. Albert King
+7. Freddie King
+8. Howlin' Wolf
+9. The Rolling Stones
+10. Led Zeppelin
+11. The Doors
+12. Fleetwood Mac
+13. Neil Young
+14. The Jimi Hendrix Experience
+15. The Yardbirds
+16. The Animals
+17. Peter Green
+18. Rory Gallagher
+19. Johnny Winter
+20. T-Bone Walker
+21. Elmore James
+22. Sonny Boy Williamson
+23. Otis Rush
+24. Junior Wells
+25. Koko Taylor
+26. Etta James
+27. John Mayall & The Bluesbreakers
+28. Canned Heat
+29. The Paul Butterfield Blues Band
+30. Taj Mahal
+31. Robert Johnson
+32. Son House
+33. Mississippi John Hurt
+34. Skip James
+35. Blind Willie Johnson
+36. Lead Belly
+37. Big Bill Broonzy
+38. Memphis Minnie
+39. Sister Rosetta Tharpe
+40. Blind Lemon Jefferson
+41. Charley Patton
+42. Lightnin' Hopkins
+43. Blind Willie McTell
+44. Brownie McGhee
+45. Sonny Terry
+46. Josh White
+47. Rev. Gary Davis
+48. Mississippi Fred McDowell
+49. Bukka White
+50. Mississippi Sheiks
+
+These recommendations are based on the user's liking of blues and rock artists and are aimed at providing a diverse range of similar artists for the user to explore.

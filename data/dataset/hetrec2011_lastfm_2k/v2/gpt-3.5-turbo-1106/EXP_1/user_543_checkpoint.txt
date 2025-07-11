@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smashing Pumpkins
+2. Nine Inch Nails
+3. The Strokes
+4. Interpol
+5. The National
+6. Florence + The Machine
+7. The xx
+8. Foals
+9. Sigur Rós
+10. The Flaming Lips
+11. Tame Impala
+12. Bon Iver
+13. The Black Keys
+14. Vampire Weekend
+15. Alt-J
+16. Hozier
+17. Bastille
+18. The War on Drugs
+19. Grimes
+20. CHVRCHES
+21. Foster the People
+22. Metric
+23. The Naked and Famous
+24. Phantogram
+25. Glass Animals
+26. Portugal. The Man
+27. Cage The Elephant
+28. Arctic Lake
+29. London Grammar
+30. The Neighbourhood
+31. The 1975
+32. Lorde
+33. Lana Del Rey
+34. Haim
+35. CHVRCHES
+36. The Naked and Famous
+37. Phantogram
+38. Glass Animals
+39. Portugal. The Man
+40. Cage The Elephant
+41. Arctic Lake
+42. London Grammar
+43. The Neighbourhood
+44. The 1975
+45. Lorde
+46. Lana Del Rey
+47. Haim
+48. The Wombats
+49. Two Door Cinema Club
+50. The Kooks

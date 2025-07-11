@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Guns N' Roses
+2. Iron Maiden
+3. Metallica
+4. Ozzy Osbourne
+5. Aerosmith
+6. Queen
+7. The Rolling Stones
+8. Bon Jovi
+9. Alice Cooper
+10. Whitesnake
+11. Motley Crue
+12. The Who
+13. Rush
+14. Nirvana
+15. The Doors
+16. Black Sabbath
+17. Pearl Jam
+18. Soundgarden
+19. Foo Fighters
+20. Red Hot Chili Peppers
+21. The Beatles
+22. The Kinks
+23. Cream
+24. The Jimi Hendrix Experience
+25. The Clash
+26. The Ramones
+27. The Sex Pistols
+28. The Stooges
+29. The Velvet Underground
+30. The White Stripes
+31. The Black Keys
+32. The Strokes
+33. Arctic Monkeys
+34. Queens of the Stone Age
+35. The Smashing Pumpkins
+36. Green Day
+37. R.E.M.
+38. U2
+39. The Cure
+40. Depeche Mode
+41. New Order
+42. Joy Division
+43. The Smiths
+44. Radiohead
+45. Coldplay
+46. Muse
+47. Arctic Monkeys
+48. The Killers
+49. Kings of Leon
+50. Imagine Dragons
+
+These recommendations are based on the user's liking of classic rock and heavy metal bands, as well as some pop and alternative rock artists.

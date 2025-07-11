@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Duran Duran
+2. Tears for Fears
+3. The Human League
+4. Eurythmics
+5. New Order
+6. The Smiths
+7. Talking Heads
+8. Blondie
+9. Culture Club
+10. Pet Shop Boys
+11. Kate Bush
+12. Siouxsie and the Banshees
+13. The B-52's
+14. Depeche Mode
+15. INXS
+16. The Cure
+17. Echo & the Bunnymen
+18. The Psychedelic Furs
+19. Simple Minds
+20. U2
+21. Madonna
+22. The Police
+23. a-ha
+24. Incubus
+25. Bryan Adams
+26. Foreigner
+27. The Alan Parsons Project
+28. Janet Jackson
+29. Hall & Oates
+30. Michael Jackson
+31. Coldplay
+32. Kelly Clarkson
+33. Def Leppard
+34. Journey
+35. Soft Cell
+36. Genesis
+37. Groove Armada
+38. Yes
+39. Boards of Canada
+40. Sade
+41. Tiësto
+42. Phil Collins
+43. City and Colour
+44. Peter Gabriel
+45. Roxy Music
+46. Fleetwood Mac
+47. The Cars
+48. The Pretenders
+49. The Go-Go's
+50. The Clash
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands.

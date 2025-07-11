@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Radiohead
+2. The Killers
+3. Muse
+4. Nirvana
+5. Coldplay
+6. Arctic Monkeys
+7. Pink Floyd
+8. The Beatles
+9. The National
+10. Interpol
+11. Arcade Fire
+12. Sigur Rós
+13. Beirut
+14. The Strokes
+15. Yeah Yeah Yeahs
+16. The Cribs
+17. The Libertines
+18. Kings of Leon
+19. Joy Division
+20. The Rakes
+21. Bon Iver
+22. M. Ward
+23. Manu Chao
+24. She Wants Revenge
+25. Silverchair
+26. Jónsi
+27. Broken Social Scene
+28. Spoon
+29. The Smashing Pumpkins
+30. Babyshambles
+31. Gogol Bordello
+32. Los Hermanos
+33. Bat for Lashes
+34. The Kills
+35. Tokyo Police Club
+36. Klaxons
+37. Kate Nash
+38. Móveis Coloniais de Acaju
+39. Britney Spears
+40. Lady Gaga
+41. Christina Aguilera
+42. Madonna
+43. Rihanna
+44. Shakira
+45. Katy Perry
+46. Avril Lavigne
+47. Taylor Swift
+48. Paramore
+49. Beyoncé
+50. U2
+
+This re-ranked list is based on the user's liking of similar artists and may provide a better match for their preferences.

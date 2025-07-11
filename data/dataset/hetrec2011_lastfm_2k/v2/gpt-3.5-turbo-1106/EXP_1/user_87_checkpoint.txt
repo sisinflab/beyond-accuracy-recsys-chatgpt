@@ -1,0 +1,54 @@
+Based on the preferences of user 87, here are the top 50 recommendations:
+
+1. Lady Gaga
+2. Ariana Grande
+3. Shakira
+4. Selena Gomez
+5. Demi Lovato
+6. Taylor Swift
+7. Miley Cyrus
+8. Katy Perry
+9. Nicki Minaj
+10. Adele
+11. Sia
+12. Jennifer Lopez
+13. Meghan Trainor
+14. Ellie Goulding
+15. Avril Lavigne
+16. Kelly Clarkson
+17. Janelle Monáe
+18. Halsey
+19. Dua Lipa
+20. Camila Cabello
+21. Zara Larsson
+22. Tove Lo
+23. Alessia Cara
+24. Bebe Rexha
+25. Hailee Steinfeld
+26. Lorde
+27. Carly Rae Jepsen
+28. Rita Ora
+29. Charli XCX
+30. Meghan Trainor
+31. Zara Larsson
+32. Tove Lo
+33. Alessia Cara
+34. Bebe Rexha
+35. Hailee Steinfeld
+36. Lorde
+37. Carly Rae Jepsen
+38. Rita Ora
+39. Charli XCX
+40. Fifth Harmony
+41. Little Mix
+42. The Weeknd
+43. Bruno Mars
+44. Ed Sheeran
+45. Sam Smith
+46. Jason Derulo
+47. Usher
+48. Chris Brown
+49. Ne-Yo
+50. Trey Songz
+
+These recommendations are based on similar musical styles, genres, and popularity to the artists liked by user 87.

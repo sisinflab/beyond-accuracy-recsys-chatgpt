@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. As I Lay Dying
+2. Lamb of God
+3. August Burns Red
+4. Trivium
+5. Killswitch Engage
+6. Atreyu
+7. The Ghost Inside
+8. Architects
+9. Whitechapel
+10. Suicide Silence
+11. Thy Art Is Murder
+12. Chelsea Grin
+13. Carnifex
+14. Fit For An Autopsy
+15. Emmure
+16. After the Burial
+17. Veil of Maya
+18. Born of Osiris
+19. The Acacia Strain
+20. Parkway Drive
+21. All Shall Perish
+22. Despised Icon
+23. The Black Dahlia Murder
+24. O.S.T.R.
+25. Motörhead
+26. Municipal Waste
+27. Rise Against
+28. The Offspring
+29. Hatebreed
+30. Caliban
+31. Exodus
+32. Bad Religion
+33. Volbeat
+34. A Day to Remember
+35. Bring Me The Horizon
+36. Bullet For My Valentine
+37. Of Mice & Men
+38. Beartooth
+39. Memphis May Fire
+40. We Came As Romans
+41. The Amity Affliction
+42. Blessthefall
+43. Underoath
+44. Silverstein
+45. Senses Fail
+46. Hawthorne Heights
+47. Alesana
+48. Escape the Fate
+49. Sleeping With Sirens
+50. Pierce the Veil
+
+These recommendations are based on the user's liking of similar artists and are tailored to their music preferences.

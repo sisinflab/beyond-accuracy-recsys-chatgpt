@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Catcher in the Rye by J.D. Salinger
+6. Little Women by Louisa May Alcott
+7. The Hobbit by J.R.R. Tolkien
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Secret Garden by Frances Hodgson Burnett
+10. Wuthering Heights by Emily Brontë
+11. The Adventures of Tom Sawyer by Mark Twain
+12. The Giver by Lois Lowry
+13. The Alchemist by Paulo Coelho
+14. The Little Prince by Antoine de Saint-Exupéry
+15. The Outsiders by S.E. Hinton
+16. The Grapes of Wrath by John Steinbeck
+17. The Bell Jar by Sylvia Plath
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Scarlet Letter by Nathaniel Hawthorne
+20. The Count of Monte Cristo by Alexandre Dumas
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Sun Also Rises by Ernest Hemingway
+23. The Sound and the Fury by William Faulkner
+24. One Hundred Years of Solitude by Gabriel García Márquez
+25. The Handmaid's Tale by Margaret Atwood
+26. The Road by Cormac McCarthy
+27. The Stranger by Albert Camus
+28. The Kite Runner by Khaled Hosseini
+29. The Book Thief by Markus Zusak
+30. The Night Circus by Erin Morgenstern
+31. The Name of the Wind by Patrick Rothfuss
+32. The Shadow of the Wind by Carlos Ruiz Zafón
+33. The Nightingale by Kristin Hannah
+34. The Goldfinch by Donna Tartt
+35. The Girl on the Train by Paula Hawkins
+36. The Help by Kathryn Stockett
+37. The Martian by Andy Weir
+38. The Hunger Games by Suzanne Collins
+39. The Maze Runner by James Dashner
+40. The Fault in Our Stars by John Green
+41. The Perks of Being a Wallflower by Stephen Chbosky
+42. The Lovely Bones by Alice Sebold
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Handmaid's Tale by Margaret Atwood
+45. The Road by Cormac McCarthy
+46. The Stranger by Albert Camus
+47. The Kite Runner by Khaled Hosseini
+48. The Book Thief by Markus Zusak
+49. The Night Circus by Erin Morgenstern
+50. The Name of the Wind by Patrick Rothfuss

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nightwish
+2. Children of Bodom
+3. Epica
+4. Kamelot
+5. Amorphis
+6. Helloween
+7. Within Temptation
+8. Kamelot
+9. Eluveitie
+10. Sabaton
+11. Rhapsody of Fire
+12. Ensiferum
+13. Sonata Arctica
+14. System of a Down
+15. In Flames
+16. Apocalyptica
+17. Pain of Salvation
+18. Dream Theater
+19. Opeth
+20. Stratovarius
+21. Dark Tranquillity
+22. Nevermore
+23. Slipknot
+24. Therion
+25. Tokio Hotel
+26. Evanescence
+27. Wolfgang Amadeus Mozart
+28. Arch Enemy
+29. Breaking Benjamin
+30. Dimmu Borgir
+31. Linkin Park
+32. Blind Guardian
+33. The Beatles
+34. Delain
+35. Sirenia
+36. Lacuna Coil
+37. Tarja
+38. Xandria
+39. Leaves' Eyes
+40. Tristania
+41. After Forever
+42. Sirenia
+43. Lacrimosa
+44. The Gathering
+45. Theatre of Tragedy
+46. Visions of Atlantis
+47. Edenbridge
+48. Stream of Passion
+49. Therion
+50. Nightwish
+
+These recommendations are based on the user's liking of similar artists and genres.

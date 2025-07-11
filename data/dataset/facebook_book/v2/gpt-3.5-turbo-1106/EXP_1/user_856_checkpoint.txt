@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. City of Bones by Cassandra Clare
+2. Hush, Hush by Becca Fitzpatrick
+3. Shiver by Maggie Stiefvater
+4. Fallen by Lauren Kate
+5. Beautiful Creatures by Kami Garcia and Margaret Stohl
+6. The Mortal Instruments series by Cassandra Clare
+7. The Infernal Devices series by Cassandra Clare
+8. The Hunger Games by Suzanne Collins
+9. Divergent by Veronica Roth
+10. The Maze Runner by James Dashner
+11. The Selection by Kiera Cass
+12. Uglies by Scott Westerfeld
+13. Delirium by Lauren Oliver
+14. Matched by Ally Condie
+15. The 5th Wave by Rick Yancey
+16. The Giver by Lois Lowry
+17. The Fault in Our Stars by John Green
+18. If I Stay by Gayle Forman
+19. Eleanor & Park by Rainbow Rowell
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. The Book Thief by Markus Zusak
+22. The Night Circus by Erin Morgenstern
+23. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Girl on the Train by Paula Hawkins
+26. Gone Girl by Gillian Flynn
+27. Sharp Objects by Gillian Flynn
+28. Dark Places by Gillian Flynn
+29. The Lovely Bones by Alice Sebold
+30. Room by Emma Donoghue
+31. The Help by Kathryn Stockett
+32. The Secret Life of Bees by Sue Monk Kidd
+33. The Kite Runner by Khaled Hosseini
+34. A Thousand Splendid Suns by Khaled Hosseini
+35. The Alchemist by Paulo Coelho
+36. The Nightingale by Kristin Hannah
+37. All the Light We Cannot See by Anthony Doerr
+38. The Goldfinch by Donna Tartt
+39. The Martian by Andy Weir
+40. Ready Player One by Ernest Cline
+41. The Handmaid's Tale by Margaret Atwood
+42. The Road by Cormac McCarthy
+43. Never Let Me Go by Kazuo Ishiguro
+44. The Time Traveler's Wife by Audrey Niffenegger
+45. The Shadow of the Wind by Carlos Ruiz Zafón
+46. The Name of the Wind by Patrick Rothfuss
+47. The Night Circus by Erin Morgenstern
+48. The Book Thief by Markus Zusak
+49. The Nightingale by Kristin Hannah
+50. All the Light We Cannot See by Anthony Doerr

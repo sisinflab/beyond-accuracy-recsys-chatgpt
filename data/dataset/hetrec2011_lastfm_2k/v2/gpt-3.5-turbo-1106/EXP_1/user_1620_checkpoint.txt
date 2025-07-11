@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tycho
+2. M83
+3. Bonobo
+4. Sigur Rós
+5. Mogwai
+6. Radiohead
+7. The xx
+8. Alt-J
+9. Tame Impala
+10. Washed Out
+11. Grimes
+12. CHVRCHES
+13. The Postal Service
+14. Phoenix
+15. Ratatat
+16. LCD Soundsystem
+17. The National
+18. Vampire Weekend
+19. The Strokes
+20. Arctic Monkeys
+21. The Killers
+22. Interpol
+23. Foals
+24. Bloc Party
+25. Death Cab for Cutie
+26. The Shins
+27. Modest Mouse
+28. Fleet Foxes
+29. Sufjan Stevens
+30. Iron & Wine
+31. The Decemberists
+32. Band of Horses
+33. Fleetwood Mac
+34. The War on Drugs
+35. Hozier
+36. Florence + The Machine
+37. Lana Del Rey
+38. Lorde
+39. Haim
+40. CHVRCHES
+41. London Grammar
+42. The Naked and Famous
+43. Metric
+44. Yeah Yeah Yeahs
+45. St. Vincent
+46. Phantogram
+47. Sylvan Esso
+48. Purity Ring
+49. Beach House
+50. Grizzly Bear
+
+These recommendations are based on the user's liking of artists such as Boards of Canada, Explosions in the Sky, Kanye West, and others, and are aimed at providing a diverse range of similar and potentially appealing artists.

@@ -1,0 +1,54 @@
+Based on the preferences of user 1097, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Fault in Our Stars by John Green
+4. The Maze Runner by James Dashner
+5. Delirium by Lauren Oliver
+6. Uglies by Scott Westerfeld
+7. The Catcher in the Rye by J.D. Salinger
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. The Book Thief by Markus Zusak
+10. Thirteen Reasons Why by Jay Asher
+11. Paper Towns by John Green
+12. Looking for Alaska by John Green
+13. The Giver by Lois Lowry
+14. The Outsiders by S.E. Hinton
+15. Eleanor & Park by Rainbow Rowell
+16. The Lovely Bones by Alice Sebold
+17. Before I Fall by Lauren Oliver
+18. The Girl on the Train by Paula Hawkins
+19. Room by Emma Donoghue
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Help by Kathryn Stockett
+22. The Night Circus by Erin Morgenstern
+23. The Goldfinch by Donna Tartt
+24. The Secret History by Donna Tartt
+25. The Bell Jar by Sylvia Plath
+26. We Were Liars by E. Lockhart
+27. The Handmaid's Tale by Margaret Atwood
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Road by Cormac McCarthy
+30. The Shining by Stephen King
+31. The Stand by Stephen King
+32. The Girl Who Loved Tom Gordon by Stephen King
+33. The Virgin Suicides by Jeffrey Eugenides
+34. The Secret Life of Bees by Sue Monk Kidd
+35. The Glass Castle by Jeannette Walls
+36. The Kite Runner by Khaled Hosseini
+37. A Thousand Splendid Suns by Khaled Hosseini
+38. The Alchemist by Paulo Coelho
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Thorn Birds by Colleen McCullough
+41. The Nightingale by Kristin Hannah
+42. The Light Between Oceans by M.L. Stedman
+43. The Book of Lost Things by John Connolly
+44. The Ocean at the End of the Lane by Neil Gaiman
+45. The Night Circus by Erin Morgenstern
+46. The Snow Child by Eowyn Ivey
+47. The Nightingale by Kristin Hannah
+48. The Night Circus by Erin Morgenstern
+49. The Nightingale by Kristin Hannah
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the genres and themes of the books that user 1097 likes.

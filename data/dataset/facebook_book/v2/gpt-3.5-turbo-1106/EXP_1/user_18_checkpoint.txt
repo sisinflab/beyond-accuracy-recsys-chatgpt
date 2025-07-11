@@ -1,0 +1,54 @@
+Based on user 18's preferences, here are the top 50 book recommendations:
+
+1. City of Bones by Cassandra Clare
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Mortal Instruments series by Cassandra Clare
+5. The Fault in Our Stars by John Green
+6. The Maze Runner by James Dashner
+7. The Selection by Kiera Cass
+8. Delirium by Lauren Oliver
+9. Shiver by Maggie Stiefvater
+10. Fallen by Lauren Kate
+11. Matched by Ally Condie
+12. Uglies by Scott Westerfeld
+13. The Giver by Lois Lowry
+14. The 5th Wave by Rick Yancey
+15. The Darkest Minds by Alexandra Bracken
+16. The Lunar Chronicles by Marissa Meyer
+17. The Infernal Devices series by Cassandra Clare
+18. The Raven Cycle series by Maggie Stiefvater
+19. The Chemical Garden trilogy by Lauren DeStefano
+20. The Unbecoming of Mara Dyer by Michelle Hodkin
+21. The Wrath and the Dawn by Renee Ahdieh
+22. The Winner's Curse by Marie Rutkoski
+23. The Grisha trilogy by Leigh Bardugo
+24. The Bone Season by Samantha Shannon
+25. The Star-Touched Queen by Roshani Chokshi
+26. The Wrath of the Dawn by Renee Ahdieh
+27. The Night Circus by Erin Morgenstern
+28. Daughter of Smoke & Bone by Laini Taylor
+29. The Name of the Wind by Patrick Rothfuss
+30. The Queen of the Tearling by Erika Johansen
+31. The Bear and the Nightingale by Katherine Arden
+32. The Girl of Fire and Thorns by Rae Carson
+33. The Shadow and Bone trilogy by Leigh Bardugo
+34. The Graceling Realm series by Kristin Cashore
+35. The Throne of Glass series by Sarah J. Maas
+36. The Seven Realms series by Cinda Williams Chima
+37. The His Fair Assassin series by Robin LaFevers
+38. The Winner's Trilogy by Marie Rutkoski
+39. The Remnant Chronicles by Mary E. Pearson
+40. The Witchlands series by Susan Dennard
+41. The Queen's Thief series by Megan Whalen Turner
+42. The Lumatere Chronicles by Melina Marchetta
+43. The Study series by Maria V. Snyder
+44. The Black Magician trilogy by Trudi Canavan
+45. The Abhorsen trilogy by Garth Nix
+46. The Old Kingdom series by Garth Nix
+47. The Bartimaeus trilogy by Jonathan Stroud
+48. The Inheritance Cycle by Christopher Paolini
+49. The Chronicles of Narnia by C.S. Lewis
+50. The Harry Potter series by J.K. Rowling
+
+These recommendations are based on the user's interest in fantasy, romance, and young adult fiction.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Adele
+2. Sade
+3. Norah Jones
+4. Michael Bublé
+5. Whitney Houston
+6. Mariah Carey
+7. Enya
+8. Katie Melua
+9. Josh Groban
+10. Il Divo
+11. Seal
+12. Diana Ross
+13. Barbra Streisand
+14. Lionel Richie
+15. Elton John
+16. George Michael
+17. Tina Turner
+18. Annie Lennox
+19. Phil Collins
+20. Bryan Adams
+21. Shania Twain
+22. Faith Hill
+23. Kenny G
+24. Yanni
+25. Ennio Morricone
+26. Ludovico Einaudi
+27. Hans Zimmer
+28. John Williams
+29. Ludovico Einaudi
+30. Yiruma
+31. Ólafur Arnalds
+32. Max Richter
+33. Nils Frahm
+34. Agnes Obel
+35. Ludovico Einaudi
+36. Ólafur Arnalds
+37. Max Richter
+38. Nils Frahm
+39. Agnes Obel
+40. Ludovico Einaudi
+41. Ólafur Arnalds
+42. Max Richter
+43. Nils Frahm
+44. Agnes Obel
+45. Ludovico Einaudi
+46. Ólafur Arnalds
+47. Max Richter
+48. Nils Frahm
+49. Agnes Obel
+50. Ludovico Einaudi
+
+These recommendations are based on the user's liking of artists with similar musical styles and genres.

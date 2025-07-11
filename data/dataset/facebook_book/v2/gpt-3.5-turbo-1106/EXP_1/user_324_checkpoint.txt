@@ -1,0 +1,54 @@
+Based on the preferences of user 324, here are the top 50 book recommendations:
+
+1. Frankenstein by Mary Shelley
+2. The Picture of Dorian Gray by Oscar Wilde
+3. Crime and Punishment by Fyodor Dostoevsky
+4. The Stranger by Albert Camus
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Trial by Franz Kafka
+7. The Metamorphosis by Franz Kafka
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. Heart of Darkness by Joseph Conrad
+10. The Master and Margarita by Mikhail Bulgakov
+11. The Plague by Albert Camus
+12. The Sound and the Fury by William Faulkner
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Catcher in the Rye by J.D. Salinger
+15. To the Lighthouse by Virginia Woolf
+16. The Bell Jar by Sylvia Plath
+17. The Handmaid's Tale by Margaret Atwood
+18. Brave New World by Aldous Huxley
+19. The Great Gatsby by F. Scott Fitzgerald
+20. Moby-Dick by Herman Melville
+21. War and Peace by Leo Tolstoy
+22. Anna Karenina by Leo Tolstoy
+23. The Odyssey by Homer
+24. The Iliad by Homer
+25. The Canterbury Tales by Geoffrey Chaucer
+26. Don Quixote by Miguel de Cervantes
+27. The Count of Monte Cristo by Alexandre Dumas
+28. Les Misérables by Victor Hugo
+29. The Hunchback of Notre-Dame by Victor Hugo
+30. Madame Bovary by Gustave Flaubert
+31. Crime and Punishment by Fyodor Dostoevsky
+32. The Idiot by Fyodor Dostoevsky
+33. The Brothers Karamazov by Fyodor Dostoevsky
+34. War and Peace by Leo Tolstoy
+35. Anna Karenina by Leo Tolstoy
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Importance of Being Earnest by Oscar Wilde
+38. The Dubliners by James Joyce
+39. A Portrait of the Artist as a Young Man by James Joyce
+40. The Odyssey by Homer
+41. The Iliad by Homer
+42. The Aeneid by Virgil
+43. The Divine Comedy by Dante Alighieri
+44. Paradise Lost by John Milton
+45. The Canterbury Tales by Geoffrey Chaucer
+46. Don Quixote by Miguel de Cervantes
+47. One Hundred Years of Solitude by Gabriel Garcia Marquez
+48. Love in the Time of Cholera by Gabriel Garcia Marquez
+49. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+50. The House of the Spirits by Isabel Allende
+
+These recommendations are based on the similar themes, genres, and authors to the books liked by user 324.

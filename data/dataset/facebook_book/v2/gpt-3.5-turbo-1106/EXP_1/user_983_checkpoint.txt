@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Pride and Prejudice by Jane Austen
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Da Vinci Code by Dan Brown
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Alchemist by Paulo Coelho
+11. The Kite Runner by Khaled Hosseini
+12. The Book Thief by Markus Zusak
+13. The Fault in Our Stars by John Green
+14. The Road by Cormac McCarthy
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Grapes of Wrath by John Steinbeck
+17. The Adventures of Huckleberry Finn by Mark Twain
+18. The Count of Monte Cristo by Alexandre Dumas
+19. The Stand by Stephen King
+20. The Shining by Stephen King
+21. The Handmaid's Tale by Margaret Atwood
+22. The Bell Jar by Sylvia Plath
+23. The Sun Also Rises by Ernest Hemingway
+24. The Old Man and the Sea by Ernest Hemingway
+25. The Stranger by Albert Camus
+26. One Hundred Years of Solitude by Gabriel Garcia Marquez
+27. The Road Less Traveled by M. Scott Peck
+28. The Secret History by Donna Tartt
+29. The Goldfinch by Donna Tartt
+30. The Night Circus by Erin Morgenstern
+31. The Name of the Wind by Patrick Rothfuss
+32. The Shadow of the Wind by Carlos Ruiz Zafón
+33. The Martian by Andy Weir
+34. The Hand of Fatima by Ildefonso Falcones
+35. The Pillars of the Earth by Ken Follett
+36. The Help by Kathryn Stockett
+37. The Lovely Bones by Alice Sebold
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Secret Life of Bees by Sue Monk Kidd
+40. The Glass Castle by Jeannette Walls
+41. The Nightingale by Kristin Hannah
+42. The Book of Lost Things by John Connolly
+43. The Thirteenth Tale by Diane Setterfield
+44. The Historian by Elizabeth Kostova
+45. The Shadow of the Wind by Carlos Ruiz Zafón
+46. The Night Circus by Erin Morgenstern
+47. The Name of the Wind by Patrick Rothfuss
+48. The Secret History by Donna Tartt
+49. The Goldfinch by Donna Tartt
+50. The Road Less Traveled by M. Scott Peck
+
+These recommendations are based on the user's interest in fantasy, dystopian, and classic literature, as well as their preference for authors like Neil Gaiman, Ayn Rand, Fyodor Dostoyevsky, and Suzanne Collins.

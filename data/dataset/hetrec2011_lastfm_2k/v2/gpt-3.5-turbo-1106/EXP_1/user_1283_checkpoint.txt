@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Selena Gomez
+2. Justin Bieber
+3. Selena Gomez & The Scene
+4. Demi Lovato
+5. Miley Cyrus
+6. Ariana Grande
+7. Nick Jonas
+8. Hilary Duff
+9. Ashley Tisdale
+10. The All-American Rejects
+11. The Fray
+12. Kelly Clarkson
+13. The Script
+14. Owl City
+15. Maroon 5
+16. P!nk
+17. Lady Gaga
+18. The Killers
+19. Paramore
+20. Taylor Swift
+21. Jonas Brothers
+22. Carrie Underwood
+23. Aly & AJ
+24. Britney Spears
+25. Katy Perry
+26. Cobra Starship
+27. A Fine Frenzy
+28. Lifehouse
+29. Mika
+30. The Veronicas
+31. Kate Voegele
+32. Boys Like Girls
+33. The Pussycat Dolls
+34. Vanessa Hudgens
+35. Natasha Bedingfield
+36. Lindsay Lohan
+37. Camp Rock
+38. JoJo
+39. Avril Lavigne
+40. Lily Allen
+41. Muse
+42. Metro Station
+43. Florence + the Machine
+44. Katharine McPhee
+45. Christina Aguilera
+46. Keane
+47. The Bravery
+48. OneRepublic
+49. Shakira
+50. Glee Cast
+
+These recommendations are based on the user's liking of similar artists and are intended to provide a diverse range of options for the user to explore.

@@ -1,0 +1,54 @@
+Based on user 1094's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The Beatles
+2. Foo Fighters
+3. Arctic Monkeys
+4. The Cure
+5. Linkin Park
+6. Paramore
+7. My Chemical Romance
+8. Beck
+9. The National
+10. Gorillaz
+11. Maroon 5
+12. Snow Patrol
+13. The Killers
+14. Arcade Fire
+15. Moby
+16. Depeche Mode
+17. Duran Duran
+18. New Order
+19. The White Stripes
+20. The All-American Rejects
+21. White Lies
+22. Pulp
+23. David Gray
+24. Ryan Adams
+25. Ben Folds
+26. Joy Division
+27. The Corrs
+28. Rihanna
+29. Madonna
+30. Blur
+31. Nelly Furtado
+32. INXS
+33. Britney Spears
+34. Lara Fabian
+35. Feist
+36. Secondhand Serenade
+37. Katie Melua
+38. Evanescence
+39. Elvis Presley
+40. Robbie Williams
+41. Lady Gaga
+42. John Lee Hooker
+43. Ray Charles
+44. Jack Johnson
+45. L'Arc~en~Ciel
+46. Tears for Fears
+47. ABBA
+48. Sixpence None the Richer
+49. Bruce Springsteen
+50. The Cranberries
+
+These recommendations are based on similar genres, styles, and themes to the user's liked artists.

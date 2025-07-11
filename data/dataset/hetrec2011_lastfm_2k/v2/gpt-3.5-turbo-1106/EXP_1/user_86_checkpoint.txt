@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. As I Lay Dying
+2. Trivium
+3. Lamb of God
+4. In Flames
+5. Arch Enemy
+6. Five Finger Death Punch
+7. A Day to Remember
+8. Slipknot
+9. The Devil Wears Prada
+10. Attila
+11. Chelsea Grin
+12. Of Mice & Men
+13. Emmure
+14. Architects
+15. Beartooth
+16. Motionless In White
+17. Parkway Drive
+18. All That Remains
+19. Killswitch Engage
+20. August Burns Red
+21. Suicide Silence
+22. Korn
+23. Linkin Park
+24. Despised Icon
+25. All Shall Perish
+26. Dethklok
+27. Bring Me The Horizon
+28. Whitechapel
+29. DevilDriver
+30. Bullet for My Valentine
+31. Disturbed
+32. Heaven Shall Burn
+33. Caliban
+34. The Black Dahlia Murder
+35. Ill Niño
+36. Metallica
+37. Muse
+38. The Killers
+39. Atreyu
+40. Slayer
+41. Celldweller
+42. BrokeNCYDE
+43. Skillet
+44. AC/DC
+45. Avenged Sevenfold
+46. System of a Down
+47. Five Finger Death Punch
+48. Breaking Benjamin
+49. Sevendust
+50. Stone Sour
+
+These recommendations are based on the user's liking of similar artists and genres.

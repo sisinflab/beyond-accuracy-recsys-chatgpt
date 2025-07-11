@@ -1,0 +1,54 @@
+Based on the preferences of user 987, here are the top 50 recommendations for the listed artists:
+
+1. Beyoncé
+2. Rihanna
+3. Shakira
+4. Nicki Minaj
+5. Avril Lavigne
+6. Eminem
+7. P!nk
+8. Justin Timberlake
+9. Gwen Stefani
+10. Mariah Carey
+11. Madonna
+12. Britney Spears
+13. Lady Gaga
+14. Katy Perry
+15. Jennifer Lopez
+16. Alicia Keys
+17. Jessie J
+18. Taylor Swift
+19. Carrie Underwood
+20. Kelly Clarkson
+21. Leona Lewis
+22. Florence + the Machine
+23. Nicole Scherzinger
+24. Lily Allen
+25. Jessie James
+26. Willow Smith
+27. Santigold
+28. Keri Hilson
+29. Jennifer Hudson
+30. Danity Kane
+31. Destiny's Child
+32. Janelle Monáe
+33. Far East Movement
+34. Timbaland
+35. Flo Rida
+36. Ricky Martin
+37. RBD
+38. Daughtry
+39. Shania Twain
+40. Delta Goodrem
+41. Joss Stone
+42. Janis Joplin
+43. Jesse McCartney
+44. The Corrs
+45. Kate Voegele
+46. Sia
+47. Marilyn Manson
+48. Brandy
+49. Within Temptation
+50. 4minute
+
+These recommendations are based on the similar musical preferences of user 987 and are tailored to their specific tastes.

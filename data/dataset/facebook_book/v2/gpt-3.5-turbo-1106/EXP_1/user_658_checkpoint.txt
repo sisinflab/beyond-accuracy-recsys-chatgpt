@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Atlas Shrugged by Ayn Rand
+2. The Road to Serfdom by Friedrich Hayek
+3. 1984 by George Orwell
+4. Brave New World by Aldous Huxley
+5. The Fountainhead by Ayn Rand
+6. Animal Farm by George Orwell
+7. The Grapes of Wrath by John Steinbeck
+8. To Kill a Mockingbird by Harper Lee
+9. The Catcher in the Rye by J.D. Salinger
+10. The Great Gatsby by F. Scott Fitzgerald
+11. Crime and Punishment by Fyodor Dostoevsky
+12. One Hundred Years of Solitude by Gabriel Garcia Marquez
+13. The Brothers Karamazov by Fyodor Dostoevsky
+14. The Stranger by Albert Camus
+15. The Bell Jar by Sylvia Plath
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Count of Monte Cristo by Alexandre Dumas
+18. War and Peace by Leo Tolstoy
+19. Anna Karenina by Leo Tolstoy
+20. The Idiot by Fyodor Dostoevsky
+21. The Trial by Franz Kafka
+22. The Metamorphosis by Franz Kafka
+23. The Old Man and the Sea by Ernest Hemingway
+24. The Sun Also Rises by Ernest Hemingway
+25. For Whom the Bell Tolls by Ernest Hemingway
+26. The Sound and the Fury by William Faulkner
+27. As I Lay Dying by William Faulkner
+28. Beloved by Toni Morrison
+29. Song of Solomon by Toni Morrison
+30. Sula by Toni Morrison
+31. The Bluest Eye by Toni Morrison
+32. The Handmaid's Tale by Margaret Atwood
+33. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+34. Dune by Frank Herbert
+35. The Hobbit by J.R.R. Tolkien
+36. The Lord of the Rings by J.R.R. Tolkien
+37. The Chronicles of Narnia by C.S. Lewis
+38. The Alchemist by Paulo Coelho
+39. The Kite Runner by Khaled Hosseini
+40. A Thousand Splendid Suns by Khaled Hosseini
+41. The Book Thief by Markus Zusak
+42. The Night Circus by Erin Morgenstern
+43. The Secret History by Donna Tartt
+44. The Goldfinch by Donna Tartt
+45. The Secret Life of Bees by Sue Monk Kidd
+46. The Poisonwood Bible by Barbara Kingsolver
+47. The Joy Luck Club by Amy Tan
+48. The Color Purple by Alice Walker
+49. The Handmaid's Tale by Margaret Atwood
+50. The Help by Kathryn Stockett
+
+These recommendations are based on the user's interest in classic literature, fantasy, and non-fiction.

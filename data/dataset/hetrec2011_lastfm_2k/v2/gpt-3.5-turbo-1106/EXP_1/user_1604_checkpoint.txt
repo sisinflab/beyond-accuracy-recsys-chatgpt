@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. VNV Nation
+2. Apoptygma Berzerk
+3. Covenant
+4. Depeche Mode
+5. Combichrist
+6. Lacrimosa
+7. And One
+8. The Crüxshadows
+9. Front Line Assembly
+10. Blutengel
+11. mind.in.a.box
+12. Theatre of Tragedy
+13. Oomph!
+14. Diary of Dreams
+15. Three Days Grace
+16. Rammstein
+17. The Sisters of Mercy
+18. Moby
+19. Poets of the Fall
+20. Stone Sour
+21. Ace of Base
+22. Eisbrecher
+23. Assemblage 23
+24. The Birthday Massacre
+25. 30 Seconds to Mars
+26. Amorphis
+27. Hocico
+28. Bullet for My Valentine
+29. Armin van Buuren
+30. Cradle of Filth
+31. Blutengel
+32. mind.in.a.box
+33. Theatre of Tragedy
+34. Oomph!
+35. Diary of Dreams
+36. Three Days Grace
+37. Rammstein
+38. The Sisters of Mercy
+39. Moby
+40. Poets of the Fall
+41. Stone Sour
+42. Ace of Base
+43. Eisbrecher
+44. Assemblage 23
+45. The Birthday Massacre
+46. 30 Seconds to Mars
+47. Amorphis
+48. Hocico
+49. Bullet for My Valentine
+50. Armin van Buuren
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music that aligns with their preferences.

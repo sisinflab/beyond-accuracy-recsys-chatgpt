@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1976:
+
+1. Sigur Rós
+2. Ólafur Arnalds
+3. King Crimson
+4. The Cure
+5. The Beatles
+6. David Gilmour
+7. Roger Waters
+8. Tool
+9. Pink Floyd
+10. Captain Beefheart & His Magic Band
+11. Yes
+12. Dire Straits
+13. Jethro Tull
+14. The Doors
+15. The Who
+16. The Smiths
+17. Joy Division
+18. Morrissey
+19. Thom Yorke
+20. Eric Clapton
+21. Joe Satriani
+22. Led Zeppelin
+23. The Last Shadow Puppets
+24. Tom Waits
+25. Beirut
+26. Yann Tiersen
+27. Manu Chao
+28. Jefferson Airplane
+29. Miles Davis
+30. Harry Gregson-Williams
+31. God Is an Astronaut
+32. Editors
+33. Antimatter
+34. Slayer
+35. Alexisonfire
+36. Cat Stevens
+37. The Cranberries
+38. Minus the Bear
+39. Camel
+40. Depeche Mode
+41. Jethro Tull
+42. Jack Johnson
+43. Sia
+44. Porcupine Tree
+45. Talk Talk
+46. Eagles
+47. Syd Barrett
+48. Édith Piaf
+49. Suzanne Vega
+50. Nouvelle Vague
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

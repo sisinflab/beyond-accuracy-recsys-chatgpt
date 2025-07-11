@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Led Zeppelin
+2. Metallica
+3. Pink Floyd
+4. Nirvana
+5. The Who
+6. Pearl Jam
+7. Black Sabbath
+8. The Doors
+9. Alice in Chains
+10. Van Halen
+11. Judas Priest
+12. Def Leppard
+13. Ozzy Osbourne
+14. The Beatles
+15. Deep Purple
+16. Lynyrd Skynyrd
+17. Rush
+18. The Kinks
+19. Cream
+20. The Allman Brothers Band
+21. The Stooges
+22. Motorhead
+23. The Velvet Underground
+24. The Byrds
+25. The Yardbirds
+26. The Animals
+27. The Kinks
+28. The Byrds
+29. The Yardbirds
+30. The Animals
+31. The Kinks
+32. The Byrds
+33. The Yardbirds
+34. The Animals
+35. The Kinks
+36. The Byrds
+37. The Yardbirds
+38. The Animals
+39. The Kinks
+40. The Byrds
+41. The Yardbirds
+42. The Animals
+43. The Kinks
+44. The Byrds
+45. The Yardbirds
+46. The Animals
+47. The Kinks
+48. The Byrds
+49. The Yardbirds
+50. The Animals
+
+These recommendations are based on the user's liking of classic rock and hard rock bands, as well as similar artists within those genres.

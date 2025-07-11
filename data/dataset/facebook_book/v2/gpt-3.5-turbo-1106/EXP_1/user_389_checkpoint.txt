@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Perks of Being a Wallflower by Stephen Chbosky
+2. Go Ask Alice by Anonymous
+3. Tweak: Growing Up on Methamphetamines by Nic Sheff
+4. Prozac Nation by Elizabeth Wurtzel
+5. Girl, Interrupted by Susanna Kaysen
+6. It's Kind of a Funny Story by Ned Vizzini
+7. Running with Scissors by Augusten Burroughs
+8. The Bell Jar by Sylvia Plath
+9. Crank by Ellen Hopkins
+10. A Million Little Pieces by James Frey
+11. My Friend Leonard by James Frey
+12. Impulse by Ellen Hopkins
+13. Glass by Ellen Hopkins
+14. Identical by Ellen Hopkins
+15. Burned by Ellen Hopkins
+16. Tricks by Ellen Hopkins
+17. Fallout by Ellen Hopkins
+18. Perfect by Ellen Hopkins
+19. Smoke by Ellen Hopkins
+20. Rumble by Ellen Hopkins
+21. Traffick by Ellen Hopkins
+22. The Lovely Bones by Alice Sebold
+23. Speak by Laurie Halse Anderson
+24. Wintergirls by Laurie Halse Anderson
+25. Thirteen Reasons Why by Jay Asher
+26. The Catcher in the Rye by J.D. Salinger
+27. Less Than Zero by Bret Easton Ellis
+28. American Psycho by Bret Easton Ellis
+29. The Basketball Diaries by Jim Carroll
+30. Junky by William S. Burroughs
+31. Requiem for a Dream by Hubert Selby Jr.
+32. Fear and Loathing in Las Vegas by Hunter S. Thompson
+33. The Rum Diary by Hunter S. Thompson
+34. The Electric Kool-Aid Acid Test by Tom Wolfe
+35. On the Road by Jack Kerouac
+36. The Dharma Bums by Jack Kerouac
+37. The Sun Also Rises by Ernest Hemingway
+38. A Moveable Feast by Ernest Hemingway
+39. The Great Gatsby by F. Scott Fitzgerald
+40. The Beautiful and Damned by F. Scott Fitzgerald
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Stranger by Albert Camus
+43. One Flew Over the Cuckoo's Nest by Ken Kesey
+44. The Road by Cormac McCarthy
+45. Fight Club by Chuck Palahniuk
+46. Survivor by Chuck Palahniuk
+47. Invisible Monsters by Chuck Palahniuk
+48. Choke by Chuck Palahniuk
+49. Lullaby by Chuck Palahniuk
+50. Diary by Chuck Palahniuk
+
+These recommendations are based on the user's interest in books with themes of addiction, mental health, and counterculture.

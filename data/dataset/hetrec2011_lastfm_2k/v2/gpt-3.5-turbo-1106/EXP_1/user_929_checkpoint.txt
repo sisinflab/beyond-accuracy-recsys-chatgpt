@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ben Harper
+2. Red Hot Chili Peppers
+3. Bob Marley & The Wailers
+4. The Killers
+5. Muse
+6. The White Stripes
+7. The Strokes
+8. Arctic Monkeys
+9. Kings of Leon
+10. The Black Keys
+11. Radiohead
+12. Foo Fighters
+13. Pearl Jam
+14. Oasis
+15. The Kooks
+16. Franz Ferdinand
+17. The Verve
+18. The Raconteurs
+19. The Libertines
+20. The Fratellis
+21. The Hives
+22. The Bravery
+23. The Vaccines
+24. The Wombats
+25. The Arctic Monkeys
+26. The Ting Tings
+27. The Zutons
+28. The Futureheads
+29. The Pigeon Detectives
+30. The Courteeners
+31. The View
+32. The Maccabees
+33. The Cribs
+34. The Twang
+35. The Enemy
+36. The Pigeon Detectives
+37. The Fratellis
+38. The Wombats
+39. The Kooks
+40. The Libertines
+41. The Strokes
+42. The Vaccines
+43. The Arctic Monkeys
+44. The Courteeners
+45. The View
+46. The Maccabees
+47. The Cribs
+48. The Twang
+49. The Enemy
+50. The Pigeon Detectives
+
+These recommendations are based on the user's liking of similar artists and genres.

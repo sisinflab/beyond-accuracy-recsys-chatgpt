@@ -1,0 +1,54 @@
+Based on user 1188's preferences, here are the top-50 recommendations for the listed artists:
+
+1. Florence + the Machine
+2. The Strokes
+3. Adele
+4. Katy Perry
+5. Shakira
+6. P!nk
+7. Nicki Minaj
+8. Avril Lavigne
+9. Ke$ha
+10. Paramore
+11. Madonna
+12. Jennifer Lopez
+13. Gwen Stefani
+14. The Ting Tings
+15. The Veronicas
+16. Mariah Carey
+17. Amy Winehouse
+18. Cheryl Cole
+19. Jessie J
+20. Kelly Rowland
+21. The Saturdays
+22. Girls Aloud
+23. Sophie Ellis-Bextor
+24. Goldfrapp
+25. Mika
+26. The Pretty Reckless
+27. Metric
+28. Good Charlotte
+29. The Beatles
+30. David Guetta
+31. Agnes
+32. Nicole Scherzinger
+33. 4minute
+34. t.A.T.u.
+35. Hole
+36. Carla Bruni
+37. Max Richter
+38. Glee Cast
+39. 동방신기
+40. BoA
+41. Lolene
+42. Yeah Yeah Yeahs
+43. Ashlee Simpson
+44. Hurts
+45. Jennifer Lopez
+46. The Saturdays
+47. 宇多田ヒカル
+48. The Pretty Reckless
+49. Akon
+50. Girlicious
+
+These recommendations are based on similar musical styles and genres to the user's preferences.

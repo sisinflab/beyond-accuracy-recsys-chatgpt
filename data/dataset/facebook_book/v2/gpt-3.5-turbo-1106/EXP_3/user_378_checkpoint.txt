@@ -1,0 +1,54 @@
+Based on user 378's preferences, here are the top 50 book recommendations:
+
+1. Eragon by Christopher Paolini
+2. Eldest by Christopher Paolini
+3. Brisingr by Christopher Paolini
+4. Mistborn: The Hero of Ages by Brandon Sanderson
+5. A Memory of Light by Robert Jordan, Brandon Sanderson
+6. Elantris by Brandon Sanderson
+7. Warbreaker by Brandon Sanderson
+8. The Hobbit by J.R.R. Tolkien
+9. Inkheart by Cornelia Funke
+10. The Giver by Lois Lowry
+11. The Looking Glass Wars by Frank Beddor
+12. Mockingjay by Suzanne Collins
+13. Twilight (series) by Stephenie Meyer
+14. The Scarlet Letter by Nathaniel Hawthorne
+15. The Truth About Forever by Sarah Dessen
+16. Pride and Prejudice and Zombies by Seth Grahame-Smith
+17. Along for the Ride by Sarah Dessen
+18. Fablehaven by Brandon Mull
+19. The Hardy Boys by Franklin W. Dixon
+20. Vampire Academy (novel) by Richelle Mead
+21. Ptolemy's Gate by Jonathan Stroud
+22. Quo Vadis (novel) by Henryk Sienkiewicz
+23. This Present Darkness by Frank E. Peretti
+24. The Southern Vampire Mysteries by Charlaine Harris
+25. The Wonderful Wizard of Oz by L. Frank Baum
+26. Book of Proverbs by Solomon
+27. Fallen (Kate novel) by Lauren Kate
+28. Space (novel) by James A. Michener
+29. Nineteen Eighty-Four by George Orwell
+30. Macbeth by William Shakespeare
+31. Witch & Wizard by James Patterson
+32. The Kane Chronicles by Rick Riordan
+33. Persuasion (novel) by Jane Austen
+34. A Wind in the Door by Madeleine L'Engle
+35. Maximum Ride by James Patterson
+36. Angels & Demons by Dan Brown
+37. Catching Fire by Suzanne Collins
+38. A Summer to Die by Lois Lowry
+39. Icefire (2003 novel) by Chris d'Lacey
+40. Manga by Various authors
+41. Great Expectations by Charles Dickens
+42. The Queen of the Damned by Anne Rice
+43. Shadow of the Giant by Orson Scott Card
+44. Red (novel) by Ted Dekker
+45. Harry Potter by J.K. Rowling
+46. A Series of Unfortunate Events by Lemony Snicket
+47. Studies of the Book of Mormon by Various authors
+48. Untamed (novel) by P.C. Cast, Kristin Cast
+49. Ender's Game by Orson Scott Card
+50. Crime and Punishment by Fyodor Dostoevsky
+
+These recommendations are based on the user's previous book preferences and are ranked according to their potential appeal to the user.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 2008:
+
+1. The Beatles
+2. Katy Perry
+3. Avenged Sevenfold
+4. Evanescence
+5. Linkin Park
+6. Iron Maiden
+7. The Killers
+8. Daft Punk
+9. Green Day
+10. Amy Winehouse
+11. Arctic Monkeys
+12. Muse
+13. Nirvana
+14. Michael Jackson
+15. Metallica
+16. Queen
+17. AC/DC
+18. Lady Gaga
+19. Rihanna
+20. Paramore
+21. Madonna
+22. Christina Aguilera
+23. Shakira
+24. U2
+25. Pink Floyd
+26. Coldplay
+27. Blur
+28. Placebo
+29. Radiohead
+30. Led Zeppelin
+31. Nine Inch Nails
+32. System of a Down
+33. Pearl Jam
+34. The White Stripes
+35. Franz Ferdinand
+36. MGMT
+37. The Black Keys
+38. The Rolling Stones
+39. Black Sabbath
+40. The Last Shadow Puppets
+41. Queens of the Stone Age
+42. Foo Fighters
+43. Interpol
+44. Rooney
+45. Phoenix
+46. Julian Casablancas
+47. White Lies
+48. The Fratellis
+49. The Pretty Reckless
+50. Joan Jett and the Blackhearts
+
+These recommendations are based on the user's liking of similar artists and genres.

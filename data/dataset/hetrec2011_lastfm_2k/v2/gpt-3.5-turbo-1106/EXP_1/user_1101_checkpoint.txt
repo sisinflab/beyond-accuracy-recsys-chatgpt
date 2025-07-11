@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Boards of Canada
+2. Massive Attack
+3. Bonobo
+4. Tycho
+5. Explosions in the Sky
+6. Air
+7. Moby
+8. Portishead
+9. Thievery Corporation
+10. Ulrich Schnauss
+11. Röyksopp
+12. The Chemical Brothers
+13. DJ Shadow
+14. Four Tet
+15. Caribou
+16. Zero 7
+17. Little Dragon
+18. Goldfrapp
+19. The xx
+20. Washed Out
+21. Chromatics
+22. Grimes
+23. Beach House
+24. Fever Ray
+25. Trentemøller
+26. Moderat
+27. Jon Hopkins
+28. Rival Consoles
+29. Com Truise
+30. Nosaj Thing
+31. Shigeto
+32. Lapalux
+33. Bibio
+34. Mount Kimbie
+35. Darkside
+36. Nils Frahm
+37. Olafur Arnalds
+38. Max Richter
+39. Ólafur Arnalds
+40. Johann Johannsson
+41. Hildur Guðnadóttir
+42. A Winged Victory for the Sullen
+43. Stars of the Lid
+44. Eluvium
+45. Tim Hecker
+46. Grouper
+47. William Basinski
+48. Fennesz
+49. Ben Frost
+50. Tim Hecker & Daniel Lopatin
+
+These recommendations are based on the user's liking of similar artists and genres.

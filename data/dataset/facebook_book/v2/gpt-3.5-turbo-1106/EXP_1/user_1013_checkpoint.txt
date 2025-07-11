@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J. R. R. Tolkien
+2. The Silmarillion by J. R. R. Tolkien
+3. The Chronicles of Narnia by C.S. Lewis
+4. A Song of Ice and Fire series by George R.R. Martin
+5. The Alchemist by Paulo Coelho
+6. The Da Vinci Code by Dan Brown
+7. Angels & Demons by Dan Brown
+8. The Pelican Brief by John Grisham
+9. A Time to Kill by John Grisham
+10. The Runaway Jury by John Grisham
+11. The Rainmaker by John Grisham
+12. The Street Lawyer by John Grisham
+13. The Testament by John Grisham
+14. The Partner by John Grisham
+15. The Racketeer by John Grisham
+16. The Reckoning by John Grisham
+17. The Rooster Bar by John Grisham
+18. The Whistler by John Grisham
+19. The Brethren by John Grisham
+20. The Summons by John Grisham
+21. The King of Torts by John Grisham
+22. The Last Juror by John Grisham
+23. The Broker by John Grisham
+24. The Appeal by John Grisham
+25. The Litigators by John Grisham
+26. The Confession by John Grisham
+27. The Racketeer by John Grisham
+28. The Guardians by John Grisham
+29. The Innocent Man by John Grisham
+30. The Client by John Grisham
+31. The Firm by John Grisham
+32. The Watchmen by John Altman
+33. The Watchmen: A Novel by Alan Moore
+34. The Dark Knight Returns by Frank Miller
+35. V for Vendetta by Alan Moore
+36. From Hell by Alan Moore
+37. Swamp Thing by Alan Moore
+38. The Killing Joke by Alan Moore
+39. The League of Extraordinary Gentlemen by Alan Moore
+40. The Sandman by Neil Gaiman
+41. American Gods by Neil Gaiman
+42. Neverwhere by Neil Gaiman
+43. Stardust by Neil Gaiman
+44. Good Omens by Neil Gaiman and Terry Pratchett
+45. Coraline by Neil Gaiman
+46. Anansi Boys by Neil Gaiman
+47. The Graveyard Book by Neil Gaiman
+48. The Ocean at the End of the Lane by Neil Gaiman
+49. Norse Mythology by Neil Gaiman
+50. Smoke and Mirrors by Neil Gaiman
+
+These recommendations are based on the user's interest in fantasy, mystery, and legal thrillers.

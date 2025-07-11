@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. All Time Low
+2. My Chemical Romance
+3. Sleeping With Sirens
+4. Pierce The Veil
+5. Mayday Parade
+6. Falling In Reverse
+7. The Used
+8. Silverstein
+9. We Came As Romans
+10. AFI
+11. Taking Back Sunday
+12. Yellowcard
+13. The Maine
+14. Simple Plan
+15. Good Charlotte
+16. Neck Deep
+17. State Champs
+18. The Story So Far
+19. New Found Glory
+20. Motion City Soundtrack
+21. The Wonder Years
+22. Real Friends
+23. Knuckle Puck
+24. Seaway
+25. Four Year Strong
+26. Set It Off
+27. Tonight Alive
+28. Waterparks
+29. Stand Atlantic
+30. With Confidence
+31. Broadside
+32. As It Is
+33. Grayscale
+34. Trash Boat
+35. ROAM
+36. WSTR
+37. Like Pacific
+38. Bearings
+39. Can't Swim
+40. Boston Manor
+41. Hot Mulligan
+42. Belmont
+43. Eat Your Heart Out
+44. Homesafe
+45. The Gospel Youth
+46. Bearings
+47. Rarity
+48. Between You & Me
+49. Youth Fountain
+50. Bearings
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. 1984 by George Orwell
+3. A Tale of Two Cities by Charles Dickens
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Catcher in the Rye by J.D. Salinger
+6. To Kill a Mockingbird by Harper Lee
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Rebecca by Daphne du Maurier
+9. The Remains of the Day by Kazuo Ishiguro
+10. The Secret History by Donna Tartt
+11. The Bell Jar by Sylvia Plath
+12. Crime and Punishment by Fyodor Dostoevsky
+13. The Brothers Karamazov by Fyodor Dostoevsky
+14. The Road by Cormac McCarthy
+15. The Handmaid's Tale by Margaret Atwood
+16. The Goldfinch by Donna Tartt
+17. The Book Thief by Markus Zusak
+18. The Kite Runner by Khaled Hosseini
+19. The Shadow of the Wind by Carlos Ruiz Zafón
+20. One Hundred Years of Solitude by Gabriel García Márquez
+21. Love in the Time of Cholera by Gabriel García Márquez
+22. The Alchemist by Paulo Coelho
+23. The Night Circus by Erin Morgenstern
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Help by Kathryn Stockett
+26. The Lovely Bones by Alice Sebold
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Martian by Andy Weir
+29. The Hunger Games by Suzanne Collins
+30. The Da Vinci Code by Dan Brown
+31. The Girl on the Train by Paula Hawkins
+32. Gone Girl by Gillian Flynn
+33. The Fault in Our Stars by John Green
+34. The Maze Runner by James Dashner
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. The Giver by Lois Lowry
+37. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Glass Castle by Jeannette Walls
+40. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+41. The Help by Kathryn Stockett
+42. The Lovely Bones by Alice Sebold
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Martian by Andy Weir
+45. The Hunger Games by Suzanne Collins
+46. The Da Vinci Code by Dan Brown
+47. The Girl on the Train by Paula Hawkins
+48. Gone Girl by Gillian Flynn
+49. The Fault in Our Stars by John Green
+50. The Maze Runner by James Dashner
+
+These recommendations are based on the user's liking of classic literature, contemporary fiction, and mystery/thriller genres.

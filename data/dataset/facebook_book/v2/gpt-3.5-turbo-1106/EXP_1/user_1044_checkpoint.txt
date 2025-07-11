@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. Jane Eyre by Charlotte Brontë
+7. Wuthering Heights by Emily Brontë
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Bell Jar by Sylvia Plath
+10. The Handmaid's Tale by Margaret Atwood
+11. The Road by Cormac McCarthy
+12. The Book Thief by Markus Zusak
+13. The Kite Runner by Khaled Hosseini
+14. A Thousand Splendid Suns by Khaled Hosseini
+15. The Alchemist by Paulo Coelho
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Help by Kathryn Stockett
+18. The Lovely Bones by Alice Sebold
+19. The Hunger Games by Suzanne Collins
+20. Catching Fire by Suzanne Collins
+21. Mockingjay by Suzanne Collins
+22. Divergent by Veronica Roth
+23. Insurgent by Veronica Roth
+24. Allegiant by Veronica Roth
+25. The Maze Runner by James Dashner
+26. The Scorch Trials by James Dashner
+27. The Death Cure by James Dashner
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Girl Who Played with Fire by Stieg Larsson
+30. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+31. The Da Vinci Code by Dan Brown
+32. Angels & Demons by Dan Brown
+33. Inferno by Dan Brown
+34. The Girl on the Train by Paula Hawkins
+35. Gone Girl by Gillian Flynn
+36. Sharp Objects by Gillian Flynn
+37. The Night Circus by Erin Morgenstern
+38. Water for Elephants by Sara Gruen
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Help by Kathryn Stockett
+41. The Goldfinch by Donna Tartt
+42. The Secret History by Donna Tartt
+43. The Martian by Andy Weir
+44. Ready Player One by Ernest Cline
+45. Dark Matter by Blake Crouch
+46. The Silent Patient by Alex Michaelides
+47. Where the Crawdads Sing by Delia Owens
+48. Educated by Tara Westover
+49. The Nightingale by Kristin Hannah
+50. All the Light We Cannot See by Anthony Doerr
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, coming-of-age stories, and young adult novels.

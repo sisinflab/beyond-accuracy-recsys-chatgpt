@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Animal Farm by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Grapes of Wrath by John Steinbeck
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Bell Jar by Sylvia Plath
+9. The Road by Cormac McCarthy
+10. The Handmaid's Tale by Margaret Atwood
+11. Fahrenheit 451 by Ray Bradbury
+12. The Stranger by Albert Camus
+13. The Sun Also Rises by Ernest Hemingway
+14. A Farewell to Arms by Ernest Hemingway
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Sound and the Fury by William Faulkner
+17. Beloved by Toni Morrison
+18. The Color Purple by Alice Walker
+19. A Clockwork Orange by Anthony Burgess
+20. The Road to Wigan Pier by George Orwell
+21. The Fountainhead by Ayn Rand
+22. The Brothers Karamazov by Fyodor Dostoevsky
+23. Crime and Punishment by Fyodor Dostoevsky
+24. The Stranger by Harlan Coben
+25. The Stand by Stephen King
+26. The Shining by Stephen King
+27. The Outsider by Stephen King
+28. The Dark Tower by Stephen King
+29. The Green Mile by Stephen King
+30. The Dead Zone by Stephen King
+31. The Talisman by Stephen King
+32. The Tommyknockers by Stephen King
+33. The Long Walk by Stephen King
+34. The Running Man by Stephen King
+35. The Stand by Stephen King
+36. The Shining by Stephen King
+37. The Outsider by Stephen King
+38. The Dark Tower by Stephen King
+39. The Green Mile by Stephen King
+40. The Dead Zone by Stephen King
+41. The Talisman by Stephen King
+42. The Tommyknockers by Stephen King
+43. The Long Walk by Stephen King
+44. The Running Man by Stephen King
+45. The Stand by Stephen King
+46. The Shining by Stephen King
+47. The Outsider by Stephen King
+48. The Dark Tower by Stephen King
+49. The Green Mile by Stephen King
+50. The Dead Zone by Stephen King
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, and modern American literature.

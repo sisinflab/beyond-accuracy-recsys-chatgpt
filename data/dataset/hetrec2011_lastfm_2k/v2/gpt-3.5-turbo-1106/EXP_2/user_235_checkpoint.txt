@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Iron Maiden
+2. Metallica
+3. Pink Floyd
+4. Black Sabbath
+5. Megadeth
+6. Nightwish
+7. Dream Theater
+8. Tool
+9. Symphony X
+10. Blind Guardian
+11. Agalloch
+12. Epica
+13. In Flames
+14. Amon Amarth
+15. Ensiferum
+16. Iced Earth
+17. Dimmu Borgir
+18. Kreator
+19. Gamma Ray
+20. Gojira
+21. Mastodon
+22. King Diamond
+23. Amorphis
+24. Drowning Pool
+25. Nirvana
+26. System of a Down
+27. The Beatles
+28. Led Zeppelin
+29. Michael Jackson
+30. Pearl Jam
+31. Nine Inch Nails
+32. Radiohead
+33. Muse
+34. U2
+35. 30 Seconds to Mars
+36. The Killers
+37. Coldplay
+38. Arctic Monkeys
+39. Placebo
+40. Duran Duran
+41. Depeche Mode
+42. The Cure
+43. My Chemical Romance
+44. Green Day
+45. Linkin Park
+46. Avenged Sevenfold
+47. Nirvana
+48. The Killers
+49. Radiohead
+50. Muse
+
+This re-ranked list is based on the user's liking of similar artists and may not necessarily reflect the user's preferences for pop or mainstream artists.

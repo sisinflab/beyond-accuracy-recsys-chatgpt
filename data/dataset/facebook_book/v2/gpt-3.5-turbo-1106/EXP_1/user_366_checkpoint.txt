@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Frankenstein by Mary Shelley
+2. Wuthering Heights by Emily Bronte
+3. Pride and Prejudice by Jane Austen
+4. Jane Eyre by Charlotte Bronte
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. The Catcher in the Rye by J.D. Salinger
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Adventures of Huckleberry Finn by Mark Twain
+10. The Adventures of Tom Sawyer by Mark Twain
+11. Moby-Dick by Herman Melville
+12. The Count of Monte Cristo by Alexandre Dumas
+13. Les Misérables by Victor Hugo
+14. Crime and Punishment by Fyodor Dostoevsky
+15. War and Peace by Leo Tolstoy
+16. Anna Karenina by Leo Tolstoy
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. One Hundred Years of Solitude by Gabriel Garcia Marquez
+19. Love in the Time of Cholera by Gabriel Garcia Marquez
+20. Don Quixote by Miguel de Cervantes
+21. The Odyssey by Homer
+22. The Iliad by Homer
+23. The Divine Comedy by Dante Alighieri
+24. The Canterbury Tales by Geoffrey Chaucer
+25. The Aeneid by Virgil
+26. The Inferno by Dante Alighieri
+27. The Decameron by Giovanni Boccaccio
+28. The Prince by Niccolò Machiavelli
+29. The Art of War by Sun Tzu
+30. The Republic by Plato
+31. The Odyssey by Homer
+32. The Iliad by Homer
+33. The Divine Comedy by Dante Alighieri
+34. The Canterbury Tales by Geoffrey Chaucer
+35. The Aeneid by Virgil
+36. The Inferno by Dante Alighieri
+37. The Decameron by Giovanni Boccaccio
+38. The Prince by Niccolò Machiavelli
+39. The Art of War by Sun Tzu
+40. The Republic by Plato
+41. The Odyssey by Homer
+42. The Iliad by Homer
+43. The Divine Comedy by Dante Alighieri
+44. The Canterbury Tales by Geoffrey Chaucer
+45. The Aeneid by Virgil
+46. The Inferno by Dante Alighieri
+47. The Decameron by Giovanni Boccaccio
+48. The Prince by Niccolò Machiavelli
+49. The Art of War by Sun Tzu
+50. The Republic by Plato
+
+These recommendations are based on the user's interest in classic literature, fantasy, and historical fiction.

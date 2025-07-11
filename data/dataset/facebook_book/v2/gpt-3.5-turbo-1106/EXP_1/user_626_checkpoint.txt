@@ -1,0 +1,45 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Subtle Knife by Philip Pullman
+2. The Amber Spyglass by Philip Pullman
+3. The Golden Compass by Philip Pullman
+4. Jurassic Park by Michael Crichton
+5. Congo by Michael Crichton
+6. Timeline by Michael Crichton
+7. Inheritance by Christopher Paolini
+8. Eldest by Christopher Paolini
+9. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+10. Harry Potter and the Chamber of Secrets by J.K. Rowling
+11. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+12. Harry Potter and the Goblet of Fire by J.K. Rowling
+13. Harry Potter and the Order of the Phoenix by J.K. Rowling
+14. Harry Potter and the Half-Blood Prince by J.K. Rowling
+15. Harry Potter and the Deathly Hallows by J.K. Rowling
+16. Eragon's Guide to Alagaësia by Christopher Paolini
+17. The Silmarillion by J.R.R. Tolkien
+18. The Hobbit by J.R.R. Tolkien
+19. The Fellowship of the Ring by J.R.R. Tolkien
+20. The Two Towers by J.R.R. Tolkien
+21. The Return of the King by J.R.R. Tolkien
+22. Interview with the Vampire by Anne Rice
+23. The Vampire Lestat by Anne Rice
+24. The Witching Hour by Anne Rice
+25. The Mummy by Anne Rice
+26. Frankenstein by Mary Shelley
+27. Dracula by Bram Stoker
+28. The Lost World by Michael Crichton
+29. State of Fear by Michael Crichton
+30. Pirate Latitudes by Michael Crichton
+31. The Vampire Armand by Anne Rice
+32. Taltos by Anne Rice
+33. Memnoch the Devil by Anne Rice
+34. The Tale of the Body Thief by Anne Rice
+35. The Vampire Chronicles Collection by Anne Rice
+36. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned by Anne Rice
+37. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned, The Tale of the Body Thief by Anne Rice
+38. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned, The Tale of the Body Thief, Memnoch the Devil by Anne Rice
+39. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned, The Tale of the Body Thief, Memnoch the Devil, The Vampire Armand by Anne Rice
+40. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned, The Tale of the Body Thief, Memnoch the Devil, The Vampire Armand, Pandora by Anne Rice
+41. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned, The Tale of the Body Thief, Memnoch the Devil, The Vampire Armand, Pandora, Vittorio the Vampire by Anne Rice
+42. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned, The Tale of the Body Thief, Memnoch the Devil, The Vampire Armand, Pandora, Vittorio the Vampire, Blood and Gold by Anne Rice
+43. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the

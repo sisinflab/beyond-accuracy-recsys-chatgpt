@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Sandman by Neil Gaiman
+2. American Gods by Neil Gaiman
+3. Coraline by Neil Gaiman
+4. Good Omens by Neil Gaiman and Terry Pratchett
+5. Neverwhere by Neil Gaiman
+6. The Ocean at the End of the Lane by Neil Gaiman
+7. Smoke and Mirrors by Neil Gaiman
+8. Fragile Things by Neil Gaiman
+9. Anansi Boys by Neil Gaiman
+10. Stardust by Neil Gaiman
+11. The Graveyard Book by Neil Gaiman
+12. The Books of Magic by Neil Gaiman
+13. The Dark Tower series by Stephen King
+14. The Shining by Stephen King
+15. It by Stephen King
+16. Pet Sematary by Stephen King
+17. Misery by Stephen King
+18. Carrie by Stephen King
+19. Salem's Lot by Stephen King
+20. The Stand by Stephen King
+21. Doctor Sleep by Stephen King
+22. The Outsider by Stephen King
+23. The Girl Who Loved Tom Gordon by Stephen King
+24. The Talisman by Stephen King and Peter Straub
+25. The Green Mile by Stephen King
+26. The Dead Zone by Stephen King
+27. The Eyes of the Dragon by Stephen King
+28. The Dark Half by Stephen King
+29. The Regulators by Stephen King (as Richard Bachman)
+30. Desperation by Stephen King (as Richard Bachman)
+31. The Tommyknockers by Stephen King
+32. The Long Walk by Stephen King (as Richard Bachman)
+33. The Running Man by Stephen King (as Richard Bachman)
+34. Thinner by Stephen King (as Richard Bachman)
+35. The Bachman Books by Stephen King (as Richard Bachman)
+36. The Institute by Stephen King
+37. The Fireman by Joe Hill
+38. NOS4A2 by Joe Hill
+39. Heart-Shaped Box by Joe Hill
+40. Horns by Joe Hill
+41. Strange Weather by Joe Hill
+42. 20th Century Ghosts by Joe Hill
+43. The Girl with All the Gifts by M.R. Carey
+44. The Boy on the Bridge by M.R. Carey
+45. Fellside by M.R. Carey
+46. Someone Like Me by M.R. Carey
+47. The Book of Koli by M.R. Carey
+48. The Trials of Koli by M.R. Carey
+49. The Fall of Koli by M.R. Carey
+50. The Passage by Justin Cronin
+
+These recommendations are based on the user's interest in horror, fantasy, and science fiction literature.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Muse
+2. Radiohead
+3. Linkin Park
+4. System of a Down
+5. Marilyn Manson
+6. Korn
+7. Rammstein
+8. Papa Roach
+9. Katy Perry
+10. Shakira
+11. Beyoncé
+12. Christina Aguilera
+13. Kelly Clarkson
+14. Britney Spears
+15. The Birthday Massacre
+16. Emilie Autumn
+17. Alanis Morissette
+18. The Academy Is...
+19. All Time Low
+20. Kill Hannah
+21. Dolphin
+22. Sopor Aeternus & The Ensemble of Shadows
+23. Lady Gaga
+24. Rihanna
+25. Madonna
+26. Paramore
+27. Avril Lavigne
+28. Taylor Swift
+29. Glee Cast
+30. U2
+31. 30 Seconds to Mars
+32. Katy Perry
+33. Pink Floyd
+34. Kylie Minogue
+35. Miley Cyrus
+36. Ke$ha
+37. Duran Duran
+38. Coldplay
+39. Blur
+40. Arctic Monkeys
+41. Placebo
+42. The Killers
+43. Nirvana
+44. Iron Maiden
+45. Amy Winehouse
+46. Led Zeppelin
+47. Metallica
+48. Michael Jackson
+49. Pearl Jam
+50. a-ha

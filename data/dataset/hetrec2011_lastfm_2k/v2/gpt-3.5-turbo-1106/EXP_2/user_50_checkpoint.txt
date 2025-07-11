@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 50:
+
+1. The Beatles
+2. Coldplay
+3. U2
+4. Daft Punk
+5. Pink Floyd
+6. Placebo
+7. Arctic Monkeys
+8. The Killers
+9. Muse
+10. Radiohead
+11. Nirvana
+12. Queen
+13. The Cure
+14. Foo Fighters
+15. Green Day
+16. Red Hot Chili Peppers
+17. The Strokes
+18. The White Stripes
+19. Kings of Leon
+20. Oasis
+21. The Chemical Brothers
+22. Black Rebel Motorcycle Club
+23. Ramones
+24. New Order
+25. The xx
+26. Phoenix
+27. White Lies
+28. Editors
+29. The Last Shadow Puppets
+30. Stereophonics
+31. Crystal Castles
+32. The Fratellis
+33. The Smiths
+34. Travis
+35. The Hives
+36. Depeche Mode
+37. Lady Gaga
+38. Rihanna
+39. Madonna
+40. Britney Spears
+41. Christina Aguilera
+42. Shakira
+43. Paramore
+44. Katy Perry
+45. Avril Lavigne
+46. Taylor Swift
+47. Beyoncé
+48. 30 Seconds to Mars
+49. Kylie Minogue
+50. Miley Cyrus
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

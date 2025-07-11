@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Omnivore's Dilemma by Michael Pollan
+2. The Help by Kathryn Stockett
+3. The Hunger Games by Suzanne Collins
+4. The Glass Castle by Jeannette Walls
+5. The Kite Runner by Khaled Hosseini
+6. The Road by Cormac McCarthy
+7. The Alchemist by Paulo Coelho
+8. The Lovely Bones by Alice Sebold
+9. Water for Elephants by Sara Gruen
+10. The Secret Life of Bees by Sue Monk Kidd
+11. The Book Thief by Markus Zusak
+12. The Fault in Our Stars by John Green
+13. The Goldfinch by Donna Tartt
+14. The Night Circus by Erin Morgenstern
+15. The Immortalists by Chloe Benjamin
+16. The Light Between Oceans by M.L. Stedman
+17. The Nightingale by Kristin Hannah
+18. The Great Gatsby by F. Scott Fitzgerald
+19. The Catcher in the Rye by J.D. Salinger
+20. The Grapes of Wrath by John Steinbeck
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Sun Also Rises by Ernest Hemingway
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Bell Jar by Sylvia Plath
+25. The Handmaid's Tale by Margaret Atwood
+26. The Road Less Traveled by M. Scott Peck
+27. The Power of Now by Eckhart Tolle
+28. The 7 Habits of Highly Effective People by Stephen R. Covey
+29. The Art of War by Sun Tzu
+30. The Prince by Niccolò Machiavelli
+31. The Tipping Point by Malcolm Gladwell
+32. The Power of Habit by Charles Duhigg
+33. The Four Agreements by Don Miguel Ruiz
+34. The Subtle Art of Not Giving a F*ck by Mark Manson
+35. The Life-Changing Magic of Tidying Up by Marie Kondo
+36. The 5 Love Languages by Gary Chapman
+37. The Seven Principles for Making Marriage Work by John Gottman
+38. The Body Keeps the Score by Bessel van der Kolk
+39. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+40. The Big Short by Michael Lewis
+41. The Girl Who Played with Fire by Stieg Larsson
+42. The Hamlet by William Faulkner
+43. Eat, Pray, Love by Elizabeth Gilbert
+44. Wild by Cheryl Strayed
+45. Educated by Tara Westover
+46. Becoming by Michelle Obama
+47. Born a Crime by Trevor Noah
+48. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+49. Homo Deus: A Brief History of Tomorrow by Yuval Noah Harari
+50. 1984 by George Orwell
+
+These recommendations are based on the user's interest in non-fiction, biographies, political books, and contemporary fiction.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stranger (novel)
+2. A Brief History of Time
+3. A Clockwork Orange
+4. Nineteen Eighty-Four
+5. The Brothers Karamazov
+6. The Godfather (novel)
+7. The Lord of the Rings
+8. The Chronicles of Narnia: Prince Caspian
+9. The General's Daughter (novel)
+10. The Elegant Universe
+11. The Prince
+12. Ulysses (novel)
+13. Ender's Game
+14. The Selfish Gene
+15. One Hundred Years of Solitude
+16. Perfume (novel)
+17. The Demon-Haunted World
+18. Atlas Shrugged
+19. Animal Farm
+20. Thus Spoke Zarathustra
+21. Love in the Time of Cholera
+22. The Satanic Verses
+23. Women (novel)
+24. Childhood's End
+25. A History of Western Philosophy
+26. The Last Song (novel)
+27. Harry Potter
+28. The Glass Bead Game
+29. Paradise Lost
+30. Sun Bin's Art of War
+31. A Handful of Dust
+32. Slaughterhouse-Five
+33. Inheritance (novel)
+34. The Little Prince
+35. Le Morte d'Arthur
+36. The Unbearable Lightness of Being
+37. Interview with the Vampire
+38. Memoirs of a Geisha
+39. The Alchemist (novel)
+40. Sense and Sensibility
+41. The Monk Who Sold His Ferrari
+42. Anthem (novella)
+43. Bible
+44. The Amazing Adventures of Kavalier & Clay
+45. Master of the Game (novel)
+46. And Then There Were None
+47. Illusions (Bach novel)
+48. Pir-e-Kamil
+49. A Prayer for Owen Meany
+50. Pygmalion (play)
+
+These recommendations are based on the user's liking for similar genres and themes found in the listed books.

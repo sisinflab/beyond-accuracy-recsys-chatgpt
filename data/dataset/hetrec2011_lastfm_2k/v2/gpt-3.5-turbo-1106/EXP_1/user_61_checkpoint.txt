@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. João Gilberto
+2. Gal Costa
+3. Tom Jobim
+4. Caetano Veloso
+5. Gilberto Gil
+6. Elis Regina
+7. Vinicius de Moraes
+8. Nara Leão
+9. Os Mutantes
+10. Novos Baianos
+11. Milton Nascimento
+12. Cartola
+13. Adoniran Barbosa
+14. Zé Ramalho
+15. Alceu Valença
+16. Zeca Baleiro
+17. Cássia Eller
+18. Raul Seixas
+19. Tim Maia
+20. Jorge Ben Jor
+21. Seu Jorge
+22. Cazuza
+23. Legião Urbana
+24. Titãs
+25. Paralamas do Sucesso
+26. Engenheiros do Hawaii
+27. Skank
+28. O Rappa
+29. Charlie Brown Jr.
+30. Pitty
+31. Cássia Eller
+32. Ana Carolina
+33. Maria Gadú
+34. Vanessa da Mata
+35. Adriana Calcanhotto
+36. Marisa Monte
+37. Zélia Duncan
+38. Lenine
+39. Chico Science & Nação Zumbi
+40. Mundo Livre S/A
+41. Nação Zumbi
+42. Otto
+43. Cordel do Fogo Encantado
+44. Alceu Valença
+45. Elba Ramalho
+46. Geraldo Azevedo
+47. Zé Ramalho
+48. Fagner
+49. Elba Ramalho
+50. Elomar

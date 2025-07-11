@@ -1,0 +1,54 @@
+Based on user 1153's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye
+2. Slaughterhouse-Five
+3. The Bell Jar
+4. Moby-Dick
+5. The God Delusion
+6. John Dies at the End
+7. The Lovely Bones
+8. Prozac Nation
+9. Speak (novel)
+10. Extremely Loud and Incredibly Close
+11. Angels & Demons
+12. A Million Little Pieces
+13. My Friend Leonard
+14. Misery (novel)
+15. The Most Dangerous Game (novel)
+16. The Long Hard Road Out of Hell
+17. The Grapes of Wrath
+18. I Hope They Serve Beer in Hell
+19. The Atonement Child
+20. The Giver
+21. From the Corner of His Eye
+22. The Black Tattoo
+23. Jaws (novel)
+24. Fear and Loathing in Las Vegas
+25. The Da Vinci Code
+26. Jane Eyre
+27. Lolita
+28. To Kill a Mockingbird
+29. Atonement (novel)
+30. Twilight (series)
+31. Tricks (novel)
+32. The Hitchhiker's Guide to the Galaxy (novel)
+33. Burned (Hopkins novel)
+34. Number the Stars
+35. Of Mice and Men
+36. Gathering Blue
+37. Hairstyles of the Damned
+38. Jay's Journal
+39. Pretties
+40. The Lord of the Rings
+41. On Writing
+42. Impulse economy
+43. Ella Enchanted
+44. Goosebumps
+45. Candy: A Novel of Love and Addiction
+46. Vampire Academy (novel)
+47. The Little Mermaid
+48. Extras (novel)
+49. Where the Wild Things Are
+50. The Outsiders (novel)
+
+These recommendations are based on the user's liking of the listed books and are tailored to their preferences.

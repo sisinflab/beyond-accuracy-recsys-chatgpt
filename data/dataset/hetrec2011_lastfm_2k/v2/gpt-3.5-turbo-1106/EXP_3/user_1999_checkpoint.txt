@@ -1,0 +1,54 @@
+Based on user 1999's preferences, here are the top 50 recommendations for them:
+
+1. Radiohead
+2. Muse
+3. The Killers
+4. Arctic Monkeys
+5. Nirvana
+6. The Smashing Pumpkins
+7. Pearl Jam
+8. Death Cab for Cutie
+9. Interpol
+10. Franz Ferdinand
+11. Queens of the Stone Age
+12. The Vines
+13. The Strokes
+14. The Kooks
+15. Kings of Leon
+16. Oasis
+17. The Who
+18. Cat Power
+19. Feist
+20. Snow Patrol
+21. Coldplay
+22. Iron Maiden
+23. Metallica
+24. Paramore
+25. CAKE
+26. The Cribs
+27. Rilo Kiley
+28. Little Joy
+29. Jason Mraz
+30. Joss Stone
+31. Maria Gadú
+32. Mallu Magalhães
+33. Marcelo Camelo
+34. Os Mutantes
+35. Vanguart
+36. Moptop
+37. Capital Inicial
+38. Amy Winehouse
+39. Cyndi Lauper
+40. Justin Nozuka
+41. Jet
+42. John Frusciante
+43. The Cardigans
+44. AC/DC
+45. Dream Theater
+46. ABBA
+47. Porcupine Tree
+48. KT Tunstall
+49. Sixpence None the Richer
+50. Caetano Veloso
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

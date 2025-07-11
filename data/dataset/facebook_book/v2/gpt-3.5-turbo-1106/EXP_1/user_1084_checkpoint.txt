@@ -1,0 +1,54 @@
+Based on user 1084's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Pride and Prejudice by Jane Austen
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Adventures of Huckleberry Finn by Mark Twain
+7. The Bell Jar by Sylvia Plath
+8. The Old Man and the Sea by Ernest Hemingway
+9. The Grapes of Wrath by John Steinbeck
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. The Sun Also Rises by Ernest Hemingway
+12. The Scarlet Letter by Nathaniel Hawthorne
+13. Moby-Dick by Herman Melville
+14. The Sound and the Fury by William Faulkner
+15. Crime and Punishment by Fyodor Dostoevsky
+16. The Brothers Karamazov by Fyodor Dostoevsky
+17. Anna Karenina by Leo Tolstoy
+18. War and Peace by Leo Tolstoy
+19. The Count of Monte Cristo by Alexandre Dumas
+20. Les Misérables by Victor Hugo
+21. The Hunchback of Notre-Dame by Victor Hugo
+22. The Three Musketeers by Alexandre Dumas
+23. The Stranger by Albert Camus
+24. The Plague by Albert Camus
+25. The Metamorphosis by Franz Kafka
+26. The Trial by Franz Kafka
+27. The Idiot by Fyodor Dostoevsky
+28. The Master and Margarita by Mikhail Bulgakov
+29. Lolita by Vladimir Nabokov
+30. A Clockwork Orange by Anthony Burgess
+31. Brave New World by Aldous Huxley
+32. Lord of the Flies by William Golding
+33. Heart of Darkness by Joseph Conrad
+34. The Secret Agent by Joseph Conrad
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Importance of Being Earnest by Oscar Wilde
+37. The Canterbury Tales by Geoffrey Chaucer
+38. The Divine Comedy by Dante Alighieri
+39. Don Quixote by Miguel de Cervantes
+40. The Iliad by Homer
+41. The Odyssey by Homer
+42. The Aeneid by Virgil
+43. Paradise Lost by John Milton
+44. The Inferno by Dante Alighieri
+45. The Canterbury Tales by Geoffrey Chaucer
+46. The Decameron by Giovanni Boccaccio
+47. The Prince by Niccolò Machiavelli
+48. The Art of War by Sun Tzu
+49. The Book of Five Rings by Miyamoto Musashi
+50. The Analects by Confucius
+
+These recommendations are based on the user's interest in classic literature, gothic fiction, and historical novels.

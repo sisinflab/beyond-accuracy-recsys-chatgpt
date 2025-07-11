@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Riverside
+2. Haken
+3. Anathema
+4. Steven Wilson
+5. Tesseract
+6. Leprous
+7. The Pineapple Thief
+8. Katatonia
+9. Soen
+10. Caligula's Horse
+11. Tool
+12. Karnivool
+13. The Ocean
+14. Ne Obliviscaris
+15. Gojira
+16. Porcupine Tree
+17. Opeth
+18. Devin Townsend Project
+19. Pain of Salvation
+20. Symphony X
+21. Ayreon
+22. Dream Theater
+23. Vanden Plas
+24. Fates Warning
+25. Threshold
+26. Shadow Gallery
+27. Circus Maximus
+28. Seventh Wonder
+29. Redemption
+30. Evergrey
+31. Queensrÿche
+32. Pagan's Mind
+33. Symphony X
+34. Kamelot
+35. Blind Guardian
+36. Avantasia
+37. Stratovarius
+38. Sonata Arctica
+39. Nightwish
+40. Epica
+41. Within Temptation
+42. Delain
+43. After Forever
+44. Xandria
+45. Leaves' Eyes
+46. Sirenia
+47. Tristania
+48. Lacuna Coil
+49. Theatre of Tragedy
+50. The Gathering
+
+These recommendations are based on the user's liking of progressive metal, rock, and related genres.

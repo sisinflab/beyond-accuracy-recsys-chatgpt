@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Animal Farm by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Picture of Dorian Gray by Oscar Wilde
+7. The Sun Also Rises by Ernest Hemingway
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Stranger by Albert Camus
+11. The Road by Cormac McCarthy
+12. The Alchemist by Paulo Coelho
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Bell Jar by Sylvia Plath
+15. The Grapes of Wrath by John Steinbeck
+16. Slaughterhouse-Five by Kurt Vonnegut
+17. The Handmaid's Tale by Margaret Atwood
+18. The Fountainhead by Ayn Rand
+19. The Count of Monte Cristo by Alexandre Dumas
+20. The Scarlet Letter by Nathaniel Hawthorne
+21. The Sound and the Fury by William Faulkner
+22. The Heart is a Lonely Hunter by Carson McCullers
+23. The Trial by Franz Kafka
+24. The Plague by Albert Camus
+25. The Idiot by Fyodor Dostoevsky
+26. The Master and Margarita by Mikhail Bulgakov
+27. The Secret History by Donna Tartt
+28. The Name of the Rose by Umberto Eco
+29. The Shadow of the Wind by Carlos Ruiz Zafon
+30. The Book Thief by Markus Zusak
+31. The Kite Runner by Khaled Hosseini
+32. The Secret Garden by Frances Hodgson Burnett
+33. The Little Prince by Antoine de Saint-Exupery
+34. The Chronicles of Narnia by C.S. Lewis
+35. The Hobbit by J.R.R. Tolkien
+36. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+37. The Martian by Andy Weir
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Night Circus by Erin Morgenstern
+40. The Goldfinch by Donna Tartt
+41. The Hand of Fatima by Ildefonso Falcones
+42. The Historian by Elizabeth Kostova
+43. The Thirteenth Tale by Diane Setterfield
+44. The Nightingale by Kristin Hannah
+45. The Book of Lost Things by John Connolly
+46. The Shadow of the Wind by Carlos Ruiz Zafon
+47. The Night Circus by Erin Morgenstern
+48. The Goldfinch by Donna Tartt
+49. The Hand of Fatima by Ildefonso Falcones
+50. The Historian by Elizabeth Kostova
+
+These recommendations are based on similar themes, genres, and authors to the books that user 859 likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. The Book Thief by Markus Zusak
+8. The Chronicles of Narnia by C.S. Lewis
+9. The Mortal Instruments series by Cassandra Clare
+10. The Selection by Kiera Cass
+11. The 5th Wave by Rick Yancey
+12. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+13. The Night Circus by Erin Morgenstern
+14. The Girl on the Train by Paula Hawkins
+15. Gone Girl by Gillian Flynn
+16. The Da Vinci Code by Dan Brown
+17. The Alchemist by Paulo Coelho
+18. The Help by Kathryn Stockett
+19. The Time Traveler's Wife by Audrey Niffenegger
+20. The Lovely Bones by Alice Sebold
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Kite Runner by Khaled Hosseini
+24. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+25. The Goldfinch by Donna Tartt
+26. The Handmaid's Tale by Margaret Atwood
+27. The Nightingale by Kristin Hannah
+28. The Light Between Oceans by M.L. Stedman
+29. The Glass Castle by Jeannette Walls
+30. The Husband's Secret by Liane Moriarty
+31. The Rosie Project by Graeme Simsion
+32. The Invention of Wings by Sue Monk Kidd
+33. The Secret History by Donna Tartt
+34. The Shadow of the Wind by Carlos Ruiz Zafón
+35. The Thirteenth Tale by Diane Setterfield
+36. The Secret Keeper by Kate Morton
+37. The Forgotten Garden by Kate Morton
+38. The Night Circus by Erin Morgenstern
+39. The Snow Child by Eowyn Ivey
+40. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+41. The Glass Castle by Jeannette Walls
+42. The Nightingale by Kristin Hannah
+43. The Light Between Oceans by M.L. Stedman
+44. The Husband's Secret by Liane Moriarty
+45. The Rosie Project by Graeme Simsion
+46. The Invention of Wings by Sue Monk Kidd
+47. The Secret History by Donna Tartt
+48. The Shadow of the Wind by Carlos Ruiz Zafón
+49. The Thirteenth Tale by Diane Setterfield
+50. The Secret Keeper by Kate Morton
+
+These recommendations are based on the user's interest in fantasy, mystery, and young adult fiction.

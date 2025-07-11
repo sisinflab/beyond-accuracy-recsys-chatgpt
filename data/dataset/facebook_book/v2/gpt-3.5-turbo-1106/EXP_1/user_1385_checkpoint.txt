@@ -1,0 +1,54 @@
+Based on user 1385's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. The Hobbit by J.R.R. Tolkien
+7. The Hunger Games by Suzanne Collins
+8. The Da Vinci Code by Dan Brown
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. Gone Girl by Gillian Flynn
+11. The Help by Kathryn Stockett
+12. The Alchemist by Paulo Coelho
+13. The Kite Runner by Khaled Hosseini
+14. The Road by Cormac McCarthy
+15. The Lovely Bones by Alice Sebold
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Book Thief by Markus Zusak
+18. The Fault in Our Stars by John Green
+19. The Night Circus by Erin Morgenstern
+20. The Goldfinch by Donna Tartt
+21. The Martian by Andy Weir
+22. The Handmaid's Tale by Margaret Atwood
+23. The Silent Patient by Alex Michaelides
+24. Where the Crawdads Sing by Delia Owens
+25. Educated by Tara Westover
+26. Little Fires Everywhere by Celeste Ng
+27. Eleanor Oliphant Is Completely Fine by Gail Honeyman
+28. The Tattooist of Auschwitz by Heather Morris
+29. The Alice Network by Kate Quinn
+30. The Nightingale by Kristin Hannah
+31. The Light We Lost by Jill Santopolo
+32. The Woman in the Window by A.J. Finn
+33. The Wife Between Us by Greer Hendricks and Sarah Pekkanen
+34. The Silent Wife by A.S.A. Harrison
+35. The Girl on the Train by Paula Hawkins
+36. The Couple Next Door by Shari Lapena
+37. The Lying Game by Ruth Ware
+38. The Last Mrs. Parrish by Liv Constantine
+39. The Woman in Cabin 10 by Ruth Ware
+40. The Girl Before by J.P. Delaney
+41. The Girl in the Ice by Robert Bryndza
+42. The Girl Who Lived by Christopher Greyson
+43. The Girl in the Woods by Gregg Olsen
+44. The Girl in the Letter by Emily Gunnis
+45. The Girl in the Spider's Web by David Lagercrantz
+46. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+47. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+48. The Girl Who Played with Fire by Stieg Larsson
+49. The Girl with the Dragon Tattoo by Stieg Larsson
+50. The Girl in the Mirror by Rose Carlyle
+
+These recommendations are based on the genres and themes present in the books that user 1385 likes.

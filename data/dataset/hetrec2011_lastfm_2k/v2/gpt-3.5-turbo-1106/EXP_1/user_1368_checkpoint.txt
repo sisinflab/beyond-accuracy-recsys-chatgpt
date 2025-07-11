@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Muse
+2. Lady Gaga
+3. Arctic Monkeys
+4. Florence + The Machine
+5. The Weeknd
+6. Imagine Dragons
+7. Lana Del Rey
+8. The Neighbourhood
+9. Halsey
+10. Bastille
+11. Lorde
+12. The 1975
+13. Twenty One Pilots
+14. Paramore
+15. Billie Eilish
+16. Panic! At The Disco
+17. Fall Out Boy
+18. The Killers
+19. My Chemical Romance
+20. Green Day
+21. Linkin Park
+22. Radiohead
+23. Coldplay
+24. Red Hot Chili Peppers
+25. Nirvana
+26. Pearl Jam
+27. Foo Fighters
+28. Soundgarden
+29. Alice In Chains
+30. Stone Temple Pilots
+31. Audioslave
+32. Bush
+33. Smashing Pumpkins
+34. Oasis
+35. Blur
+36. The Verve
+37. Radiohead
+38. The Strokes
+39. Interpol
+40. Arctic Monkeys
+41. Franz Ferdinand
+42. The Libertines
+43. The White Stripes
+44. The Black Keys
+45. Cage The Elephant
+46. Kings of Leon
+47. The Raconteurs
+48. The Hives
+49. The Vaccines
+50. The Arctic Monkeys
+
+These recommendations are based on the user's liking of similar artists and genres.

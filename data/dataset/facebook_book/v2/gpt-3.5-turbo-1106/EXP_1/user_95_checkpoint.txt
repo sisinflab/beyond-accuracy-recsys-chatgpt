@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Looking for Alaska by John Green
+3. Thirteen Reasons Why by Jay Asher
+4. Eleanor & Park by Rainbow Rowell
+5. It's Kind of a Funny Story by Ned Vizzini
+6. Speak by Laurie Halse Anderson
+7. Stargirl by Jerry Spinelli
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. We Were Liars by E. Lockhart
+10. Everything, Everything by Nicola Yoon
+11. The Book Thief by Markus Zusak
+12. All the Bright Places by Jennifer Niven
+13. Before I Fall by Lauren Oliver
+14. The Outsiders by S.E. Hinton
+15. Go Ask Alice by Anonymous
+16. The Bell Jar by Sylvia Plath
+17. The Giver by Lois Lowry
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Glass Castle by Jeannette Walls
+20. The Kite Runner by Khaled Hosseini
+21. A Thousand Splendid Suns by Khaled Hosseini
+22. The Help by Kathryn Stockett
+23. To Kill a Mockingbird by Harper Lee
+24. The Hunger Games by Suzanne Collins
+25. Divergent by Veronica Roth
+26. The Maze Runner by James Dashner
+27. The Girl on the Train by Paula Hawkins
+28. Gone Girl by Gillian Flynn
+29. Sharp Objects by Gillian Flynn
+30. Dark Places by Gillian Flynn
+31. Room by Emma Donoghue
+32. The Lovely Bones by Alice Sebold
+33. If I Stay by Gayle Forman
+34. Where She Went by Gayle Forman
+35. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+36. Paper Towns by John Green
+37. If You Give a Mouse a Cookie by Laura Numeroff
+38. Burned by Ellen Hopkins
+39. Bunnicula: A Rabbit-Tale of Mystery by Deborah Howe, James Howe
+40. An Abundance of Katherines by John Green
+41. Touching Spirit Bear by Ben Mikaelsen
+42. Girl, Interrupted by Susanna Kaysen
+43. The Catcher in the Rye by J.D. Salinger
+44. The Catcher in the Rye by J.D. Salinger
+45. The Catcher in the Rye by J.D. Salinger
+46. The Catcher in the Rye by J.D. Salinger
+47. The Catcher in the Rye by J.D. Salinger
+48. The Catcher in the Rye by J.D. Salinger
+49. The Catcher in the Rye by J.D. Salinger
+50. The Catcher in the Rye by J.D. Salinger
+
+These recommendations are based on the user's liking for young adult fiction, coming-of-age stories, and books with psychological themes.

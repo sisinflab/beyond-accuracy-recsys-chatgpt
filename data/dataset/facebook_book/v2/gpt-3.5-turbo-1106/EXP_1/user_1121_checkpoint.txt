@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Midnight's Children by Salman Rushdie
+2. Love in the Time of Cholera by Gabriel García Márquez
+3. The White Tiger by Aravind Adiga
+4. The God of Small Things by Arundhati Roy
+5. The Catcher in the Rye by J.D. Salinger
+6. The Namesake by Jhumpa Lahiri
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. The Kite Runner by Khaled Hosseini
+10. The Alchemist by Paulo Coelho
+11. The Shadow Lines by Amitav Ghosh
+12. A Fine Balance by Rohinton Mistry
+13. The Glass Palace by Amitav Ghosh
+14. The Grapes of Wrath by John Steinbeck
+15. The Book Thief by Markus Zusak
+16. The Road by Cormac McCarthy
+17. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+18. The Inheritance of Loss by Kiran Desai
+19. A Suitable Boy by Vikram Seth
+20. The Unbearable Lightness of Being by Milan Kundera
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Stranger by Albert Camus
+23. Crime and Punishment by Fyodor Dostoyevsky
+24. The Idiot by Fyodor Dostoyevsky
+25. The Master and Margarita by Mikhail Bulgakov
+26. One Day in the Life of Ivan Denisovich by Aleksandr Solzhenitsyn
+27. The Bell Jar by Sylvia Plath
+28. The Handmaid's Tale by Margaret Atwood
+29. The Road to Wigan Pier by George Orwell
+30. The Grapes of Wrath by John Steinbeck
+31. The Sun Also Rises by Ernest Hemingway
+32. The Old Man and the Sea by Ernest Hemingway
+33. The Stranger by Albert Camus
+34. The Plague by Albert Camus
+35. The Metamorphosis by Franz Kafka
+36. One Hundred Years of Solitude by Gabriel García Márquez
+37. Chronicle of a Death Foretold by Gabriel García Márquez
+38. Love in the Time of Cholera by Gabriel García Márquez
+39. The House of the Spirits by Isabel Allende
+40. Like Water for Chocolate by Laura Esquivel
+41. The Savage Detectives by Roberto Bolaño
+42. 2666 by Roberto Bolaño
+43. The Wind-Up Bird Chronicle by Haruki Murakami
+44. Kafka on the Shore by Haruki Murakami
+45. Norwegian Wood by Haruki Murakami
+46. The Elephant Vanishes by Haruki Murakami
+47. The Wind-Up Bird Chronicle by Haruki Murakami
+48. The Master and Margarita by Mikhail Bulgakov
+49. One Day in the Life of Ivan Denisovich by Aleksandr Solzhenitsyn
+50. The Gulag Archipelago by Aleksandr Solzhenitsyn
+
+These recommendations are based on the user's interest in literary fiction, historical fiction, and political non-fiction.

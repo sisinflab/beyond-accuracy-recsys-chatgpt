@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1947:
+
+1. Chevelle
+2. Breaking Benjamin
+3. Hoobastank
+4. The Killers
+5. Placebo
+6. Red
+7. HIM
+8. Sum 41
+9. The Red Jumpsuit Apparatus
+10. Thousand Foot Krutch
+11. Apocalyptica
+12. Serj Tankian
+13. Lifehouse
+14. 30 Seconds to Mars
+15. Nickelback
+16. Dead by April
+17. P.O.D.
+18. And One
+19. The Temper Trap
+20. Korn
+21. Coldplay
+22. Combichrist
+23. Foo Fighters
+24. Hatebreed
+25. Madonna
+26. Simple Plan
+27. Marilyn Manson
+28. Trapt
+29. KMFDM
+30. Evanescence
+31. Fightstar
+32. Biffy Clyro
+33. 3 Doors Down
+34. Bullet for My Valentine
+35. Limp Bizkit
+36. Slipknot
+37. Killswitch Engage
+38. Panic! At the Disco
+39. Lostprophets
+40. Skillet
+41. Enter Shikari
+42. Linkin Park
+43. System of a Down
+44. My Chemical Romance
+45. Papa Roach
+46. Disturbed
+47. Oomph!
+48. Lacrimosa
+49. Muse
+50. Depeche Mode
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for the user to explore.

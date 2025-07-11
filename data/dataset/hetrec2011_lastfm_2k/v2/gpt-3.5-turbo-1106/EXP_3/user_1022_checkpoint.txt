@@ -1,0 +1,54 @@
+Based on user 1022's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The Beatles
+2. Aerosmith
+3. Linkin Park
+4. The Rolling Stones
+5. Muse
+6. Metallica
+7. Black Sabbath
+8. Paramore
+9. Avenged Sevenfold
+10. Radiohead
+11. The Killers
+12. Franz Ferdinand
+13. Oasis
+14. 30 Seconds to Mars
+15. Megadeth
+16. Guns N' Roses
+17. Evanescence
+18. Within Temptation
+19. Depeche Mode
+20. Phoenix
+21. Mariah Carey
+22. Rihanna
+23. Shakira
+24. Madonna
+25. Beyoncé
+26. Miley Cyrus
+27. Christina Aguilera
+28. Luis Miguel
+29. Britney Spears
+30. Backstreet Boys
+31. OneRepublic
+32. Metric
+33. Joy Division
+34. Whitesnake
+35. HIM
+36. Def Leppard
+37. Garbage
+38. KISS
+39. Van Halen
+40. Alice Cooper
+41. Coheed and Cambria
+42. Sick Puppies
+43. In This Moment
+44. Circa Survive
+45. Phoenix
+46. Anahí
+47. CRASHDÏET
+48. Backyard Babies
+49. The Beatles
+50. Whitesnake
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

@@ -1,0 +1,54 @@
+Based on user 562's preferences, here are the top 50 recommendations:
+
+1. Taylor Swift
+2. Carrie Underwood
+3. Kelly Clarkson
+4. Lady Antebellum
+5. Faith Hill
+6. The Band Perry
+7. Martina McBride
+8. Sara Evans
+9. LeAnn Rimes
+10. Kacey Musgraves
+11. Reba McEntire
+12. Little Big Town
+13. Maren Morris
+14. Dolly Parton
+15. Trisha Yearwood
+16. Kelsea Ballerini
+17. Miranda Lambert
+18. Sheryl Crow
+19. Christina Aguilera
+20. George Strait
+21. U2
+22. Adele
+23. Jewel
+24. Keith Urban
+25. Jessie James
+26. Garth Brooks
+27. Josh Groban
+28. Dire Straits
+29. P!nk
+30. Mariah Carey
+31. Bruce Springsteen
+32. Rihanna
+33. Arcade Fire
+34. Janelle Monáe
+35. Tim McGraw
+36. Blake Shelton
+37. Rascal Flatts
+38. Jason Aldean
+39. Brad Paisley
+40. Zac Brown Band
+41. Kenny Chesney
+42. Luke Bryan
+43. Florida Georgia Line
+44. Eric Church
+45. Thomas Rhett
+46. Sam Hunt
+47. Chris Stapleton
+48. Keith Whitley
+49. Alan Jackson
+50. Brooks & Dunn
+
+These recommendations are based on the user's liking of similar artists and genres.

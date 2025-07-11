@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Uglies by Scott Westerfeld
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Giver by Lois Lowry
+6. The Maze Runner by James Dashner
+7. Delirium by Lauren Oliver
+8. Matched by Ally Condie
+9. The Selection by Kiera Cass
+10. Legend by Marie Lu
+11. Cinder by Marissa Meyer
+12. The 5th Wave by Rick Yancey
+13. Shatter Me by Tahereh Mafi
+14. The Host by Stephenie Meyer
+15. The Darkest Minds by Alexandra Bracken
+16. Red Queen by Victoria Aveyard
+17. The Testing by Joelle Charbonneau
+18. The Knife of Never Letting Go by Patrick Ness
+19. The City of Ember by Jeanne DuPrau
+20. The Uglies Series by Scott Westerfeld
+21. The Lunar Chronicles by Marissa Meyer
+22. The Delirium Series by Lauren Oliver
+23. The Matched Series by Ally Condie
+24. The Legend Series by Marie Lu
+25. The Maze Runner Series by James Dashner
+26. The Divergent Series by Veronica Roth
+27. The Hunger Games Series by Suzanne Collins
+28. The Selection Series by Kiera Cass
+29. The 5th Wave Series by Rick Yancey
+30. The Shatter Me Series by Tahereh Mafi
+31. The Red Queen Series by Victoria Aveyard
+32. The Darkest Minds Series by Alexandra Bracken
+33. The Testing Series by Joelle Charbonneau
+34. The Chaos Walking Series by Patrick Ness
+35. The Ember Series by Jeanne DuPrau
+36. The Host Series by Stephenie Meyer
+37. The Twilight Series by Stephenie Meyer
+38. The Harry Potter Series by J.K. Rowling
+39. The Chronicles of Narnia by C.S. Lewis
+40. The Percy Jackson Series by Rick Riordan
+41. The Mortal Instruments by Cassandra Clare
+42. The Infernal Devices by Cassandra Clare
+43. The Lunar Chronicles by Marissa Meyer
+44. The Grisha Trilogy by Leigh Bardugo
+45. The Throne of Glass Series by Sarah J. Maas
+46. The Six of Crows Duology by Leigh Bardugo
+47. The Daughter of Smoke & Bone Trilogy by Laini Taylor
+48. The His Dark Materials Series by Philip Pullman
+49. The Mistborn Series by Brandon Sanderson
+50. The Way of Kings by Brandon Sanderson
+
+These recommendations are based on the user's interest in young adult fiction and similar genres.

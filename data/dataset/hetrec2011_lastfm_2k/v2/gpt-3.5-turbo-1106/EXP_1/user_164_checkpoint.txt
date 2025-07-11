@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Red Hot Chili Peppers
+2. Foo Fighters
+3. Arctic Monkeys
+4. The Strokes
+5. Kings of Leon
+6. The White Stripes
+7. Modest Mouse
+8. Arcade Fire
+9. The Killers
+10. Interpol
+11. Vampire Weekend
+12. The National
+13. Franz Ferdinand
+14. The Black Angels
+15. Tame Impala
+16. The War on Drugs
+17. Cage the Elephant
+18. Portugal. The Man
+19. The Raconteurs
+20. Band of Horses
+21. Spoon
+22. Silversun Pickups
+23. The Shins
+24. Death From Above 1979
+25. Bloc Party
+26. Yeah Yeah Yeahs
+27. TV on the Radio
+28. MGMT
+29. Foster the People
+30. Phoenix
+31. Metric
+32. The Hives
+33. The Bravery
+34. Cold War Kids
+35. Wolfmother
+36. The Vines
+37. The Fratellis
+38. Jet
+39. The Kooks
+40. Kasabian
+41. The Libertines
+42. The Wombats
+43. The Vaccines
+44. The Fray
+45. Snow Patrol
+46. Keane
+47. Editors
+48. The Cinematics
+49. The Pigeon Detectives
+50. The Zutons
+
+These recommendations are based on the user's liking of alternative rock, indie rock, and similar genres, as well as the artists they have already shown interest in.

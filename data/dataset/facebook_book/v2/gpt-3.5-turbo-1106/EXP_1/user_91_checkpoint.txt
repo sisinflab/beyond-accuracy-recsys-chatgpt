@@ -1,0 +1,54 @@
+Based on user 91's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. Gone Girl by Gillian Flynn
+3. The Silence of the Lambs by Thomas Harris
+4. Mystic River by Dennis Lehane
+5. The Talented Mr. Ripley by Patricia Highsmith
+6. The Secret History by Donna Tartt
+7. The Lovely Bones by Alice Sebold
+8. Sharp Objects by Gillian Flynn
+9. The Shining by Stephen King
+10. The Girl on the Train by Paula Hawkins
+11. The Da Vinci Code by Dan Brown
+12. The Catcher in the Rye by J.D. Salinger
+13. The Great Gatsby by F. Scott Fitzgerald
+14. The Goldfinch by Donna Tartt
+15. The Night Circus by Erin Morgenstern
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Help by Kathryn Stockett
+18. The Kite Runner by Khaled Hosseini
+19. The Book Thief by Markus Zusak
+20. The Alchemist by Paulo Coelho
+21. The Hunger Games by Suzanne Collins
+22. The Martian by Andy Weir
+23. The Handmaid's Tale by Margaret Atwood
+24. The Road by Cormac McCarthy
+25. The Glass Castle by Jeannette Walls
+26. The Nightingale by Kristin Hannah
+27. The Fault in Our Stars by John Green
+28. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+29. The Perks of Being a Wallflower by Stephen Chbosky
+30. The Shadow of the Wind by Carlos Ruiz Zafón
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Thorn Birds by Colleen McCullough
+33. The Pillars of the Earth by Ken Follett
+34. The Name of the Wind by Patrick Rothfuss
+35. The Hand of Fatima by Ildefonso Falcones
+36. The Night Manager by John le Carré
+37. The Night Circus by Erin Morgenstern
+38. The Nightingale by Kristin Hannah
+39. The Night Watch by Sarah Waters
+40. The Night Stalker by Robert Bryndza
+41. The Night Strangers by Chris Bohjalian
+42. The Night Sister by Jennifer McMahon
+43. The Night Ocean by Paul La Farge
+44. The Night of the Gun by David Carr
+45. The Night of the Hunter by Davis Grubb
+46. The Night of the Iguana by Tennessee Williams
+47. The Night of the Triffids by Simon Clark
+48. The Night of the Hunter by R.A. Salvatore
+49. The Night of the Iguana by Tennessee Williams
+50. The Night of the Triffids by Simon Clark
+
+These recommendations are based on the user's preference for mystery, thriller, and classic literature.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coldplay
+2. The Strokes
+3. Placebo
+4. Green Day
+5. Queens of the Stone Age
+6. The Hives
+7. The Vines
+8. The Libertines
+9. The Cranberries
+10. Weezer
+11. The Smashing Pumpkins
+12. The Cranberries
+13. The Black Keys
+14. The Kooks
+15. The Fratellis
+16. The Raconteurs
+17. The Bravery
+18. The Rasmus
+19. The All-American Rejects
+20. The Wombats
+21. The Vaccines
+22. The Ting Tings
+23. The 1975
+24. The Killers
+25. The White Stripes
+26. The Offspring
+27. The Verve
+28. The Prodigy
+29. The Chemical Brothers
+30. The Proclaimers
+31. The Stone Roses
+32. The Clash
+33. The Cure
+34. The Smiths
+35. The Jesus and Mary Chain
+36. The Velvet Underground
+37. The Flaming Lips
+38. The National
+39. The War on Drugs
+40. The Black Angels
+41. The Horrors
+42. The Kills
+43. The xx
+44. The Naked and Famous
+45. The Neighbourhood
+46. The 1975
+47. The Wombats
+48. The Kooks
+49. The Fratellis
+50. The Raconteurs
+
+These recommendations are based on the user's liking of similar artists and genres.

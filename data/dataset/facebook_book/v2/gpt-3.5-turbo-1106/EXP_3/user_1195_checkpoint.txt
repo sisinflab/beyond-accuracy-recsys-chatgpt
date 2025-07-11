@@ -1,0 +1,54 @@
+Based on user 1195's preferences, here are the top 50 book recommendations:
+
+1. The Picture of Dorian Gray by Oscar Wilde
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Hobbit by J. R. R. Tolkien
+4. A Light in the Attic by Shel Silverstein
+5. Peter and Wendy by J. M. Barrie
+6. Through the Looking-Glass by Lewis Carroll
+7. Rant (novel) by Chuck Palahniuk
+8. Water for Elephants by Sara Gruen
+9. Haunted (Palahniuk novel)
+10. The Catcher in the Rye
+11. The Fountainhead
+12. The Grapes of Wrath
+13. The Hunger Games
+14. Moby-Dick
+15. The World According to Garp
+16. A People's History of the United States
+17. Fahrenheit 451
+18. The Bell Jar
+19. The Lord of the Rings
+20. Alice's Adventures in Wonderland
+21. Interview with the Vampire
+22. Tuesdays with Morrie
+23. To Kill a Mockingbird
+24. Inheritance Cycle
+25. Sophie's World
+26. The Adventures of Tom Sawyer
+27. The Sleeping Beauty (novel)
+28. Number the Stars
+29. The Little Prince
+30. The Perks of Being a Wallflower
+31. Nineteen Eighty-Four
+32. The Spiderwick Chronicles
+33. Brave New World
+34. The Secret (book)
+35. Common Sense (pamphlet)
+36. Guinness World Records
+37. Brain Droppings
+38. The Zombie Survival Guide
+39. House of Leaves
+40. Diary (novel)
+41. Black Butler
+42. Batman: The Killing Joke
+43. Choke (novel)
+44. Twilight (series)
+45. Crank (novel)
+46. Cecilia (McClure novel)
+47. Winnie-the-Pooh (book)
+48. The Pact (novel)
+49. Under the Dome
+50. The Nanny Diaries
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

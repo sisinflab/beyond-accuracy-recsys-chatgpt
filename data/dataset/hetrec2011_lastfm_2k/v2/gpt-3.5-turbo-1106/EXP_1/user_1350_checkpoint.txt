@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Metallica
+2. Deep Purple
+3. Megadeth
+4. Motorhead
+5. Van Halen
+6. The Who
+7. Alice Cooper
+8. Thin Lizzy
+9. Dio
+10. Whitesnake
+11. Slayer
+12. Pantera
+13. Tool
+14. Nirvana
+15. Pearl Jam
+16. The Doors
+17. Cream
+18. Yes
+19. King Crimson
+20. The Kinks
+21. The Smashing Pumpkins
+22. The Offspring
+23. Rammstein
+24. Korn
+25. System of a Down
+26. Tool
+27. Rage Against the Machine
+28. The Black Crowes
+29. The Allman Brothers Band
+30. Lynyrd Skynyrd
+31. ZZ Top
+32. The Byrds
+33. The Yardbirds
+34. The Animals
+35. The Kinks
+36. The Velvet Underground
+37. The Stooges
+38. MC5
+39. The Clash
+40. Ramones
+41. Sex Pistols
+42. The Damned
+43. Dead Kennedys
+44. Misfits
+45. Black Flag
+46. Minor Threat
+47. Fugazi
+48. Bad Brains
+49. The Exploited
+50. Crass

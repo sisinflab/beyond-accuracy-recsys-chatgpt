@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Muse
+2. Radiohead
+3. Evanescence
+4. Snow Patrol
+5. Keane
+6. The Fray
+7. Damien Rice
+8. Travis
+9. White Lies
+10. James Blunt
+11. Nickelback
+12. Franz Ferdinand
+13. The Verve
+14. Yeah Yeah Yeahs
+15. Placebo
+16. Interpol
+17. Kings of Leon
+18. The Kooks
+19. 3 Doors Down
+20. Linkin Park
+21. Jimmy Eat World
+22. Blue October
+23. David Gray
+24. Imogen Heap
+25. Rihanna
+26. Thirteen Senses
+27. Britney Spears
+28. Lady Gaga
+29. U2
+30. Pink
+31. The Cardigans
+32. Kelly Clarkson
+33. Madonna
+34. Christina Aguilera
+35. Shakira
+36. Paramore
+37. Katy Perry
+38. Avril Lavigne
+39. Taylor Swift
+40. Glee Cast
+41. Beyoncé
+42. 30 Seconds to Mars
+43. Pink Floyd
+44. Kylie Minogue
+45. Miley Cyrus
+46. Ke$ha
+47. Duran Duran
+48. Coldplay
+49. Blur
+50. Arctic Monkeys
+
+This re-ranked list takes into account the user's liking for the given artists and provides recommendations based on similar musical styles and preferences.

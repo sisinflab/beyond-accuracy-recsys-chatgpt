@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. David Bowie
+3. The National
+4. Cat Power
+5. Nick Cave & The Bad Seeds
+6. PJ Harvey
+7. Sufjan Stevens
+8. The War on Drugs
+9. Fleet Foxes
+10. Interpol
+11. The Strokes
+12. Arctic Monkeys
+13. Tame Impala
+14. Vampire Weekend
+15. The xx
+16. Bon Iver
+17. Florence + The Machine
+18. Lana Del Rey
+19. Hozier
+20. Father John Misty
+21. Grizzly Bear
+22. The Shins
+23. Death Cab for Cutie
+24. Modest Mouse
+25. Spoon
+26. The Decemberists
+27. Neutral Milk Hotel
+28. The Flaming Lips
+29. My Morning Jacket
+30. Broken Social Scene
+31. The New Pornographers
+32. The Avett Brothers
+33. Iron & Wine
+34. Andrew Bird
+35. Beirut
+36. Band of Horses
+37. Bright Eyes
+38. The Shins
+39. Death Cab for Cutie
+40. Modest Mouse
+41. Spoon
+42. The Decemberists
+43. Neutral Milk Hotel
+44. The Flaming Lips
+45. My Morning Jacket
+46. Broken Social Scene
+47. The New Pornographers
+48. The Avett Brothers
+49. Iron & Wine
+50. Andrew Bird
+
+These recommendations are based on the user's liking of similar artists and genres.

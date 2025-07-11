@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the re-ranked top-50 recommendations:
+
+1. Nirvana
+2. Paramore
+3. Evanescence
+4. Green Day
+5. Pearl Jam
+6. Foo Fighters
+7. Red Hot Chili Peppers
+8. Metallica
+9. Soundgarden
+10. Alice in Chains
+11. The Offspring
+12. Rage Against the Machine
+13. Limp Bizkit
+14. Audioslave
+15. Puddle of Mudd
+16. Nickelback
+17. Bush
+18. Silverchair
+19. Hoobastank
+20. Stone Temple Pilots
+21. Weezer
+22. Chevelle
+23. Incubus
+24. The Cure
+25. Hole
+26. Box Car Racer
+27. Britney Spears
+28. Lady Gaga
+29. Christina Aguilera
+30. Madonna
+31. Rihanna
+32. Shakira
+33. Avril Lavigne
+34. Katy Perry
+35. Taylor Swift
+36. Glee Cast
+37. Beyoncé
+38. U2
+39. 30 Seconds to Mars
+40. Muse
+41. Pink Floyd
+42. Kylie Minogue
+43. Miley Cyrus
+44. Radiohead
+45. Ke$ha
+46. Duran Duran
+47. Coldplay
+48. Blur
+49. Arctic Monkeys
+50. Placebo
+
+These recommendations are based on the user's liking of similar artists and genres.

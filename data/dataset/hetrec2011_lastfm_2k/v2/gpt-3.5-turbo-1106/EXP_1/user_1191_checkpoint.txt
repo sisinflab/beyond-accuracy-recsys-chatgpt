@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Talking Heads
+2. New Order
+3. The B-52's
+4. The Cure
+5. Beastie Boys
+6. Duran Duran
+7. Pet Shop Boys
+8. The Clash
+9. The Smiths
+10. Joy Division
+11. Echo & the Bunnymen
+12. Siouxsie and the Banshees
+13. The Human League
+14. OMD
+15. Gary Numan
+16. Kraftwerk
+17. Yazoo
+18. Erasure
+19. Tears for Fears
+20. Simple Minds
+21. A Flock of Seagulls
+22. Thompson Twins
+23. Depeche Mode
+24. Blondie
+25. Eurythmics
+26. INXS
+27. The Police
+28. U2
+29. R.E.M.
+30. The Cars
+31. Roxy Music
+32. David Bowie
+33. Iggy Pop
+34. Lou Reed
+35. Patti Smith
+36. Television
+37. Ramones
+38. Sex Pistols
+39. The Stooges
+40. Buzzcocks
+41. XTC
+42. Elvis Costello
+43. The Jam
+44. The Specials
+45. Madness
+46. The Selecter
+47. The Beat
+48. The English Beat
+49. Bad Manners
+50. Madness

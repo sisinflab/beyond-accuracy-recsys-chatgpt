@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations for user 376:
+
+1. The Catcher in the Rye by J. D. Salinger
+2. Perfume (novel) by Patrick Süskind
+3. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+4. War and Peace by Leo Tolstoy
+5. A Tale of Two Cities by Charles Dickens
+6. To Kill a Mockingbird by Harper Lee
+7. Tinker Tailor Soldier Spy by John le Carré
+8. A Wrinkle in Time by Madeleine L'Engle
+9. Charlie and the Chocolate Factory by Roald Dahl
+10. The Outsiders (novel) by S. E. Hinton
+11. Nicholas Nickleby
+12. The Lord of the Rings
+13. The Lion, the Witch and the Wardrobe
+14. The Hobbit
+15. The Great Gatsby
+16. The Giver
+17. The Chronicles of Narnia: Prince Caspian
+18. The Bell Jar
+19. The Notebook (novel)
+20. The Picture of Dorian Gray
+21. Nineteen Eighty-Four
+22. Macbeth
+23. Love & Respect
+24. Lolita
+25. Into Thin Air
+26. Inkdeath
+27. Goodnight Moon
+28. George's Marvellous Medicine
+29. Faster than a Kiss
+30. Fierce Invalids Home from Hot Climates
+31. Diary of a Wimpy Kid (series)
+32. Common Sense (pamphlet)
+33. Bible
+34. A Wind in the Door
+35. A Swiftly Tilting Planet
+36. A Series of Unfortunate Events
+37. A Widow for One Year
+38. A Tale of Two Cities by Charles Dickens
+39. A Wind in the Door
+40. A Swiftly Tilting Planet
+41. A Widow for One Year
+42. A Series of Unfortunate Events
+43. A Tale of Two Cities by Charles Dickens
+44. A Wind in the Door
+45. A Swiftly Tilting Planet
+46. A Widow for One Year
+47. A Series of Unfortunate Events
+48. A Tale of Two Cities by Charles Dickens
+49. A Wind in the Door
+50. A Swiftly Tilting Planet
+
+These recommendations are based on the user's liking for classic literature, mystery, and coming-of-age stories.

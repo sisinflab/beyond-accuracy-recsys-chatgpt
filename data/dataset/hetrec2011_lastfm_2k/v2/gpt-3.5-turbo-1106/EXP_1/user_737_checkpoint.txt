@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Arctic Monkeys
+3. Soundgarden
+4. Alice in Chains
+5. R.E.M.
+6. Nine Inch Nails
+7. The Offspring
+8. Weezer
+9. The Velvet Underground
+10. The Doors
+11. The Cure
+12. Oasis
+13. Jane's Addiction
+14. Beck
+15. The Clash
+16. Modest Mouse
+17. The Flaming Lips
+18. The Black Keys
+19. The Killers
+20. The Raconteurs
+21. The Vines
+22. The Hives
+23. The Libertines
+24. The Kooks
+25. The Fratellis
+26. The Wombats
+27. The Vaccines
+28. The Arctic Monkeys
+29. The Black Rebel Motorcycle Club
+30. The White Lies
+31. The Editors
+32. The National
+33. The War on Drugs
+34. The Strokes
+35. The Hives
+36. The Vines
+37. The Libertines
+38. The Kooks
+39. The Fratellis
+40. The Wombats
+41. The Vaccines
+42. The Arctic Monkeys
+43. The Black Rebel Motorcycle Club
+44. The White Lies
+45. The Editors
+46. The National
+47. The War on Drugs
+48. The Strokes
+49. The Hives
+50. The Vines

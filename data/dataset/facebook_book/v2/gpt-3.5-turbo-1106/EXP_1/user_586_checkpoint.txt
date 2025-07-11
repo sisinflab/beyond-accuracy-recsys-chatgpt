@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. Pride and Prejudice by Jane Austen
+5. The Catcher in the Rye by J.D. Salinger
+6. Moby-Dick by Herman Melville
+7. Frankenstein by Mary Shelley
+8. The Picture of Dorian Gray by Oscar Wilde
+9. Wuthering Heights by Emily Brontë
+10. Jane Eyre by Charlotte Brontë
+11. Crime and Punishment by Fyodor Dostoevsky
+12. The Grapes of Wrath by John Steinbeck
+13. One Hundred Years of Solitude by Gabriel García Márquez
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. The Count of Monte Cristo by Alexandre Dumas
+16. The Scarlet Letter by Nathaniel Hawthorne
+17. The Odyssey by Homer
+18. The Divine Comedy by Dante Alighieri
+19. Les Misérables by Victor Hugo
+20. Anna Karenina by Leo Tolstoy
+21. War and Peace by Leo Tolstoy
+22. Don Quixote by Miguel de Cervantes
+23. The Iliad by Homer
+24. The Stranger by Albert Camus
+25. The Trial by Franz Kafka
+26. The Metamorphosis by Franz Kafka
+27. The Sun Also Rises by Ernest Hemingway
+28. The Old Man and the Sea by Ernest Hemingway
+29. The Sound and the Fury by William Faulkner
+30. As I Lay Dying by William Faulkner
+31. Heart of Darkness by Joseph Conrad
+32. Lord Jim by Joseph Conrad
+33. The Call of the Wild by Jack London
+34. White Fang by Jack London
+35. The Jungle Book by Rudyard Kipling
+36. Kim by Rudyard Kipling
+37. The Three Musketeers by Alexandre Dumas
+38. The Hunchback of Notre-Dame by Victor Hugo
+39. The War of the Worlds by H.G. Wells
+40. The Time Machine by H.G. Wells
+41. The Invisible Man by H.G. Wells
+42. The Island of Doctor Moreau by H.G. Wells
+43. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+44. The Hound of the Baskervilles by Arthur Conan Doyle
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Portrait of a Lady by Henry James
+48. The Turn of the Screw by Henry James
+49. The Age of Innocence by Edith Wharton
+50. Ethan Frome by Edith Wharton
+
+These recommendations are based on the user's interest in classic literature and similar authors to the ones they have already enjoyed.

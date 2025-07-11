@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Killers
+2. Arctic Monkeys
+3. Lana Del Rey
+4. Adele
+5. Taylor Swift
+6. The Strokes
+7. Lana Del Rey
+8. HAIM
+9. Lorde
+10. Tame Impala
+11. Florence + The Machine
+12. Sia
+13. The Weeknd
+14. Lana Del Rey
+15. Halsey
+16. Dua Lipa
+17. Billie Eilish
+18. The 1975
+19. Bastille
+20. CHVRCHES
+21. Paramore
+22. Charli XCX
+23. Grimes
+24. Twenty One Pilots
+25. Panic! At The Disco
+26. CHVRCHES
+27. Paramore
+28. Charli XCX
+29. Grimes
+30. Twenty One Pilots
+31. Panic! At The Disco
+32. CHVRCHES
+33. Paramore
+34. Charli XCX
+35. Grimes
+36. Twenty One Pilots
+37. Panic! At The Disco
+38. CHVRCHES
+39. Paramore
+40. Charli XCX
+41. Grimes
+42. Twenty One Pilots
+43. Panic! At The Disco
+44. CHVRCHES
+45. Paramore
+46. Charli XCX
+47. Grimes
+48. Twenty One Pilots
+49. Panic! At The Disco
+50. CHVRCHES
+
+These recommendations are based on the user's liking of similar artists and are intended to provide a diverse range of options for the user to explore.

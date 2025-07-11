@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Crime and Punishment by Fyodor Dostoevsky
+6. One Hundred Years of Solitude by Gabriel García Márquez
+7. The Picture of Dorian Gray by Oscar Wilde
+8. Brave New World by Aldous Huxley
+9. The Handmaid's Tale by Margaret Atwood
+10. The Road by Cormac McCarthy
+11. The Kite Runner by Khaled Hosseini
+12. The Alchemist by Paulo Coelho
+13. The Book Thief by Markus Zusak
+14. The Grapes of Wrath by John Steinbeck
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Stranger by Albert Camus
+18. Slaughterhouse-Five by Kurt Vonnegut
+19. The Brothers Karamazov by Fyodor Dostoevsky
+20. Anna Karenina by Leo Tolstoy
+21. The Count of Monte Cristo by Alexandre Dumas
+22. The Name of the Rose by Umberto Eco
+23. The Secret History by Donna Tartt
+24. The Goldfinch by Donna Tartt
+25. The Night Circus by Erin Morgenstern
+26. The Secret Garden by Frances Hodgson Burnett
+27. The Little Prince by Antoine de Saint-Exupéry
+28. The Chronicles of Narnia by C.S. Lewis
+29. The Hobbit by J.R.R. Tolkien
+30. The Lord of the Rings by J.R.R. Tolkien
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Help by Kathryn Stockett
+33. The Color Purple by Alice Walker
+34. The Handmaid's Tale by Margaret Atwood
+35. The Road by Cormac McCarthy
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Book Thief by Markus Zusak
+38. The Grapes of Wrath by John Steinbeck
+39. The Sun Also Rises by Ernest Hemingway
+40. The Old Man and the Sea by Ernest Hemingway
+41. The Stranger by Albert Camus
+42. Slaughterhouse-Five by Kurt Vonnegut
+43. The Brothers Karamazov by Fyodor Dostoevsky
+44. Anna Karenina by Leo Tolstoy
+45. The Count of Monte Cristo by Alexandre Dumas
+46. The Name of the Rose by Umberto Eco
+47. The Secret History by Donna Tartt
+48. The Goldfinch by Donna Tartt
+49. The Night Circus by Erin Morgenstern
+50. The Secret Garden by Frances Hodgson Burnett
+
+These recommendations are based on the user's interest in classic literature, gothic fiction, and historical novels.

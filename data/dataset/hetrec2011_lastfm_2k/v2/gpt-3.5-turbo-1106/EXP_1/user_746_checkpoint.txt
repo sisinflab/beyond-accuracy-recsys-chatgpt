@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bullet for My Valentine
+2. Killswitch Engage
+3. Trivium
+4. AFI
+5. Chevelle
+6. Breaking Benjamin
+7. Seether
+8. Shinedown
+9. Stone Sour
+10. 10 Years
+11. The Used
+12. Story of the Year
+13. Silverstein
+14. Anberlin
+15. Red
+16. Three Days Grace
+17. Skillet
+18. P.O.D.
+19. 30 Seconds to Mars
+20. Linkin Park
+21. Rise Against
+22. Deftones
+23. Papa Roach
+24. Staind
+25. Theory of a Deadman
+26. Sevendust
+27. Evans Blue
+28. Crossfade
+29. Flyleaf
+30. Adelitas Way
+31. Art of Dying
+32. Drowning Pool
+33. Nonpoint
+34. Saliva
+35. Fuel
+36. Hinder
+37. Pop Evil
+38. Egypt Central
+39. Sick Puppies
+40. Rev Theory
+41. Trust Company
+42. Smile Empty Soul
+43. Tantric
+44. Earshot
+45. Taproot
+46. Cold
+47. Default
+48. 12 Stones
+49. Adema
+50. Flaw
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tame Impala
+2. Arctic Monkeys
+3. Lana Del Rey
+4. The Strokes
+5. Vampire Weekend
+6. HAIM
+7. Lorde
+8. The 1975
+9. Charli XCX
+10. CHVRCHES
+11. Bastille
+12. Foster the People
+13. Paramore
+14. Grimes
+15. The Neighbourhood
+16. Florence + the Machine
+17. The Killers
+18. M83
+19. Phoenix
+20. The xx
+21. Two Door Cinema Club
+22. Glass Animals
+23. Cage The Elephant
+24. Foals
+25. The Naked and Famous
+26. Passion Pit
+27. Metric
+28. The Wombats
+29. Grouplove
+30. Empire of the Sun
+31. The Vaccines
+32. The Kooks
+33. Franz Ferdinand
+34. Bloc Party
+35. The Hives
+36. The Bravery
+37. The Ting Tings
+38. The Fratellis
+39. The Pigeon Detectives
+40. The Zutons
+41. The Libertines
+42. The Rakes
+43. The Futureheads
+44. Maxïmo Park
+45. The View
+46. The Cribs
+47. The Maccabees
+48. The Courteeners
+49. The Enemy
+50. The Twang
+
+These recommendations are based on the user's liking of indie and alternative pop/rock artists and bands.

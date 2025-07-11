@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Atreyu
+2. Bring Me The Horizon
+3. Escape the Fate
+4. Falling in Reverse
+5. All Time Low
+6. The Used
+7. Silverstein
+8. Hawthorne Heights
+9. Alesana
+10. Blessthefall
+11. Sleeping with Sirens
+12. Pierce the Veil
+13. We Came as Romans
+14. Motionless in White
+15. Crown the Empire
+16. Of Mice & Men
+17. The Amity Affliction
+18. Memphis May Fire
+19. A Day to Remember
+20. Asking Alexandria
+21. Bullet for My Valentine
+22. Avenged Sevenfold
+23. A Skylit Drive
+24. Sonic Syndicate
+25. Paramore
+26. Funeral for a Friend
+27. My Chemical Romance
+28. Dead by April
+29. Lostprophets
+30. AFI
+31. Incubus
+32. In This Moment
+33. Theory of a Deadman
+34. VersaEmerge
+35. Coheed and Cambria
+36. Saosin
+37. Creed
+38. The Dillinger Escape Plan
+39. Story of the Year
+40. Yellowcard
+41. Slipknot
+42. Pixie Lott
+43. Stone Sour
+44. Volbeat
+45. Keri Hilson
+46. August Burns Red
+47. Michael Jackson
+48. Three Days Grace
+49. Seether
+50. Shinedown
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music within the user's preferred genres.

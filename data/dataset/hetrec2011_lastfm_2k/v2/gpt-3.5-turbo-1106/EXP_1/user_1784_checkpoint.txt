@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Summer Set
+2. We the Kings
+3. The Wombats
+4. The 1975
+5. Panic! At The Disco
+6. The Neighbourhood
+7. Twenty One Pilots
+8. Foster The People
+9. Young the Giant
+10. Walk the Moon
+11. Two Door Cinema Club
+12. The Strokes
+13. Vampire Weekend
+14. The Killers
+15. Arctic Monkeys
+16. The Kooks
+17. The Fratellis
+18. Franz Ferdinand
+19. The Vaccines
+20. The Libertines
+21. The Hives
+22. The Bravery
+23. The Strokes
+24. The Vines
+25. The Raconteurs
+26. The Black Keys
+27. The White Stripes
+28. The Arctic Monkeys
+29. The Fratellis
+30. The Kooks
+31. The Wombats
+32. The Vaccines
+33. The Libertines
+34. The Hives
+35. The Bravery
+36. The Strokes
+37. The Vines
+38. The Raconteurs
+39. The Black Keys
+40. The White Stripes
+41. The Arctic Monkeys
+42. The Fratellis
+43. The Kooks
+44. The Wombats
+45. The Vaccines
+46. The Libertines
+47. The Hives
+48. The Bravery
+49. The Strokes
+50. The Vines
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of options within the user's preferred genres.

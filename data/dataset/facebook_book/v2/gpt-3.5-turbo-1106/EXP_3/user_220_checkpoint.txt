@@ -1,0 +1,52 @@
+Based on user 220's preferences, here are the top 50 book recommendations:
+
+1. The Outsiders (novel) by S. E. Hinton
+2. Sense and Sensibility by Jane Austen
+3. Emma (novel) by Jane Austen
+4. The Prophet (book) by Kahlil Gibran
+5. Beloved (novel) by Toni Morrison
+6. Room (novel) by Emma Donoghue
+7. The Heart Is a Lonely Hunter by Carson McCullers
+8. Drawing Blood by Poppy Z. Brite
+9. Twilight (series)
+10. A Wrinkle in Time
+11. To Kill a Mockingbird
+12. A Thousand Splendid Suns
+13. Harry Potter
+14. The Da Vinci Code
+15. The Lord of the Rings
+16. Fahrenheit 451
+17. Catching Fire
+18. Anne of Green Gables
+19. The Secret Garden
+20. Dune (novel)
+21. Persepolis (comics)
+22. Let the Right One In (novel)
+23. Wuthering Heights
+24. The Book Thief
+25. The Southern Vampire Mysteries
+26. The Swiss Family Robinson
+27. The Hours (novel)
+28. Jane Eyre
+29. Carrie (novel)
+30. Howl
+31. Tithe: A Modern Faerie Tale
+32. Crank (novel)
+33. Dawn (Andrews novel)
+34. The Age of Innocence
+35. The Scarlet Letter
+36. Frankenstein
+37. Glass (novel)
+38. Nineteen Eighty-Four
+39. Dear John (novel)
+40. Petals on the Wind
+41. Candide
+42. Steppenwolf (novel)
+43. Island of the Blue Dolphins
+44. The Jungle Book
+45. The Secret Garden
+46. Ragtime (novel)
+47. Cheaper by the Dozen
+48. Invisible Man
+49. Looking for Alaska
+50. Goodnight Mister Tom

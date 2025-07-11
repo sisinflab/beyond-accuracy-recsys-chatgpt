@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Wuthering Heights by Emily Brontë
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Secret History by Donna Tartt
+9. Rebecca by Daphne du Maurier
+10. The Bell Jar by Sylvia Plath
+11. The Handmaid's Tale by Margaret Atwood
+12. The Night Circus by Erin Morgenstern
+13. The Shadow of the Wind by Carlos Ruiz Zafón
+14. The Name of the Wind by Patrick Rothfuss
+15. The Goldfinch by Donna Tartt
+16. The Book Thief by Markus Zusak
+17. The Alchemist by Paulo Coelho
+18. The Kite Runner by Khaled Hosseini
+19. The Secret Garden by Frances Hodgson Burnett
+20. Little Women by Louisa May Alcott
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Lovely Bones by Alice Sebold
+23. The Nightingale by Kristin Hannah
+24. The Help by Kathryn Stockett
+25. The Girl on the Train by Paula Hawkins
+26. The Thirteenth Tale by Diane Setterfield
+27. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows
+28. The Miniaturist by Jessie Burton
+29. The Essex Serpent by Sarah Perry
+30. The Snow Child by Eowyn Ivey
+31. The Light Between Oceans by M.L. Stedman
+32. The Night Circus by Erin Morgenstern
+33. The Golem and the Jinni by Helene Wecker
+34. The Bear and the Nightingale by Katherine Arden
+35. The Immortalists by Chloe Benjamin
+36. The Mermaid and Mrs. Hancock by Imogen Hermes Gowar
+37. The Song of Achilles by Madeline Miller
+38. The Nightingale by Kristin Hannah
+39. The Help by Kathryn Stockett
+40. The Girl on the Train by Paula Hawkins
+41. The Thirteenth Tale by Diane Setterfield
+42. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows
+43. The Miniaturist by Jessie Burton
+44. The Essex Serpent by Sarah Perry
+45. The Snow Child by Eowyn Ivey
+46. The Light Between Oceans by M.L. Stedman
+47. The Night Circus by Erin Morgenstern
+48. The Golem and the Jinni by Helene Wecker
+49. The Bear and the Nightingale by Katherine Arden
+50. The Immortalists by Chloe Benjamin
+
+These recommendations are based on the user's preference for classic literature, mystery, and historical fiction.

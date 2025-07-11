@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Metallica
+2. Nirvana
+3. Iron Maiden
+4. Black Sabbath
+5. Slipknot
+6. System of a Down
+7. Megadeth
+8. Pantera
+9. Slayer
+10. Red Hot Chili Peppers
+11. The Offspring
+12. Blackmore's Night
+13. Ozzy Osbourne
+14. Motörhead
+15. King Diamond
+16. Sepultura
+17. Korpiklaani
+18. Kreator
+19. Children of Bodom
+20. Alestorm
+21. Infected Mushroom
+22. Bloodhound Gang
+23. The Prodigy
+24. Noize MC
+25. Britney Spears
+26. Lady Gaga
+27. Christina Aguilera
+28. Madonna
+29. Rihanna
+30. Shakira
+31. The Beatles
+32. Katy Perry
+33. Avril Lavigne
+34. Taylor Swift
+35. Evanescence
+36. Glee Cast
+37. Beyoncé
+38. U2
+39. 30 Seconds to Mars
+40. Muse
+41. Pink Floyd
+42. Kylie Minogue
+43. Miley Cyrus
+44. Radiohead
+45. Ke$ha
+46. Duran Duran
+47. Coldplay
+48. Blur
+49. Arctic Monkeys
+50. Placebo
+
+This re-ranked list takes into account the user's liking for heavy metal and rock artists and suggests similar genres and popular artists that the user might enjoy based on their preferences.

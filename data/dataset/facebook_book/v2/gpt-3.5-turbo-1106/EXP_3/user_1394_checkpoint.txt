@@ -1,0 +1,54 @@
+Based on user 1394's preferences, here are the top 50 recommendations:
+
+1. Harry Potter
+2. The Chronicles of Narnia: Prince Caspian
+3. The Lion, the Witch and the Wardrobe
+4. Catching Fire
+5. The Old Man and the Sea
+6. The Time Traveler's Wife
+7. The Host (novel)
+8. The Da Vinci Code
+9. Twilight (series)
+10. Inkheart
+11. Inkspell
+12. Inkdeath
+13. Percy Jackson & the Olympians
+14. The Secret Garden
+15. The Little Prince
+16. The Cat in the Hat
+17. The Jungle Book
+18. The Outsiders (novel)
+19. The Notebook (novel)
+20. The Other Boleyn Girl
+21. The Hardy Boys
+22. The Black Cauldron (novel)
+23. The World as Will and Representation
+24. The God of Small Things
+25. The Secret (book)
+26. The Lord of the Rings
+27. The Host (novel)
+28. The Time Traveler's Wife
+29. The Da Vinci Code
+30. Twilight (series)
+31. The Secret Garden
+32. The Little Prince
+33. The Cat in the Hat
+34. The Jungle Book
+35. The Outsiders (novel)
+36. The Notebook (novel)
+37. The Other Boleyn Girl
+38. The Hardy Boys
+39. The Black Cauldron (novel)
+40. The World as Will and Representation
+41. The God of Small Things
+42. The Secret (book)
+43. The Lord of the Rings
+44. The Host (novel)
+45. The Time Traveler's Wife
+46. The Da Vinci Code
+47. Twilight (series)
+48. The Secret Garden
+49. The Little Prince
+50. The Cat in the Hat
+
+These recommendations are based on the user's previous likes and are ranked according to their potential appeal to the user.

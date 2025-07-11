@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Thousand Splendid Suns by Khaled Hosseini
+2. And the Birds Rained Down by Jocelyne Saucier
+3. The Book of Negroes by Lawrence Hill
+4. The Illegal by Lawrence Hill
+5. The Inconvenient Indian by Thomas King
+6. The Round House by Louise Erdrich
+7. The Sisters Brothers by Patrick deWitt
+8. The Orenda by Joseph Boyden
+9. The Best Laid Plans by Terry Fallis
+10. The High Road by Terry Fallis
+11. The Rosie Project by Graeme Simsion
+12. The Rosie Effect by Graeme Simsion
+13. The Light Between Oceans by M.L. Stedman
+14. The Night Circus by Erin Morgenstern
+15. The Time Traveler's Wife by Audrey Niffenegger
+16. The Glass Castle by Jeannette Walls
+17. The Help by Kathryn Stockett
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Color Purple by Alice Walker
+20. The Joy Luck Club by Amy Tan
+21. The Kitchen God's Wife by Amy Tan
+22. The Bonesetter's Daughter by Amy Tan
+23. The Alchemist by Paulo Coelho
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Nightingale by Kristin Hannah
+26. The Great Alone by Kristin Hannah
+27. The Nightingale by Kristin Hannah
+28. The Great Alone by Kristin Hannah
+29. The Nightingale by Kristin Hannah
+30. The Great Alone by Kristin Hannah
+31. The Nightingale by Kristin Hannah
+32. The Great Alone by Kristin Hannah
+33. The Nightingale by Kristin Hannah
+34. The Great Alone by Kristin Hannah
+35. The Nightingale by Kristin Hannah
+36. The Great Alone by Kristin Hannah
+37. The Nightingale by Kristin Hannah
+38. The Great Alone by Kristin Hannah
+39. The Nightingale by Kristin Hannah
+40. The Great Alone by Kristin Hannah
+41. The Nightingale by Kristin Hannah
+42. The Great Alone by Kristin Hannah
+43. The Nightingale by Kristin Hannah
+44. The Great Alone by Kristin Hannah
+45. The Nightingale by Kristin Hannah
+46. The Great Alone by Kristin Hannah
+47. The Nightingale by Kristin Hannah
+48. The Great Alone by Kristin Hannah
+49. The Nightingale by Kristin Hannah
+50. The Great Alone by Kristin Hannah
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1178 likes.

@@ -1,0 +1,52 @@
+Based on user 840's preferences, here are the top-50 book recommendations:
+
+1. The Hunger Games
+2. The Hobbit
+3. The Lion, the Witch and the Wardrobe
+4. The Lovely Bones
+5. The Time Traveler's Wife
+6. Frankenstein
+7. The Shadow of the Wind
+8. The Giver
+9. The Little Prince
+10. Dracula
+11. The Screwtape Letters
+12. The Da Vinci Code
+13. The Maze Runner
+14. Hoot (novel)
+15. The Wish List
+16. The Solitaire Mystery
+17. The Hardy Boys
+18. The Lord of the Rings
+19. Alice's Adventures in Wonderland
+20. The Bourne Supremacy
+21. Sophie's World
+22. Digital Fortress
+23. Holes (novel)
+24. Duma Key
+25. The Last Olympian
+26. For One More Day
+27. The Picture of Dorian Gray
+28. Angels & Demons
+29. Have a Little Faith (Mitch Albom book)
+30. The Boy in the Striped Pyjamas
+31. The Swiss Family Robinson
+32. The Hunchback of Notre-Dame
+33. The Screwtape Letters
+34. The Maze Runner
+35. Nancy Drew
+36. Twilight (series)
+37. Pride and Prejudice
+38. Peter and Wendy
+39. Nineteen Eighty-Four
+40. The Wish List
+41. The Hatchet (novel)
+42. Diary of a Wimpy Kid (series)
+43. Moby-Dick
+44. Quidditch Through the Ages
+45. Sarah's Key (novel)
+46. The Time Traveler's Wife
+47. Around the World in Eighty Days
+48. Fantastic Beasts and Where to Find Them
+49. Anne of Green Gables
+50. Demian

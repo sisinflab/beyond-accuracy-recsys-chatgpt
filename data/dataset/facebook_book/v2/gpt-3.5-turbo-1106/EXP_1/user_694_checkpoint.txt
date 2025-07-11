@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Notebook by Nicholas Sparks
+3. The Great Gatsby by F. Scott Fitzgerald
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. 1984 by George Orwell
+7. The Hunger Games by Suzanne Collins
+8. The Da Vinci Code by Dan Brown
+9. Gone Girl by Gillian Flynn
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. The Alchemist by Paulo Coelho
+12. The Shining by Stephen King
+13. The Road by Cormac McCarthy
+14. The Martian by Andy Weir
+15. The Kite Runner by Khaled Hosseini
+16. The Help by Kathryn Stockett
+17. The Lovely Bones by Alice Sebold
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+20. The Book Thief by Markus Zusak
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Glass Castle by Jeannette Walls
+23. The Night Circus by Erin Morgenstern
+24. The Goldfinch by Donna Tartt
+25. The Handmaid's Tale by Margaret Atwood
+26. The Giver by Lois Lowry
+27. The Maze Runner by James Dashner
+28. The Perks of Being a Wallflower by Stephen Chbosky
+29. The Outsiders by S.E. Hinton
+30. The Sun Also Rises by Ernest Hemingway
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Bell Jar by Sylvia Plath
+33. The Road Not Taken by Robert Frost
+34. The Old Man and the Sea by Ernest Hemingway
+35. The Stranger by Albert Camus
+36. The Grapes of Wrath by John Steinbeck
+37. The Scarlet Letter by Nathaniel Hawthorne
+38. The Count of Monte Cristo by Alexandre Dumas
+39. The Adventures of Huckleberry Finn by Mark Twain
+40. The War of the Worlds by H.G. Wells
+41. The Invisible Man by H.G. Wells
+42. The Time Machine by H.G. Wells
+43. The Island of Dr. Moreau by H.G. Wells
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Importance of Being Earnest by Oscar Wilde
+46. The Canterville Ghost by Oscar Wilde
+47. The Happy Prince and Other Tales by Oscar Wilde
+48. The Call of the Wild by Jack London
+49. The Sea-Wolf by Jack London
+50. White Fang by Jack London
+
+These recommendations are based on the user's interest in various genres and authors, and aim to provide a diverse selection of books to explore.

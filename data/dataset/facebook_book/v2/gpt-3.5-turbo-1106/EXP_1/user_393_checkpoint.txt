@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Pride and Prejudice by Jane Austen
+6. The Hobbit by J.R.R. Tolkien
+7. The Hunger Games by Suzanne Collins
+8. The Book Thief by Markus Zusak
+9. The Fault in Our Stars by John Green
+10. The Alchemist by Paulo Coelho
+11. The Kite Runner by Khaled Hosseini
+12. The Girl on the Train by Paula Hawkins
+13. Gone Girl by Gillian Flynn
+14. The Night Circus by Erin Morgenstern
+15. The Secret History by Donna Tartt
+16. The Goldfinch by Donna Tartt
+17. The Martian by Andy Weir
+18. The Help by Kathryn Stockett
+19. The Handmaid's Tale by Margaret Atwood
+20. The Road by Cormac McCarthy
+21. The Giver by Lois Lowry
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Lovely Bones by Alice Sebold
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Glass Castle by Jeannette Walls
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Bell Jar by Sylvia Plath
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Count of Monte Cristo by Alexandre Dumas
+30. The Name of the Wind by Patrick Rothfuss
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Nightingale by Kristin Hannah
+33. The Light Between Oceans by M.L. Stedman
+34. The Rosie Project by Graeme Simsion
+35. The Thirteenth Tale by Diane Setterfield
+36. The Secret Life of Bees by Sue Monk Kidd
+37. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+38. The Poisonwood Bible by Barbara Kingsolver
+39. The Glass Menagerie by Tennessee Williams
+40. The Color Purple by Alice Walker
+41. The Joy Luck Club by Amy Tan
+42. The Handmaid's Tale by Margaret Atwood
+43. The Road by Cormac McCarthy
+44. The Giver by Lois Lowry
+45. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+46. The Lovely Bones by Alice Sebold
+47. The Time Traveler's Wife by Audrey Niffenegger
+48. The Glass Castle by Jeannette Walls
+49. The Perks of Being a Wallflower by Stephen Chbosky
+50. The Bell Jar by Sylvia Plath
+
+These recommendations are based on the user's liking for books such as "Nectar in a Sieve" by Kamala Markandaya, "Inkheart" by Cornelia Funke, "What Is the What" by Dave Eggers, "Animal Farm" by George Orwell, "Dune" by Frank Herbert, "Thirteen Reasons Why" by Jay Asher, and "Wuthering Heights" by Emily Brontë.

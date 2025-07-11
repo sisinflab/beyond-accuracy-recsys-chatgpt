@@ -1,0 +1,54 @@
+Based on user 112's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. Crime and Punishment by Fyodor Dostoyevsky
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Bell Jar by Sylvia Plath
+10. The Handmaid's Tale by Margaret Atwood
+11. The Stranger by Albert Camus
+12. The Road by Cormac McCarthy
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Grapes of Wrath by John Steinbeck
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Alchemist by Paulo Coelho
+18. The Book Thief by Markus Zusak
+19. The Kite Runner by Khaled Hosseini
+20. The Secret History by Donna Tartt
+21. The Goldfinch by Donna Tartt
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Name of the Wind by Patrick Rothfuss
+24. The Night Circus by Erin Morgenstern
+25. The Martian by Andy Weir
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Girl on the Train by Paula Hawkins
+28. The Handmaid's Tale by Margaret Atwood
+29. The Road by Cormac McCarthy
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Grapes of Wrath by John Steinbeck
+32. The Sun Also Rises by Ernest Hemingway
+33. The Old Man and the Sea by Ernest Hemingway
+34. The Alchemist by Paulo Coelho
+35. The Book Thief by Markus Zusak
+36. The Kite Runner by Khaled Hosseini
+37. The Secret History by Donna Tartt
+38. The Goldfinch by Donna Tartt
+39. The Shadow of the Wind by Carlos Ruiz Zafón
+40. The Name of the Wind by Patrick Rothfuss
+41. The Night Circus by Erin Morgenstern
+42. The Martian by Andy Weir
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Girl on the Train by Paula Hawkins
+45. The Handmaid's Tale by Margaret Atwood
+46. The Road by Cormac McCarthy
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Grapes of Wrath by John Steinbeck
+49. The Sun Also Rises by Ernest Hemingway
+50. The Old Man and the Sea by Ernest Hemingway
+
+These recommendations are based on similar themes, genres, and authors to the books that user 112 likes.

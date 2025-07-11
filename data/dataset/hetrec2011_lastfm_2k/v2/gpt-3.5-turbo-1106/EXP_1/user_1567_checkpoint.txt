@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Maroon 5
+2. OneRepublic
+3. Kelly Clarkson
+4. The Fray
+5. 3 Doors Down
+6. Coldplay
+7. Train
+8. Paramore
+9. Linkin Park
+10. Avril Lavigne
+11. Imagine Dragons
+12. The Script
+13. Goo Goo Dolls
+14. Hinder
+15. 30 Seconds to Mars
+16. P!nk
+17. Fall Out Boy
+18. Kelly Rowland
+19. Adam Lambert
+20. Demi Lovato
+21. The All-American Rejects
+22. The Calling
+23. Simple Plan
+24. Good Charlotte
+25. Hoobastank
+26. The Cranberries
+27. Owl City
+28. The Goo Goo Dolls
+29. The Verve
+30. The Cardigans
+31. The Corrs
+32. The Cranberries
+33. The Smashing Pumpkins
+34. The Offspring
+35. The Cranberries
+36. The Verve Pipe
+37. The Wallflowers
+38. The Cranberries
+39. The Smashing Pumpkins
+40. The Offspring
+41. The Cranberries
+42. The Verve Pipe
+43. The Wallflowers
+44. The Cranberries
+45. The Smashing Pumpkins
+46. The Offspring
+47. The Cranberries
+48. The Verve Pipe
+49. The Wallflowers
+50. The Cranberries
+
+These recommendations are based on the user's liking of rock and pop artists and bands.

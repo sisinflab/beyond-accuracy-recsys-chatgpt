@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Marked (A House of Night novel) by P.C. Cast
+2. Twilight (The Twilight Saga, Book 1) by Stephenie Meyer
+3. Hush, Hush (Hush, Hush Saga) by Becca Fitzpatrick
+4. The Vampire Diaries: The Awakening by L.J. Smith
+5. Beautiful Creatures by Kami Garcia and Margaret Stohl
+6. Fallen by Lauren Kate
+7. The Secret Circle: The Initiation by L.J. Smith
+8. The Mortal Instruments: City of Bones by Cassandra Clare
+9. The Summoning (Darkest Powers, Book 1) by Kelley Armstrong
+10. The Clique by Lisi Harrison
+11. The It Girl by Cecily von Ziegesar
+12. Gossip Girl by Cecily von Ziegesar
+13. The Luxe by Anna Godbersen
+14. The A-List by Zoey Dean
+15. The Ashleys by Melissa de la Cruz
+16. The Uglies by Scott Westerfeld
+17. The Hunger Games by Suzanne Collins
+18. Divergent by Veronica Roth
+19. The Maze Runner by James Dashner
+20. The 5th Wave by Rick Yancey
+21. The Selection by Kiera Cass
+22. Matched by Ally Condie
+23. Delirium by Lauren Oliver
+24. Shiver (The Wolves of Mercy Falls) by Maggie Stiefvater
+25. Linger (The Wolves of Mercy Falls) by Maggie Stiefvater
+26. Forever (The Wolves of Mercy Falls) by Maggie Stiefvater
+27. The Giver by Lois Lowry
+28. Gathering Blue by Lois Lowry
+29. Messenger by Lois Lowry
+30. Son by Lois Lowry
+31. The Outsiders by S.E. Hinton
+32. Speak by Laurie Halse Anderson
+33. Thirteen Reasons Why by Jay Asher
+34. The Perks of Being a Wallflower by Stephen Chbosky
+35. Looking for Alaska by John Green
+36. Paper Towns by John Green
+37. An Abundance of Katherines by John Green
+38. Before I Fall by Lauren Oliver
+39. If I Stay by Gayle Forman
+40. The Fault in Our Stars by John Green
+41. Eleanor & Park by Rainbow Rowell
+42. Fangirl by Rainbow Rowell
+43. Landline by Rainbow Rowell
+44. Attachments by Rainbow Rowell
+45. The Sisterhood of the Traveling Pants by Ann Brashares
+46. The Second Summer of the Sisterhood by Ann Brashares
+47. Girls in Pants: The Third Summer of the Sisterhood by Ann Brashares
+48. Forever in Blue: The Fourth Summer of the Sisterhood by Ann Brashares
+49. Tuck Everlasting by Natalie Babbitt
+50. The Search for Delicious by Natalie Babbitt
+
+These recommendations are based on the user's interest in supernatural/fantasy novels, young adult fiction, and coming-of-age stories.

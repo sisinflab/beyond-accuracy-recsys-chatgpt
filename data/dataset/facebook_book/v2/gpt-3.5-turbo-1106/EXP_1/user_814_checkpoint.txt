@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. Fahrenheit 451 by Ray Bradbury
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Grapes of Wrath by John Steinbeck
+10. Catch-22 by Joseph Heller
+11. The Bell Jar by Sylvia Plath
+12. The Road by Cormac McCarthy
+13. The Stranger by Albert Camus
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Sound and the Fury by William Faulkner
+20. The Road Not Taken by Robert Frost
+21. The Waste Land by T.S. Eliot
+22. The Canterbury Tales by Geoffrey Chaucer
+23. The Divine Comedy by Dante Alighieri
+24. The Odyssey by Homer
+25. The Aeneid by Virgil
+26. The Metamorphosis by Franz Kafka
+27. The Trial by Franz Kafka
+28. The Stranger by Albert Camus
+29. The Plague by Albert Camus
+30. The Outsider by Albert Camus
+31. The Little Prince by Antoine de Saint-Exupéry
+32. The Love Song of J. Alfred Prufrock by T.S. Eliot
+33. The Outsiders by S.E. Hinton
+34. Less Than Zero by Bret Easton Ellis
+35. Howl by Allen Ginsberg
+36. For Whom the Bell Tolls by Ernest Hemingway
+37. Ariel by Sylvia Plath
+38. Iliad by Homer
+39. The Crucible by Arthur Miller
+40. The Scarlet Letter by Nathaniel Hawthorne
+41. Moby-Dick by Herman Melville
+42. Walden by Henry David Thoreau
+43. The Adventures of Huckleberry Finn by Mark Twain
+44. The Adventures of Tom Sawyer by Mark Twain
+45. The Sound and the Fury by William Faulkner
+46. The Old Man and the Sea by Ernest Hemingway
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Brothers Karamazov by Fyodor Dostoevsky
+49. The Road Not Taken by Robert Frost
+50. The Waste Land by T.S. Eliot
+
+These recommendations are based on the user's interest in classic literature, poetry, and contemporary fiction.

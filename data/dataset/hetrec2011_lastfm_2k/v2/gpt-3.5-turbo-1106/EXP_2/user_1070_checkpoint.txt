@@ -1,0 +1,54 @@
+Based on user 1070's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. Paramore
+2. My Chemical Romance
+3. Green Day
+4. Avenged Sevenfold
+5. All Time Low
+6. The Beatles
+7. 30 Seconds to Mars
+8. Blink-182
+9. Sum 41
+10. The Killers
+11. Coldplay
+12. Oasis
+13. A Day to Remember
+14. Papa Roach
+15. Angels & Airwaves
+16. Three Days Grace
+17. Anberlin
+18. Kings of Leon
+19. Michael Bublé
+20. Bowling for Soup
+21. Alexisonfire
+22. Forever the Sickest Kids
+23. +44
+24. Pixie Lott
+25. Britney Spears
+26. Lady Gaga
+27. Christina Aguilera
+28. Madonna
+29. Rihanna
+30. Shakira
+31. Katy Perry
+32. Avril Lavigne
+33. Taylor Swift
+34. Evanescence
+35. Glee Cast
+36. Beyoncé
+37. U2
+38. Muse
+39. Pink Floyd
+40. Kylie Minogue
+41. Miley Cyrus
+42. Radiohead
+43. Ke$ha
+44. Duran Duran
+45. Blur
+46. Arctic Monkeys
+47. Placebo
+48. Nirvana
+49. Iron Maiden
+50. Amy Winehouse
+
+This re-ranked list takes into account user 1070's liking of similar artists and places them higher in the recommendation list.

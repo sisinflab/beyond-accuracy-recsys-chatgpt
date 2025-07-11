@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Massive Attack
+2. Morcheeba
+3. DJ Shadow
+4. Air
+5. Goldfrapp
+6. Lamb
+7. Kruder & Dorfmeister
+8. Röyksopp
+9. Nightmares on Wax
+10. Boards of Canada
+11. Morcheeba
+12. Thievery Corporation
+13. Portishead
+14. Zero 7
+15. Bonobo
+16. Emancipator
+17. Little Dragon
+18. The Cinematic Orchestra
+19. Fila Brazillia
+20. Tosca
+21. St. Germain
+22. Quantic
+23. Bonobo
+24. Nightmares on Wax
+25. Zero 7
+26. Air
+27. Röyksopp
+28. Emancipator
+29. Morcheeba
+30. Goldfrapp
+31. Lamb
+32. DJ Shadow
+33. Boards of Canada
+34. Massive Attack
+35. Kruder & Dorfmeister
+36. The Cinematic Orchestra
+37. Little Dragon
+38. Fila Brazillia
+39. Thievery Corporation
+40. Portishead
+41. Massive Attack
+42. Morcheeba
+43. DJ Shadow
+44. Air
+45. Goldfrapp
+46. Lamb
+47. Kruder & Dorfmeister
+48. Röyksopp
+49. Nightmares on Wax
+50. Boards of Canada
+
+These recommendations are based on the user's liking of similar artists and genres.

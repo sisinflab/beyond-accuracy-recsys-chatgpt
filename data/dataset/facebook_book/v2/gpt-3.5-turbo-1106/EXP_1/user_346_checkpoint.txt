@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. The Lost Symbol by Dan Brown
+3. Inferno by Dan Brown
+4. Digital Fortress by Dan Brown
+5. The Silmarillion by J.R.R. Tolkien
+6. The Hobbit by J.R.R. Tolkien
+7. The Fellowship of the Ring by J.R.R. Tolkien
+8. The Two Towers by J.R.R. Tolkien
+9. The Return of the King by J.R.R. Tolkien
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. Cat's Cradle by Kurt Vonnegut
+12. Breakfast of Champions by Kurt Vonnegut
+13. Catch-22 by Joseph Heller
+14. Mockingjay by Suzanne Collins
+15. Catching Fire by Suzanne Collins
+16. The Fault in Our Stars by John Green
+17. Wild by Cheryl Strayed
+18. Big Magic by Elizabeth Gilbert
+19. Committed by Elizabeth Gilbert
+20. New Moon by Stephenie Meyer
+21. Eclipse by Stephenie Meyer
+22. Breaking Dawn by Stephenie Meyer
+23. The Book Thief by Markus Zusak
+24. All the Light We Cannot See by Anthony Doerr
+25. The Nightingale by Kristin Hannah
+26. The Kite Runner by Khaled Hosseini
+27. A Thousand Splendid Suns by Khaled Hosseini
+28. The Alchemist by Paulo Coelho
+29. The Zahir by Paulo Coelho
+30. The Valkyries by Paulo Coelho
+31. The Fault in Our Stars by John Green
+32. Paper Towns by John Green
+33. Looking for Alaska by John Green
+34. The Perks of Being a Wallflower by Stephen Chbosky
+35. The Catcher in the Rye by J.D. Salinger
+36. To Kill a Mockingbird by Harper Lee
+37. 1984 by George Orwell
+38. Animal Farm by George Orwell
+39. The Great Gatsby by F. Scott Fitzgerald
+40. The Bell Jar by Sylvia Plath
+41. The Handmaid's Tale by Margaret Atwood
+42. Brave New World by Aldous Huxley
+43. Fahrenheit 451 by Ray Bradbury
+44. The Road by Cormac McCarthy
+45. The Stand by Stephen King
+46. It by Stephen King
+47. Misery by Stephen King
+48. The Shining by Stephen King
+49. Doctor Sleep by Stephen King
+50. Carrie by Stephen King
+
+These recommendations are based on the user's interest in mystery/thriller, fantasy, dystopian, and coming-of-age novels.

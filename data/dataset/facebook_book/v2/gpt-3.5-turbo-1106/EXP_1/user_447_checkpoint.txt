@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Catching Fire by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Lightning Thief by Rick Riordan
+6. The Giver by Lois Lowry
+7. The Chronicles of Narnia by C.S. Lewis
+8. Percy Jackson & the Olympians by Rick Riordan
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. Ender's Game by Orson Scott Card
+12. The Alchemist by Paulo Coelho
+13. The Fault in Our Stars by John Green
+14. To Kill a Mockingbird by Harper Lee
+15. The Outsiders by S.E. Hinton
+16. The Catcher in the Rye by J.D. Salinger
+17. The Great Gatsby by F. Scott Fitzgerald
+18. 1984 by George Orwell
+19. Animal Farm by George Orwell
+20. Brave New World by Aldous Huxley
+21. Fahrenheit 451 by Ray Bradbury
+22. The Handmaid's Tale by Margaret Atwood
+23. The Road by Cormac McCarthy
+24. The Book Thief by Markus Zusak
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. Gone Girl by Gillian Flynn
+27. The Da Vinci Code by Dan Brown
+28. Angels & Demons by Dan Brown
+29. The Girl on the Train by Paula Hawkins
+30. The Silent Patient by Alex Michaelides
+31. The Night Circus by Erin Morgenstern
+32. The Goldfinch by Donna Tartt
+33. The Secret History by Donna Tartt
+34. The Name of the Wind by Patrick Rothfuss
+35. The Lies of Locke Lamora by Scott Lynch
+36. Mistborn: The Final Empire by Brandon Sanderson
+37. The Way of Kings by Brandon Sanderson
+38. The Martian by Andy Weir
+39. Ready Player One by Ernest Cline
+40. Dark Matter by Blake Crouch
+41. The Power of One by Bryce Courtenay
+42. The Kite Runner by Khaled Hosseini
+43. A Thousand Splendid Suns by Khaled Hosseini
+44. The Nightingale by Kristin Hannah
+45. All the Light We Cannot See by Anthony Doerr
+46. Educated by Tara Westover
+47. Where the Crawdads Sing by Delia Owens
+48. Little Fires Everywhere by Celeste Ng
+49. The Silent Patient by Alex Michaelides
+50. The Tattooist of Auschwitz by Heather Morris
+
+These recommendations are based on the user's interest in fantasy, adventure, and popular fiction, as well as some non-fiction titles.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Divergent by Veronica Roth
+3. The Maze Runner by James Dashner
+4. The Giver by Lois Lowry
+5. The Book Thief by Markus Zusak
+6. The Fault in Our Stars by John Green
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Night Circus by Erin Morgenstern
+9. The Shadow of the Wind by Carlos Ruiz Zafón
+10. The Thirteenth Tale by Diane Setterfield
+11. The Time Traveler's Wife by Audrey Niffenegger
+12. The Secret History by Donna Tartt
+13. The Goldfinch by Donna Tartt
+14. The Nightingale by Kristin Hannah
+15. The Light Between Oceans by M.L. Stedman
+16. The Kite Runner by Khaled Hosseini
+17. The Glass Castle by Jeannette Walls
+18. The Alchemist by Paulo Coelho
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Help by Kathryn Stockett
+21. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+22. The Poisonwood Bible by Barbara Kingsolver
+23. The Handmaid's Tale by Margaret Atwood
+24. The Bell Jar by Sylvia Plath
+25. The Catcher in the Rye by J.D. Salinger
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Great Gatsby by F. Scott Fitzgerald
+28. To Kill a Mockingbird by Harper Lee
+29. 1984 by George Orwell
+30. Brave New World by Aldous Huxley
+31. Fahrenheit 451 by Ray Bradbury
+32. Animal Farm by George Orwell
+33. Lord of the Flies by William Golding
+34. The Road by Cormac McCarthy
+35. The Handmaid's Tale by Margaret Atwood
+36. The Stand by Stephen King
+37. The Shining by Stephen King
+38. Misery by Stephen King
+39. The Girl on the Train by Paula Hawkins
+40. Sharp Objects by Gillian Flynn
+41. Dark Places by Gillian Flynn
+42. Gone Girl by Gillian Flynn
+43. The Da Vinci Code by Dan Brown
+44. Angels & Demons by Dan Brown
+45. Inferno by Dan Brown
+46. The Lost Symbol by Dan Brown
+47. The Martian by Andy Weir
+48. Ready Player One by Ernest Cline
+49. Ender's Game by Orson Scott Card
+50. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+
+These recommendations are based on the user's interest in dystopian fiction, historical fiction, mystery, and fantasy genres.

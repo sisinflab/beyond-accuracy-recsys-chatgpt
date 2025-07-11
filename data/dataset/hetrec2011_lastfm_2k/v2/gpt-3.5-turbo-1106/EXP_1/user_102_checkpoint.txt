@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nick Cave and the Bad Seeds
+2. Leonard Cohen
+3. The Decemberists
+4. The National
+5. Wilco
+6. Modest Mouse
+7. Radiohead
+8. The Shins
+9. Neutral Milk Hotel
+10. David Bowie
+11. The Flaming Lips
+12. Beck
+13. Talking Heads
+14. The Smiths
+15. Pixies
+16. Belle and Sebastian
+17. Elliott Smith
+18. The Velvet Underground
+19. Arcade Fire
+20. The Strokes
+21. Vampire Weekend
+22. The White Stripes
+23. The Black Keys
+24. Spoon
+25. LCD Soundsystem
+26. Tame Impala
+27. Fleet Foxes
+28. Sufjan Stevens
+29. Bon Iver
+30. Father John Misty
+31. The War on Drugs
+32. St. Vincent
+33. Grizzly Bear
+34. Animal Collective
+35. My Morning Jacket
+36. The Avett Brothers
+37. The Lumineers
+38. Hozier
+39. Florence + The Machine
+40. Alabama Shakes
+41. Nathaniel Rateliff & The Night Sweats
+42. The Head and the Heart
+43. Dawes
+44. The Tallest Man on Earth
+45. Iron & Wine
+46. Fleetwood Mac
+47. The Beatles
+48. Bob Dylan
+49. Tom Waits
+50. Frank Zappa
+
+These recommendations are based on the user's liking of similar artists and genres.

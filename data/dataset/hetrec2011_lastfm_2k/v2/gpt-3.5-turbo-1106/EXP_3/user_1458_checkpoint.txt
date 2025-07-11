@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1458:
+
+1. Mariah Carey
+2. Madonna
+3. Rihanna
+4. Beyoncé
+5. Lady Gaga
+6. Britney Spears
+7. Justin Timberlake
+8. Jennifer Lopez
+9. Miley Cyrus
+10. Avril Lavigne
+11. Alanis Morissette
+12. Amy Winehouse
+13. Colbie Caillat
+14. Shakira
+15. Selena Gomez
+16. Katy Perry
+17. Demi Lovato
+18. Christina Aguilera
+19. P!nk
+20. Kelly Clarkson
+21. Ashlee Simpson
+22. Fergie
+23. Paramore
+24. Simple Plan
+25. Good Charlotte
+26. Backstreet Boys
+27. Jesse McCartney
+28. James Blunt
+29. Alicia Keys
+30. 30 Seconds to Mars
+31. Aly & AJ
+32. Scracho
+33. Glee Cast
+34. Groove Coverage
+35. Keyshia Cole
+36. Yellowcard
+37. McFly
+38. Plain White T's
+39. Justin Bieber
+40. Taylor Swift
+41. The Pussycat Dolls
+42. Black Eyed Peas
+43. Destiny's Child
+44. Duffy
+45. Leona Lewis
+46. Lady Antebellum
+47. 3OH!3
+48. 3 Doors Down
+49. The Pretty Reckless
+50. t.A.T.u.
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists that align with their current tastes.

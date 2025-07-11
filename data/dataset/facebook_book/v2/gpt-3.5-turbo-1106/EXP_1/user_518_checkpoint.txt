@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Secret Life of Bees by Sue Monk Kidd
+2. The Glass Castle by Jeannette Walls
+3. The Poisonwood Bible by Barbara Kingsolver
+4. The Bell Jar by Sylvia Plath
+5. The Catcher in the Rye by J.D. Salinger
+6. The Lovely Bones by Alice Sebold
+7. The Color Purple by Alice Walker
+8. The Joy Luck Club by Amy Tan
+9. The Handmaid's Tale by Margaret Atwood
+10. The Alchemist by Paulo Coelho
+11. The Book Thief by Markus Zusak
+12. The Help by Kathryn Stockett
+13. The Night Circus by Erin Morgenstern
+14. The Goldfinch by Donna Tartt
+15. The Girl on the Train by Paula Hawkins
+16. The Martian by Andy Weir
+17. The Hunger Games by Suzanne Collins
+18. The Road by Cormac McCarthy
+19. The Fault in Our Stars by John Green
+20. The Great Gatsby by F. Scott Fitzgerald
+21. The Hobbit by J.R.R. Tolkien
+22. The Da Vinci Code by Dan Brown
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Help by Kathryn Stockett
+25. The Night Circus by Erin Morgenstern
+26. The Goldfinch by Donna Tartt
+27. The Girl on the Train by Paula Hawkins
+28. The Martian by Andy Weir
+29. The Hunger Games by Suzanne Collins
+30. The Road by Cormac McCarthy
+31. The Fault in Our Stars by John Green
+32. The Great Gatsby by F. Scott Fitzgerald
+33. The Hobbit by J.R.R. Tolkien
+34. The Da Vinci Code by Dan Brown
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Help by Kathryn Stockett
+37. The Night Circus by Erin Morgenstern
+38. The Goldfinch by Donna Tartt
+39. The Girl on the Train by Paula Hawkins
+40. The Martian by Andy Weir
+41. The Hunger Games by Suzanne Collins
+42. The Road by Cormac McCarthy
+43. The Fault in Our Stars by John Green
+44. The Great Gatsby by F. Scott Fitzgerald
+45. The Hobbit by J.R.R. Tolkien
+46. The Da Vinci Code by Dan Brown
+47. The Girl with the Dragon Tattoo by Stieg Larsson
+48. The Help by Kathryn Stockett
+49. The Night Circus by Erin Morgenstern
+50. The Goldfinch by Donna Tartt
+
+These recommendations are based on the user's preference for literary fiction, classic literature, and contemporary fiction.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Mariah Carey
+2. U2
+3. Guns N' Roses
+4. Bon Jovi
+5. Red Hot Chili Peppers
+6. David Bowie
+7. The Police
+8. Coldplay
+9. AC/DC
+10. The Eagles
+11. Fleetwood Mac
+12. The Bee Gees
+13. Elton John
+14. The Doors
+15. Bob Marley
+16. The Beach Boys
+17. The Clash
+18. The Temptations
+19. Earth, Wind & Fire
+20. The Supremes
+21. The Four Tops
+22. The Isley Brothers
+23. The Kinks
+24. The Byrds
+25. The Hollies
+26. The Monkees
+27. The Yardbirds
+28. The Animals
+29. The Zombies
+30. The Turtles
+31. The Moody Blues
+32. The Mamas & The Papas
+33. The Lovin' Spoonful
+34. The Rascals
+35. The Box Tops
+36. The Association
+37. The Grass Roots
+38. The Young Rascals
+39. The Dave Clark Five
+40. The Searchers
+41. The Shadows
+42. The Ventures
+43. The Everly Brothers
+44. The Righteous Brothers
+45. The Drifters
+46. The Platters
+47. The Coasters
+48. The Shirelles
+49. The Chiffons
+50. The Ronettes
+
+These recommendations are based on the user's liking of classic rock, pop, and R&B artists, and include similar artists from the same genres.

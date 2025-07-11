@@ -1,0 +1,54 @@
+Based on user 1221's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. Good Omens by Neil Gaiman and Terry Pratchett
+3. Stardust by Neil Gaiman
+4. The Ocean at the End of the Lane by Neil Gaiman
+5. Anansi Boys by Neil Gaiman
+6. Coraline by Neil Gaiman
+7. The Graveyard Book by Neil Gaiman
+8. The Sandman (comic series) by Neil Gaiman
+9. The Magicians by Lev Grossman
+10. The Night Circus by Erin Morgenstern
+11. The Name of the Wind by Patrick Rothfuss
+12. The Lies of Locke Lamora by Scott Lynch
+13. Storm Front (The Dresden Files) by Jim Butcher
+14. Fool Moon (The Dresden Files) by Jim Butcher
+15. Grave Peril (The Dresden Files) by Jim Butcher
+16. Summer Knight (The Dresden Files) by Jim Butcher
+17. Death Masks (The Dresden Files) by Jim Butcher
+18. Blood Rites (The Dresden Files) by Jim Butcher
+19. Dead Beat (The Dresden Files) by Jim Butcher
+20. Proven Guilty (The Dresden Files) by Jim Butcher
+21. White Night (The Dresden Files) by Jim Butcher
+22. Small Favor (The Dresden Files) by Jim Butcher
+23. Turn Coat (The Dresden Files) by Jim Butcher
+24. Changes (The Dresden Files) by Jim Butcher
+25. Ghost Story (The Dresden Files) by Jim Butcher
+26. Cold Days (The Dresden Files) by Jim Butcher
+27. Skin Game (The Dresden Files) by Jim Butcher
+28. Lolita by Vladimir Nabokov
+29. Pale Fire by Vladimir Nabokov
+30. Invitation to a Beheading by Vladimir Nabokov
+31. Pnin by Vladimir Nabokov
+32. Despair by Vladimir Nabokov
+33. The Enchanter by Vladimir Nabokov
+34. The Vampire Lestat (The Vampire Chronicles) by Anne Rice
+35. Interview with the Vampire (The Vampire Chronicles) by Anne Rice
+36. Queen of the Damned (The Vampire Chronicles) by Anne Rice
+37. The Tale of the Body Thief (The Vampire Chronicles) by Anne Rice
+38. Memnoch the Devil (The Vampire Chronicles) by Anne Rice
+39. The Vampire Armand (The Vampire Chronicles) by Anne Rice
+40. Merrick (The Vampire Chronicles) by Anne Rice
+41. Blood and Gold (The Vampire Chronicles) by Anne Rice
+42. Blackwood Farm (The Vampire Chronicles) by Anne Rice
+43. Blood Canticle (The Vampire Chronicles) by Anne Rice
+44. Prince Lestat (The Vampire Chronicles) by Anne Rice
+45. It by Stephen King
+46. The Shining by Stephen King
+47. Pet Sematary by Stephen King
+48. Misery by Stephen King
+49. Doctor Sleep by Stephen King
+50. 11/22/63 by Stephen King
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1221 likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 672:
+
+1. Metallica
+2. Daft Punk
+3. Avenged Sevenfold
+4. The Beatles
+5. Blink-182
+6. Fall Out Boy
+7. Red Hot Chili Peppers
+8. A Day to Remember
+9. Panic! At the Disco
+10. Rise Against
+11. Muse
+12. Paramore
+13. My Chemical Romance
+14. Green Day
+15. Linkin Park
+16. Nirvana
+17. System of a Down
+18. The Killers
+19. Radiohead
+20. Nine Inch Nails
+21. Disturbed
+22. Sum 41
+23. Yellowcard
+24. Incubus
+25. We Came As Romans
+26. The Word Alive
+27. Eyes Set to Kill
+28. Alesana
+29. P!nk
+30. Katy Perry
+31. Lady Gaga
+32. Rihanna
+33. Britney Spears
+34. Christina Aguilera
+35. Madonna
+36. Shakira
+37. Beyoncé
+38. Taylor Swift
+39. Evanescence
+40. Glee Cast
+41. U2
+42. 30 Seconds to Mars
+43. Pink Floyd
+44. Kylie Minogue
+45. Miley Cyrus
+46. Ke$ha
+47. Duran Duran
+48. Coldplay
+49. Blur
+50. Arctic Monkeys
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

@@ -1,0 +1,54 @@
+Based on user 1234's preferences, here are the top 50 recommendations:
+
+1. Madonna
+2. Lady Gaga
+3. Kylie Minogue
+4. Rihanna
+5. George Michael
+6. Pet Shop Boys
+7. Eurythmics
+8. t.A.T.u.
+9. Adam Lambert
+10. Mylène Farmer
+11. Marina & the Diamonds
+12. Schiller
+13. 30 Seconds to Mars
+14. Air
+15. Delerium
+16. Norah Jones
+17. Sarah Brightman
+18. Katie Melua
+19. Robyn
+20. Alicia Keys
+21. Christina Aguilera
+22. Kim Wilde
+23. Hurts
+24. Beyoncé
+25. Shakira
+26. Glee Cast
+27. Paramore
+28. Nicki Minaj
+29. Jennifer Lopez
+30. Calvin Harris
+31. Róisín Murphy
+32. Brandon Flowers
+33. P!nk
+34. Lily Allen
+35. Mariah Carey
+36. Röyksopp
+37. Björk
+38. Enya
+39. Sophie Ellis-Bextor
+40. Mika
+41. ABBA
+42. Nicole Scherzinger
+43. Ellie Goulding
+44. Florence + the Machine
+45. The Veronicas
+46. Leona Lewis
+47. Gwen Stefani
+48. Michael Jackson
+49. Kings of Leon
+50. Britney Spears
+
+These recommendations are based on similar artists and genres that user 1234 enjoys.

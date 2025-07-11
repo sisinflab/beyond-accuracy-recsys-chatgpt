@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Notebook by Nicholas Sparks
+2. Dear John by Nicholas Sparks
+3. The Last Song by Nicholas Sparks
+4. Safe Haven by Nicholas Sparks
+5. The Lucky One by Nicholas Sparks
+6. Message in a Bottle by Nicholas Sparks
+7. Nights in Rodanthe by Nicholas Sparks
+8. The Choice by Nicholas Sparks
+9. The Guardian by Nicholas Sparks
+10. The Rescue by Nicholas Sparks
+11. The Longest Ride by Nicholas Sparks
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. Pride and Prejudice by Jane Austen
+15. Emma by Jane Austen
+16. Persuasion by Jane Austen
+17. Northanger Abbey by Jane Austen
+18. Mansfield Park by Jane Austen
+19. Wuthering Heights by Emily Bronte
+20. Jane Eyre by Charlotte Bronte
+21. Rebecca by Daphne du Maurier
+22. The Thorn Birds by Colleen McCullough
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. Me Before You by Jojo Moyes
+25. The Fault in Our Stars by John Green
+26. Looking for Alaska by John Green
+27. Paper Towns by John Green
+28. An Abundance of Katherines by John Green
+29. The Alchemist by Paulo Coelho
+30. Eleven Minutes by Paulo Coelho
+31. The Devil and Miss Prym by Paulo Coelho
+32. By the River Piedra I Sat Down and Wept by Paulo Coelho
+33. The Witch of Portobello by Paulo Coelho
+34. The Winner Stands Alone by Paulo Coelho
+35. The Fifth Mountain by Paulo Coelho
+36. The Valkyries by Paulo Coelho
+37. The Pilgrimage by Paulo Coelho
+38. The Spy by Paulo Coelho
+39. The Murder of Roger Ackroyd by Agatha Christie
+40. And Then There Were None by Agatha Christie
+41. Murder on the Orient Express by Agatha Christie
+42. The Mysterious Affair at Styles by Agatha Christie
+43. The Secret Adversary by Agatha Christie
+44. The ABC Murders by Agatha Christie
+45. Death on the Nile by Agatha Christie
+46. The Pale Horse by Agatha Christie
+47. The Mirror Crack'd from Side to Side by Agatha Christie
+48. The Body in the Library by Agatha Christie
+49. A Caribbean Mystery by Agatha Christie
+50. The Murder at the Vicarage by Agatha Christie
+
+These recommendations are based on the user's preference for romance, mystery, and novels by authors such as Nicholas Sparks, Jane Austen, and Paulo Coelho.

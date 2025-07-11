@@ -1,0 +1,54 @@
+Based on user 17's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. It by Stephen King
+3. Pet Sematary by Stephen King
+4. 1984 by George Orwell
+5. Brave New World by Aldous Huxley
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. The Great Gatsby by F. Scott Fitzgerald
+9. Fahrenheit 451 by Ray Bradbury
+10. The Hobbit by J.R.R. Tolkien
+11. The Fellowship of the Ring by J.R.R. Tolkien
+12. The Two Towers by J.R.R. Tolkien
+13. The Return of the King by J.R.R. Tolkien
+14. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+15. Harry Potter and the Chamber of Secrets by J.K. Rowling
+16. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+17. Harry Potter and the Goblet of Fire by J.K. Rowling
+18. Harry Potter and the Order of the Phoenix by J.K. Rowling
+19. Harry Potter and the Half-Blood Prince by J.K. Rowling
+20. Harry Potter and the Deathly Hallows by J.K. Rowling
+21. The Turner Diaries by William Luther Pierce
+22. The Plague by Albert Camus
+23. The Fall by Albert Camus
+24. Fear and Loathing in Las Vegas by Hunter S. Thompson
+25. Hell's Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs by Hunter S. Thompson
+26. A Confederacy of Dunces by John Kennedy Toole
+27. The Neon Bible by John Kennedy Toole
+28. The Dead Zone by Stephen King
+29. Carrie by Stephen King
+30. Cujo by Stephen King
+31. The Outsider by Stephen King
+32. The Talisman by Stephen King and Peter Straub
+33. The Eyes of the Dragon by Stephen King
+34. Needful Things by Stephen King
+35. Bag of Bones by Stephen King
+36. The Girl Who Loved Tom Gordon by Stephen King
+37. Dreamcatcher by Stephen King
+38. Lisey's Story by Stephen King
+39. Under the Dome by Stephen King
+40. 11/22/63 by Stephen King
+41. Doctor Sleep by Stephen King
+42. Revival by Stephen King
+43. The Institute by Stephen King
+44. If It Bleeds by Stephen King
+45. The Long Walk by Stephen King
+46. The Running Man by Stephen King
+47. Thinner by Stephen King
+48. The Regulators by Stephen King (as Richard Bachman)
+49. Blaze by Stephen King (as Richard Bachman)
+50. The Colorado Kid by Stephen King
+
+These recommendations are based on the user's interest in Stephen King, Albert Camus, J.K. Rowling, and other similar authors and genres.

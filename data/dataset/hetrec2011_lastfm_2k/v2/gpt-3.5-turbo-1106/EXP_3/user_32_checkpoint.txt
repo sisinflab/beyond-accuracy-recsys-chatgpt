@@ -1,0 +1,54 @@
+Based on user 32's preferences, here are the top-50 recommendations for the listed artists:
+
+1. The Clash
+2. Ramones
+3. Pixies
+4. Nine Inch Nails
+5. Arcade Fire
+6. Sonic Youth
+7. The Offspring
+8. Arctic Monkeys
+9. The Killers
+10. Oasis
+11. MGMT
+12. The Verve
+13. Kasabian
+14. Queens of the Stone Age
+15. Placebo
+16. LCD Soundsystem
+17. Daft Punk
+18. The Smashing Pumpkins
+19. U2
+20. Jeff Buckley
+21. Morrissey
+22. Black Rebel Motorcycle Club
+23. Weezer
+24. Silverchair
+25. Bloodhound Gang
+26. The Last Shadow Puppets
+27. Kings of Leon
+28. Primal Scream
+29. Massive Attack
+30. PJ Harvey
+31. Marilyn Manson
+32. Ryan Adams
+33. The Cribs
+34. Tom Waits
+35. Slayer
+36. Aphex Twin
+37. Air
+38. Razorlight
+39. George Harrison
+40. Throbbing Gristle
+41. Los Hermanos
+42. Soundgarden
+43. The Kills
+44. Fort Minor
+45. Bob Dylan
+46. Hurts
+47. Ramones
+48. Сплин
+49. Placebo
+50. Noize MC
+
+These recommendations are based on similar musical styles and genres to the user's existing preferences.

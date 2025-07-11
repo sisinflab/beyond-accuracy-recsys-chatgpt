@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Maroon 5
+2. Bruno Mars
+3. Ed Sheeran
+4. The Weeknd
+5. Taylor Swift
+6. Sam Smith
+7. Hozier
+8. Lorde
+9. Imagine Dragons
+10. Florence + The Machine
+11. Lana Del Rey
+12. The Killers
+13. Paramore
+14. Arctic Monkeys
+15. Halsey
+16. Bastille
+17. The Neighbourhood
+18. Tove Lo
+19. Vance Joy
+20. Zara Larsson
+21. James Bay
+22. Troye Sivan
+23. Alessia Cara
+24. Charlie Puth
+25. Shawn Mendes
+26. Dua Lipa
+27. Billie Eilish
+28. Khalid
+29. Sia
+30. OneRepublic
+31. Demi Lovato
+32. Selena Gomez
+33. Ariana Grande
+34. Justin Timberlake
+35. Miley Cyrus
+36. Kelly Clarkson
+37. Pink
+38. Christina Aguilera
+39. Gwen Stefani
+40. Nelly Furtado
+41. Shakira
+42. Janelle Monáe
+43. Alicia Keys (if not already in the user's library)
+44. Muse (if not already in the user's library)
+45. KT Tunstall (if not already in the user's library)
+46. Sade (if not already in the user's library)
+47. David Archuleta (if not already in the user's library)
+48. Corinne Bailey Rae (if not already in the user's library)
+49. Kings of Leon (if not already in the user's library)
+50. Nina Simone (if not already in the user's library)
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their tastes.

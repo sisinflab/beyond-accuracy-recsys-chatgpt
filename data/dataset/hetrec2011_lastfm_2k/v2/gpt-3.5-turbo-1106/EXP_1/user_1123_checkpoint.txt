@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pavement
+2. Yo La Tengo
+3. Dinosaur Jr.
+4. Pixies
+5. Neutral Milk Hotel
+6. Radiohead
+7. The Flaming Lips
+8. Wilco
+9. The Shins
+10. Belle and Sebastian
+11. Vampire Weekend
+12. Arcade Fire
+13. The National
+14. Tame Impala
+15. Fleet Foxes
+16. Grizzly Bear
+17. Beach House
+18. Deerhunter
+19. Real Estate
+20. Parquet Courts
+21. Car Seat Headrest
+22. Courtney Barnett
+23. Kurt Vile
+24. The War on Drugs
+25. Spoon
+26. The Strokes
+27. Interpol
+28. Yeah Yeah Yeahs
+29. The Black Keys
+30. Arctic Monkeys
+31. The Libertines
+32. Bloc Party
+33. Franz Ferdinand
+34. The Vaccines
+35. The Kooks
+36. Foals
+37. Two Door Cinema Club
+38. Bombay Bicycle Club
+39. The Maccabees
+40. The Wombats
+41. Vampire Weekend
+42. The Drums
+43. MGMT
+44. Foster the People
+45. Passion Pit
+46. Phoenix
+47. The Killers
+48. Kings of Leon
+49. The Strokes
+50. Arctic Monkeys
+
+These recommendations are based on the user's liking of indie and alternative rock bands, and include similar artists that they may enjoy.

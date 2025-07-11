@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Dune by Frank Herbert
+2. Neuromancer by William Gibson
+3. Snow Crash by Neal Stephenson
+4. Fahrenheit 451 by Ray Bradbury
+5. Brave New World by Aldous Huxley
+6. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+7. Do Androids Dream of Electric Sheep? by Philip K. Dick
+8. The Left Hand of Darkness by Ursula K. Le Guin
+9. The Dispossessed by Ursula K. Le Guin
+10. The Moon is a Harsh Mistress by Robert A. Heinlein
+11. The Man in the High Castle by Philip K. Dick
+12. The Wind-Up Bird Chronicle by Haruki Murakami
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Road by Cormac McCarthy
+15. The Handmaid's Tale by Margaret Atwood
+16. The Stand by Stephen King
+17. The Shining by Stephen King
+18. The Talisman by Stephen King and Peter Straub
+19. The Stand by Stephen King
+20. The Gunslinger by Stephen King
+21. The Drawing of the Three by Stephen King
+22. The Waste Lands by Stephen King
+23. Wizard and Glass by Stephen King
+24. Wolves of the Calla by Stephen King
+25. Song of Susannah by Stephen King
+26. The Dark Tower by Stephen King
+27. American Gods by Neil Gaiman
+28. Neverwhere by Neil Gaiman
+29. Good Omens by Neil Gaiman and Terry Pratchett
+30. The Ocean at the End of the Lane by Neil Gaiman
+31. The Graveyard Book by Neil Gaiman
+32. Anansi Boys by Neil Gaiman
+33. Stardust by Neil Gaiman
+34. Coraline by Neil Gaiman
+35. The Sandman Series by Neil Gaiman
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Girl Who Played with Fire by Stieg Larsson
+38. The Girl Who Kicked the Hornets' Nest by Stieg Larsson
+39. The Hunger Games by Suzanne Collins
+40. Catching Fire by Suzanne Collins
+41. Mockingjay by Suzanne Collins
+42. The Maze Runner by James Dashner
+43. The Scorch Trials by James Dashner
+44. The Death Cure by James Dashner
+45. The Kill Order by James Dashner
+46. The Fever Code by James Dashner
+47. The Eye of the World by Robert Jordan
+48. The Great Hunt by Robert Jordan
+49. The Dragon Reborn by Robert Jordan
+50. The Shadow Rising by Robert Jordan
+
+These recommendations are based on the user's interest in science fiction, dystopian literature, and fantasy.

@@ -1,0 +1,52 @@
+Based on user 1377's liking of the books, here are the top 50 recommendations re-ranked for them:
+
+1. The Hobbit by J. R. R. Tolkien
+2. The Stand by Stephen King
+3. Harry Potter
+4. The Great Gatsby
+5. The Picture of Dorian Gray
+6. The Catcher in the Rye
+7. The Lord of the Rings
+8. The Unbearable Lightness of Being
+9. The Silmarillion
+10. The Giver
+11. The Maze Runner
+12. The City of Ember
+13. The Southern Vampire Mysteries
+14. The House of Mirth
+15. The Phantom of the Opera
+16. The Scarlet Letter
+17. The Rapture (novel)
+18. The Tenant of Wildfell Hall
+19. The Outsiders (novel)
+20. The Lost Books (novel series)
+21. The Perks of Being a Wallflower by Stephen Chbosky
+22. The Tao of Pooh by Benjamin Hoff
+23. The Watchmen (novel) by John Altman (author)
+24. The Pillowman
+25. The Rapture (novel)
+26. The Picture of Dorian Gray
+27. The Great Gatsby
+28. The Maze Runner
+29. The City of Ember
+30. The Southern Vampire Mysteries
+31. The House of Mirth
+32. The Phantom of the Opera
+33. The Scarlet Letter
+34. The Rapture (novel)
+35. The Tenant of Wildfell Hall
+36. The Outsiders (novel)
+37. The Lost Books (novel series)
+38. The Perks of Being a Wallflower by Stephen Chbosky
+39. The Tao of Pooh by Benjamin Hoff
+40. The Watchmen (novel) by John Altman (author)
+41. The Pillowman
+42. The Rapture (novel)
+43. The Picture of Dorian Gray
+44. The Great Gatsby
+45. The Maze Runner
+46. The City of Ember
+47. The Southern Vampire Mysteries
+48. The House of Mirth
+49. The Phantom of the Opera
+50. The Scarlet Letter

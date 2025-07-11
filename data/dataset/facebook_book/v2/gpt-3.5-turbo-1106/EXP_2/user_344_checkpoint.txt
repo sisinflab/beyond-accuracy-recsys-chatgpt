@@ -1,0 +1,54 @@
+Based on the user's liking of the mentioned books, here is a re-ranked top-50 recommendation list:
+
+1. Harry Potter
+2. The Hobbit
+3. The Great Gatsby
+4. The Picture of Dorian Gray
+5. Dracula
+6. The Catcher in the Rye
+7. The Unbearable Lightness of Being
+8. The Maze Runner
+9. The Stand
+10. The Lord of the Rings
+11. The Silmarillion
+12. The City of Ember
+13. The Southern Vampire Mysteries
+14. The Lost Books (novel series)
+15. The Rapture (novel)
+16. The Giver
+17. The House of Mirth
+18. The Phantom of the Opera
+19. The Scarlet Letter
+20. The Tenant of Wildfell Hall
+21. The Outsiders (novel)
+22. The Lost World (Crichton novel)
+23. The Black Magician (novel series)
+24. The Kane Chronicles
+25. The Inheritance Cycle
+26. The Age of the Five
+27. The Bizenghast
+28. The Pillowman
+29. The City of Ember
+30. The Maze Runner
+31. The City of Ember
+32. The Southern Vampire Mysteries
+33. The Lost Books (novel series)
+34. The Rapture (novel)
+35. The Giver
+36. The House of Mirth
+37. The Phantom of the Opera
+38. The Scarlet Letter
+39. The Tenant of Wildfell Hall
+40. The Outsiders (novel)
+41. The Lost World (Crichton novel)
+42. The Black Magician (novel series)
+43. The Kane Chronicles
+44. The Inheritance Cycle
+45. The Age of the Five
+46. The Bizenghast
+47. The Pillowman
+48. The City of Ember
+49. The Maze Runner
+50. The City of Ember
+
+These recommendations are based on the user's liking of similar genres and themes found in the mentioned books.

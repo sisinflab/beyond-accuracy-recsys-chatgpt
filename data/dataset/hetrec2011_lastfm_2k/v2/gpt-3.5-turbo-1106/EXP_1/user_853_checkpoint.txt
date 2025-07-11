@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Sarah McLachlan
+2. Tori Amos
+3. Sia
+4. Florence + The Machine
+5. Adele
+6. Lana Del Rey
+7. Halsey
+8. Ellie Goulding
+9. Birdy
+10. Amy Lee
+11. Ingrid Michaelson
+12. Tove Lo
+13. Fiona Apple
+14. Imogen Heap
+15. KT Tunstall
+16. Joss Stone
+17. Alanis Morissette
+18. Dido
+19. Kelly Clarkson
+20. Avril Lavigne
+21. Delta Goodrem
+22. Pink
+23. Lara Fabian
+24. Evanescence
+25. Shakira
+26. Delain
+27. Lily Allen
+28. Natalie Imbruglia
+29. Katy Perry
+30. Faith Hill
+31. Metallica
+32. Mandy Moore
+33. P!nk
+34. Christina Aguilera
+35. Melanie C
+36. Lacuna Coil
+37. Natasha Bedingfield
+38. Ennio Morricone
+39. Nightwish
+40. Leona Lewis
+41. The Cranberries
+42. The Veronicas
+43. Marilyn Manson
+44. Simply Red
+45. Jessica Simpson
+46. Sheryl Crow
+47. Korn
+48. Kylie Minogue
+49. Tarja
+50. Within Temptation
+
+These recommendations are based on the user's liking of similar artists and may introduce them to new music they might enjoy.

@@ -1,0 +1,54 @@
+Based on user 1965's preferences, here are the top-50 recommendations for the listed artists:
+
+1. Rihanna
+2. Usher
+3. Justin Timberlake
+4. Destiny's Child
+5. Ciara
+6. Aaliyah
+7. Jay-Z
+8. Britney Spears
+9. Nicki Minaj
+10. Timbaland
+11. Gwen Stefani
+12. Avril Lavigne
+13. Backstreet Boys
+14. Kanye West
+15. Kelly Rowland
+16. Shakira
+17. P!nk
+18. Jennifer Lopez
+19. Nicole Scherzinger
+20. Thalía
+21. Spice Girls
+22. George Michael
+23. Whitney Houston
+24. Erykah Badu
+25. Alanis Morissette
+26. Kelly Clarkson
+27. Amy Winehouse
+28. Christina Milian
+29. Mýa
+30. Nelly
+31. Nelly Furtado
+32. Solange
+33. Leona Lewis
+34. Melanie C
+35. Grace Jones
+36. Jessie James
+37. Mary J. Blige
+38. Jordin Sparks
+39. Janet Jackson
+40. Mariah Carey
+41. Amerie
+42. Madonna
+43. Beyoncé
+44. Kylie Minogue
+45. Keyshia Cole
+46. Alicia Keys
+47. Christina Aguilera
+48. Katy Perry
+49. Ashanti
+50. Lady Gaga
+
+These recommendations are based on the user's existing preferences and are designed to align with their music taste.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. Erasure
+3. Duran Duran
+4. Yazoo
+5. The Human League
+6. OMD
+7. Gary Numan
+8. Camouflage
+9. Alphaville
+10. Eurythmics
+11. Tears for Fears
+12. Simple Minds
+13. Pet Shop Boys
+14. Depeche Mode
+15. Dave Gahan
+16. Zемфира
+17. Сплин
+18. Savage Garden
+19. t.A.T.u.
+20. Britney Spears
+21. Muse
+22. Celldweller
+23. IAMX
+24. ATB
+25. a-ha
+26. Cher
+27. Michael Jackson
+28. The Cure
+29. The Rasmus
+30. Tokio Hotel
+31. Adam Lambert
+32. Madonna
+33. Paramore
+34. AFI
+35. Ke$ha
+36. Rihanna
+37. Red Hot Chili Peppers
+38. Client
+39. Garbage
+40. Placebo
+41. The Killers
+42. The Bravery
+43. The Smashing Pumpkins
+44. Nine Inch Nails
+45. Marilyn Manson
+46. Linkin Park
+47. Evanescence
+48. My Chemical Romance
+49. Green Day
+50. Fall Out Boy
+
+These recommendations are based on the user's liking of similar artists and genres.

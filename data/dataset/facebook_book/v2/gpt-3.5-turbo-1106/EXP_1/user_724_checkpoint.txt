@@ -1,0 +1,49 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Clockwork Angel by Cassandra Clare
+2. Frostbite (Vampire Academy, Book 2) by Richelle Mead
+3. Frankenstein by Mary Shelley
+4. White Is for Magic (Blue Is for Nightmares, Book 3) by Laurie Faria Stolarz
+5. Chosen (House of Night, Book 3) by P.C. Cast and Kristin Cast
+6. Black (The Circle Series) by Ted Dekker
+7. Castle Rackrent by Maria Edgeworth
+8. The Vampire Lestat by Anne Rice
+9. Marked (House of Night, Book 1) by P.C. Cast and Kristin Cast
+10. Blood Canticle by Anne Rice
+11. City of Glass by Cassandra Clare
+12. Shadow Kiss (Vampire Academy, Book 3) by Richelle Mead
+13. The Last Man by Mary Shelley
+14. Silver Is for Secrets (Blue Is for Nightmares, Book 3) by Laurie Faria Stolarz
+15. Hunted (House of Night, Book 5) by P.C. Cast and Kristin Cast
+16. Green (The Circle Series) by Ted Dekker
+17. The Absentee by Maria Edgeworth
+18. The Queen of the Damned by Anne Rice
+19. Betrayed (House of Night, Book 2) by P.C. Cast and Kristin Cast
+20. Blood and Gold by Anne Rice
+21. City of Fallen Angels by Cassandra Clare
+22. Blood Promise (Vampire Academy, Book 4) by Richelle Mead
+23. The Last Man by Mary Shelley
+24. Red Is for Remembrance (Blue Is for Nightmares, Book 4) by Laurie Faria Stolarz
+25. Tempted (House of Night, Book 6) by P.C. Cast and Kristin Cast
+26. White (The Circle Series) by Ted Dekker
+27. Patronage by Maria Edgeworth
+28. Memnoch the Devil by Anne Rice
+29. Burned (House of Night, Book 7) by P.C. Cast and Kristin Cast
+30. The Betrothed by Cassandra Clare
+31. Spirit Bound (Vampire Academy, Book 5) by Richelle Mead
+32. The Last Man by Mary Shelley
+33. Blue Is for Nightmares (Blue Is for Nightmares, Book 1) by Laurie Faria Stolarz
+34. Awakened (House of Night, Book 8) by P.C. Cast and Kristin Cast
+35. Black (The Circle Series) by Ted Dekker
+36. Ormond by Maria Edgeworth
+37. Blood Communion by Anne Rice
+38. Destined (House of Night, Book 9) by P.C. Cast and Kristin Cast
+39. The Clockwork Prince by Cassandra Clare
+40. Last Sacrifice (Vampire Academy, Book 6) by Richelle Mead
+41. The Last Man by Mary Shelley
+42. Red Is for Remembrance (Blue Is for Nightmares, Book 4) by Laurie Faria Stolarz
+43. Hidden (House of Night, Book 10) by P.C. Cast and Kristin Cast
+44. Green (The Circle Series) by Ted Dekker
+45. Helen by Maria Edgeworth
+46. Blood and Fire by Anne Rice
+47. Redeemed (House of Night, Book 12) by P.C. Cast and Kristin Cast

@@ -1,0 +1,54 @@
+Based on user 304's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games
+2. Catching Fire
+3. Mockingjay
+4. Inkheart
+5. Inkspell
+6. Inkdeath
+7. The Chronicles of Narnia: Prince Caspian
+8. The Lovely Bones
+9. Night (book)
+10. The Catcher in the Rye
+11. Romeo and Juliet
+12. Pride and Prejudice and Zombies
+13. Dracula
+14. The Last Olympian
+15. Mistborn: The Hero of Ages
+16. Brisingr
+17. Eragon
+18. The Lord of the Rings
+19. Eldest
+20. The Summoning (novel)
+21. Burned (Hopkins novel)
+22. Crank (novel)
+23. Unwind (novel)
+24. Boy Meets Boy (novel)
+25. Deadly Little Secrets
+26. Skeleton Creek (novel)
+27. Oliver Twist
+28. Harry Potter
+29. Twilight (series)
+30. Magyk
+31. The Tale of Despereaux
+32. Love Story (novel)
+33. Fallen (Kate novel)
+34. Fablehaven
+35. The Space Vampires
+36. The Tenth Circle
+37. Witch & Wizard
+38. Extras (novel)
+39. Hairstyles of the Damned
+40. Naruto
+41. Flyte
+42. Fallout: An American Nuclear Tragedy
+43. Impulse economy
+44. Eighth Grade Bites
+45. Tricks (novel)
+46. The Hunted (novel)
+47. Candy: A Novel of Love and Addiction
+48. The Southern Vampire Mysteries
+49. Manga
+50. Goosebumps
+
+These recommendations are based on the user's previous book preferences and are ranked according to their potential appeal to the user.

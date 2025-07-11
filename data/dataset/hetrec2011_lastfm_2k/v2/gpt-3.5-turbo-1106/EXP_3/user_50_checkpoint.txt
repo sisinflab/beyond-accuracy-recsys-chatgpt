@@ -1,0 +1,54 @@
+Based on user 50's preferences, here are the top-50 recommendations for the given artists:
+
+1. Radiohead
+2. Franz Ferdinand
+3. Interpol
+4. Death Cab for Cutie
+5. Sigur Rós
+6. MGMT
+7. Modest Mouse
+8. The Killers
+9. Snow Patrol
+10. The Verve
+11. The Stone Roses
+12. The Shins
+13. The Used
+14. Nine Inch Nails
+15. The Kooks
+16. The Maine
+17. The Distillers
+18. My Chemical Romance
+19. The Donnas
+20. The Strokes
+21. Editors
+22. The Last Shadow Puppets
+23. The White Stripes
+24. The Hives
+25. The Vines
+26. The Fratellis
+27. The xx
+28. The Cure
+29. The Chemical Brothers
+30. The Beatles
+31. The Smiths
+32. The Ramones
+33. The Clash
+34. The Rolling Stones
+35. The Doors
+36. The Who
+37. The Kinks
+38. The Byrds
+39. The Beach Boys
+40. The Animals
+41. The Yardbirds
+42. The Hollies
+43. The Monkees
+44. The Turtles
+45. The Lovin' Spoonful
+46. The Mamas & The Papas
+47. The Zombies
+48. The Supremes
+49. The Temptations
+50. The Four Tops
+
+These recommendations are based on similar genres and artists liked by user 50.

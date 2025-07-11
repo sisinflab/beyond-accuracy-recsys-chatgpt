@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1964:
+
+1. Radiohead
+2. The Killers
+3. Florence + the Machine
+4. Muse
+5. The Smashing Pumpkins
+6. Pink Floyd
+7. Oasis
+8. The Last Shadow Puppets
+9. The Stone Roses
+10. The Horrors
+11. The Vines
+12. Death Cab for Cutie
+13. The Beatles
+14. The Shins
+15. The Dead Weather
+16. M83
+17. The Libertines
+18. The Fratellis
+19. The Pretty Reckless
+20. The Distillers
+21. The Faint
+22. The Runaways
+23. Soft Cell
+24. IAMX
+25. Marina & the Diamonds
+26. Queens of the Stone Age
+27. Travis
+28. Sonic Youth
+29. Klaxons
+30. Manic Street Preachers
+31. Sufjan Stevens
+32. She & Him
+33. Lady Gaga
+34. Móveis Coloniais de Acaju
+35. Nine Inch Nails
+36. Babyshambles
+37. 311
+38. Los Hermanos
+39. Beirut
+40. MGMT
+41. The Kooks
+42. Arctic Monkeys
+43. The Libertines
+44. Placebo
+45. Arcade Fire
+46. Gorillaz
+47. Shiny Toy Guns
+48. Wolfmother
+49. Nick Drake
+50. The Strokes (as a reminder of the user's existing preferences)

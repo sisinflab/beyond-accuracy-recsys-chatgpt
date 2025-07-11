@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. Fahrenheit 451 by Ray Bradbury
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Catcher in the Rye by J.D. Salinger
+6. The Road by Cormac McCarthy
+7. The Handmaid's Tale by Margaret Atwood
+8. 1984 by George Orwell
+9. Animal Farm by George Orwell
+10. The Bell Jar by Sylvia Plath
+11. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+12. Dune by Frank Herbert
+13. The Giver by Lois Lowry
+14. The Stand by Stephen King
+15. Neuromancer by William Gibson
+16. Do Androids Dream of Electric Sheep? by Philip K. Dick
+17. The Martian by Andy Weir
+18. The Hunger Games by Suzanne Collins
+19. The Road to Wigan Pier by George Orwell
+20. The Plague by Albert Camus
+21. The Fall by Albert Camus
+22. The Trial by Franz Kafka
+23. The Metamorphosis by Franz Kafka
+24. The Stranger by Albert Camus
+25. The Plague by Albert Camus
+26. The Fall by Albert Camus
+27. The Trial by Franz Kafka
+28. The Metamorphosis by Franz Kafka
+29. The Stranger by Albert Camus
+30. The Plague by Albert Camus
+31. The Fall by Albert Camus
+32. The Trial by Franz Kafka
+33. The Metamorphosis by Franz Kafka
+34. The Stranger by Albert Camus
+35. The Plague by Albert Camus
+36. The Fall by Albert Camus
+37. The Trial by Franz Kafka
+38. The Metamorphosis by Franz Kafka
+39. The Stranger by Albert Camus
+40. The Plague by Albert Camus
+41. The Fall by Albert Camus
+42. The Trial by Franz Kafka
+43. The Metamorphosis by Franz Kafka
+44. The Stranger by Albert Camus
+45. The Plague by Albert Camus
+46. The Fall by Albert Camus
+47. The Trial by Franz Kafka
+48. The Metamorphosis by Franz Kafka
+49. The Stranger by Albert Camus
+50. The Plague by Albert Camus
+
+These recommendations are based on the user's interest in dystopian and philosophical literature, as well as books with existential themes and thought-provoking narratives.

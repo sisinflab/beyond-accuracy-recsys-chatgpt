@@ -1,0 +1,52 @@
+Based on user 440's preferences, here are the top 50 book recommendations:
+
+1. Night (book) by Elie Wiesel
+2. Where the Red Fern Grows by Wilson Rawls
+3. Pet Sematary by Stephen King
+4. 'Salem's Lot by Stephen King
+5. Insomnia (novel) by Stephen King
+6. Flowers in the Attic by V. C. Andrews
+7. Angels & Demons by Dan Brown
+8. Holes (novel) by Louis Sachar
+9. Brave New World by Aldous Huxley
+10. Harry Potter by J.K. Rowling
+11. The Hunger Games by Suzanne Collins
+12. The Da Vinci Code by Dan Brown
+13. The Hobbit by J.R.R. Tolkien
+14. The Lord of the Rings by J.R.R. Tolkien
+15. Interview with the Vampire by Anne Rice
+16. Dracula by Bram Stoker
+17. Frankenstein by Mary Shelley
+18. I Am Legend (novel) by Richard Matheson
+19. The Book Thief by Markus Zusak
+20. Nineteen Eighty-Four by George Orwell
+21. The Giver by Lois Lowry
+22. The Count of Monte Cristo by Alexandre Dumas
+23. Les Misérables by Victor Hugo
+24. The Stranger (novel) by Albert Camus
+25. The Hitchhiker's Guide to the Galaxy (novel) by Douglas Adams
+26. The Grand Design (book) by Stephen Hawking
+27. The Fabric of the Cosmos by Brian Greene
+28. The Doors of Perception by Aldous Huxley
+29. This Is Your Brain On Music by Daniel J. Levitin
+30. Ender's Game by Orson Scott Card
+31. The Sword of Shannara by Terry Brooks
+32. The Southern Vampire Mysteries by Charlaine Harris
+33. The Five People You Meet in Heaven by Mitch Albom
+34. The Book Thief by Markus Zusak
+35. The Fountainhead by Ayn Rand
+36. Dead Until Dark by Charlaine Harris
+37. Inferno (Dante) by Dante Alighieri
+38. Adventures of Huckleberry Finn by Mark Twain
+39. Romeo and Juliet by William Shakespeare
+40. Wuthering Heights by Emily Brontë
+41. Anne of Green Gables by L.M. Montgomery
+42. Memoirs of a Geisha by Arthur Golden
+43. The Lion in Winter by James Goldman
+44. Alice's Adventures in Wonderland by Lewis Carroll
+45. The Hobbit by J.R.R. Tolkien
+46. The Lord of the Rings by J.R.R. Tolkien
+47. The Stranger (novel) by Albert Camus
+48. The Da Vinci Code by Dan Brown
+49. The Hunger Games by Suzanne Collins
+50. The Giver by Lois Lowry

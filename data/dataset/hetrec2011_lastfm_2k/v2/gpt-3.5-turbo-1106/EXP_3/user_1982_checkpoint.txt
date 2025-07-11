@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1982:
+
+1. Radiohead
+2. The Smiths
+3. UNKLE
+4. Depeche Mode
+5. Massive Attack
+6. Portishead
+7. Lamb
+8. Moby
+9. The xx
+10. Hans Zimmer
+11. Garbage
+12. The Killers
+13. IAMX
+14. Tricky
+15. The Chemical Brothers
+16. Muse
+17. Nine Inch Nails
+18. Pink Floyd
+19. Keane
+20. Placebo
+21. Beirut
+22. Clint Mansell
+23. Jason Mraz
+24. Mylène Farmer
+25. ATB
+26. Hooverphonic
+27. Duran Duran
+28. Pet Shop Boys
+29. Martin L. Gore
+30. Beck
+31. U2
+32. The Last Shadow Puppets
+33. Madonna
+34. Yeah Yeah Yeahs
+35. The Doors
+36. Modest Mouse
+37. MGMT
+38. Tegan and Sara
+39. Guns N' Roses
+40. New Order
+41. Björk
+42. OneRepublic
+43. Death Cab for Cutie
+44. Franz Ferdinand
+45. Coldplay
+46. Belle and Sebastian
+47. Sade
+48. Ladytron
+49. Air
+50. Kraftwerk
+
+These recommendations are based on the user's existing preferences and are designed to align with their musical tastes.

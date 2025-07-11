@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Catcher in the Rye by J.D. Salinger
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. To Kill a Mockingbird by Harper Lee
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. Brave New World by Aldous Huxley
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Bell Jar by Sylvia Plath
+11. The Stranger by Albert Camus
+12. The Old Man and the Sea by Ernest Hemingway
+13. The Sun Also Rises by Ernest Hemingway
+14. For Whom the Bell Tolls by Ernest Hemingway
+15. The Road by Cormac McCarthy
+16. Blood Meridian by Cormac McCarthy
+17. East of Eden by John Steinbeck
+18. Of Mice and Men by John Steinbeck
+19. The Grapes of Wrath by John Steinbeck
+20. The Sound and the Fury by William Faulkner
+21. As I Lay Dying by William Faulkner
+22. Absalom, Absalom! by William Faulkner
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Importance of Being Earnest by Oscar Wilde
+25. The Stranger by Albert Camus
+26. The Plague by Albert Camus
+27. The Fall by Albert Camus
+28. Crime and Punishment by Fyodor Dostoevsky
+29. The Brothers Karamazov by Fyodor Dostoevsky
+30. Notes from Underground by Fyodor Dostoevsky
+31. The Trial by Franz Kafka
+32. The Metamorphosis by Franz Kafka
+33. The Castle by Franz Kafka
+34. The Master and Margarita by Mikhail Bulgakov
+35. One Day in the Life of Ivan Denisovich by Aleksandr Solzhenitsyn
+36. The Gulag Archipelago by Aleksandr Solzhenitsyn
+37. The Idiot by Fyodor Dostoevsky
+38. The Possessed by Fyodor Dostoevsky
+39. Demons by Fyodor Dostoevsky
+40. The Unbearable Lightness of Being by Milan Kundera
+41. The Book Thief by Markus Zusak
+42. The Kite Runner by Khaled Hosseini
+43. A Thousand Splendid Suns by Khaled Hosseini
+44. The Alchemist by Paulo Coelho
+45. The Shadow of the Wind by Carlos Ruiz Zafón
+46. The Name of the Wind by Patrick Rothfuss
+47. The Night Circus by Erin Morgenstern
+48. The Goldfinch by Donna Tartt
+49. The Secret History by Donna Tartt
+50. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+
+These recommendations are based on the user's interest in literary fiction, classic literature, and thought-provoking novels.

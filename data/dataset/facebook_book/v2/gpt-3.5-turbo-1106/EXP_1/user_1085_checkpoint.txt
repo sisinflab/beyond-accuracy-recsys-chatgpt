@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl with the Dragon Tattoo by Stieg Larsson
+2. The Shadow of the Wind by Carlos Ruiz Zafón
+3. The Name of the Wind by Patrick Rothfuss
+4. The Night Circus by Erin Morgenstern
+5. The Historian by Elizabeth Kostova
+6. The Thirteenth Tale by Diane Setterfield
+7. The Secret History by Donna Tartt
+8. The Alchemist by Paulo Coelho
+9. The Time Traveler's Wife by Audrey Niffenegger
+10. The Book Thief by Markus Zusak
+11. The Goldfinch by Donna Tartt
+12. The Secret Life of Bees by Sue Monk Kidd
+13. The Help by Kathryn Stockett
+14. The Kite Runner by Khaled Hosseini
+15. The Lovely Bones by Alice Sebold
+16. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows
+17. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+18. The Glass Castle by Jeannette Walls
+19. The Nightingale by Kristin Hannah
+20. The Great Gatsby by F. Scott Fitzgerald
+21. The Catcher in the Rye by J.D. Salinger
+22. To Kill a Mockingbird by Harper Lee
+23. 1984 by George Orwell
+24. Brave New World by Aldous Huxley
+25. Fahrenheit 451 by Ray Bradbury
+26. Slaughterhouse-Five by Kurt Vonnegut
+27. One Hundred Years of Solitude by Gabriel García Márquez
+28. Beloved by Toni Morrison
+29. The Handmaid's Tale by Margaret Atwood
+30. The Road by Cormac McCarthy
+31. The Bell Jar by Sylvia Plath
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Count of Monte Cristo by Alexandre Dumas
+34. Crime and Punishment by Fyodor Dostoevsky
+35. The Brothers Karamazov by Fyodor Dostoevsky
+36. Anna Karenina by Leo Tolstoy
+37. War and Peace by Leo Tolstoy
+38. Les Misérables by Victor Hugo
+39. The Odyssey by Homer
+40. The Iliad by Homer
+41. The Aeneid by Virgil
+42. The Divine Comedy by Dante Alighieri
+43. Paradise Lost by John Milton
+44. Don Quixote by Miguel de Cervantes
+45. Moby-Dick by Herman Melville
+46. The Adventures of Huckleberry Finn by Mark Twain
+47. The Scarlet Letter by Nathaniel Hawthorne
+48. Wuthering Heights by Emily Brontë
+49. Jane Eyre by Charlotte Brontë
+50. Pride and Prejudice by Jane Austen
+
+These recommendations are based on the user's interest in mystery, fantasy, historical fiction, and classic literature.

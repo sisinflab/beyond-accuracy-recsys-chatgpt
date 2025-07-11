@@ -1,0 +1,54 @@
+Based on user 1303's preferences, here are the top 50 recommendations for the given artists:
+
+1. The Cure
+2. Nirvana
+3. Beck
+4. The Mars Volta
+5. The Rolling Stones
+6. The Clash
+7. Talking Heads
+8. Pink Floyd
+9. The Smiths
+10. Joy Division
+11. Radiohead
+12. The National
+13. Interpol
+14. Arcade Fire
+15. Arctic Monkeys
+16. The Strokes
+17. Kings of Leon
+18. The Beatles
+19. Morrissey
+20. Sonic Youth
+21. My Bloody Valentine
+22. The Fratellis
+23. The Raveonettes
+24. Andrew Bird
+25. Broken Social Scene
+26. M. Ward
+27. Iron & Wine
+28. Explosions in the Sky
+29. Pavement
+30. Beirut
+31. Phoenix
+32. Black Rebel Motorcycle Club
+33. Bright Eyes
+34. Elliott Smith
+35. Death Cab for Cutie
+36. Muse
+37. Móveis Coloniais de Acaju
+38. Los Campesinos!
+39. She Wants Revenge
+40. The Pains of Being Pure at Heart
+41. Metric
+42. Spoon
+43. Bloc Party
+44. Franz Ferdinand
+45. Yeah Yeah Yeahs
+46. The Kills
+47. Ladytron
+48. Crystal Castles
+49. Bat for Lashes
+50. Sufjan Stevens
+
+These recommendations are based on the similarity of the recommended artists to the ones that user 1303 already likes.

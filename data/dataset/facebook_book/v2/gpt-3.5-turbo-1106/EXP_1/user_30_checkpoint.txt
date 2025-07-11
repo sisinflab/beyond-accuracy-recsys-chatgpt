@@ -1,0 +1,54 @@
+Based on user 30's preferences, here are the top 50 book recommendations:
+
+1. Graceling by Kristin Cashore
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Mortal Instruments series by Cassandra Clare
+5. The Selection by Kiera Cass
+6. Throne of Glass by Sarah J. Maas
+7. The Lunar Chronicles by Marissa Meyer
+8. Red Queen by Victoria Aveyard
+9. The Maze Runner by James Dashner
+10. The Giver by Lois Lowry
+11. The 5th Wave by Rick Yancey
+12. Legend by Marie Lu
+13. The Darkest Minds by Alexandra Bracken
+14. Matched by Ally Condie
+15. Delirium by Lauren Oliver
+16. Shiver by Maggie Stiefvater
+17. The Raven Boys by Maggie Stiefvater
+18. The Infernal Devices series by Cassandra Clare
+19. The Selection by Kiera Cass
+20. The Iron Fey series by Julie Kagawa
+21. The Chemical Garden Trilogy by Lauren DeStefano
+22. The Host by Stephenie Meyer
+23. The Uglies series by Scott Westerfeld
+24. The Blue Sword by Robin McKinley
+25. A Little Princess by Frances Hodgson Burnett
+26. The Hero and the Crown by Robin McKinley
+27. City of Bones by Cassandra Clare
+28. Little Women by Louisa May Alcott
+29. The Secret Garden by Frances Hodgson Burnett
+30. The Chronicles of Narnia by C.S. Lewis
+31. The Hobbit by J.R.R. Tolkien
+32. Harry Potter series by J.K. Rowling
+33. The Golden Compass by Philip Pullman
+34. Eragon by Christopher Paolini
+35. Inkheart by Cornelia Funke
+36. Percy Jackson & the Olympians series by Rick Riordan
+37. The Lightning Thief by Rick Riordan
+38. The Alchemyst by Michael Scott
+39. The Lost Hero by Rick Riordan
+40. The Red Pyramid by Rick Riordan
+41. The Kane Chronicles by Rick Riordan
+42. The Maze of Bones by Rick Riordan
+43. The 39 Clues series by Rick Riordan
+44. The Name of the Wind by Patrick Rothfuss
+45. The Lies of Locke Lamora by Scott Lynch
+46. Mistborn: The Final Empire by Brandon Sanderson
+47. The Way of Kings by Brandon Sanderson
+48. The Night Circus by Erin Morgenstern
+49. The Book Thief by Markus Zusak
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on similar themes, genres, and authors to the books that user 30 likes.

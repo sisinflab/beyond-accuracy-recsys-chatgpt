@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Less Than Zero by Bret Easton Ellis
+3. Girl, Interrupted by Susanna Kaysen
+4. One Flew Over the Cuckoo's Nest by Ken Kesey
+5. The Virgin Suicides by Jeffrey Eugenides
+6. White Oleander by Janet Fitch
+7. The Glass Castle by Jeannette Walls
+8. Prozac Nation by Elizabeth Wurtzel
+9. Running with Scissors by Augusten Burroughs
+10. The Secret History by Donna Tartt
+11. Wasted: A Memoir of Anorexia and Bulimia by Marya Hornbacher
+12. The Dharma Bums by Jack Kerouac
+13. The Electric Kool-Aid Acid Test by Tom Wolfe
+14. The Stranger by Albert Camus
+15. The Sun Also Rises by Ernest Hemingway
+16. On the Road by Jack Kerouac
+17. The Great Gatsby by F. Scott Fitzgerald
+18. The Picture of Dorian Gray by Oscar Wilde
+19. Brave New World by Aldous Huxley
+20. Slaughterhouse-Five by Kurt Vonnegut
+21. Catch-22 by Joseph Heller
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. The Catcher Was a Spy by Nicholas Dawidoff
+24. The Outsiders by S.E. Hinton
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Road by Cormac McCarthy
+27. A Million Little Pieces by James Frey
+28. The Bell Jar by Sylvia Plath
+29. Fahrenheit 451 by Ray Bradbury
+30. Invisible Monsters by Chuck Palahniuk
+31. Assholes Finish First by Tucker Max
+32. It's Kind of a Funny Story by Ned Vizzini
+33. The Catcher in the Rye by J.D. Salinger
+34. Belinda (Edgeworth novel) by Maria Edgeworth
+35. The Goldfinch by Donna Tartt
+36. The Kite Runner by Khaled Hosseini
+37. The Book Thief by Markus Zusak
+38. The Night Circus by Erin Morgenstern
+39. The Alchemist by Paulo Coelho
+40. The Shadow of the Wind by Carlos Ruiz Zafón
+41. The Name of the Wind by Patrick Rothfuss
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Help by Kathryn Stockett
+44. The Lovely Bones by Alice Sebold
+45. The Time Traveler's Wife by Audrey Niffenegger
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Hunger Games by Suzanne Collins
+48. The Fault in Our Stars by John Green
+49. Gone Girl by Gillian Flynn
+50. The Girl on the Train by Paula Hawkins
+
+These recommendations are based on the user's interest in contemporary fiction, coming-of-age stories, and psychological themes.

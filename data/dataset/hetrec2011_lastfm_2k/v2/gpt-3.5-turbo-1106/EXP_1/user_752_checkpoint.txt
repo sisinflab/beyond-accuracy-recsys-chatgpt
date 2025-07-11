@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. All Time Low
+2. The Wonder Years
+3. Neck Deep
+4. New Found Glory
+5. State Champs
+6. Mayday Parade
+7. The Story So Far
+8. Knuckle Puck
+9. Real Friends
+10. Taking Back Sunday
+11. The Starting Line
+12. Set Your Goals
+13. Man Overboard
+14. Yellowcard
+15. Sum 41
+16. Simple Plan
+17. Good Charlotte
+18. Motion City Soundtrack
+19. The Maine
+20. We the Kings
+21. Boys Like Girls
+22. The Academy Is...
+23. Cartel
+24. Forever the Sickest Kids
+25. Hit the Lights
+26. Valencia
+27. The Early November
+28. Something Corporate
+29. The Ataris
+30. Saves the Day
+31. Brand New
+32. Jimmy Eat World
+33. Dashboard Confessional
+34. The Get Up Kids
+35. American Football
+36. Mineral
+37. Bayside
+38. Senses Fail
+39. Hawthorne Heights
+40. Emery
+41. Saosin
+42. Underoath
+43. Thrice
+44. Alexisonfire
+45. At the Drive-In
+46. Glassjaw
+47. Finch
+48. Thursday
+49. Circa Survive
+50. Coheed and Cambria
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1374:
+
+1. Evanescence
+2. Nine Inch Nails
+3. Green Day
+4. Avril Lavigne
+5. Linkin Park
+6. Paramore
+7. Muse
+8. The Killers
+9. My Chemical Romance
+10. Coldplay
+11. Radiohead
+12. Nirvana
+13. Metallica
+14. Queen
+15. Pink Floyd
+16. Red Hot Chili Peppers
+17. System of a Down
+18. Breaking Benjamin
+19. Blink-182
+20. The Beatles
+21. AC/DC
+22. Aerosmith
+23. Rage Against the Machine
+24. Tool
+25. Korn
+26. Papa Roach
+27. 30 Seconds to Mars
+28. A Perfect Circle
+29. Deftones
+30. Limp Bizkit
+31. Three Days Grace
+32. Slipknot
+33. Incubus
+34. AFI
+35. Trapt
+36. 3 Doors Down
+37. Seether
+38. Shinedown
+39. Staind
+40. Chevelle
+41. Puddle of Mudd
+42. Theory of a Deadman
+43. Sevendust
+44. Stone Sour
+45. Disturbed
+46. Godsmack
+47. Hinder
+48. Fuel
+49. Saliva
+50. Crossfade
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

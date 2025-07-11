@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. The Shining by Stephen King
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Lord of the Rings by J.R.R. Tolkien
+8. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+9. The Hunger Games by Suzanne Collins
+10. The Da Vinci Code by Dan Brown
+11. The Girl with the Dragon Tattoo by Stieg Larsson
+12. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+13. The Alchemist by Paulo Coelho
+14. The Kite Runner by Khaled Hosseini
+15. The Help by Kathryn Stockett
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Book Thief by Markus Zusak
+18. The Night Circus by Erin Morgenstern
+19. The Goldfinch by Donna Tartt
+20. The Martian by Andy Weir
+21. The Handmaid's Tale by Margaret Atwood
+22. The Road by Cormac McCarthy
+23. The Giver by Lois Lowry
+24. The Fault in Our Stars by John Green
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+27. The Lovely Bones by Alice Sebold
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Help by Kathryn Stockett
+30. The Secret Life of Bees by Sue Monk Kidd
+31. The Book Thief by Markus Zusak
+32. The Night Circus by Erin Morgenstern
+33. The Goldfinch by Donna Tartt
+34. The Martian by Andy Weir
+35. The Handmaid's Tale by Margaret Atwood
+36. The Road by Cormac McCarthy
+37. The Giver by Lois Lowry
+38. The Fault in Our Stars by John Green
+39. The Perks of Being a Wallflower by Stephen Chbosky
+40. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+41. The Lovely Bones by Alice Sebold
+42. The Time Traveler's Wife by Audrey Niffenegger
+43. The Help by Kathryn Stockett
+44. The Secret Life of Bees by Sue Monk Kidd
+45. The Book Thief by Markus Zusak
+46. The Night Circus by Erin Morgenstern
+47. The Goldfinch by Donna Tartt
+48. The Martian by Andy Weir
+49. The Handmaid's Tale by Margaret Atwood
+50. The Road by Cormac McCarthy
+
+These recommendations are based on the user's interest in a mix of fiction, mystery, thriller, and classic literature.

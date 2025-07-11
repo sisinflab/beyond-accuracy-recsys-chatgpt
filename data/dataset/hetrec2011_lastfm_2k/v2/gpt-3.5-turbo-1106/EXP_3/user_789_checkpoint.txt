@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 789:
+
+1. Jay-Z
+2. Dr. Dre
+3. Snoop Dogg
+4. Ice Cube
+5. Nas
+6. 50 Cent
+7. Eminem
+8. Kanye West
+9. OutKast
+10. Notorious B.I.G.
+11. J Dilla
+12. Mos Def
+13. Common
+14. MF DOOM
+15. Ghostface Killah
+16. Gang Starr
+17. Mobb Deep
+18. The Roots
+19. Black Sabbath
+20. Nirvana
+21. Red Hot Chili Peppers
+22. The White Stripes
+23. The Black Keys
+24. Franz Ferdinand
+25. The Killers
+26. The Kooks
+27. The Fray
+28. U2
+29. Radiohead
+30. Joy Division
+31. Bonobo
+32. Bob Marley & The Wailers
+33. De La Soul
+34. Gnarls Barkley
+35. The Hives
+36. The Offspring
+37. Kid Cudi
+38. Lupe Fiasco
+39. Trey Songz
+40. Rihanna
+41. Beyoncé
+42. Alicia Keys
+43. Erykah Badu
+44. Aaliyah
+45. Jason Derülo
+46. Usher
+47. Chris Brown
+48. Ne-Yo
+49. Destiny's Child
+50. Justin Timberlake
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their tastes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Jane Eyre by Charlotte Bronte
+6. Wuthering Heights by Emily Bronte
+7. Little Women by Louisa May Alcott
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Handmaid's Tale by Margaret Atwood
+10. The Hunger Games by Suzanne Collins
+11. The Book Thief by Markus Zusak
+12. The Kite Runner by Khaled Hosseini
+13. The Alchemist by Paulo Coelho
+14. The Night Circus by Erin Morgenstern
+15. The Secret History by Donna Tartt
+16. The Goldfinch by Donna Tartt
+17. The Shadow of the Wind by Carlos Ruiz Zafon
+18. The Name of the Wind by Patrick Rothfuss
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Help by Kathryn Stockett
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Lovely Bones by Alice Sebold
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Fault in Our Stars by John Green
+25. The Perks of Being a Wallflower by Stephen Chbosky
+26. The Maze Runner by James Dashner
+27. The Giver by Lois Lowry
+28. The Outsiders by S.E. Hinton
+29. The Road by Cormac McCarthy
+30. The Martian by Andy Weir
+31. The Handmaid's Tale by Margaret Atwood
+32. The Hunger Games by Suzanne Collins
+33. The Book Thief by Markus Zusak
+34. The Kite Runner by Khaled Hosseini
+35. The Alchemist by Paulo Coelho
+36. The Night Circus by Erin Morgenstern
+37. The Secret History by Donna Tartt
+38. The Goldfinch by Donna Tartt
+39. The Shadow of the Wind by Carlos Ruiz Zafon
+40. The Name of the Wind by Patrick Rothfuss
+41. The Girl with the Dragon Tattoo by Stieg Larsson
+42. The Help by Kathryn Stockett
+43. The Secret Life of Bees by Sue Monk Kidd
+44. The Lovely Bones by Alice Sebold
+45. The Time Traveler's Wife by Audrey Niffenegger
+46. The Fault in Our Stars by John Green
+47. The Perks of Being a Wallflower by Stephen Chbosky
+48. The Maze Runner by James Dashner
+49. The Giver by Lois Lowry
+50. The Outsiders by S.E. Hinton
+
+These recommendations are based on the user's preference for classic literature, historical fiction, and coming-of-age stories.

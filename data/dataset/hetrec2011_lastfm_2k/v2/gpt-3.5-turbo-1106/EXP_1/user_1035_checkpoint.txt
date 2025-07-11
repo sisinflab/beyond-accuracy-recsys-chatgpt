@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Cocteau Twins
+2. Air
+3. The Radio Dept.
+4. My Bloody Valentine
+5. The Jesus and Mary Chain
+6. Cocteau Twins
+7. Mazzy Star
+8. The War on Drugs
+9. The Horrors
+10. Beach House
+11. The Chameleons
+12. Ride
+13. Lush
+14. The Cure
+15. The Pains of Being Pure at Heart
+16. The Raveonettes
+17. The Stone Roses
+18. The Charlatans
+19. The Telescopes
+20. Chapterhouse
+21. The Verve
+22. The House of Love
+23. The Jesus and Mary Chain
+24. The Brian Jonestown Massacre
+25. The Black Ryder
+26. The Dandy Warhols
+27. The Sound
+28. The Psychedelic Furs
+29. The Ocean Blue
+30. The Church
+31. The Comsat Angels
+32. The Soft Moon
+33. The KVB
+34. The Twilight Sad
+35. The Mary Onettes
+36. The Pains of Being Pure at Heart
+37. The Radio Dept.
+38. The Horrors
+39. The War on Drugs
+40. The Charlatans
+41. The Stone Roses
+42. The Telescopes
+43. The House of Love
+44. The Jesus and Mary Chain
+45. The Brian Jonestown Massacre
+46. The Black Ryder
+47. The Dandy Warhols
+48. The Sound
+49. The Psychedelic Furs
+50. The Ocean Blue
+
+These recommendations are based on the user's liking of artists with similar musical styles and genres.

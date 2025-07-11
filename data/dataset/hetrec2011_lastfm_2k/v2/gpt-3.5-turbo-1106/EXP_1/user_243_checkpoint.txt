@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Gwen Stefani
+2. Marina and the Diamonds
+3. La Roux
+4. Tove Lo
+5. Charli XCX
+6. Ellie Goulding
+7. CHVRCHES
+8. HAIM
+9. Lorde
+10. Marina Diamandis
+11. Carly Rae Jepsen
+12. Zara Larsson
+13. Foxes
+14. Grimes
+15. BANKS
+16. Dua Lipa
+17. Tegan and Sara
+18. The Cardigans
+19. Nelly Furtado
+20. Santigold
+21. Robyn
+22. Lykke Li
+23. Bat for Lashes
+24. Goldfrapp
+25. Little Boots
+26. Florence + the Machine
+27. Sia
+28. Lady Gaga
+29. Annie
+30. Röyksopp
+31. The Knife
+32. Fever Ray
+33. M83
+34. Purity Ring
+35. Phantogram
+36. Metric
+37. The Naked and Famous
+38. Chairlift
+39. St. Vincent
+40. Warpaint
+41. AlunaGeorge
+42. Sylvan Esso
+43. FKA twigs
+44. Christine and the Queens
+45. MUNA
+46. Shura
+47. Allie X
+48. K.Flay
+49. Bishop Briggs
+50. Elohim
+
+These recommendations are based on the user's liking of similar artists and genres.

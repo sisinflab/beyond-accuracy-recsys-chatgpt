@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Brothers Karamazov by Fyodor Dostoyevsky
+2. Steppenwolf by Hermann Hesse
+3. The Alchemist by Paulo Coelho
+4. The Prophet by Kahlil Gibran
+5. The Plague by Albert Camus
+6. As I Lay Dying by William Faulkner
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Book of Joy by Dalai Lama and Desmond Tutu
+9. The Flowers of Evil by Charles Baudelaire
+10. Hunger by Knut Hamsun
+11. Love in the Time of Cholera by Gabriel García Márquez
+12. The Complete Fairy Tales by The Brothers Grimm
+13. Leaves of Grass by Walt Whitman
+14. The Master and Margarita by Mikhail Bulgakov
+15. The Idiot by Fyodor Dostoyevsky
+16. Demian by Hermann Hesse
+17. The Little Prince by Antoine de Saint-Exupéry
+18. The Stranger by Albert Camus
+19. Absalom, Absalom! by William Faulkner
+20. The Importance of Being Earnest by Oscar Wilde
+21. The Art of Loving by Erich Fromm
+22. The Flowers of Evil by Charles Baudelaire
+23. Mysteries by Knut Hamsun
+24. One Hundred Years of Solitude by Gabriel García Márquez
+25. The Complete Fairy Tales by Hans Christian Andersen
+26. Leaves of Grass by Walt Whitman
+27. The Master and Margarita by Mikhail Bulgakov
+28. The Idiot by Fyodor Dostoyevsky
+29. Demian by Hermann Hesse
+30. The Little Prince by Antoine de Saint-Exupéry
+31. The Stranger by Albert Camus
+32. Absalom, Absalom! by William Faulkner
+33. The Importance of Being Earnest by Oscar Wilde
+34. The Art of Loving by Erich Fromm
+35. The Flowers of Evil by Charles Baudelaire
+36. Mysteries by Knut Hamsun
+37. One Hundred Years of Solitude by Gabriel García Márquez
+38. The Complete Fairy Tales by Hans Christian Andersen
+39. Leaves of Grass by Walt Whitman
+40. The Master and Margarita by Mikhail Bulgakov
+41. The Idiot by Fyodor Dostoyevsky
+42. Demian by Hermann Hesse
+43. The Little Prince by Antoine de Saint-Exupéry
+44. The Stranger by Albert Camus
+45. Absalom, Absalom! by William Faulkner
+46. The Importance of Being Earnest by Oscar Wilde
+47. The Art of Loving by Erich Fromm
+48. The Flowers of Evil by Charles Baudelaire
+49. Mysteries by Knut Hamsun
+50. One Hundred Years of Solitude by Gabriel García Márquez
+
+These recommendations are based on the user's interest in classic literature, philosophical themes, and existentialist works.

@@ -1,0 +1,54 @@
+Based on the preferences of user 462, here are the top 50 recommendations for the listed artists:
+
+1. Pink Floyd
+2. Tom Waits
+3. Elliott Smith
+4. Nirvana
+5. The Kinks
+6. The Rolling Stones
+7. Bob Dylan
+8. Nick Cave and the Bad Seeds
+9. Joy Division
+10. The Runaways
+11. George Harrison
+12. John Lennon
+13. The Clash
+14. The Smiths
+15. Morrissey
+16. Miles Davis
+17. Talking Heads
+18. David Bowie
+19. U2
+20. Belle and Sebastian
+21. The New Pornographers
+22. Built to Spill
+23. Band of Horses
+24. M. Ward
+25. Spoon
+26. Arctic Monkeys
+27. Oasis
+28. Muse
+29. Foo Fighters
+30. Red Hot Chili Peppers
+31. Rage Against the Machine
+32. Iron Maiden
+33. Queen
+34. Eric Clapton
+35. Chuck Berry
+36. Coldplay
+37. Bob Marley
+38. Björk
+39. Frank Zappa
+40. Nine Inch Nails
+41. Megadeth
+42. Queens of the Stone Age
+43. Paul McCartney & Wings
+44. Cocteau Twins
+45. Radiohead
+46. Pavement
+47. Guided by Voices
+48. XTC
+49. Yo La Tengo
+50. Frightened Rabbit
+
+These recommendations are based on the similar musical preferences of user 462 and are intended to provide a personalized list of artists that they may enjoy.

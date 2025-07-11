@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Boards of Canada
+2. Aphex Twin
+3. Massive Attack
+4. Radiohead
+5. Björk
+6. The Chemical Brothers
+7. DJ Shadow
+8. Bonobo
+9. Four Tet
+10. Burial
+11. Röyksopp
+12. Moby
+13. Air
+14. Thievery Corporation
+15. Goldfrapp
+16. Zero 7
+17. The Prodigy
+18. Kruder & Dorfmeister
+19. Morcheeba
+20. DJ Krush
+21. Tricky
+22. Portishead
+23. Trentemøller
+24. Autechre
+25. The Future Sound of London
+26. Dolphin
+27. Limp Bizkit
+28. Beck
+29. Caribou
+30. Little Dragon
+31. Tycho
+32. Ulrich Schnauss
+33. Apparat
+34. Jon Hopkins
+35. Emancipator
+36. Nightmares on Wax
+37. FKA twigs
+38. Mount Kimbie
+39. Nosaj Thing
+40. Shlohmo
+41. Lapalux
+42. Flying Lotus
+43. Jamie xx
+44. Nicolas Jaar
+45. Darkside
+46. Moderat
+47. Com Truise
+48. Washed Out
+49. Toro y Moi
+50. Bibio
+
+These recommendations are based on the user's liking of similar artists and genres.

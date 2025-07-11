@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Interpol
+2. The White Stripes
+3. The Black Keys
+4. Tame Impala
+5. Cage the Elephant
+6. The Vaccines
+7. The Raconteurs
+8. The Last Shadow Puppets
+9. The War on Drugs
+10. Spoon
+11. The National
+12. Vampire Weekend
+13. The Arctic Monkeys
+14. The Strokes
+15. The Killers
+16. The Velvet Underground
+17. Black Rebel Motorcycle Club
+18. The Libertines
+19. Franz Ferdinand
+20. The Hives
+21. The Fratellis
+22. The Kooks
+23. The Wombats
+24. The Pigeon Detectives
+25. The Courteeners
+26. The View
+27. The Cribs
+28. The Maccabees
+29. The Zutons
+30. The Futureheads
+31. The Rakes
+32. The Subways
+33. The Bravery
+34. The Vines
+35. The Dandy Warhols
+36. The Brian Jonestown Massacre
+37. The Jesus and Mary Chain
+38. The Stone Roses
+39. The Charlatans
+40. The La's
+41. The Smiths
+42. The Cure
+43. Joy Division
+44. New Order
+45. Echo & the Bunnymen
+46. The Psychedelic Furs
+47. The Chameleons
+48. The Sound
+49. The Teardrop Explodes
+50. The House of Love
+
+These recommendations are based on the user's liking of indie rock, alternative rock, and garage rock bands, as well as similar artists to those already liked by the user.

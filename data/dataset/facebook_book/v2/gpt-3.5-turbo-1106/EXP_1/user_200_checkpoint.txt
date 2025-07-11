@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J.R.R. Tolkien
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Hunger Games by Suzanne Collins
+4. The Giver by Lois Lowry
+5. Percy Jackson & the Olympians by Rick Riordan
+6. The Maze Runner by James Dashner
+7. Divergent by Veronica Roth
+8. The Lightning Thief by Rick Riordan
+9. The Fault in Our Stars by John Green
+10. The Book Thief by Markus Zusak
+11. The Outsiders by S.E. Hinton
+12. To Kill a Mockingbird by Harper Lee
+13. The Catcher in the Rye by J.D. Salinger
+14. The Alchemist by Paulo Coelho
+15. The Secret Garden by Frances Hodgson Burnett
+16. Charlotte's Web by E.B. White
+17. Matilda by Roald Dahl
+18. The Little Prince by Antoine de Saint-Exupéry
+19. The Wind in the Willows by Kenneth Grahame
+20. A Wrinkle in Time by Madeleine L'Engle
+21. The Phantom Tollbooth by Norton Juster
+22. Bridge to Terabithia by Katherine Paterson
+23. The Chronicles of Prydain by Lloyd Alexander
+24. The Dark is Rising Sequence by Susan Cooper
+25. The Neverending Story by Michael Ende
+26. The Secret of NIMH by Robert C. O'Brien
+27. Watership Down by Richard Adams
+28. The Tale of Despereaux by Kate DiCamillo
+29. The Golden Compass by Philip Pullman
+30. Inkheart by Cornelia Funke
+31. The Thief Lord by Cornelia Funke
+32. The Spiderwick Chronicles by Tony DiTerlizzi and Holly Black
+33. The Bartimaeus Trilogy by Jonathan Stroud
+34. The Edge Chronicles by Paul Stewart and Chris Riddell
+35. The Mysterious Benedict Society by Trenton Lee Stewart
+36. The Penderwicks by Jeanne Birdsall
+37. The Secret Series by Pseudonymous Bosch
+38. The Sisters Grimm by Michael Buckley
+39. The Land of Stories by Chris Colfer
+40. The School for Good and Evil by Soman Chainani
+41. The Unwanteds by Lisa McMann
+42. The Ascendance Trilogy by Jennifer A. Nielsen
+43. The False Prince by Jennifer A. Nielsen
+44. The Ranger's Apprentice by John Flanagan
+45. The Beyonders by Brandon Mull
+46. The Underland Chronicles by Suzanne Collins
+47. The Septimus Heap series by Angie Sage
+48. The Inheritance Cycle by Christopher Paolini
+49. The Redwall series by Brian Jacques
+50. The Chronicles of Prydain by Lloyd Alexander
+
+These recommendations are based on the user's interest in fantasy, adventure, and coming-of-age novels.

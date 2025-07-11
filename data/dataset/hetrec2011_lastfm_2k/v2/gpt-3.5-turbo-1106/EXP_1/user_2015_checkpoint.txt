@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tool
+2. Dream Theater
+3. Porcupine Tree
+4. Mastodon
+5. Katatonia
+6. Riverside
+7. Anathema
+8. Symphony X
+9. Meshuggah
+10. Between the Buried and Me
+11. The Mars Volta
+12. Tesseract
+13. Haken
+14. Baroness
+15. Cynic
+16. The Ocean
+17. Ne Obliviscaris
+18. Cult of Luna
+19. Gojira
+20. Animals as Leaders
+21. Periphery
+22. Leprous
+23. Soen
+24. Caligula's Horse
+25. Pain of Salvation
+26. Opeth
+27. Pink Floyd
+28. Nevermore
+29. System of a Down
+30. Bob Dylan
+31. Amon Amarth
+32. Ensiferum
+33. Devin Townsend
+34. Nightwish
+35. Beck
+36. Infected Mushroom
+37. Rise Against
+38. Metallica
+39. Disturbed
+40. Ratatat
+41. A Perfect Circle
+42. Shpongle
+43. Soilwork
+44. Dethklok
+45. The Lonely Island
+46. Lamb of God
+47. Justice
+48. The Faint
+49. Iced Earth
+50. Scars on Broadway
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

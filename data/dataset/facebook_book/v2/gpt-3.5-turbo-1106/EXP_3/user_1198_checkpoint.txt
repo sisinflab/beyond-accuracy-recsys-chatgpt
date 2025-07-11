@@ -1,0 +1,54 @@
+Based on user 1198's preferences, here are the top 50 book recommendations:
+
+1. Jane Eyre
+2. Frankenstein
+3. Great Expectations
+4. Pride and Prejudice
+5. Les Misérables
+6. The Brothers Karamazov
+7. A Midsummer Night's Dream
+8. The Old Man and the Sea
+9. The Lord of the Rings
+10. The Adventures of Tom Sawyer
+11. War and Peace
+12. Little Women
+13. Ulysses (novel)
+14. The Da Vinci Code
+15. The Jungle Book
+16. Sense and Sensibility
+17. The General's Daughter (novel)
+18. The Watchmen (novel)
+19. Around the World in Eighty Days
+20. The Holy Blood and the Holy Grail
+21. Catching Fire
+22. The Girl Next Door (novel)
+23. The Lords of the North
+24. Good Omens
+25. And Then There Were None
+26. Mind Siege
+27. Inheritance (novel)
+28. The Prince
+29. Thus Spoke Zarathustra
+30. Johnny the Homicidal Maniac
+31. Tess of the d'Urbervilles
+32. Will Grayson, Will Grayson
+33. John Dies at the End
+34. The Jungle Book
+35. Freakonomics
+36. Kay Scarpetta
+37. The Jungle Book
+38. The Jungle Book
+39. The Jungle Book
+40. The Jungle Book
+41. The Jungle Book
+42. The Jungle Book
+43. The Jungle Book
+44. The Jungle Book
+45. The Jungle Book
+46. The Jungle Book
+47. The Jungle Book
+48. The Jungle Book
+49. The Jungle Book
+50. The Jungle Book
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1198 likes.

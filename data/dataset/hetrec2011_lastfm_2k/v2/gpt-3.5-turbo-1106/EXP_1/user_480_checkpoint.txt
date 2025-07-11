@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Kraftwerk
+2. Simple Minds
+3. Thompson Twins
+4. Spandau Ballet
+5. Talk Talk
+6. The Human League
+7. Soft Cell
+8. Blancmange
+9. Propaganda
+10. Alphaville
+11. Bronski Beat
+12. Visage
+13. Heaven 17
+14. Eurythmics
+15. Frankie Goes to Hollywood
+16. OMD
+17. Yazoo
+18. Ultravox
+19. Depeche Mode
+20. A Flock of Seagulls
+21. The Cure
+22. Gary Numan
+23. The Stranglers
+24. Erasure
+25. Duran Duran
+26. Japan
+27. Kim Wilde
+28. Thomas Dolby
+29. ABC
+30. Tears for Fears
+31. Pet Shop Boys
+32. Devo
+33. John Foxx
+34. Mike Oldfield
+35. Camouflage
+36. New Order
+37. INXS
+38. a-ha
+39. Orchestral Manoeuvres in the Dark
+40. The Buggles
+41. The Cars
+42. Tubeway Army
+43. The Psychedelic Furs
+44. The Fixx
+45. Modern English
+46. Gary Numan & Tubeway Army
+47. The Teardrop Explodes
+48. China Crisis
+49. The Associates
+50. The Chameleons
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music that aligns with their preferences.

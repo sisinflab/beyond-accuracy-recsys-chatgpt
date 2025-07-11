@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 915:
+
+1. Pearl Jam
+2. Nas
+3. 2Pac
+4. System of a Down
+5. Sublime
+6. Dr. Dre
+7. Notorious B.I.G.
+8. Coldplay
+9. The Police
+10. Black Eyed Peas
+11. Michael Bublé
+12. Alicia Keys
+13. City and Colour
+14. Rise Against
+15. Kings of Leon
+16. Queens of the Stone Age
+17. Red Hot Chili Peppers
+18. Arctic Monkeys
+19. Franz Ferdinand
+20. Nirvana
+21. Snoop Dogg
+22. Cypress Hill
+23. Eminem
+24. The Game
+25. 50 Cent
+26. Jamie Cullum
+27. Travis
+28. John Mayer
+29. Marisa Monte
+30. Los Hermanos
+31. Skank
+32. Matanza
+33. Alexisonfire
+34. Bad Religion
+35. Charlie Brown Jr.
+36. Silverchair
+37. Saosin
+38. Underoath
+39. Misfits
+40. Rancid
+41. At the Drive-In
+42. The Mars Volta
+43. Apocalyptica
+44. Zero 7
+45. David Guetta
+46. Imogen Heap
+47. Imogen Heap
+48. Christina Aguilera
+49. Amy Winehouse
+50. KT Tunstall
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

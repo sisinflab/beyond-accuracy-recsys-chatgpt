@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter series by J.K. Rowling
+2. Interview with the Vampire by Anne Rice
+3. The Hobbit by J.R.R. Tolkien
+4. Dune by Frank Herbert
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Lord of the Rings by J.R.R. Tolkien
+7. Dracula by Bram Stoker
+8. The Dark Tower series by Stephen King
+9. Ender's Game by Orson Scott Card
+10. The Name of the Wind by Patrick Rothfuss
+11. American Gods by Neil Gaiman
+12. The Wheel of Time series by Robert Jordan
+13. The Dresden Files series by Jim Butcher
+14. The Magicians by Lev Grossman
+15. The Giver by Lois Lowry
+16. The Maze Runner series by James Dashner
+17. The Mortal Instruments series by Cassandra Clare
+18. The Witcher series by Andrzej Sapkowski
+19. The Expanse series by James S.A. Corey
+20. The Dark Artifices series by Cassandra Clare
+21. The Inheritance Cycle by Christopher Paolini
+22. The Mistborn series by Brandon Sanderson
+23. The Kingkiller Chronicle series by Patrick Rothfuss
+24. The Stormlight Archive series by Brandon Sanderson
+25. The Lies of Locke Lamora by Scott Lynch
+26. The Way of Kings by Brandon Sanderson
+27. The Riyria Revelations series by Michael J. Sullivan
+28. The First Law series by Joe Abercrombie
+29. The Broken Empire series by Mark Lawrence
+30. The Black Prism by Brent Weeks
+31. The Night Angel Trilogy by Brent Weeks
+32. The Lightbringer series by Brent Weeks
+33. The Powder Mage trilogy by Brian McClellan
+34. The Farseer Trilogy by Robin Hobb
+35. The Liveship Traders trilogy by Robin Hobb
+36. The Tawny Man trilogy by Robin Hobb
+37. The Gentleman Bastard series by Scott Lynch
+38. The Malazan Book of the Fallen series by Steven Erikson
+39. The Black Company series by Glen Cook
+40. The Book of the New Sun by Gene Wolfe
+41. The Broken Earth trilogy by N.K. Jemisin
+42. The Hyperion Cantos by Dan Simmons
+43. The Culture series by Iain M. Banks
+44. The Foundation series by Isaac Asimov
+45. The Vorkosigan Saga by Lois McMaster Bujold
+46. The Uplift series by David Brin
+47. The Commonwealth Saga by Peter F. Hamilton
+48. The Revelation Space series by Alastair Reynolds
+49. The Three-Body Problem by Liu Cixin
+50. The Southern Reach Trilogy by Jeff VanderMeer
+
+These recommendations are based on the user's interest in fantasy, science fiction, and supernatural themes.

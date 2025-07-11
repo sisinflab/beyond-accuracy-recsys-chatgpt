@@ -1,0 +1,52 @@
+Based on user 999's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. Tool
+3. Metallica
+4. Iron Maiden
+5. Rush
+6. Nirvana
+7. Radiohead
+8. Opeth
+9. Dream Theater
+10. Muse
+11. Linkin Park
+12. Nine Inch Nails
+13. Genesis
+14. U2
+15. The Beatles
+16. Marillion
+17. Porcupine Tree
+18. Genesis
+19. Joe Satriani
+20. Sigur Rós
+21. Meshuggah
+22. Riverside
+23. Pain of Salvation
+24. A Perfect Circle
+25. Incubus
+26. The Mars Volta
+27. Glee Cast
+28. Taylor Swift
+29. Paramore
+30. John Williams
+31. Jonas Brothers
+32. Maroon 5
+33. 30 Seconds to Mars
+34. Oasis
+35. Taylor Swift
+36. Jason Mraz
+37. The Gathering
+38. Ulver
+39. Camel
+40. Journey
+41. Guns N' Roses
+42. Dark Tranquillity
+43. Kansas
+44. Dave Matthews Band
+45. Coldplay
+46. Beirut
+47. The Used
+48. Mr. Bungle
+49. Red Hot Chili Peppers
+50. Blue October

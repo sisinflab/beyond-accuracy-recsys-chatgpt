@@ -1,0 +1,54 @@
+Based on user 361's preferences, here are the top 50 book recommendations:
+
+1. The Watchmen (novel) by John Altman (author)
+2. A Tale of Two Cities by Charles Dickens
+3. Lord of the Flies by William Golding
+4. The Universe in a Nutshell by Stephen Hawking
+5. Civil Disobedience (Thoreau)
+6. Battle Royale by Koushun Takami
+7. Timequake by Kurt Vonnegut
+8. Mother Night by Kurt Vonnegut
+9. Fahrenheit 451 by Ray Bradbury
+10. Doctor Zhivago (novel) by Boris Pasternak
+11. The Great Gatsby
+12. The Outsiders (novel)
+13. The Stranger (novel)
+14. A Clockwork Orange
+15. The Dark Tower: The Gunslinger
+16. Moby-Dick
+17. The Myth of Sisyphus
+18. Of Mice and Men
+19. Bible
+20. Iliad
+21. Childhood's End
+22. Frankenstein
+23. To Kill a Mockingbird
+24. The Alchemist (novel)
+25. The Name of the Wind
+26. Heart of Darkness
+27. Nineteen Eighty-Four
+28. Neuromancer
+29. Night Shift (book)
+30. The Zombie Survival Guide
+31. Don Quixote
+32. The Pit and the Pendulum
+33. The Doors of Perception
+34. Tales of the City (novel)
+35. Alice's Adventures in Wonderland
+36. The Count of Monte Cristo
+37. Anathem
+38. Pet Sematary
+39. The Hamlet
+40. Les Misérables
+41. Little Brother (Doctorow novel)
+42. The Chronicles of Narnia: Prince Caspian
+43. Even Cowgirls Get the Blues (novel)
+44. The City of Ember
+45. American Gods
+46. Grendel (novel)
+47. The Canterbury Tales
+48. Island (book)
+49. Nightmares & Dreamscapes
+50. Steal This Book
+
+These recommendations are based on the user's preferences and are ranked according to their potential interest.

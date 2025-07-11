@@ -1,0 +1,54 @@
+Based on user 147's preferences, here are the top-50 recommendations for the user:
+
+1. Rihanna
+2. Michael Jackson
+3. Céline Dion
+4. Janet Jackson
+5. Alicia Keys
+6. Destiny's Child
+7. Eminem
+8. Backstreet Boys
+9. Bon Jovi
+10. Gwen Stefani
+11. Katy Perry
+12. Lady Gaga
+13. Amy Winehouse
+14. Leona Lewis
+15. Hilary Duff
+16. Alicia Keys
+17. Lily Allen
+18. Aly & AJ
+19. The Pussycat Dolls
+20. Scissor Sisters
+21. Simple Plan
+22. Avenged Sevenfold
+23. Linkin Park
+24. Good Charlotte
+25. The Veronicas
+26. Pixie Lott
+27. Sugababes
+28. Vanessa Hudgens
+29. Hannah Montana
+30. High School Musical
+31. Taylor Swift
+32. Rouge
+33. Roberta Sá
+34. Mamonas Assassinas
+35. Ivete Sangalo
+36. Sandy e Junior
+37. Pitty
+38. Laura Pausini
+39. Joss Stone
+40. RBD
+41. Ke$ha
+42. Adam Lambert
+43. Christina Milian
+44. Dido
+45. Spice Girls
+46. *NSYNC
+47. Jessica Simpson
+48. Katy Perry
+49. Hannah Montana
+50. Vanessa Hudgens
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their tastes.

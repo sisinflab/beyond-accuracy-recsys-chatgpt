@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Siddhartha by Hermann Hesse
+2. The Glass Bead Game by Hermann Hesse
+3. Fahrenheit 451 by Ray Bradbury
+4. The Martian Chronicles by Ray Bradbury
+5. Something Wicked This Way Comes by Ray Bradbury
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. The Kite Runner by Khaled Hosseini
+9. And the Mountains Echoed by Khaled Hosseini
+10. The Book Thief by Markus Zusak
+11. Night by Elie Wiesel
+12. Dawn by Elie Wiesel
+13. The Shining by Stephen King
+14. Carrie by Stephen King
+15. Pet Sematary by Stephen King
+16. Lord of the Flies by William Golding
+17. Animal Farm by George Orwell
+18. 1984 by George Orwell
+19. Brave New World by Aldous Huxley
+20. The Giver by Lois Lowry
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Lovely Bones by Alice Sebold
+23. The Alchemist by Paulo Coelho
+24. The Little Prince by Antoine de Saint-Exupéry
+25. The Shadow of the Wind by Carlos Ruiz Zafón
+26. The Night Circus by Erin Morgenstern
+27. The Ocean at the End of the Lane by Neil Gaiman
+28. The Graveyard Book by Neil Gaiman
+29. The Secret Garden by Frances Hodgson Burnett
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Handmaid's Tale by Margaret Atwood
+32. The Road by Cormac McCarthy
+33. The Hunger Games by Suzanne Collins
+34. The Maze Runner by James Dashner
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Hobbit by J.R.R. Tolkien
+37. The Name of the Wind by Patrick Rothfuss
+38. The Night Circus by Erin Morgenstern
+39. The Book of Lost Things by John Connolly
+40. The Thirteenth Tale by Diane Setterfield
+41. The Nightingale by Kristin Hannah
+42. The Goldfinch by Donna Tartt
+43. The Secret History by Donna Tartt
+44. The Bell Jar by Sylvia Plath
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Great Gatsby by F. Scott Fitzgerald
+47. The Catcher in the Rye by J.D. Salinger
+48. The Perks of Being a Wallflower by Stephen Chbosky
+49. The Fault in Our Stars by John Green
+50. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+
+These recommendations are based on the user's interest in literary fiction, coming-of-age stories, and psychological thrillers.

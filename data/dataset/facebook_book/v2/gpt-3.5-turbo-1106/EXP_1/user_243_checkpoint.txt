@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Brave New World by Aldous Huxley
+6. The Old Man and the Sea by Ernest Hemingway
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Bell Jar by Sylvia Plath
+10. The Road by Cormac McCarthy
+11. The Stranger by Albert Camus
+12. The Sun Also Rises by Ernest Hemingway
+13. The Brothers Karamazov by Fyodor Dostoyevsky
+14. Lolita by Vladimir Nabokov
+15. The Sound and the Fury by William Faulkner
+16. The Grapes of Wrath by John Steinbeck
+17. East of Eden by John Steinbeck
+18. The Unbearable Lightness of Being by Milan Kundera
+19. The Master and Margarita by Mikhail Bulgakov
+20. The Book Thief by Markus Zusak
+21. The Alchemist by Paulo Coelho
+22. The Kite Runner by Khaled Hosseini
+23. The Shadow of the Wind by Carlos Ruiz Zafon
+24. The Night Circus by Erin Morgenstern
+25. The Name of the Wind by Patrick Rothfuss
+26. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+27. The Martian by Andy Weir
+28. Never Let Me Go by Kazuo Ishiguro
+29. The Handmaid's Tale by Margaret Atwood
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Secret History by Donna Tartt
+32. The Goldfinch by Donna Tartt
+33. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+34. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+35. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Lovely Bones by Alice Sebold
+38. The Help by Kathryn Stockett
+39. The Hunger Games by Suzanne Collins
+40. The Girl on the Train by Paula Hawkins
+41. The Da Vinci Code by Dan Brown
+42. The Girl with the Pearl Earring by Tracy Chevalier
+43. The Secret History by Donna Tartt
+44. The Goldfinch by Donna Tartt
+45. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+46. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+47. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+48. The Time Traveler's Wife by Audrey Niffenegger
+49. The Lovely Bones by Alice Sebold
+50. The Help by Kathryn Stockett
+
+These recommendations are based on the user's interest in literary fiction, classic literature, and non-fiction works.

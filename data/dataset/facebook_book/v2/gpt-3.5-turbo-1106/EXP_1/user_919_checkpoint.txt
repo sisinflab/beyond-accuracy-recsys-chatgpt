@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. The Hobbit by J.R.R. Tolkien
+3. Jurassic Park by Michael Crichton
+4. The Giver by Lois Lowry
+5. The Hunger Games by Suzanne Collins
+6. Dune by Frank Herbert
+7. The Maze Runner by James Dashner
+8. 1984 by George Orwell
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Andromeda Strain by Michael Crichton
+12. The City of Ember by Jeanne DuPrau
+13. The War of the Worlds by H.G. Wells
+14. The Inheritance Cycle by Christopher Paolini
+15. The Martian by Andy Weir
+16. The Alchemist by Paulo Coelho
+17. The Time Machine by H.G. Wells
+18. The Book Thief by Markus Zusak
+19. The Dark Tower series by Stephen King
+20. The Stand by Stephen King
+21. The Road by Cormac McCarthy
+22. The Catcher in the Rye by J.D. Salinger
+23. The Outsiders by S.E. Hinton
+24. The Great Gatsby by F. Scott Fitzgerald
+25. The Old Man and the Sea by Ernest Hemingway
+26. The Grapes of Wrath by John Steinbeck
+27. To Kill a Mockingbird by Harper Lee
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Chronicles of Prydain by Lloyd Alexander
+30. The Wind in the Willows by Kenneth Grahame
+31. The Secret Garden by Frances Hodgson Burnett
+32. The Adventures of Tom Sawyer by Mark Twain
+33. The Call of the Wild by Jack London
+34. The Count of Monte Cristo by Alexandre Dumas
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Scarlet Letter by Nathaniel Hawthorne
+37. The Three Musketeers by Alexandre Dumas
+38. The Hound of the Baskervilles by Arthur Conan Doyle
+39. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+40. The War of the Worlds by H.G. Wells
+41. The Time Machine by H.G. Wells
+42. The Invisible Man by H.G. Wells
+43. The Island of Dr. Moreau by H.G. Wells
+44. The First Men in the Moon by H.G. Wells
+45. The Food of the Gods and How It Came to Earth by H.G. Wells
+46. The War in the Air by H.G. Wells
+47. The World Set Free by H.G. Wells
+48. The Shape of Things to Come by H.G. Wells
+49. The Croquet Player by H.G. Wells
+50. The Croquet Player by H.G. Wells
+
+These recommendations are based on similar themes, genres, and authors to the books that user 919 likes.

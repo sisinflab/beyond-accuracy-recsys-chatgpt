@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Divergent by Veronica Roth
+3. The Hunger Games by Suzanne Collins
+4. Thirteen Reasons Why by Jay Asher
+5. Looking for Alaska by John Green
+6. Paper Towns by John Green
+7. The Maze Runner by James Dashner
+8. If I Stay by Gayle Forman
+9. Eleanor & Park by Rainbow Rowell
+10. The Book Thief by Markus Zusak
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. Speak by Laurie Halse Anderson
+13. Wintergirls by Laurie Halse Anderson
+14. Before I Fall by Lauren Oliver
+15. The Lovely Bones by Alice Sebold
+16. The Catcher in the Rye by J.D. Salinger
+17. It's Kind of a Funny Story by Ned Vizzini
+18. The Bell Jar by Sylvia Plath
+19. The Secret Life of Bees by Sue Monk Kidd
+20. The Glass Castle by Jeannette Walls
+21. The Kite Runner by Khaled Hosseini
+22. A Thousand Splendid Suns by Khaled Hosseini
+23. The Alchemist by Paulo Coelho
+24. The Girl on the Train by Paula Hawkins
+25. Gone Girl by Gillian Flynn
+26. The Night Circus by Erin Morgenstern
+27. The Goldfinch by Donna Tartt
+28. The Help by Kathryn Stockett
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+31. The Handmaid's Tale by Margaret Atwood
+32. The Road by Cormac McCarthy
+33. Room by Emma Donoghue
+34. The Martian by Andy Weir
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. The Da Vinci Code by Dan Brown
+37. The Shadow of the Wind by Carlos Ruiz Zafón
+38. The Name of the Wind by Patrick Rothfuss
+39. The Nightingale by Kristin Hannah
+40. All the Light We Cannot See by Anthony Doerr
+41. The Silent Patient by Alex Michaelides
+42. Where the Crawdads Sing by Delia Owens
+43. Educated by Tara Westover
+44. Little Fires Everywhere by Celeste Ng
+45. The Tattooist of Auschwitz by Heather Morris
+46. The Great Alone by Kristin Hannah
+47. The Alice Network by Kate Quinn
+48. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+49. The Immortalists by Chloe Benjamin
+50. The Light We Lost by Jill Santopolo
+
+These recommendations are based on the user's liking for young adult fiction, coming-of-age stories, and books with themes of self-discovery and personal struggles.

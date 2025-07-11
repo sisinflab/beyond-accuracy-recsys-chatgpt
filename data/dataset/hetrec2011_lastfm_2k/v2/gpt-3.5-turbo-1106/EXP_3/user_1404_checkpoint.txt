@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 1404:
+
+1. The Clash
+2. Beck
+3. The White Stripes
+4. The Strokes
+5. Modest Mouse
+6. Bright Eyes
+7. Thom Yorke
+8. Nirvana
+9. Pearl Jam
+10. The Beatles
+11. Soundgarden
+12. Arctic Monkeys
+13. Kings of Leon
+14. My Chemical Romance
+15. The Mars Volta
+16. Frank Zappa
+17. Portishead
+18. Ratatat
+19. Broken Social Scene
+20. múm
+21. Porcupine Tree
+22. Sigur Rós
+23. Mr. Bungle
+24. Caribou
+25. Deerhunter
+26. CAKE
+27. Eminem
+28. Nine Inch Nails
+29. Gogol Bordello
+30. Manic Street Preachers
+31. Oingo Boingo
+32. Neutral Milk Hotel
+33. The Roots
+34. Andrew Bird
+35. Beirut
+36. The Smashing Pumpkins
+37. Damien Rice
+38. XTC
+39. Ben Folds
+40. System of a Down
+41. Yann Tiersen
+42. The Black Keys
+43. Animal Collective
+44. Grizzly Bear
+45. Panda Bear
+46. Leonard Cohen
+47. Nick Drake
+48. Explosions in the Sky
+49. R.E.M.
+50. Pixies
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their tastes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Coldplay
+3. Foo Fighters
+4. The Strokes
+5. Franz Ferdinand
+6. The Black Keys
+7. Arctic Monkeys
+8. The Killers
+9. Queens of the Stone Age
+10. Interpol
+11. The White Stripes
+12. The Raconteurs
+13. The Hives
+14. The Vines
+15. The Bravery
+16. Bloc Party
+17. Kaiser Chiefs
+18. The Kooks
+19. The Libertines
+20. The Vaccines
+21. The Wombats
+22. The Fratellis
+23. The Pigeon Detectives
+24. The Courteeners
+25. The View
+26. The Maccabees
+27. The Cribs
+28. The Zutons
+29. The Coral
+30. The Enemy
+31. The Subways
+32. Razorlight
+33. The Futureheads
+34. The Rakes
+35. The Pains of Being Pure at Heart
+36. The Drums
+37. The Joy Formidable
+38. The Naked and Famous
+39. The Mowgli's
+40. The Griswolds
+41. The Wombats
+42. The Kooks
+43. The Vaccines
+44. The Fratellis
+45. The Pigeon Detectives
+46. The Courteeners
+47. The View
+48. The Maccabees
+49. The Cribs
+50. The Zutons
+
+These recommendations are based on the user's liking of indie and alternative rock bands and artists.

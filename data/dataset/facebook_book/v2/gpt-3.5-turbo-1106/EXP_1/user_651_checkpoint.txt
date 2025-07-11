@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Coraline by Neil Gaiman
+2. American Gods by Neil Gaiman
+3. The Ocean at the End of the Lane by Neil Gaiman
+4. Good Omens by Neil Gaiman and Terry Pratchett
+5. Neverwhere by Neil Gaiman
+6. The Graveyard Book by Neil Gaiman
+7. Stardust by Neil Gaiman
+8. Norse Mythology by Neil Gaiman
+9. The Shadow of the Wind by Carlos Ruiz Zafón
+10. The Night Circus by Erin Morgenstern
+11. The Alchemist by Paulo Coelho
+12. The Secret History by Donna Tartt
+13. The Goldfinch by Donna Tartt
+14. The Catcher in the Rye by J.D. Salinger
+15. To Kill a Mockingbird by Harper Lee
+16. The Great Gatsby by F. Scott Fitzgerald
+17. 1984 by George Orwell
+18. Animal Farm by George Orwell
+19. Brave New World by Aldous Huxley
+20. Fahrenheit 451 by Ray Bradbury
+21. Slaughterhouse-Five by Kurt Vonnegut
+22. Cat's Cradle by Kurt Vonnegut
+23. The Handmaid's Tale by Margaret Atwood
+24. Alias Grace by Margaret Atwood
+25. The Testaments by Margaret Atwood
+26. The Road by Cormac McCarthy
+27. All the Light We Cannot See by Anthony Doerr
+28. The Nightingale by Kristin Hannah
+29. The Book Thief by Markus Zusak
+30. I Am the Messenger by Markus Zusak
+31. The Messenger by Markus Zusak
+32. The Perks of Being a Wallflower by Stephen Chbosky
+33. The Outsiders by S.E. Hinton
+34. The Giver by Lois Lowry
+35. The Hunger Games by Suzanne Collins
+36. Catching Fire by Suzanne Collins
+37. Mockingjay by Suzanne Collins
+38. Divergent by Veronica Roth
+39. The Maze Runner by James Dashner
+40. The Lightning Thief by Rick Riordan
+41. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+42. The Girl with the Dragon Tattoo by Stieg Larsson
+43. The Help by Kathryn Stockett
+44. The Secret Life of Bees by Sue Monk Kidd
+45. The Kite Runner by Khaled Hosseini
+46. A Thousand Splendid Suns by Khaled Hosseini
+47. The Glass Castle by Jeannette Walls
+48. Educated by Tara Westover
+49. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+50. The Color Purple by Alice Walker
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and classic literature.

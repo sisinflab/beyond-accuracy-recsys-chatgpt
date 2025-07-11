@@ -1,0 +1,54 @@
+Based on the preferences of user 1179, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. Brave New World by Aldous Huxley
+5. The Grapes of Wrath by John Steinbeck
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Bell Jar by Sylvia Plath
+9. The Sun Also Rises by Ernest Hemingway
+10. The Road by Cormac McCarthy
+11. The Stranger by Albert Camus
+12. The Picture of Dorian Gray by Oscar Wilde
+13. Crime and Punishment by Fyodor Dostoevsky
+14. The Brothers Karamazov by Fyodor Dostoevsky
+15. The Trial by Franz Kafka
+16. The Sound and the Fury by William Faulkner
+17. The Old Man and the Sea by Ernest Hemingway
+18. East of Eden by John Steinbeck
+19. The Fountainhead by Ayn Rand
+20. Atlas Shrugged by Ayn Rand
+21. The Count of Monte Cristo by Alexandre Dumas
+22. The Stranger by Harlan Coben
+23. The Stand by Stephen King
+24. The Shining by Stephen King
+25. The Road by Cormac McCarthy
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Brothers Karamazov by Fyodor Dostoevsky
+28. The Trial by Franz Kafka
+29. The Sound and the Fury by William Faulkner
+30. The Old Man and the Sea by Ernest Hemingway
+31. East of Eden by John Steinbeck
+32. The Fountainhead by Ayn Rand
+33. Atlas Shrugged by Ayn Rand
+34. The Count of Monte Cristo by Alexandre Dumas
+35. The Stranger by Harlan Coben
+36. The Stand by Stephen King
+37. The Shining by Stephen King
+38. The Road by Cormac McCarthy
+39. The Picture of Dorian Gray by Oscar Wilde
+40. The Brothers Karamazov by Fyodor Dostoevsky
+41. The Trial by Franz Kafka
+42. The Sound and the Fury by William Faulkner
+43. The Old Man and the Sea by Ernest Hemingway
+44. East of Eden by John Steinbeck
+45. The Fountainhead by Ayn Rand
+46. Atlas Shrugged by Ayn Rand
+47. The Count of Monte Cristo by Alexandre Dumas
+48. The Stranger by Harlan Coben
+49. The Stand by Stephen King
+50. The Shining by Stephen King
+
+These recommendations are based on the similar themes and genres of the books that user 1179 likes.

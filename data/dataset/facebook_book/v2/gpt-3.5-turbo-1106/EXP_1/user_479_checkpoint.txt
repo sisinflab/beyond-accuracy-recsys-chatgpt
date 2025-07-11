@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Clockwork Angel by Cassandra Clare
+2. Hush, Hush by Becca Fitzpatrick
+3. Shiver by Maggie Stiefvater
+4. Beautiful Creatures by Kami Garcia and Margaret Stohl
+5. The Maze Runner by James Dashner
+6. Uglies by Scott Westerfeld
+7. The Mortal Instruments: City of Glass by Cassandra Clare
+8. The Iron King by Julie Kagawa
+9. Graceling by Kristin Cashore
+10. The Selection by Kiera Cass
+11. The 5th Wave by Rick Yancey
+12. The Darkest Minds by Alexandra Bracken
+13. The Unbecoming of Mara Dyer by Michelle Hodkin
+14. The Giver by Lois Lowry
+15. Legend by Marie Lu
+16. Divergent by Veronica Roth
+17. The Host by Stephenie Meyer
+18. The Knife of Never Letting Go by Patrick Ness
+19. The Scorpio Races by Maggie Stiefvater
+20. The Night Circus by Erin Morgenstern
+21. The Book Thief by Markus Zusak
+22. The Fault in Our Stars by John Green
+23. The Perks of Being a Wallflower by Stephen Chbosky
+24. Eleanor & Park by Rainbow Rowell
+25. If I Stay by Gayle Forman
+26. Thirteen Reasons Why by Jay Asher
+27. The Hate U Give by Angie Thomas
+28. Simon vs. the Homo Sapiens Agenda by Becky Albertalli
+29. To All the Boys I've Loved Before by Jenny Han
+30. An Ember in the Ashes by Sabaa Tahir
+31. Red Queen by Victoria Aveyard
+32. Cinder by Marissa Meyer
+33. The Wrath & the Dawn by Renee Ahdieh
+34. The Raven Boys by Maggie Stiefvater
+35. The Diviners by Libba Bray
+36. The Name of the Wind by Patrick Rothfuss
+37. Mistborn: The Final Empire by Brandon Sanderson
+38. The Lies of Locke Lamora by Scott Lynch
+39. The Way of Kings by Brandon Sanderson
+40. The Night Angel Trilogy by Brent Weeks
+41. The Black Prism by Brent Weeks
+42. The Final Empire by Brandon Sanderson
+43. The Wise Man's Fear by Patrick Rothfuss
+44. The Well of Ascension by Brandon Sanderson
+45. The Hero of Ages by Brandon Sanderson
+46. The Lies of Locke Lamora by Scott Lynch
+47. The Republic of Thieves by Scott Lynch
+48. The Name of the Wind by Patrick Rothfuss
+49. The Slow Regard of Silent Things by Patrick Rothfuss
+50. The Wise Man's Fear by Patrick Rothfuss
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and supernatural themes.

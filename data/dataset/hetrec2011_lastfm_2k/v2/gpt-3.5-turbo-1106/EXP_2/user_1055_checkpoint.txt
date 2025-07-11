@@ -1,0 +1,54 @@
+Based on user 1055's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. Paramore
+2. Avril Lavigne
+3. Glee Cast
+4. Avenged Sevenfold
+5. Lifehouse
+6. YUI
+7. Marjorie Estiano
+8. Pitty
+9. Ana Carolina
+10. Detonautas Roque Clube
+11. Switchfoot
+12. Los Hermanos
+13. 12 Stones
+14. Skillet
+15. Creed
+16. HEVO84
+17. The Calling
+18. Charlie Brown Jr.
+19. Breaking Benjamin
+20. Britney Spears
+21. Lady Gaga
+22. Christina Aguilera
+23. Madonna
+24. Rihanna
+25. Shakira
+26. Katy Perry
+27. Taylor Swift
+28. Evanescence
+29. Beyoncé
+30. 30 Seconds to Mars
+31. Muse
+32. Pink Floyd
+33. Miley Cyrus
+34. Ke$ha
+35. Coldplay
+36. The Killers
+37. Nirvana
+38. Iron Maiden
+39. Led Zeppelin
+40. Metallica
+41. Michael Jackson
+42. Pearl Jam
+43. System of a Down
+44. Daft Punk
+45. Linkin Park
+46. Kelly Clarkson
+47. P!nk
+48. Black Eyed Peas
+49. Green Day
+50. My Chemical Romance
+
+This re-ranked list takes into account the user's preferences and places similar artists higher in the recommendations.

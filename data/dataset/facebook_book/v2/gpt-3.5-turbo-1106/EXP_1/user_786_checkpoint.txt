@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Rant by Chuck Palahniuk
+3. Haunted by Chuck Palahniuk
+4. Survivor by Chuck Palahniuk
+5. The Picture of Dorian Gray by Oscar Wilde
+6. 1984 by George Orwell
+7. Brave New World by Aldous Huxley
+8. Slaughterhouse-Five by Kurt Vonnegut
+9. The Catcher in the Rye by J.D. Salinger
+10. One Flew Over the Cuckoo's Nest by Ken Kesey
+11. The Road by Cormac McCarthy
+12. American Psycho by Bret Easton Ellis
+13. The Shining by Stephen King
+14. Misery by Stephen King
+15. The Stand by Stephen King
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. Gone Girl by Gillian Flynn
+18. Sharp Objects by Gillian Flynn
+19. Dark Places by Gillian Flynn
+20. The Great Gatsby by F. Scott Fitzgerald
+21. To Kill a Mockingbird by Harper Lee
+22. The Grapes of Wrath by John Steinbeck
+23. East of Eden by John Steinbeck
+24. Of Mice and Men by John Steinbeck
+25. The Old Man and the Sea by Ernest Hemingway
+26. For Whom the Bell Tolls by Ernest Hemingway
+27. A Farewell to Arms by Ernest Hemingway
+28. The Sun Also Rises by Ernest Hemingway
+29. The Bell Jar by Sylvia Plath
+30. The Handmaid's Tale by Margaret Atwood
+31. The Testaments by Margaret Atwood
+32. Alias Grace by Margaret Atwood
+33. The Secret History by Donna Tartt
+34. The Goldfinch by Donna Tartt
+35. The Little Friend by Donna Tartt
+36. The Night Circus by Erin Morgenstern
+37. The Book Thief by Markus Zusak
+38. The Kite Runner by Khaled Hosseini
+39. A Thousand Splendid Suns by Khaled Hosseini
+40. And Then There Were None by Agatha Christie
+41. The Murder of Roger Ackroyd by Agatha Christie
+42. Death on the Nile by Agatha Christie
+43. The Secret Adversary by Agatha Christie
+44. Through the Looking-Glass by Lewis Carroll
+45. The Chronicles of Narnia by C.S. Lewis
+46. Animal Farm by George Orwell
+47. Lord of the Flies by William Golding
+48. The Heart is a Lonely Hunter by Carson McCullers
+49. The Nightingale by Kristin Hannah
+50. The Book of Lost Things by John Connolly
+
+These recommendations are based on the user's interest in specific authors and genres.

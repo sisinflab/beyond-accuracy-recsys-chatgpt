@@ -1,0 +1,54 @@
+Based on user 1337's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Choke by Chuck Palahniuk
+3. Survivor by Chuck Palahniuk
+4. Lullaby by Chuck Palahniuk
+5. Haunted by Chuck Palahniuk
+6. Rant by Chuck Palahniuk
+7. Diary by Chuck Palahniuk
+8. Pygmy by Chuck Palahniuk
+9. Snuff by Chuck Palahniuk
+10. Invisible Monsters Remix by Chuck Palahniuk
+11. The Catcher in the Rye by J.D. Salinger
+12. Slaughterhouse-Five by Kurt Vonnegut
+13. Breakfast of Champions by Kurt Vonnegut
+14. Cat's Cradle by Kurt Vonnegut
+15. Mother Night by Kurt Vonnegut
+16. God Bless You, Mr. Rosewater by Kurt Vonnegut
+17. Slapstick by Kurt Vonnegut
+18. Jailbird by Kurt Vonnegut
+19. Deadeye Dick by Kurt Vonnegut
+20. Galápagos by Kurt Vonnegut
+21. Bluebeard by Kurt Vonnegut
+22. Timequake by Kurt Vonnegut
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Restaurant at the End of the Universe by Douglas Adams
+25. Life, the Universe and Everything by Douglas Adams
+26. So Long, and Thanks for All the Fish by Douglas Adams
+27. Mostly Harmless by Douglas Adams
+28. Good Omens by Neil Gaiman and Terry Pratchett
+29. American Gods by Neil Gaiman
+30. Neverwhere by Neil Gaiman
+31. Stardust by Neil Gaiman
+32. Anansi Boys by Neil Gaiman
+33. The Graveyard Book by Neil Gaiman
+34. Coraline by Neil Gaiman
+35. The Ocean at the End of the Lane by Neil Gaiman
+36. Norse Mythology by Neil Gaiman
+37. The Sandman Series by Neil Gaiman
+38. The Dark Tower Series by Stephen King
+39. The Stand by Stephen King
+40. It by Stephen King
+41. Pet Sematary by Stephen King
+42. Misery by Stephen King
+43. Carrie by Stephen King
+44. The Shining by Stephen King
+45. Doctor Sleep by Stephen King
+46. 11/22/63 by Stephen King
+47. The Green Mile by Stephen King
+48. The Outsider by Stephen King
+49. The Institute by Stephen King
+50. The Talisman by Stephen King and Peter Straub
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1337 enjoys.

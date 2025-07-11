@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Emma by Jane Austen
+3. Sense and Sensibility by Jane Austen
+4. Mansfield Park by Jane Austen
+5. Northanger Abbey by Jane Austen
+6. Sense and Sensibility by Jane Austen
+7. Jane Eyre by Charlotte Bronte
+8. Wuthering Heights by Emily Bronte
+9. The Catcher in the Rye by J.D. Salinger
+10. To Kill a Mockingbird by Harper Lee
+11. 1984 by George Orwell
+12. Animal Farm by George Orwell
+13. The Great Gatsby by F. Scott Fitzgerald
+14. The Sun Also Rises by Ernest Hemingway
+15. For Whom the Bell Tolls by Ernest Hemingway
+16. The Sound and the Fury by William Faulkner
+17. As I Lay Dying by William Faulkner
+18. The Grapes of Wrath by John Steinbeck
+19. East of Eden by John Steinbeck
+20. Of Mice and Men by John Steinbeck
+21. A Clockwork Orange by Anthony Burgess
+22. 1984 by George Orwell
+23. Fahrenheit 451 by Ray Bradbury
+24. The Handmaid's Tale by Margaret Atwood
+25. Lord of the Flies by William Golding
+26. One Flew Over the Cuckoo's Nest by Ken Kesey
+27. Slaughterhouse-Five by Kurt Vonnegut
+28. Catch-22 by Joseph Heller
+29. The Bell Jar by Sylvia Plath
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+32. Frankenstein by Mary Shelley
+33. Dracula by Bram Stoker
+34. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+35. Crime and Punishment by Fyodor Dostoevsky
+36. The Brothers Karamazov by Fyodor Dostoevsky
+37. Anna Karenina by Leo Tolstoy
+38. War and Peace by Leo Tolstoy
+39. The Idiot by Fyodor Dostoevsky
+40. The Trial by Franz Kafka
+41. The Metamorphosis by Franz Kafka
+42. One Hundred Years of Solitude by Gabriel Garcia Marquez
+43. Love in the Time of Cholera by Gabriel Garcia Marquez
+44. The Stranger by Albert Camus
+45. The Plague by Albert Camus
+46. The Outsider by Albert Camus
+47. The Myth of Sisyphus by Albert Camus
+48. The Fall by Albert Camus
+49. Nausea by Jean-Paul Sartre
+50. The Age of Reason by Jean-Paul Sartre
+
+These recommendations are based on the user's interest in classic literature, modern classics, and literary fiction.

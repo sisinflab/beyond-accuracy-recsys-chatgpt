@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1074:
+
+1. U2
+2. Depeche Mode
+3. Madonna
+4. The Cure
+5. Elton John
+6. Pet Shop Boys
+7. New Order
+8. Moby
+9. The Smiths
+10. Erasure
+11. Pixies
+12. Tori Amos
+13. Scissor Sisters
+14. Simple Minds
+15. The Human League
+16. Howard Jones
+17. Orchestral Manoeuvres in the Dark
+18. Spandau Ballet
+19. Genesis
+20. Wham!
+21. Culture Club
+22. Cyndi Lauper
+23. Thompson Twins
+24. Madness
+25. Stone Temple Pilots
+26. Eurythmics
+27. Sigur Rós
+28. Japan
+29. Eric Clapton
+30. Nik Kershaw
+31. ABC
+32. Faith No More
+33. Icehouse
+34. Bruce Springsteen
+35. Morrissey
+36. The Police
+37. Billy Joel
+38. Ultravox
+39. The Rolling Stones
+40. Fleetwood Mac
+41. Pink Floyd
+42. Oasis
+43. Queen
+44. Sting
+45. The Beatles
+46. Paul McCartney
+47. Tom Petty and the Heartbreakers
+48. The Killers
+49. George Michael
+50. Duran Duran
+
+These recommendations are based on the user's existing preferences and are designed to introduce new artists that align with their musical tastes.

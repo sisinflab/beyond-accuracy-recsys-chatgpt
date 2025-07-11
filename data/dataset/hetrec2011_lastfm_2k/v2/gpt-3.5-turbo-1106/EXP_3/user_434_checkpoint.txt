@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 434:
+
+1. Radiohead
+2. Nirvana
+3. Beck
+4. Portishead
+5. Spoon
+6. Wilco
+7. Nine Inch Nails
+8. Boards of Canada
+9. Spiritualized
+10. Caribou
+11. Talk Talk
+12. XTC
+13. of Montreal
+14. M. Ward
+15. Stereolab
+16. Black Flag
+17. The Stooges
+18. Beastie Boys
+19. Fugazi
+20. Guided by Voices
+21. Kanye West
+22. David Bowie
+23. Queens of the Stone Age
+24. Elliott Smith
+25. Florence + the Machine
+26. Phoenix
+27. Gorillaz
+28. Two Door Cinema Club
+29. The Cranberries
+30. Kid Cudi
+31. Yeah Yeah Yeahs
+32. Jamiroquai
+33. Muse
+34. Interpol
+35. The Smashing Pumpkins
+36. Depeche Mode
+37. Marilyn Manson
+38. Rammstein
+39. Tool
+40. Deftones
+41. Slipknot
+42. Korn
+43. Incubus
+44. System of a Down
+45. Soulwax
+46. Pendulum
+47. Death Cab for Cutie
+48. Bad Religion
+49. Joy Division
+50. The Beatles
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their taste in music.

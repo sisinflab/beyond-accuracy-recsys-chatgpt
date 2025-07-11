@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Radiohead
+3. The Smiths
+4. Nine Inch Nails
+5. Placebo
+6. R.E.M.
+7. The Killers
+8. The Smashing Pumpkins
+9. Garbage
+10. Siouxsie and the Banshees
+11. The Cranberries
+12. Echo & the Bunnymen
+13. The Jesus and Mary Chain
+14. Interpol
+15. The Strokes
+16. Arctic Monkeys
+17. PJ Harvey
+18. Sonic Youth
+19. The Libertines
+20. The White Stripes
+21. The Verve
+22. The Chemical Brothers
+23. Massive Attack
+24. Portishead
+25. Goldfrapp
+26. Moby
+27. Air
+28. Daft Punk
+29. Gorillaz
+30. LCD Soundsystem
+31. Hot Chip
+32. Grimes
+33. Tame Impala
+34. Florence + The Machine
+35. Lana Del Rey
+36. HAIM
+37. CHVRCHES
+38. Lorde
+39. St. Vincent
+40. Vampire Weekend
+41. Arcade Fire
+42. The National
+43. Fleet Foxes
+44. Beirut
+45. Sufjan Stevens
+46. Bon Iver
+47. The War on Drugs
+48. Father John Misty
+49. Mac DeMarco
+50. Courtney Barnett
+
+These recommendations are based on the user's liking of similar artists and genres.

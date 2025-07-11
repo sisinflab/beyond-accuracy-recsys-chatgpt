@@ -1,0 +1,54 @@
+Based on user 1191's preferences, here are the top 50 book recommendations:
+
+1. Nineteen Eighty-Four by George Orwell
+2. The Great Gatsby by F. Scott Fitzgerald
+3. A Brief History of Time by Stephen Hawking
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Bell Jar by Sylvia Plath
+6. The Glass Menagerie by Tennessee Williams
+7. Franny and Zooey by J. D. Salinger
+8. Fear and Loathing in Las Vegas by Hunter S. Thompson
+9. Bluebeard (Vonnegut novel) by Kurt Vonnegut
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. Naked Lunch by William S. Burroughs
+12. In Cold Blood
+13. The Hitchhiker's Guide to the Galaxy (novel)
+14. The Outsiders (novel)
+15. The Time Traveler's Wife
+16. Death Note Another Note: The Los Angeles BB Murder Cases
+17. The Dirt
+18. The Lord of the Rings
+19. World War Z
+20. The Shadow of the Wind
+21. Look Me in the Eye
+22. American Psycho
+23. The Hobbit
+24. Eric (novel)
+25. Player Piano (novel)
+26. The Watchmen (novel)
+27. The Lovely Bones
+28. The Handmaid's Tale
+29. Junkie (novel)
+30. Finnegans Wake
+31. Johnny the Homicidal Maniac
+32. Beauty: A Retelling of the Story of Beauty and the Beast
+33. The Hours (novel)
+34. Ulysses (novel)
+35. The Book Thief
+36. Batman: Year One
+37. The Good Earth
+38. The Secret Garden
+39. Girl with a Pearl Earring (novel)
+40. Cat's Cradle
+41. Slash (autobiography)
+42. Sold (McCormick novel)
+43. The Old Man and the Sea
+44. Prometheus Rising
+45. Jane Eyre
+46. Dubliners
+47. Crank (novel)
+48. Less Than Zero (novel)
+49. Fahrenheit 451
+50. City of Glass (Mortal Instruments)
+
+These recommendations are based on the user's previous likes and are ranked according to their potential appeal to the user.

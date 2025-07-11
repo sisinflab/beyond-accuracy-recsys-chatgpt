@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Stand by Stephen King
+2. Pet Sematary by Stephen King
+3. The Shining by Stephen King
+4. Misery by Stephen King
+5. It by Stephen King
+6. Carrie by Stephen King
+7. Salem's Lot by Stephen King
+8. The Dark Tower series by Stephen King
+9. 11/22/63 by Stephen King
+10. The Outsider by Stephen King
+11. The Dead Zone by Stephen King
+12. The Tommyknockers by Stephen King
+13. Needful Things by Stephen King
+14. The Talisman by Stephen King and Peter Straub
+15. The Drawing of the Three by Stephen King
+16. The Waste Lands by Stephen King
+17. Wizard and Glass by Stephen King
+18. Wolves of the Calla by Stephen King
+19. Song of Susannah by Stephen King
+20. The Dark Tower by Stephen King
+21. The Eyes of the Dragon by Stephen King
+22. The Green Mile by Stephen King
+23. Doctor Sleep by Stephen King
+24. The Institute by Stephen King
+25. Duma Key by Stephen King
+26. Lisey's Story by Stephen King
+27. Joyland by Stephen King
+28. The Long Walk by Stephen King
+29. The Running Man by Stephen King
+30. Thinner by Stephen King
+31. The Regulators by Stephen King (as Richard Bachman)
+32. Blaze by Stephen King (as Richard Bachman)
+33. The Girl Who Loved Tom Gordon by Stephen King
+34. Desperation by Stephen King
+35. Chobits by Clamp (manga artists)
+36. Azumanga Daioh by Kiyohiko Azuma
+37. Pay It Forward by Catherine Ryan Hyde
+38. Interview with the Vampire by Anne Rice
+39. The Vampire Lestat by Anne Rice
+40. Queen of the Damned by Anne Rice
+41. The Tale of the Body Thief by Anne Rice
+42. Memnoch the Devil by Anne Rice
+43. The Vampire Armand by Anne Rice
+44. Merrick by Anne Rice
+45. Blood and Gold by Anne Rice
+46. Blackwood Farm by Anne Rice
+47. Blood Canticle by Anne Rice
+48. Prince Lestat by Anne Rice
+49. Night Shift by Stephen King
+50. Nightmares & Dreamscapes by Stephen King
+
+These recommendations are based on the user's interest in Stephen King's works, as well as other related genres and authors.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Sandman (comics) by Neil Gaiman
+2. Coraline by Neil Gaiman
+3. The Graveyard Book by Neil Gaiman
+4. American Gods by Neil Gaiman
+5. Good Omens by Neil Gaiman and Terry Pratchett
+6. Watchmen (comics) by Alan Moore
+7. V for Vendetta (comics) by Alan Moore
+8. From Hell by Alan Moore
+9. Swamp Thing (comics) by Alan Moore
+10. The Killing Joke by Alan Moore
+11. The Dark Knight Returns by Frank Miller
+12. Batman: Year One by Frank Miller
+13. Sin City by Frank Miller
+14. 300 by Frank Miller
+15. The Sandman by Neil Gaiman
+16. Stardust (graphic novel) by Neil Gaiman
+17. The Ocean at the End of the Lane by Neil Gaiman
+18. Anansi Boys by Neil Gaiman
+19. Fragile Things by Neil Gaiman
+20. Trigger Warning by Neil Gaiman
+21. The View from the Cheap Seats by Neil Gaiman
+22. The Annotated Alice by Lewis Carroll
+23. Through the Looking-Glass by Lewis Carroll
+24. Jabberwocky and Other Nonsense by Lewis Carroll
+25. The Hunting of the Snark by Lewis Carroll
+26. The Tim Burton Collection by Tim Burton
+27. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+28. Hollow City by Ransom Riggs
+29. Library of Souls by Ransom Riggs
+30. Tales of the Peculiar by Ransom Riggs
+31. Kick-Ass 2 by Mark Millar
+32. Nemesis by Mark Millar
+33. Superior by Mark Millar
+34. Jupiter's Legacy by Mark Millar
+35. The Ultimates by Mark Millar
+36. The Martian Chronicles by Ray Bradbury
+37. Something Wicked This Way Comes by Ray Bradbury
+38. Dandelion Wine by Ray Bradbury
+39. The Illustrated Man by Ray Bradbury
+40. The October Country by Ray Bradbury
+41. The Complete Maus by Art Spiegelman
+42. Persepolis by Marjane Satrapi
+43. Fun Home by Alison Bechdel
+44. Blankets by Craig Thompson
+45. Habibi by Craig Thompson
+46. The Arrival by Shaun Tan
+47. The Sculptor by Scott McCloud
+48. Understanding Comics by Scott McCloud
+49. The Complete Persepolis by Marjane Satrapi
+50. Maus by Art Spiegelman
+
+These recommendations are based on the user's interest in graphic novels, comics, and books by Neil Gaiman, Lewis Carroll, Tim Burton, and other similar authors.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Sonic Youth
+3. The Smiths
+4. Joy Division
+5. Cocteau Twins
+6. New Order
+7. The Jesus and Mary Chain
+8. Ride
+9. Lush
+10. Galaxie 500
+11. The War on Drugs
+12. Beach House
+13. DIIV
+14. The Pains of Being Pure at Heart
+15. Wild Nothing
+16. Alvvays
+17. Beach Fossils
+18. Real Estate
+19. The Radio Dept.
+20. Yo La Tengo
+21. The National
+22. Interpol
+23. The Strokes
+24. Arctic Monkeys
+25. Tame Impala
+26. Vampire Weekend
+27. MGMT
+28. The Black Keys
+29. Cage the Elephant
+30. The White Stripes
+31. Yeah Yeah Yeahs
+32. The Kills
+33. The Vaccines
+34. The Libertines
+35. Franz Ferdinand
+36. Bloc Party
+37. The Kooks
+38. Two Door Cinema Club
+39. Foals
+40. Bombay Bicycle Club
+41. The Maccabees
+42. Wolf Alice
+43. Catfish and the Bottlemen
+44. The 1975
+45. HAIM
+46. CHVRCHES
+47. Florence + The Machine
+48. London Grammar
+49. Warpaint
+50. Daughter
+
+These recommendations are based on the user's liking for artists such as My Bloody Valentine, Depeche Mode, Slowdive, and others, and are aimed at providing a diverse range of similar artists for the user to explore.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the re-ranked top-50 recommendations:
+
+1. Iron Maiden
+2. Led Zeppelin
+3. Pink Floyd
+4. Metallica
+5. Nirvana
+6. Black Sabbath
+7. Megadeth
+8. Slayer
+9. In Flames
+10. Judas Priest
+11. System of a Down
+12. Death
+13. Sepultura
+14. Kreator
+15. Exodus
+16. Venom
+17. Helloween
+18. Motörhead
+19. Overkill
+20. Rammstein
+21. Guns N' Roses
+22. Children of Bodom
+23. Soilwork
+24. Municipal Waste
+25. Apocalyptica
+26. Destruction
+27. The Sisters of Mercy
+28. Napalm Death
+29. Placebo
+30. Sodom
+31. Interpol
+32. The Beatles
+33. Depeche Mode
+34. Radiohead
+35. Muse
+36. U2
+37. Nine Inch Nails
+38. Linkin Park
+39. The Killers
+40. My Chemical Romance
+41. Green Day
+42. The Cure
+43. 30 Seconds to Mars
+44. Arctic Monkeys
+45. Duran Duran
+46. Blur
+47. Michael Jackson
+48. Madonna
+49. Lady Gaga
+50. Rihanna
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Matilda by Roald Dahl
+2. Holes by Louis Sachar
+3. The Giver by Lois Lowry
+4. Bridge to Terabithia by Katherine Paterson
+5. The Secret Garden by Frances Hodgson Burnett
+6. The Chronicles of Narnia by C.S. Lewis
+7. Harry Potter series by J.K. Rowling
+8. The Lightning Thief by Rick Riordan
+9. The Outsiders by S.E. Hinton
+10. The Diary of a Young Girl by Anne Frank
+11. The Tale of Despereaux by Kate DiCamillo
+12. The Phantom Tollbooth by Norton Juster
+13. The Westing Game by Ellen Raskin
+14. The Invention of Hugo Cabret by Brian Selznick
+15. A Wrinkle in Time by Madeleine L'Engle
+16. The Mysterious Benedict Society by Trenton Lee Stewart
+17. The Secret Series by Pseudonymous Bosch
+18. The Penderwicks by Jeanne Birdsall
+19. The Boxcar Children by Gertrude Chandler Warner
+20. The Magic Tree House series by Mary Pope Osborne
+21. The Hardy Boys series by Franklin W. Dixon
+22. The Nancy Drew Diaries by Carolyn Keene
+23. The Maze Runner by James Dashner
+24. The Hunger Games prequel: The Ballad of Songbirds and Snakes by Suzanne Collins
+25. The Maze of Bones (The 39 Clues, Book 1) by Rick Riordan
+26. The City of Ember by Jeanne DuPrau
+27. The Mysterious Benedict Society by Trenton Lee Stewart
+28. The Alchemyst by Michael Scott
+29. The Artemis Fowl series by Eoin Colfer
+30. The Percy Jackson & the Olympians series by Rick Riordan
+31. The Land of Stories series by Chris Colfer
+32. The School for Good and Evil series by Soman Chainani
+33. The Unwanteds by Lisa McMann
+34. The False Prince by Jennifer A. Nielsen
+35. The Ranger's Apprentice series by John Flanagan
+36. The Underland Chronicles by Suzanne Collins
+37. The Lunar Chronicles by Marissa Meyer
+38. The Selection series by Kiera Cass
+39. The Divergent series by Veronica Roth
+40. The Maze Runner series by James Dashner
+41. The Mortal Instruments series by Cassandra Clare
+42. The Infernal Devices series by Cassandra Clare
+43. The Hunger Games trilogy by Suzanne Collins
+44. The Twilight Saga by Stephenie Meyer
+45. The Harry Potter series by J.K. Rowling
+46. The Chronicles of Narnia series by C.S. Lewis
+47. The Percy Jackson & the Olympians series by Rick Riordan
+48. The Heroes of Olympus series by Rick Riordan
+49. The Kane Chronicles series by Rick Riordan
+50. The Trials of Apollo series by Rick Riordan
+
+These recommendations are based on the user's interest in young adult fiction, mystery, and adventure genres.

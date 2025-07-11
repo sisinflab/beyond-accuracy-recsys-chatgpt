@@ -1,0 +1,54 @@
+Based on the preferences of user 811, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. American Psycho by Bret Easton Ellis
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. The Kite Runner by Khaled Hosseini
+5. Running with Scissors by Augusten Burroughs
+6. Me Talk Pretty One Day by David Sedaris
+7. The Glass Castle by Jeannette Walls
+8. The Catcher in the Rye by J.D. Salinger
+9. The Bell Jar by Sylvia Plath
+10. Less Than Zero by Bret Easton Ellis
+11. The Lovely Bones by Alice Sebold
+12. The Road by Cormac McCarthy
+13. The Fault in Our Stars by John Green
+14. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+15. The Girl on the Train by Paula Hawkins
+16. The Goldfinch by Donna Tartt
+17. The Secret History by Donna Tartt
+18. The Virgin Suicides by Jeffrey Eugenides
+19. The Handmaid's Tale by Margaret Atwood
+20. The Night Circus by Erin Morgenstern
+21. The Book Thief by Markus Zusak
+22. The Help by Kathryn Stockett
+23. The Hunger Games by Suzanne Collins
+24. The Martian by Andy Weir
+25. The Alchemist by Paulo Coelho
+26. The Da Vinci Code by Dan Brown
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Name of the Wind by Patrick Rothfuss
+31. The Maze Runner by James Dashner
+32. The Giver by Lois Lowry
+33. The Lightning Thief by Rick Riordan
+34. The Hunger Games by Suzanne Collins
+35. The Fault in Our Stars by John Green
+36. The Catcher in the Rye by J.D. Salinger
+37. The Book Thief by Markus Zusak
+38. The Alchemist by Paulo Coelho
+39. The Help by Kathryn Stockett
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Night Circus by Erin Morgenstern
+42. The Secret History by Donna Tartt
+43. The Virgin Suicides by Jeffrey Eugenides
+44. The Road by Cormac McCarthy
+45. The Lovely Bones by Alice Sebold
+46. The Glass Castle by Jeannette Walls
+47. Me Talk Pretty One Day by David Sedaris
+48. Running with Scissors by Augusten Burroughs
+49. The Kite Runner by Khaled Hosseini
+50. The Perks of Being a Wallflower by Stephen Chbosky
+
+These recommendations are based on the similar themes, genres, and authors to the books that user 811 likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 543:
+
+1. Muse
+2. U2
+3. Radiohead
+4. Coldplay
+5. Placebo
+6. The Killers
+7. Depeche Mode
+8. Lady Gaga
+9. Arctic Monkeys
+10. Keane
+11. Goldfrapp
+12. Editors
+13. M83
+14. Franz Ferdinand
+15. Yeah Yeah Yeahs
+16. Bat for Lashes
+17. White Lies
+18. MGMT
+19. Hard-Fi
+20. Panic! At the Disco
+21. Editors
+22. Kamelot
+23. Infected Mushroom
+24. God Is an Astronaut
+25. Hurts
+26. Moby
+27. John Mayer
+28. A Perfect Circle
+29. Incubus
+30. The Used
+31. Dream Theater
+32. Pain of Salvation
+33. Jamiroquai
+34. Moby
+35. M83
+36. Yeah Yeah Yeahs
+37. Hard-Fi
+38. Editors
+39. Kamelot
+40. Infected Mushroom
+41. God Is an Astronaut
+42. Hurts
+43. A Perfect Circle
+44. Incubus
+45. The Used
+46. Dream Theater
+47. Pain of Salvation
+48. Jamiroquai
+49. MGMT
+50. Franz Ferdinand
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

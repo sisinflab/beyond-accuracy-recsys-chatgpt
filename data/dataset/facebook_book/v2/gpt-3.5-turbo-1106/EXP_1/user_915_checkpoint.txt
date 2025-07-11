@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Percy Jackson & the Olympians series by Rick Riordan
+2. The Hunger Games series by Suzanne Collins
+3. The Fault in Our Stars by John Green
+4. The Maze Runner series by James Dashner
+5. Divergent series by Veronica Roth
+6. The Twilight Saga by Stephenie Meyer
+7. The Book Thief by Markus Zusak
+8. The Giver by Lois Lowry
+9. The Outsiders by S.E. Hinton
+10. To Kill a Mockingbird by Harper Lee
+11. The Catcher in the Rye by J.D. Salinger
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Alchemist by Paulo Coelho
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Da Vinci Code by Dan Brown
+16. The Girl on the Train by Paula Hawkins
+17. Gone Girl by Gillian Flynn
+18. The Help by Kathryn Stockett
+19. The Kite Runner by Khaled Hosseini
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Lovely Bones by Alice Sebold
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Night Circus by Erin Morgenstern
+24. The Goldfinch by Donna Tartt
+25. The Handmaid's Tale by Margaret Atwood
+26. The Martian by Andy Weir
+27. Ready Player One by Ernest Cline
+28. The Name of the Wind by Patrick Rothfuss
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Nightingale by Kristin Hannah
+31. The Silent Patient by Alex Michaelides
+32. Where the Crawdads Sing by Delia Owens
+33. Educated by Tara Westover
+34. Little Fires Everywhere by Celeste Ng
+35. Eleanor Oliphant Is Completely Fine by Gail Honeyman
+36. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+37. Circe by Madeline Miller
+38. The Tattooist of Auschwitz by Heather Morris
+39. The Alice Network by Kate Quinn
+40. The Great Alone by Kristin Hannah
+41. The Light We Lost by Jill Santopolo
+42. The Nightingale by Kristin Hannah
+43. The Silent Patient by Alex Michaelides
+44. The Woman in the Window by A.J. Finn
+45. The Wife Between Us by Greer Hendricks and Sarah Pekkanen
+46. The Girl in the Ice by Robert Bryndza
+47. The Couple Next Door by Shari Lapena
+48. The Girl Who Lived by Christopher Greyson
+49. The Girl in the Spider's Web by David Lagercrantz
+50. The Girl Before by J.P. Delaney
+
+These recommendations are based on the user's interest in fantasy, mystery, young adult fiction, and contemporary literature.

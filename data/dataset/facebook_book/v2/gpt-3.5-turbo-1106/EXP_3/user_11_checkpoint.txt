@@ -1,0 +1,54 @@
+Based on user 11's preferences, here is a re-ranked list of books into a top-50 recommendations:
+
+1. The Pelican Brief
+2. The Amityville Horror
+3. PS, I Love You (novel)
+4. World Without End (Follett novel)
+5. A Painted House
+6. Collected Ghost Stories
+7. Harry Potter
+8. Sweet Valley High
+9. The Da Vinci Code
+10. The Time Traveler's Wife
+11. Eragon
+12. I Am Not a Serial Killer
+13. The Alchemist (novel)
+14. Pigs in Heaven
+15. Manual of the Warrior of Light
+16. The Queen's Fool
+17. Marley & Me
+18. Sun Bin's Art of War
+19. The Thief of Always
+20. Impulse economy
+21. Elfquest
+22. Go Ask Alice
+23. Dear John (novel)
+24. The Five People You Meet in Heaven
+25. Crank (novel)
+26. The Secret (book)
+27. The Picture of Dorian Gray
+28. Tuesdays with Morrie
+29. Memoirs of a Geisha
+30. Tomorrow, When the War Began
+31. Romeo and Juliet
+32. The Master and Margarita
+33. To Kill a Mockingbird
+34. Genius Squad
+35. The True Believer
+36. Nineteen Eighty-Four
+37. Pride and Prejudice
+38. Touching Spirit Bear
+39. Gossip Girl (novel series)
+40. Chicken Soup for the Soul
+41. If You Could See Me Now (Cecelia Ahern novel)
+42. Along for the Ride
+43. The Lion in Winter
+44. The Last Lecture
+45. At First Sight (novel)
+46. Catching Fire
+47. Change of Heart (novel)
+48. Pretties
+49. Twilight (series)
+50. The Lovely Bones
+
+This re-ranked list is based on the user's previous preferences and the similarity of the recommended books to the ones the user has liked.

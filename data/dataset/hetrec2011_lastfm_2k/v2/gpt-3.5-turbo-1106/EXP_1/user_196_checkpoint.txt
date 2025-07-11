@@ -1,0 +1,54 @@
+Based on user 196's preferences, here are the top 50 recommendations:
+
+1. The White Stripes
+2. Oasis
+3. The Rolling Stones
+4. The Black Crowes
+5. The Verve
+6. Pearl Jam
+7. The Flaming Lips
+8. The Kooks
+9. The Smashing Pumpkins
+10. The Libertines
+11. The Hives
+12. The Fratellis
+13. The Bravery
+14. The All-American Rejects
+15. The 1975
+16. Stereophonics
+17. The Cranberries
+18. The Cardigans
+19. The Breeders
+20. The Avett Brothers
+21. The Airborne Toxic Event
+22. The 88
+23. Tame Impala
+24. Spoon
+25. Silversun Pickups
+26. R.E.M.
+27. Pixies
+28. Phoenix
+29. Modest Mouse
+30. Metric
+31. MGMT
+32. Interpol
+33. Imagine Dragons
+34. Hozier
+35. Florence + The Machine
+36. Death Cab for Cutie
+37. Cage The Elephant
+38. Arctic Monkeys
+39. Alt-J
+40. Vampire Weekend
+41. The Killers
+42. Muse
+43. Radiohead
+44. Coldplay
+45. Foo Fighters
+46. Red Hot Chili Peppers
+47. Nirvana
+48. Queens of the Stone Age
+49. The Strokes
+50. Paramore
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for them to explore.

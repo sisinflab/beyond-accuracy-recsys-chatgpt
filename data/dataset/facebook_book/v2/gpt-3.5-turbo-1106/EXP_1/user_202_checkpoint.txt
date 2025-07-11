@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Lord of the Flies by William Golding
+5. The Alchemist by Paulo Coelho
+6. The Bell Jar by Sylvia Plath
+7. The Handmaid's Tale by Margaret Atwood
+8. The Giver by Lois Lowry
+9. Fahrenheit 451 by Ray Bradbury
+10. The Hobbit by J.R.R. Tolkien
+11. The Secret Life of Bees by Sue Monk Kidd
+12. The Kite Runner by Khaled Hosseini
+13. The Road by Cormac McCarthy
+14. The Grapes of Wrath by John Steinbeck
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Sun Also Rises by Ernest Hemingway
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. The Count of Monte Cristo by Alexandre Dumas
+20. The Odyssey by Homer
+21. The Iliad by Homer
+22. The Divine Comedy by Dante Alighieri
+23. Crime and Punishment by Fyodor Dostoevsky
+24. One Hundred Years of Solitude by Gabriel Garcia Marquez
+25. The Stranger by Albert Camus
+26. The Brothers Karamazov by Fyodor Dostoevsky
+27. Anna Karenina by Leo Tolstoy
+28. War and Peace by Leo Tolstoy
+29. Moby-Dick by Herman Melville
+30. Heart of Darkness by Joseph Conrad
+31. The Canterbury Tales by Geoffrey Chaucer
+32. Don Quixote by Miguel de Cervantes
+33. The Adventures of Huckleberry Finn by Mark Twain
+34. The Grapes of Wrath by John Steinbeck
+35. The Sound and the Fury by William Faulkner
+36. The Lord of the Rings by J.R.R. Tolkien
+37. The Chronicles of Narnia by C.S. Lewis
+38. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+39. The Martian by Andy Weir
+40. Dune by Frank Herbert
+41. Ender's Game by Orson Scott Card
+42. The Hunger Games by Suzanne Collins
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. The Da Vinci Code by Dan Brown
+45. The Help by Kathryn Stockett
+46. The Book Thief by Markus Zusak
+47. The Night Circus by Erin Morgenstern
+48. The Goldfinch by Donna Tartt
+49. The Secret History by Donna Tartt
+50. The Shadow of the Wind by Carlos Ruiz Zafón
+
+These recommendations are based on the user's interest in classic literature, fantasy, and historical fiction.

@@ -1,0 +1,54 @@
+Based on the preferences of user 108, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Maze Runner by James Dashner
+3. The Giver by Lois Lowry
+4. The Selection by Kiera Cass
+5. The Mortal Instruments by Cassandra Clare
+6. The Lunar Chronicles by Marissa Meyer
+7. The 5th Wave by Rick Yancey
+8. Legend by Marie Lu
+9. The Darkest Minds by Alexandra Bracken
+10. Uglies by Scott Westerfeld
+11. The Knife of Never Letting Go by Patrick Ness
+12. The Testing by Joelle Charbonneau
+13. Delirium by Lauren Oliver
+14. The Uglies Series by Scott Westerfeld
+15. The City of Ember by Jeanne DuPrau
+16. The Unwind Dystology by Neal Shusterman
+17. The Chaos Walking Trilogy by Patrick Ness
+18. The Matched Trilogy by Ally Condie
+19. The 100 by Kass Morgan
+20. The Delirium Trilogy by Lauren Oliver
+21. The Legend Trilogy by Marie Lu
+22. The Uglies Quartet by Scott Westerfeld
+23. The Maze Runner Series by James Dashner
+24. The Giver Quartet by Lois Lowry
+25. The Selection Series by Kiera Cass
+26. The Mortal Instruments Series by Cassandra Clare
+27. The Lunar Chronicles Series by Marissa Meyer
+28. The 5th Wave Series by Rick Yancey
+29. The Darkest Minds Series by Alexandra Bracken
+30. The Testing Trilogy by Joelle Charbonneau
+31. The Unwind Dystology Series by Neal Shusterman
+32. The Chaos Walking Series by Patrick Ness
+33. The Matched Trilogy by Ally Condie
+34. The 100 Series by Kass Morgan
+35. The Delirium Trilogy by Lauren Oliver
+36. The Legend Trilogy by Marie Lu
+37. The Uglies Quartet by Scott Westerfeld
+38. The Maze Runner Series by James Dashner
+39. The Giver Quartet by Lois Lowry
+40. The Selection Series by Kiera Cass
+41. The Mortal Instruments Series by Cassandra Clare
+42. The Lunar Chronicles Series by Marissa Meyer
+43. The 5th Wave Series by Rick Yancey
+44. The Darkest Minds Series by Alexandra Bracken
+45. The Testing Trilogy by Joelle Charbonneau
+46. The Unwind Dystology Series by Neal Shusterman
+47. The Chaos Walking Series by Patrick Ness
+48. The Matched Trilogy by Ally Condie
+49. The 100 Series by Kass Morgan
+50. The Delirium Trilogy by Lauren Oliver
+
+These recommendations are based on the similar themes and genres of the books that user 108 likes.

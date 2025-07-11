@@ -1,0 +1,54 @@
+Based on user 1348's preferences, here are the top 50 book recommendations:
+
+1. The Picture of Dorian Gray by Oscar Wilde
+2. Crime and Punishment by Fyodor Dostoevsky
+3. The Count of Monte Cristo by Alexandre Dumas
+4. The Brothers Karamazov by Fyodor Dostoevsky
+5. The Stranger by Albert Camus
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Catcher in the Rye by J.D. Salinger
+8. The Bell Jar by Sylvia Plath
+9. The Road by Cormac McCarthy
+10. The Handmaid's Tale by Margaret Atwood
+11. The Great Gatsby by F. Scott Fitzgerald
+12. 1984 by George Orwell
+13. To Kill a Mockingbird by Harper Lee
+14. The Grapes of Wrath by John Steinbeck
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+17. The Alchemist by Paulo Coelho
+18. The Book Thief by Markus Zusak
+19. The Kite Runner by Khaled Hosseini
+20. The Night Circus by Erin Morgenstern
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Name of the Wind by Patrick Rothfuss
+23. The Goldfinch by Donna Tartt
+24. The Secret History by Donna Tartt
+25. The Girl with the Dragon Tattoo by Stieg Larsson
+26. The Martian by Andy Weir
+27. The Hand of Fatima by Ildefonso Falcones
+28. The Historian by Elizabeth Kostova
+29. The Thirteenth Tale by Diane Setterfield
+30. The Secret Life of Bees by Sue Monk Kidd
+31. The Help by Kathryn Stockett
+32. The Nightingale by Kristin Hannah
+33. The Book of Lost Things by John Connolly
+34. The Golem and the Jinni by Helene Wecker
+35. The Snow Child by Eowyn Ivey
+36. The Miniaturist by Jessie Burton
+37. The Night Circus by Erin Morgenstern
+38. The Essex Serpent by Sarah Perry
+39. The Bear and the Nightingale by Katherine Arden
+40. The Immortalists by Chloe Benjamin
+41. The Alice Network by Kate Quinn
+42. The Nightingale by Kristin Hannah
+43. The Light Between Oceans by M.L. Stedman
+44. The Night Circus by Erin Morgenstern
+45. The Essex Serpent by Sarah Perry
+46. The Bear and the Nightingale by Katherine Arden
+47. The Immortalists by Chloe Benjamin
+48. The Alice Network by Kate Quinn
+49. The Nightingale by Kristin Hannah
+50. The Light Between Oceans by M.L. Stedman
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1348 likes.

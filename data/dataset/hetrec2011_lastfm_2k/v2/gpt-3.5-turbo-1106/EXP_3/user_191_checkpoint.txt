@@ -1,0 +1,54 @@
+Based on user 191's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The Cure
+2. Depeche Mode
+3. David Bowie
+4. INXS
+5. Marilyn Manson
+6. Rammstein
+7. Duran Duran
+8. Placebo
+9. Red Hot Chili Peppers
+10. The Rolling Stones
+11. Nirvana
+12. Radiohead
+13. System of a Down
+14. Coldplay
+15. Queen
+16. Mylène Farmer
+17. The Doors
+18. Metallica
+19. Black Sabbath
+20. The Cranberries
+21. Keane
+22. Arctic Monkeys
+23. U2
+24. Pet Shop Boys
+25. Massive Attack
+26. Morcheeba
+27. The Cure
+28. Depeche Mode
+29. David Bowie
+30. INXS
+31. Marilyn Manson
+32. Rammstein
+33. Duran Duran
+34. Placebo
+35. Red Hot Chili Peppers
+36. The Rolling Stones
+37. Nirvana
+38. Radiohead
+39. System of a Down
+40. Coldplay
+41. Queen
+42. Mylène Farmer
+43. The Doors
+44. Metallica
+45. Black Sabbath
+46. The Cranberries
+47. Keane
+48. Arctic Monkeys
+49. U2
+50. Pet Shop Boys
+
+These recommendations are based on similar genres and artists liked by user 191.

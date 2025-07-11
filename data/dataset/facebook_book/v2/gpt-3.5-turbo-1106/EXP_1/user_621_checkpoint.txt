@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels & Demons by Dan Brown
+3. The Lost Symbol by Dan Brown
+4. Deception Point by Dan Brown
+5. Digital Fortress by Dan Brown
+6. The Inferno by Dante Alighieri
+7. Purgatorio by Dante Alighieri
+8. Paradiso by Dante Alighieri
+9. Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
+10. Son of a Witch by Gregory Maguire
+11. A Lion Among Men by Gregory Maguire
+12. Out of Oz by Gregory Maguire
+13. Charmed: Season 9 by Paul Ruditis
+14. Charmed: Season 10 by Paul Ruditis
+15. Charmed: The War on Witches by Paul Ruditis
+16. Charmed: Social Medium by Paul Ruditis
+17. Charmed: The Manga by Paul Ruditis
+18. Dracula by Bram Stoker
+19. Frankenstein by Mary Shelley
+20. Jane Eyre by Charlotte Brontë
+21. Wuthering Heights by Emily Brontë
+22. Great Expectations by Charles Dickens
+23. Sense and Sensibility by Jane Austen
+24. Emma by Jane Austen
+25. Mansfield Park by Jane Austen
+26. Persuasion by Jane Austen
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Great Gatsby by F. Scott Fitzgerald
+29. To Kill a Mockingbird by Harper Lee
+30. 1984 by George Orwell
+31. Animal Farm by George Orwell
+32. Brave New World by Aldous Huxley
+33. The Hobbit by J.R.R. Tolkien
+34. The Lord of the Rings by J.R.R. Tolkien
+35. The Chronicles of Narnia by C.S. Lewis
+36. The Alchemist by Paulo Coelho
+37. The Power of Now by Eckhart Tolle
+38. The Four Agreements by Don Miguel Ruiz
+39. The Celestine Prophecy by James Redfield
+40. The Secret History by Donna Tartt
+41. The Goldfinch by Donna Tartt
+42. The Little Friend by Donna Tartt
+43. The Bell Jar by Sylvia Plath
+44. One Hundred Years of Solitude by Gabriel García Márquez
+45. Love in the Time of Cholera by Gabriel García Márquez
+46. One Flew Over the Cuckoo's Nest by Ken Kesey
+47. The Road by Cormac McCarthy
+48. The Book Thief by Markus Zusak
+49. The Kite Runner by Khaled Hosseini
+50. A Thousand Splendid Suns by Khaled Hosseini
+
+These recommendations are based on the user's interest in classic literature, fantasy, mystery, and self-help books.

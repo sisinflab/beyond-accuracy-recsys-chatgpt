@@ -1,0 +1,54 @@
+Based on user 76's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. Lord of the Flies by William Golding
+4. A Separate Peace by John Knowles
+5. The Perks of Being a Wallflower by Stephen Chbosky
+6. The Bell Jar by Sylvia Plath
+7. The Great Gatsby by F. Scott Fitzgerald
+8. The Grapes of Wrath by John Steinbeck
+9. Of Mice and Men by John Steinbeck
+10. The Old Man and the Sea by Ernest Hemingway
+11. The Sun Also Rises by Ernest Hemingway
+12. One Flew Over the Cuckoo's Nest by Ken Kesey
+13. Brave New World by Aldous Huxley
+14. 1984 by George Orwell
+15. Animal Farm by George Orwell
+16. Fahrenheit 451 by Ray Bradbury
+17. Slaughterhouse-Five by Kurt Vonnegut
+18. Catch-22 by Joseph Heller
+19. The Road by Cormac McCarthy
+20. The Kite Runner by Khaled Hosseini
+21. A Thousand Splendid Suns by Khaled Hosseini
+22. The Book Thief by Markus Zusak
+23. The Alchemist by Paulo Coelho
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Help by Kathryn Stockett
+26. The Color Purple by Alice Walker
+27. Beloved by Toni Morrison
+28. The Joy Luck Club by Amy Tan
+29. The Poisonwood Bible by Barbara Kingsolver
+30. The Handmaid's Tale by Margaret Atwood
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Da Vinci Code by Dan Brown
+33. Angels & Demons by Dan Brown
+34. The Girl on the Train by Paula Hawkins
+35. Gone Girl by Gillian Flynn
+36. Sharp Objects by Gillian Flynn
+37. The Lovely Bones by Alice Sebold
+38. Room by Emma Donoghue
+39. The Glass Castle by Jeannette Walls
+40. Educated by Tara Westover
+41. Wild by Cheryl Strayed
+42. Eat, Pray, Love by Elizabeth Gilbert
+43. The Martian by Andy Weir
+44. Ready Player One by Ernest Cline
+45. The Hunger Games by Suzanne Collins
+46. Divergent by Veronica Roth
+47. The Maze Runner by James Dashner
+48. The Giver by Lois Lowry
+49. Ender's Game by Orson Scott Card
+50. The Hobbit by J.R.R. Tolkien
+
+These recommendations are based on the user's interest in classic literature, historical fiction, and contemporary novels.

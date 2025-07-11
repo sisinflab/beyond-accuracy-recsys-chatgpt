@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Alice's Adventures in Wonderland by Lewis Carroll
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Hobbit by J.R.R. Tolkien
+4. The Wizard of Oz by L. Frank Baum
+5. Peter Pan by J.M. Barrie
+6. The Wind in the Willows by Kenneth Grahame
+7. A Wrinkle in Time by Madeleine L'Engle
+8. The Little Prince by Antoine de Saint-Exupéry
+9. Matilda by Roald Dahl
+10. The Secret of NIMH by Robert C. O'Brien
+11. The Neverending Story by Michael Ende
+12. The Phantom Tollbooth by Norton Juster
+13. The Tale of Despereaux by Kate DiCamillo
+14. The Golden Compass by Philip Pullman
+15. The Giver by Lois Lowry
+16. Bridge to Terabithia by Katherine Paterson
+17. The Lion, the Witch, and the Wardrobe by C.S. Lewis
+18. The BFG by Roald Dahl
+19. Charlotte's Web by E.B. White
+20. The Secret of the Old Clock (Nancy Drew Mystery Stories) by Carolyn Keene
+21. The Hardy Boys by Franklin W. Dixon
+22. The Boxcar Children by Gertrude Chandler Warner
+23. The Mysterious Benedict Society by Trenton Lee Stewart
+24. The Westing Game by Ellen Raskin
+25. Holes by Louis Sachar
+26. The Outsiders by S.E. Hinton
+27. The Catcher in the Rye by J.D. Salinger
+28. Lord of the Flies by William Golding
+29. The Hunger Games by Suzanne Collins
+30. Divergent by Veronica Roth
+31. The Maze Runner by James Dashner
+32. The Fault in Our Stars by John Green
+33. Eleanor & Park by Rainbow Rowell
+34. Thirteen Reasons Why by Jay Asher
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. Speak by Laurie Halse Anderson
+37. Looking for Alaska by John Green
+38. Paper Towns by John Green
+39. The Book Thief by Markus Zusak
+40. A Series of Unfortunate Events by Lemony Snicket
+41. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+42. The Lightning Thief by Rick Riordan
+43. Percy Jackson & the Olympians by Rick Riordan
+44. Artemis Fowl by Eoin Colfer
+45. Inkheart by Cornelia Funke
+46. The Alchemyst by Michael Scott
+47. The Chronicles of Prydain by Lloyd Alexander
+48. The Dark is Rising Sequence by Susan Cooper
+49. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+50. His Dark Materials by Philip Pullman
+
+These recommendations are based on the user's interest in fantasy, classic literature, and young adult fiction.

@@ -1,0 +1,52 @@
+Based on user 107's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Sense and Sensibility by Jane Austen
+3. Memoirs of a Geisha by Arthur Golden
+4. The Scarlet Letter by Nathaniel Hawthorne
+5. The Wind in the Willows by Kenneth Grahame
+6. The Confession by John Grisham
+7. Lisey's Story by Stephen King
+8. Eragon by Christopher Paolini
+9. The Last Storytellers: Tales from the Heart of Morocco
+10. Double Fudge by Judy Blume
+11. Percy Jackson & the Olympians
+12. Harry Potter
+13. The Kane Chronicles
+14. Inkheart
+15. A Midsummer Night's Dream
+16. The Hitchhiker's Guide to the Galaxy (novel)
+17. Jane Eyre
+18. Mere Christianity
+19. Dracula
+20. Nineteen Eighty-Four
+21. Brisingr
+22. Digital Fortress
+23. The Chronicles of Narnia: Prince Caspian
+24. I Am Legend (novel)
+25. A Thousand Splendid Suns
+26. The Phantom Tollbooth
+27. The Truth About Forever
+28. Fablehaven
+29. The Notebook (novel)
+30. Eldest
+31. The Da Vinci Code
+32. Othello
+33. The Count of Monte Cristo
+34. Twilight (series)
+35. Catch-22
+36. Angels & Demons
+37. Ender's Game
+38. PS, I Love You (novel)
+39. The Picture of Dorian Gray
+40. Ender's Shadow
+41. Impulse economy
+42. Romeo and Juliet
+43. The Scarlet Pimpernel
+44. The Man Who Was Thursday
+45. Freesouls
+46. The Boleyn Inheritance
+47. Garfield
+48. Song of the Sparrow
+49. Malazan Book of the Fallen
+50. The Messenger (Markus Zusak novel)

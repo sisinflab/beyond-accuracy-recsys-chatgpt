@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coldplay
+2. Radiohead
+3. Muse
+4. Imagine Dragons
+5. Foster the People
+6. The Black Keys
+7. Arcade Fire
+8. The Kooks
+9. Florence + The Machine
+10. The Lumineers
+11. The xx
+12. Bastille
+13. The Neighbourhood
+14. Two Door Cinema Club
+15. Hozier
+16. The 1975
+17. Death Cab for Cutie
+18. The Shins
+19. Vampire Weekend
+20. The War on Drugs
+21. Tame Impala
+22. Alt-J
+23. Cage The Elephant
+24. The National
+25. The Strokes
+26. Franz Ferdinand
+27. Arctic Monkeys
+28. The Killers
+29. Kings of Leon
+30. The Fratellis
+31. Weezer
+32. Mando Diao
+33. Three Days Grace
+34. The Beatles
+35. Razorlight
+36. 30 Seconds to Mars
+37. White Lies
+38. Snow Patrol
+39. Damien Rice
+40. Keane
+41. Engenheiros do Hawaii
+42. Newton Faulkner
+43. Lifehouse
+44. Devendra Banhart
+45. The Wombats
+46. Oasis
+47. Kaiser Chiefs
+48. Bob Dylan
+49. Ray LaMontagne
+50. Jason Mraz
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for the user to explore.

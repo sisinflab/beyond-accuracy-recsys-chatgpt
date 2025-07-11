@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. The Alchemist by Paulo Coelho
+6. The Book Thief by Markus Zusak
+7. The Kite Runner by Khaled Hosseini
+8. The Hunger Games by Suzanne Collins
+9. The Fault in Our Stars by John Green
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. The Secret Garden by Frances Hodgson Burnett
+12. The Chronicles of Narnia by C.S. Lewis
+13. The Hobbit by J.R.R. Tolkien
+14. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+15. The Outsiders by S.E. Hinton
+16. The Little Prince by Antoine de Saint-Exupéry
+17. The Giver by Lois Lowry
+18. A Wrinkle in Time by Madeleine L'Engle
+19. Holes by Louis Sachar
+20. The Phantom Tollbooth by Norton Juster
+21. The Secret Life of Bees by Sue Monk Kidd
+22. The Color Purple by Alice Walker
+23. The Bell Jar by Sylvia Plath
+24. The Handmaid's Tale by Margaret Atwood
+25. The Road by Cormac McCarthy
+26. The Glass Castle by Jeannette Walls
+27. The Joy Luck Club by Amy Tan
+28. The Poisonwood Bible by Barbara Kingsolver
+29. The Namesake by Jhumpa Lahiri
+30. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+31. The House on Mango Street by Sandra Cisneros
+32. The Sun Also Rises by Ernest Hemingway
+33. The Old Man and the Sea by Ernest Hemingway
+34. The Grapes of Wrath by John Steinbeck
+35. East of Eden by John Steinbeck
+36. One Hundred Years of Solitude by Gabriel García Márquez
+37. Love in the Time of Cholera by Gabriel García Márquez
+38. The Picture of Dorian Gray by Oscar Wilde
+39. Brave New World by Aldous Huxley
+40. Fahrenheit 451 by Ray Bradbury
+41. Slaughterhouse-Five by Kurt Vonnegut
+42. Cat's Cradle by Kurt Vonnegut
+43. The Road by Cormac McCarthy
+44. The Martian by Andy Weir
+45. Ready Player One by Ernest Cline
+46. Ender's Game by Orson Scott Card
+47. Dune by Frank Herbert
+48. Neuromancer by William Gibson
+49. Snow Crash by Neal Stephenson
+50. The Left Hand of Darkness by Ursula K. Le Guin
+
+These recommendations are based on the user's liking of "Bridge to Terabithia," "A Passage to India," "Esperanza Rising," "The Little Prince," "Romeo and Juliet," "A Midsummer Night's Dream," and "Lord of the Flies."

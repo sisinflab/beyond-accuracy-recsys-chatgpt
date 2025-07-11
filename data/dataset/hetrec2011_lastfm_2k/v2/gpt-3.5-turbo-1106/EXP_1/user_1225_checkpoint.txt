@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Nine Inch Nails
+3. The Smashing Pumpkins
+4. New Order
+5. The Chemical Brothers
+6. The Smiths
+7. Björk
+8. Interpol
+9. Garbage
+10. Siouxsie and the Banshees
+11. The Jesus and Mary Chain
+12. Echo & the Bunnymen
+13. The Sisters of Mercy
+14. The Verve
+15. The Cranberries
+16. The xx
+17. Editors
+18. The National
+19. PJ Harvey
+20. Placebo
+21. Massive Attack
+22. Portishead
+23. Tricky
+24. Lamb
+25. Goldfrapp
+26. Sneaker Pimps
+27. Moloko
+28. Everything But The Girl
+29. Hooverphonic
+30. Morcheeba
+31. Air
+32. Röyksopp
+33. Zero 7
+34. Thievery Corporation
+35. Moby
+36. Groove Armada
+37. Bonobo
+38. Morcheeba
+39. Nightmares on Wax
+40. Kruder & Dorfmeister
+41. Boards of Canada
+42. Tycho
+43. Ulrich Schnauss
+44. Emancipator
+45. Little Dragon
+46. Rhye
+47. London Grammar
+48. Chet Faker
+49. Glass Animals
+50. Alt-J
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 1389's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. Twilight by Stephenie Meyer
+5. The Mortal Instruments series by Cassandra Clare
+6. The Maze Runner by James Dashner
+7. The Giver by Lois Lowry
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. The Book Thief by Markus Zusak
+10. The Chronicles of Narnia by C.S. Lewis
+11. The Selection by Kiera Cass
+12. The 5th Wave by Rick Yancey
+13. The Darkest Minds by Alexandra Bracken
+14. The Sisterhood of the Traveling Pants by Ann Brashares
+15. The Princess Diaries by Meg Cabot
+16. The Vampire Diaries by L.J. Smith
+17. The Infernal Devices series by Cassandra Clare
+18. The Lunar Chronicles by Marissa Meyer
+19. The Uglies series by Scott Westerfeld
+20. The Percy Jackson series by Rick Riordan
+21. The Gossip Girl series by Cecily von Ziegesar
+22. The Luxe series by Anna Godbersen
+23. The Caster Chronicles by Kami Garcia and Margaret Stohl
+24. The House of Night series by P.C. Cast and Kristin Cast
+25. The Beautiful Creatures series by Kami Garcia and Margaret Stohl
+26. The Vampire Academy series by Richelle Mead
+27. The Bloodlines series by Richelle Mead
+28. The Dark Artifices series by Cassandra Clare
+29. The Infernal Devices series by Cassandra Clare
+30. The Twilight series by Stephenie Meyer
+31. The Host by Stephenie Meyer
+32. The Chemist by Stephenie Meyer
+33. The Hunger Games series by Suzanne Collins
+34. The Divergent series by Veronica Roth
+35. The Maze Runner series by James Dashner
+36. The Delirium series by Lauren Oliver
+37. The Matched series by Ally Condie
+38. The Legend series by Marie Lu
+39. The Shatter Me series by Tahereh Mafi
+40. The Red Queen series by Victoria Aveyard
+41. The Grisha series by Leigh Bardugo
+42. The Throne of Glass series by Sarah J. Maas
+43. The A Court of Thorns and Roses series by Sarah J. Maas
+44. The Six of Crows series by Leigh Bardugo
+45. The Shadow and Bone series by Leigh Bardugo
+46. The Daughter of Smoke and Bone series by Laini Taylor
+47. The Strange the Dreamer series by Laini Taylor
+48. The Caraval series by Stephanie Garber
+49. The To All the Boys I've Loved Before series by Jenny Han
+50. The Simon vs. the Homo Sapiens Agenda series by Becky Albertalli
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1389 likes.

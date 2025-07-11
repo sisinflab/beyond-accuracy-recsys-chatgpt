@@ -1,0 +1,54 @@
+Based on user 1846's preferences, here are the top 50 recommendations:
+
+1. The Rolling Stones
+2. Michael Jackson
+3. My Chemical Romance
+4. The Doors
+5. Backstreet Boys
+6. Maroon 5
+7. Taylor Swift
+8. Justin Timberlake
+9. Bruno Mars
+10. Ed Sheeran
+11. Adele
+12. Coldplay
+13. Rihanna
+14. Beyoncé
+15. Ariana Grande
+16. Drake
+17. The Weeknd
+18. Imagine Dragons
+19. Shawn Mendes
+20. One Direction
+21. Selena Gomez
+22. Demi Lovato
+23. Miley Cyrus
+24. Justin Bieber
+25. Nick Jonas
+26. The Weeknd
+27. Halsey
+28. Khalid
+29. Sam Smith
+30. Lorde
+31. Sia
+32. Zayn
+33. Camila Cabello
+34. Dua Lipa
+35. Charlie Puth
+36. Troye Sivan
+37. Alessia Cara
+38. Hailee Steinfeld
+39. Meghan Trainor
+40. Fifth Harmony
+41. Little Mix
+42. Zara Larsson
+43. Tove Lo
+44. Bebe Rexha
+45. Anne-Marie
+46. Lauv
+47. Julia Michaels
+48. Sigrid
+49. Billie Eilish
+50. Lizzo
+
+These recommendations are based on the user's liking of similar artists and genres.

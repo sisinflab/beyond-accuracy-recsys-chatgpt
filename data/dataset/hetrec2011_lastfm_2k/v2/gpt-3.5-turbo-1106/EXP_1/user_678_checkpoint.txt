@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Red Hot Chili Peppers
+2. Queen
+3. Coldplay
+4. Pink Floyd
+5. The Rolling Stones
+6. Arctic Monkeys
+7. Radiohead
+8. The Killers
+9. Oasis
+10. Green Day
+11. Maroon 5
+12. The Cranberries
+13. The Strokes
+14. Paramore
+15. The Smiths
+16. The Cure
+17. Blur
+18. Franz Ferdinand
+19. The White Stripes
+20. The Kooks
+21. Kings of Leon
+22. The Verve
+23. The Libertines
+24. The Black Keys
+25. Interpol
+26. Placebo
+27. The Smashing Pumpkins
+28. R.E.M.
+29. The Offspring
+30. Weezer
+31. The Fray
+32. 30 Seconds to Mars
+33. Incubus
+34. Audioslave
+35. Linkin Park
+36. Evanescence
+37. System of a Down
+38. Korn
+39. Lenny Kravitz
+40. Alice in Chains
+41. Soundgarden
+42. Stone Temple Pilots
+43. Jane's Addiction
+44. Faith No More
+45. Depeche Mode
+46. New Order
+47. Joy Division
+48. Echo & the Bunnymen
+49. The Psychedelic Furs
+50. Talking Heads

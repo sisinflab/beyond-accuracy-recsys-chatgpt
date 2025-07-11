@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. The Hobbit by J.R.R. Tolkien
+3. The Chronicles of Narnia by C.S. Lewis
+4. Dracula by Bram Stoker
+5. Wuthering Heights by Emily Brontë
+6. Frankenstein by Mary Shelley
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Complete Sherlock Holmes by Arthur Conan Doyle
+9. Pride and Prejudice by Jane Austen
+10. To Kill a Mockingbird by Harper Lee
+11. The Catcher in the Rye by J.D. Salinger
+12. 1984 by George Orwell
+13. The Great Gatsby by F. Scott Fitzgerald
+14. The Hunger Games by Suzanne Collins
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. Gone with the Wind by Margaret Mitchell
+17. The Da Vinci Code by Dan Brown
+18. The Alchemist by Paulo Coelho
+19. The Kite Runner by Khaled Hosseini
+20. The Help by Kathryn Stockett
+21. The Book Thief by Markus Zusak
+22. The Night Circus by Erin Morgenstern
+23. The Goldfinch by Donna Tartt
+24. The Handmaid's Tale by Margaret Atwood
+25. The Name of the Wind by Patrick Rothfuss
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Martian by Andy Weir
+28. The Girl on the Train by Paula Hawkins
+29. The Silent Patient by Alex Michaelides
+30. The Nightingale by Kristin Hannah
+31. The Tattooist of Auschwitz by Heather Morris
+32. The Alice Network by Kate Quinn
+33. The Light Between Oceans by M.L. Stedman
+34. The Secret History by Donna Tartt
+35. The Thirteenth Tale by Diane Setterfield
+36. The Night Manager by John le Carré
+37. The Pillars of the Earth by Ken Follett
+38. The Poisonwood Bible by Barbara Kingsolver
+39. The Glass Castle by Jeannette Walls
+40. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+41. The Lovely Bones by Alice Sebold
+42. The Time Traveler's Wife by Audrey Niffenegger
+43. The Giver by Lois Lowry
+44. The Maze Runner by James Dashner
+45. The Hunger Games by Suzanne Collins
+46. The Lightning Thief by Rick Riordan
+47. The Fault in Our Stars by John Green
+48. The Perks of Being a Wallflower by Stephen Chbosky
+49. The Book of Lost Things by John Connolly
+50. The Secret History by Donna Tartt
+
+These recommendations are based on the user's interest in fantasy, mystery, and classic literature.

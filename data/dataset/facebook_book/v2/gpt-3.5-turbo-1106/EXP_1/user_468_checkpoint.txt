@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shadow of the Wind by Carlos Ruiz Zafón
+2. The Night Circus by Erin Morgenstern
+3. The Thirteenth Tale by Diane Setterfield
+4. The Time Traveler's Wife by Audrey Niffenegger
+5. The Secret History by Donna Tartt
+6. The Book Thief by Markus Zusak
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Goldfinch by Donna Tartt
+9. The Secret Life of Bees by Sue Monk Kidd
+10. The Lovely Bones by Alice Sebold
+11. The Help by Kathryn Stockett
+12. The Kite Runner by Khaled Hosseini
+13. The Alchemist by Paulo Coelho
+14. The Catcher in the Rye by J.D. Salinger
+15. The Bell Jar by Sylvia Plath
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Great Gatsby by F. Scott Fitzgerald
+18. The Catcher in the Rye by J.D. Salinger
+19. The Bell Jar by Sylvia Plath
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Great Gatsby by F. Scott Fitzgerald
+22. The Catcher in the Rye by J.D. Salinger
+23. The Bell Jar by Sylvia Plath
+24. The Picture of Dorian Gray by Oscar Wilde
+25. The Great Gatsby by F. Scott Fitzgerald
+26. The Catcher in the Rye by J.D. Salinger
+27. The Bell Jar by Sylvia Plath
+28. The Picture of Dorian Gray by Oscar Wilde
+29. The Great Gatsby by F. Scott Fitzgerald
+30. The Catcher in the Rye by J.D. Salinger
+31. The Bell Jar by Sylvia Plath
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Great Gatsby by F. Scott Fitzgerald
+34. The Catcher in the Rye by J.D. Salinger
+35. The Bell Jar by Sylvia Plath
+36. The Picture of Dorian Gray by Oscar Wilde
+37. The Great Gatsby by F. Scott Fitzgerald
+38. The Catcher in the Rye by J.D. Salinger
+39. The Bell Jar by Sylvia Plath
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Great Gatsby by F. Scott Fitzgerald
+42. The Catcher in the Rye by J.D. Salinger
+43. The Bell Jar by Sylvia Plath
+44. The Picture of Dorian Gray by Oscar Wilde
+45. The Great Gatsby by F. Scott Fitzgerald
+46. The Catcher in the Rye by J.D. Salinger
+47. The Bell Jar by Sylvia Plath
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Great Gatsby by F. Scott Fitzgerald
+50. The Catcher in the Rye by J.D. Salinger
+
+These recommendations are based on the user's interest in historical fiction, mystery, and classic literature.

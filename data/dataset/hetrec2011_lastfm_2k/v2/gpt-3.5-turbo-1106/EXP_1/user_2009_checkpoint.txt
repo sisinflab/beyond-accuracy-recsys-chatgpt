@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Tame Impala
+2. Phoenix
+3. The Shins
+4. The National
+5. Arctic Monkeys
+6. Foals
+7. Two Door Cinema Club
+8. The Killers
+9. Foster the People
+10. HAIM
+11. The xx
+12. The Vaccines
+13. Passion Pit
+14. Bloc Party
+15. The 1975
+16. Bombay Bicycle Club
+17. Vampire Weekend
+18. The Wombats
+19. The War on Drugs
+20. Glass Animals
+21. Alt-J
+22. Cage the Elephant
+23. CHVRCHES
+24. Franz Ferdinand
+25. MGMT
+26. of Montreal
+27. The Kooks
+28. The Beatles
+29. Animal Collective
+30. Kate Nash
+31. Keane
+32. Lykke Li
+33. Rufus Wainwright
+34. Mystery Jets
+35. Kate Bush
+36. M.I.A.
+37. Kings of Leon
+38. Scissor Sisters
+39. Grizzly Bear
+40. Regina Spektor
+41. Sigur Rós
+42. The Strokes
+43. Beirut
+44. She & Him
+45. Adele
+46. Radiohead
+47. Pink Floyd
+48. Patrick Wolf
+49. Rilo Kiley
+50. Arcade Fire
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists that the user may enjoy.

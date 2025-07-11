@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Imagine Dragons
+2. OneRepublic
+3. The Script
+4. Train
+5. 30 Seconds to Mars
+6. Snow Patrol
+7. Bastille
+8. The All-American Rejects
+9. 3 Doors Down
+10. Halsey
+11. The Chainsmokers
+12. Foster the People
+13. The Neighbourhood
+14. X Ambassadors
+15. The 1975
+16. Panic! At The Disco
+17. Fall Out Boy
+18. Paramore
+19. My Chemical Romance
+20. Twenty One Pilots
+21. Arctic Monkeys
+22. Florence + The Machine
+23. Kings of Leon
+24. Muse
+25. Death Cab for Cutie
+26. The Killers
+27. The Fray
+28. Keane
+29. Owl City
+30. Goo Goo Dolls
+31. Coldplay
+32. Eminem
+33. P!nk
+34. Poets of the Fall
+35. Limp Bizkit
+36. Linkin Park
+37. Enya
+38. Breaking Benjamin
+39. Augustana
+40. Kanye West
+41. Daughtry
+42. Within Temptation
+43. Anberlin
+44. Pendulum
+45. Michael Bublé
+46. In Flames
+47. Matchbox Twenty
+48. Theory of a Deadman
+49. Maroon 5
+50. Dido
+
+These recommendations are based on the user's liking of similar artists and genres.

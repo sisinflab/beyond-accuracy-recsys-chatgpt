@@ -1,0 +1,54 @@
+Based on user 310's preferences, here are the re-ranked top-50 book recommendations:
+
+1. The Sword of Truth by ['Terry Goodkind']
+2. Chainfire by ['Terry Goodkind']
+3. The Pillars of Creation by ['Terry Goodkind']
+4. Soul of the Fire by ['Terry Goodkind']
+5. Blood of the Fold by ['Terry Goodkind']
+6. Temple of the Winds
+7. Wizard's First Rule
+8. Stone of Tears
+9. Naked Empire
+10. The Last Don
+11. The Hellbound Heart
+12. Pride and Prejudice and Zombies
+13. The House of the Scorpion
+14. The Fountainhead
+15. The Lost Symbol
+16. The Lord of the Rings
+17. The Chronicles of Narnia: Prince Caspian
+18. The Hobbit
+19. The Silence of the Lambs (novel)
+20. Hannibal (novel)
+21. The Picture of Dorian Gray by ['Oscar Wilde']
+22. Wielding a Red Sword by ['Piers Anthony']
+23. On a Pale Horse by ['Piers Anthony']
+24. The Zahir (novel)
+25. The God of Small Things
+26. A Thousand Splendid Suns
+27. The Dirt
+28. Sense and Sensibility and Sea Monsters
+29. Romeo and Juliet
+30. A Tale of Two Cities
+31. Oliver Twist
+32. The Curious Incident of the Dog in the Night-Time
+33. Candide
+34. Gaunt's Ghosts
+35. The Doomsday Conspiracy
+36. Love Story (novel)
+37. The Firm (novel)
+38. To Kill a Mockingbird
+39. Fahrenheit 451
+40. PS, I Love You (novel)
+41. Contagious (novel)
+42. Harry Potter
+43. Asterix the Gaul
+44. Touching the Void
+45. Lolita
+46. Five Point Someone
+47. Moby-Dick
+48. Twilight (series)
+49. Gone with the Wind
+50. One Night @ the Call Center
+
+These recommendations are based on similar themes, genres, and authors to the user's previously liked books.

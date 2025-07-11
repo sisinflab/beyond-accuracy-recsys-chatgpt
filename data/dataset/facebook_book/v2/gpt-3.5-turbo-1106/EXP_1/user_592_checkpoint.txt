@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Name of the Wind by Patrick Rothfuss
+2. Frankenstein by Mary Shelley
+3. Hamlet by William Shakespeare
+4. Interview with the Vampire by Anne Rice
+5. Wuthering Heights by Emily Brontë
+6. Macbeth by William Shakespeare
+7. The Stand by Stephen King
+8. Watchers by Dean Koontz
+9. Odd Thomas by Dean Koontz
+10. The Constant Princess by Philippa Gregory
+11. Wizard's First Rule by Terry Goodkind
+12. A Midsummer Night's Dream by William Shakespeare
+13. Pride and Prejudice by Jane Austen
+14. Jhereg by Steven Brust
+15. Faith of the Fallen by Terry Goodkind
+16. Walden by Henry David Thoreau
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Wise Man's Fear by Patrick Rothfuss
+19. Dracula by Bram Stoker
+20. The Tempest by William Shakespeare
+21. The Shining by Stephen King
+22. Phantoms by Dean Koontz
+23. Forever Odd by Dean Koontz
+24. The Boleyn Inheritance by Philippa Gregory
+25. Stone of Tears by Terry Goodkind
+26. A Midsummer Night's Dream by William Shakespeare
+27. Persuasion by Jane Austen
+28. Yendi by Steven Brust
+29. Naked Empire by Terry Goodkind
+30. The Catcher in the Rye by J.D. Salinger
+31. The Lovely Reckless by Kami Garcia
+32. The Wise Man's Fear by Patrick Rothfuss
+33. The Picture of Dorian Gray by Oscar Wilde
+34. The Merchant of Venice by William Shakespeare
+35. Misery by Stephen King
+36. The Husband by Dean Koontz
+37. Saint Odd by Dean Koontz
+38. The Queen's Fool by Philippa Gregory
+39. Blood of the Fold by Terry Goodkind
+40. A Midsummer Night's Dream by William Shakespeare
+41. Emma by Jane Austen
+42. Teckla by Steven Brust
+43. Chainfire by Terry Goodkind
+44. The Great Gatsby by F. Scott Fitzgerald
+45. The Lovely War by Julie Berry
+46. The Slow Regard of Silent Things by Patrick Rothfuss
+47. The Hunchback of Notre-Dame by Victor Hugo
+48. A Midsummer Night's Dream by William Shakespeare
+49. Northanger Abbey by Jane Austen
+50. Issola by Steven Brust
+
+These recommendations are based on similar themes, authors, and genres to the books that user 592 likes.

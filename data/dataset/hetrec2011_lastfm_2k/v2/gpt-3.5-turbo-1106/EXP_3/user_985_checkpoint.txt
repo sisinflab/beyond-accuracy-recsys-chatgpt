@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 985:
+
+1. Adele
+2. Amy Winehouse
+3. The Beatles
+4. U2
+5. Prince
+6. Red Hot Chili Peppers
+7. Green Day
+8. The Corrs
+9. David Archuleta
+10. James Morrison
+11. Leona Lewis
+12. Robbie Williams
+13. Lily Allen
+14. Kelis
+15. Scorpions
+16. Daft Punk
+17. Lifehouse
+18. Melanie C
+19. Adam Lambert
+20. Kansas
+21. Sophie Ellis-Bextor
+22. P!nk
+23. Spice Girls
+24. The Pretty Reckless
+25. Jack Johnson
+26. Taylor Swift
+27. The Mamas & The Papas
+28. The Runaways
+29. Cyndi Lauper
+30. AC/DC
+31. Alicia Keys
+32. Eminem
+33. Journey
+34. Cher
+35. RBD
+36. Donna Summer
+37. Marisa Monte
+38. Britney Spears
+39. Black Eyed Peas
+40. Tina Turner
+41. Aretha Franklin
+42. Coldplay
+43. Ke$ha
+44. Jason Mraz
+45. Joan Jett and the Blackhearts
+46. Glee Cast
+47. Elvis Presley
+48. NX Zero
+49. She & Him
+50. Maroon 5
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

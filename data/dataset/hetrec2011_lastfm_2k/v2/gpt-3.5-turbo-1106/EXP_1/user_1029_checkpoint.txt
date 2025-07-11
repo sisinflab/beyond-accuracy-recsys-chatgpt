@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Rolling Stones
+2. Led Zeppelin
+3. The Who
+4. T. Rex
+5. Iggy Pop
+6. Talking Heads
+7. The Kinks
+8. The Velvet Underground
+9. The Doors
+10. Roxy Music
+11. Patti Smith
+12. Lou Reed
+13. Elvis Costello
+14. The Jam
+15. Buzzcocks
+16. Joy Division
+17. Echo & the Bunnymen
+18. The Smithereens
+19. The Replacements
+20. R.E.M.
+21. The Stone Roses
+22. The La's
+23. The Charlatans
+24. The Verve
+25. Primal Scream
+26. The Libertines
+27. Arctic Monkeys
+28. The Strokes
+29. Interpol
+30. Bloc Party
+31. The Killers
+32. The White Stripes
+33. The Black Keys
+34. The Raconteurs
+35. Franz Ferdinand
+36. The Hives
+37. The Vines
+38. The Bravery
+39. The Wombats
+40. The Fratellis
+41. The Pigeon Detectives
+42. The Courteeners
+43. The Vaccines
+44. The Maccabees
+45. The Cribs
+46. The Horrors
+47. The Drums
+48. The 1975
+49. Catfish and the Bottlemen
+50. Blossoms
+
+These recommendations are based on the user's liking of rock, alternative, and indie music, as well as similar artists to those already liked.

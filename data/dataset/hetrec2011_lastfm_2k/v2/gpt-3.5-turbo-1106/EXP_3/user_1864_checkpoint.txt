@@ -1,0 +1,54 @@
+Based on user 1864's preferences, here are the top 50 recommendations for the user:
+
+1. The Rolling Stones
+2. David Gilmour
+3. Stevie Wonder
+4. Electric Light Orchestra
+5. Manic Street Preachers
+6. Paul McCartney
+7. The Script
+8. Three Days Grace
+9. Buddy Guy
+10. Neil Young
+11. Coldplay
+12. HIM
+13. Kings of Leon
+14. Elvis Costello
+15. Simple Minds
+16. Eric Clapton
+17. The Fratellis
+18. The Police
+19. Nina Simone
+20. Bob Marley
+21. The Killers
+22. Radiohead
+23. U2
+24. Pearl Jam
+25. Chuck Berry
+26. Johnny Cash
+27. White Lies
+28. Placebo
+29. The Beatles
+30. Arcade Fire
+31. New Order
+32. The White Stripes
+33. Bob Dylan
+34. Nelly Furtado
+35. Stevie Ray Vaughan
+36. Arctic Monkeys
+37. Duran Duran
+38. The Smiths
+39. Depeche Mode
+40. Bob Marley & The Wailers
+41. R.E.M.
+42. Stevie Ray Vaughan and Double Trouble
+43. Lifehouse
+44. Alice in Chains
+45. Pet Shop Boys
+46. Ryan Adams
+47. Travis
+48. Spandau Ballet
+49. The Jimi Hendrix Experience
+50. Muddy Waters
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

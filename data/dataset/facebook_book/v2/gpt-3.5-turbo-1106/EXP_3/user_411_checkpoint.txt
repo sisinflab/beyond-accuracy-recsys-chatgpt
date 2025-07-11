@@ -1,0 +1,54 @@
+Based on user 411's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Fahrenheit 451 by Ray Bradbury
+3. Thirteen Reasons Why by Jay Asher
+4. The Alchemist (novel) by Paulo Coelho
+5. Fallen (Kate novel) by Lauren Kate
+6. Their Eyes Were Watching God by Zora Neale Hurston
+7. Lord of the Flies by William Golding
+8. The City of Ember
+9. Inkheart
+10. Moby-Dick
+11. The Hamlet
+12. Goodnight Moon
+13. The Lord of the Rings
+14. A Tree Grows in Brooklyn (novel)
+15. A Midsummer Night's Dream
+16. Soul Eater (manga)
+17. Teaching with Calvin and Hobbes
+18. Looking for Alaska
+19. Cable & Deadpool
+20. Lone Survivor (book)
+21. Twilight (series)
+22. 13 Little Blue Envelopes
+23. Rebel Angels
+24. The Hunt for Red October
+25. Cell (novel)
+26. Don Quixote
+27. Manga
+28. The Lovely Bones
+29. The Reader
+30. The Watchmen (novel)
+31. Les Misérables
+32. Pretties
+33. Cirque du Freak
+34. Beauty: A Retelling of the Story of Beauty and the Beast
+35. The Heroin Diaries: A Year in the Life of a Shattered Rock Star
+36. The Count of Monte Cristo
+37. Pretty Little Liars (book)
+38. Tuesdays with Morrie
+39. The Pit and the Pendulum
+40. Alice's Adventures in Wonderland
+41. A Thousand Splendid Suns
+42. Before I Die
+43. A Game of Thrones
+44. Uglies
+45. Go Ask Alice
+46. The Outsiders (novel)
+47. Holes (novel)
+48. I Am America (And So Can You!)
+49. A Walk in the Woods
+50. The Little Friend
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

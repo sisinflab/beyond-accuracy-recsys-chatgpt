@@ -1,0 +1,54 @@
+Based on user 1414's preferences, here are the top-50 recommendations:
+
+1. Radiohead
+2. Death Cab for Cutie
+3. The Strokes
+4. Franz Ferdinand
+5. Arctic Monkeys
+6. Nirvana
+7. Muse
+8. Coldplay
+9. Kings of Leon
+10. Foo Fighters
+11. The Killers
+12. Linkin Park
+13. Paramore
+14. Weezer
+15. Oasis
+16. Red Hot Chili Peppers
+17. Incubus
+18. 30 Seconds to Mars
+19. AFI
+20. Taking Back Sunday
+21. Angels & Airwaves
+22. Silversun Pickups
+23. Metric
+24. Rise Against
+25. Chevelle
+26. Dashboard Confessional
+27. Shiny Toy Guns
+28. MGMT
+29. Passion Pit
+30. Coheed and Cambria
+31. Flyleaf
+32. Jimmy Eat World
+33. Flobots
+34. Puddle of Mudd
+35. The Temper Trap
+36. R.E.M.
+37. Skillet
+38. 3 Doors Down
+39. U2
+40. Snow Patrol
+41. Avril Lavigne
+42. The Kooks
+43. Lady Gaga
+44. Beyoncé
+45. No Doubt
+46. Maroon 5
+47. Green Day
+48. Jason Mraz
+49. Florence + the Machine
+50. Katy Perry
+
+These recommendations are based on similar genres and artists liked by user 1414.

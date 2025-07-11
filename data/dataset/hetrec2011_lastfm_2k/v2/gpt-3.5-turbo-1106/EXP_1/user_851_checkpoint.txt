@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Avril Lavigne
+2. Demi Lovato
+3. Selena Gomez
+4. Gwen Stefani
+5. Ariana Grande
+6. Shakira
+7. Carly Rae Jepsen
+8. Fergie
+9. Meghan Trainor
+10. Demi Lovato
+11. Selena Gomez
+12. Gwen Stefani
+13. Ariana Grande
+14. Shakira
+15. Carly Rae Jepsen
+16. Fergie
+17. Meghan Trainor
+18. Avril Lavigne
+19. Demi Lovato
+20. Selena Gomez
+21. Gwen Stefani
+22. Ariana Grande
+23. Shakira
+24. Carly Rae Jepsen
+25. Fergie
+26. Meghan Trainor
+27. Avril Lavigne
+28. Demi Lovato
+29. Selena Gomez
+30. Gwen Stefani
+31. Ariana Grande
+32. Shakira
+33. Carly Rae Jepsen
+34. Fergie
+35. Meghan Trainor
+36. Avril Lavigne
+37. Demi Lovato
+38. Selena Gomez
+39. Gwen Stefani
+40. Ariana Grande
+41. Shakira
+42. Carly Rae Jepsen
+43. Fergie
+44. Meghan Trainor
+45. Avril Lavigne
+46. Demi Lovato
+47. Selena Gomez
+48. Gwen Stefani
+49. Ariana Grande
+50. Shakira
+
+These recommendations are based on the user's liking of similar artists and are intended to provide a diverse range of options for the user to explore.

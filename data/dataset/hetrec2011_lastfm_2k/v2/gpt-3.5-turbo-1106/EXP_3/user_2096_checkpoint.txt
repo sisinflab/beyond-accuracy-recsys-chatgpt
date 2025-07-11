@@ -1,0 +1,54 @@
+Based on user 2096's preferences, here are the top-50 recommendations for the user:
+
+1. The Smiths
+2. Sonic Youth
+3. David Bowie
+4. The Cure
+5. Siouxsie and the Banshees
+6. Björk
+7. Aphex Twin
+8. New Order
+9. Dead Kennedys
+10. My Bloody Valentine
+11. Alice in Chains
+12. Soundgarden
+13. The White Stripes
+14. Pearl Jam
+15. The Beatles
+16. U2
+17. The Clash
+18. Nine Inch Nails
+19. Queens of the Stone Age
+20. Deftones
+21. R.E.M.
+22. The Strokes
+23. Arcade Fire
+24. M83
+25. Florence + the Machine
+26. Phoenix
+27. Kings of Leon
+28. The Doors
+29. The Birthday Massacre
+30. Rise Against
+31. Ghostface Killah
+32. Wu-Tang Clan
+33. Lykke Li
+34. Suede
+35. Sigur Rós
+36. IAMX
+37. Radiohead
+38. Muse
+39. Placebo
+40. The Smashing Pumpkins
+41. Nick Cave and the Bad Seeds
+42. Pixies
+43. Nirvana
+44. Hole
+45. Garbage
+46. Manic Street Preachers
+47. Thom Yorke
+48. The Verve
+49. Joy Division
+50. CocoRosie
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their tastes.

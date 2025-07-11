@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Foo Fighters
+2. Pearl Jam
+3. The Offspring
+4. System of a Down
+5. Muse
+6. Arctic Monkeys
+7. Queens of the Stone Age
+8. The Strokes
+9. Radiohead
+10. Linkin Park
+11. Nirvana
+12. The Killers
+13. Weezer
+14. 30 Seconds to Mars
+15. Incubus
+16. Audioslave
+17. Stone Temple Pilots
+18. Soundgarden
+19. Alice in Chains
+20. Red Hot Chili Peppers
+21. Green Day
+22. Sum 41
+23. Blink-182
+24. My Chemical Romance
+25. Fall Out Boy
+26. Panic! At The Disco
+27. All Time Low
+28. Paramore
+29. Good Charlotte
+30. Simple Plan
+31. Yellowcard
+32. New Found Glory
+33. Jimmy Eat World
+34. Taking Back Sunday
+35. Dashboard Confessional
+36. The All-American Rejects
+37. Bowling for Soup
+38. The Used
+39. AFI
+40. Rise Against
+41. Three Days Grace
+42. Breaking Benjamin
+43. Seether
+44. Shinedown
+45. Chevelle
+46. Puddle of Mudd
+47. Theory of a Deadman
+48. 3 Doors Down
+49. Hinder
+50. Nickelback
+
+These recommendations are based on the user's liking of rock and alternative rock bands and are aimed at providing a diverse range of similar artists for the user to explore.

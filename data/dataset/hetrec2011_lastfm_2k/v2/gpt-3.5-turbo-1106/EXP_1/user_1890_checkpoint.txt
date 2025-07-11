@@ -1,0 +1,54 @@
+Based on user 1890's preferences, here are the top 50 recommendations:
+
+1. Slipknot
+2. Linkin Park
+3. Disturbed
+4. Marilyn Manson
+5. Rage Against the Machine
+6. Deftones
+7. Tool
+8. Nine Inch Nails
+9. Stone Sour
+10. Sevendust
+11. Staind
+12. P.O.D.
+13. Chevelle
+14. Breaking Benjamin
+15. Static-X
+16. Rob Zombie
+17. Papa Roach
+18. Three Days Grace
+19. Incubus
+20. System of a Down
+21. Avenged Sevenfold
+22. Godsmack
+23. Korn
+24. Limp Bizkit
+25. Mudvayne
+26. Slipknot
+27. Linkin Park
+28. Disturbed
+29. Marilyn Manson
+30. Rage Against the Machine
+31. Deftones
+32. Tool
+33. Nine Inch Nails
+34. Stone Sour
+35. Sevendust
+36. Staind
+37. P.O.D.
+38. Chevelle
+39. Breaking Benjamin
+40. Static-X
+41. Rob Zombie
+42. Papa Roach
+43. Three Days Grace
+44. Incubus
+45. System of a Down
+46. Avenged Sevenfold
+47. Godsmack
+48. Korn
+49. Limp Bizkit
+50. Mudvayne
+
+These recommendations are based on the user's liking of similar artists and genres.

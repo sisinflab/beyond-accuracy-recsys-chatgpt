@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Maze Runner by James Dashner
+3. The Chronicles of Narnia by C.S. Lewis
+4. The Mortal Instruments by Cassandra Clare
+5. The Inheritance Cycle by Christopher Paolini
+6. The Heroes of Olympus by Rick Riordan
+7. The Chronicles of Prydain by Lloyd Alexander
+8. The Dark is Rising Sequence by Susan Cooper
+9. The Secrets of the Immortal Nicholas Flamel by Michael Scott
+10. The Bartimaeus Trilogy by Jonathan Stroud
+11. The Keys to the Kingdom by Garth Nix
+12. The Chronicles of Ancient Darkness by Michelle Paver
+13. The Abhorsen Trilogy by Garth Nix
+14. The Edge Chronicles by Paul Stewart and Chris Riddell
+15. The Seventh Tower by Garth Nix
+16. The Beyonders by Brandon Mull
+17. The Underland Chronicles by Suzanne Collins
+18. The Unwanteds by Lisa McMann
+19. The Land of Stories by Chris Colfer
+20. The School for Good and Evil by Soman Chainani
+21. The Lunar Chronicles by Marissa Meyer
+22. The Magisterium Series by Holly Black and Cassandra Clare
+23. The Witcher Series by Andrzej Sapkowski
+24. The Witchlands Series by Susan Dennard
+25. The Grisha Trilogy by Leigh Bardugo
+26. The Kingkiller Chronicle by Patrick Rothfuss
+27. The Mistborn Series by Brandon Sanderson
+28. The Lightbringer Series by Brent Weeks
+29. The Broken Empire Trilogy by Mark Lawrence
+30. The Powder Mage Trilogy by Brian McClellan
+31. The Stormlight Archive by Brandon Sanderson
+32. The Farseer Trilogy by Robin Hobb
+33. The Gentleman Bastard Sequence by Scott Lynch
+34. The Riyria Revelations by Michael J. Sullivan
+35. The First Law Trilogy by Joe Abercrombie
+36. The Malazan Book of the Fallen by Steven Erikson
+37. The Black Company by Glen Cook
+38. The Wheel of Time by Robert Jordan
+39. The Dresden Files by Jim Butcher
+40. The Codex Alera by Jim Butcher
+41. The Demon Cycle by Peter V. Brett
+42. The Night Angel Trilogy by Brent Weeks
+43. The Lightbringer Series by Brent Weeks
+44. The Broken Empire Trilogy by Mark Lawrence
+45. The Powder Mage Trilogy by Brian McClellan
+46. The Stormlight Archive by Brandon Sanderson
+47. The Farseer Trilogy by Robin Hobb
+48. The Gentleman Bastard Sequence by Scott Lynch
+49. The Riyria Revelations by Michael J. Sullivan
+50. The First Law Trilogy by Joe Abercrombie
+
+These recommendations are based on the user's interest in fantasy and adventure books, as well as the authors they have already shown an interest in.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. The Secret History by Donna Tartt
+3. The Shadow of the Wind by Carlos Ruiz Zafón
+4. 1984 by George Orwell
+5. Fahrenheit 451 by Ray Bradbury
+6. V for Vendetta by Alan Moore
+7. A Swiftly Tilting Planet by Madeleine L'Engle
+8. The Two Princesses of Bamarre by Gail Carson Levine
+9. Frankenstein by Mary Shelley
+10. The Diary of a Young Girl by Anne Frank
+11. As I Lay Dying by William Faulkner
+12. The Sound and the Fury by William Faulkner
+13. The Great Gatsby by F. Scott Fitzgerald
+14. To Kill a Mockingbird by Harper Lee
+15. One Hundred Years of Solitude by Gabriel García Márquez
+16. Love in the Time of Cholera by Gabriel García Márquez
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+19. The Road by Cormac McCarthy
+20. The Book Thief by Markus Zusak
+21. The Kite Runner by Khaled Hosseini
+22. The Alchemist by Paulo Coelho
+23. The Little Prince by Antoine de Saint-Exupéry
+24. The Giver by Lois Lowry
+25. The Handmaid's Tale by Margaret Atwood
+26. The Hunger Games by Suzanne Collins
+27. Divergent by Veronica Roth
+28. The Maze Runner by James Dashner
+29. The Girl with the Dragon Tattoo by Stieg Larsson
+30. The Name of the Wind by Patrick Rothfuss
+31. The Night Circus by Erin Morgenstern
+32. The Goldfinch by Donna Tartt
+33. The Martian by Andy Weir
+34. Ready Player One by Ernest Cline
+35. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+36. The Hobbit by J.R.R. Tolkien
+37. The Chronicles of Narnia by C.S. Lewis
+38. The Lord of the Rings by J.R.R. Tolkien
+39. The Hunger Games by Suzanne Collins
+40. The Girl on the Train by Paula Hawkins
+41. Gone Girl by Gillian Flynn
+42. The Help by Kathryn Stockett
+43. The Nightingale by Kristin Hannah
+44. The Book of Lost Things by John Connolly
+45. The Thirteenth Tale by Diane Setterfield
+46. The Time Traveler's Wife by Audrey Niffenegger
+47. The Lovely Bones by Alice Sebold
+48. The Glass Castle by Jeannette Walls
+49. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+50. The Fault in Our Stars by John Green
+
+These recommendations are based on the user's interest in literary fiction, dystopian novels, classic literature, and historical fiction.

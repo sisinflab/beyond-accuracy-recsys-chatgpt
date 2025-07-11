@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smiths
+2. The Stone Roses
+3. The Verve
+4. The Strokes
+5. Interpol
+6. The National
+7. Arcade Fire
+8. The Killers
+9. Franz Ferdinand
+10. Bloc Party
+11. The Libertines
+12. The Jesus and Mary Chain
+13. My Bloody Valentine
+14. Slowdive
+15. Ride
+16. Lush
+17. Cocteau Twins
+18. The Cranberries
+19. The Charlatans
+20. Pulp
+21. Supergrass
+22. Elbow
+23. Doves
+24. The Horrors
+25. Editors
+26. White Lies
+27. Foals
+28. Bombay Bicycle Club
+29. The Maccabees
+30. Wolf Alice
+31. Catfish and the Bottlemen
+32. The Wombats
+33. Two Door Cinema Club
+34. Foster the People
+35. The Kooks
+36. Vampire Weekend
+37. Phoenix
+38. Tame Impala
+39. Foxygen
+40. Unknown Mortal Orchestra
+41. Real Estate
+42. Beach House
+43. Warpaint
+44. DIIV
+45. Alvvays
+46. Beach Fossils
+47. Wild Nothing
+48. Craft Spells
+49. Tennis
+50. The Drums
+
+These recommendations are based on the user's liking for indie, alternative, and shoegaze bands, and include similar artists that they might enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Florence + The Machine
+2. Vampire Weekend
+3. Phoenix
+4. The Strokes
+5. Tame Impala
+6. The Killers
+7. Franz Ferdinand
+8. Gorillaz
+9. Arcade Fire
+10. The Black Keys
+11. Foster The People
+12. HAIM
+13. Lana Del Rey
+14. The Neighbourhood
+15. Arctic Monkeys
+16. The Kooks
+17. The Wombats
+18. The Vaccines
+19. Two Door Cinema Club
+20. The 1975
+21. CHVRCHES
+22. Bastille
+23. The xx
+24. MGMT
+25. Foals
+26. The Naked and Famous
+27. Metric
+28. Passion Pit
+29. Grouplove
+30. Silversun Pickups
+31. Cage The Elephant
+32. Young the Giant
+33. Alt-J
+34. Bombay Bicycle Club
+35. The Temper Trap
+36. Bloc Party
+37. Death Cab for Cutie
+38. Interpol
+39. Modest Mouse
+40. Spoon
+41. Yeah Yeah Yeahs
+42. TV on the Radio
+43. Broken Bells
+44. The National
+45. The Shins
+46. Fleet Foxes
+47. Beach House
+48. Grizzly Bear
+49. Local Natives
+50. Of Monsters and Men
+
+These recommendations are based on the user's liking of similar artists and genres.

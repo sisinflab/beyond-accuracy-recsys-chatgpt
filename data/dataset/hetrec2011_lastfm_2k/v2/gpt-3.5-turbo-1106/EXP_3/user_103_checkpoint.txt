@@ -1,0 +1,54 @@
+Based on user 103's preferences, here are the top 50 recommendations for them:
+
+1. Coldplay
+2. U2
+3. Depeche Mode
+4. Radiohead
+5. Muse
+6. R.E.M.
+7. The Cure
+8. David Bowie
+9. Queen
+10. The Beatles
+11. Arctic Monkeys
+12. Kings of Leon
+13. Maroon 5
+14. Linkin Park
+15. System of a Down
+16. Franz Ferdinand
+17. Oasis
+18. Placebo
+19. Kasabian
+20. Keane
+21. Duran Duran
+22. The Police
+23. Lady Gaga
+24. Ladytron
+25. Crystal Castles
+26. Justice
+27. Pet Shop Boys
+28. Rammstein
+29. Gary Numan
+30. Kraftwerk
+31. Bob Marley
+32. Alphaville
+33. Camouflage
+34. Yeah Yeah Yeahs
+35. 30 Seconds to Mars
+36. Black Eyed Peas
+37. Timbaland
+38. Nitzer Ebb
+39. IAMX
+40. De/Vision
+41. t.A.T.u.
+42. Metallica
+43. Green Day
+44. Daft Punk
+45. a-ha
+46. Dead Can Dance
+47. ATB
+48. Cher
+49. James Morrison
+50. Kylie Minogue
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Graceling by Kristin Cashore
+2. The Hunger Games by Suzanne Collins
+3. Eragon by Christopher Paolini
+4. The Lightning Thief by Rick Riordan
+5. The Maze Runner by James Dashner
+6. Divergent by Veronica Roth
+7. The Giver by Lois Lowry
+8. The Mortal Instruments by Cassandra Clare
+9. The Selection by Kiera Cass
+10. Red Queen by Victoria Aveyard
+11. Throne of Glass by Sarah J. Maas
+12. The 5th Wave by Rick Yancey
+13. Legend by Marie Lu
+14. The Lunar Chronicles by Marissa Meyer
+15. The Darkest Minds by Alexandra Bracken
+16. The Raven Cycle by Maggie Stiefvater
+17. The Infernal Devices by Cassandra Clare
+18. The Wrath and the Dawn by Renee Ahdieh
+19. An Ember in the Ashes by Sabaa Tahir
+20. The Queen of the Tearling by Erika Johansen
+21. The Name of the Wind by Patrick Rothfuss
+22. Mistborn by Brandon Sanderson
+23. The Lies of Locke Lamora by Scott Lynch
+24. The Way of Kings by Brandon Sanderson
+25. The Night Circus by Erin Morgenstern
+26. The Book Thief by Markus Zusak
+27. The Shadow of the Wind by Carlos Ruiz Zafón
+28. The Nightingale by Kristin Hannah
+29. All the Light We Cannot See by Anthony Doerr
+30. The Goldfinch by Donna Tartt
+31. The Secret History by Donna Tartt
+32. The Girl on the Train by Paula Hawkins
+33. Big Little Lies by Liane Moriarty
+34. Gone Girl by Gillian Flynn
+35. Sharp Objects by Gillian Flynn
+36. The Silent Patient by Alex Michaelides
+37. The Woman in the Window by A.J. Finn
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Girl Who Played with Fire by Stieg Larsson
+40. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+41. The Da Vinci Code by Dan Brown
+42. Angels & Demons by Dan Brown
+43. Inferno by Dan Brown
+44. The Lost Symbol by Dan Brown
+45. Origin by Dan Brown
+46. Digital Fortress by Dan Brown
+47. Deception Point by Dan Brown
+48. The Alchemist by Paulo Coelho
+49. The Kite Runner by Khaled Hosseini
+50. A Thousand Splendid Suns by Khaled Hosseini
+
+These recommendations are based on the user's interest in fantasy, adventure, and mystery genres.

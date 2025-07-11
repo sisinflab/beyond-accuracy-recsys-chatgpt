@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. The Bell Jar by Sylvia Plath
+6. The Fault in Our Stars by John Green
+7. The Book Thief by Markus Zusak
+8. The Outsiders by S.E. Hinton
+9. The Giver by Lois Lowry
+10. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+11. The Alchemist by Paulo Coelho
+12. The Kite Runner by Khaled Hosseini
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+15. The Areas of My Expertise by John Hodgman
+16. Balzac and the Little Chinese Seamstress by Dai Sijie
+17. Because of Winn-Dixie by Kate DiCamillo
+18. Paper Towns by John Green
+19. Their Eyes Were Watching God by Zora Neale Hurston
+20. Peter and Wendy by J. M. Barrie
+21. The Secret Life of Bees by Sue Monk Kidd
+22. Surviving the Applewhites by Stephanie S. Tolan
+23. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+24. A Series of Unfortunate Events: The Bad Beginning by Lemony Snicket
+25. Rocket Boys by Homer H. Hickam Jr.
+26. The Perks of Being a Wallflower by Stephen Chbosky
+27. The Catcher in the Rye by J.D. Salinger
+28. To Kill a Mockingbird by Harper Lee
+29. The Great Gatsby by F. Scott Fitzgerald
+30. 1984 by George Orwell
+31. The Bell Jar by Sylvia Plath
+32. The Fault in Our Stars by John Green
+33. The Book Thief by Markus Zusak
+34. The Outsiders by S.E. Hinton
+35. The Giver by Lois Lowry
+36. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+37. The Alchemist by Paulo Coelho
+38. The Kite Runner by Khaled Hosseini
+39. The Perks of Being a Wallflower by Stephen Chbosky
+40. Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson
+41. The Areas of My Expertise by John Hodgman
+42. Balzac and the Little Chinese Seamstress by Dai Sijie
+43. Because of Winn-Dixie by Kate DiCamillo
+44. Paper Towns by John Green
+45. Their Eyes Were Watching God by Zora Neale Hurston
+46. Peter and Wendy by J. M. Barrie
+47. The Secret Life of Bees by Sue Monk Kidd
+48. Surviving the Applewhites by Stephanie S. Tolan
+49. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+50. A Series of Unfortunate Events: The Bad Beginning by Lemony Snicket

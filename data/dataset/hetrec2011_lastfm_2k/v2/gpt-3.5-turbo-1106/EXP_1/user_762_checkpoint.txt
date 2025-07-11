@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Depeche Mode
+2. New Order
+3. The Cure
+4. Pet Shop Boys
+5. Duran Duran
+6. OMD (Orchestral Manoeuvres in the Dark)
+7. Editors
+8. Interpol
+9. The Killers
+10. Placebo
+11. IAMX
+12. Gary Numan
+13. The Smiths
+14. Echo & the Bunnymen
+15. Simple Minds
+16. The Human League
+17. Siouxsie and the Banshees
+18. The Jesus and Mary Chain
+19. The Chameleons
+20. The Psychedelic Furs
+21. Talk Talk
+22. Bauhaus
+23. Cocteau Twins
+24. The Mission
+25. The Sound
+26. The Church
+27. The Stranglers
+28. The Damned
+29. Killing Joke
+30. Public Image Ltd (PIL)
+31. Wire
+32. Magazine
+33. The Teardrop Explodes
+34. The Associates
+35. The B-52's
+36. Blondie
+37. Echo & the Bunnymen
+38. The Velvet Underground
+39. The Clash
+40. Joy Division
+41. The Smiths
+42. The Jesus and Mary Chain
+43. The Chameleons
+44. The Psychedelic Furs
+45. Talk Talk
+46. Bauhaus
+47. Cocteau Twins
+48. The Mission
+49. The Sound
+50. The Church
+
+These recommendations are based on the user's liking of similar artists and genres.

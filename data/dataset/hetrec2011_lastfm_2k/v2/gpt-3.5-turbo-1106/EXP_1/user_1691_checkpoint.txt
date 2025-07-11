@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. LCD Soundsystem
+2. Tame Impala
+3. The Chemical Brothers
+4. Daft Punk
+5. Foals
+6. The xx
+7. Vampire Weekend
+8. The Killers
+9. Franz Ferdinand
+10. Interpol
+11. The Black Keys
+12. Modest Mouse
+13. Yeah Yeah Yeahs
+14. The Flaming Lips
+15. Beck
+16. The National
+17. Arcade Fire
+18. Muse
+19. The White Stripes
+20. Queens of the Stone Age
+21. The Hives
+22. Hot Chip
+23. The Postal Service
+24. Death Cab for Cutie
+25. Spoon
+26. Bloc Party
+27. MGMT
+28. The Libertines
+29. The Verve
+30. Kasabian
+31. The Kooks
+32. The Fratellis
+33. The Wombats
+34. The Vaccines
+35. The Strokes
+36. Arctic Monkeys
+37. The Raconteurs
+38. The Bravery
+39. The Rapture
+40. The Ting Tings
+41. The Subways
+42. The Fratellis
+43. The Pigeon Detectives
+44. The View
+45. The Futureheads
+46. The Zutons
+47. The Coral
+48. The Cribs
+49. The Maccabees
+50. The Enemy
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. LCD Soundsystem
+2. Hot Chip
+3. Cut Copy
+4. The Rapture
+5. Soulwax
+6. Friendly Fires
+7. Foals
+8. The Chemical Brothers
+9. Justice
+10. M83
+11. Phoenix
+12. The Knife
+13. Metronomy
+14. Caribou
+15. Grimes
+16. Tame Impala
+17. Vampire Weekend
+18. The Strokes
+19. Arctic Monkeys
+20. Franz Ferdinand
+21. The Killers
+22. Bloc Party
+23. Yeah Yeah Yeahs
+24. The Hives
+25. The Libertines
+26. The Vaccines
+27. Two Door Cinema Club
+28. Foster the People
+29. Passion Pit
+30. Empire of the Sun
+31. Chvrches
+32. Alt-J
+33. Bombay Bicycle Club
+34. The Wombats
+35. The Ting Tings
+36. The Kooks
+37. The Bravery
+38. The Drums
+39. White Lies
+40. Editors
+41. The Horrors
+42. Kasabian
+43. The Maccabees
+44. The Courteeners
+45. The Pigeon Detectives
+46. The Cribs
+47. The View
+48. The Enemy
+49. The Twang
+50. The Rifles
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 73's preferences, here are the top 50 book recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. Go Ask Alice by Anonymous
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. The Shining by Stephen King
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. To Kill a Mockingbird by Harper Lee
+8. The Hunger Games by Suzanne Collins
+9. The Road by Cormac McCarthy
+10. The Giver by Lois Lowry
+11. The Outsiders by S.E. Hinton
+12. The Handmaid's Tale by Margaret Atwood
+13. Brave New World by Aldous Huxley
+14. The Stand by Stephen King
+15. The Glass Castle by Jeannette Walls
+16. The Lovely Bones by Alice Sebold
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Book Thief by Markus Zusak
+19. The Fault in Our Stars by John Green
+20. The Maze Runner by James Dashner
+21. The Da Vinci Code by Dan Brown
+22. The Road by Cormac McCarthy
+23. The Alchemist by Paulo Coelho
+24. The Kite Runner by Khaled Hosseini
+25. The Girl on the Train by Paula Hawkins
+26. The Help by Kathryn Stockett
+27. The Secret Life of Bees by Sue Monk Kidd
+28. The Poisonwood Bible by Barbara Kingsolver
+29. The Handmaid's Tale by Margaret Atwood
+30. The Color Purple by Alice Walker
+31. The Joy Luck Club by Amy Tan
+32. The House on Mango Street by Sandra Cisneros
+33. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+34. The Namesake by Jhumpa Lahiri
+35. The God of Small Things by Arundhati Roy
+36. The Night Circus by Erin Morgenstern
+37. The Goldfinch by Donna Tartt
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Nightingale by Kristin Hannah
+40. The Light Between Oceans by M.L. Stedman
+41. The Night Circus by Erin Morgenstern
+42. The Nightingale by Kristin Hannah
+43. The Light Between Oceans by M.L. Stedman
+44. The Night Circus by Erin Morgenstern
+45. The Nightingale by Kristin Hannah
+46. The Light Between Oceans by M.L. Stedman
+47. The Night Circus by Erin Morgenstern
+48. The Nightingale by Kristin Hannah
+49. The Light Between Oceans by M.L. Stedman
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the user's interest in psychological thrillers, classic literature, and young adult fiction.

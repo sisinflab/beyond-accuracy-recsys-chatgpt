@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Opeth
+2. Insomnium
+3. In Flames
+4. Gojira
+5. Paradise Lost
+6. Swallow the Sun
+7. Agalloch
+8. Soilwork
+9. Novembre
+10. Enslaved
+11. My Dying Bride
+12. Katatonia
+13. Apocalyptica
+14. Amorphis
+15. Dark Tranquillity
+16. Death
+17. Norther
+18. Hypocrisy
+19. Tool
+20. Scar Symmetry
+21. Metallica
+22. Anathema
+23. DevilDriver
+24. System of a Down
+25. Megadeth
+26. Immortal
+27. Amon Amarth
+28. Behemoth
+29. Kreator
+30. Agathodaimon
+31. Moonspell
+32. Lacuna Coil
+33. Children of Bodom
+34. Dimmu Borgir
+35. Arch Enemy
+36. At the Gates
+37. Carcass
+38. Darkane
+39. Decapitated
+40. Dissection
+41. Edge of Sanity
+42. Emperor
+43. Entombed
+44. Gorgoroth
+45. Hypocrisy
+46. In Mourning
+47. Marduk
+48. Meshuggah
+49. Nightrage
+50. Obituary
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music within the metal and rock genres.

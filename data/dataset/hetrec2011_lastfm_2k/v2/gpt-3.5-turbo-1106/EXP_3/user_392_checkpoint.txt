@@ -1,0 +1,54 @@
+Based on user 392's preferences, here are the top-50 recommendations for the listed artists:
+
+1. Demi Lovato
+2. Nicki Minaj
+3. Katy Perry
+4. Beyoncé
+5. Miley Cyrus
+6. Selena Gomez & the Scene
+7. Taylor Swift
+8. Jennifer Lopez
+9. Fergie
+10. Shakira
+11. Ciara
+12. Kylie Minogue
+13. Cheryl Cole
+14. Adam Lambert
+15. The Saturdays
+16. Pixie Lott
+17. Natasha Bedingfield
+18. Jordin Sparks
+19. Leona Lewis
+20. The Pussycat Dolls
+21. Black Eyed Peas
+22. Ke$ha
+23. Linkin Park
+24. Owl City
+25. 3OH!3
+26. Sky Ferreira
+27. Ashley Tisdale
+28. Hilary Duff
+29. Ashley Tisdale
+30. Jonas Brothers
+31. High School Musical
+32. Miley Cyrus
+33. The Pussycat Dolls
+34. Pixie Lott
+35. 2NE1
+36. Black Eyed Peas
+37. RBD
+38. Natasha Bedingfield
+39. Selena Gomez & the Scene
+40. Beyoncé
+41. Katy Perry
+42. Nicki Minaj
+43. Demi Lovato
+44. Jennifer Lopez
+45. Taylor Swift
+46. Jordin Sparks
+47. Leona Lewis
+48. The Saturdays
+49. Ke$ha
+50. Linkin Park
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for them to explore.

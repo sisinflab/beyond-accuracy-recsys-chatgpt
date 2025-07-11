@@ -1,0 +1,54 @@
+Based on user 834's preferences, here are the top 50 book recommendations:
+
+1. Frankenstein
+2. The Notebook (novel)
+3. Slaughterhouse-Five
+4. The House (novel)
+5. The Guardian (novel)
+6. A Wrinkle in Time
+7. Wuthering Heights
+8. My �ntonia
+9. The Awakening (Chopin novel)
+10. The Alchemist (novel)
+11. Les Mis�rables
+12. Vampire Academy (novel)
+13. Lolita
+14. Jane Eyre
+15. Mythologies (book)
+16. Pride and Prejudice
+17. The Outsiders (novel)
+18. Emma (novel)
+19. Harry Potter
+20. Fahrenheit 451
+21. Perfume (novel)
+22. Uglies
+23. Nineteen Eighty-Four
+24. The Catcher in the Rye
+25. Memoirs of a Geisha
+26. Sun Bin's Art of War
+27. A Bend in the Road
+28. Blue Moon (Noel novel)
+29. The True Believer
+30. The Walking Dead (comic book)
+31. Mansfield Park
+32. The Wonderful Wizard of Oz
+33. The Lucky One (novel)
+34. Hunter (Pierce novel)
+35. Maximum Ride
+36. The Choice (novel)
+37. The Summoning (novel)
+38. House of Night
+39. Cosmos (book)
+40. Something Wicked This Way Comes (novel)
+41. Walk Two Moons
+42. No Country for Old Men
+43. Dear John (novel)
+44. Jurassic Park (novel)
+45. Girl, Interrupted
+46. Tithe: A Modern Faerie Tale
+47. After (book)
+48. L.A. Candy
+49. Beautiful Creatures (novel)
+50. Twilight (series)
+
+These recommendations are based on the user's previous likes and are ranked according to their potential interest.

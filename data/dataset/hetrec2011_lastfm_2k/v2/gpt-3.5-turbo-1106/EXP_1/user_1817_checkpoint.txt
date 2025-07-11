@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. Arctic Monkeys
+3. The Killers
+4. Interpol
+5. Bloc Party
+6. LCD Soundsystem
+7. Phoenix
+8. Vampire Weekend
+9. The Hives
+10. Kasabian
+11. The White Stripes
+12. Gorillaz
+13. Tame Impala
+14. MGMT
+15. Foals
+16. Two Door Cinema Club
+17. The Black Keys
+18. Cage The Elephant
+19. Franz Ferdinand
+20. Yeah Yeah Yeahs
+21. Róisín Murphy
+22. Björk
+23. Fever Ray
+24. Michael Jackson
+25. 浜崎あゆみ
+26. Keane
+27. Ace of Base
+28. Florence + the Machine
+29. iamamiwhoami
+30. The Ting Tings
+31. Röyksopp
+32. 安室奈美恵
+33. Jamiroquai
+34. Emilie Simon
+35. M.I.A.
+36. Linkin Park
+37. Robyn
+38. Beck
+39. Radiohead
+40. Beck
+41. The xx
+42. Grimes
+43. CHVRCHES
+44. HAIM
+45. Lorde
+46. Charli XCX
+47. Marina and the Diamonds
+48. Carly Rae Jepsen
+49. Sky Ferreira
+50. La Roux
+
+These recommendations are based on the user's liking of similar artists and genres.

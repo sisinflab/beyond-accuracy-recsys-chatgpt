@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J. R. R. Tolkien
+2. The Lord of the Rings by J. R. R. Tolkien
+3. Foundation by Isaac Asimov
+4. Neuromancer by William Gibson
+5. 1984 by George Orwell
+6. Brave New World by Aldous Huxley
+7. The Martian by Andy Weir
+8. Ender's Game by Orson Scott Card
+9. The Left Hand of Darkness by Ursula K. Le Guin
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. The Name of the Wind by Patrick Rothfuss
+12. The Lies of Locke Lamora by Scott Lynch
+13. Mistborn: The Final Empire by Brandon Sanderson
+14. The Way of Kings by Brandon Sanderson
+15. The Handmaid's Tale by Margaret Atwood
+16. The Dispossessed by Ursula K. Le Guin
+17. Snow Crash by Neal Stephenson
+18. The Windup Girl by Paolo Bacigalupi
+19. The City & the City by China Miéville
+20. The Book of the New Sun by Gene Wolfe
+21. The Once and Future King by T. H. White
+22. Watership Down by Richard Adams
+23. The Giver by Lois Lowry
+24. The Alchemist by Paulo Coelho
+25. The Night Circus by Erin Morgenstern
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Secret History by Donna Tartt
+28. The Goldfinch by Donna Tartt
+29. The Catcher in the Rye by J.D. Salinger
+30. Slaughterhouse-Five by Kurt Vonnegut
+31. The Bell Jar by Sylvia Plath
+32. The Picture of Dorian Gray by Oscar Wilde
+33. The Great Gatsby by F. Scott Fitzgerald
+34. One Hundred Years of Solitude by Gabriel García Márquez
+35. Love in the Time of Cholera by Gabriel García Márquez
+36. The Master and Margarita by Mikhail Bulgakov
+37. Crime and Punishment by Fyodor Dostoevsky
+38. The Brothers Karamazov by Fyodor Dostoevsky
+39. War and Peace by Leo Tolstoy
+40. Anna Karenina by Leo Tolstoy
+41. The Count of Monte Cristo by Alexandre Dumas
+42. Les Misérables by Victor Hugo
+43. The Picture of Dorian Gray by Oscar Wilde
+44. The Importance of Being Earnest by Oscar Wilde
+45. A Room with a View by E.M. Forster
+46. Howards End by E.M. Forster
+47. A Passage to India by E.M. Forster
+48. The Remains of the Day by Kazuo Ishiguro
+49. Never Let Me Go by Kazuo Ishiguro
+50. The Buried Giant by Kazuo Ishiguro
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1098 likes.

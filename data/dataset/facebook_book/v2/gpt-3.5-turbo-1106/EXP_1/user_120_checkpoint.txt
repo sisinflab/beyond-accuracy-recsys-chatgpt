@@ -1,0 +1,54 @@
+Based on user 120's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Maze Runner by James Dashner
+3. The Giver by Lois Lowry
+4. The Selection by Kiera Cass
+5. Delirium by Lauren Oliver
+6. Legend by Marie Lu
+7. Matched by Ally Condie
+8. The 5th Wave by Rick Yancey
+9. The Darkest Minds by Alexandra Bracken
+10. Cinder by Marissa Meyer
+11. The Mortal Instruments by Cassandra Clare
+12. The Lunar Chronicles by Marissa Meyer
+13. The Fault in Our Stars by John Green
+14. Paper Towns by John Green
+15. Looking for Alaska by John Green
+16. Eleanor & Park by Rainbow Rowell
+17. Fangirl by Rainbow Rowell
+18. To All the Boys I've Loved Before by Jenny Han
+19. Simon vs. the Homo Sapiens Agenda by Becky Albertalli
+20. The Perks of Being a Wallflower by Stephen Chbosky
+21. Thirteen Reasons Why by Jay Asher
+22. The Book Thief by Markus Zusak
+23. The Chronicles of Narnia by C.S. Lewis
+24. Percy Jackson & the Olympians by Rick Riordan
+25. The Hobbit by J.R.R. Tolkien
+26. The Lord of the Rings by J.R.R. Tolkien
+27. The Chronicles of Prydain by Lloyd Alexander
+28. His Dark Materials by Philip Pullman
+29. The Golden Compass by Philip Pullman
+30. The Inheritance Cycle by Christopher Paolini
+31. Eragon by Christopher Paolini
+32. The Bartimaeus Trilogy by Jonathan Stroud
+33. The Amulet of Samarkand by Jonathan Stroud
+34. The Invention of Hugo Cabret by Brian Selznick
+35. Coraline by Neil Gaiman
+36. Stardust by Neil Gaiman
+37. The Graveyard Book by Neil Gaiman
+38. The Alchemist by Paulo Coelho
+39. The Little Prince by Antoine de Saint-Exupéry
+40. The Secret Garden by Frances Hodgson Burnett
+41. Anne of Green Gables by L.M. Montgomery
+42. Little Women by Louisa May Alcott
+43. A Wrinkle in Time by Madeleine L'Engle
+44. Bridge to Terabithia by Katherine Paterson
+45. Holes by Louis Sachar
+46. The Outsiders by S.E. Hinton
+47. The Catcher in the Rye by J.D. Salinger
+48. Lord of the Flies by William Golding
+49. The Outsider by Stephen King
+50. The Shining by Stephen King
+
+These recommendations are based on the user's interest in dystopian fiction, classic literature, fantasy, and young adult fiction.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. Salem's Lot by Stephen King
+3. Lisey's Story by Stephen King
+4. The Stand by Stephen King
+5. Pet Sematary by Stephen King
+6. The Dark Tower series by Stephen King
+7. The Girl Who Loved Tom Gordon by Stephen King
+8. The Tommyknockers by Stephen King
+9. Gerald's Game by Stephen King
+10. Duma Key by Stephen King
+11. The Talisman by Stephen King and Peter Straub
+12. The Drawing of the Three by Stephen King
+13. The Waste Lands by Stephen King
+14. Wizard and Glass by Stephen King
+15. Wolves of the Calla by Stephen King
+16. Song of Susannah by Stephen King
+17. The Dark Tower by Stephen King
+18. The Dark Half by Stephen King
+19. Doctor Sleep by Stephen King
+20. Revival by Stephen King
+21. The Outsider by Stephen King
+22. The Institute by Stephen King
+23. The Eyes of the Dragon by Stephen King
+24. The Regulators by Stephen King (as Richard Bachman)
+25. Desperation by Stephen King
+26. The Long Walk by Stephen King (as Richard Bachman)
+27. Thinner by Stephen King (as Richard Bachman)
+28. The Running Man by Stephen King (as Richard Bachman)
+29. The Dead Zone by Stephen King
+30. Misery by Stephen King
+31. Rose Madder by Stephen King
+32. Carrie by Stephen King
+33. Bag of Bones by Stephen King
+34. Needful Things by Stephen King
+35. The Lunatic Cafe by Laurell K. Hamilton
+36. Narcissus in Chains by Laurell K. Hamilton
+37. Harlequin by Bernard Cornwell
+38. The Watchmen by John Altman
+39. Flirt by Laurell K. Hamilton
+40. Obsidian Butterfly by Laurell K. Hamilton
+41. Burnt Offerings by Laurell K. Hamilton
+42. The Laughing Corpse by Laurell K. Hamilton
+43. The Vampire Chronicles by Anne Rice
+44. Ink Exchange by Melissa Marr
+45. The Dead Zone by Stephen King
+46. Bloody Bones by Laurell K. Hamilton
+47. The Vampire Lestat by Anne Rice
+48. Interview with the Vampire by Anne Rice
+49. The Queen of the Damned by Anne Rice
+50. The Tale of the Body Thief by Anne Rice
+
+These recommendations are based on the user's preference for books by Stephen King, Laurell K. Hamilton, and other similar authors.

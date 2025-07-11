@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fruits Basket by Natsuki Takaya
+2. Ouran High School Host Club by Bisco Hatori
+3. Death Note by Tsugumi Ohba
+4. Nana by Ai Yazawa
+5. Skip Beat! by Yoshiki Nakamura
+6. Fullmetal Alchemist by Hiromu Arakawa
+7. Sailor Moon by Naoko Takeuchi
+8. The Hunger Games by Suzanne Collins
+9. The Mortal Instruments by Cassandra Clare
+10. The Infernal Devices by Cassandra Clare
+11. Percy Jackson & the Olympians by Rick Riordan
+12. The Heroes of Olympus by Rick Riordan
+13. The Kane Chronicles by Rick Riordan
+14. The Selection by Kiera Cass
+15. The Lunar Chronicles by Marissa Meyer
+16. The Maze Runner by James Dashner
+17. The Giver by Lois Lowry
+18. The Uglies series by Scott Westerfeld
+19. The Darkest Minds by Alexandra Bracken
+20. The 5th Wave by Rick Yancey
+21. The Raven Cycle by Maggie Stiefvater
+22. The Grisha Trilogy by Leigh Bardugo
+23. Throne of Glass by Sarah J. Maas
+24. A Court of Thorns and Roses by Sarah J. Maas
+25. The Witcher series by Andrzej Sapkowski
+26. Mistborn series by Brandon Sanderson
+27. The Kingkiller Chronicle by Patrick Rothfuss
+28. The Stormlight Archive by Brandon Sanderson
+29. The Lies of Locke Lamora by Scott Lynch
+30. The Name of the Wind by Patrick Rothfuss
+31. The Wheel of Time by Robert Jordan
+32. The Malazan Book of the Fallen by Steven Erikson
+33. The Black Prism by Brent Weeks
+34. The Lightbringer series by Brent Weeks
+35. The Broken Empire series by Mark Lawrence
+36. The First Law trilogy by Joe Abercrombie
+37. The Powder Mage trilogy by Brian McClellan
+38. The Riyria Revelations by Michael J. Sullivan
+39. The Night Angel trilogy by Brent Weeks
+40. The Gentleman Bastard series by Scott Lynch
+41. The Dresden Files by Jim Butcher
+42. The Codex Alera series by Jim Butcher
+43. The Riyria Chronicles by Michael J. Sullivan
+44. The Demon Cycle by Peter V. Brett
+45. The Black Magician trilogy by Trudi Canavan
+46. The Lightbringer series by Brent Weeks
+47. The Inheritance Cycle by Christopher Paolini
+48. The Bartimaeus Trilogy by Jonathan Stroud
+49. The Abhorsen Trilogy by Garth Nix
+50. The Old Kingdom series by Garth Nix
+
+These recommendations are based on the user's interest in manga, fantasy, and young adult fiction.

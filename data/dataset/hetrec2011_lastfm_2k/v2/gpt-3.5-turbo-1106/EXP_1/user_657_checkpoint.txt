@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. Placebo
+4. The Killers
+5. Florence + The Machine
+6. Paramore
+7. My Chemical Romance
+8. The Strokes
+9. Franz Ferdinand
+10. The White Stripes
+11. Gorillaz
+12. The Smashing Pumpkins
+13. Red Hot Chili Peppers
+14. Foo Fighters
+15. Green Day
+16. Nirvana
+17. The Black Keys
+18. Queens of the Stone Age
+19. The Neighbourhood
+20. Tame Impala
+21. Cage The Elephant
+22. Arctic Monkeys
+23. Linkin Park
+24. Deftones
+25. The Bravery
+26. The Kooks
+27. Biffy Clyro
+28. The Vaccines
+29. The Hives
+30. The Vines
+31. The Libertines
+32. The Fratellis
+33. The Wombats
+34. The Raconteurs
+35. The Arctic Monkeys
+36. The Last Shadow Puppets
+37. The Kooks
+38. The Strokes
+39. The Vaccines
+40. The Wombats
+41. The Fratellis
+42. The Libertines
+43. The Hives
+44. The Vines
+45. The Raconteurs
+46. The Last Shadow Puppets
+47. The Strokes
+48. The Vaccines
+49. The Wombats
+50. The Fratellis
+
+These recommendations are based on the user's liking of similar artists and genres.

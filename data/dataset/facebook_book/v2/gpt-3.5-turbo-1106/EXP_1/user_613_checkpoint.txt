@@ -1,0 +1,54 @@
+Based on the user's preferences for books by Suzanne Collins, Stephen King, and Ellen Hopkins, here are the top 50 recommendations:
+
+1. Mockingjay by Suzanne Collins
+2. The Stand by Stephen King
+3. Divergent by Veronica Roth
+4. The Girl on the Train by Paula Hawkins
+5. The Maze Runner by James Dashner
+6. The Shining by Stephen King
+7. Insurgent by Veronica Roth
+8. The Road by Cormac McCarthy
+9. The Girl with the Dragon Tattoo by Stieg Larsson
+10. The Dark Tower series by Stephen King
+11. The Fault in Our Stars by John Green
+12. The Outsiders by S.E. Hinton
+13. The Giver by Lois Lowry
+14. The Catcher in the Rye by J.D. Salinger
+15. The Lovely Bones by Alice Sebold
+16. The Hunger by Alma Katsu
+17. The Reckoners series by Brandon Sanderson
+18. The Book Thief by Markus Zusak
+19. The Night Circus by Erin Morgenstern
+20. The Road by Cormac McCarthy
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Dark Tower series by Stephen King
+23. The Fault in Our Stars by John Green
+24. The Outsiders by S.E. Hinton
+25. The Giver by Lois Lowry
+26. The Catcher in the Rye by J.D. Salinger
+27. The Lovely Bones by Alice Sebold
+28. The Hunger by Alma Katsu
+29. The Reckoners series by Brandon Sanderson
+30. The Book Thief by Markus Zusak
+31. The Night Circus by Erin Morgenstern
+32. The Road by Cormac McCarthy
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Dark Tower series by Stephen King
+35. The Fault in Our Stars by John Green
+36. The Outsiders by S.E. Hinton
+37. The Giver by Lois Lowry
+38. The Catcher in the Rye by J.D. Salinger
+39. The Lovely Bones by Alice Sebold
+40. The Hunger by Alma Katsu
+41. The Reckoners series by Brandon Sanderson
+42. The Book Thief by Markus Zusak
+43. The Night Circus by Erin Morgenstern
+44. The Road by Cormac McCarthy
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Dark Tower series by Stephen King
+47. The Fault in Our Stars by John Green
+48. The Outsiders by S.E. Hinton
+49. The Giver by Lois Lowry
+50. The Catcher in the Rye by J.D. Salinger
+
+These recommendations are based on similar genres, authors, and themes to the books the user has enjoyed.

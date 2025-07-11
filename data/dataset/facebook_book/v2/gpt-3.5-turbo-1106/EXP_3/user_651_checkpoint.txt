@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 651:
+
+1. The Book Thief by Markus Zusak
+2. The Graveyard Book by Neil Gaiman
+3. Anansi Boys by Neil Gaiman
+4. The Perks of Being a Wallflower by Stephen Chbosky
+5. The Hunger Games
+6. Inkheart
+7. A Thousand Splendid Suns
+8. Pride and Prejudice
+9. The Giver
+10. The Picture of Dorian Gray
+11. The Chronicles of Narnia: Prince Caspian
+12. Nineteen Minutes
+13. The Awakening (Chopin novel)
+14. Tuesdays with Morrie
+15. Night (book)
+16. American Gods
+17. A Tale of Two Cities
+18. Harry Potter
+19. Great Expectations
+20. To Kill a Mockingbird
+21. The Catcher in the Rye
+22. The Bell Jar
+23. The Princess Bride
+24. The Outsiders (novel)
+25. Daughter of the Lioness
+26. Life of Pi
+27. The Great Gatsby
+28. A Series of Unfortunate Events
+29. The Five People You Meet in Heaven
+30. The Immortals (novel)
+31. Les Misérables
+32. The Time Traveler's Wife
+33. Sarah's Key (novel)
+34. Romeo and Juliet
+35. Sophie's World
+36. The Woman in White (novel)
+37. An Abundance of Katherines
+38. Mockingjay
+39. The Scarlet Letter
+40. Nineteen Eighty-Four
+41. The Forest of Hands and Teeth
+42. Anthem (novella)
+43. The Kane Chronicles
+44. The Hamlet
+45. Rebecca (novel)
+46. The Screwtape Letters
+47. The Umbrella Academy
+48. After Dark (novel)
+49. Girl with a Pearl Earring (novel)
+50. Bible
+
+These recommendations are based on the user's previous likes and the similarity of the recommended books to those preferences.

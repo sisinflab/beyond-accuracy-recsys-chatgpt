@@ -1,0 +1,52 @@
+Based on user 41's preferences, here are the top 50 recommendations for the given artists:
+
+1. Metallica
+2. Iron Maiden
+3. Megadeth
+4. Judas Priest
+5. AC/DC
+6. Slayer
+7. Pantera
+8. Queensrÿche
+9. Testament
+10. Exodus
+11. Overkill
+12. Sodom
+13. Anthrax
+14. Helloween
+15. HammerFall
+16. Rammstein
+17. Avenged Sevenfold
+18. Slipknot
+19. System of a Down
+20. Alice Cooper
+21. Mötley Crüe
+22. Motörhead
+23. Korn
+24. Nightwish
+25. Dream Theater
+26. Kamelot
+27. Avantasia
+28. Blind Guardian
+29. Sonata Arctica
+30. Edguy
+31. Stratovarius
+32. Rhapsody of Fire
+33. Kreator
+34. Iced Earth
+35. Saxon
+36. UFO
+37. Mr. Big
+38. Van Halen
+39. Deep Purple
+40. Rainbow
+41. Uriah Heep
+42. Black Sabbath
+43. Dio
+44. Scorpions
+45. Queensryche
+46. Alice in Chains
+47. Tool
+48. Soundgarden
+49. Pearl Jam
+50. Nirvana

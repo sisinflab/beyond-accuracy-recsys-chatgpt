@@ -1,0 +1,54 @@
+Based on user 3's preferences, here are the top 50 book recommendations:
+
+1. Catch-22 by Joseph Heller
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Brave New World by Aldous Huxley
+8. The Bell Jar by Sylvia Plath
+9. The Road by Cormac McCarthy
+10. The Shining by Stephen King
+11. The Stand by Stephen King
+12. The Handmaid's Tale by Margaret Atwood
+13. Fahrenheit 451 by Ray Bradbury
+14. The Stranger by Albert Camus
+15. One Hundred Years of Solitude by Gabriel Garcia Marquez
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Sun Also Rises by Ernest Hemingway
+18. A Clockwork Orange by Anthony Burgess
+19. The Grapes of Wrath by John Steinbeck
+20. The Old Man and the Sea by Ernest Hemingway
+21. The Road Not Taken by Robert Frost
+22. The Sound and the Fury by William Faulkner
+23. The Brothers Karamazov by Fyodor Dostoevsky
+24. Crime and Punishment by Fyodor Dostoevsky
+25. The Idiot by Fyodor Dostoevsky
+26. The Master and Margarita by Mikhail Bulgakov
+27. Lolita by Vladimir Nabokov
+28. The Trial by Franz Kafka
+29. The Metamorphosis by Franz Kafka
+30. The Stranger by Albert Camus
+31. The Plague by Albert Camus
+32. The Outsider by Albert Camus
+33. The Fall by Albert Camus
+34. The Myth of Sisyphus by Albert Camus
+35. The Unbearable Lightness of Being by Milan Kundera
+36. The Book Thief by Markus Zusak
+37. The Kite Runner by Khaled Hosseini
+38. A Thousand Splendid Suns by Khaled Hosseini
+39. The Alchemist by Paulo Coelho
+40. The Name of the Wind by Patrick Rothfuss
+41. The Wise Man's Fear by Patrick Rothfuss
+42. The Night Circus by Erin Morgenstern
+43. The Shadow of the Wind by Carlos Ruiz Zafón
+44. The Book of Lost Things by John Connolly
+45. The Thirteenth Tale by Diane Setterfield
+46. The Historian by Elizabeth Kostova
+47. The Secret History by Donna Tartt
+48. The Goldfinch by Donna Tartt
+49. The Nightingale by Kristin Hannah
+50. All the Light We Cannot See by Anthony Doerr
+
+These recommendations are based on the user's interest in fiction, fantasy, and dark-themed books.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. Catching Fire by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Fault in Our Stars by John Green
+5. The Maze Runner by James Dashner
+6. The Book Thief by Markus Zusak
+7. The Giver by Lois Lowry
+8. The Girl on the Train by Paula Hawkins
+9. Gone Girl by Gillian Flynn
+10. The Da Vinci Code by Dan Brown
+11. The Alchemist by Paulo Coelho
+12. The Kite Runner by Khaled Hosseini
+13. The Help by Kathryn Stockett
+14. The Night Circus by Erin Morgenstern
+15. The Goldfinch by Donna Tartt
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Lovely Bones by Alice Sebold
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Glass Castle by Jeannette Walls
+20. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+21. The Handmaid's Tale by Margaret Atwood
+22. The Martian by Andy Weir
+23. The Silent Patient by Alex Michaelides
+24. The Tattooist of Auschwitz by Heather Morris
+25. The Nightingale by Kristin Hannah
+26. The Light Between Oceans by M.L. Stedman
+27. The Great Alone by Kristin Hannah
+28. The Alice Network by Kate Quinn
+29. The Nightingale by Kristin Hannah
+30. The Light Between Oceans by M.L. Stedman
+31. The Great Alone by Kristin Hannah
+32. The Alice Network by Kate Quinn
+33. The Nightingale by Kristin Hannah
+34. The Light Between Oceans by M.L. Stedman
+35. The Great Alone by Kristin Hannah
+36. The Alice Network by Kate Quinn
+37. The Nightingale by Kristin Hannah
+38. The Light Between Oceans by M.L. Stedman
+39. The Great Alone by Kristin Hannah
+40. The Alice Network by Kate Quinn
+41. The Nightingale by Kristin Hannah
+42. The Light Between Oceans by M.L. Stedman
+43. The Great Alone by Kristin Hannah
+44. The Alice Network by Kate Quinn
+45. The Nightingale by Kristin Hannah
+46. The Light Between Oceans by M.L. Stedman
+47. The Great Alone by Kristin Hannah
+48. The Alice Network by Kate Quinn
+49. The Nightingale by Kristin Hannah
+50. The Light Between Oceans by M.L. Stedman
+
+These recommendations are based on the user's interest in a mix of fiction, mystery, and historical novels.

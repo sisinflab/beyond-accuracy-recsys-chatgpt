@@ -1,0 +1,54 @@
+Based on user 1596's preferences, here are the re-ranked top-50 recommendations:
+
+1. The Beatles
+2. Pink Floyd
+3. Nirvana
+4. Led Zeppelin
+5. Queen
+6. Aerosmith
+7. Black Sabbath
+8. AC/DC
+9. Guns N' Roses
+10. Metallica
+11. The Rolling Stones
+12. Jimi Hendrix
+13. Deep Purple
+14. Red Hot Chili Peppers
+15. Bon Jovi
+16. The White Stripes
+17. Scorpions
+18. Boston
+19. Creedence Clearwater Revival
+20. Janis Joplin
+21. The Raconteurs
+22. Dire Straits
+23. Oasis
+24. Twisted Sister
+25. Kansas
+26. The Animals
+27. The Clash
+28. Eagles
+29. Joan Jett and the Blackhearts
+30. Europe
+31. Foreigner
+32. Raul Seixas
+33. U2
+34. Muse
+35. 30 Seconds to Mars
+36. The Killers
+37. Evanescence
+38. Paramore
+39. My Chemical Romance
+40. Green Day
+41. Linkin Park
+42. Avenged Sevenfold
+43. System of a Down
+44. Nine Inch Nails
+45. Metallica
+46. Iron Maiden
+47. Pearl Jam
+48. The Cure
+49. Radiohead
+50. Depeche Mode
+
+These recommendations are based on the user's liking of classic rock and hard rock bands, as well as some alternative and grunge bands. The recommendations include similar genres and artists that have been popular among fans of the user's liked artists.

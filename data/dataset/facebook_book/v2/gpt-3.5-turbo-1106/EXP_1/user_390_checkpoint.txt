@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Eragon by Christopher Paolini
+2. Inkheart by Cornelia Funke
+3. The Lightning Thief by Rick Riordan
+4. The Hunger Games by Suzanne Collins
+5. City of Bones by Cassandra Clare
+6. The Maze Runner by James Dashner
+7. Divergent by Veronica Roth
+8. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+9. The Alchemyst by Michael Scott
+10. The Golden Compass by Philip Pullman
+11. The Chronicles of Narnia by C.S. Lewis
+12. The Giver by Lois Lowry
+13. The Mortal Instruments series by Cassandra Clare
+14. The Magicians by Lev Grossman
+15. The Name of the Wind by Patrick Rothfuss
+16. The Night Circus by Erin Morgenstern
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Hunger Games by Suzanne Collins
+19. The Hobbit by J.R.R. Tolkien
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Chronicles of Prydain by Lloyd Alexander
+22. The Inheritance Cycle by Christopher Paolini
+23. The Dark Tower series by Stephen King
+24. The Wheel of Time series by Robert Jordan
+25. The Kingkiller Chronicle series by Patrick Rothfuss
+26. The Stormlight Archive series by Brandon Sanderson
+27. The Mistborn series by Brandon Sanderson
+28. The Lies of Locke Lamora by Scott Lynch
+29. The Way of Kings by Brandon Sanderson
+30. The Malazan Book of the Fallen series by Steven Erikson
+31. The First Law series by Joe Abercrombie
+32. The Broken Empire series by Mark Lawrence
+33. The Black Prism by Brent Weeks
+34. The Lightbringer series by Brent Weeks
+35. The Powder Mage trilogy by Brian McClellan
+36. The Demon Cycle series by Peter V. Brett
+37. The Riyria Revelations series by Michael J. Sullivan
+38. The Farseer Trilogy by Robin Hobb
+39. The Liveship Traders Trilogy by Robin Hobb
+40. The Tawny Man Trilogy by Robin Hobb
+41. The Gentleman Bastard series by Scott Lynch
+42. The Night Angel Trilogy by Brent Weeks
+43. The Codex Alera series by Jim Butcher
+44. The Dresden Files series by Jim Butcher
+45. The Kingkiller Chronicle series by Patrick Rothfuss
+46. The Stormlight Archive series by Brandon Sanderson
+47. The Mistborn series by Brandon Sanderson
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Way of Kings by Brandon Sanderson
+50. The Malazan Book of the Fallen series by Steven Erikson
+
+These recommendations are based on the user's interest in fantasy, adventure, and supernatural themes.

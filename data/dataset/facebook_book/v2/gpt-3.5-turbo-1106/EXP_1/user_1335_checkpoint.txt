@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Giver by Lois Lowry
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Maze Runner by James Dashner
+5. The Lightning Thief by Rick Riordan
+6. The Alchemist by Paulo Coelho
+7. To Kill a Mockingbird by Harper Lee
+8. The Catcher in the Rye by J.D. Salinger
+9. The Book Thief by Markus Zusak
+10. The Outsiders by S.E. Hinton
+11. The Fault in Our Stars by John Green
+12. The Perks of Being a Wallflower by Stephen Chbosky
+13. The Secret Garden by Frances Hodgson Burnett
+14. The Chronicles of Narnia by C.S. Lewis
+15. The Hobbit by J.R.R. Tolkien
+16. The Lord of the Rings by J.R.R. Tolkien
+17. The Great Gatsby by F. Scott Fitzgerald
+18. 1984 by George Orwell
+19. Animal Farm by George Orwell
+20. Brave New World by Aldous Huxley
+21. Fahrenheit 451 by Ray Bradbury
+22. The Handmaid's Tale by Margaret Atwood
+23. The Road by Cormac McCarthy
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+27. The Lovely Bones by Alice Sebold
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Da Vinci Code by Dan Brown
+30. Angels & Demons by Dan Brown
+31. The Girl on the Train by Paula Hawkins
+32. Gone Girl by Gillian Flynn
+33. The Help by Kathryn Stockett
+34. The Secret Life of Bees by Sue Monk Kidd
+35. The Night Circus by Erin Morgenstern
+36. The Goldfinch by Donna Tartt
+37. The Girl with the Pearl Earring by Tracy Chevalier
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Shadow of the Wind by Carlos Ruiz Zafón
+40. The Name of the Wind by Patrick Rothfuss
+41. The Nightingale by Kristin Hannah
+42. The Glass Castle by Jeannette Walls
+43. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+44. The Martian by Andy Weir
+45. Ready Player One by Ernest Cline
+46. The Handmaid's Tale by Margaret Atwood
+47. The Road by Cormac McCarthy
+48. The Kite Runner by Khaled Hosseini
+49. A Thousand Splendid Suns by Khaled Hosseini
+50. The Curious Incident of the Dog in the Night-Time by Mark Haddon

@@ -1,0 +1,54 @@
+Based on user 1764's preferences, here are the top 50 recommendations for the given artists:
+
+1. The Smiths
+2. Pixies
+3. Björk
+4. Modest Mouse
+5. Death Cab for Cutie
+6. Rilo Kiley
+7. The Decemberists
+8. Bright Eyes
+9. Neutral Milk Hotel
+10. Florence + the Machine
+11. The New Pornographers
+12. Camera Obscura
+13. Lykke Li
+14. The Smashing Pumpkins
+15. Aimee Mann
+16. Regina Spektor
+17. Andrew Bird
+18. Beirut
+19. Belle and Sebastian
+20. Grizzly Bear
+21. The Beatles
+22. múm
+23. Bon Iver
+24. Beach House
+25. The Magnetic Fields
+26. The Beach Boys
+27. Black Sabbath
+28. Fleet Foxes
+29. The xx
+30. Kanye West
+31. Radiohead
+32. Bat for Lashes
+33. Ani DiFranco
+34. Sufjan Stevens
+35. Iron & Wine
+36. Drake
+37. T. Rex
+38. Peaches
+39. Animal Collective
+40. Beck
+41. Band of Horses
+42. Arctic Monkeys
+43. Le Tigre
+44. Bruce Springsteen
+45. The Cranberries
+46. AFI
+47. Placebo
+48. Feist
+49. Manic Street Preachers
+50. They Might Be Giants
+
+These recommendations are based on similar genres and artists liked by user 1764.

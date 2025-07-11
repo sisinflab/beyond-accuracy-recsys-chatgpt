@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Snow Patrol
+2. The Script
+3. Imagine Dragons
+4. OneRepublic
+5. The Cranberries
+6. Maroon 5
+7. Florence + The Machine
+8. The Killers
+9. Keane
+10. Bastille
+11. The Fray
+12. Coldplay
+13. Lifehouse
+14. Moby
+15. Ladytron
+16. Madonna
+17. ATB
+18. Modest Mouse
+19. Natalie Imbruglia
+20. Roxette
+21. The Bravery
+22. Oasis
+23. James Blunt
+24. P!nk
+25. Richard Ashcroft
+26. Katy Perry
+27. Garbage
+28. Arctic Monkeys
+29. a-ha
+30. The Cardigans
+31. Arcade Fire
+32. Muse
+33. Client
+34. Yeah Yeah Yeahs
+35. Lenny Kravitz
+36. Britney Spears
+37. Green Day
+38. Regina Spektor
+39. Sophie Ellis-Bextor
+40. Hilary Duff
+41. Adele
+42. Travis
+43. KT Tunstall
+44. Snow Patrol
+45. The Script
+46. Imagine Dragons
+47. The Cranberries
+48. Maroon 5
+49. Florence + The Machine
+50. Bastille

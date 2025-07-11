@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. Thus Spoke Zarathustra by Friedrich Nietzsche
+3. Nausea by Jean-Paul Sartre
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Dracula by Bram Stoker
+6. The Stranger by Albert Camus
+7. The Catcher in the Rye by J.D. Salinger
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Metamorphosis by Franz Kafka
+10. The Brothers Karamazov by Fyodor Dostoevsky
+11. The Bell Jar by Sylvia Plath
+12. The Road by Cormac McCarthy
+13. American Psycho by Bret Easton Ellis
+14. The Shining by Stephen King
+15. The Great Gatsby by F. Scott Fitzgerald
+16. The Stand by Stephen King
+17. The Book Thief by Markus Zusak
+18. The Master and Margarita by Mikhail Bulgakov
+19. The Plague by Albert Camus
+20. The Count of Monte Cristo by Alexandre Dumas
+21. The Name of the Wind by Patrick Rothfuss
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Handmaid's Tale by Margaret Atwood
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Road by Cormac McCarthy
+28. The Stranger by Albert Camus
+29. The Catcher in the Rye by J.D. Salinger
+30. One Hundred Years of Solitude by Gabriel Garcia Marquez
+31. The Metamorphosis by Franz Kafka
+32. The Brothers Karamazov by Fyodor Dostoevsky
+33. The Bell Jar by Sylvia Plath
+34. American Psycho by Bret Easton Ellis
+35. The Shining by Stephen King
+36. The Great Gatsby by F. Scott Fitzgerald
+37. The Stand by Stephen King
+38. The Book Thief by Markus Zusak
+39. The Master and Margarita by Mikhail Bulgakov
+40. The Plague by Albert Camus
+41. The Count of Monte Cristo by Alexandre Dumas
+42. The Name of the Wind by Patrick Rothfuss
+43. The Shadow of the Wind by Carlos Ruiz Zafón
+44. The Girl with the Dragon Tattoo by Stieg Larsson
+45. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+46. The Handmaid's Tale by Margaret Atwood
+47. The Picture of Dorian Gray by Oscar Wilde
+48. The Road by Cormac McCarthy
+49. The Stranger by Albert Camus
+50. The Catcher in the Rye by J.D. Salinger
+
+These recommendations are based on the user's interest in dark and philosophical themes, as well as a preference for works by authors such as Nietzsche, Sartre, and Anne Rice.

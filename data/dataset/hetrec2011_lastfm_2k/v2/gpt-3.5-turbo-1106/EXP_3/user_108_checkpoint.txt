@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Children of Bodom
+2. Bathory
+3. Anathema
+4. Destruction
+5. Eluveitie
+6. Saxon
+7. Metallica
+8. Cradle of Filth
+9. Testament
+10. Pantera
+11. Therion
+12. Rammstein
+13. In Flames
+14. Arch Enemy
+15. Amon Amarth
+16. Machine Head
+17. Marilyn Manson
+18. Bloodbath
+19. Hypocrisy
+20. Death
+21. Motörhead
+22. Iron Maiden
+23. Nightwish
+24. Ensiferum
+25. Immortal
+26. In Extremo
+27. Led Zeppelin
+28. Judas Priest
+29. Slipknot
+30. Hatebreed
+31. Guano Apes
+32. The Mars Volta
+33. Sigur Rós
+34. Alice in Chains
+35. Beck
+36. Pink Floyd
+37. System of a Down
+38. Devin Townsend
+39. 12 Stones
+40. AC/DC
+41. Nevermore
+42. Mr. Big
+43. Nickelback
+44. Yann Tiersen
+45. Jamiroquai
+46. Kreator
+47. Infected Mushroom
+48. Sepultura
+49. Vader
+50. Cannibal Corpse
+
+This re-ranked list is based on the user's existing preferences and aims to provide recommendations that align with their current taste in music.

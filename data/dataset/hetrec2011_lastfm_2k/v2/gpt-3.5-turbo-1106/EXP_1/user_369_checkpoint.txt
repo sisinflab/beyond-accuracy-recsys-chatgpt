@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Joy Division
+3. Editors
+4. White Lies
+5. The Strokes
+6. Death Cab for Cutie
+7. Modest Mouse
+8. The National
+9. Yeah Yeah Yeahs
+10. Spoon
+11. The Libertines
+12. The Jesus and Mary Chain
+13. The War on Drugs
+14. Vampire Weekend
+15. The Horrors
+16. The Vaccines
+17. Foals
+18. The Wombats
+19. Two Door Cinema Club
+20. The Fratellis
+21. The Pains of Being Pure at Heart
+22. The Raveonettes
+23. The Bravery
+24. The Maccabees
+25. The Joy Formidable
+26. The Naked and Famous
+27. The Drums
+28. The xx
+29. Interpol
+30. Bloc Party
+31. The Smiths
+32. The Killers
+33. The Postal Service
+34. Belle and Sebastian
+35. The Cure
+36. Placebo
+37. Arcade Fire
+38. Tori Amos
+39. Maxïmo Park
+40. Mystery Jets
+41. Snow Patrol
+42. Patrick Wolf
+43. Lady Gaga
+44. Morrissey
+45. Biffy Clyro
+46. The Kooks
+47. Elliott Smith
+48. Beach House
+49. She Wants Revenge
+50. We Are Scientists
+
+These recommendations are based on the user's liking of similar artists and genres.

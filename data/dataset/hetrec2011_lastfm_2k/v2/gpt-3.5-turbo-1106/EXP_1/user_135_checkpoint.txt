@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Evanescence
+2. IAMX
+3. Garbage
+4. The Rasmus
+5. Aesthetic Perfection
+6. Paramore
+7. Epica
+8. The Cure
+9. Lorde
+10. The Pretty Reckless
+11. Oomph!
+12. P!nk
+13. The Killers
+14. In This Moment
+15. M83
+16. The Veronicas
+17. Icon for Hire
+18. Nine Inch Nails
+19. Halsey
+20. The xx
+21. Chvrches
+22. Metric
+23. Ellie Goulding
+24. The Naked and Famous
+25. Tegan and Sara
+26. Shiny Toy Guns
+27. Moby
+28. CHVRCHES
+29. Grimes
+30. Phantogram
+31. Florence + The Machine
+32. Sleigh Bells
+33. Crystal Castles
+34. La Roux
+35. Broods
+36. Banks
+37. Zola Jesus
+38. K.Flay
+39. Aurora
+40. Bishop Briggs
+41. Purity Ring
+42. FKA twigs
+43. Sky Ferreira
+44. Tove Lo
+45. Charli XCX
+46. Marina and the Diamonds
+47. Kim Petras
+48. Allie X
+49. SOPHIE
+50. Rina Sawayama
+
+These recommendations are based on the user's liking of similar artists and genres.

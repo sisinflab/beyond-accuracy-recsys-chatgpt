@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Inferno by Dan Brown
+2. The Lost Symbol by Dan Brown
+3. Origin by Dan Brown
+4. Digital Fortress by Dan Brown
+5. Deception Point by Dan Brown
+6. The Alchemist by Paulo Coelho
+7. The Girl with the Dragon Tattoo by Stieg Larsson
+8. The Girl Who Played with Fire by Stieg Larsson
+9. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+10. The Catcher in the Rye by J.D. Salinger
+11. To Kill a Mockingbird by Harper Lee
+12. 1984 by George Orwell
+13. Animal Farm by George Orwell
+14. Brave New World by Aldous Huxley
+15. The Great Gatsby by F. Scott Fitzgerald
+16. The Catcher in the Rye by J.D. Salinger
+17. The Old Man and the Sea by Ernest Hemingway
+18. One Hundred Years of Solitude by Gabriel Garcia Marquez
+19. Love in the Time of Cholera by Gabriel Garcia Marquez
+20. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+21. The Shadow of the Wind by Carlos Ruiz Zafón
+22. The Angel's Game by Carlos Ruiz Zafón
+23. The Prisoner of Heaven by Carlos Ruiz Zafón
+24. The Name of the Wind by Patrick Rothfuss
+25. The Wise Man's Fear by Patrick Rothfuss
+26. The Slow Regard of Silent Things by Patrick Rothfuss
+27. The Hobbit by J.R.R. Tolkien
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Silmarillion by J.R.R. Tolkien
+30. The Hunger Games by Suzanne Collins
+31. Catching Fire by Suzanne Collins
+32. Mockingjay by Suzanne Collins
+33. Divergent by Veronica Roth
+34. Insurgent by Veronica Roth
+35. Allegiant by Veronica Roth
+36. The Maze Runner by James Dashner
+37. The Scorch Trials by James Dashner
+38. The Death Cure by James Dashner
+39. The Giver by Lois Lowry
+40. Gathering Blue by Lois Lowry
+41. Messenger by Lois Lowry
+42. The Road by Cormac McCarthy
+43. No Country for Old Men by Cormac McCarthy
+44. All the Pretty Horses by Cormac McCarthy
+45. The Book Thief by Markus Zusak
+46. I Am the Messenger by Markus Zusak
+47. Bridge of Clay by Markus Zusak
+48. The Night Circus by Erin Morgenstern
+49. The Starless Sea by Erin Morgenstern
+50. The Invisible Life of Addie LaRue by V.E. Schwab
+
+These recommendations are based on the user's interest in mystery, historical fiction, classics, and adventure novels.

@@ -1,0 +1,54 @@
+Based on user 143's preferences, here are the top 50 book recommendations:
+
+1. One Hundred Years of Solitude by Gabriel Garcia Marquez
+2. The Catcher in the Rye by J.D. Salinger
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. Catch-22 by Joseph Heller
+6. The Bell Jar by Sylvia Plath
+7. The Handmaid's Tale by Margaret Atwood
+8. Brave New World by Aldous Huxley
+9. 1984 by George Orwell
+10. The Road by Cormac McCarthy
+11. The Grapes of Wrath by John Steinbeck
+12. East of Eden by John Steinbeck
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Sun Also Rises by Ernest Hemingway
+15. The Picture of Dorian Gray by Oscar Wilde
+16. Crime and Punishment by Fyodor Dostoevsky
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. Lolita by Vladimir Nabokov
+19. The Stranger by Albert Camus
+20. The Plague by Albert Camus
+21. The Trial by Franz Kafka
+22. The Metamorphosis by Franz Kafka
+23. The Master and Margarita by Mikhail Bulgakov
+24. The Name of the Rose by Umberto Eco
+25. The Shadow of the Wind by Carlos Ruiz Zafon
+26. The Alchemist by Paulo Coelho
+27. The Kite Runner by Khaled Hosseini
+28. A Thousand Splendid Suns by Khaled Hosseini
+29. The Book Thief by Markus Zusak
+30. The Night Circus by Erin Morgenstern
+31. The Secret History by Donna Tartt
+32. The Goldfinch by Donna Tartt
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Lovely Bones by Alice Sebold
+37. The Help by Kathryn Stockett
+38. The Color Purple by Alice Walker
+39. Beloved by Toni Morrison
+40. The Handmaid's Tale by Margaret Atwood
+41. The Power by Naomi Alderman
+42. The Hunger Games by Suzanne Collins
+43. Dune by Frank Herbert
+44. Ender's Game by Orson Scott Card
+45. The Martian by Andy Weir
+46. Ready Player One by Ernest Cline
+47. Snow Crash by Neal Stephenson
+48. Neuromancer by William Gibson
+49. The Left Hand of Darkness by Ursula K. Le Guin
+50. The Dispossessed by Ursula K. Le Guin
+
+These recommendations are based on similar themes, writing styles, and genres to the books that user 143 enjoys.

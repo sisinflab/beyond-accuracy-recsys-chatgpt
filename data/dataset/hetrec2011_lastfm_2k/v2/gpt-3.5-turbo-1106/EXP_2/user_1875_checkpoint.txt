@@ -1,0 +1,54 @@
+Based on user 1875's preferences, here are the re-ranked top-50 recommendations:
+
+1. Radiohead
+2. Placebo
+3. Avril Lavigne
+4. Nirvana
+5. The Killers
+6. Muse
+7. My Chemical Romance
+8. Coldplay
+9. Paramore
+10. The Beatles
+11. Pink Floyd
+12. The Cure
+13. Linkin Park
+14. Green Day
+15. Metallica
+16. Nine Inch Nails
+17. Evanescence
+18. The Smiths
+19. Arctic Monkeys
+20. System of a Down
+21. The Knife
+22. Bright Eyes
+23. Elliott Smith
+24. Tegan and Sara
+25. The Kills
+26. She Wants Revenge
+27. Hole
+28. Blutengel
+29. Lacuna Coil
+30. Breaking Benjamin
+31. Bring Me The Horizon
+32. Brand New
+33. The Shins
+34. Arcade Fire
+35. Crystal Castles
+36. Bat for Lashes
+37. CocoRosie
+38. Sia
+39. Underoath
+40. Silverchair
+41. Eisley
+42. Maria Mena
+43. Lady Gaga
+44. Christina Aguilera
+45. Madonna
+46. Rihanna
+47. Shakira
+48. Katy Perry
+49. Britney Spears
+50. Ke$ha
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

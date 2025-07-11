@@ -1,0 +1,54 @@
+Based on user 620's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Within Temptation
+3. Nightwish
+4. Delain
+5. Epica
+6. Lacuna Coil
+7. Tarja
+8. Leaves' Eyes
+9. Evanescence
+10. Paramore
+11. Lady Gaga
+12. Madonna
+13. Rihanna
+14. Katy Perry
+15. Shakira
+16. Christina Aguilera
+17. Britney Spears
+18. Glee Cast
+19. Amy Winehouse
+20. P!nk
+21. Florence + the Machine
+22. Tori Amos
+23. Regina Spektor
+24. Blackmore's Night
+25. Cyndi Lauper
+26. BoA
+27. Kelly Clarkson
+28. Miley Cyrus
+29. 30 Seconds to Mars
+30. Adam Lambert
+31. Pink Floyd
+32. Muse
+33. The Beatles
+34. U2
+35. Nirvana
+36. Metallica
+37. Led Zeppelin
+38. Iron Maiden
+39. The Killers
+40. Coldplay
+41. Arctic Monkeys
+42. Placebo
+43. Radiohead
+44. Blur
+45. Duran Duran
+46. Ke$ha
+47. Taylor Swift
+48. Avril Lavigne
+49. Beyoncé
+50. Kylie Minogue
+
+These recommendations are based on the user's liking of similar artists and genres.

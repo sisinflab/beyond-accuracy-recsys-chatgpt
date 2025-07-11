@@ -1,0 +1,54 @@
+Based on user 1772's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The White Stripes
+2. The Beatles
+3. Pink Floyd
+4. Nirvana
+5. Radiohead
+6. The Strokes
+7. The Offspring
+8. Red Hot Chili Peppers
+9. Foo Fighters
+10. Pearl Jam
+11. Green Day
+12. System of a Down
+13. Rage Against the Machine
+14. Beck
+15. Kings of Leon
+16. Silverchair
+17. The Prodigy
+18. Queens of the Stone Age
+19. The Kills
+20. The Hives
+21. Rancid
+22. Alice in Chains
+23. No Doubt
+24. Death from Above 1979
+25. The Mars Volta
+26. Papa Roach
+27. Franz Ferdinand
+28. Coldplay
+29. Linkin Park
+30. The Used
+31. Fall Out Boy
+32. Blink-182
+33. Metallica
+34. U2
+35. Depeche Mode
+36. Placebo
+37. Joy Division
+38. The Kooks
+39. Kasabian
+40. The White Stripes
+41. The Kills
+42. The Hives
+43. Rancid
+44. Alice in Chains
+45. No Doubt
+46. Death from Above 1979
+47. The Mars Volta
+48. Papa Roach
+49. Franz Ferdinand
+50. Coldplay
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

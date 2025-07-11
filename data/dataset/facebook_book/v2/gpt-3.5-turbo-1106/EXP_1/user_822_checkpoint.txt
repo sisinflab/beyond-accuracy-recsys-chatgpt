@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Lord of the Flies by William Golding
+7. Catch-22 by Joseph Heller
+8. One Flew Over the Cuckoo's Nest by Ken Kesey
+9. The Bell Jar by Sylvia Plath
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Stranger by Albert Camus
+13. The Sun Also Rises by Ernest Hemingway
+14. A Clockwork Orange by Anthony Burgess
+15. The Grapes of Wrath by John Steinbeck
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Alchemist by Paulo Coelho
+18. The Kite Runner by Khaled Hosseini
+19. The Book Thief by Markus Zusak
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Martian by Andy Weir
+22. Ready Player One by Ernest Cline
+23. The Hunger Games by Suzanne Collins
+24. Dune by Frank Herbert
+25. Ender's Game by Orson Scott Card
+26. The Name of the Wind by Patrick Rothfuss
+27. American Gods by Neil Gaiman
+28. The Road by Cormac McCarthy
+29. The Stand by Stephen King
+30. The Shining by Stephen King
+31. It by Stephen King
+32. The Girl with the Dragon Tattoo by Stieg Larsson
+33. Gone Girl by Gillian Flynn
+34. The Da Vinci Code by Dan Brown
+35. Angels & Demons by Dan Brown
+36. The Girl on the Train by Paula Hawkins
+37. The Silent Patient by Alex Michaelides
+38. The Night Circus by Erin Morgenstern
+39. The Goldfinch by Donna Tartt
+40. The Secret History by Donna Tartt
+41. The Shadow of the Wind by Carlos Ruiz Zafón
+42. The Name of the Rose by Umberto Eco
+43. The Thirteenth Tale by Diane Setterfield
+44. The Historian by Elizabeth Kostova
+45. The Shadow of the Wind by Carlos Ruiz Zafón
+46. The Night Circus by Erin Morgenstern
+47. The Goldfinch by Donna Tartt
+48. The Secret History by Donna Tartt
+49. The Shadow of the Wind by Carlos Ruiz Zafón
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, and contemporary novels.

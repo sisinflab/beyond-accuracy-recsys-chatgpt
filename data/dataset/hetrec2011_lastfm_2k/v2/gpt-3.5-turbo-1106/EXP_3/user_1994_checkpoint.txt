@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1994:
+
+1. Radiohead
+2. The White Stripes
+3. The Velvet Underground
+4. Phoenix
+5. The Stooges
+6. Blur
+7. Death Cab for Cutie
+8. Belle and Sebastian
+9. Moby
+10. Iron & Wine
+11. Simon & Garfunkel
+12. The Kooks
+13. A Fine Frenzy
+14. Foo Fighters
+15. Tom Waits
+16. Bee Gees
+17. Paul McCartney & Wings
+18. The Libertines
+19. Madonna
+20. The Who
+21. Rage Against the Machine
+22. David Gray
+23. George Harrison
+24. Oasis
+25. Paul McCartney
+26. Kings of Convenience
+27. Jethro Tull
+28. Red Hot Chili Peppers
+29. Nine Inch Nails
+30. The Cardigans
+31. My Chemical Romance
+32. Prince
+33. Elton John
+34. Soundtrack
+35. nevershoutnever!
+36. Aphex Twin
+37. Beastie Boys
+38. Chiodos
+39. Van Halen
+40. Beyoncé
+41. Pulp
+42. Andrew Bird
+43. José González
+44. Alesana
+45. John Lennon
+46. The Knife
+47. Babyshambles
+48. Chuck Berry
+49. Queens of the Stone Age
+50. The Runaways
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their taste in music.

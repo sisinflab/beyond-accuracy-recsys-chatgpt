@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. 1984 by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. The Grapes of Wrath by John Steinbeck
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. Brave New World by Aldous Huxley
+8. The Bell Jar by Sylvia Plath
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. Catch-22 by Joseph Heller
+11. The Handmaid's Tale by Margaret Atwood
+12. Beloved by Toni Morrison
+13. The Road by Cormac McCarthy
+14. The Kite Runner by Khaled Hosseini
+15. The Book Thief by Markus Zusak
+16. The Poisonwood Bible by Barbara Kingsolver
+17. The Secret History by Donna Tartt
+18. The Goldfinch by Donna Tartt
+19. The Night Circus by Erin Morgenstern
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Alchemist by Paulo Coelho
+22. The Name of the Wind by Patrick Rothfuss
+23. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+24. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+25. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Lovely Bones by Alice Sebold
+28. The Help by Kathryn Stockett
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Glass Castle by Jeannette Walls
+31. The Color Purple by Alice Walker
+32. The Joy Luck Club by Amy Tan
+33. The House on Mango Street by Sandra Cisneros
+34. The Handmaid's Tale by Margaret Atwood
+35. The Road by Cormac McCarthy
+36. The Kite Runner by Khaled Hosseini
+37. The Book Thief by Markus Zusak
+38. The Poisonwood Bible by Barbara Kingsolver
+39. The Secret History by Donna Tartt
+40. The Goldfinch by Donna Tartt
+41. The Night Circus by Erin Morgenstern
+42. The Shadow of the Wind by Carlos Ruiz Zafón
+43. The Alchemist by Paulo Coelho
+44. The Name of the Wind by Patrick Rothfuss
+45. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+46. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+47. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+48. The Time Traveler's Wife by Audrey Niffenegger
+49. The Lovely Bones by Alice Sebold
+50. The Help by Kathryn Stockett
+
+These recommendations are based on the user's interest in historical fiction, graphic novels, and classic literature.

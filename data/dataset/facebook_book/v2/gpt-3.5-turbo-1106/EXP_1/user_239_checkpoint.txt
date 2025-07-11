@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. Jane Eyre by Charlotte Brontë
+3. The Secret Garden by Frances Hodgson Burnett
+4. Anne of Green Gables by L.M. Montgomery
+5. The Catcher in the Rye by J.D. Salinger
+6. The Adventures of Huckleberry Finn by Mark Twain
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Count of Monte Cristo by Alexandre Dumas
+9. The Scarlet Letter by Nathaniel Hawthorne
+10. A Tale of Two Cities by Charles Dickens
+11. The Great Gatsby by F. Scott Fitzgerald
+12. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+13. Frankenstein by Mary Shelley
+14. The Hunchback of Notre-Dame by Victor Hugo
+15. The Phantom of the Opera by Gaston Leroux
+16. The Three Musketeers by Alexandre Dumas
+17. The War of the Worlds by H.G. Wells
+18. Treasure Island by Robert Louis Stevenson
+19. The Call of the Wild by Jack London
+20. The Time Machine by H.G. Wells
+21. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+22. The Wind in the Willows by Kenneth Grahame
+23. The Adventures of Tom Sawyer by Mark Twain
+24. A Christmas Carol by Charles Dickens
+25. The Jungle Book by Rudyard Kipling
+26. The Swiss Family Robinson by Johann David Wyss
+27. Gulliver's Travels by Jonathan Swift
+28. The Wonderful Wizard of Oz by L. Frank Baum
+29. Alice's Adventures in Wonderland by Lewis Carroll
+30. The Hobbit by J.R.R. Tolkien
+31. The Chronicles of Narnia by C.S. Lewis
+32. Watership Down by Richard Adams
+33. The Lord of the Rings by J.R.R. Tolkien
+34. The Alchemist by Paulo Coelho
+35. One Hundred Years of Solitude by Gabriel García Márquez
+36. The Handmaid's Tale by Margaret Atwood
+37. 1984 by George Orwell
+38. Brave New World by Aldous Huxley
+39. Fahrenheit 451 by Ray Bradbury
+40. The Giver by Lois Lowry
+41. The Hunger Games by Suzanne Collins
+42. Divergent by Veronica Roth
+43. The Maze Runner by James Dashner
+44. The Fault in Our Stars by John Green
+45. The Perks of Being a Wallflower by Stephen Chbosky
+46. Eleanor & Park by Rainbow Rowell
+47. Fangirl by Rainbow Rowell
+48. Simon vs. the Homo Sapiens Agenda by Becky Albertalli
+49. Aristotle and Dante Discover the Secrets of the Universe by Benjamin Alire Sáenz
+50. The Hate U Give by Angie Thomas
+
+These recommendations are based on the user's interest in classic literature, fantasy, adventure, and coming-of-age stories.

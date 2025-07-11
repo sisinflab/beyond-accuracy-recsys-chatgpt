@@ -1,0 +1,55 @@
+Based on user 427's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. Infinite Jest by David Foster Wallace
+3. The Screwtape Letters by C. S. Lewis
+4. Mere Christianity by C. S. Lewis
+5. Dracula by Bram Stoker
+6. Paradise Lost by John Milton
+7. The Lord of the Rings
+8. Macbeth
+9. The Prince by Niccolò Machiavelli
+10. Ethan Frome by Edith Wharton
+11. Gulliver's Travels by Jonathan Swift
+
+And the additional recommendations:
+
+12. The Hobbit
+13. A Christmas Carol
+14. The Picture of Dorian Gray
+15. The Catcher in the Rye
+16. The Adventures of Sherlock Holmes
+17. The Old Man and the Sea
+18. The Time Machine
+19. The Stranger (novel)
+20. The Godfather (novel)
+21. Aeneid
+22. Tender Is the Night
+23. Eric (novel)
+24. Snakehead (novel)
+25. Anthem (novella)
+26. Harry Potter
+27. Twisted (book)
+28. The Hunger Games
+29. A Farewell to Arms
+30. Adventures of Huckleberry Finn
+31. Frankenstein
+32. Scarecrow (novel)
+33. Holes (novel)
+34. The Hamlet
+35. The God Delusion
+36. Wide Sargasso Sea
+37. Twenty Thousand Leagues Under the Sea
+38. Ivanhoe
+39. Gathering Blue
+40. Brave New World
+41. Go, Dog. Go!
+42. The Canterbury Tales
+43. The Dark Tower: The Gunslinger
+44. Moby-Dick
+45. Mockingjay
+46. Grimms' Fairy Tales
+47. The Adventures of Tom Sawyer
+48. The Power of Five
+49. Silas Marner
+50. King Leary

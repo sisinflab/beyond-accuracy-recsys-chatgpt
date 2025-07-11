@@ -1,0 +1,54 @@
+Based on user 1804's preferences, here are the top-50 recommendations for the given artists:
+
+1. Nirvana
+2. The Cure
+3. Interpol
+4. Death Cab for Cutie
+5. Modest Mouse
+6. Elliott Smith
+7. The Smiths
+8. Queens of the Stone Age
+9. Franz Ferdinand
+10. Bloc Party
+11. Beck
+12. Coldplay
+13. Babyshambles
+14. Belle and Sebastian
+15. Linkin Park
+16. Marilyn Manson
+17. Blur
+18. The Last Shadow Puppets
+19. Lily Allen
+20. Metric
+21. AFI
+22. 30 Seconds to Mars
+23. Kaiser Chiefs
+24. Thom Yorke
+25. Moby
+26. Lady Gaga
+27. Madonna
+28. Maroon 5
+29. Crystal Castles
+30. IAMX
+31. Zемфира
+32. Агата Кристи
+33. Ария
+34. Сплин
+35. Archive
+36. Clint Mansell
+37. Justice
+38. Queen
+39. Dirty Pretty Things
+40. Yeah Yeah Yeahs
+41. Tegan and Sara
+42. Bring Me The Horizon
+43. She Wants Revenge
+44. Nick Carter
+45. Alexisonfire
+46. Depeche Mode
+47. Beirut
+48. Slipknot
+49. Klaxons
+50. The Fray
+
+These recommendations are based on the user's existing preferences and are designed to introduce new artists that align with their musical tastes.

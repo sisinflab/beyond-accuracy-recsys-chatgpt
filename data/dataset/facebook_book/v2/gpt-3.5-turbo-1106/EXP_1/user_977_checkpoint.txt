@@ -1,0 +1,54 @@
+Based on the preferences of user 977, here are the top 50 book recommendations:
+
+1. Dear John by Nicholas Sparks
+2. A Walk to Remember by Nicholas Sparks
+3. Safe Haven by Nicholas Sparks
+4. The Lucky One by Nicholas Sparks
+5. The Best of Me by Nicholas Sparks
+6. Message in a Bottle by Nicholas Sparks
+7. Nights in Rodanthe by Nicholas Sparks
+8. The Choice by Nicholas Sparks
+9. The Guardian by Nicholas Sparks
+10. The Shack by William P. Young
+11. The Five People You Meet in Heaven by Mitch Albom
+12. For One More Day by Mitch Albom
+13. The Time Keeper by Mitch Albom
+14. The Alchemist by Paulo Coelho
+15. Brida by Paulo Coelho
+16. Veronika Decides to Die by Paulo Coelho
+17. The Zahir by Paulo Coelho
+18. The Valkyries by Paulo Coelho
+19. The Giver of Stars by Jojo Moyes
+20. Me Before You by Jojo Moyes
+21. The Girl You Left Behind by Jojo Moyes
+22. After You by Jojo Moyes
+23. Still Me by Jojo Moyes
+24. The Hunger Games by Suzanne Collins
+25. Mockingjay by Suzanne Collins
+26. The Maze Runner by James Dashner
+27. Divergent by Veronica Roth
+28. The Lightning Thief by Rick Riordan
+29. The Battle of the Labyrinth by Rick Riordan
+30. The Titan's Curse by Rick Riordan
+31. The House of Hades by Rick Riordan
+32. The Blood of Olympus by Rick Riordan
+33. The Lost Hero by Rick Riordan
+34. The Son of Neptune by Rick Riordan
+35. The Red Pyramid by Rick Riordan
+36. The Throne of Fire by Rick Riordan
+37. The Serpent's Shadow by Rick Riordan
+38. The Alchemyst by Michael Scott
+39. The Magician by Michael Scott
+40. The Sorceress by Michael Scott
+41. The Necromancer by Michael Scott
+42. The Warlock by Michael Scott
+43. The Enchantress by Michael Scott
+44. The Da Vinci Code by Dan Brown
+45. Angels & Demons by Dan Brown
+46. Inferno by Dan Brown
+47. Origin by Dan Brown
+48. Digital Fortress by Dan Brown
+49. Deception Point by Dan Brown
+50. The Lost Symbol by Dan Brown
+
+These recommendations are based on the similar genres and authors to the books liked by user 977.

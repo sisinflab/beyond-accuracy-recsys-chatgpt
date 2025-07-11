@@ -1,0 +1,54 @@
+Based on user 1998's preferences, here are the top-50 recommendations for the given artists:
+
+1. Modest Mouse
+2. Kings of Leon
+3. Linkin Park
+4. Fall Out Boy
+5. 30 Seconds to Mars
+6. The White Stripes
+7. System of a Down
+8. Silverchair
+9. The Shins
+10. Pearl Jam
+11. Kings of Convenience
+12. Mogwai
+13. Deftones
+14. Finch
+15. Thrice
+16. The Libertines
+17. Protest The Hero
+18. Silverstein
+19. Dance Gavin Dance
+20. Underoath
+21. Lostprophets
+22. All Time Low
+23. The All-American Rejects
+24. Chiodos
+25. Senses Fail
+26. Pierce the Veil
+27. Between the Buried and Me
+28. God Is an Astronaut
+29. Biffy Clyro
+30. Gojira
+31. CAKE
+32. Mr. Big
+33. Travis
+34. Matchbox Twenty
+35. Keane
+36. Colbie Caillat
+37. Norah Jones
+38. Lily Allen
+39. The Donnas
+40. Cobra Starship
+41. Metro Station
+42. Avenged Sevenfold
+43. The Cranberries
+44. The Killers
+45. Dashboard Confessional
+46. The Strokes
+47. Arctic Monkeys
+48. Muse
+49. Radiohead
+50. Green Day
+
+These recommendations are based on similar genres and artist preferences to those that user 1998 enjoys.

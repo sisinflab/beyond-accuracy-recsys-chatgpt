@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. World War Z by Max Brooks
+2. Warm Bodies by Isaac Marion
+3. Zone One by Colson Whitehead
+4. The Girl with All the Gifts by M.R. Carey
+5. The Passage by Justin Cronin
+6. The Road by Cormac McCarthy
+7. The Stand by Stephen King
+8. I Am Legend by Richard Matheson
+9. The Forest of Hands and Teeth by Carrie Ryan
+10. Feed by Mira Grant
+11. The Zombie Survival Guide by Max Brooks
+12. The Reapers Are the Angels by Alden Bell
+13. The Dead-Tossed Waves by Carrie Ryan
+14. The Bone Clocks by David Mitchell
+15. The Night Circus by Erin Morgenstern
+16. American Gods by Neil Gaiman
+17. Neverwhere by Neil Gaiman
+18. Stardust by Neil Gaiman
+19. Good Omens by Neil Gaiman and Terry Pratchett
+20. The Ocean at the End of the Lane by Neil Gaiman
+21. The Graveyard Book by Neil Gaiman
+22. The Golem and the Jinni by Helene Wecker
+23. The Night Circus by Erin Morgenstern
+24. The Bear and the Nightingale by Katherine Arden
+25. Uprooted by Naomi Novik
+26. Spinning Silver by Naomi Novik
+27. The Starless Sea by Erin Morgenstern
+28. The Hazel Wood by Melissa Albert
+29. The Ten Thousand Doors of January by Alix E. Harrow
+30. The Library at Mount Char by Scott Hawkins
+31. The City of Brass by S.A. Chakraborty
+32. The Poppy War by R.F. Kuang
+33. The Name of the Wind by Patrick Rothfuss
+34. The Lies of Locke Lamora by Scott Lynch
+35. The Way of Kings by Brandon Sanderson
+36. Mistborn: The Final Empire by Brandon Sanderson
+37. The Blade Itself by Joe Abercrombie
+38. The Lies of Locke Lamora by Scott Lynch
+39. The Final Empire by Brandon Sanderson
+40. The Way of Kings by Brandon Sanderson
+41. The Name of the Wind by Patrick Rothfuss
+42. The Wise Man's Fear by Patrick Rothfuss
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Blade Itself by Joe Abercrombie
+45. The Final Empire by Brandon Sanderson
+46. The Way of Kings by Brandon Sanderson
+47. The Name of the Wind by Patrick Rothfuss
+48. The Wise Man's Fear by Patrick Rothfuss
+49. The Lies of Locke Lamora by Scott Lynch
+50. The Blade Itself by Joe Abercrombie
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1064 likes.

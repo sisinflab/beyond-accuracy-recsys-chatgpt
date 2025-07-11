@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Jane Eyre by Charlotte Brontë
+3. Anna Karenina by Leo Tolstoy
+4. Crime and Punishment by Fyodor Dostoyevsky
+5. The Book Thief by Markus Zusak
+6. To Kill a Mockingbird by Harper Lee
+7. 1984 by George Orwell
+8. One Hundred Years of Solitude by Gabriel García Márquez
+9. The Catcher in the Rye by J.D. Salinger
+10. Little Women by Louisa May Alcott
+11. The Great Gatsby by F. Scott Fitzgerald
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Count of Monte Cristo by Alexandre Dumas
+14. The Kite Runner by Khaled Hosseini
+15. The Alchemist by Paulo Coelho
+16. The Grapes of Wrath by John Steinbeck
+17. The Bell Jar by Sylvia Plath
+18. The Handmaid's Tale by Margaret Atwood
+19. The Night Circus by Erin Morgenstern
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Name of the Wind by Patrick Rothfuss
+22. The Secret History by Donna Tartt
+23. The Goldfinch by Donna Tartt
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Help by Kathryn Stockett
+26. The Martian by Andy Weir
+27. The Hunger Games by Suzanne Collins
+28. The Road by Cormac McCarthy
+29. The Lovely Bones by Alice Sebold
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Fault in Our Stars by John Green
+32. The Handmaid's Tale by Margaret Atwood
+33. The Night Circus by Erin Morgenstern
+34. The Shadow of the Wind by Carlos Ruiz Zafón
+35. The Name of the Wind by Patrick Rothfuss
+36. The Secret History by Donna Tartt
+37. The Goldfinch by Donna Tartt
+38. The Girl with the Dragon Tattoo by Stieg Larsson
+39. The Help by Kathryn Stockett
+40. The Martian by Andy Weir
+41. The Hunger Games by Suzanne Collins
+42. The Road by Cormac McCarthy
+43. The Lovely Bones by Alice Sebold
+44. The Time Traveler's Wife by Audrey Niffenegger
+45. The Fault in Our Stars by John Green
+46. The Handmaid's Tale by Margaret Atwood
+47. The Night Circus by Erin Morgenstern
+48. The Shadow of the Wind by Carlos Ruiz Zafón
+49. The Name of the Wind by Patrick Rothfuss
+50. The Secret History by Donna Tartt
+
+These recommendations are based on the user's preference for classic literature, historical fiction, and literary fiction.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Jane Eyre by Charlotte Brontë
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. One Hundred Years of Solitude by Gabriel García Márquez
+7. The Picture of Dorian Gray by Oscar Wilde
+8. The Brothers Karamazov by Fyodor Dostoyevsky
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. The Bell Jar by Sylvia Plath
+11. The Road by Cormac McCarthy
+12. The Stranger by Albert Camus
+13. The Handmaid's Tale by Margaret Atwood
+14. Brave New World by Aldous Huxley
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Sun Also Rises by Ernest Hemingway
+17. The Grapes of Wrath by John Steinbeck
+18. East of Eden by John Steinbeck
+19. The Sound and the Fury by William Faulkner
+20. A Clockwork Orange by Anthony Burgess
+21. Lolita by Vladimir Nabokov
+22. The Trial by Franz Kafka
+23. The Metamorphosis by Franz Kafka
+24. The Plague by Albert Camus
+25. The Master and Margarita by Mikhail Bulgakov
+26. Anna Karenina by Leo Tolstoy
+27. War and Peace by Leo Tolstoy
+28. Crime and Punishment by Fyodor Dostoyevsky
+29. The Idiot by Fyodor Dostoyevsky
+30. Notes from Underground by Fyodor Dostoyevsky
+31. The Name of the Rose by Umberto Eco
+32. The Unbearable Lightness of Being by Milan Kundera
+33. The Book Thief by Markus Zusak
+34. The Kite Runner by Khaled Hosseini
+35. A Thousand Splendid Suns by Khaled Hosseini
+36. The Alchemist by Paulo Coelho
+37. The Shadow of the Wind by Carlos Ruiz Zafón
+38. The Night Circus by Erin Morgenstern
+39. The Secret History by Donna Tartt
+40. The Goldfinch by Donna Tartt
+41. The Handmaid's Tale by Margaret Atwood
+42. The Testaments by Margaret Atwood
+43. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+44. Dirk Gently's Holistic Detective Agency by Douglas Adams
+45. American Gods by Neil Gaiman
+46. Neverwhere by Neil Gaiman
+47. Good Omens by Neil Gaiman, Terry Pratchett
+48. Small Gods by Terry Pratchett
+49. Mort by Terry Pratchett
+50. Guards! Guards! by Terry Pratchett
+
+These recommendations are based on the user's interest in classic literature, existential themes, and a mix of fiction and fantasy.

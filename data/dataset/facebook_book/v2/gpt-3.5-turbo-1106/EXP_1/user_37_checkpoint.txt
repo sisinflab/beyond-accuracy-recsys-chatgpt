@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Book Thief by Markus Zusak
+2. Me Before You by Jojo Moyes
+3. The Fault in Our Stars by John Green
+4. The Alchemist by Paulo Coelho
+5. The Lovely Bones by Alice Sebold
+6. Water for Elephants by Sara Gruen
+7. The Help by Kathryn Stockett
+8. The Night Circus by Erin Morgenstern
+9. The Secret Life of Bees by Sue Monk Kidd
+10. The Kite Runner by Khaled Hosseini
+11. A Man Called Ove by Fredrik Backman
+12. The Girl on the Train by Paula Hawkins
+13. Big Little Lies by Liane Moriarty
+14. Where the Crawdads Sing by Delia Owens
+15. Eleanor Oliphant Is Completely Fine by Gail Honeyman
+16. The Goldfinch by Donna Tartt
+17. The Light Between Oceans by M.L. Stedman
+18. The Great Gatsby by F. Scott Fitzgerald
+19. To Kill a Mockingbird by Harper Lee
+20. The Catcher in the Rye by J.D. Salinger
+21. 1984 by George Orwell
+22. Pride and Prejudice by Jane Austen
+23. Jane Eyre by Charlotte Brontë
+24. Wuthering Heights by Emily Brontë
+25. Little Women by Louisa May Alcott
+26. Gone with the Wind by Margaret Mitchell
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Bell Jar by Sylvia Plath
+29. One Hundred Years of Solitude by Gabriel García Márquez
+30. The Handmaid's Tale by Margaret Atwood
+31. Brave New World by Aldous Huxley
+32. Fahrenheit 451 by Ray Bradbury
+33. Slaughterhouse-Five by Kurt Vonnegut
+34. The Road by Cormac McCarthy
+35. The Martian by Andy Weir
+36. Ready Player One by Ernest Cline
+37. Dark Matter by Blake Crouch
+38. The Hunger Games by Suzanne Collins
+39. Divergent by Veronica Roth
+40. The Maze Runner by James Dashner
+41. The Giver by Lois Lowry
+42. The Chronicles of Narnia by C.S. Lewis
+43. A Wrinkle in Time by Madeleine L'Engle
+44. The Hobbit by J.R.R. Tolkien
+45. Ender's Game by Orson Scott Card
+46. The Name of the Wind by Patrick Rothfuss
+47. Mistborn: The Final Empire by Brandon Sanderson
+48. The Lies of Locke Lamora by Scott Lynch
+49. Red Rising by Pierce Brown
+50. The Way of Kings by Brandon Sanderson
+
+These recommendations are based on the user's interest in fiction, romance, and emotional storytelling.

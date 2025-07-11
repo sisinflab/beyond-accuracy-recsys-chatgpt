@@ -1,0 +1,54 @@
+Based on user 1438's preferences, here are the re-ranked top-50 recommendations:
+
+1. Muse
+2. Pearl Jam
+3. Franz Ferdinand
+4. Queens of the Stone Age
+5. Foo Fighters
+6. Death Cab for Cutie
+7. The Smiths
+8. Arctic Monkeys
+9. The Kinks
+10. The Strokes
+11. The Killers
+12. Radiohead
+13. The Beatles
+14. Bob Dylan
+15. Kings of Leon
+16. The xx
+17. Phoenix
+18. The National
+19. Interpol
+20. Beirut
+21. The Libertines
+22. Jet
+23. Rage Against the Machine
+24. Regina Spektor
+25. A Fine Frenzy
+26. Eric Clapton
+27. Van Morrison
+28. John Lennon
+29. Placebo
+30. Led Zeppelin
+31. The Runaways
+32. The Byrds
+33. The Beach Boys
+34. Bee Gees
+35. The Jimi Hendrix Experience
+36. George Harrison
+37. Paul McCartney & Wings
+38. Spiritualized
+39. Elton John
+40. Rammstein
+41. Bombay Bicycle Club
+42. Belle and Sebastian
+43. Black Rebel Motorcycle Club
+44. Leonard Cohen
+45. The Brian Jonestown Massacre
+46. Sufjan Stevens
+47. Eagles
+48. Beyoncé
+49. Amy Winehouse
+50. Kasabian
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

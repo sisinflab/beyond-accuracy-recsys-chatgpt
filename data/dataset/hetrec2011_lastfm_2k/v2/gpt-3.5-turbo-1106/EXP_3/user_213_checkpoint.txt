@@ -1,0 +1,54 @@
+Based on user 213's preferences, here are the top 50 recommendations:
+
+1. Nine Inch Nails
+2. Tool
+3. Radiohead
+4. Pink Floyd
+5. Iron Maiden
+6. Motörhead
+7. Green Day
+8. Pearl Jam
+9. Foo Fighters
+10. Linkin Park
+11. Coldplay
+12. The Beatles
+13. Led Zeppelin
+14. Black Rebel Motorcycle Club
+15. Franz Ferdinand
+16. The Kills
+17. Bloc Party
+18. The Subways
+19. White Lies
+20. Placebo
+21. A Perfect Circle
+22. Death Cab for Cutie
+23. Snow Patrol
+24. Metric
+25. John Mayer
+26. The Doors
+27. The Prodigy
+28. Rage Against the Machine
+29. Marilyn Manson
+30. Disturbed
+31. Deftones
+32. Mastodon
+33. Walls of Jericho
+34. Comeback Kid
+35. Haste the Day
+36. Bring Me The Horizon
+37. As I Lay Dying
+38. Slipknot
+39. Avenged Sevenfold
+40. Disturbed
+41. Papa Roach
+42. Breaking Benjamin
+43. Sum 41
+44. MGMT
+45. OK Go
+46. The Killers
+47. Arctic Monkeys
+48. Muse
+49. Kings of Leon
+50. System of a Down
+
+These recommendations are based on similar genres and artists liked by user 213.

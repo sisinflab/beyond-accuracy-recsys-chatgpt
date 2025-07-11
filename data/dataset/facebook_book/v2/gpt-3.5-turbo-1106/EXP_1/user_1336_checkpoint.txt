@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Watership Down by Richard Adams
+2. The Sight by David Clement-Davies
+3. The Secret of NIMH by Robert C. O'Brien
+4. The Chronicles of Narnia by C.S. Lewis
+5. The Hobbit by J.R.R. Tolkien
+6. The Wind in the Willows by Kenneth Grahame
+7. The Tale of Despereaux by Kate DiCamillo
+8. The Redwall Series by Brian Jacques
+9. The Silver Brumby by Elyne Mitchell
+10. The Last Unicorn by Peter S. Beagle
+11. The Golden Compass by Philip Pullman
+12. The Neverending Story by Michael Ende
+13. The Dark is Rising Sequence by Susan Cooper
+14. The Black Stallion by Walter Farley
+15. The Wolves of Willoughby Chase by Joan Aiken
+16. The Sword in the Stone by T.H. White
+17. The Phantom Tollbooth by Norton Juster
+18. The Borrowers by Mary Norton
+19. The Giver by Lois Lowry
+20. The Secret Garden by Frances Hodgson Burnett
+21. The Little Prince by Antoine de Saint-Exupéry
+22. The Alchemist by Paulo Coelho
+23. The Book Thief by Markus Zusak
+24. The Night Circus by Erin Morgenstern
+25. The Name of the Wind by Patrick Rothfuss
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Time Traveler's Wife by Audrey Niffenegger
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Hunger Games by Suzanne Collins
+30. The Maze Runner by James Dashner
+31. The Giver of Stars by Jojo Moyes
+32. The Nightingale by Kristin Hannah
+33. The Light Between Oceans by M.L. Stedman
+34. The Great Alone by Kristin Hannah
+35. The Night Circus by Erin Morgenstern
+36. The Nightingale by Kristin Hannah
+37. The Light Between Oceans by M.L. Stedman
+38. The Great Alone by Kristin Hannah
+39. The Night Circus by Erin Morgenstern
+40. The Nightingale by Kristin Hannah
+41. The Light Between Oceans by M.L. Stedman
+42. The Great Alone by Kristin Hannah
+43. The Night Circus by Erin Morgenstern
+44. The Nightingale by Kristin Hannah
+45. The Light Between Oceans by M.L. Stedman
+46. The Great Alone by Kristin Hannah
+47. The Night Circus by Erin Morgenstern
+48. The Nightingale by Kristin Hannah
+49. The Light Between Oceans by M.L. Stedman
+50. The Great Alone by Kristin Hannah
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1336 likes.

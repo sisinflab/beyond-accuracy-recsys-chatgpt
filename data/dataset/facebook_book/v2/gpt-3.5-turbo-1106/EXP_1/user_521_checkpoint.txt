@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Impulse (novel) by Ellen Hopkins
+2. Fallout (novel) by Ellen Hopkins
+3. Perfect (novel) by Ellen Hopkins
+4. Rumble by Ellen Hopkins
+5. Tilt (novel) by Ellen Hopkins
+6. Burned (novel) by Ellen Hopkins
+7. Tricks (novel) by Ellen Hopkins
+8. Identical (novel) by Ellen Hopkins
+9. Smoke (novel) by Ellen Hopkins
+10. The Perks of Being a Wallflower by Stephen Chbosky
+11. Go Ask Alice by Anonymous
+12. Thirteen Reasons Why by Jay Asher
+13. Speak by Laurie Halse Anderson
+14. The Catcher in the Rye by J.D. Salinger
+15. The Giver by Lois Lowry
+16. The Fault in Our Stars by John Green
+17. Looking for Alaska by John Green
+18. Paper Towns by John Green
+19. It's Kind of a Funny Story by Ned Vizzini
+20. The Maze Runner by James Dashner
+21. Divergent by Veronica Roth
+22. The Hunger Games by Suzanne Collins
+23. The Book Thief by Markus Zusak
+24. The Lovely Bones by Alice Sebold
+25. Room by Emma Donoghue
+26. The Girl on the Train by Paula Hawkins
+27. Gone Girl by Gillian Flynn
+28. Sharp Objects by Gillian Flynn
+29. Dark Places by Gillian Flynn
+30. The Night Circus by Erin Morgenstern
+31. Water for Elephants by Sara Gruen
+32. The Help by Kathryn Stockett
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Kite Runner by Khaled Hosseini
+35. A Thousand Splendid Suns by Khaled Hosseini
+36. The Alchemist by Paulo Coelho
+37. The Shack by William P. Young
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+40. The Glass Castle by Jeannette Walls
+41. The Road by Cormac McCarthy
+42. The Handmaid's Tale by Margaret Atwood
+43. The Goldfinch by Donna Tartt
+44. The Nightingale by Kristin Hannah
+45. All the Light We Cannot See by Anthony Doerr
+46. The Martian by Andy Weir
+47. Ready Player One by Ernest Cline
+48. The Name of the Wind by Patrick Rothfuss
+49. The Shadow of the Wind by Carlos Ruiz Zafón
+50. The Thirteenth Tale by Diane Setterfield
+
+These recommendations are based on the user's interest in young adult fiction, mystery, and classic literature.

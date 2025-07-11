@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Time Traveler's Wife by Audrey Niffenegger
+2. P.S. I Love You by Cecelia Ahern
+3. The Last Song by Nicholas Sparks
+4. The Bridges of Madison County by Robert James Waller
+5. Like Water for Chocolate by Laura Esquivel
+6. The Fault in Our Stars by John Green
+7. Me Before You by Jojo Moyes
+8. The Alchemist by Paulo Coelho
+9. The Lovely Bones by Alice Sebold
+10. The Kite Runner by Khaled Hosseini
+11. The Girl on the Train by Paula Hawkins
+12. The Great Gatsby by F. Scott Fitzgerald
+13. The Catcher in the Rye by J.D. Salinger
+14. The Night Circus by Erin Morgenstern
+15. Water for Elephants by Sara Gruen
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Help by Kathryn Stockett
+18. The Book Thief by Markus Zusak
+19. A Walk to Remember by Nicholas Sparks
+20. The Shack by William P. Young
+21. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows
+22. The Secret Garden by Frances Hodgson Burnett
+23. The Giver by Lois Lowry
+24. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+25. The Glass Castle by Jeannette Walls
+26. The Nightingale by Kristin Hannah
+27. The Goldfinch by Donna Tartt
+28. The Thorn Birds by Colleen McCullough
+29. The Rosie Project by Graeme Simsion
+30. The Sun Also Rises by Ernest Hemingway
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Bell Jar by Sylvia Plath
+33. The Unbearable Lightness of Being by Milan Kundera
+34. The Shadow of the Wind by Carlos Ruiz Zafón
+35. The House of the Spirits by Isabel Allende
+36. The Poisonwood Bible by Barbara Kingsolver
+37. The Namesake by Jhumpa Lahiri
+38. The Joy Luck Club by Amy Tan
+39. The Color Purple by Alice Walker
+40. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+41. The God of Small Things by Arundhati Roy
+42. The Handmaid's Tale by Margaret Atwood
+43. The Road by Cormac McCarthy
+44. The Catcher in the Rye by J.D. Salinger
+45. The Grapes of Wrath by John Steinbeck
+46. The Old Man and the Sea by Ernest Hemingway
+47. The Sun Also Rises by Ernest Hemingway
+48. The Picture of Dorian Gray by Oscar Wilde
+49. The Bell Jar by Sylvia Plath
+50. The Unbearable Lightness of Being by Milan Kundera
+
+These recommendations are based on the user's preference for romance, drama, and classic literature.

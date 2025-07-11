@@ -1,0 +1,54 @@
+Based on the preferences of user 70, here are the top 50 book recommendations:
+
+1. Shiver by Maggie Stiefvater
+2. The Chemist by Stephenie Meyer
+3. Rebel Angels by Libba Bray
+4. City of Glass by Cassandra Clare
+5. Bloodlines by Richelle Mead
+6. Eragon by Christopher Paolini
+7. The Luxe by Anna Godbersen
+8. Just Listen by Sarah Dessen
+9. New Moon by Stephenie Meyer
+10. Romeo and Juliet by William Shakespeare
+11. Linger by Maggie Stiefvater
+12. The Host by Stephenie Meyer
+13. A Great and Terrible Beauty by Libba Bray
+14. City of Fallen Angels by Cassandra Clare
+15. Frostbite by Richelle Mead
+16. Eldest by Christopher Paolini
+17. Rumble by Ellen Hopkins
+18. The It Girl by Cecily von Ziegesar
+19. Lock and Key by Sarah Dessen
+20. Eclipse by Stephenie Meyer
+21. Forever by Maggie Stiefvater
+22. The Chemist by Stephenie Meyer
+23. The Sweet Far Thing by Libba Bray
+24. City of Lost Souls by Cassandra Clare
+25. Shadow Kiss by Richelle Mead
+26. Brisingr by Christopher Paolini
+27. Glass Houses by Rachel Caine
+28. The Luxe by Anna Godbersen
+29. This Lullaby by Sarah Dessen
+30. Breaking Dawn by Stephenie Meyer
+31. Sinner by Maggie Stiefvater
+32. Going Bovine by Libba Bray
+33. City of Heavenly Fire by Cassandra Clare
+34. Spirit Bound by Richelle Mead
+35. Inheritance by Christopher Paolini
+36. The Luxe by Anna Godbersen
+37. Someone Like You by Sarah Dessen
+38. The Short Second Life of Bree Tanner by Stephenie Meyer
+39. The Raven Boys by Maggie Stiefvater
+40. Beauty Queens by Libba Bray
+41. Clockwork Angel by Cassandra Clare
+42. Blood Promise by Richelle Mead
+43. The Luxe by Anna Godbersen
+44. That Summer by Sarah Dessen
+45. The Twilight Saga: The Official Illustrated Guide by Stephenie Meyer
+46. Lament by Maggie Stiefvater
+47. Going Bovine by Libba Bray
+48. Clockwork Prince by Cassandra Clare
+49. Last Sacrifice by Richelle Mead
+50. Bright Young Things by Anna Godbersen
+
+These recommendations are based on the similar themes, genres, and authors of the books that user 70 likes.

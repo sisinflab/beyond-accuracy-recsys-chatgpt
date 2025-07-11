@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. A Wrinkle in Time by Madeleine L'Engle
+2. Matilda by Roald Dahl
+3. The Giver by Lois Lowry
+4. The Chronicles of Narnia by C.S. Lewis
+5. The Secret Garden by Frances Hodgson Burnett
+6. Charlotte's Web by E.B. White
+7. Bridge to Terabithia by Katherine Paterson
+8. The Phantom Tollbooth by Norton Juster
+9. The Tale of Despereaux by Kate DiCamillo
+10. The BFG by Roald Dahl
+11. The Wind in the Willows by Kenneth Grahame
+12. The Little Prince by Antoine de Saint-Exupéry
+13. The Hobbit by J.R.R. Tolkien
+14. The Lion, the Witch and the Wardrobe by C.S. Lewis
+15. The Neverending Story by Michael Ende
+16. Coraline by Neil Gaiman
+17. The Graveyard Book by Neil Gaiman
+18. Inkheart by Cornelia Funke
+19. The Golden Compass by Philip Pullman
+20. The Lightning Thief by Rick Riordan
+21. Percy Jackson & the Olympians by Rick Riordan
+22. Artemis Fowl by Eoin Colfer
+23. The Hunger Games by Suzanne Collins
+24. Divergent by Veronica Roth
+25. The Maze Runner by James Dashner
+26. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+27. The Alchemist by Paulo Coelho
+28. The Book Thief by Markus Zusak
+29. The Night Circus by Erin Morgenstern
+30. The Time Traveler's Wife by Audrey Niffenegger
+31. The Lovely Bones by Alice Sebold
+32. Water for Elephants by Sara Gruen
+33. The Help by Kathryn Stockett
+34. The Kite Runner by Khaled Hosseini
+35. The Girl with the Dragon Tattoo by Stieg Larsson
+36. Gone Girl by Gillian Flynn
+37. The Da Vinci Code by Dan Brown
+38. Angels & Demons by Dan Brown
+39. The Girl on the Train by Paula Hawkins
+40. Big Little Lies by Liane Moriarty
+41. Sharp Objects by Gillian Flynn
+42. Dark Places by Gillian Flynn
+43. The Silent Patient by Alex Michaelides
+44. The Woman in the Window by A.J. Finn
+45. Before I Go to Sleep by S.J. Watson
+46. The Girl Before by J.P. Delaney
+47. The Couple Next Door by Shari Lapena
+48. The Girl in the Ice by Robert Bryndza
+49. The Girl Who Lived by Christopher Greyson
+50. The Girl in the Box by Robert J. Crane
+
+These recommendations are based on the user's interest in fantasy, mystery, and young adult fiction, as well as some popular contemporary novels.

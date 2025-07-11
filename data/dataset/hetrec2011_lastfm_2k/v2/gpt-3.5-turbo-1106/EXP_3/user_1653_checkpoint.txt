@@ -1,0 +1,54 @@
+Based on user 1653's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The Cure
+2. Depeche Mode
+3. David Bowie
+4. Nine Inch Nails
+5. Morrissey
+6. Madonna
+7. Florence + the Machine
+8. Faith No More
+9. The Smiths
+10. Yeah Yeah Yeahs
+11. Garbage
+12. Marina & the Diamonds
+13. Siouxsie and the Banshees
+14. Recoil
+15. IAMX
+16. Lady Gaga
+17. Martin L. Gore
+18. Glee Cast
+19. Gustavo Cerati
+20. Bat for Lashes
+21. Iggy Pop
+22. Queen
+23. Mr. Bungle
+24. Billy Idol
+25. Ladytron
+26. Pet Shop Boys
+27. PJ Harvey
+28. George Michael
+29. Antony and the Johnsons
+30. INXS
+31. The Killers
+32. John Williams
+33. Alexandre Desplat
+34. Beyoncé
+35. Wolfgang Amadeus Mozart
+36. Bauhaus
+37. Cocteau Twins
+38. Echo & The Bunnymen
+39. Joy Division
+40. New Order
+41. Gary Numan
+42. Crystal Castles
+43. Daft Punk
+44. Ludwig van Beethoven
+45. The Beatles
+46. Kraftwerk
+47. Radiohead
+48. Muse
+49. Nirvana
+50. t.A.T.u.
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that they may enjoy.

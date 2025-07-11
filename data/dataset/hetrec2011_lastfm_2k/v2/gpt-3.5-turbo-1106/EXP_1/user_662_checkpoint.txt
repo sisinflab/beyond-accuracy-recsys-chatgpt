@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Script
+2. Maroon 5
+3. Paramore
+4. The Killers
+5. Imagine Dragons
+6. One Direction
+7. Ed Sheeran
+8. Hozier
+9. The Lumineers
+10. Mumford & Sons
+11. Bastille
+12. Vance Joy
+13. Of Monsters and Men
+14. The 1975
+15. Arctic Monkeys
+16. Death Cab for Cutie
+17. The National
+18. Keane
+19. The xx
+20. Foster the People
+21. Kings of Leon
+22. The Head and the Heart
+23. Young the Giant
+24. The Fratellis
+25. The Wombats
+26. Two Door Cinema Club
+27. The Vaccines
+28. The Kooks
+29. Catfish and the Bottlemen
+30. The Neighbourhood
+31. The Paper Kites
+32. James Bay
+33. Passenger
+34. Ben Howard
+35. Kodaline
+36. Noah and the Whale
+37. The Shins
+38. Death Cab for Cutie
+39. The Postal Service
+40. Bon Iver
+41. Iron & Wine
+42. City and Colour
+43. Ray LaMontagne
+44. James Blunt
+45. Jason Mraz
+46. John Mayer
+47. Colbie Caillat
+48. Sara Bareilles
+49. Ingrid Michaelson
+50. Regina Spektor
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. Animal Farm by George Orwell
+6. The Lord of the Rings by J.R.R. Tolkien
+7. The Hobbit by J.R.R. Tolkien
+8. The Grapes of Wrath by John Steinbeck
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Old Man and the Sea by Ernest Hemingway
+11. Moby-Dick by Herman Melville
+12. Crime and Punishment by Fyodor Dostoevsky
+13. The Picture of Dorian Gray by Oscar Wilde
+14. The Stranger by Albert Camus
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Road by Cormac McCarthy
+17. The Bell Jar by Sylvia Plath
+18. The Sun Also Rises by Ernest Hemingway
+19. The Brothers Karamazov by Fyodor Dostoevsky
+20. The Count of Monte Cristo by Alexandre Dumas
+21. The Scarlet Letter by Nathaniel Hawthorne
+22. The Sound and the Fury by William Faulkner
+23. The Grapes of Wrath by John Steinbeck
+24. The Odyssey by Homer
+25. The Iliad by Homer
+26. The Divine Comedy by Dante Alighieri
+27. Don Quixote by Miguel de Cervantes
+28. War and Peace by Leo Tolstoy
+29. Anna Karenina by Leo Tolstoy
+30. The Idiot by Fyodor Dostoevsky
+31. The Master and Margarita by Mikhail Bulgakov
+32. The Trial by Franz Kafka
+33. The Metamorphosis by Franz Kafka
+34. The Plague by Albert Camus
+35. The Stranger by Albert Camus
+36. The Unbearable Lightness of Being by Milan Kundera
+37. The Name of the Rose by Umberto Eco
+38. The Shadow of the Wind by Carlos Ruiz Zafon
+39. The Book Thief by Markus Zusak
+40. The Kite Runner by Khaled Hosseini
+41. A Thousand Splendid Suns by Khaled Hosseini
+42. The Alchemist by Paulo Coelho
+43. The Night Circus by Erin Morgenstern
+44. The Secret History by Donna Tartt
+45. The Goldfinch by Donna Tartt
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Help by Kathryn Stockett
+48. The Secret Life of Bees by Sue Monk Kidd
+49. The Lovely Bones by Alice Sebold
+50. The Time Traveler's Wife by Audrey Niffenegger
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, and fantasy.

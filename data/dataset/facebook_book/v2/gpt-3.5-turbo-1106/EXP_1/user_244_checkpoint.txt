@@ -1,0 +1,54 @@
+Based on user 244's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. War and Peace by Leo Tolstoy
+3. Anna Karenina by Leo Tolstoy
+4. The Idiot by Fyodor Dostoyevsky
+5. The Hobbit by J.R.R. Tolkien
+6. The Silmarillion by J.R.R. Tolkien
+7. The Children of Húrin by J.R.R. Tolkien
+8. The Catcher in the Rye by J.D. Salinger
+9. A Clockwork Orange by Anthony Burgess
+10. Fight Club by Chuck Palahniuk
+11. Survivor by Chuck Palahniuk
+12. Choke by Chuck Palahniuk
+13. The Girl with the Dragon Tattoo by Stieg Larsson
+14. The Girl Who Played with Fire by Stieg Larsson
+15. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+16. The Great Gatsby by F. Scott Fitzgerald
+17. The Beautiful and Damned by F. Scott Fitzgerald
+18. Tender Is the Night by F. Scott Fitzgerald
+19. The Road by Cormac McCarthy
+20. No Country for Old Men by Cormac McCarthy
+21. Blood Meridian by Cormac McCarthy
+22. The Secret History by Donna Tartt
+23. The Goldfinch by Donna Tartt
+24. The Little Friend by Donna Tartt
+25. The Bell Jar by Sylvia Plath
+26. The Virgin Suicides by Jeffrey Eugenides
+27. Middlesex by Jeffrey Eugenides
+28. The Marriage Plot by Jeffrey Eugenides
+29. One Hundred Years of Solitude by Gabriel García Márquez
+30. Love in the Time of Cholera by Gabriel García Márquez
+31. Chronicle of a Death Foretold by Gabriel García Márquez
+32. The Stranger by Albert Camus
+33. The Plague by Albert Camus
+34. The Fall by Albert Camus
+35. The Trial by Franz Kafka
+36. The Metamorphosis by Franz Kafka
+37. Amerika by Franz Kafka
+38. The Unbearable Lightness of Being by Milan Kundera
+39. Immortality by Milan Kundera
+40. The Book of Laughter and Forgetting by Milan Kundera
+41. The Master and Margarita by Mikhail Bulgakov
+42. Heart of a Dog by Mikhail Bulgakov
+43. The White Guard by Mikhail Bulgakov
+44. The Name of the Rose by Umberto Eco
+45. Foucault's Pendulum by Umberto Eco
+46. Baudolino by Umberto Eco
+47. The Wind-Up Bird Chronicle by Haruki Murakami
+48. Kafka on the Shore by Haruki Murakami
+49. Norwegian Wood by Haruki Murakami
+50. 1Q84 by Haruki Murakami
+
+These recommendations are based on similar themes, genres, and authors to the books that user 244 likes.

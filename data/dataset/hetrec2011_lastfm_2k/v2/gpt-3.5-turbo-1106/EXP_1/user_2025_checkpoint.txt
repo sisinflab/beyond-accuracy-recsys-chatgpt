@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Joy Division
+2. The Human League
+3. Siouxsie and the Banshees
+4. The Sisters of Mercy
+5. Echo & the Bunnymen
+6. Tears for Fears
+7. OMD
+8. The Smiths
+9. Bauhaus
+10. Talking Heads
+11. Simple Minds
+12. The Jesus and Mary Chain
+13. Cocteau Twins
+14. The Psychedelic Furs
+15. New Model Army
+16. The Cult
+17. The Mission
+18. The Chameleons
+19. Dead Can Dance
+20. Clan of Xymox
+21. The Church
+22. The Sound
+23. The Bolshoi
+24. Red Lorry Yellow Lorry
+25. The Damned
+26. Killing Joke
+27. The Birthday Party
+28. Magazine
+29. Wire
+30. Public Image Ltd
+31. The Fall
+32. Gang of Four
+33. The Stranglers
+34. Magazine
+35. The Jam
+36. The Clash
+37. Buzzcocks
+38. XTC
+39. The Replacements
+40. R.E.M.
+41. The Smithereens
+42. The dB's
+43. The Feelies
+44. The Go-Betweens
+45. The Bats
+46. The Clean
+47. The Verlaines
+48. The Chills
+49. The Triffids
+50. The Go-Betweens
+
+These recommendations are based on the user's liking of similar artists and the potential for overlap in musical preferences.

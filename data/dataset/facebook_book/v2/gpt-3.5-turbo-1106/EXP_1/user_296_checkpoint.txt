@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. 1984 by George Orwell
+4. The Catcher in the Rye by J.D. Salinger
+5. The Bell Jar by Sylvia Plath
+6. The Handmaid's Tale by Margaret Atwood
+7. Brave New World by Aldous Huxley
+8. The Road by Cormac McCarthy
+9. The Book Thief by Markus Zusak
+10. One Hundred Years of Solitude by Gabriel Garcia Marquez
+11. The Grapes of Wrath by John Steinbeck
+12. The Sun Also Rises by Ernest Hemingway
+13. Slaughterhouse-Five by Kurt Vonnegut
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Stranger by Albert Camus
+16. The Brothers Karamazov by Fyodor Dostoyevsky
+17. The Count of Monte Cristo by Alexandre Dumas
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. The Sound and the Fury by William Faulkner
+20. The Idiot by Fyodor Dostoyevsky
+21. The Master and Margarita by Mikhail Bulgakov
+22. The Unbearable Lightness of Being by Milan Kundera
+23. The Name of the Rose by Umberto Eco
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Secret History by Donna Tartt
+26. The Goldfinch by Donna Tartt
+27. The Night Circus by Erin Morgenstern
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Poisonwood Bible by Barbara Kingsolver
+30. The Kite Runner by Khaled Hosseini
+31. A Thousand Splendid Suns by Khaled Hosseini
+32. The Alchemist by Paulo Coelho
+33. The Zahir by Paulo Coelho
+34. Veronika Decides to Die by Paulo Coelho
+35. Like Water for Chocolate by Laura Esquivel
+36. The House of the Spirits by Isabel Allende
+37. Love in the Time of Cholera by Gabriel Garcia Marquez
+38. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+39. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+40. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+41. The Yiddish Policemen's Union by Michael Chabon
+42. The Corrections by Jonathan Franzen
+43. Freedom by Jonathan Franzen
+44. The History of Love by Nicole Krauss
+45. Everything Is Illuminated by Jonathan Safran Foer
+46. Extremely Loud and Incredibly Close by Jonathan Safran Foer
+47. The Namesake by Jhumpa Lahiri
+48. Interpreter of Maladies by Jhumpa Lahiri
+49. The God of Small Things by Arundhati Roy
+50. Midnight's Children by Salman Rushdie
+
+These recommendations are based on the user's interest in classic literature, contemporary fiction, and some popular young adult novels.

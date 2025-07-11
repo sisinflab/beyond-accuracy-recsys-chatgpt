@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Handmaid's Tale by Margaret Atwood
+8. Fahrenheit 451 by Ray Bradbury
+9. The Bell Jar by Sylvia Plath
+10. The Road by Cormac McCarthy
+11. The Stranger by Albert Camus
+12. The Sun Also Rises by Ernest Hemingway
+13. The Old Man and the Sea by Ernest Hemingway
+14. The Alchemist by Paulo Coelho
+15. The Kite Runner by Khaled Hosseini
+16. The Book Thief by Markus Zusak
+17. The Secret History by Donna Tartt
+18. The Goldfinch by Donna Tartt
+19. The Shadow of the Wind by Carlos Ruiz Zafón
+20. The Name of the Wind by Patrick Rothfuss
+21. The Night Circus by Erin Morgenstern
+22. The Secret Life of Bees by Sue Monk Kidd
+23. The Poisonwood Bible by Barbara Kingsolver
+24. The Color Purple by Alice Walker
+25. The Joy Luck Club by Amy Tan
+26. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+27. The House on Mango Street by Sandra Cisneros
+28. The Glass Castle by Jeannette Walls
+29. The Help by Kathryn Stockett
+30. The Lovely Bones by Alice Sebold
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Girl on the Train by Paula Hawkins
+33. The Nightingale by Kristin Hannah
+34. The Handmaid's Tale by Margaret Atwood
+35. The Hunger Games by Suzanne Collins
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Da Vinci Code by Dan Brown
+38. The Martian by Andy Weir
+39. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+40. The Road by Cormac McCarthy
+41. The Shining by Stephen King
+42. The Stand by Stephen King
+43. The Silence of the Lambs by Thomas Harris
+44. The Girl on the Train by Paula Hawkins
+45. The Help by Kathryn Stockett
+46. The Lovely Bones by Alice Sebold
+47. The Time Traveler's Wife by Audrey Niffenegger
+48. The Girl with the Dragon Tattoo by Stieg Larsson
+49. The Da Vinci Code by Dan Brown
+50. The Martian by Andy Weir
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, and contemporary novels.

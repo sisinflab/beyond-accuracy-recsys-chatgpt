@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. All Time Low
+2. The All-American Rejects
+3. Weezer
+4. The Starting Line
+5. Something Corporate
+6. The Academy Is...
+7. Anberlin
+8. Relient K
+9. The Maine
+10. Mayday Parade
+11. The Early November
+12. Jack's Mannequin
+13. Saves The Day
+14. The Get Up Kids
+15. The Ataris
+16. Cartel
+17. The Juliana Theory
+18. The Movielife
+19. The Promise Ring
+20. The Wonder Years
+21. Real Friends
+22. Neck Deep
+23. Knuckle Puck
+24. State Champs
+25. Seaway
+26. The Story So Far
+27. Modern Baseball
+28. Citizen
+29. Basement
+30. Turnover
+31. Balance and Composure
+32. Tigers Jaw
+33. Title Fight
+34. Joyce Manor
+35. PUP
+36. Sorority Noise
+37. Microwave
+38. Free Throw
+39. Mom Jeans
+40. Remo Drive
+41. Oso Oso
+42. Prince Daddy & The Hyena
+43. Spanish Love Songs
+44. Hot Mulligan
+45. Origami Angel
+46. Graduating Life
+47. Just Friends
+48. Mom Jeans
+49. Retirement Party
+50. Dogleg
+
+These recommendations are based on the user's liking for similar artists and genres.

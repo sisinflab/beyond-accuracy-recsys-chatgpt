@@ -1,0 +1,54 @@
+Based on user 1899's preferences, here are the top-50 recommendations for the given artists:
+
+1. The Cure
+2. Massive Attack
+3. Goldfrapp
+4. The Knife
+5. Blonde Redhead
+6. Zero 7
+7. Enigma
+8. Dream Theater
+9. Sigur Rós
+10. Ellie Goulding
+11. The Birthday Massacre
+12. Cocteau Twins
+13. Underworld
+14. Michael Jackson
+15. The Future Sound of London
+16. Depeche Mode
+17. Björk
+18. Florence + the Machine
+19. Placebo
+20. Fiona Apple
+21. Marilyn Manson
+22. Nine Inch Nails
+23. The xx
+24. Alanis Morissette
+25. M.I.A.
+26. Korn
+27. Radiohead
+28. Beck
+29. Robyn
+30. Yeah Yeah Yeahs
+31. La Roux
+32. Stone Sour
+33. My Chemical Romance
+34. Feist
+35. Crystal Castles
+36. Cold
+37. Black Eyed Peas
+38. Klaxons
+39. Tori Amos
+40. Shakira
+41. Seether
+42. Kelly Clarkson
+43. The Used
+44. Amy Winehouse
+45. Snow Patrol
+46. Flyleaf
+47. Queens of the Stone Age
+48. Christina Aguilera
+49. Britney Spears
+50. Pitty
+
+These recommendations are based on similar genres, styles, and themes to the user's liked artists.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Seether
+2. Chevelle
+3. Shinedown
+4. Papa Roach
+5. Theory of a Deadman
+6. 10 Years
+7. Evans Blue
+8. Adelitas Way
+9. Sick Puppies
+10. Art of Dying
+11. Crossfade
+12. Fuel
+13. Puddle of Mudd
+14. Tantric
+15. Smile Empty Soul
+16. Trapt
+17. Drowning Pool
+18. Saliva
+19. Nonpoint
+20. 12 Stones
+21. Egypt Central
+22. Saving Abel
+23. Hinder
+24. Default
+25. Rev Theory
+26. Three Days Grace
+27. Breaking Benjamin
+28. Red
+29. Staind
+30. Nickelback
+31. Hoobastank
+32. Fightstar
+33. Foo Fighters
+34. The Red Jumpsuit Apparatus
+35. Lifehouse
+36. The Fray
+37. Linkin Park
+38. Audioslave
+39. Bush
+40. Incubus
+41. Sevendust
+42. Finger Eleven
+43. Alter Bridge
+44. 3 Doors Down
+45. Stone Sour
+46. Skillet
+47. My Darkest Days
+48. The Veer Union
+49. Breaking Point
+50. Trust Company
+
+These recommendations are based on the user's liking of similar artists and are tailored to their music preferences.

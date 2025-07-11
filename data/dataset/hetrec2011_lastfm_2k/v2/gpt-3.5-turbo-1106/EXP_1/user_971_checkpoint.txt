@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Green Day
+2. Muse
+3. Red Hot Chili Peppers
+4. Foo Fighters
+5. The Offspring
+6. Fall Out Boy
+7. Imagine Dragons
+8. Maroon 5
+9. OneRepublic
+10. The Script
+11. Weezer
+12. 5 Seconds of Summer
+13. The All-American Rejects
+14. Good Charlotte
+15. Simple Plan
+16. Sum 41
+17. The Fray
+18. 3 Doors Down
+19. The Vamps
+20. Bastille
+21. The Neighbourhood
+22. Arctic Monkeys
+23. Kings of Leon
+24. The 1975
+25. Twenty One Pilots
+26. Hozier
+27. Florence + The Machine
+28. Bastille
+29. The Lumineers
+30. Of Monsters and Men
+31. The Killers
+32. The Strokes
+33. Vampire Weekend
+34. Cage The Elephant
+35. Foster The People
+36. Young the Giant
+37. Death Cab for Cutie
+38. The Kooks
+39. Two Door Cinema Club
+40. Phoenix
+41. The Wombats
+42. Franz Ferdinand
+43. The Vaccines
+44. The Black Keys
+45. Cold War Kids
+46. Modest Mouse
+47. Silversun Pickups
+48. Metric
+49. The National
+50. Interpol

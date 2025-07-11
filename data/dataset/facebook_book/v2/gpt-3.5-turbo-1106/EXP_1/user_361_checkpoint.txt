@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. Animal Farm by George Orwell
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Great Gatsby by F. Scott Fitzgerald
+9. The Grapes of Wrath by John Steinbeck
+10. Catch-22 by Joseph Heller
+11. The Road by Cormac McCarthy
+12. The Handmaid's Tale by Margaret Atwood
+13. The Stranger by Albert Camus
+14. The Bell Jar by Sylvia Plath
+15. The Stand by Stephen King
+16. The Road to Wigan Pier by George Orwell
+17. The Plague by Albert Camus
+18. The Heart is a Lonely Hunter by Carson McCullers
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Sun Also Rises by Ernest Hemingway
+21. The Picture of Dorian Gray by Oscar Wilde
+22. The Brothers Karamazov by Fyodor Dostoevsky
+23. Crime and Punishment by Fyodor Dostoevsky
+24. The Idiot by Fyodor Dostoevsky
+25. The Master and Margarita by Mikhail Bulgakov
+26. The Trial by Franz Kafka
+27. The Metamorphosis by Franz Kafka
+28. The Stranger by Albert Camus
+29. The Fall by Albert Camus
+30. The Plague by Albert Camus
+31. The Outsider by Albert Camus
+32. The Myth of Sisyphus by Albert Camus
+33. The Rebel by Albert Camus
+34. The Second Sex by Simone de Beauvoir
+35. The Ethics of Ambiguity by Simone de Beauvoir
+36. The Mandarins by Simone de Beauvoir
+37. The Woman Destroyed by Simone de Beauvoir
+38. The Blood of Others by Simone de Beauvoir
+39. The Prime of Miss Jean Brodie by Muriel Spark
+40. The Girls of Slender Means by Muriel Spark
+41. The Driver's Seat by Muriel Spark
+42. The Comforters by Muriel Spark
+43. The Ballad of Peckham Rye by Muriel Spark
+44. The Bachelors by Muriel Spark
+45. The Abbess of Crewe by Muriel Spark
+46. The Public Image by Muriel Spark
+47. The Hothouse by the East River by Muriel Spark
+48. The Finishing School by Muriel Spark
+49. The Only Problem by Muriel Spark
+50. The Takeover by Muriel Spark
+
+These recommendations are based on the user's interest in dystopian fiction, classic literature, and philosophical themes.

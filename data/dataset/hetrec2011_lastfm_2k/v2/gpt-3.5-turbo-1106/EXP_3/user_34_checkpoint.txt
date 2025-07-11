@@ -1,0 +1,54 @@
+Based on user 34's preferences, here are the top 50 recommendations for them:
+
+1. Radiohead
+2. The Smiths
+3. Nirvana
+4. PJ Harvey
+5. Massive Attack
+6. Beck
+7. Oasis
+8. The Mars Volta
+9. The Strokes
+10. Interpol
+11. Muse
+12. The Kills
+13. Goldfrapp
+14. The Libertines
+15. Portishead
+16. The Cranberries
+17. Bat for Lashes
+18. Grizzly Bear
+19. The Smashing Pumpkins
+20. The Cribs
+21. Mando Diao
+22. Kasabian
+23. The Mars Volta
+24. The Libertines
+25. The Cranberries
+26. Bat for Lashes
+27. Grizzly Bear
+28. The Smashing Pumpkins
+29. The Cribs
+30. Mando Diao
+31. Kasabian
+32. Neil Young
+33. Thin Lizzy
+34. The Kills
+35. She Wants Revenge
+36. The Mars Volta
+37. The Libertines
+38. The Cranberries
+39. Bat for Lashes
+40. Grizzly Bear
+41. The Smashing Pumpkins
+42. The Cribs
+43. Mando Diao
+44. Kasabian
+45. Neil Young
+46. Thin Lizzy
+47. The Kills
+48. She Wants Revenge
+49. The Mars Volta
+50. The Libertines
+
+These recommendations are based on the user's existing preferences and are designed to introduce them to new artists that align with their tastes.

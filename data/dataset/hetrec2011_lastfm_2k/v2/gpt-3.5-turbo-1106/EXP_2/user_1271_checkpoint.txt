@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. The Beatles
+2. The Rolling Stones
+3. Bob Dylan
+4. Simon & Garfunkel
+5. The Beach Boys
+6. The Byrds
+7. Johann Sebastian Bach
+8. Belle and Sebastian
+9. Cat Stevens
+10. John Lennon
+11. George Harrison
+12. Buddy Holly
+13. The Who
+14. Billie Holiday
+15. Loreena McKennitt
+16. Françoise Hardy
+17. Britney Spears
+18. Madonna
+19. Lady Gaga
+20. Christina Aguilera
+21. Rihanna
+22. Beyoncé
+23. Katy Perry
+24. Taylor Swift
+25. Avril Lavigne
+26. Paramore
+27. Glee Cast
+28. Shakira
+29. U2
+30. Muse
+31. 30 Seconds to Mars
+32. Pink Floyd
+33. Radiohead
+34. Coldplay
+35. Ke$ha
+36. Miley Cyrus
+37. Evanescence
+38. Kylie Minogue
+39. Duran Duran
+40. Blur
+41. Arctic Monkeys
+42. Placebo
+43. The Killers
+44. Nirvana
+45. Iron Maiden
+46. Led Zeppelin
+47. Metallica
+48. Michael Jackson
+49. Pearl Jam
+50. Amy Winehouse
+
+This list is based on the user's liking of the given artists and aims to provide recommendations that align with their preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Book Thief by Markus Zusak
+2. The Fault in Our Stars by John Green
+3. Thirteen Reasons Why by Jay Asher
+4. The Maze Runner by James Dashner
+5. Divergent by Veronica Roth
+6. The Giver by Lois Lowry
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. Eleanor & Park by Rainbow Rowell
+9. If I Stay by Gayle Forman
+10. The Catcher in the Rye by J.D. Salinger
+11. Looking for Alaska by John Green
+12. Paper Towns by John Green
+13. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+14. The Girl on the Train by Paula Hawkins
+15. Gone Girl by Gillian Flynn
+16. The Night Circus by Erin Morgenstern
+17. The Time Traveler's Wife by Audrey Niffenegger
+18. The Girl with the Dragon Tattoo by Stieg Larsson
+19. The Help by Kathryn Stockett
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Kite Runner by Khaled Hosseini
+22. A Thousand Splendid Suns by Khaled Hosseini
+23. The Glass Castle by Jeannette Walls
+24. The Goldfinch by Donna Tartt
+25. The Light Between Oceans by M.L. Stedman
+26. The Nightingale by Kristin Hannah
+27. All the Light We Cannot See by Anthony Doerr
+28. The Rosie Project by Graeme Simsion
+29. Me Before You by Jojo Moyes
+30. The Husband's Secret by Liane Moriarty
+31. Big Little Lies by Liane Moriarty
+32. Sharp Objects by Gillian Flynn
+33. Dark Places by Gillian Flynn
+34. The Silent Patient by Alex Michaelides
+35. The Woman in the Window by A.J. Finn
+36. The Alice Network by Kate Quinn
+37. The Tattooist of Auschwitz by Heather Morris
+38. Lilac Girls by Martha Hall Kelly
+39. The Nightingale by Kristin Hannah
+40. The Great Alone by Kristin Hannah
+41. Before We Were Yours by Lisa Wingate
+42. Where the Crawdads Sing by Delia Owens
+43. Educated by Tara Westover
+44. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+45. Just Mercy by Bryan Stevenson
+46. The Underground Railroad by Colson Whitehead
+47. Homegoing by Yaa Gyasi
+48. An American Marriage by Tayari Jones
+49. The Vanishing Half by Brit Bennett
+50. The Dutch House by Ann Patchett
+
+These recommendations are based on the user's interest in young adult fiction, fantasy, and mystery/thriller genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Slaughterhouse-Five by Kurt Vonnegut
+2. One Hundred Years of Solitude by Gabriel Garcia Marquez
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. Brave New World by Aldous Huxley
+6. The Road by Cormac McCarthy
+7. A Clockwork Orange by Anthony Burgess
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Great Gatsby by F. Scott Fitzgerald
+10. To Kill a Mockingbird by Harper Lee
+11. The Stranger by Albert Camus
+12. The Bell Jar by Sylvia Plath
+13. Lolita by Vladimir Nabokov
+14. The Grapes of Wrath by John Steinbeck
+15. Catch-22 by Joseph Heller
+16. The Sun Also Rises by Ernest Hemingway
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. Crime and Punishment by Fyodor Dostoevsky
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Sound and the Fury by William Faulkner
+21. East of Eden by John Steinbeck
+22. The Handmaid's Tale by Margaret Atwood
+23. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+24. The Shining by Stephen King
+25. The Stand by Stephen King
+26. The Martian by Andy Weir
+27. Dune by Frank Herbert
+28. Neuromancer by William Gibson
+29. Snow Crash by Neal Stephenson
+30. The Name of the Wind by Patrick Rothfuss
+31. American Gods by Neil Gaiman
+32. The Alchemist by Paulo Coelho
+33. The Shadow of the Wind by Carlos Ruiz Zafon
+34. The Night Circus by Erin Morgenstern
+35. The Book Thief by Markus Zusak
+36. The Kite Runner by Khaled Hosseini
+37. The Secret History by Donna Tartt
+38. The Goldfinch by Donna Tartt
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. The Girl on the Train by Paula Hawkins
+41. Gone Girl by Gillian Flynn
+42. The Da Vinci Code by Dan Brown
+43. Angels & Demons by Dan Brown
+44. The Girl with the Dragon Tattoo by Stieg Larsson
+45. The Girl Who Played with Fire by Stieg Larsson
+46. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+47. The Hunger Games by Suzanne Collins
+48. The Help by Kathryn Stockett
+49. The Lovely Bones by Alice Sebold
+50. The Time Traveler's Wife by Audrey Niffenegger
+
+These recommendations are based on the user's interest in literary fiction, fantasy, and science fiction.

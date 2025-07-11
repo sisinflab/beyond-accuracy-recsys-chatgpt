@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Pact by Jodi Picoult
+2. The Fountainhead by Ayn Rand
+3. We Need to Talk About Kevin by Lionel Shriver
+4. The Catcher in the Rye by J.D. Salinger
+5. The Fault in Our Stars by John Green
+6. The Book Thief by Markus Zusak
+7. To Kill a Mockingbird by Harper Lee
+8. The Perks of Being a Wallflower by Stephen Chbosky
+9. The Glass Castle by Jeannette Walls
+10. The Hunger Games by Suzanne Collins
+11. Divergent by Veronica Roth
+12. The Maze Runner by James Dashner
+13. The Giver by Lois Lowry
+14. The Alchemist by Paulo Coelho
+15. The Kite Runner by Khaled Hosseini
+16. The Girl on the Train by Paula Hawkins
+17. Sharp Objects by Gillian Flynn
+18. Dark Places by Gillian Flynn
+19. The Secret History by Donna Tartt
+20. The Goldfinch by Donna Tartt
+21. The Night Circus by Erin Morgenstern
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Lovely Reckless by Kami Garcia
+24. The Hate U Give by Angie Thomas
+25. The Outsiders by S.E. Hinton
+26. The Bell Jar by Sylvia Plath
+27. The Road by Cormac McCarthy
+28. The Handmaid's Tale by Margaret Atwood
+29. The Stand by Stephen King
+30. The Shining by Stephen King
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. The Help by Kathryn Stockett
+33. The Secret Life of Bees by Sue Monk Kidd
+34. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+35. The Martian by Andy Weir
+36. The Da Vinci Code by Dan Brown
+37. The Girl Who Played with Fire by Stieg Larsson
+38. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+39. The Girl in the Spider's Web by David Lagercrantz
+40. The Lost Symbol by Dan Brown
+41. The Inferno by Dan Brown
+42. The Hunger Games Trilogy Boxset by Suzanne Collins
+43. The Mortal Instruments Boxed Set by Cassandra Clare
+44. The Chronicles of Narnia by C.S. Lewis
+45. The Harry Potter Box Set by J.K. Rowling
+46. The Selfish Gene by Richard Dawkins
+47. The Blind Watchmaker by Richard Dawkins
+48. The Greatest Show on Earth by Richard Dawkins
+49. The Magic of Reality by Richard Dawkins
+50. The Ancestor's Tale by Richard Dawkins
+
+These recommendations are based on the user's interest in specific authors and genres.

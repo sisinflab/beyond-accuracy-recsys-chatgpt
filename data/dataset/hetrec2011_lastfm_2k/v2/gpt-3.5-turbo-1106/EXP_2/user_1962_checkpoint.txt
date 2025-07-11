@@ -1,0 +1,52 @@
+Based on user 1962's preferences, here are the top 50 recommendations for that user:
+
+1. Blur
+2. New Order
+3. Pulp
+4. Interpol
+5. Crystal Castles
+6. The Futureheads
+7. Simian Mobile Disco
+8. Klaxons
+9. The Presets
+10. Death from Above 1979
+11. Yeasayer
+12. The B-52's
+13. The Killers
+14. Arctic Monkeys
+15. Muse
+16. Radiohead
+17. The Beatles
+18. Nirvana
+19. The Cure
+20. Placebo
+21. Duran Duran
+22. Coldplay
+23. Pink Floyd
+24. U2
+25. Madonna
+26. Lady Gaga
+27. Rihanna
+28. Beyoncé
+29. Christina Aguilera
+30. Britney Spears
+31. Katy Perry
+32. Taylor Swift
+33. Avril Lavigne
+34. Paramore
+35. Miley Cyrus
+36. Kelly Clarkson
+37. Avenged Sevenfold
+38. My Chemical Romance
+39. Green Day
+40. Linkin Park
+41. 30 Seconds to Mars
+42. Metallica
+43. Iron Maiden
+44. Led Zeppelin
+45. Pearl Jam
+46. Michael Jackson
+47. Daft Punk
+48. Nine Inch Nails
+49. System of a Down
+50. Black Eyed Peas

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. Muse
+3. Nine Inch Nails
+4. The Cure
+5. Deftones
+6. Tool
+7. Placebo
+8. The Smashing Pumpkins
+9. My Chemical Romance
+10. The Mars Volta
+11. Interpol
+12. Arctic Monkeys
+13. Queens of the Stone Age
+14. The National
+15. Sigur Rós
+16. Arcade Fire
+17. The Strokes
+18. System of a Down
+19. The Flaming Lips
+20. Modest Mouse
+21. The Killers
+22. The White Stripes
+23. Franz Ferdinand
+24. Bloc Party
+25. Death From Above 1979
+26. The Hives
+27. The Libertines
+28. Yeah Yeah Yeahs
+29. Wolf Alice
+30. Foals
+31. The Black Keys
+32. Tame Impala
+33. Vampire Weekend
+34. The War on Drugs
+35. LCD Soundsystem
+36. Grimes
+37. CHVRCHES
+38. HAIM
+39. Alt-J
+40. Foster the People
+41. Cage the Elephant
+42. Two Door Cinema Club
+43. The 1975
+44. Bastille
+45. Imagine Dragons
+46. Florence + the Machine
+47. Lorde
+48. Hozier
+49. Of Monsters and Men
+50. The Lumineers
+
+These recommendations are based on the user's liking of similar artists and genres.

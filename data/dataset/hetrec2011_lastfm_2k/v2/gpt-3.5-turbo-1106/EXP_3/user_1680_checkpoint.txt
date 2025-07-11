@@ -1,0 +1,54 @@
+Based on user 1680's preferences, here are the top 50 recommendations for the given artists:
+
+1. The Beatles
+2. Kings of Convenience
+3. The Cure
+4. Tori Amos
+5. Feist
+6. Sia
+7. Nouvelle Vague
+8. Beirut
+9. Dido
+10. Maroon 5
+11. Travis
+12. Pet Shop Boys
+13. Ulver
+14. Anathema
+15. Pain of Salvation
+16. Antimatter
+17. Band of Horses
+18. Bob Marley
+19. Kings of Leon
+20. Pink Floyd
+21. Rammstein
+22. Placebo
+23. The Doors
+24. Jeff Buckley
+25. Queen
+26. Arctic Monkeys
+27. MGMT
+28. Iron & Wine
+29. Sufjan Stevens
+30. The Cranberries
+31. Madonna
+32. Parov Stelar
+33. Hot Chip
+34. Tom Waits
+35. Regina Spektor
+36. Flyleaf
+37. Katy Perry
+38. Yann Tiersen
+39. Los Hermanos
+40. Scorpions
+41. Justin Timberlake
+42. Paolo Nutini
+43. Gorillaz
+44. The Killers
+45. Coldplay
+46. Led Zeppelin
+47. Radiohead
+48. The Strokes
+49. Lady Gaga
+50. The Smiths
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their current tastes.

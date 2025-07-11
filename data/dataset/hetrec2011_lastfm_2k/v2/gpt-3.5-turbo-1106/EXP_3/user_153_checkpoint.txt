@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. The Strokes
+2. The Killers
+3. Arcade Fire
+4. The Cranberries
+5. Pixies
+6. Queen
+7. Electric Light Orchestra
+8. Pink Floyd
+9. Genesis
+10. New Order
+11. Joy Division
+12. Depeche Mode
+13. Morrissey
+14. Neil Young
+15. Thin Lizzy
+16. Pearl Jam
+17. Manic Street Preachers
+18. The All-American Rejects
+19. The Kills
+20. The Cribs
+21. Tokyo Police Club
+22. Placebo
+23. Grizzly Bear
+24. of Montreal
+25. VNV Nation
+26. Mando Diao
+27. Beirut
+28. Sigur Rós
+29. Mastodon
+30. Converge
+31. Morbid Angel
+32. King Diamond
+33. HIM
+34. Evanescence
+35. Paradise Lost
+36. Lacuna Coil
+37. She Wants Revenge
+38. Avenged Sevenfold
+39. 311
+40. VAST
+41. Porcupine Tree
+42. God Is an Astronaut
+43. mind.in.a.box
+44. Ayria
+45. Massive Attack
+46. Paramore
+47. The Birthday Massacre
+48. The National
+49. Poets of the Fall
+50. Anathema
+
+These recommendations are based on the user's existing preferences and aim to provide similar artists that they may enjoy.

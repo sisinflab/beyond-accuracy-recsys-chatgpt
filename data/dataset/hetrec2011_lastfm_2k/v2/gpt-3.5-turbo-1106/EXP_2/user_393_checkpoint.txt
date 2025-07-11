@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. The Beatles
+2. Muse
+3. My Chemical Romance
+4. 30 Seconds to Mars
+5. Queen
+6. Paul McCartney & Wings
+7. George Harrison
+8. The Rolling Stones
+9. KISS
+10. The Who
+11. Van Halen
+12. Alesana
+13. Beastie Boys
+14. Brand New
+15. Funeral for a Friend
+16. Weezer
+17. The Kinks
+18. Alanis Morissette
+19. Arctic Monkeys
+20. The Used
+21. Coldplay
+22. Blur
+23. Beck
+24. The Ting Tings
+25. ABBA
+26. Blondie
+27. Twisted Sister
+28. Drop Dead, Gorgeous
+29. Ace of Base
+30. Britney Spears
+31. Lady Gaga
+32. Christina Aguilera
+33. Rihanna
+34. Katy Perry
+35. Avril Lavigne
+36. Paramore
+37. Madonna
+38. Shakira
+39. Taylor Swift
+40. Glee Cast
+41. Beyoncé
+42. U2
+43. Pink Floyd
+44. Kylie Minogue
+45. Miley Cyrus
+46. Radiohead
+47. Ke$ha
+48. Duran Duran
+49. Placebo
+50. The Killers
+
+This re-ranked list is based on the user's liking of similar artists and may help in providing relevant recommendations.

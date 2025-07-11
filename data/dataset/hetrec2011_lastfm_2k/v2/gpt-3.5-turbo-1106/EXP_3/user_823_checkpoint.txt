@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 823:
+
+1. Nirvana
+2. Radiohead
+3. The Beatles
+4. Pearl Jam
+5. Red Hot Chili Peppers
+6. Foo Fighters
+7. Metallica
+8. The Clash
+9. Bob Dylan
+10. Arcade Fire
+11. Brand New
+12. Kings of Leon
+13. The Magnetic Fields
+14. Regina Spektor
+15. Bright Eyes
+16. The Libertines
+17. The New Pornographers
+18. Pulp
+19. The Dresden Dolls
+20. Spoon
+21. Blue October
+22. Ben Folds
+23. CAKE
+24. MGMT
+25. of Montreal
+26. Bonobo
+27. Boards of Canada
+28. Björk
+29. Amy Winehouse
+30. Frank Zappa
+31. Robbie Williams
+32. Elvis Costello
+33. Nick Drake
+34. Rufus Wainwright
+35. Captain Beefheart & His Magic Band
+36. Dirty Pretty Things
+37. Trivium
+38. Judas Priest
+39. Limp Bizkit
+40. Korn
+41. Haste the Day
+42. AC/DC
+43. Eminem
+44. Blink-182
+45. Maroon 5
+46. Billy Joel
+47. The Mars Volta
+48. Say Anything
+49. AFI
+50. My Chemical Romance
+
+These recommendations are based on the user's existing preferences and are designed to introduce them to new artists they may enjoy.

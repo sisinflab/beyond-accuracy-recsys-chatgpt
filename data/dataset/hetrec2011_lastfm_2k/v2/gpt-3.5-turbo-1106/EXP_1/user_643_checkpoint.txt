@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Depeche Mode
+3. New Order
+4. The Killers
+5. Echo & the Bunnymen
+6. The Strokes
+7. Interpol
+8. The National
+9. The Libertines
+10. The Cranberries
+11. The Stone Roses
+12. Pulp
+13. The Verve
+14. The Flaming Lips
+15. Belle and Sebastian
+16. The Shins
+17. Death Cab for Cutie
+18. Modest Mouse
+19. The Postal Service
+20. The Decemberists
+21. Vampire Weekend
+22. Tame Impala
+23. MGMT
+24. The War on Drugs
+25. Beach House
+26. Grizzly Bear
+27. Animal Collective
+28. The xx
+29. Beach House
+30. Real Estate
+31. Fleet Foxes
+32. HAIM
+33. CHVRCHES
+34. St. Vincent
+35. Florence + the Machine
+36. Lana Del Rey
+37. Lorde
+38. Lykke Li
+39. Bat for Lashes
+40. Goldfrapp
+41. Fever Ray
+42. Grimes
+43. Robyn
+44. CHVRCHES
+45. M83
+46. Passion Pit
+47. Cut Copy
+48. Hot Chip
+49. LCD Soundsystem
+50. Phoenix
+
+These recommendations are based on the user's liking of similar artists and genres.

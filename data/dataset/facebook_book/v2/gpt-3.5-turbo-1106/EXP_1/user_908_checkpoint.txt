@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Eragon by Christopher Paolini
+2. Inkheart by Cornelia Funke
+3. The Amulet of Samarkand by Jonathan Stroud
+4. The Lightning Thief by Rick Riordan
+5. The Golden Compass by Philip Pullman
+6. Magyk by Angie Sage
+7. The Alchemyst by Michael Scott
+8. The Hunger Games by Suzanne Collins
+9. The Maze Runner by James Dashner
+10. Divergent by Veronica Roth
+11. The Name of the Wind by Patrick Rothfuss
+12. Mistborn: The Final Empire by Brandon Sanderson
+13. The Way of Kings by Brandon Sanderson
+14. The Lies of Locke Lamora by Scott Lynch
+15. The Night Circus by Erin Morgenstern
+16. Uprooted by Naomi Novik
+17. The Bear and the Nightingale by Katherine Arden
+18. The Girl of Fire and Thorns by Rae Carson
+19. Graceling by Kristin Cashore
+20. Seraphina by Rachel Hartman
+21. The Queen of the Tearling by Erika Johansen
+22. Red Queen by Victoria Aveyard
+23. An Ember in the Ashes by Sabaa Tahir
+24. Throne of Glass by Sarah J. Maas
+25. Shadow and Bone by Leigh Bardugo
+26. The Bone Season by Samantha Shannon
+27. The Fifth Season by N.K. Jemisin
+28. The Poppy War by R.F. Kuang
+29. The Priory of the Orange Tree by Samantha Shannon
+30. The City of Brass by S.A. Chakraborty
+31. The Golem and the Jinni by Helene Wecker
+32. The Starless Sea by Erin Morgenstern
+33. The Ten Thousand Doors of January by Alix E. Harrow
+34. The Library at Mount Char by Scott Hawkins
+35. The Night Circus by Erin Morgenstern
+36. The Bear and the Nightingale by Katherine Arden
+37. The Girl of Fire and Thorns by Rae Carson
+38. Graceling by Kristin Cashore
+39. Seraphina by Rachel Hartman
+40. The Queen of the Tearling by Erika Johansen
+41. Red Queen by Victoria Aveyard
+42. An Ember in the Ashes by Sabaa Tahir
+43. Throne of Glass by Sarah J. Maas
+44. Shadow and Bone by Leigh Bardugo
+45. The Bone Season by Samantha Shannon
+46. The Fifth Season by N.K. Jemisin
+47. The Poppy War by R.F. Kuang
+48. The Priory of the Orange Tree by Samantha Shannon
+49. The City of Brass by S.A. Chakraborty
+50. The Golem and the Jinni by Helene Wecker
+
+These recommendations are based on the user's interest in fantasy and young adult fiction.

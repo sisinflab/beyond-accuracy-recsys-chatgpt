@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Alchemist by Paulo Coelho
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Brothers Karamazov by Fyodor Dostoyevsky
+11. The Stranger by Albert Camus
+12. The Road by Cormac McCarthy
+13. The Name of the Wind by Patrick Rothfuss
+14. The Book Thief by Markus Zusak
+15. The Shadow of the Wind by Carlos Ruiz Zafón
+16. The Kite Runner by Khaled Hosseini
+17. The Count of Monte Cristo by Alexandre Dumas
+18. The Stand by Stephen King
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Handmaid's Tale by Margaret Atwood
+21. The Goldfinch by Donna Tartt
+22. The Night Circus by Erin Morgenstern
+23. The Martian by Andy Weir
+24. The Giver by Lois Lowry
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Help by Kathryn Stockett
+27. The Hunger Games by Suzanne Collins
+28. The Da Vinci Code by Dan Brown
+29. The Girl on the Train by Paula Hawkins
+30. The Lovely Bones by Alice Sebold
+31. The Secret History by Donna Tartt
+32. The Bell Jar by Sylvia Plath
+33. The Road Less Traveled by M. Scott Peck
+34. The Power of Now by Eckhart Tolle
+35. The Art of Happiness by Dalai Lama XIV
+36. The Prophet by Kahlil Gibran
+37. The Celestine Prophecy by James Redfield
+38. The Four Agreements by Don Miguel Ruiz
+39. The Mastery of Love by Don Miguel Ruiz
+40. The Seat of the Soul by Gary Zukav
+41. The Road to Character by David Brooks
+42. The Power of Positive Thinking by Norman Vincent Peale
+43. The 7 Habits of Highly Effective People by Stephen R. Covey
+44. The Art of War by Sun Tzu
+45. The Prince by Niccolò Machiavelli
+46. The Tipping Point by Malcolm Gladwell
+47. The Lean Startup by Eric Ries
+48. The Innovator's Dilemma by Clayton M. Christensen
+49. The Design of Everyday Things by Don Norman
+50. The Lean Product Playbook by Dan Olsen
+
+These recommendations are based on similar themes, genres, and authors to the books that user 118 likes.

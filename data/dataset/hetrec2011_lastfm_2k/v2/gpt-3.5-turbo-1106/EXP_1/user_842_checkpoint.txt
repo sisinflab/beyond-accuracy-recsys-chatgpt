@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Flying Lotus
+2. DJ Shadow
+3. Nujabes
+4. RJD2
+5. Bonobo
+6. Boards of Canada
+7. Shigeto
+8. Four Tet
+9. Tycho
+10. Blockhead
+11. Clams Casino
+12. TOKiMONSTA
+13. Little People
+14. Nightmares on Wax
+15. Emancipator
+16. DJ Krush
+17. Kid Koala
+18. Quasimoto
+19. El-P
+20. Deltron 3030
+21. Cannibal Ox
+22. Blackalicious
+23. The Avalanches
+24. J. Cole
+25. Kendrick Lamar
+26. OutKast
+27. Mos Def
+28. Talib Kweli
+29. Common
+30. The Pharcyde
+31. De La Soul
+32. Digable Planets
+33. Jurassic 5
+34. Black Milk
+35. Slum Village
+36. J. Dilla
+37. Prefuse 73
+38. Madlib
+39. Capsule
+40. The Flashbulb
+41. Lupe Fiasco
+42. Ghostface Killah
+43. Burial
+44. The Roots
+45. MF DOOM
+46. Aphex Twin
+47. A Tribe Called Quest
+48. Amon Tobin
+49. Madvillain
+50. Kanye West
+
+These recommendations are based on the user's liking of similar artists and genres.

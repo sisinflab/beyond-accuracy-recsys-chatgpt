@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. Depeche Mode
+3. Joy Division
+4. The Sisters of Mercy
+5. Siouxsie and the Banshees
+6. Echo & the Bunnymen
+7. The Jesus and Mary Chain
+8. Talking Heads
+9. The Psychedelic Furs
+10. Cocteau Twins
+11. The Chameleons
+12. The Human League
+13. Soft Cell
+14. Visage
+15. Ultravox
+16. Simple Minds
+17. Tears for Fears
+18. A Flock of Seagulls
+19. The B-52's
+20. OMD
+21. Yaz
+22. Pet Shop Boys
+23. Gary Numan
+24. Front 242
+25. Front Line Assembly
+26. The Cure
+27. Alphaville
+28. Ella Fitzgerald
+29. De/Vision
+30. Orchestral Manoeuvres in the Dark
+31. Frank Sinatra
+32. Kraftwerk
+33. Blondie
+34. KMFDM
+35. And One
+36. The Smiths
+37. ABBA
+38. Bauhaus
+39. Apoptygma Berzerk
+40. Einstürzende Neubauten
+41. Björk
+42. Aphex Twin
+43. Eurythmics
+44. Duran Duran
+45. Erasure
+46. Yazoo
+47. The Human League
+48. New Order
+49. Depeche Mode
+50. Joy Division
+
+These recommendations are based on the user's liking of similar artists and genres.

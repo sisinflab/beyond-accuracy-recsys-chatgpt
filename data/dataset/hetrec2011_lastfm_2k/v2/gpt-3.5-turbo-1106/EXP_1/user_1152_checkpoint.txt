@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Verve
+2. Radiohead
+3. The Smiths
+4. Oasis
+5. The Cure
+6. Joy Division
+7. Interpol
+8. The Jesus and Mary Chain
+9. The Stone Roses
+10. Echo & the Bunnymen
+11. The Charlatans
+12. The Libertines
+13. The Strokes
+14. Arctic Monkeys
+15. The National
+16. R.E.M.
+17. The War on Drugs
+18. Arcade Fire
+19. My Bloody Valentine
+20. Slowdive
+21. Ride
+22. Spiritualized
+23. The Horrors
+24. The Psychedelic Furs
+25. The Chameleons
+26. The Telescopes
+27. The Brian Jonestown Massacre
+28. The Black Angels
+29. Tame Impala
+30. Temples
+31. The Dandy Warhols
+32. The Flaming Lips
+33. Mercury Rev
+34. The Jesus Lizard
+35. Swans
+36. Sonic Youth
+37. Dinosaur Jr.
+38. Pavement
+39. Built to Spill
+40. Modest Mouse
+41. Spoon
+42. Yo La Tengo
+43. Guided by Voices
+44. The Replacements
+45. Pixies
+46. Violent Femmes
+47. The Smithereens
+48. The Feelies
+49. The Lemonheads
+50. Galaxie 500
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music that aligns with their preferences.

@@ -1,0 +1,54 @@
+Based on user 1946's preferences, here are the top-50 recommendations for the user:
+
+1. Madonna
+2. Michael Jackson
+3. Sade
+4. Tina Turner
+5. Robbie Williams
+6. Cat Stevens
+7. Natalie Imbruglia
+8. Avril Lavigne
+9. Lady Gaga
+10. Miley Cyrus
+11. Bon Jovi
+12. ABBA
+13. Roxette
+14. Enrique Iglesias
+15. Elton John
+16. Fleetwood Mac
+17. Heart
+18. Tears for Fears
+19. Cyndi Lauper
+20. Cher
+21. Daughtry
+22. Evanescence
+23. Jewel
+24. Dido
+25. Diana Krall
+26. Andrea Bocelli
+27. Josh Groban
+28. Marillion
+29. Secondhand Serenade
+30. Luis Miguel
+31. Laura Pausini
+32. Glee Cast
+33. Jonas Brothers
+34. Lindsay Lohan
+35. Gregorian
+36. Marilyn Manson
+37. Andrew Lloyd Webber
+38. A*Teens
+39. Britney Spears
+40. Belinda
+41. Siouxsie and the Banshees
+42. Legião Urbana
+43. Rita Lee
+44. Lady Antebellum
+45. Jonathan Larson
+46. Sophie Ellis-Bextor
+47. Pitty
+48. Elvis Presley
+49. In This Moment
+50. Mika
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

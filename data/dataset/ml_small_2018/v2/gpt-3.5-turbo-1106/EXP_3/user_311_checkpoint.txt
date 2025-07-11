@@ -1,0 +1,14 @@
+Based on user 311's preferences, here are the top 10 movie recommendations from the list you provided:
+
+1. Shawshank Redemption, The (1994)
+2. Pulp Fiction (1994)
+3. Lord of the Rings: The Fellowship of the Ring, The (2001)
+4. Requiem for a Dream (2000)
+5. American Beauty (1999)
+6. Matrix, The (1999)
+7. American Pie (1999)
+8. Royal Tenenbaums, The (2001)
+9. Girl, Interrupted (1999)
+10. Braveheart (1995)
+
+These recommendations are based on the user's ratings and the similarity of these movies to the ones the user has already enjoyed.

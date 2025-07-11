@@ -1,0 +1,54 @@
+Based on user 164's preferences, here are the top 50 book recommendations:
+
+1. Good Omens by Neil Gaiman and Terry Pratchett
+2. Fight Club by Chuck Palahniuk
+3. Norwegian Wood by Haruki Murakami
+4. World War Z by Max Brooks
+5. The Long Dark Tea-Time of the Soul by Douglas Adams
+6. The Sandman series by Neil Gaiman
+7. American Gods by Neil Gaiman
+8. The Color of Magic by Terry Pratchett
+9. Survivor by Chuck Palahniuk
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. Neverwhere by Neil Gaiman
+12. The Restaurant at the End of the Universe by Douglas Adams
+13. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+14. The Wind-Up Bird Chronicle by Haruki Murakami
+15. The Graveyard Book by Neil Gaiman
+16. Pyramids by Terry Pratchett
+17. Rant by Chuck Palahniuk
+18. The Salmon of Doubt by Douglas Adams
+19. The Ocean at the End of the Lane by Neil Gaiman
+20. Hard-Boiled Wonderland and the End of the World by Haruki Murakami
+21. Going Postal by Terry Pratchett
+22. Haunted by Chuck Palahniuk
+23. Dirk Gently's Holistic Detective Agency by Douglas Adams
+24. Anansi Boys by Neil Gaiman
+25. The Elephant Vanishes by Haruki Murakami
+26. Monstrous Regiment by Terry Pratchett
+27. Lullaby by Chuck Palahniuk
+28. Last Chance to See by Douglas Adams
+29. Stardust by Neil Gaiman
+30. Kafka on the Shore by Haruki Murakami
+31. Small Gods by Terry Pratchett
+32. Diary by Chuck Palahniuk
+33. The Meaning of Liff by Douglas Adams
+34. Fragile Things by Neil Gaiman
+35. After Dark by Haruki Murakami
+36. The Wee Free Men by Terry Pratchett
+37. Invisible Monsters by Chuck Palahniuk
+38. The Deeper Meaning of Liff by Douglas Adams
+39. Coraline by Neil Gaiman
+40. 1Q84 by Haruki Murakami
+41. The Truth by Terry Pratchett
+42. Choke by Chuck Palahniuk
+43. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+44. Batman: The Killing Joke by Alan Moore
+45. The Mysterious Stranger by Mark Twain
+46. 100 Bullets by Brian Azzarello
+47. I, Lucifer by Glen Duncan
+48. Scott Pilgrim's Precious Little Life by Bryan Lee O'Malley
+49. The Zombie Survival Guide by Max Brooks
+50. Eric by Terry Pratchett
+
+These recommendations are based on similar themes, authors, and genres to the books that user 164 likes.

@@ -1,0 +1,54 @@
+Based on user 1194's preferences, here are the top 50 book recommendations:
+
+1. The Hobbit by J. R. R. Tolkien
+2. The Lord of the Rings by J. R. R. Tolkien
+3. To Kill a Mockingbird by Harper Lee
+4. Othello
+5. The Taming of the Shrew
+6. A Tree Grows in Brooklyn by Betty Smith
+7. My Sister's Keeper by Jodi Picoult
+8. The Good Earth by Pearl S. Buck
+9. Shanghai Girls by Lisa See
+10. Where the Sidewalk Ends
+11. Romeo and Juliet
+12. His Dark Materials
+13. The Great Gatsby
+14. The Autobiography of Malcolm X
+15. Alice's Adventures in Wonderland
+16. Harry Potter
+17. A Tale of Two Cities
+18. Frankenstein
+19. Mockingjay
+20. The Kite Runner
+21. Memoirs of a Geisha
+22. Ender's Game
+23. The Iliad
+24. The Ramayana
+25. The Wonderful Wizard of Oz
+26. The Bourne Ultimatum
+27. Lord of the Flies
+28. Heidi
+29. A Memory of Light
+30. Airframe
+31. Dune
+32. His Dark Materials
+33. Black Beauty
+34. Maximum Ride: The Angel Experiment
+35. Gone with the Wind
+36. Night
+37. Encyclopædia Britannica
+38. Cirque du Freak
+39. Midnight's Children
+40. Valiant: A Modern Tale of Faerie
+41. Strange Angels
+42. The Prodigal Daughter
+43. The Lost Symbol
+44. The Alchemist
+45. Odd Thomas
+46. The Girl Who Leapt Through Time
+47. A Midsummer Night's Dream
+48. Ancient History
+49. Mountains Beyond Mountains
+50. The Watchmen
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

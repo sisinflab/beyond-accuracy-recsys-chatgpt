@@ -1,0 +1,52 @@
+Based on user 45's preferences, here are the top 50 book recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. Dune by Frank Herbert
+3. Snow Crash by Neal Stephenson
+4. Neuromancer by William Gibson
+5. Ready Player One by Ernest Cline
+6. The Martian by Andy Weir
+7. 1984 by George Orwell
+8. Brave New World by Aldous Huxley
+9. Fahrenheit 451 by Ray Bradbury
+10. The Hunger Games by Suzanne Collins
+11. The Road by Cormac McCarthy
+12. The Stand by Stephen King
+13. World War Z by Max Brooks
+14. The War of the Worlds by H.G. Wells
+15. I, Robot by Isaac Asimov
+16. Do Androids Dream of Electric Sheep? by Philip K. Dick
+17. The Time Machine by H.G. Wells
+18. The Andromeda Strain by Michael Crichton
+19. The Hitchhiker's Guide to the Galaxy (series) by Douglas Adams
+20. The Expanse series by James S.A. Corey
+21. The Left Hand of Darkness by Ursula K. Le Guin
+22. The Dispossessed by Ursula K. Le Guin
+23. The Foundation series by Isaac Asimov
+24. Hyperion by Dan Simmons
+25. Altered Carbon by Richard K. Morgan
+26. The Three-Body Problem by Cixin Liu
+27. The Windup Girl by Paolo Bacigalupi
+28. The Diamond Age by Neal Stephenson
+29. The Quantum Thief by Hannu Rajaniemi
+30. The City & the City by China Miéville
+31. The Yiddish Policemen's Union by Michael Chabon
+32. The Fifth Season by N.K. Jemisin
+33. The Power by Naomi Alderman
+34. The Handmaid's Tale by Margaret Atwood
+35. Oryx and Crake by Margaret Atwood
+36. The Bone Clocks by David Mitchell
+37. The Night Circus by Erin Morgenstern
+38. American Gods by Neil Gaiman
+39. Neverwhere by Neil Gaiman
+40. The Name of the Wind by Patrick Rothfuss
+41. Mistborn series by Brandon Sanderson
+42. The Lies of Locke Lamora by Scott Lynch
+43. The Way of Kings by Brandon Sanderson
+44. The Blade Itself by Joe Abercrombie
+45. The Black Prism by Brent Weeks
+46. The Lies of Locke Lamora by Scott Lynch
+47. The Final Empire by Brandon Sanderson
+48. The Name of the Wind by Patrick Rothfuss
+49. The Way of Kings by Brandon Sanderson
+50. The Blade Itself by Joe Abercrombie

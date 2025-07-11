@@ -1,0 +1,54 @@
+Based on user 2042's preferences, here are the top 50 recommendations for the user:
+
+1. Nirvana
+2. Alice in Chains
+3. Pearl Jam
+4. Stone Temple Pilots
+5. Soundgarden
+6. Red Hot Chili Peppers
+7. Radiohead
+8. The Smashing Pumpkins
+9. The Strokes
+10. Oasis
+11. Metallica
+12. The Rolling Stones
+13. The Cure
+14. U2
+15. Green Day
+16. Kings of Leon
+17. Arctic Monkeys
+18. Franz Ferdinand
+19. The Beatles
+20. Queen
+21. Aerosmith
+22. Black Rebel Motorcycle Club
+23. Kings of Convenience
+24. The Cardigans
+25. The Last Shadow Puppets
+26. Modest Mouse
+27. Death Cab for Cutie
+28. The Shins
+29. Coldplay
+30. Placebo
+31. R.E.M.
+32. Nine Inch Nails
+33. The Chemical Brothers
+34. Daft Punk
+35. Enya
+36. Michael Jackson
+37. Black Label Society
+38. Def Leppard
+39. Guns N' Roses
+40. Backyard Babies
+41. Los Hermanos
+42. Tegan and Sara
+43. Final Fantasy
+44. Recoil
+45. 30 Seconds to Mars
+46. Charlie Brown Jr.
+47. Limp Bizkit
+48. Dido
+49. Depeche Mode
+50. Kasabian
+
+These recommendations are based on the user's existing preferences and aim to introduce similar artists that the user may enjoy.

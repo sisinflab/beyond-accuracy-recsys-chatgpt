@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. Chevelle
+3. Shinedown
+4. Three Days Grace
+5. Seether
+6. Breaking Benjamin
+7. Staind
+8. Papa Roach
+9. Theory of a Deadman
+10. Stone Sour
+11. Red
+12. Skillet
+13. Puddle of Mudd
+14. 10 Years
+15. Fuel
+16. Trapt
+17. Adelitas Way
+18. Drowning Pool
+19. Crossfade
+20. Evans Blue
+21. Saliva
+22. Sevendust
+23. Nonpoint
+24. Smile Empty Soul
+25. Art of Dying
+26. Egypt Central
+27. Sick Puppies
+28. Pop Evil
+29. Tantric
+30. Rev Theory
+31. Hinder
+32. Saving Abel
+33. Default
+34. 12 Stones
+35. Cold
+36. Earshot
+37. Trust Company
+38. The Veer Union
+39. Thornley
+40. Cavo
+41. Egypt Central
+42. Redlight King
+43. Aranda
+44. My Darkest Days
+45. Black Stone Cherry
+46. Hinder
+47. Rev Theory
+48. Art of Dying
+49. Pop Evil
+50. Sick Puppies

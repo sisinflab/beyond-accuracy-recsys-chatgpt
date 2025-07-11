@@ -1,0 +1,54 @@
+Based on the preferences of user 381, here are the top 50 book recommendations:
+
+1. Burned by Ellen Hopkins
+2. Tilt by Ellen Hopkins
+3. Tricks by Ellen Hopkins
+4. Crank by Ellen Hopkins
+5. The Hollow by Jessica Verday
+6. The Graveyard Book by Neil Gaiman
+7. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+8. The Giver by Lois Lowry
+9. The Maze Runner by James Dashner
+10. The Hunger Games by Suzanne Collins
+11. Divergent by Veronica Roth
+12. The Fault in Our Stars by John Green
+13. Thirteen Reasons Why by Jay Asher
+14. Speak by Laurie Halse Anderson
+15. Wintergirls by Laurie Halse Anderson
+16. The Perks of Being a Wallflower by Stephen Chbosky
+17. Looking for Alaska by John Green
+18. Paper Towns by John Green
+19. An Abundance of Katherines by John Green
+20. The Outsiders by S.E. Hinton
+21. The Catcher in the Rye by J.D. Salinger
+22. Lord of the Flies by William Golding
+23. To Kill a Mockingbird by Harper Lee
+24. The Great Gatsby by F. Scott Fitzgerald
+25. 1984 by George Orwell
+26. Brave New World by Aldous Huxley
+27. Fahrenheit 451 by Ray Bradbury
+28. The Handmaid's Tale by Margaret Atwood
+29. The Road by Cormac McCarthy
+30. Never Let Me Go by Kazuo Ishiguro
+31. The Girl with the Dragon Tattoo by Stieg Larsson
+32. Gone Girl by Gillian Flynn
+33. Sharp Objects by Gillian Flynn
+34. Dark Places by Gillian Flynn
+35. The Girl on the Train by Paula Hawkins
+36. Big Little Lies by Liane Moriarty
+37. The Husband's Secret by Liane Moriarty
+38. Sharp Objects by Gillian Flynn
+39. The Night Circus by Erin Morgenstern
+40. The Goldfinch by Donna Tartt
+41. The Secret History by Donna Tartt
+42. The Girl with the Pearl Earring by Tracy Chevalier
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Lovely Bones by Alice Sebold
+45. Room by Emma Donoghue
+46. The Help by Kathryn Stockett
+47. The Kite Runner by Khaled Hosseini
+48. A Thousand Splendid Suns by Khaled Hosseini
+49. The Book Thief by Markus Zusak
+50. The Messenger by Markus Zusak
+
+These recommendations are based on the similar themes, genres, and authors to the books liked by user 381.

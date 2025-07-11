@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Graceling by Kristin Cashore
+2. The Hunger Games by Suzanne Collins
+3. Throne of Glass by Sarah J. Maas
+4. The Mortal Instruments by Cassandra Clare
+5. Red Queen by Victoria Aveyard
+6. The Raven Boys by Maggie Stiefvater
+7. Shadow and Bone by Leigh Bardugo
+8. The Selection by Kiera Cass
+9. Divergent by Veronica Roth
+10. The Maze Runner by James Dashner
+11. The Lunar Chronicles by Marissa Meyer
+12. The Infernal Devices by Cassandra Clare
+13. The 5th Wave by Rick Yancey
+14. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+15. The Darkest Minds by Alexandra Bracken
+16. The Giver by Lois Lowry
+17. Uglies by Scott Westerfeld
+18. Legend by Marie Lu
+19. The Knife of Never Letting Go by Patrick Ness
+20. The Golden Compass by Philip Pullman
+21. The Alchemyst by Michael Scott
+22. Inkheart by Cornelia Funke
+23. The Lightning Thief by Rick Riordan
+24. The Magicians by Lev Grossman
+25. The Name of the Wind by Patrick Rothfuss
+26. The Night Circus by Erin Morgenstern
+27. The Book Thief by Markus Zusak
+28. The Secret History by Donna Tartt
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Nightingale by Kristin Hannah
+31. The Kite Runner by Khaled Hosseini
+32. The Help by Kathryn Stockett
+33. The Girl on the Train by Paula Hawkins
+34. The Fault in Our Stars by John Green
+35. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+36. The Catcher in the Rye by J.D. Salinger
+37. The Bell Jar by Sylvia Plath
+38. The Perks of Being a Wallflower by Stephen Chbosky
+39. To Kill a Mockingbird by Harper Lee
+40. The Great Gatsby by F. Scott Fitzgerald
+41. The Picture of Dorian Gray by Oscar Wilde
+42. The Count of Monte Cristo by Alexandre Dumas
+43. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+44. The Hobbit by J.R.R. Tolkien
+45. The Chronicles of Narnia by C.S. Lewis
+46. His Dark Materials by Philip Pullman
+47. The Lord of the Rings by J.R.R. Tolkien
+48. A Song of Ice and Fire by George R.R. Martin
+49. The Wheel of Time by Robert Jordan
+50. The Kingkiller Chronicle by Patrick Rothfuss
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and supernatural themes.

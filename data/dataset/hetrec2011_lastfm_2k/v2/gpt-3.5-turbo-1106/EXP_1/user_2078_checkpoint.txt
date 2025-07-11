@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. Pearl Jam
+3. Radiohead
+4. The Strokes
+5. Foo Fighters
+6. Muse
+7. The Killers
+8. Green Day
+9. Coldplay
+10. The White Stripes
+11. Franz Ferdinand
+12. The Smashing Pumpkins
+13. Blur
+14. The Verve
+15. Weezer
+16. The Cranberries
+17. Incubus
+18. Placebo
+19. Soundgarden
+20. R.E.M.
+21. The Offspring
+22. Beck
+23. Jane's Addiction
+24. Stone Temple Pilots
+25. Alice in Chains
+26. Bush
+27. 311
+28. Cake
+29. Modest Mouse
+30. Goo Goo Dolls
+31. Collective Soul
+32. Live
+33. Third Eye Blind
+34. Matchbox Twenty
+35. Counting Crows
+36. Everclear
+37. Semisonic
+38. Better Than Ezra
+39. Toad the Wet Sprocket
+40. Gin Blossoms
+41. Soul Asylum
+42. Fastball
+43. Vertical Horizon
+44. Tonic
+45. Dishwalla
+46. Fuel
+47. Marcy Playground
+48. Harvey Danger
+49. Lit
+50. Eve 6
+
+These recommendations are based on the user's liking of alternative rock, grunge, and indie music, as well as some elements of pop and electronic music.

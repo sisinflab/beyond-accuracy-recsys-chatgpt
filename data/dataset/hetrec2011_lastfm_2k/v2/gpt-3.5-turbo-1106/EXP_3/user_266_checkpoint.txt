@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 266:
+
+1. The Beatles
+2. Radiohead
+3. Pearl Jam
+4. Arctic Monkeys
+5. The Police
+6. Pink Floyd
+7. U2
+8. The Smiths
+9. The Strokes
+10. Modest Mouse
+11. The Stone Roses
+12. The Verve
+13. My Chemical Romance
+14. The Last Shadow Puppets
+15. Death Cab for Cutie
+16. Stereophonics
+17. Kaiser Chiefs
+18. The Fratellis
+19. The Kooks
+20. The Bravery
+21. Franz Ferdinand
+22. Muse
+23. Placebo
+24. Kasabian
+25. The Killers
+26. Razorlight
+27. The Cure
+28. Manic Street Preachers
+29. Oasis
+30. Snow Patrol
+31. Coldplay
+32. Keane
+33. Travis
+34. Doves
+35. Stars
+36. Simple Minds
+37. Morcheeba
+38. Alphaville
+39. Moby
+40. Bryan Adams
+41. Madonna
+42. Ladytron
+43. Roxette
+44. Aqualung
+45. Flunk
+46. Lily Allen
+47. Regina Spektor
+48. Demi Lovato
+49. P!nk
+50. Taylor Swift
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

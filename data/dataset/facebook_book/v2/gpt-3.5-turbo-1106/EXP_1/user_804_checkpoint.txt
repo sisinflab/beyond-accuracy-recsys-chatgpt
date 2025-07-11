@@ -1,0 +1,54 @@
+Based on the preferences of user 804, here are the top 50 book recommendations:
+
+1. Fruits Basket by Natsuki Takaya
+2. Death Note by Tsugumi Ohba
+3. Black Butler by Yana Toboso
+4. Ouran High School Host Club by Bisco Hatori
+5. The Graveyard Book by Neil Gaiman
+6. Coraline by Neil Gaiman
+7. The Giver by Lois Lowry
+8. The Maze Runner by James Dashner
+9. Divergent by Veronica Roth
+10. The Fault in Our Stars by John Green
+11. Paper Towns by John Green
+12. Looking for Alaska by John Green
+13. An Abundance of Katherines by John Green
+14. Will Grayson, Will Grayson by John Green and David Levithan
+15. The Perks of Being a Wallflower by Stephen Chbosky
+16. Thirteen Reasons Why by Jay Asher
+17. The Book Thief by Markus Zusak
+18. The Alchemist by Paulo Coelho
+19. The Catcher in the Rye by J.D. Salinger
+20. To Kill a Mockingbird by Harper Lee
+21. The Great Gatsby by F. Scott Fitzgerald
+22. 1984 by George Orwell
+23. Animal Farm by George Orwell
+24. Brave New World by Aldous Huxley
+25. Lord of the Flies by William Golding
+26. The Outsiders by S.E. Hinton
+27. The Chronicles of Narnia by C.S. Lewis
+28. Harry Potter series by J.K. Rowling
+29. Percy Jackson & the Olympians series by Rick Riordan
+30. The Hobbit by J.R.R. Tolkien
+31. The Lord of the Rings by J.R.R. Tolkien
+32. A Song of Ice and Fire series by George R.R. Martin
+33. The Hunger Games series by Suzanne Collins
+34. The Chronicles of Prydain series by Lloyd Alexander
+35. His Dark Materials series by Philip Pullman
+36. The Inheritance Cycle series by Christopher Paolini
+37. The Mortal Instruments series by Cassandra Clare
+38. The Infernal Devices series by Cassandra Clare
+39. The Lunar Chronicles series by Marissa Meyer
+40. The Selection series by Kiera Cass
+41. The Maze Runner series by James Dashner
+42. The Divergent series by Veronica Roth
+43. The Maze Runner series by James Dashner
+44. The Uglies series by Scott Westerfeld
+45. The Giver Quartet series by Lois Lowry
+46. The Lunar Chronicles series by Marissa Meyer
+47. The Grisha Trilogy series by Leigh Bardugo
+48. The Raven Cycle series by Maggie Stiefvater
+49. The Darkest Minds series by Alexandra Bracken
+50. The Chaos Walking series by Patrick Ness
+
+These recommendations are based on the user's interest in a variety of genres and authors, and aim to provide a diverse selection of books that they may enjoy.

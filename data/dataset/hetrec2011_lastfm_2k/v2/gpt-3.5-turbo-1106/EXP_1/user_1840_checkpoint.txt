@@ -1,0 +1,54 @@
+Based on user 1840's preferences, here are the top 50 recommendations:
+
+1. Enya
+2. Fleetwood Mac
+3. Elton John
+4. Madonna
+5. Michael Jackson
+6. Mariah Carey
+7. Whitney Houston
+8. ABBA
+9. Adele
+10. David Bowie
+11. Queen
+12. Pink Floyd
+13. Shania Twain
+14. Lionel Richie
+15. Phil Collins
+16. George Michael
+17. Stevie Wonder
+18. The Carpenters
+19. Billy Joel
+20. Rod Stewart
+21. Tina Turner
+22. The Eagles
+23. Neil Diamond
+24. Barbra Streisand
+25. The Rolling Stones
+26. Bruce Springsteen
+27. Bob Dylan
+28. Prince
+29. The Beach Boys
+30. Simon & Garfunkel
+31. The Supremes
+32. The Temptations
+33. The Four Tops
+34. The Jackson 5
+35. The Monkees
+36. The Mamas & The Papas
+37. The Byrds
+38. The Doors
+39. The Who
+40. Led Zeppelin
+41. The Kinks
+42. The Velvet Underground
+43. The Yardbirds
+44. The Animals
+45. The Hollies
+46. The Turtles
+47. The Lovin' Spoonful
+48. The Zombies
+49. The Moody Blues
+50. The Byrds
+
+These recommendations are based on the user's liking of artists with similar musical styles and genres.

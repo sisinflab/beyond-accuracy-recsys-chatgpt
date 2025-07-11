@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Guns N' Roses
+2. The Clash
+3. Led Zeppelin
+4. The Rolling Stones
+5. Alice in Chains
+6. Megadeth
+7. Slayer
+8. Oasis
+9. Coldplay
+10. AFI
+11. Soda Stereo
+12. Audioslave
+13. Taking Back Sunday
+14. Coheed and Cambria
+15. John Lennon
+16. A Perfect Circle
+17. My Chemical Romance
+18. George Harrison
+19. Avril Lavigne
+20. Alkaline Trio
+21. Pantera
+22. Manu Chao
+23. Katy Perry
+24. Sum 41
+25. Arctic Monkeys
+26. Relient K
+27. Paul McCartney & Wings
+28. Muse
+29. Bob Dylan
+30. O.S.T.R.
+31. Paul McCartney
+32. Avenged Sevenfold
+33. a-ha
+34. Beck
+35. Weezer
+36. The Doors
+37. Massive Attack
+38. Chuck Berry
+39. Hatebreed
+40. The Runaways
+41. Nine Inch Nails
+42. AC/DC
+43. Interpol
+44. Coma
+45. Taylor Swift
+46. Phoenix
+47. Ramones
+48. The Offspring
+49. Riverside
+50. Marilyn Manson

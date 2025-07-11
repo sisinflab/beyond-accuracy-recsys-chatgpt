@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1289:
+
+1. Joy Division
+2. Massive Attack
+3. The Cribs
+4. Andrew Bird
+5. Sufjan Stevens
+6. The National
+7. A Tribe Called Quest
+8. Mr. Bungle
+9. The Mars Volta
+10. The Doors
+11. R.E.M.
+12. Infected Mushroom
+13. The Decemberists
+14. Muse
+15. The Smiths
+16. Portishead
+17. The Cure
+18. The Clash
+19. Nine Inch Nails
+20. The Beatles
+21. Pink Floyd
+22. Arcade Fire
+23. Nirvana
+24. The White Stripes
+25. Beck
+26. Arctic Monkeys
+27. Placebo
+28. Death from Above 1979
+29. David Bowie
+30. Weezer
+31. Two Door Cinema Club
+32. Manic Street Preachers
+33. Kings of Leon
+34. Queen
+35. Blur
+36. The Killers
+37. Beirut
+38. Robbie Williams
+39. Coldplay
+40. Jimmy Eat World
+41. David Gilmour
+42. Tokyo Police Club
+43. Metric
+44. Eminem
+45. The Mars Volta
+46. Madonna
+47. Kid Cudi
+48. Crystal Castles
+49. The Cribs
+50. AC/DC
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their current tastes.

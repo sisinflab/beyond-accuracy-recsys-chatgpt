@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Great Gatsby by F. Scott Fitzgerald
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Grapes of Wrath by John Steinbeck
+6. Catch-22 by Joseph Heller
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Bell Jar by Sylvia Plath
+9. The Picture of Dorian Gray by Oscar Wilde
+10. Crime and Punishment by Fyodor Dostoevsky
+11. The Stranger by Albert Camus
+12. The Road by Cormac McCarthy
+13. The Handmaid's Tale by Margaret Atwood
+14. The Sun Also Rises by Ernest Hemingway
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Alchemist by Paulo Coelho
+17. The Kite Runner by Khaled Hosseini
+18. The Book Thief by Markus Zusak
+19. The Secret History by Donna Tartt
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Name of the Wind by Patrick Rothfuss
+22. The Night Circus by Erin Morgenstern
+23. The Goldfinch by Donna Tartt
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Help by Kathryn Stockett
+26. The Girl with the Dragon Tattoo by Stieg Larsson
+27. The Hunger Games by Suzanne Collins
+28. The Martian by Andy Weir
+29. The Da Vinci Code by Dan Brown
+30. The Girl on the Train by Paula Hawkins
+31. The Silent Patient by Alex Michaelides
+32. The Nightingale by Kristin Hannah
+33. The Tattooist of Auschwitz by Heather Morris
+34. The Alice Network by Kate Quinn
+35. The Glass Castle by Jeannette Walls
+36. The Immortalists by Chloe Benjamin
+37. The Light Between Oceans by M.L. Stedman
+38. The Nightingale by Kristin Hannah
+39. The Tattooist of Auschwitz by Heather Morris
+40. The Alice Network by Kate Quinn
+41. The Glass Castle by Jeannette Walls
+42. The Immortalists by Chloe Benjamin
+43. The Light Between Oceans by M.L. Stedman
+44. The Night Circus by Erin Morgenstern
+45. The Goldfinch by Donna Tartt
+46. The Secret Life of Bees by Sue Monk Kidd
+47. The Help by Kathryn Stockett
+48. The Girl with the Dragon Tattoo by Stieg Larsson
+49. The Hunger Games by Suzanne Collins
+50. The Martian by Andy Weir
+
+These recommendations are based on the user's interest in classic literature, mystery, and coming-of-age stories.

@@ -1,0 +1,54 @@
+Based on user 201's preferences, here are the top 50 recommendations for them:
+
+1. Depeche Mode
+2. Evanescence
+3. Muse
+4. Glee Cast
+5. Avril Lavigne
+6. Lady Gaga
+7. Paramore
+8. Rihanna
+9. Shakira
+10. Within Temptation
+11. The Gathering
+12. Anathema
+13. Leaves' Eyes
+14. Blackfield
+15. The Cardigans
+16. Portishead
+17. Alicia Keys
+18. The Bird and The Bee
+19. Roxette
+20. Lily Allen
+21. Rammstein
+22. Helloween
+23. Britney Spears
+24. Madonna
+25. Christina Aguilera
+26. Katy Perry
+27. Taylor Swift
+28. Beyoncé
+29. U2
+30. 30 Seconds to Mars
+31. Pink Floyd
+32. Kylie Minogue
+33. Miley Cyrus
+34. Radiohead
+35. Ke$ha
+36. Duran Duran
+37. Coldplay
+38. Blur
+39. Arctic Monkeys
+40. Placebo
+41. The Killers
+42. Nirvana
+43. Iron Maiden
+44. Amy Winehouse
+45. Led Zeppelin
+46. Metallica
+47. Michael Jackson
+48. Pearl Jam
+49. a-ha
+50. Björk
+
+These recommendations are based on the user's liking of similar artists and are re-ranked to reflect their preferences.

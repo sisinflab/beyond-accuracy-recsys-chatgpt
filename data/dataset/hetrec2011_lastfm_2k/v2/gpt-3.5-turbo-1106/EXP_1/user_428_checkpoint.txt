@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pet Shop Boys
+2. Tears for Fears
+3. Simple Minds
+4. Yazoo
+5. The Human League
+6. Erasure
+7. Frankie Goes to Hollywood
+8. Soft Cell
+9. Visage
+10. Ultravox
+11. OMD
+12. Bronski Beat
+13. Dead or Alive
+14. Heaven 17
+15. Thompson Twins
+16. a-ha
+17. Eurythmics
+18. ABC
+19. Cyndi Lauper
+20. Culture Club
+21. New Order
+22. Kylie Minogue
+23. The B-52's
+24. Howard Jones
+25. Wham!
+26. Blondie
+27. The Cure
+28. Kim Wilde
+29. Ladytron
+30. Michael Jackson
+31. Electronic
+32. Saint Etienne
+33. Spandau Ballet
+34. Annie Lennox
+35. Morrissey
+36. Duran Duran
+37. Arcadia
+38. Depeche Mode
+39. Scissor Sisters
+40. Madonna
+41. David Bowie
+42. Prince
+43. George Michael
+44. Janet Jackson
+45. Roxy Music
+46. Talking Heads
+47. The Smiths
+48. Joy Division
+49. Siouxsie and the Banshees
+50. The Pet Shop Boys
+
+These recommendations are based on the user's liking of similar artists and are tailored to their specific taste in music.

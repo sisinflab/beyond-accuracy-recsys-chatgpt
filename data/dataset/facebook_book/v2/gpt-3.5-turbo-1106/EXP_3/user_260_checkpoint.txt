@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations re-ranked for user 260:
+
+1. The Picture of Dorian Gray
+2. Divine Comedy
+3. A Clockwork Orange
+4. Nineteen Eighty-Four
+5. Dracula
+6. Lolita
+7. The Bell Jar
+8. Interview with the Vampire
+9. The Lovely Bones
+10. My Ántonia
+11. The Island of Doctor Moreau
+12. Frankenstein
+13. Inheritance (novel)
+14. Dreams from My Father by Barack Obama
+15. The Audacity of Hope by Barack Obama
+16. The Hamlet by William Faulkner
+17. Prozac Nation by Elizabeth Wurtzel
+18. Boy's Life (novel) by Robert R. McCammon
+19. Beloved (novel) by Toni Morrison
+20. Slaughterhouse-Five
+21. All Quiet on the Western Front
+22. Adventures of Huckleberry Finn
+23. The Canterbury Tales
+24. The Wonderful Wizard of Oz
+25. The Zombie Survival Guide
+26. Battle Royale
+27. The Seventh Tower
+28. City of Bones (Mortal Instruments)
+29. Harry Potter
+30. Les Misérables
+31. The Immortal Life of Henrietta Lacks
+32. Game Change
+33. Pinheads and Patriots
+34. Of Mice and Men
+35. Eat, Pray, Love
+36. The Mists of Avalon
+37. The Sevenwaters Trilogy
+38. Love, Stargirl
+39. The Gospel of Mark
+40. New Living Translation
+41. Three Cups of Tea
+42. Goodnight Moon
+43. Angels & Demons
+44. In Defense of Food
+45. Bible
+46. The Gospel of Matthew
+47. Book of Revelation
+48. Decision Points
+49. Twilight (series)
+50. King James Version
+
+These recommendations are based on the user's previous likes and are re-ranked to provide a tailored list of books that the user may enjoy.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Lord of the Flies by William Golding
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Catcher in the Rye by J.D. Salinger
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. Fahrenheit 451 by Ray Bradbury
+8. The Road by Cormac McCarthy
+9. The Giver by Lois Lowry
+10. The Hunger Games by Suzanne Collins
+11. The Book Thief by Markus Zusak
+12. The Kite Runner by Khaled Hosseini
+13. One Hundred Years of Solitude by Gabriel Garcia Marquez
+14. The Alchemist by Paulo Coelho
+15. The Bell Jar by Sylvia Plath
+16. The Outsiders by S.E. Hinton
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Handmaid's Tale by Margaret Atwood
+19. 1984 by George Orwell
+20. Lord of the Flies by William Golding
+21. Slaughterhouse-Five by Kurt Vonnegut
+22. The Catcher in the Rye by J.D. Salinger
+23. To Kill a Mockingbird by Harper Lee
+24. The Great Gatsby by F. Scott Fitzgerald
+25. Fahrenheit 451 by Ray Bradbury
+26. The Road by Cormac McCarthy
+27. The Giver by Lois Lowry
+28. The Hunger Games by Suzanne Collins
+29. The Book Thief by Markus Zusak
+30. The Kite Runner by Khaled Hosseini
+31. One Hundred Years of Solitude by Gabriel Garcia Marquez
+32. The Alchemist by Paulo Coelho
+33. The Bell Jar by Sylvia Plath
+34. The Outsiders by S.E. Hinton
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. The Handmaid's Tale by Margaret Atwood
+37. 1984 by George Orwell
+38. Lord of the Flies by William Golding
+39. Slaughterhouse-Five by Kurt Vonnegut
+40. The Catcher in the Rye by J.D. Salinger
+41. To Kill a Mockingbird by Harper Lee
+42. The Great Gatsby by F. Scott Fitzgerald
+43. Fahrenheit 451 by Ray Bradbury
+44. The Road by Cormac McCarthy
+45. The Giver by Lois Lowry
+46. The Hunger Games by Suzanne Collins
+47. The Book Thief by Markus Zusak
+48. The Kite Runner by Khaled Hosseini
+49. One Hundred Years of Solitude by Gabriel Garcia Marquez
+50. The Alchemist by Paulo Coelho
+
+These recommendations are based on the user's interest in dystopian literature, young adult fiction, and novels with social and political themes.

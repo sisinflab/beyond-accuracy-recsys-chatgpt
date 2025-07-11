@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. To Kill a Mockingbird by Harper Lee
+3. Catch-22 by Joseph Heller
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Grapes of Wrath by John Steinbeck
+8. The Bell Jar by Sylvia Plath
+9. Fahrenheit 451 by Ray Bradbury
+10. The Sun Also Rises by Ernest Hemingway
+11. The Road by Cormac McCarthy
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Stranger by Albert Camus
+14. The Old Man and the Sea by Ernest Hemingway
+15. A Clockwork Orange by Anthony Burgess
+16. The Sound and the Fury by William Faulkner
+17. The Brothers Karamazov by Fyodor Dostoevsky
+18. Crime and Punishment by Fyodor Dostoevsky
+19. The Road to Wigan Pier by George Orwell
+20. The Trial by Franz Kafka
+21. The Plague by Albert Camus
+22. The Idiot by Fyodor Dostoevsky
+23. The Master and Margarita by Mikhail Bulgakov
+24. The Stranger by Harlan Coben
+25. The Metamorphosis by Franz Kafka
+26. The Unbearable Lightness of Being by Milan Kundera
+27. The Glass Menagerie by Tennessee Williams
+28. The Sound of Waves by Yukio Mishima
+29. The Wind-Up Bird Chronicle by Haruki Murakami
+30. The Remains of the Day by Kazuo Ishiguro
+31. The Shadow of the Wind by Carlos Ruiz Zafon
+32. The Name of the Wind by Patrick Rothfuss
+33. The Night Circus by Erin Morgenstern
+34. The Alchemist by Paulo Coelho
+35. The Secret History by Donna Tartt
+36. The Goldfinch by Donna Tartt
+37. The Kite Runner by Khaled Hosseini
+38. The Book Thief by Markus Zusak
+39. The Secret Life of Bees by Sue Monk Kidd
+40. The Poisonwood Bible by Barbara Kingsolver
+41. The Color Purple by Alice Walker
+42. The Joy Luck Club by Amy Tan
+43. The Handmaid's Tale by Margaret Atwood
+44. The Help by Kathryn Stockett
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Da Vinci Code by Dan Brown
+47. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+48. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+49. The Book of Negroes by Lawrence Hill
+50. The Art of Racing in the Rain by Garth Stein
+
+These recommendations are based on the user's interest in classic literature, dystopian themes, and thought-provoking narratives.

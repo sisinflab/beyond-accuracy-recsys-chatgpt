@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. The Mountain Goats
+2. Modest Mouse
+3. Pixies
+4. Explosions in the Sky
+5. Built to Spill
+6. Rilo Kiley
+7. Cat Power
+8. The National
+9. Thrice
+10. The Used
+11. My Chemical Romance
+12. The Album Leaf
+13. 65daysofstatic
+14. White Lies
+15. Angels & Airwaves
+16. Bloc Party
+17. Jack's Mannequin
+18. Chiodos
+19. dredg
+20. Amy Winehouse
+21. Sia
+22. Bright Eyes
+23. The Cure
+24. Marilyn Manson
+25. Kanye West
+26. Kid Cudi
+27. Amy Macdonald
+28. A Day to Remember
+29. Four Year Strong
+30. All Time Low
+31. Sum 41
+32. blink-182
+33. +44
+34. 30 Seconds to Mars
+35. Architecture in Helsinki
+36. Jack Johnson
+37. Goo Goo Dolls
+38. Maria Mena
+39. P!nk
+40. Katy Perry
+41. Adam Lambert
+42. Yeah Yeah Yeahs
+43. Alexisonfire
+44. Darin
+45. Sarah Connor
+46. Kerli
+47. Bruce Springsteen
+48. John Williams
+49. Tenacious D
+50. The Used
+
+This ranking is based on the user's existing preferences and is designed to provide recommendations that align with their current tastes.

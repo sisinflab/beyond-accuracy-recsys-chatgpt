@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations for user 652:
+
+1. Nine Inch Nails
+2. System of a Down
+3. Marilyn Manson
+4. Deftones
+5. Korn
+6. Tool
+7. Radiohead
+8. Mr. Bungle
+9. Gorillaz
+10. Incubus
+11. Massive Attack
+12. Rammstein
+13. Skinny Puppy
+14. Mindless Self Indulgence
+15. Dope
+16. Meshuggah
+17. Coma
+18. Mudvayne
+19. Avenged Sevenfold
+20. Blur
+21. Britney Spears
+22. Lady Gaga
+23. Christina Aguilera
+24. Madonna
+25. Rihanna
+26. Shakira
+27. Paramore
+28. Katy Perry
+29. Avril Lavigne
+30. Taylor Swift
+31. Glee Cast
+32. Beyoncé
+33. 30 Seconds to Mars
+34. Muse
+35. Pink Floyd
+36. Kylie Minogue
+37. Miley Cyrus
+38. Ke$ha
+39. Duran Duran
+40. Coldplay
+41. Arctic Monkeys
+42. Placebo
+43. The Killers
+44. Nirvana
+45. Iron Maiden
+46. Led Zeppelin
+47. Metallica
+48. Michael Jackson
+49. Pearl Jam
+50. a-ha

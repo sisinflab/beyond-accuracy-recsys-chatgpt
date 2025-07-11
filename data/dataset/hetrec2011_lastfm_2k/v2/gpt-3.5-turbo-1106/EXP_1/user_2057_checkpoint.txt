@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The All-American Rejects
+2. Weezer
+3. The Fray
+4. The Killers
+5. Death Cab for Cutie
+6. The Bravery
+7. The Academy Is...
+8. Dashboard Confessional
+9. Yellowcard
+10. Fall Out Boy
+11. Panic! At The Disco
+12. Paramore
+13. My Chemical Romance
+14. Taking Back Sunday
+15. Brand New
+16. The Used
+17. Something Corporate
+18. Anberlin
+19. Motion City Soundtrack
+20. Plain White T's
+21. The Starting Line
+22. New Found Glory
+23. All Time Low
+24. Boys Like Girls
+25. Mayday Parade
+26. Cute Is What We Aim For
+27. Cartel
+28. Forever the Sickest Kids
+29. The Maine
+30. Every Avenue
+31. The Red Jumpsuit Apparatus
+32. 3OH!3
+33. Cobra Starship
+34. Gym Class Heroes
+35. All-American Rejects
+36. The Click Five
+37. Simple Plan
+38. Bowling for Soup
+39. Good Charlotte
+40. Sum 41
+41. Green Day
+42. Blink-182
+43. Jimmy Eat World
+44. New Found Glory
+45. Yellowcard
+46. The Offspring
+47. Simple Plan
+48. All Time Low
+49. Fall Out Boy
+50. Paramore
+
+These recommendations are based on the user's liking of similar artists and genres.

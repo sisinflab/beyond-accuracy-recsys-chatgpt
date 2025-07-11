@@ -1,0 +1,55 @@
+Based on user 1277's preferences, here are the top-50 book recommendations:
+
+1. The Catcher in the Rye by J. D. Salinger
+2. Little Women by Louisa May Alcott
+3. The Bell Jar by Sylvia Plath
+4. Fahrenheit 451 by Ray Bradbury
+5. The Giver by Lois Lowry
+6. Bridge to Terabithia by Katherine Paterson
+7. Holes by Louis Sachar
+8. The BFG by Roald Dahl
+9. Water for Elephants by Sara Gruen
+10. Hoot by Carl Hiaasen
+11. The Sisterhood of the Traveling Pants by Ann Brashares
+12. Dress Your Family in Corduroy and Denim by David Sedaris
+13. Naked by David Sedaris
+14. King Dork by Frank Portman
+
+15. The Road by Cormac McCarthy
+16. The Little Prince by Antoine de Saint-Exupéry
+17. The Great Gatsby by F. Scott Fitzgerald
+18. To Kill a Mockingbird by Harper Lee
+19. Brave New World by Aldous Huxley
+20. The Hunger Games by Suzanne Collins
+21. Twilight by Stephenie Meyer
+22. The Lovely Bones by Alice Sebold
+23. The Virgin Suicides by Jeffrey Eugenides
+24. The Notebook by Nicholas Sparks
+25. Wuthering Heights by Emily Brontë
+26. Jane Eyre by Charlotte Brontë
+27. The Things They Carried by Tim O'Brien
+28. Stranger than Fiction: True Stories by Chuck Palahniuk
+29. The Last Lecture by Randy Pausch
+30. The Stranger by Albert Camus
+31. A Portrait of the Artist as a Young Man by James Joyce
+32. The Call of the Wild by Jack London
+33. The Jungle Book by Rudyard Kipling
+34. Anne of Green Gables by L. M. Montgomery
+35. Matilda by Roald Dahl
+36. Persepolis by Marjane Satrapi
+37. The Little Prince by Antoine de Saint-Exupéry
+38. For One More Day by Mitch Albom
+39. The Wish List by Eoin Colfer
+40. Les Misérables by Victor Hugo
+41. Matched by Ally Condie
+42. Servant of the Bones by Anne Rice
+43. Belinda by Maria Edgeworth
+44. Johnny the Homicidal Maniac by Jhonen Vasquez
+45. Wanted by Mark Millar
+46. Look Me in the Eye by John Elder Robison
+47. Stainless Longganisa by Bob Ong
+48. Inheritance by Christopher Paolini
+49. A Million Little Pieces by James Frey
+50. The Civil War: A Narrative by Shelby Foote
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

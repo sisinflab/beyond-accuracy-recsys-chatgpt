@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J.R.R. Tolkien
+2. The Hunger Games by Suzanne Collins
+3. The Chronicles of Narnia by C.S. Lewis
+4. Divergent by Veronica Roth
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Maze Runner by James Dashner
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Alchemist by Paulo Coelho
+9. The Catcher in the Rye by J.D. Salinger
+10. To Kill a Mockingbird by Harper Lee
+11. The Great Gatsby by F. Scott Fitzgerald
+12. 1984 by George Orwell
+13. The Book Thief by Markus Zusak
+14. The Giver by Lois Lowry
+15. The Fault in Our Stars by John Green
+16. The Perks of Being a Wallflower by Stephen Chbosky
+17. The Kite Runner by Khaled Hosseini
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Help by Kathryn Stockett
+20. The Night Circus by Erin Morgenstern
+21. The Goldfinch by Donna Tartt
+22. The Handmaid's Tale by Margaret Atwood
+23. The Road by Cormac McCarthy
+24. The Lovely Bones by Alice Sebold
+25. The Glass Castle by Jeannette Walls
+26. The Secret History by Donna Tartt
+27. The Shadow of the Wind by Carlos Ruiz Zafón
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+30. The Name of the Wind by Patrick Rothfuss
+31. The Nightingale by Kristin Hannah
+32. The Martian by Andy Weir
+33. The Silent Patient by Alex Michaelides
+34. The Tattooist of Auschwitz by Heather Morris
+35. The Alice Network by Kate Quinn
+36. The Light Between Oceans by M.L. Stedman
+37. The Nightingale by Kristin Hannah
+38. The Martian by Andy Weir
+39. The Silent Patient by Alex Michaelides
+40. The Tattooist of Auschwitz by Heather Morris
+41. The Alice Network by Kate Quinn
+42. The Light Between Oceans by M.L. Stedman
+43. The Nightingale by Kristin Hannah
+44. The Martian by Andy Weir
+45. The Silent Patient by Alex Michaelides
+46. The Tattooist of Auschwitz by Heather Morris
+47. The Alice Network by Kate Quinn
+48. The Light Between Oceans by M.L. Stedman
+49. The Nightingale by Kristin Hannah
+50. The Martian by Andy Weir
+
+These recommendations are based on the user's interest in fantasy, mystery, and thriller genres, as well as popular and classic literature.

@@ -1,0 +1,52 @@
+Based on user 1118's preferences, here are the top 50 book recommendations:
+
+1. The Book Thief
+2. A Thousand Splendid Suns
+3. To Kill a Mockingbird
+4. Night (book) by Elie Wiesel
+5. Nineteen Eighty-Four by George Orwell
+6. The Scarlet Letter by Nathaniel Hawthorne
+7. Frankenstein by Mary Shelley
+8. The Kite Runner by Khaled Hosseini
+9. Uglies by Scott Westerfeld
+10. The Sisterhood of the Traveling Pants (novel) by Ann Brashares
+11. The Winter's Tale
+12. Iliad
+13. Macbeth
+14. The Outsiders (novel)
+15. Haunted (The Mediator)
+16. Maximum Ride
+17. The Prestige
+18. The Hobbit
+19. Bible
+20. Harry Potter
+21. Lolita
+22. Inferno (Dante)
+23. Persuasion (novel)
+24. Stargirl (novel)
+25. Eragon
+26. The Prodigal Daughter
+27. Speak (novel)
+28. The Da Vinci Code
+29. Hannibal (novel)
+30. Old Farmer's Almanac
+31. Encyclopædia Britannica
+32. The Hardy Boys
+33. The Shack
+34. The Chronicles of Narnia: Prince Caspian
+35. A Wrinkle in Time
+36. Teaching with Calvin and Hobbes
+37. Fullmetal Alchemist
+38. Dear John (novel)
+39. The Westing Game
+40. The Mists of Avalon
+41. Divine Comedy
+42. The Great Gatsby
+43. Brisingr
+44. The Wedding (Steel novel)
+45. The Watchmen (novel)
+46. The Autobiography of Malcolm X
+47. So Long, and Thanks for All the Fish
+48. The Giver
+49. Ulysses (novel)
+50. Misery (novel)

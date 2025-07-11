@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Nick Cave and the Bad Seeds
+2. Leonard Cohen
+3. Lou Reed
+4. Iggy Pop
+5. The Smiths
+6. Joy Division
+7. The Cure
+8. Talking Heads
+9. Elvis Costello
+10. The Velvet Underground
+11. PJ Harvey
+12. Sonic Youth
+13. The Strokes
+14. Interpol
+15. Arctic Monkeys
+16. The White Stripes
+17. Franz Ferdinand
+18. The Kills
+19. Yeah Yeah Yeahs
+20. The Black Keys
+21. The National
+22. Arcade Fire
+23. Modest Mouse
+24. Spoon
+25. Vampire Weekend
+26. Tame Impala
+27. The War on Drugs
+28. LCD Soundsystem
+29. MGMT
+30. Phoenix
+31. Foster the People
+32. The Shins
+33. Death Cab for Cutie
+34. The Postal Service
+35. Belle and Sebastian
+36. The Flaming Lips
+37. Neutral Milk Hotel
+38. Sufjan Stevens
+39. Fleet Foxes
+40. Bon Iver
+41. Father John Misty
+42. Mac DeMarco
+43. Courtney Barnett
+44. Angel Olsen
+45. Mitski
+46. Car Seat Headrest
+47. King Krule
+48. Beach House
+49. Tame Impala
+50. Unknown Mortal Orchestra
+
+These recommendations are based on the user's liking of similar artists and genres.

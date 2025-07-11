@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Pride and Prejudice by Jane Austen
+4. The Hobbit by J.R.R. Tolkien
+5. The Lord of the Rings by J.R.R. Tolkien
+6. The Chronicles of Narnia by C.S. Lewis
+7. The Alchemist by Paulo Coelho
+8. The Kite Runner by Khaled Hosseini
+9. The Book Thief by Markus Zusak
+10. The Hunger Games by Suzanne Collins
+11. The Fault in Our Stars by John Green
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. Gone with the Wind by Margaret Mitchell
+14. The Grapes of Wrath by John Steinbeck
+15. The Road by Cormac McCarthy
+16. The Handmaid's Tale by Margaret Atwood
+17. The Bell Jar by Sylvia Plath
+18. The Sun Also Rises by Ernest Hemingway
+19. One Hundred Years of Solitude by Gabriel Garcia Marquez
+20. The Old Man and the Sea by Ernest Hemingway
+21. The Stranger by Albert Camus
+22. The Count of Monte Cristo by Alexandre Dumas
+23. The Scarlet Letter by Nathaniel Hawthorne
+24. The Adventures of Huckleberry Finn by Mark Twain
+25. The Secret Garden by Frances Hodgson Burnett
+26. Little Women by Louisa May Alcott
+27. Anne of Green Gables by L.M. Montgomery
+28. Wuthering Heights by Emily Bronte
+29. Jane Eyre by Charlotte Bronte
+30. Moby-Dick by Herman Melville
+31. Frankenstein by Mary Shelley
+32. The War of the Worlds by H.G. Wells
+33. The Time Machine by H.G. Wells
+34. The Call of the Wild by Jack London
+35. White Fang by Jack London
+36. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+37. Treasure Island by Robert Louis Stevenson
+38. The Three Musketeers by Alexandre Dumas
+39. The Picture of Dorian Gray by Oscar Wilde
+40. Dracula by Bram Stoker
+41. The Catcher in the Rye by J.D. Salinger
+42. The Bean Trees by Barbara Kingsolver
+43. The Great Gatsby by F. Scott Fitzgerald
+44. Inkheart by Cornelia Funke
+45. The Outsiders by S.E. Hinton
+46. A Tree Grows in Brooklyn by Betty Smith
+47. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+48. Harry Potter and the Chamber of Secrets by J.K. Rowling
+49. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+50. Harry Potter and the Goblet of Fire by J.K. Rowling
+
+These recommendations are based on the user's liking of specific authors and genres.

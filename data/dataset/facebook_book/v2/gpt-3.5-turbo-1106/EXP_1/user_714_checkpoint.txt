@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fear and Loathing in Las Vegas by Hunter S. Thompson
+2. Siddhartha by Hermann Hesse
+3. On the Road by Jack Kerouac
+4. Post Office by Charles Bukowski
+5. The Electric Kool-Aid Acid Test by Tom Wolfe
+6. The Teachings of Don Juan by Carlos Castaneda
+7. The Dharma Bums by Jack Kerouac
+8. The Doors of Perception and Heaven and Hell by Aldous Huxley
+9. The Catcher in the Rye by J.D. Salinger
+10. The Sun Also Rises by Ernest Hemingway
+11. The Great Gatsby by F. Scott Fitzgerald
+12. The Old Man and the Sea by Ernest Hemingway
+13. The Sound and the Fury by William Faulkner
+14. As I Lay Dying by William Faulkner
+15. The Grapes of Wrath by John Steinbeck
+16. One Flew Over the Cuckoo's Nest by Ken Kesey
+17. The Bell Jar by Sylvia Plath
+18. Brave New World by Aldous Huxley
+19. 1984 by George Orwell
+20. Animal Farm by George Orwell
+21. Slaughterhouse-Five by Kurt Vonnegut
+22. Cat's Cradle by Kurt Vonnegut
+23. Breakfast of Champions by Kurt Vonnegut
+24. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+25. The Alchemist by Paulo Coelho
+26. The Little Prince by Antoine de Saint-Exupéry
+27. The Stranger by Albert Camus
+28. The Plague by Albert Camus
+29. Crime and Punishment by Fyodor Dostoevsky
+30. The Brothers Karamazov by Fyodor Dostoevsky
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Importance of Being Earnest by Oscar Wilde
+33. The Glass Menagerie by Tennessee Williams
+34. A Streetcar Named Desire by Tennessee Williams
+35. The Road by Cormac McCarthy
+36. Blood Meridian by Cormac McCarthy
+37. East of Eden by John Steinbeck
+38. Of Mice and Men by John Steinbeck
+39. The Call of the Wild by Jack London
+40. White Fang by Jack London
+41. The Jungle by Upton Sinclair
+42. The Grapes of Wrath by John Steinbeck
+43. The Pearl by John Steinbeck
+44. The Martian by Andy Weir
+45. Ready Player One by Ernest Cline
+46. Dune by Frank Herbert
+47. Neuromancer by William Gibson
+48. Snow Crash by Neal Stephenson
+49. The Left Hand of Darkness by Ursula K. Le Guin
+50. The Dispossessed by Ursula K. Le Guin
+
+These recommendations are based on the user's interest in counterculture, classic literature, and philosophical themes.

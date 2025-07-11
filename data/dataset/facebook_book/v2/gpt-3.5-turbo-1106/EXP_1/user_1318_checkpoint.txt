@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Emma by Jane Austen
+3. Persuasion by Jane Austen
+4. Mansfield Park by Jane Austen
+5. Northanger Abbey by Jane Austen
+6. Wuthering Heights by Emily Bronte
+7. Jane Eyre by Charlotte Bronte
+8. Great Expectations by Charles Dickens
+9. To Kill a Mockingbird by Harper Lee
+10. The Catcher in the Rye by J.D. Salinger
+11. 1984 by George Orwell
+12. Animal Farm by George Orwell
+13. The Great Gatsby by F. Scott Fitzgerald
+14. The Grapes of Wrath by John Steinbeck
+15. Of Mice and Men by John Steinbeck
+16. The Sound and the Fury by William Faulkner
+17. As I Lay Dying by William Faulkner
+18. Light in August by William Faulkner
+19. A Farewell to Arms by Ernest Hemingway
+20. For Whom the Bell Tolls by Ernest Hemingway
+21. The Old Man and the Sea by Ernest Hemingway
+22. A Walk to Remember by Nicholas Sparks
+23. The Notebook by Nicholas Sparks
+24. Dear John by Nicholas Sparks
+25. The Last Song by Nicholas Sparks
+26. Message in a Bottle by Nicholas Sparks
+27. The Bridges of Madison County by Robert James Waller
+28. The Fault in Our Stars by John Green
+29. Looking for Alaska by John Green
+30. Paper Towns by John Green
+31. The Sun Also Rises by Ernest Hemingway
+32. East of Eden by John Steinbeck
+33. The Winter of Our Discontent by John Steinbeck
+34. The Pearl by John Steinbeck
+35. The House of the Spirits by Isabel Allende
+36. Love in the Time of Cholera by Gabriel Garcia Marquez
+37. One Hundred Years of Solitude by Gabriel Garcia Marquez
+38. The Alchemist by Paulo Coelho
+39. Brida by Paulo Coelho
+40. Veronika Decides to Die by Paulo Coelho
+41. The Zahir by Paulo Coelho
+42. The Valkyries by Paulo Coelho
+43. The Witch of Portobello by Paulo Coelho
+44. Eleven Minutes by Paulo Coelho
+45. The Winner Stands Alone by Paulo Coelho
+46. The Devil and Miss Prym by Paulo Coelho
+47. By the River Piedra I Sat Down and Wept by Paulo Coelho
+48. The Fifth Mountain by Paulo Coelho
+49. The Pilgrimage by Paulo Coelho
+50. The Spy by Paulo Coelho
+
+These recommendations are based on the user's interest in classic literature, romance novels, and works by Nicholas Sparks and William Faulkner.

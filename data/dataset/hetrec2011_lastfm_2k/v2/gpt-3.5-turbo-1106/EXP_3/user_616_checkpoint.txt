@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 616:
+
+1. Metallica
+2. System of a Down
+3. Guns N' Roses
+4. Black Sabbath
+5. Slayer
+6. Megadeth
+7. Iron Maiden
+8. Pantera
+9. Dream Theater
+10. Avenged Sevenfold
+11. Lamb of God
+12. Testament
+13. Trivium
+14. Slipknot
+15. In Flames
+16. Exodus
+17. Machine Head
+18. Children of Bodom
+19. Motörhead
+20. Anthrax
+21. Korpiklaani
+22. Disturbed
+23. Opeth
+24. Amon Amarth
+25. Death
+26. Sepultura
+27. Kreator
+28. Morbid Angel
+29. Municipal Waste
+30. Overkill
+31. Hatebreed
+32. King Crimson
+33. Rammstein
+34. Marilyn Manson
+35. Alice in Chains
+36. Alice Cooper
+37. Judas Priest
+38. Dio
+39. Avantasia
+40. Black Label Society
+41. Stone Sour
+42. Static-X
+43. Dark Tranquillity
+44. Soilwork
+45. Killswitch Engage
+46. Three Days Grace
+47. Red Hot Chili Peppers
+48. Foo Fighters
+49. Nirvana
+50. Oasis
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for their enjoyment.

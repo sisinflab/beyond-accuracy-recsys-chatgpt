@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Belle and Sebastian
+2. Elliott Smith
+3. Nick Drake
+4. Fleet Foxes
+5. Iron & Wine
+6. Regina Spektor
+7. The Shins
+8. Death Cab for Cutie
+9. Sufjan Stevens
+10. The Decemberists
+11. Bon Iver
+12. José González
+13. Bright Eyes
+14. The Smiths
+15. R.E.M.
+16. Radiohead
+17. Coldplay
+18. The National
+19. Arcade Fire
+20. The xx
+21. Florence + The Machine
+22. Lana Del Rey
+23. Hozier
+24. London Grammar
+25. Daughter
+26. The War on Drugs
+27. Tame Impala
+28. Vampire Weekend
+29. The Strokes
+30. Arctic Monkeys
+31. The Black Keys
+32. Kings of Leon
+33. Mumford & Sons
+34. Imagine Dragons
+35. HAIM
+36. Lorde
+37. CHVRCHES
+38. Bastille
+39. Foster the People
+40. The 1975
+41. Two Door Cinema Club
+42. Passion Pit
+43. M83
+44. Phoenix
+45. Metric
+46. Silversun Pickups
+47. Death from Above 1979
+48. Interpol
+49. The Killers
+50. Franz Ferdinand
+
+These recommendations are based on the user's liking of similar artists and genres.

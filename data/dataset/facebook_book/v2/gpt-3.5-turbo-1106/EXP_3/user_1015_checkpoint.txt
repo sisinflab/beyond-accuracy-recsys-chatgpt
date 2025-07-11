@@ -1,0 +1,52 @@
+Based on user 1015's preferences, here are the top-50 recommendations re-ranked for them:
+
+1. The Kite Runner by Khaled Hosseini
+2. Angels & Demons by Dan Brown
+3. Deception Point by Dan Brown
+4. The Lost Symbol by Dan Brown
+5. The Da Vinci Code by Dan Brown
+6. Digital Fortress by Dan Brown
+7. The Godfather by Mario Puzo
+8. The Last Don by Mario Puzo
+9. The Lucky One by Nicholas Sparks
+10. PS, I Love You by Cecelia Ahern
+11. A Thousand Splendid Suns by Khaled Hosseini
+12. The Alchemist by Paulo Coelho
+13. The Zahir by Paulo Coelho
+14. Brida by Paulo Coelho
+15. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+16. The Lord of the Rings by J.R.R. Tolkien
+17. Eldest by Christopher Paolini
+18. The Fountainhead by Ayn Rand
+19. Anthem by Ayn Rand
+20. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+21. To Kill a Mockingbird by Harper Lee
+22. Gone with the Wind by Margaret Mitchell
+23. The Class by Erich Segal
+24. The Doomsday Conspiracy by Sidney Sheldon
+25. The Firm by John Grisham
+26. A Prisoner of Birth by Jeffrey Archer
+27. Kane and Abel by Jeffrey Archer
+28. The Winner Stands Alone by Paulo Coelho
+29. The Host by Stephenie Meyer
+30. Twilight by Stephenie Meyer
+31. Inkspell by Cornelia Funke
+32. The Last Song by Nicholas Sparks
+33. Love Story by Erich Segal
+34. The Famous Five by Enid Blyton
+35. The Hardy Boys by Franklin W. Dixon
+36. Diary of a Wimpy Kid by Jeff Kinney
+37. The Argumentative Indian by Amartya Sen
+38. India Unbound by Gurcharan Das
+39. Around the World in Eighty Days by Jules Verne
+40. The Chronicles of Narnia by C.S. Lewis
+41. The Host by Stephenie Meyer
+42. The Winner Stands Alone by Paulo Coelho
+43. The Last Song by Nicholas Sparks
+44. The Lost Symbol by Dan Brown
+45. Quran
+46. The Famous Five by Enid Blyton
+47. The Hardy Boys by Franklin W. Dixon
+48. Diary of a Wimpy Kid by Jeff Kinney
+49. The Argumentative Indian by Amartya Sen
+50. India Unbound by Gurcharan Das

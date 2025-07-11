@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. U2
+2. David Bowie
+3. Oasis
+4. Queen
+5. Coldplay
+6. Red Hot Chili Peppers
+7. The Rolling Stones
+8. Blur
+9. The Smiths
+10. Arctic Monkeys
+11. The Police
+12. Duran Duran
+13. The Killers
+14. The Strokes
+15. Franz Ferdinand
+16. The White Stripes
+17. The Smithereens
+18. The Stone Roses
+19. The Verve
+20. The Libertines
+21. The Cranberries
+22. The Smashing Pumpkins
+23. The Flaming Lips
+24. The Black Keys
+25. The National
+26. The War on Drugs
+27. The Shins
+28. The Decemberists
+29. The Avett Brothers
+30. The Lumineers
+31. The Head and the Heart
+32. The Tallest Man on Earth
+33. The Mountain Goats
+34. The New Pornographers
+35. The Hold Steady
+36. The Gaslight Anthem
+37. The Menzingers
+38. The Front Bottoms
+39. The Wonder Years
+40. The Story So Far
+41. The Hotelier
+42. The Smith Street Band
+43. The Lawrence Arms
+44. The Bouncing Souls
+45. The Flatliners
+46. The Interrupters
+47. The Mighty Mighty Bosstones
+48. The Suicide Machines
+49. The Aquabats
+50. The Skatalites
+
+These recommendations are based on the user's liking of similar artists and genres.

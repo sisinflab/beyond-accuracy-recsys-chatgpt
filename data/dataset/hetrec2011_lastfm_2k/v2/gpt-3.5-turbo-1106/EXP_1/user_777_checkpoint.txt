@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Cure
+2. Nine Inch Nails
+3. New Order
+4. Pet Shop Boys
+5. Joy Division
+6. The Smiths
+7. Placebo
+8. Rammstein
+9. The Prodigy
+10. Björk
+11. Portishead
+12. Radiohead
+13. The Knife
+14. Nick Cave & The Bad Seeds
+15. Massive Attack
+16. The Human League
+17. Echo & the Bunnymen
+18. The Jesus and Mary Chain
+19. The Velvet Underground
+20. The Smashing Pumpkins
+21. The Cranberries
+22. The Flaming Lips
+23. The Cult
+24. The Psychedelic Furs
+25. The Birthday Massacre
+26. The Chameleons
+27. The Mission
+28. The Horrors
+29. The Damned
+30. The Church
+31. The Birthday Party
+32. The Bolshoi
+33. The Crüxshadows
+34. The Frozen Autumn
+35. The Merry Thoughts
+36. The Cassandra Complex
+37. The Neon Judgement
+38. The Exploding Boy
+39. The Frozen Autumn
+40. The Merry Thoughts
+41. The Cassandra Complex
+42. The Neon Judgement
+43. The Exploding Boy
+44. The Frozen Autumn
+45. The Merry Thoughts
+46. The Cassandra Complex
+47. The Neon Judgement
+48. The Exploding Boy
+49. The Frozen Autumn
+50. The Merry Thoughts
+
+These recommendations are based on the user's liking of similar artists and genres.

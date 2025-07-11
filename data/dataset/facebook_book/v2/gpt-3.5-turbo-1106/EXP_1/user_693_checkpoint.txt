@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Angels & Demons by Dan Brown
+3. The Lost Symbol by Dan Brown
+4. Digital Fortress by Dan Brown
+5. Deception Point by Dan Brown
+6. The Girl with the Dragon Tattoo by Stieg Larsson
+7. The Girl Who Played with Fire by Stieg Larsson
+8. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+9. The Girl in the Spider's Web by David Lagercrantz
+10. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+11. The Girl Who Lived Twice by David Lagercrantz
+12. The Hunger Games by Suzanne Collins
+13. Catching Fire by Suzanne Collins
+14. Mockingjay by Suzanne Collins
+15. The Maze Runner by James Dashner
+16. The Scorch Trials by James Dashner
+17. The Death Cure by James Dashner
+18. The Kill Order by James Dashner
+19. The Fever Code by James Dashner
+20. Divergent by Veronica Roth
+21. Insurgent by Veronica Roth
+22. Allegiant by Veronica Roth
+23. Four: A Divergent Collection by Veronica Roth
+24. Carve the Mark by Veronica Roth
+25. The Fates Divide by Veronica Roth
+26. The Fault in Our Stars by John Green
+27. Looking for Alaska by John Green
+28. Paper Towns by John Green
+29. An Abundance of Katherines by John Green
+30. Turtles All the Way Down by John Green
+31. The Book Thief by Markus Zusak
+32. I Am the Messenger by Markus Zusak
+33. Bridge of Clay by Markus Zusak
+34. The Messenger by Markus Zusak
+35. The Alchemist by Paulo Coelho
+36. Eleven Minutes by Paulo Coelho
+37. Veronika Decides to Die by Paulo Coelho
+38. The Zahir by Paulo Coelho
+39. The Witch of Portobello by Paulo Coelho
+40. The Valkyries by Paulo Coelho
+41. The Fifth Mountain by Paulo Coelho
+42. By the River Piedra I Sat Down and Wept by Paulo Coelho
+43. The Devil and Miss Prym by Paulo Coelho
+44. The Winner Stands Alone by Paulo Coelho
+45. The Pilgrimage by Paulo Coelho
+46. The Spy by Paulo Coelho
+47. The Supreme Gift by Paulo Coelho
+48. The Way of the Bow by Paulo Coelho
+49. The Witch of Portobello by Paulo Coelho
+50. The Winner Stands Alone by Paulo Coelho

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Iron Maiden
+2. Slayer
+3. Sepultura
+4. Testament
+5. Exodus
+6. Overkill
+7. Accept
+8. Helloween
+9. Dio
+10. Ozzy Osbourne
+11. Alice Cooper
+12. Motorhead
+13. Judas Priest
+14. Megadeth
+15. Metallica
+16. Black Sabbath
+17. Anthrax
+18. Kreator
+19. In Flames
+20. Pink Floyd
+21. KISS
+22. Pantera
+23. Saxon
+24. AC/DC
+25. Deep Purple
+26. King Diamond
+27. Death
+28. Queen
+29. Mötley Crüe
+30. System of a Down
+31. Iced Earth
+32. Destruction
+33. Venom
+34. The Rolling Stones
+35. HammerFall
+36. W.A.S.P.
+37. Ramones
+38. Manowar
+39. Bathory
+40. Gamma Ray
+41. Arch Enemy
+42. Motörhead
+43. Led Zeppelin
+44. Bruce Dickinson
+45. Dead Kennedys
+46. Iron Maiden
+47. Slayer
+48. Sepultura
+49. Testament
+50. Exodus
+
+These recommendations are based on the user's existing preferences and are aimed at providing similar artists that the user may enjoy.

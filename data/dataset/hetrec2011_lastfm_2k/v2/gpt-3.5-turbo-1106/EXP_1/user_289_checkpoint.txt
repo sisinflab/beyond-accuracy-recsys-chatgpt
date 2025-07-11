@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. Florence + The Machine
+3. Panic! At The Disco
+4. The 1975
+5. Twenty One Pilots
+6. My Chemical Romance
+7. The Neighbourhood
+8. Halsey
+9. Bastille
+10. Lorde
+11. Imagine Dragons
+12. The Weeknd
+13. Fall Out Boy
+14. Lana Del Rey
+15. Billie Eilish
+16. The Killers
+17. Paramore
+18. Muse
+19. Green Day
+20. Coldplay
+21. The Strokes
+22. Red Hot Chili Peppers
+23. Linkin Park
+24. Kings of Leon
+25. Maroon 5
+26. Imagine Dragons
+27. The Black Keys
+28. Cage The Elephant
+29. Foster The People
+30. Vampire Weekend
+31. The Lumineers
+32. Of Monsters and Men
+33. The Head and the Heart
+34. Young the Giant
+35. Grouplove
+36. Two Door Cinema Club
+37. The Wombats
+38. Franz Ferdinand
+39. The Kooks
+40. The Vaccines
+41. Arctic Monkeys
+42. Foals
+43. Bloc Party
+44. The Libertines
+45. The Fratellis
+46. The Hives
+47. The Vines
+48. The White Stripes
+49. The Raconteurs
+50. Kasabian
+
+These recommendations are based on the user's liking of similar artists and genres.

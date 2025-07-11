@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Ender's Game by Orson Scott Card
+2. The Hunger Games by Suzanne Collins
+3. Divergent by Veronica Roth
+4. The Giver by Lois Lowry
+5. Ready Player One by Ernest Cline
+6. The Maze Runner by James Dashner
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. 1984 by George Orwell
+9. The Handmaid's Tale by Margaret Atwood
+10. The Alchemist by Paulo Coelho
+11. The Catcher in the Rye by J.D. Salinger
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. The Da Vinci Code by Dan Brown
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Hobbit by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Great Gatsby by F. Scott Fitzgerald
+18. To Kill a Mockingbird by Harper Lee
+19. The Book Thief by Markus Zusak
+20. The Fault in Our Stars by John Green
+21. The Perks of Being a Wallflower by Stephen Chbosky
+22. The Road by Cormac McCarthy
+23. The Kite Runner by Khaled Hosseini
+24. The Secret Life of Bees by Sue Monk Kidd
+25. The Help by Kathryn Stockett
+26. The Night Circus by Erin Morgenstern
+27. The Goldfinch by Donna Tartt
+28. The Girl on the Train by Paula Hawkins
+29. Gone Girl by Gillian Flynn
+30. The Lovely Bones by Alice Sebold
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+33. Life of Pi by Yann Martel
+34. The Picture of Dorian Gray by Oscar Wilde
+35. The Count of Monte Cristo by Alexandre Dumas
+36. The Name of the Wind by Patrick Rothfuss
+37. The Shadow of the Wind by Carlos Ruiz Zafón
+38. The Nightingale by Kristin Hannah
+39. The Glass Castle by Jeannette Walls
+40. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+41. The Martian by Andy Weir
+42. The Silent Patient by Alex Michaelides
+43. The Tattooist of Auschwitz by Heather Morris
+44. The Alice Network by Kate Quinn
+45. The Light Between Oceans by M.L. Stedman
+46. The Nightingale by Kristin Hannah
+47. The Goldfinch by Donna Tartt
+48. The Night Circus by Erin Morgenstern
+49. The Book Thief by Markus Zusak
+50. The Help by Kathryn Stockett
+
+These recommendations are based on the user's interest in science fiction, dystopian literature, classic literature, and fantasy, as well as a mix of other popular genres.

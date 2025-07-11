@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. System of a Down
+2. Linkin Park
+3. Nine Inch Nails
+4. Metallica
+5. Avenged Sevenfold
+6. Killswitch Engage
+7. 36 Crazyfists
+8. Mudvayne
+9. Atreyu
+10. Soulfly
+11. Limp Bizkit
+12. Protest The Hero
+13. Hatebreed
+14. Parkway Drive
+15. Adema
+16. August Burns Red
+17. Ill Niño
+18. Asking Alexandria
+19. Architects
+20. Meshuggah
+21. Staind
+22. Nirvana
+23. Green Day
+24. My Chemical Romance
+25. The Killers
+26. Muse
+27. 30 Seconds to Mars
+28. Radiohead
+29. Placebo
+30. Evanescence
+31. Paramore
+32. Glee Cast
+33. Katy Perry
+34. Lady Gaga
+35. Rihanna
+36. Britney Spears
+37. Christina Aguilera
+38. Madonna
+39. Shakira
+40. Taylor Swift
+41. Avril Lavigne
+42. Miley Cyrus
+43. Kelly Clarkson
+44. P!nk
+45. Beyoncé
+46. Black Eyed Peas
+47. Michael Jackson
+48. U2
+49. The Beatles
+50. Pink Floyd
+
+This re-ranked list takes into account the user's liking for heavy metal and rock bands and suggests similar artists in those genres as well as some pop and alternative rock artists.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Brave New World by Aldous Huxley
+5. The Bell Jar by Sylvia Plath
+6. The Outsiders by S.E. Hinton
+7. The Perks of Being a Wallflower by Stephen Chbosky
+8. The Fault in Our Stars by John Green
+9. Catch-22 by Joseph Heller
+10. The Handmaid's Tale by Margaret Atwood
+11. Lord of the Flies by William Golding
+12. The Road by Cormac McCarthy
+13. The Book Thief by Markus Zusak
+14. One Hundred Years of Solitude by Gabriel Garcia Marquez
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. The Alchemist by Paulo Coelho
+17. The Kite Runner by Khaled Hosseini
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Sun Also Rises by Ernest Hemingway
+20. The Old Man and the Sea by Ernest Hemingway
+21. The Stranger by Albert Camus
+22. The Metamorphosis by Franz Kafka
+23. Crime and Punishment by Fyodor Dostoevsky
+24. The Count of Monte Cristo by Alexandre Dumas
+25. The Scarlet Letter by Nathaniel Hawthorne
+26. The Grapes of Wrath by John Steinbeck
+27. East of Eden by John Steinbeck
+28. The Sound and the Fury by William Faulkner
+29. As I Lay Dying by William Faulkner
+30. Beloved by Toni Morrison
+31. The Color Purple by Alice Walker
+32. Their Eyes Were Watching God by Zora Neale Hurston
+33. The Joy Luck Club by Amy Tan
+34. The House on Mango Street by Sandra Cisneros
+35. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+36. The Namesake by Jhumpa Lahiri
+37. The Poisonwood Bible by Barbara Kingsolver
+38. The Secret Life of Bees by Sue Monk Kidd
+39. The Glass Castle by Jeannette Walls
+40. The Help by Kathryn Stockett
+41. The Night Circus by Erin Morgenstern
+42. The Goldfinch by Donna Tartt
+43. All the Light We Cannot See by Anthony Doerr
+44. The Nightingale by Kristin Hannah
+45. The Book of Lost Things by John Connolly
+46. The Shadow of the Wind by Carlos Ruiz Zafón
+47. The Thirteenth Tale by Diane Setterfield
+48. The Time Traveler's Wife by Audrey Niffenegger
+49. The Secret History by Donna Tartt
+50. The Historian by Elizabeth Kostova
+
+These recommendations are based on the user's interest in literary fiction, coming-of-age stories, and classic literature.

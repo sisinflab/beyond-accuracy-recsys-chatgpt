@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Book Thief by Markus Zusak
+2. The Night Circus by Erin Morgenstern
+3. The Secret History by Donna Tartt
+4. The Goldfinch by Donna Tartt
+5. The Shadow of the Wind by Carlos Ruiz Zafón
+6. The Time Traveler's Wife by Audrey Niffenegger
+7. The Alchemist by Paulo Coelho
+8. The Kite Runner by Khaled Hosseini
+9. The Secret Life of Bees by Sue Monk Kidd
+10. The Help by Kathryn Stockett
+11. The Girl on the Train by Paula Hawkins
+12. The Lovely Bones by Alice Sebold
+13. The Fault in Our Stars by John Green
+14. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+15. The Perks of Being a Wallflower by Stephen Chbosky
+16. The Handmaid's Tale by Margaret Atwood
+17. The Bell Jar by Sylvia Plath
+18. The Catcher Was a Spy by Nicholas Dawidoff
+19. The Glass Castle by Jeannette Walls
+20. The Road by Cormac McCarthy
+21. The Martian by Andy Weir
+22. The Hunger Games by Suzanne Collins
+23. The Maze Runner by James Dashner
+24. The Giver by Lois Lowry
+25. The Lightning Thief by Rick Riordan
+26. The Hobbit by J.R.R. Tolkien
+27. The Chronicles of Narnia by C.S. Lewis
+28. The Lord of the Rings by J.R.R. Tolkien
+29. The Da Vinci Code by Dan Brown
+30. The Girl with the Dragon Tattoo by Stieg Larsson
+31. The Help by Kathryn Stockett
+32. The Road by Cormac McCarthy
+33. The Great Gatsby by F. Scott Fitzgerald
+34. The Catcher in the Rye by J.D. Salinger
+35. The Outsiders by S.E. Hinton
+36. The Grapes of Wrath by John Steinbeck
+37. To Kill a Mockingbird by Harper Lee
+38. Of Mice and Men by John Steinbeck
+39. Into the Wild by Jon Krakauer
+40. The Chronicles of Narnia by C.S. Lewis
+41. Matilda by Roald Dahl
+42. Charlie and the Chocolate Factory by Roald Dahl
+43. James and the Giant Peach by Roald Dahl
+44. Fantastic Mr. Fox by Roald Dahl
+45. The BFG by Roald Dahl
+46. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+47. Harry Potter and the Chamber of Secrets by J.K. Rowling
+48. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+49. Harry Potter and the Goblet of Fire by J.K. Rowling
+50. Harry Potter and the Order of the Phoenix by J.K. Rowling
+
+These recommendations are based on the user's liking of similar genres, authors, and themes found in the provided books.

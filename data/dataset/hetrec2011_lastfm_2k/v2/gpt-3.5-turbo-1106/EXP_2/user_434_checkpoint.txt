@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Nine Inch Nails
+2. Nirvana
+3. Radiohead
+4. Beck
+5. Portishead
+6. Spoon
+7. of Montreal
+8. M. Ward
+9. Caribou
+10. Boards of Canada
+11. Spiritualized
+12. Stereolab
+13. Talk Talk
+14. XTC
+15. Black Flag
+16. The Stooges
+17. Wilco
+18. Fugazi
+19. Guided by Voices
+20. Beastie Boys
+21. The Killers
+22. Muse
+23. Pearl Jam
+24. Green Day
+25. My Chemical Romance
+26. Arctic Monkeys
+27. Placebo
+28. Blur
+29. The Cure
+30. Metallica
+31. Iron Maiden
+32. Linkin Park
+33. System of a Down
+34. Avenged Sevenfold
+35. Michael Jackson
+36. Madonna
+37. Lady Gaga
+38. Britney Spears
+39. Christina Aguilera
+40. Rihanna
+41. Beyoncé
+42. Shakira
+43. Pink Floyd
+44. U2
+45. The Beatles
+46. Led Zeppelin
+47. a-ha
+48. Daft Punk
+49. Depeche Mode
+50. Amy Winehouse
+
+This re-ranked list is based on the user's liking of similar artists and may provide a better match for their preferences.

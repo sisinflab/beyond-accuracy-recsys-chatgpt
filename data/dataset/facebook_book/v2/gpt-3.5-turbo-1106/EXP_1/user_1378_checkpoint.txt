@@ -1,0 +1,54 @@
+Based on the preferences of user 1378, here are the top 50 book recommendations:
+
+1. The Five People You Meet in Heaven by Mitch Albom
+2. For One More Day by Mitch Albom
+3. The Time Keeper by Mitch Albom
+4. The Magic Strings of Frankie Presto by Mitch Albom
+5. The First Phone Call from Heaven by Mitch Albom
+6. The Next Person You Meet in Heaven by Mitch Albom
+7. The Last Lecture by Randy Pausch
+8. The Alchemist by Paulo Coelho
+9. The Book Thief by Markus Zusak
+10. A Man Called Ove by Fredrik Backman
+11. The Night Circus by Erin Morgenstern
+12. The Rosie Project by Graeme Simsion
+13. The Light Between Oceans by M.L. Stedman
+14. The Nightingale by Kristin Hannah
+15. All the Light We Cannot See by Anthony Doerr
+16. The Help by Kathryn Stockett
+17. The Kite Runner by Khaled Hosseini
+18. A Thousand Splendid Suns by Khaled Hosseini
+19. The Glass Castle by Jeannette Walls
+20. Educated by Tara Westover
+21. Where the Crawdads Sing by Delia Owens
+22. The Great Alone by Kristin Hannah
+23. The Girl on the Train by Paula Hawkins
+24. Big Little Lies by Liane Moriarty
+25. The Husband's Secret by Liane Moriarty
+26. Eleanor Oliphant Is Completely Fine by Gail Honeyman
+27. The Goldfinch by Donna Tartt
+28. The Secret History by Donna Tartt
+29. The Da Vinci Code by Dan Brown
+30. Angels & Demons by Dan Brown
+31. Inferno by Dan Brown
+32. Origin by Dan Brown
+33. The Lost Symbol by Dan Brown
+34. The Girl with the Dragon Tattoo by Stieg Larsson
+35. Gone Girl by Gillian Flynn
+36. Sharp Objects by Gillian Flynn
+37. Dark Places by Gillian Flynn
+38. The Hunger Games by Suzanne Collins
+39. Catching Fire by Suzanne Collins
+40. Mockingjay by Suzanne Collins
+41. Divergent by Veronica Roth
+42. Insurgent by Veronica Roth
+43. Allegiant by Veronica Roth
+44. The Maze Runner by James Dashner
+45. The Scorch Trials by James Dashner
+46. The Death Cure by James Dashner
+47. The Giver by Lois Lowry
+48. Gathering Blue by Lois Lowry
+49. Messenger by Lois Lowry
+50. Son by Lois Lowry
+
+These recommendations are based on the genres and themes of the books liked by user 1378.

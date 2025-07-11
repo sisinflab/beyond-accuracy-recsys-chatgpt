@@ -1,0 +1,54 @@
+Based on user 1235's preferences, here are the top 50 book recommendations:
+
+1. Fruits Basket by Natsuki Takaya
+2. InuYasha by Rumiko Takahashi
+3. Sailor Moon by Naoko Takeuchi
+4. Cardcaptor Sakura by CLAMP
+5. Nana by Ai Yazawa
+6. Fullmetal Alchemist by Hiromu Arakawa
+7. Death Note by Tsugumi Ohba
+8. Ouran High School Host Club by Bisco Hatori
+9. Tokyo Ghoul by Sui Ishida
+10. Attack on Titan by Hajime Isayama
+11. The Chronicles of Narnia by C.S. Lewis
+12. Little Women by Louisa May Alcott
+13. A Wrinkle in Time by Madeleine L'Engle
+14. The Secret Garden by Frances Hodgson Burnett
+15. The Chronicles of Prydain by Lloyd Alexander
+16. The Golden Compass by Philip Pullman
+17. The Wind in the Willows by Kenneth Grahame
+18. The Wizard of Oz by L. Frank Baum
+19. The Neverending Story by Michael Ende
+20. The Phantom Tollbooth by Norton Juster
+21. The Giver by Lois Lowry
+22. The Hunger Games by Suzanne Collins
+23. Divergent by Veronica Roth
+24. The Maze Runner by James Dashner
+25. The Mortal Instruments series by Cassandra Clare
+26. The Infernal Devices series by Cassandra Clare
+27. The Kingkiller Chronicle series by Patrick Rothfuss
+28. Mistborn series by Brandon Sanderson
+29. The Stormlight Archive series by Brandon Sanderson
+30. The Wheel of Time series by Robert Jordan
+31. The Malazan Book of the Fallen series by Steven Erikson
+32. The First Law series by Joe Abercrombie
+33. The Lies of Locke Lamora by Scott Lynch
+34. The Name of the Wind by Patrick Rothfuss
+35. The Way of Kings by Brandon Sanderson
+36. The Night Circus by Erin Morgenstern
+37. Uprooted by Naomi Novik
+38. The Bear and the Nightingale by Katherine Arden
+39. Spinning Silver by Naomi Novik
+40. Circe by Madeline Miller
+41. The Song of Achilles by Madeline Miller
+42. The Nightingale by Kristin Hannah
+43. All the Light We Cannot See by Anthony Doerr
+44. The Book Thief by Markus Zusak
+45. The Night Circus by Erin Morgenstern
+46. The Starless Sea by Erin Morgenstern
+47. The Ten Thousand Doors of January by Alix E. Harrow
+48. The Library of the Unwritten by A.J. Hackwith
+49. The Invisible Library by Genevieve Cogman
+50. The Shadow of the Wind by Carlos Ruiz Zafón
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1235 likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Killers
+2. Arctic Monkeys
+3. Imagine Dragons
+4. Thirty Seconds to Mars
+5. Evanescence
+6. Good Charlotte
+7. Lostprophets
+8. Boys Like Girls
+9. The Strokes
+10. The All-American Rejects
+11. Paramore
+12. My Chemical Romance
+13. Panic! At the Disco
+14. IAMX
+15. Nickelback
+16. Fall Out Boy
+17. Linkin Park
+18. Muse
+19. Kasabian
+20. Franz Ferdinand
+21. Snow Patrol
+22. Razorlight
+23. 3 Doors Down
+24. Relient K
+25. Jet
+26. blink-182
+27. Hard-Fi
+28. Papa Roach
+29. Augustana
+30. Billy Talent
+31. New Found Glory
+32. Feeder
+33. HIM
+34. Sum 41
+35. Goo Goo Dolls
+36. Apoptygma Berzerk
+37. Dirty Pretty Things
+38. Green Day
+39. Dashboard Confessional
+40. Paradise Lost
+41. The Offspring
+42. Simple Plan
+43. The Used
+44. Yellowcard
+45. All Time Low
+46. Taking Back Sunday
+47. Jimmy Eat World
+48. Weezer
+49. The Red Jumpsuit Apparatus
+50. AFI
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists that the user may enjoy.

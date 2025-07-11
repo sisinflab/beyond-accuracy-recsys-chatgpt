@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Notebook by Nicholas Sparks
+2. The Last Song by Nicholas Sparks
+3. A Walk to Remember by Nicholas Sparks
+4. The Lucky One by Nicholas Sparks
+5. Safe Haven by Nicholas Sparks
+6. The Best of Me by Nicholas Sparks
+7. The Longest Ride by Nicholas Sparks
+8. The Giver of Stars by Jojo Moyes
+9. Me Before You by Jojo Moyes
+10. After You by Jojo Moyes
+11. Still Me by Jojo Moyes
+12. The Girl You Left Behind by Jojo Moyes
+13. One Day by David Nicholls
+14. Us by David Nicholls
+15. Starter for Ten by David Nicholls
+16. The Understudy by David Nicholls
+17. The Rosie Project by Graeme Simsion
+18. The Rosie Effect by Graeme Simsion
+19. The Rosie Result by Graeme Simsion
+20. Eleanor Oliphant Is Completely Fine by Gail Honeyman
+21. Where the Crawdads Sing by Delia Owens
+22. Educated by Tara Westover
+23. The Nightingale by Kristin Hannah
+24. The Great Alone by Kristin Hannah
+25. Firefly Lane by Kristin Hannah
+26. The Alice Network by Kate Quinn
+27. The Huntress by Kate Quinn
+28. The Tattooist of Auschwitz by Heather Morris
+29. The Night Circus by Erin Morgenstern
+30. The Starless Sea by Erin Morgenstern
+31. The Night Watchman by Louise Erdrich
+32. The Round House by Louise Erdrich
+33. The Plague of Doves by Louise Erdrich
+34. The Vanishing Half by Brit Bennett
+35. The Mothers by Brit Bennett
+36. An American Marriage by Tayari Jones
+37. Silver Sparrow by Tayari Jones
+38. The Underground Railroad by Colson Whitehead
+39. The Nickel Boys by Colson Whitehead
+40. The Vanishing Half by Brit Bennett
+41. The Mothers by Brit Bennett
+42. An American Marriage by Tayari Jones
+43. Silver Sparrow by Tayari Jones
+44. The Underground Railroad by Colson Whitehead
+45. The Nickel Boys by Colson Whitehead
+46. The Water Dancer by Ta-Nehisi Coates
+47. Between the World and Me by Ta-Nehisi Coates
+48. The Beautiful Struggle by Ta-Nehisi Coates
+49. The Dutch House by Ann Patchett
+50. Commonwealth by Ann Patchett
+
+These recommendations are based on the user's interest in romance, drama, and mystery novels.

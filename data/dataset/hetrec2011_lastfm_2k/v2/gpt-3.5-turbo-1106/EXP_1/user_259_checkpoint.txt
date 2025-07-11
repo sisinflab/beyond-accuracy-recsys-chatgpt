@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smashing Pumpkins
+2. The Cure
+3. Interpol
+4. The Strokes
+5. Arctic Monkeys
+6. The Killers
+7. Death Cab for Cutie
+8. Modest Mouse
+9. The White Stripes
+10. The Libertines
+11. The Kooks
+12. Kasabian
+13. The Verve
+14. The Cranberries
+15. R.E.M.
+16. Blur
+17. The Flaming Lips
+18. The Black Keys
+19. The National
+20. Tame Impala
+21. Foals
+22. Vampire Weekend
+23. The War on Drugs
+24. Arcade Fire
+25. Spoon
+26. Phoenix
+27. Yeah Yeah Yeahs
+28. MGMT
+29. Foster the People
+30. Two Door Cinema Club
+31. The Wombats
+32. The Vaccines
+33. Bloc Party
+34. Franz Ferdinand
+35. Muse
+36. Radiohead
+37. Placebo
+38. Elliott Smith
+39. Archive
+40. Billy Talent
+41. Oasis
+42. Zемфира
+43. Агата Кристи
+44. Bring Me The Horizon
+45. Ария
+46. Nirvana
+47. The Jesus and Mary Chain
+48. My Bloody Valentine
+49. Slowdive
+50. Ride
+
+These recommendations are based on the user's liking of alternative and rock artists and are aimed at providing a diverse range of similar artists for the user to explore.

@@ -1,0 +1,54 @@
+Based on user 700's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. Lady Gaga
+2. Katy Perry
+3. Beyoncé
+4. Taylor Swift
+5. Rihanna
+6. Britney Spears
+7. Shakira
+8. Madonna
+9. Christina Aguilera
+10. Paramore
+11. Avril Lavigne
+12. Miley Cyrus
+13. Kelly Clarkson
+14. Justin Timberlake
+15. Maroon 5
+16. Usher
+17. Justin Bieber
+18. Jason Derülo
+19. Enrique Iglesias
+20. OneRepublic
+21. Mariah Carey
+22. Black Eyed Peas
+23. Eminem
+24. Owl City
+25. Taio Cruz
+26. T.I.
+27. B.o.B
+28. Ke$ha
+29. Cobra Starship
+30. 3OH!3
+31. Jay-Z
+32. Miley Cyrus
+33. Jordin Sparks
+34. David Guetta
+35. Timbaland
+36. Flo Rida
+37. Kanye West
+38. Michael Bublé
+39. Trey Songz
+40. Avril Lavigne
+41. David Archuleta
+42. Bruno Mars
+43. Leona Lewis
+44. Craig David
+45. Shayne Ward
+46. Britney Spears
+47. Depeche Mode
+48. The Beatles
+49. Glee Cast
+50. Muse
+
+This re-ranked list is based on the user's liking of similar artists and their music preferences.

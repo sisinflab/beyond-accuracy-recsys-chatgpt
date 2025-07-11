@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. The Stranger by Albert Camus
+3. The Trial by Franz Kafka
+4. The Plague by Albert Camus
+5. The Idiot by Fyodor Dostoyevsky
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Unbearable Lightness of Being by Milan Kundera
+8. The Master and Margarita by Mikhail Bulgakov
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Catcher in the Rye by J.D. Salinger
+11. Brave New World by Aldous Huxley
+12. The Great Gatsby by F. Scott Fitzgerald
+13. To Kill a Mockingbird by Harper Lee
+14. A Clockwork Orange by Anthony Burgess
+15. The Alchemist by Paulo Coelho
+16. The Kite Runner by Khaled Hosseini
+17. The Book Thief by Markus Zusak
+18. The God of Small Things by Arundhati Roy
+19. The Shadow of the Wind by Carlos Ruiz Zafón
+20. The Name of the Rose by Umberto Eco
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. Slaughterhouse-Five by Kurt Vonnegut
+23. Catch-22 by Joseph Heller
+24. The Handmaid's Tale by Margaret Atwood
+25. The Road by Cormac McCarthy
+26. Beloved by Toni Morrison
+27. The Bell Jar by Sylvia Plath
+28. The Wind-Up Bird Chronicle by Haruki Murakami
+29. Norwegian Wood by Haruki Murakami
+30. Kafka on the Shore by Haruki Murakami
+31. The Secret History by Donna Tartt
+32. White Teeth by Zadie Smith
+33. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+34. The Goldfinch by Donna Tartt
+35. The Night Circus by Erin Morgenstern
+36. The Secret History by Donna Tartt
+37. The Goldfinch by Donna Tartt
+38. The Night Circus by Erin Morgenstern
+39. The Secret History by Donna Tartt
+40. The Goldfinch by Donna Tartt
+41. The Night Circus by Erin Morgenstern
+42. The Secret History by Donna Tartt
+43. The Goldfinch by Donna Tartt
+44. The Night Circus by Erin Morgenstern
+45. The Secret History by Donna Tartt
+46. The Goldfinch by Donna Tartt
+47. The Night Circus by Erin Morgenstern
+48. The Secret History by Donna Tartt
+49. The Goldfinch by Donna Tartt
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the user's interest in philosophical and thought-provoking literature, as well as classic and contemporary fiction.

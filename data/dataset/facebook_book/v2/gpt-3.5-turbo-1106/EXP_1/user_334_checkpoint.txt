@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Name of the Wind by Patrick Rothfuss
+2. Mistborn: The Final Empire by Brandon Sanderson
+3. The Lies of Locke Lamora by Scott Lynch
+4. The Way of Kings by Brandon Sanderson
+5. The Night Circus by Erin Morgenstern
+6. Neverwhere by Neil Gaiman
+7. The Magicians by Lev Grossman
+8. American Gods by Neil Gaiman
+9. The Kingkiller Chronicle by Patrick Rothfuss
+10. The Stormlight Archive by Brandon Sanderson
+11. The Gentleman Bastard series by Scott Lynch
+12. The Graveyard Book by Neil Gaiman
+13. The Ocean at the End of the Lane by Neil Gaiman
+14. The First Law Trilogy by Joe Abercrombie
+15. The Broken Empire Trilogy by Mark Lawrence
+16. The Inheritance Trilogy by N.K. Jemisin
+17. The Black Prism by Brent Weeks
+18. The Lies of Locke Lamora by Scott Lynch
+19. The Way of Shadows by Brent Weeks
+20. The Painted Man by Peter V. Brett
+21. The Demon Cycle by Peter V. Brett
+22. The Lightbringer Series by Brent Weeks
+23. The Riyria Revelations by Michael J. Sullivan
+24. The Riyria Chronicles by Michael J. Sullivan
+25. The Powder Mage Trilogy by Brian McClellan
+26. The Chronicles of the Black Company by Glen Cook
+27. The Malazan Book of the Fallen by Steven Erikson
+28. The Broken Empire Trilogy by Mark Lawrence
+29. The Wheel of Time series by Robert Jordan
+30. The Black Company series by Glen Cook
+31. The Chronicles of Amber by Roger Zelazny
+32. The Earthsea Cycle by Ursula K. Le Guin
+33. The Chronicles of Narnia by C.S. Lewis
+34. The Dark Tower series by Stephen King
+35. The Bartimaeus Trilogy by Jonathan Stroud
+36. The Abhorsen Trilogy by Garth Nix
+37. The Inheritance Cycle by Christopher Paolini
+38. The Chronicles of Prydain by Lloyd Alexander
+39. The Belgariad by David Eddings
+40. The Malloreon by David Eddings
+41. The Elenium by David Eddings
+42. The Tamuli by David Eddings
+43. The Sword of Truth series by Terry Goodkind
+44. The Shannara series by Terry Brooks
+45. The Memory, Sorrow, and Thorn series by Tad Williams
+46. The Fionavar Tapestry by Guy Gavriel Kay
+47. The Drenai series by David Gemmell
+48. The Rigante series by David Gemmell
+49. The Troy series by David Gemmell
+50. The Waylander series by David Gemmell
+
+These recommendations are based on the user's interest in fantasy and speculative fiction, as well as their enjoyment of authors such as Jim Butcher, Derek Landy, Terry Pratchett, and Haruki Murakami.

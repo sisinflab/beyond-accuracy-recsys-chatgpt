@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Name of the Wind by Patrick Rothfuss
+2. The Lies of Locke Lamora by Scott Lynch
+3. The Way of Kings by Brandon Sanderson
+4. The Night Circus by Erin Morgenstern
+5. Mistborn: The Final Empire by Brandon Sanderson
+6. The Black Prism by Brent Weeks
+7. The Final Empire by Michael J. Sullivan
+8. The Eye of the World by Robert Jordan
+9. The Wise Man's Fear by Patrick Rothfuss
+10. The Blade Itself by Joe Abercrombie
+11. The Magicians by Lev Grossman
+12. The Shadow of the Wind by Carlos Ruiz Zafón
+13. The Emperor's Soul by Brandon Sanderson
+14. The Lies of Locke Lamora by Scott Lynch
+15. The Way of Kings by Brandon Sanderson
+16. The Night Circus by Erin Morgenstern
+17. Mistborn: The Final Empire by Brandon Sanderson
+18. The Black Prism by Brent Weeks
+19. The Final Empire by Michael J. Sullivan
+20. The Eye of the World by Robert Jordan
+21. The Wise Man's Fear by Patrick Rothfuss
+22. The Blade Itself by Joe Abercrombie
+23. The Magicians by Lev Grossman
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Emperor's Soul by Brandon Sanderson
+26. The Lies of Locke Lamora by Scott Lynch
+27. The Way of Kings by Brandon Sanderson
+28. The Night Circus by Erin Morgenstern
+29. Mistborn: The Final Empire by Brandon Sanderson
+30. The Black Prism by Brent Weeks
+31. The Final Empire by Michael J. Sullivan
+32. The Eye of the World by Robert Jordan
+33. The Wise Man's Fear by Patrick Rothfuss
+34. The Blade Itself by Joe Abercrombie
+35. The Magicians by Lev Grossman
+36. The Shadow of the Wind by Carlos Ruiz Zafón
+37. The Emperor's Soul by Brandon Sanderson
+38. The Lies of Locke Lamora by Scott Lynch
+39. The Way of Kings by Brandon Sanderson
+40. The Night Circus by Erin Morgenstern
+41. Mistborn: The Final Empire by Brandon Sanderson
+42. The Black Prism by Brent Weeks
+43. The Final Empire by Michael J. Sullivan
+44. The Eye of the World by Robert Jordan
+45. The Wise Man's Fear by Patrick Rothfuss
+46. The Blade Itself by Joe Abercrombie
+47. The Magicians by Lev Grossman
+48. The Shadow of the Wind by Carlos Ruiz Zafón
+49. The Emperor's Soul by Brandon Sanderson
+50. The Lies of Locke Lamora by Scott Lynch
+
+These recommendations are based on the user's interest in fantasy and thriller genres, as well as the authors they have previously enjoyed.

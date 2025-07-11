@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Norwegian Wood by Haruki Murakami
+2. The Alchemist by Paulo Coelho
+3. The Bell Jar by Sylvia Plath
+4. The Unbearable Lightness of Being by Milan Kundera
+5. The Secret History by Donna Tartt
+6. The Picture of Dorian Gray by Oscar Wilde
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Kite Runner by Khaled Hosseini
+9. The Great Gatsby by F. Scott Fitzgerald
+10. The Road by Cormac McCarthy
+11. The Stranger by Albert Camus
+12. The Goldfinch by Donna Tartt
+13. The Handmaid's Tale by Margaret Atwood
+14. The Glass Castle by Jeannette Walls
+15. The Night Circus by Erin Morgenstern
+16. The Shadow of the Wind by Carlos Ruiz Zafón
+17. The Book Thief by Markus Zusak
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Poisonwood Bible by Barbara Kingsolver
+20. The Lovely Bones by Alice Sebold
+21. The Help by Kathryn Stockett
+22. The Girl on the Train by Paula Hawkins
+23. The Catcher in the Rye by J.D. Salinger
+24. The Zahir by Paulo Coelho
+25. Fear of Flying by Erica Jong
+26. The Sandman by Ralph Fletcher
+27. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+28. The 48 Laws of Power by Robert Greene
+29. Shanghai Baby by Wei Hui
+30. Franny and Zooey by J.D. Salinger
+31. To Kill a Mockingbird by Harper Lee
+32. The Five People You Meet in Heaven by Mitch Albom
+33. The Hundred Secret Senses by Amy Tan
+34. The Secret Garden by Frances Hodgson Burnett
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Martian by Andy Weir
+37. The Nightingale by Kristin Hannah
+38. The Giver by Lois Lowry
+39. The Hunger Games by Suzanne Collins
+40. The Fault in Our Stars by John Green
+41. The Perks of Being a Wallflower by Stephen Chbosky
+42. The Maze Runner by James Dashner
+43. The Lightning Thief by Rick Riordan
+44. The Hunger Games by Suzanne Collins
+45. The Fault in Our Stars by John Green
+46. The Perks of Being a Wallflower by Stephen Chbosky
+47. The Maze Runner by James Dashner
+48. The Lightning Thief by Rick Riordan
+49. The Hunger Games by Suzanne Collins
+50. The Fault in Our Stars by John Green

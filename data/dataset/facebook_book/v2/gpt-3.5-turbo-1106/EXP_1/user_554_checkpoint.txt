@@ -1,0 +1,52 @@
+Based on the preferences of user 554, here are the top 50 book recommendations:
+
+1. The Book Thief by Markus Zusak
+2. The Kite Runner by Khaled Hosseini
+3. The Alchemist by Paulo Coelho
+4. The Night Circus by Erin Morgenstern
+5. The Shadow of the Wind by Carlos Ruiz Zafón
+6. The Secret History by Donna Tartt
+7. The Goldfinch by Donna Tartt
+8. The Catcher in the Rye by J.D. Salinger
+9. The Picture of Dorian Gray by Oscar Wilde
+10. The Great Gatsby by F. Scott Fitzgerald
+11. To Kill a Mockingbird by Harper Lee
+12. 1984 by George Orwell
+13. Brave New World by Aldous Huxley
+14. Fahrenheit 451 by Ray Bradbury
+15. Slaughterhouse-Five by Kurt Vonnegut
+16. One Hundred Years of Solitude by Gabriel García Márquez
+17. The Bell Jar by Sylvia Plath
+18. The Handmaid's Tale by Margaret Atwood
+19. The Road by Cormac McCarthy
+20. The Martian by Andy Weir
+21. The Hunger Games by Suzanne Collins
+22. Divergent by Veronica Roth
+23. The Girl with the Dragon Tattoo by Stieg Larsson
+24. Gone Girl by Gillian Flynn
+25. The Da Vinci Code by Dan Brown
+26. Angels & Demons by Dan Brown
+27. Inferno by Dan Brown
+28. The Lost Symbol by Dan Brown
+29. The Girl on the Train by Paula Hawkins
+30. Sharp Objects by Gillian Flynn
+31. Dark Places by Gillian Flynn
+32. The Lovely Bones by Alice Sebold
+33. The Help by Kathryn Stockett
+34. The Time Traveler's Wife by Audrey Niffenegger
+35. The Glass Castle by Jeannette Walls
+36. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+37. The Fault in Our Stars by John Green
+38. Looking for Alaska by John Green
+39. Paper Towns by John Green
+40. Eleanor & Park by Rainbow Rowell
+41. Fangirl by Rainbow Rowell
+42. Carry On by Rainbow Rowell
+43. The Nightingale by Kristin Hannah
+44. All the Light We Cannot See by Anthony Doerr
+45. The Help by Kathryn Stockett
+46. The Girl on the Train by Paula Hawkins
+47. The Night Circus by Erin Morgenstern
+48. The Shadow of the Wind by Carlos Ruiz Zafón
+49. The Secret History by Donna Tartt
+50. The Goldfinch by Donna Tartt

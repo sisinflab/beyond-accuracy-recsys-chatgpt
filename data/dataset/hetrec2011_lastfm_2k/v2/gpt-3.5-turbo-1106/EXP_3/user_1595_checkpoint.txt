@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1595:
+
+1. Joy Division
+2. Siouxsie and the Banshees
+3. Bauhaus
+4. The Verve
+5. Nick Cave and the Bad Seeds
+6. Interpol
+7. The Cranberries
+8. The Cure
+9. Depeche Mode
+10. The Doors
+11. Pink Floyd
+12. The Beatles
+13. David Bowie
+14. Queen
+15. AC/DC
+16. Led Zeppelin
+17. Ultravox
+18. George Michael
+19. Marillion
+20. Tears for Fears
+21. Einstürzende Neubauten
+22. The Velvet Underground
+23. The Sisters of Mercy
+24. Roxy Music
+25. Billy Idol
+26. John Lennon
+27. Kings of Leon
+28. The Who
+29. Eurythmics
+30. The Beach Boys
+31. Nirvana
+32. INXS
+33. The Police
+34. Electric Light Orchestra
+35. Foreigner
+36. Crystal Castles
+37. Sigur Rós
+38. New Order
+39. Ladytron
+40. Clan of Xymox
+41. Manic Street Preachers
+42. Kylie Minogue
+43. Martin L. Gore
+44. Pet Shop Boys
+45. Paradise Lost
+46. Bruce Springsteen
+47. a-ha
+48. No Doubt
+49. Muse
+50. Portishead
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists that align with their musical tastes.

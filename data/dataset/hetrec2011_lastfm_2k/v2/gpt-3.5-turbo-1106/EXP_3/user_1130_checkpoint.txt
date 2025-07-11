@@ -1,0 +1,54 @@
+Based on user 1130's preferences, here are the top 50 recommendations for the given artists:
+
+1. The Smashing Pumpkins
+2. My Chemical Romance
+3. Linkin Park
+4. Placebo
+5. Paramore
+6. Queens of the Stone Age
+7. The Mars Volta
+8. Nine Inch Nails
+9. M83
+10. Arctic Monkeys
+11. Green Day
+12. The Faint
+13. Snow Patrol
+14. The Used
+15. Death Cab for Cutie
+16. The Beatles
+17. Garbage
+18. The Knife
+19. Ladytron
+20. Björk
+21. Boards of Canada
+22. Fiona Apple
+23. Beirut
+24. The Script
+25. Kaiser Chiefs
+26. Travis
+27. Nitzer Ebb
+28. OneRepublic
+29. Breaking Benjamin
+30. David Bowie
+31. De/Vision
+32. Sneaker Pimps
+33. PJ Harvey
+34. Mindless Self Indulgence
+35. John Mayer
+36. Hammock
+37. The Shins
+38. MGMT
+39. Martin L. Gore
+40. Three Days Grace
+41. Ayria
+42. Fall Out Boy
+43. a-ha
+44. Adam Lambert
+45. Duran Duran
+46. The Used
+47. 3 Doors Down
+48. Yeah Yeah Yeahs
+49. These New Puritans
+50. Nightwish
+
+These recommendations are based on similar genres and artists liked by user 1130.

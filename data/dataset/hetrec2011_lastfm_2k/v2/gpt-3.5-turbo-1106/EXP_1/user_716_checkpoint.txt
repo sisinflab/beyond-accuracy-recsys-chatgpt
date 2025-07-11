@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Mayday Parade
+2. Taking Back Sunday
+3. The Wonder Years
+4. Yellowcard
+5. The Starting Line
+6. All American Rejects
+7. The Maine
+8. We the Kings
+9. Set Your Goals
+10. Hawthorne Heights
+11. Cartel
+12. The Academy Is...
+13. Motion City Soundtrack
+14. Something Corporate
+15. Saves the Day
+16. Brand New
+17. The Early November
+18. Say Anything
+19. The Get Up Kids
+20. Jimmy Eat World
+21. Dashboard Confessional
+22. Finch
+23. Anberlin
+24. Bayside
+25. The Ataris
+26. Armor for Sleep
+27. Copeland
+28. Emery
+29. Mae
+30. The Red Jumpsuit Apparatus
+31. The Used
+32. Thrice
+33. Anberlin
+34. Circa Survive
+35. Coheed and Cambria
+36. Glassjaw
+37. Thursday
+38. At the Drive-In
+39. Taking Back Sunday
+40. Brand New
+41. The Receiving End of Sirens
+42. Saosin
+43. From First to Last
+44. Chiodos
+45. Scary Kids Scaring Kids
+46. A Static Lullaby
+47. Silverstein
+48. Senses Fail
+49. Underoath
+50. A Day to Remember

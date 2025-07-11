@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Fahrenheit 451 by Ray Bradbury
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Animal Farm by George Orwell
+7. The Lord of the Rings by J.R.R. Tolkien
+8. The Hobbit by J.R.R. Tolkien
+9. The Chronicles of Narnia by C.S. Lewis
+10. The Giver by Lois Lowry
+11. The Catcher in the Rye by J.D. Salinger
+12. The Alchemist by Paulo Coelho
+13. The Hunger Games by Suzanne Collins
+14. Dune by Frank Herbert
+15. The Road by Cormac McCarthy
+16. The Handmaid's Tale by Margaret Atwood
+17. Slaughterhouse-Five by Kurt Vonnegut
+18. The Stand by Stephen King
+19. The Shining by Stephen King
+20. The Martian by Andy Weir
+21. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+22. The Time Machine by H.G. Wells
+23. The War of the Worlds by H.G. Wells
+24. The Invisible Man by H.G. Wells
+25. The Island of Dr. Moreau by H.G. Wells
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+28. The Count of Monte Cristo by Alexandre Dumas
+29. The Three Musketeers by Alexandre Dumas
+30. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+31. The Hound of the Baskervilles by Arthur Conan Doyle
+32. The Time Traveler's Wife by Audrey Niffenegger
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Da Vinci Code by Dan Brown
+35. Angels & Demons by Dan Brown
+36. The Name of the Wind by Patrick Rothfuss
+37. The Wise Man's Fear by Patrick Rothfuss
+38. The Night Circus by Erin Morgenstern
+39. The Book Thief by Markus Zusak
+40. The Secret History by Donna Tartt
+41. The Goldfinch by Donna Tartt
+42. The Catcher in the Rye by J.D. Salinger
+43. The Old Man and the Sea by Ernest Hemingway
+44. Ender's Game by Orson Scott Card
+45. Lord of the Flies by William Golding
+46. The Lion, the Witch and the Wardrobe by C.S. Lewis
+47. The Eyes of the Dragon by Stephen King
+48. The Cat in the Hat by Dr. Seuss
+49. Misty of Chincoteague by Marguerite Henry
+50. The Tale of Peter Rabbit by Beatrix Potter
+
+These recommendations are based on the user's interest in a variety of genres and authors.

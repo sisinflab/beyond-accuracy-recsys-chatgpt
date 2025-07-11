@@ -1,0 +1,54 @@
+Based on user 1980's preferences, here are the top 50 recommendations:
+
+1. The Fray
+2. The Byrds
+3. Bob Dylan
+4. Relient K
+5. Cat Stevens
+6. The Rolling Stones
+7. Cat Power
+8. Dave Matthews Band
+9. KT Tunstall
+10. 30 Seconds to Mars
+11. Red Hot Chili Peppers
+12. The Strokes
+13. Timbaland
+14. Imogen Heap
+15. Joy Division
+16. Kings of Leon
+17. Hanson
+18. Lifehouse
+19. Little Joy
+20. Breaking Benjamin
+21. Marcelo Camelo
+22. Ray LaMontagne
+23. Ryan Adams
+24. Jamie Cullum
+25. Zero 7
+26. Placebo
+27. Pitty
+28. Goo Goo Dolls
+29. Snow Patrol
+30. Incubus
+31. OneRepublic
+32. Feist
+33. Switchfoot
+34. Thousand Foot Krutch
+35. Buddy Holly
+36. The Killers
+37. Gavin DeGraw
+38. Eric Clapton
+39. Jewel
+40. Joss Stone
+41. Johann Sebastian Bach
+42. Michael Bublé
+43. The Beach Boys
+44. Flyleaf
+45. Simon & Garfunkel
+46. Pato Fu
+47. Florence + the Machine
+48. Los Hermanos
+49. White Lies
+50. Radiohead
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Little Women by Louisa May Alcott
+2. Pride and Prejudice by Jane Austen
+3. To Kill a Mockingbird by Harper Lee
+4. The Great Gatsby by F. Scott Fitzgerald
+5. Jane Eyre by Charlotte Bronte
+6. Wuthering Heights by Emily Bronte
+7. The Catcher in the Rye by J.D. Salinger
+8. 1984 by George Orwell
+9. The Hobbit by J.R.R. Tolkien
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Secret Garden by Frances Hodgson Burnett
+12. The Adventures of Tom Sawyer by Mark Twain
+13. The Adventures of Huckleberry Finn by Mark Twain
+14. The Grapes of Wrath by John Steinbeck
+15. Moby-Dick by Herman Melville
+16. The Scarlet Letter by Nathaniel Hawthorne
+17. Crime and Punishment by Fyodor Dostoevsky
+18. War and Peace by Leo Tolstoy
+19. Anna Karenina by Leo Tolstoy
+20. The Picture of Dorian Gray by Oscar Wilde
+21. Dracula by Bram Stoker
+22. Frankenstein by Mary Shelley
+23. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+24. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+25. The Hound of the Baskervilles by Arthur Conan Doyle
+26. The Time Machine by H.G. Wells
+27. Treasure Island by Robert Louis Stevenson
+28. The Call of the Wild by Jack London
+29. White Fang by Jack London
+30. The War of the Worlds by H.G. Wells
+31. The Invisible Man by H.G. Wells
+32. The Three Musketeers by Alexandre Dumas
+33. The Man in the Iron Mask by Alexandre Dumas
+34. The Black Tulip by Alexandre Dumas
+35. The Phantom of the Opera by Gaston Leroux
+36. The Hunchback of Notre-Dame by Victor Hugo
+37. Les Miserables by Victor Hugo
+38. The Canterbury Tales by Geoffrey Chaucer
+39. The Divine Comedy by Dante Alighieri
+40. The Iliad by Homer
+41. The Odyssey by Homer
+42. The Aeneid by Virgil
+43. Don Quixote by Miguel de Cervantes
+44. One Hundred Years of Solitude by Gabriel Garcia Marquez
+45. Love in the Time of Cholera by Gabriel Garcia Marquez
+46. The House of the Spirits by Isabel Allende
+47. Like Water for Chocolate by Laura Esquivel
+48. The Alchemist by Paulo Coelho
+49. One Hundred Years of Solitude by Gabriel Garcia Marquez
+50. Love in the Time of Cholera by Gabriel Garcia Marquez

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Air
+2. LCD Soundsystem
+3. Tame Impala
+4. The Flaming Lips
+5. Gorillaz
+6. The Strokes
+7. The Postal Service
+8. The xx
+9. Portishead
+10. The National
+11. Massive Attack
+12. The Cure
+13. Depeche Mode
+14. New Order
+15. Hot Chip
+16. Grimes
+17. Vampire Weekend
+18. The Killers
+19. Beck
+20. Phoenix
+21. The War on Drugs
+22. Foals
+23. The Black Keys
+24. Fleet Foxes
+25. Alt-J
+26. Bon Iver
+27. The Avalanches
+28. Belle and Sebastian
+29. M83
+30. The Libertines
+31. The Kooks
+32. Bloc Party
+33. Kasabian
+34. The Verve
+35. The Jesus and Mary Chain
+36. Spiritualized
+37. The Rapture
+38. The Horrors
+39. The Drums
+40. The Pains of Being Pure at Heart
+41. Wild Beasts
+42. Editors
+43. White Lies
+44. The Bravery
+45. The Wombats
+46. The Vaccines
+47. Two Door Cinema Club
+48. Franz Ferdinand
+49. The Hives
+50. The Fratellis
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Within Temptation
+2. Amaranthe
+3. Apocalyptica
+4. Sirenia
+5. Xandria
+6. Helloween
+7. Stratovarius
+8. Sabaton
+9. Nightwish
+10. Children of Bodom
+11. Sonata Arctica
+12. Lady Gaga
+13. Tarja
+14. Kamelot
+15. In Flames
+16. Epica
+17. Mägo de Oz
+18. Iron Maiden
+19. Leaves' Eyes
+20. Arch Enemy
+21. Ensiferum
+22. Delain
+23. Lacuna Coil
+24. Eminem
+25. Slayer
+26. Therion
+27. Garbage
+28. Eluveitie
+29. Rammstein
+30. Slipknot
+31. Linkin Park
+32. Norther
+33. t.A.T.u.
+34. Cradle of Filth
+35. Disturbed
+36. Madonna
+37. HammerFall
+38. Blind Guardian
+39. Kamelot
+40. Nightwish
+41. Epica
+42. Delain
+43. Lacuna Coil
+44. Amorphis
+45. Dark Tranquillity
+46. In This Moment
+47. The Agonist
+48. Battle Beast
+49. Korpiklaani
+50. Elvenking
+
+These recommendations are based on the user's liking of similar artists and genres.

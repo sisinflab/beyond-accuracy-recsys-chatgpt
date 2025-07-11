@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J. R. R. Tolkien
+2. The Silmarillion by J. R. R. Tolkien
+3. The Pillars of the Earth by Ken Follett
+4. The Clan of the Cave Bear by Jean M. Auel
+5. The Once and Future King by T. H. White
+6. East of Eden by John Steinbeck
+7. Atlas Shrugged by Ayn Rand
+8. Brave New World by Aldous Huxley
+9. To Kill a Mockingbird by Harper Lee
+10. 1984 by George Orwell
+11. The Stand by Stephen King
+12. The Name of the Wind by Patrick Rothfuss
+13. The Alchemist by Paulo Coelho
+14. The Catcher in the Rye by J. D. Salinger
+15. The Sword of Truth series by Terry Goodkind
+16. The Inheritance Cycle series by Christopher Paolini
+17. The Wheel of Time series by Robert Jordan
+18. The Earth's Children series by Jean M. Auel
+19. The Dark Tower series by Stephen King
+20. The Grapes of Wrath by John Steinbeck
+21. The Fountainhead by Ayn Rand
+22. The Crucible by Arthur Miller
+23. The Great Gatsby by F. Scott Fitzgerald
+24. The Catcher in the Rye by J. D. Salinger
+25. The Stand by Stephen King
+26. The Name of the Wind by Patrick Rothfuss
+27. The Alchemist by Paulo Coelho
+28. The Sword of Truth series by Terry Goodkind
+29. The Inheritance Cycle series by Christopher Paolini
+30. The Wheel of Time series by Robert Jordan
+31. The Earth's Children series by Jean M. Auel
+32. The Dark Tower series by Stephen King
+33. The Grapes of Wrath by John Steinbeck
+34. The Fountainhead by Ayn Rand
+35. The Crucible by Arthur Miller
+36. The Great Gatsby by F. Scott Fitzgerald
+37. The Catcher in the Rye by J. D. Salinger
+38. The Stand by Stephen King
+39. The Name of the Wind by Patrick Rothfuss
+40. The Alchemist by Paulo Coelho
+41. The Sword of Truth series by Terry Goodkind
+42. The Inheritance Cycle series by Christopher Paolini
+43. The Wheel of Time series by Robert Jordan
+44. The Earth's Children series by Jean M. Auel
+45. The Dark Tower series by Stephen King
+46. The Grapes of Wrath by John Steinbeck
+47. The Fountainhead by Ayn Rand
+48. The Crucible by Arthur Miller
+49. The Great Gatsby by F. Scott Fitzgerald
+50. The Catcher in the Rye by J. D. Salinger
+
+These recommendations are based on the user's interest in fantasy, historical fiction, and classic literature.

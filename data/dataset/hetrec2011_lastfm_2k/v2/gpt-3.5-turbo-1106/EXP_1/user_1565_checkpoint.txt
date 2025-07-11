@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Foo Fighters
+2. Red Hot Chili Peppers
+3. The Smashing Pumpkins
+4. The Black Keys
+5. Interpol
+6. The Raconteurs
+7. The Hives
+8. The Vines
+9. The Bravery
+10. The Kooks
+11. The Libertines
+12. The Vaccines
+13. The Wombats
+14. The Kills
+15. The Cranberries
+16. The Flaming Lips
+17. The Shins
+18. The War on Drugs
+19. The Decemberists
+20. The Horrors
+21. The Dandy Warhols
+22. The Jesus and Mary Chain
+23. The Raveonettes
+24. The National
+25. The xx
+26. The Antlers
+27. The Mountain Goats
+28. The New Pornographers
+29. The Postal Service
+30. The Magnetic Fields
+31. The Pains of Being Pure at Heart
+32. The Drums
+33. The Joy Formidable
+34. The Naked and Famous
+35. The Temper Trap
+36. The Boxer Rebellion
+37. The Airborne Toxic Event
+38. The Maccabees
+39. The Cinematics
+40. The Subways
+41. The Futureheads
+42. The Cribs
+43. The Courteeners
+44. The View
+45. The Zutons
+46. The Fratellis
+47. The Coral
+48. The Enemy
+49. The Rifles
+50. The Twang
+
+These recommendations are based on the user's liking of alternative and indie rock bands and are intended to provide a diverse range of similar artists for the user to explore.

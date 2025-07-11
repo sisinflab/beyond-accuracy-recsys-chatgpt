@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smashing Pumpkins
+2. Linkin Park
+3. Radiohead
+4. Placebo
+5. Nine Inch Nails
+6. Depeche Mode
+7. The Cure
+8. Garbage
+9. My Chemical Romance
+10. Paramore
+11. Panic! At The Disco
+12. The White Stripes
+13. Arctic Monkeys
+14. The Strokes
+15. Franz Ferdinand
+16. Interpol
+17. The Hives
+18. Bloc Party
+19. The Bravery
+20. The Vines
+21. The Libertines
+22. The Killers
+23. Muse
+24. Enter Shikari
+25. Celldweller
+26. 30 Seconds to Mars
+27. IAMX
+28. Cinema Bizarre
+29. Apoptygma Berzerk
+30. Дельфин
+31. Assemblage 23
+32. Shiny Toy Guns
+33. HIM
+34. Queen
+35. Emilie Autumn
+36. Hadouken!
+37. AFI
+38. Marilyn Manson
+39. Korn
+40. Rammstein
+41. Slipknot
+42. System Of A Down
+43. Tool
+44. Rage Against The Machine
+45. Foo Fighters
+46. Queens of the Stone Age
+47. Soundgarden
+48. Audioslave
+49. Alice In Chains
+50. Stone Temple Pilots
+
+These recommendations are based on the user's liking of similar artists and genres.

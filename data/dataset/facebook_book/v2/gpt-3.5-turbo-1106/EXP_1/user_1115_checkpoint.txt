@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+2. Pride and Prejudice by Jane Austen
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. 1984 by George Orwell
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Hobbit by J.R.R. Tolkien
+8. The Hunger Games by Suzanne Collins
+9. The Book Thief by Markus Zusak
+10. The Giver by Lois Lowry
+11. The Alchemist by Paulo Coelho
+12. The Fault in Our Stars by John Green
+13. The Chronicles of Narnia by C.S. Lewis
+14. The Lord of the Rings by J.R.R. Tolkien
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Da Vinci Code by Dan Brown
+17. The Help by Kathryn Stockett
+18. The Road by Cormac McCarthy
+19. The Kite Runner by Khaled Hosseini
+20. The Secret Life of Bees by Sue Monk Kidd
+21. The Lovely Bones by Alice Sebold
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Time Traveler's Wife by Audrey Niffenegger
+24. The Night Circus by Erin Morgenstern
+25. The Goldfinch by Donna Tartt
+26. The Martian by Andy Weir
+27. The Handmaid's Tale by Margaret Atwood
+28. The Name of the Wind by Patrick Rothfuss
+29. The Shadow of the Wind by Carlos Ruiz Zafón
+30. The Thirteenth Tale by Diane Setterfield
+31. The Nightingale by Kristin Hannah
+32. The Light Between Oceans by M.L. Stedman
+33. The Art of Racing in the Rain by Garth Stein
+34. The Glass Castle by Jeannette Walls
+35. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+36. The Poisonwood Bible by Barbara Kingsolver
+37. The Secret History by Donna Tartt
+38. The Picture of Dorian Gray by Oscar Wilde
+39. The Count of Monte Cristo by Alexandre Dumas
+40. The Brothers Karamazov by Fyodor Dostoevsky
+41. The Bell Jar by Sylvia Plath
+42. The Road Less Traveled by M. Scott Peck
+43. The Stand by Stephen King
+44. The Shining by Stephen King
+45. The Outsiders by S.E. Hinton
+46. The Old Man and the Sea by Ernest Hemingway
+47. The Odyssey by Homer
+48. The Metamorphosis by Franz Kafka
+49. The Little Prince by Antoine de Saint-Exupéry
+50. The Iliad by Homer
+
+These recommendations are based on the user's liking of the mentioned books and are aimed at providing a diverse range of genres and authors.

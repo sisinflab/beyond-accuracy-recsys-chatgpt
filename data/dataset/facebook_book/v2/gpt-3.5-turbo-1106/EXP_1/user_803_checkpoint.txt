@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Night Circus by Erin Morgenstern
+2. The Secret History by Donna Tartt
+3. The Shadow of the Wind by Carlos Ruiz Zafón
+4. The Book Thief by Markus Zusak
+5. The Goldfinch by Donna Tartt
+6. The Secret Life of Bees by Sue Monk Kidd
+7. The Time Traveler's Wife by Audrey Niffenegger
+8. The Girl on the Train by Paula Hawkins
+9. The Great Gatsby by F. Scott Fitzgerald
+10. To Kill a Mockingbird by Harper Lee
+11. The Catcher in the Rye by J.D. Salinger
+12. 1984 by George Orwell
+13. Pride and Prejudice by Jane Austen
+14. Jane Eyre by Charlotte Brontë
+15. Wuthering Heights by Emily Brontë
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The Count of Monte Cristo by Alexandre Dumas
+18. Crime and Punishment by Fyodor Dostoevsky
+19. One Hundred Years of Solitude by Gabriel García Márquez
+20. Love in the Time of Cholera by Gabriel García Márquez
+21. The Brothers Karamazov by Fyodor Dostoevsky
+22. Anna Karenina by Leo Tolstoy
+23. War and Peace by Leo Tolstoy
+24. The Master and Margarita by Mikhail Bulgakov
+25. The Stranger by Albert Camus
+26. The Bell Jar by Sylvia Plath
+27. The Handmaid's Tale by Margaret Atwood
+28. The Road by Cormac McCarthy
+29. Beloved by Toni Morrison
+30. The Color Purple by Alice Walker
+31. The Grapes of Wrath by John Steinbeck
+32. East of Eden by John Steinbeck
+33. Slaughterhouse-Five by Kurt Vonnegut
+34. Catch-22 by Joseph Heller
+35. The Sun Also Rises by Ernest Hemingway
+36. A Farewell to Arms by Ernest Hemingway
+37. The Old Man and the Sea by Ernest Hemingway
+38. The Sound and the Fury by William Faulkner
+39. As I Lay Dying by William Faulkner
+40. The Handmaid's Tale by Margaret Atwood
+41. The Road by Cormac McCarthy
+42. Beloved by Toni Morrison
+43. The Color Purple by Alice Walker
+44. The Grapes of Wrath by John Steinbeck
+45. East of Eden by John Steinbeck
+46. Slaughterhouse-Five by Kurt Vonnegut
+47. Catch-22 by Joseph Heller
+48. The Sun Also Rises by Ernest Hemingway
+49. A Farewell to Arms by Ernest Hemingway
+50. The Old Man and the Sea by Ernest Hemingway
+
+These recommendations are based on the user's interest in literary fiction, classics, and contemporary novels.

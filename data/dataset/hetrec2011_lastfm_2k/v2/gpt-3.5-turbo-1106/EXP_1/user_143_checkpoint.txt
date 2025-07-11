@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Dean Martin
+2. Tony Bennett
+3. Nat King Cole
+4. Bing Crosby
+5. Sammy Davis Jr.
+6. Ray Charles
+7. Louis Armstrong
+8. Ella Fitzgerald
+9. Billie Holiday
+10. Sarah Vaughan
+11. Doris Day
+12. Peggy Lee
+13. Bobby Darin
+14. Andy Williams
+15. Perry Como
+16. Johnny Mathis
+17. Michael Bublé
+18. Harry Connick Jr.
+19. Diana Krall
+20. Norah Jones
+21. Mel Tormé
+22. Chet Baker
+23. Julie London
+24. Dinah Washington
+25. Chet Baker
+26. Blossom Dearie
+27. Anita O'Day
+28. June Christy
+29. Stan Getz
+30. João Gilberto
+31. Astrud Gilberto
+32. Antonio Carlos Jobim
+33. Sergio Mendes
+34. Stan Getz
+35. João Gilberto
+36. Astrud Gilberto
+37. Antonio Carlos Jobim
+38. Sergio Mendes
+39. Ella Fitzgerald
+40. Louis Armstrong
+41. Billie Holiday
+42. Sarah Vaughan
+43. Doris Day
+44. Peggy Lee
+45. Bobby Darin
+46. Andy Williams
+47. Perry Como
+48. Johnny Mathis
+49. Michael Bublé
+50. Harry Connick Jr.
+
+These recommendations are based on the user's liking for classic and contemporary pop, rock, and jazz artists, and are aimed at providing a diverse range of similar artists for the user to explore.

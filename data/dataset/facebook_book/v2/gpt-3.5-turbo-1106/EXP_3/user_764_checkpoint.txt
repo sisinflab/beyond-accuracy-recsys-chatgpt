@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations re-ranked for user 764:
+
+1. Pride and Prejudice by Jane Austen
+2. Pride and Prejudice and Zombies
+3. Thirteen Reasons Why by Jay Asher
+4. Pretty Little Liars (book)
+5. Incarceron by Catherine Fisher
+6. The Catcher in the Rye
+7. A Tale of Two Cities
+8. Oliver Twist
+9. Romeo and Juliet
+10. Emma (novel)
+11. Sense and Sensibility
+12. Jane Eyre
+13. Rebecca (novel)
+14. The Last Song (novel)
+15. The Notebook (novel)
+16. Twilight (series)
+17. Ninth Grade Slays
+18. Holes (novel)
+19. The Luxe
+20. Dark Visions
+21. The Secret (book)
+22. The Chronicles of Narnia: Prince Caspian
+23. Percy Jackson & the Olympians
+24. The Zombie Survival Guide
+25. The Hitchhiker's Guide to the Galaxy (novel)
+26. The Cask of Amontillado
+27. A Midsummer Night's Dream
+28. Dracula
+29. Inferno (Dante)
+30. The Lion in Winter
+31. Eats, Shoots & Leaves
+32. World Without End (Follett novel)
+33. The Last Storytellers: Tales from the Heart of Morocco
+34. Miss Christina
+35. Lord of the Flies
+36. A Clockwork Orange
+37. God Is Not Great
+38. Bhagavad Gita
+39. Les Misérables
+40. Tuesdays with Morrie
+41. Because of Winn-Dixie
+42. Charmed (comics)
+43. Vampire Knight
+44. Black Dagger Brotherhood
+45. Diary of a Wimpy Kid (series)
+46. Winnie-the-Pooh (book)
+47. Brain Droppings
+48. The Fountainhead
+49. Tunnels (novel)
+50. Evermore (book)
+
+These recommendations are based on the user's liking of the listed books and are re-ranked to provide the most relevant suggestions.

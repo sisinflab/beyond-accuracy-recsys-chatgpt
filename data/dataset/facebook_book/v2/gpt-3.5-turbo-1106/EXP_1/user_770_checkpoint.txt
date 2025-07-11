@@ -1,0 +1,54 @@
+Based on the preferences of user 770, here are the top 50 book recommendations:
+
+1. The Doors of Perception by Aldous Huxley
+2. One Flew Over the Cuckoo's Nest by Ken Kesey
+3. 1984 by George Orwell
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Electric Kool-Aid Acid Test by Tom Wolfe
+6. The Catcher in the Rye by J.D. Salinger
+7. The Great Gatsby by F. Scott Fitzgerald
+8. On the Road by Jack Kerouac
+9. The Bell Jar by Sylvia Plath
+10. Fear and Loathing in Las Vegas by Hunter S. Thompson
+11. The Dharma Bums by Jack Kerouac
+12. The Stranger by Albert Camus
+13. The Sun Also Rises by Ernest Hemingway
+14. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+15. The Alchemist by Paulo Coelho
+16. Siddhartha by Hermann Hesse
+17. The Road by Cormac McCarthy
+18. Into the Wild by Jon Krakauer
+19. The Old Man and the Sea by Ernest Hemingway
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Hobbit by J.R.R. Tolkien
+22. The Lord of the Rings by J.R.R. Tolkien
+23. The Martian by Andy Weir
+24. Dune by Frank Herbert
+25. Neuromancer by William Gibson
+26. Snow Crash by Neal Stephenson
+27. Do Androids Dream of Electric Sheep? by Philip K. Dick
+28. The Handmaid's Tale by Margaret Atwood
+29. The Hunger Games by Suzanne Collins
+30. Ender's Game by Orson Scott Card
+31. Ready Player One by Ernest Cline
+32. The Maze Runner by James Dashner
+33. The Giver by Lois Lowry
+34. The Time Machine by H.G. Wells
+35. The War of the Worlds by H.G. Wells
+36. The Island of Dr. Moreau by H.G. Wells
+37. The Invisible Man by H.G. Wells
+38. The Stand by Stephen King
+39. The Shining by Stephen King
+40. It by Stephen King
+41. Pet Sematary by Stephen King
+42. Misery by Stephen King
+43. The Girl with the Dragon Tattoo by Stieg Larsson
+44. Gone Girl by Gillian Flynn
+45. Sharp Objects by Gillian Flynn
+46. Dark Places by Gillian Flynn
+47. The Da Vinci Code by Dan Brown
+48. Angels & Demons by Dan Brown
+49. Inferno by Dan Brown
+50. Digital Fortress by Dan Brown
+
+These recommendations are based on similar themes, genres, and authors to the books that user 770 likes.

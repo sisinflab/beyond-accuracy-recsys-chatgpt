@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fiona Apple
+2. Sufjan Stevens
+3. Caetano Veloso
+4. Adele
+5. Vanessa da Mata
+6. Björk
+7. Zaz
+8. Ana Carolina
+9. Florence + The Machine
+10. Adriana Calcanhotto
+11. Tori Amos
+12. Nando Reis
+13. Lana Del Rey
+14. Cássia Eller
+15. The Cranberries
+16. Zélia Duncan
+17. Alanis Morissette
+18. Joni Mitchell
+19. Maria Rita
+20. Lenine
+21. Elis Regina
+22. Ingrid Michaelson
+23. Amy Winehouse
+24. Maria Bethânia
+25. Avril Lavigne
+26. Engenheiros do Hawaii
+27. Beyoncé
+28. Norah Jones
+29. Pitty
+30. David Bowie
+31. Leonard Cohen
+32. Dixie Chicks
+33. Sandy Leah
+34. Cat Stevens
+35. Regina Spektor
+36. Chico Buarque
+37. Marisa Monte
+38. Maria Gadú
+39. Gal Costa
+40. Céu
+41. Mariah Carey
+42. Tracy Chapman
+43. Alanis Morissette
+44. Joni Mitchell
+45. Maria Rita
+46. Lenine
+47. Elis Regina
+48. Ingrid Michaelson
+49. Amy Winehouse
+50. Maria Bethânia
+
+These recommendations are based on the user's liking of similar artists and genres.

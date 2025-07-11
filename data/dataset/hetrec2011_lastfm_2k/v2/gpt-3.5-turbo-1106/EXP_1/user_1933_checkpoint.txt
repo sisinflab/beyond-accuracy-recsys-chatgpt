@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Velvet Underground
+2. The Doors
+3. The Clash
+4. Talking Heads
+5. Sonic Youth
+6. Pixies
+7. Nick Cave & The Bad Seeds
+8. Joy Division
+9. Iggy Pop
+10. The Stooges
+11. The Cure
+12. Radiohead
+13. Patti Smith
+14. New Order
+15. Nirvana
+16. My Bloody Valentine
+17. Lou Reed
+18. Leonard Cohen
+19. Kraftwerk
+20. Kate Bush
+21. Joy Division
+22. Interpol
+23. Grateful Dead
+24. Fugazi
+25. Echo & the Bunnymen
+26. Depeche Mode
+27. Cocteau Twins
+28. Bauhaus
+29. Beastie Boys
+30. David Bowie
+31. Dead Kennedys
+32. Einstürzende Neubauten
+33. Johnny Cash
+34. Jimi Hendrix
+35. The Smiths
+36. R.E.M.
+37. The Jesus and Mary Chain
+38. The Flaming Lips
+39. The Pixies
+40. The White Stripes
+41. The Black Keys
+42. The Strokes
+43. The National
+44. The Killers
+45. The Arctic Monkeys
+46. The Black Rebel Motorcycle Club
+47. The Libertines
+48. The Hives
+49. The Vines
+50. The Raconteurs
+
+These recommendations are based on the user's liking of artists such as Jimi Hendrix, Johnny Cash, Einstürzende Neubauten, Dead Kennedys, Beastie Boys, Bauhaus, David Bowie, Pink Floyd, Pearl Jam, Alien Sex Fiend, Jack Johnson, and Feist.

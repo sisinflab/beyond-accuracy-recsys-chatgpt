@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. The Stranger by Albert Camus
+6. The Road by Cormac McCarthy
+7. The Handmaid's Tale by Margaret Atwood
+8. The Bell Jar by Sylvia Plath
+9. The Grapes of Wrath by John Steinbeck
+10. To Kill a Mockingbird by Harper Lee
+11. The Great Gatsby by F. Scott Fitzgerald
+12. Animal Farm by George Orwell
+13. The Old Man and the Sea by Ernest Hemingway
+14. Lord of the Flies by William Golding
+15. The Sun Also Rises by Ernest Hemingway
+16. A Clockwork Orange by Anthony Burgess
+17. The Stranger by Albert Camus
+18. The Road by Cormac McCarthy
+19. The Handmaid's Tale by Margaret Atwood
+20. The Bell Jar by Sylvia Plath
+21. The Grapes of Wrath by John Steinbeck
+22. To Kill a Mockingbird by Harper Lee
+23. The Great Gatsby by F. Scott Fitzgerald
+24. Animal Farm by George Orwell
+25. The Old Man and the Sea by Ernest Hemingway
+26. Lord of the Flies by William Golding
+27. The Sun Also Rises by Ernest Hemingway
+28. A Clockwork Orange by Anthony Burgess
+29. The Stranger by Albert Camus
+30. The Road by Cormac McCarthy
+31. The Handmaid's Tale by Margaret Atwood
+32. The Bell Jar by Sylvia Plath
+33. The Grapes of Wrath by John Steinbeck
+34. To Kill a Mockingbird by Harper Lee
+35. The Great Gatsby by F. Scott Fitzgerald
+36. Animal Farm by George Orwell
+37. The Old Man and the Sea by Ernest Hemingway
+38. Lord of the Flies by William Golding
+39. The Sun Also Rises by Ernest Hemingway
+40. A Clockwork Orange by Anthony Burgess
+41. The Stranger by Albert Camus
+42. The Road by Cormac McCarthy
+43. The Handmaid's Tale by Margaret Atwood
+44. The Bell Jar by Sylvia Plath
+45. The Grapes of Wrath by John Steinbeck
+46. To Kill a Mockingbird by Harper Lee
+47. The Great Gatsby by F. Scott Fitzgerald
+48. Animal Farm by George Orwell
+49. The Old Man and the Sea by Ernest Hemingway
+50. Lord of the Flies by William Golding
+
+These recommendations are based on the user's interest in classic literature, dystopian themes, and philosophical works.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. Ender's Game by Orson Scott Card
+3. A Wrinkle in Time by Madeleine L'Engle
+4. The Hunger Games by Suzanne Collins
+5. The Name of the Wind by Patrick Rothfuss
+6. Dune by Frank Herbert
+7. The Martian by Andy Weir
+8. 1984 by George Orwell
+9. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+10. The Alchemist by Paulo Coelho
+11. The Catcher in the Rye by J.D. Salinger
+12. To Kill a Mockingbird by Harper Lee
+13. The Great Gatsby by F. Scott Fitzgerald
+14. Brave New World by Aldous Huxley
+15. The Girl with the Dragon Tattoo by Stieg Larsson
+16. The Da Vinci Code by Dan Brown
+17. The Shining by Stephen King
+18. The Stand by Stephen King
+19. The Road by Cormac McCarthy
+20. The Handmaid's Tale by Margaret Atwood
+21. The Giver by Lois Lowry
+22. The Maze Runner by James Dashner
+23. The Book Thief by Markus Zusak
+24. The Lovely Bones by Alice Sebold
+25. The Help by Kathryn Stockett
+26. The Fault in Our Stars by John Green
+27. The Girl on the Train by Paula Hawkins
+28. Gone Girl by Gillian Flynn
+29. The Goldfinch by Donna Tartt
+30. The Night Circus by Erin Morgenstern
+31. The Time Traveler's Wife by Audrey Niffenegger
+32. The Secret History by Donna Tartt
+33. The Shadow of the Wind by Carlos Ruiz Zafón
+34. The Kite Runner by Khaled Hosseini
+35. The Glass Castle by Jeannette Walls
+36. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+37. The Help by Kathryn Stockett
+38. The Fault in Our Stars by John Green
+39. The Girl on the Train by Paula Hawkins
+40. Gone Girl by Gillian Flynn
+41. The Goldfinch by Donna Tartt
+42. The Night Circus by Erin Morgenstern
+43. The Time Traveler's Wife by Audrey Niffenegger
+44. The Secret History by Donna Tartt
+45. The Shadow of the Wind by Carlos Ruiz Zafón
+46. The Kite Runner by Khaled Hosseini
+47. The Glass Castle by Jeannette Walls
+48. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+49. The Help by Kathryn Stockett
+50. The Fault in Our Stars by John Green
+
+These recommendations are based on the user's interest in fantasy, science fiction, and classic literature.

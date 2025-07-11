@@ -1,0 +1,54 @@
+Based on user 752's preferences, here are the top 50 book recommendations:
+
+1. The Choice (novel) by Nicholas Sparks (author)
+2. Dear John (novel) by Nicholas Sparks
+3. The Lucky One (novel) by Nicholas Sparks (author)
+4. Marley & Me by John Grogan (journalist)
+5. Cut (novel) by Patricia McCormick (author)
+6. The Time Traveler's Wife
+7. The Notebook (novel) by Nicholas Sparks
+8. PS, I Love You (novel)
+9. The Guardian (novel)
+10. The True Believer by Eric Hoffer
+11. The Five People You Meet in Heaven
+12. The Chronicles of Narnia: Prince Caspian
+13. Maximum Ride
+14. The Hunger Games
+15. Twilight (series)
+16. Gossip Girl (novel series)
+17. Pride and Prejudice
+18. The Lorax
+19. Pretty Little Liars (book)
+20. The Reckoning (Armstrong novel)
+21. Inferno (Dante)
+22. Romeo and Juliet
+23. Thirteen Reasons Why
+24. The Hobbit
+25. The Zombie Survival Guide
+26. The Summoning (novel)
+27. The Wedding (Steel novel)
+28. The Hamlet
+29. Manga
+30. The Good Earth
+31. Mansfield Park
+32. City of Ashes
+33. Lock and Key
+34. Speak (novel)
+35. Holes (novel)
+36. Identical (novel)
+37. Sense and Sensibility
+38. Evermore (book)
+39. Emma (novel)
+40. Wake (Lisa McMann novel)
+41. Along for the Ride
+42. Change of Heart (novel)
+43. Warriors (anthology)
+44. Annie's Baby
+45. Suck It Up
+46. The Last Lecture
+47. Burned (Hopkins novel)
+48. Fade (novel)
+49. Go Ask Alice
+50. If You Could See Me Now (Cecelia Ahern novel)
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

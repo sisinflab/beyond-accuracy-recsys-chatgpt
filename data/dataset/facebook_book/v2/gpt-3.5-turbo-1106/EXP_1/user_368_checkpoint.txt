@@ -1,0 +1,54 @@
+Based on the preferences of user 368, here are the top 50 book recommendations:
+
+1. The Chronicles of Narnia by C.S. Lewis
+2. Harry Potter series by J.K. Rowling
+3. Percy Jackson & the Olympians series by Rick Riordan
+4. The Hobbit by J.R.R. Tolkien
+5. Coraline by Neil Gaiman
+6. The Alchemist by Paulo Coelho
+7. The Little Prince by Antoine de Saint-Exupéry
+8. The Secret Garden by Frances Hodgson Burnett
+9. The Giver by Lois Lowry
+10. The Catcher in the Rye by J.D. Salinger
+11. The Hunger Games series by Suzanne Collins
+12. The Book Thief by Markus Zusak
+13. The Outsiders by S.E. Hinton
+14. The Perks of Being a Wallflower by Stephen Chbosky
+15. The Fault in Our Stars by John Green
+16. To Kill a Mockingbird by Harper Lee
+17. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+18. The Night Circus by Erin Morgenstern
+19. The Name of the Wind by Patrick Rothfuss
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Maze Runner series by James Dashner
+23. The Lightning Thief by Rick Riordan
+24. The Time Traveler's Wife by Audrey Niffenegger
+25. The Lovely Bones by Alice Sebold
+26. The Kite Runner by Khaled Hosseini
+27. The Help by Kathryn Stockett
+28. The Glass Castle by Jeannette Walls
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Road by Cormac McCarthy
+31. The Handmaid's Tale by Margaret Atwood
+32. The Goldfinch by Donna Tartt
+33. The Nightingale by Kristin Hannah
+34. The Silent Patient by Alex Michaelides
+35. The Tattooist of Auschwitz by Heather Morris
+36. The Alice Network by Kate Quinn
+37. The Light Between Oceans by M.L. Stedman
+38. The Nightingale by Kristin Hannah
+39. The Silent Patient by Alex Michaelides
+40. The Tattooist of Auschwitz by Heather Morris
+41. The Alice Network by Kate Quinn
+42. The Light Between Oceans by M.L. Stedman
+43. The Nightingale by Kristin Hannah
+44. The Silent Patient by Alex Michaelides
+45. The Tattooist of Auschwitz by Heather Morris
+46. The Alice Network by Kate Quinn
+47. The Light Between Oceans by M.L. Stedman
+48. The Nightingale by Kristin Hannah
+49. The Silent Patient by Alex Michaelides
+50. The Tattooist of Auschwitz by Heather Morris
+
+These recommendations are based on the user's interest in a variety of genres and authors, including fantasy, young adult fiction, classics, and contemporary literature.

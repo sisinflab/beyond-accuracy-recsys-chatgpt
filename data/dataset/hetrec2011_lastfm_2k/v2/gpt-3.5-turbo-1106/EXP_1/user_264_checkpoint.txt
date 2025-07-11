@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. U2
+2. Radiohead
+3. Muse
+4. The Killers
+5. Oasis
+6. Depeche Mode
+7. The Cure
+8. Duran Duran
+9. Pet Shop Boys
+10. Tears for Fears
+11. Simple Minds
+12. New Order
+13. INXS
+14. Placebo
+15. The Smiths
+16. R.E.M.
+17. Joy Division
+18. Echo & the Bunnymen
+19. The Verve
+20. The Police
+21. Talking Heads
+22. Blondie
+23. The Psychedelic Furs
+24. The Human League
+25. A-ha
+26. Erasure
+27. George Michael
+28. Tears for Fears
+29. Simple Minds
+30. New Order
+31. INXS
+32. Placebo
+33. The Smiths
+34. R.E.M.
+35. Joy Division
+36. Echo & the Bunnymen
+37. The Verve
+38. The Police
+39. Talking Heads
+40. Blondie
+41. The Psychedelic Furs
+42. The Human League
+43. Coldplay
+44. Keane
+45. Angels & Airwaves
+46. ATB
+47. The Rasmus
+48. Scorpions
+49. Blackfield
+50. Enigma
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Sapiens: A Brief History of Humankind by Yuval Noah Harari
+3. The Alchemist by Paulo Coelho
+4. The Power of Now by Eckhart Tolle
+5. 1984 by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. The Girl on the Train by Paula Hawkins
+9. The Da Vinci Code by Dan Brown
+10. The Hunger Games by Suzanne Collins
+11. The Great Gatsby by F. Scott Fitzgerald
+12. The Kite Runner by Khaled Hosseini
+13. The Secret by Rhonda Byrne
+14. The Art of War by Sun Tzu
+15. The Hobbit by J.R.R. Tolkien
+16. The Chronicles of Narnia by C.S. Lewis
+17. The Road by Cormac McCarthy
+18. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+19. The Book Thief by Markus Zusak
+20. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+21. The Martian by Andy Weir
+22. The Night Circus by Erin Morgenstern
+23. The Goldfinch by Donna Tartt
+24. The Help by Kathryn Stockett
+25. The Handmaid's Tale by Margaret Atwood
+26. The Sun Also Rises by Ernest Hemingway
+27. The Picture of Dorian Gray by Oscar Wilde
+28. The Stranger by Albert Camus
+29. The Road Less Traveled by M. Scott Peck
+30. The Bell Jar by Sylvia Plath
+31. The Stand by Stephen King
+32. The Shining by Stephen King
+33. The Girl with the Dragon Tattoo by Stieg Larsson
+34. The Lovely Bones by Alice Sebold
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Giver by Lois Lowry
+37. The Perks of Being a Wallflower by Stephen Chbosky
+38. The Maze Runner by James Dashner
+39. The Name of the Wind by Patrick Rothfuss
+40. The Handmaid's Tale by Margaret Atwood
+41. The Road by Cormac McCarthy
+42. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+43. The Book Thief by Markus Zusak
+44. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+45. The Martian by Andy Weir
+46. The Night Circus by Erin Morgenstern
+47. The Goldfinch by Donna Tartt
+48. The Help by Kathryn Stockett
+49. The Handmaid's Tale by Margaret Atwood
+50. The Sun Also Rises by Ernest Hemingway
+
+These recommendations are based on the user's interest in a mix of fiction, non-fiction, and popular books.

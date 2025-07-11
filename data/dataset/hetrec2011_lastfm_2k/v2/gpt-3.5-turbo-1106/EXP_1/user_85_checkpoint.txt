@@ -1,0 +1,54 @@
+Based on user 85's preferences, here are the top 50 recommendations:
+
+1. Opeth
+2. Katatonia
+3. Anathema
+4. In Flames
+5. My Dying Bride
+6. Tool
+7. Deftones
+8. A Perfect Circle
+9. Trivium
+10. Lacuna Coil
+11. Dark Tranquillity
+12. Mastodon
+13. Paradise Lost
+14. HIM
+15. Pendulum
+16. Alice in Chains
+17. Marilyn Manson
+18. UNKLE
+19. Queens of the Stone Age
+20. David Bowie
+21. Monster Magnet
+22. The Hellacopters
+23. Korn
+24. Amorphis
+25. Type O Negative
+26. Backyard Babies
+27. Massive Attack
+28. Social Distortion
+29. Stone Temple Pilots
+30. Children of Bodom
+31. Rise Against
+32. Foo Fighters
+33. Them Crooked Vultures
+34. Killing Joke
+35. Guns N' Roses
+36. Porcupine Tree
+37. Avenged Sevenfold
+38. Nine Inch Nails
+39. Rammstein
+40. System of a Down
+41. Slipknot
+42. Pantera
+43. Megadeth
+44. Iron Maiden
+45. Metallica
+46. Black Sabbath
+47. Led Zeppelin
+48. Pink Floyd
+49. The Doors
+50. The Rolling Stones
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands.

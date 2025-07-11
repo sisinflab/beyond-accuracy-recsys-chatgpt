@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 215:
+
+1. Radiohead
+2. Pink Floyd
+3. Led Zeppelin
+4. The Beatles
+5. The Who
+6. Miles Davis
+7. David Bowie
+8. The Smiths
+9. The Strokes
+10. Arctic Monkeys
+11. The Cure
+12. U2
+13. Red Hot Chili Peppers
+14. Death Cab for Cutie
+15. Modest Mouse
+16. Kings of Leon
+17. The Chemical Brothers
+18. Bloc Party
+19. New Order
+20. My Bloody Valentine
+21. Neutral Milk Hotel
+22. Kasabian
+23. The Temper Trap
+24. Black Rebel Motorcycle Club
+25. Weezer
+26. The Prodigy
+27. Coldplay
+28. Kings of Convenience
+29. Minus the Bear
+30. Los Hermanos
+31. Tegan and Sara
+32. Marvin Gaye
+33. Stevie Wonder
+34. Frank Sinatra
+35. Elvis Presley
+36. Michael Jackson
+37. Madonna
+38. Janet Jackson
+39. Eminem
+40. Daft Punk
+41. Alexisonfire
+42. City and Colour
+43. Jack Johnson
+44. Tori Amos
+45. Fiona Apple
+46. Sting
+47. Luis Miguel
+48. The Temper Trap
+49. The Doors
+50. Oasis
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists and genres that align with their tastes.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. Thirteen Reasons Why by Jay Asher
+3. Eleanor & Park by Rainbow Rowell
+4. If I Stay by Gayle Forman
+5. Paper Towns by John Green
+6. The Perks of Being a Wallflower by Stephen Chbosky
+7. Looking for Alaska by John Green
+8. Before I Fall by Lauren Oliver
+9. We Were Liars by E. Lockhart
+10. The Book Thief by Markus Zusak
+11. The Maze Runner by James Dashner
+12. Divergent by Veronica Roth
+13. The Hunger Games by Suzanne Collins
+14. The Giver by Lois Lowry
+15. Delirium by Lauren Oliver
+16. Uglies by Scott Westerfeld
+17. The Selection by Kiera Cass
+18. Legend by Marie Lu
+19. Matched by Ally Condie
+20. The 5th Wave by Rick Yancey
+21. The Darkest Minds by Alexandra Bracken
+22. Red Queen by Victoria Aveyard
+23. Cinder by Marissa Meyer
+24. Shatter Me by Tahereh Mafi
+25. The Lunar Chronicles by Marissa Meyer
+26. The Mortal Instruments by Cassandra Clare
+27. The Infernal Devices by Cassandra Clare
+28. Throne of Glass by Sarah J. Maas
+29. Graceling by Kristin Cashore
+30. Poison Study by Maria V. Snyder
+31. Seraphina by Rachel Hartman
+32. Shadow and Bone by Leigh Bardugo
+33. Daughter of Smoke & Bone by Laini Taylor
+34. The Night Circus by Erin Morgenstern
+35. The Name of the Wind by Patrick Rothfuss
+36. Mistborn by Brandon Sanderson
+37. The Lies of Locke Lamora by Scott Lynch
+38. The Way of Kings by Brandon Sanderson
+39. The Final Empire by Brandon Sanderson
+40. The Black Prism by Brent Weeks
+41. The Blade Itself by Joe Abercrombie
+42. The Lies of Locke Lamora by Scott Lynch
+43. The Name of the Wind by Patrick Rothfuss
+44. The Way of Kings by Brandon Sanderson
+45. The Final Empire by Brandon Sanderson
+46. The Black Prism by Brent Weeks
+47. The Blade Itself by Joe Abercrombie
+48. The Lies of Locke Lamora by Scott Lynch
+49. The Name of the Wind by Patrick Rothfuss
+50. The Way of Kings by Brandon Sanderson

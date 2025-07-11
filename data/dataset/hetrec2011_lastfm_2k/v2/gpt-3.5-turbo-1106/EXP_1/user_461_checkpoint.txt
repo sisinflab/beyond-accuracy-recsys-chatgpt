@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Coldplay
+2. Oasis
+3. The Killers
+4. Red Hot Chili Peppers
+5. Radiohead
+6. The Cranberries
+7. Keane
+8. David Bowie
+9. Fleetwood Mac
+10. The Rolling Stones
+11. Elton John
+12. Bon Jovi
+13. The Police
+14. Duran Duran
+15. INXS
+16. Depeche Mode
+17. The Smiths
+18. The Cure
+19. Tears for Fears
+20. Pet Shop Boys
+21. Talking Heads
+22. Blondie
+23. The Pretenders
+24. Kate Bush
+25. Sade
+26. Annie Lennox
+27. Eurythmics
+28. Roxette
+29. A-ha
+30. George Michael
+31. Wham!
+32. Toto
+33. Genesis
+34. Phil Collins (solo)
+35. Peter Gabriel
+36. Billy Joel
+37. Elton John
+38. Queen
+39. David Bowie
+40. The Who
+41. Led Zeppelin
+42. Pink Floyd
+43. The Doors
+44. Jimi Hendrix
+45. Bob Dylan
+46. Neil Young
+47. Simon & Garfunkel
+48. Cat Stevens
+49. James Taylor
+50. Joni Mitchell
+
+These recommendations are based on the user's liking of artists with similar styles and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Five People You Meet in Heaven by Mitch Albom
+2. The Time Keeper by Mitch Albom
+3. For One More Day by Mitch Albom
+4. The First Phone Call from Heaven by Mitch Albom
+5. Have a Little Faith: A True Story by Mitch Albom
+6. The Magic Strings of Frankie Presto by Mitch Albom
+7. The Next Person You Meet in Heaven by Mitch Albom
+8. The Testament by John Grisham
+9. A Time to Kill by John Grisham
+10. The Firm by John Grisham
+11. The Pelican Brief by John Grisham
+12. The Client by John Grisham
+13. Sycamore Row by John Grisham
+14. The Street Lawyer by John Grisham
+15. The Chamber by John Grisham
+16. The Rainmaker by John Grisham
+17. The Runaway Jury by John Grisham
+18. The Partner by John Grisham
+19. The Brethren by John Grisham
+20. The Summons by John Grisham
+21. The King of Torts by John Grisham
+22. The Last Juror by John Grisham
+23. The Broker by John Grisham
+24. The Innocent Man: Murder and Injustice in a Small Town by John Grisham
+25. The Appeal by John Grisham
+26. The Associate by John Grisham
+27. The Litigators by John Grisham
+28. Calico Joe by John Grisham
+29. The Racketeer by John Grisham
+30. Gray Mountain by John Grisham
+31. Rogue Lawyer by John Grisham
+32. The Whistler by John Grisham
+33. Camino Island by John Grisham
+34. The Rooster Bar by John Grisham
+35. The Reckoning by John Grisham
+36. The Guardians by John Grisham
+37. A Time for Mercy by John Grisham
+38. The Judge's List by John Grisham
+39. The Scorch Trials by James Dashner
+40. The Death Cure by James Dashner
+41. The Kill Order by James Dashner
+42. The Fever Code by James Dashner
+43. The Maze Runner by James Dashner
+44. The Eye of Minds by James Dashner
+45. The Rule of Thoughts by James Dashner
+46. The Game of Lives by James Dashner
+47. The 13th Reality: The Journal of Curious Letters by James Dashner
+48. The 13th Reality: The Hunt for Dark Infinity by James Dashner
+49. The 13th Reality: The Blade of Shattered Hope by James Dashner
+50. The 13th Reality: The Void of Mist and Thunder by James Dashner
+
+These recommendations are based on the user's interest in specific authors and genres.

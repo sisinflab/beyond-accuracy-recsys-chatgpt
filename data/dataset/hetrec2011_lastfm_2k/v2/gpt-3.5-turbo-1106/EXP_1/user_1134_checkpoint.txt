@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The All-American Rejects
+2. The Fray
+3. Maroon 5
+4. The Killers
+5. Switchfoot
+6. Goo Goo Dolls
+7. Matchbox Twenty
+8. Lifehouse
+9. Dashboard Confessional
+10. Jimmy Eat World
+11. Third Eye Blind
+12. Yellowcard
+13. Blink-182
+14. Sum 41
+15. Good Charlotte
+16. Simple Plan
+17. 3 Doors Down
+18. Hoobastank
+19. The Calling
+20. Vertical Horizon
+21. Counting Crows
+22. Train
+23. Rob Thomas
+24. Jason Mraz
+25. John Mayer
+26. Gavin DeGraw
+27. James Blunt
+28. David Gray
+29. Damien Rice
+30. Ray LaMontagne
+31. Iron & Wine
+32. Sufjan Stevens
+33. Bon Iver
+34. Fleet Foxes
+35. The Shins
+36. Death Cab for Cutie
+37. Modest Mouse
+38. Band of Horses
+39. The National
+40. Arctic Monkeys
+41. The Strokes
+42. Franz Ferdinand
+43. Interpol
+44. Bloc Party
+45. The Kooks
+46. The Libertines
+47. The Vaccines
+48. Two Door Cinema Club
+49. Foster the People
+50. Imagine Dragons
+
+These recommendations are based on the user's liking of similar artists and genres.

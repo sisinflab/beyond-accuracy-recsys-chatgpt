@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Sigur Rós
+2. Portishead
+3. Bonobo
+4. The xx
+5. Moby
+6. Massive Attack
+7. Air
+8. Goldfrapp
+9. Zero 7
+10. Lamb
+11. The Chemical Brothers
+12. Fever Ray
+13. Boards of Canada
+14. Aphex Twin
+15. Röyksopp
+16. Thievery Corporation
+17. Little Dragon
+18. Morcheeba
+19. Hooverphonic
+20. Tricky
+21. Emancipator
+22. FKA twigs
+23. Beach House
+24. Grimes
+25. London Grammar
+26. The Knife
+27. Trentemøller
+28. Moderat
+29. Chromatics
+30. Tycho
+31. Caribou
+32. Four Tet
+33. Jon Hopkins
+34. Apparat
+35. Washed Out
+36. Rhye
+37. Sylvan Esso
+38. Glass Animals
+39. Alt-J
+40. Chet Faker
+41. Jungle
+42. SOHN
+43. ODESZA
+44. HONNE
+45. Lorde
+46. BANKS
+47. HAIM
+48. CHVRCHES
+49. Tame Impala
+50. The War on Drugs
+
+These recommendations are based on similar genres, styles, and artist collaborations to those liked by user 1194.

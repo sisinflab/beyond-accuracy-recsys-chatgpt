@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Wu-Tang Clan
+2. 2Pac
+3. Dr. Dre
+4. Jay-Z
+5. OutKast
+6. Kendrick Lamar
+7. Ice Cube
+8. A Tribe Called Quest
+9. Public Enemy
+10. Run-D.M.C.
+11. Beastie Boys
+12. N.W.A
+13. Rakim
+14. LL Cool J
+15. Mos Def
+16. Talib Kweli
+17. The Roots
+18. Common
+19. Big L
+20. Ghostface Killah
+21. Raekwon
+22. GZA
+23. Method Man
+24. Redman
+25. Mobb Deep
+26. Nas & Damian "Jr. Gong" Marley
+27. Black Star
+28. De La Soul
+29. KRS-One
+30. EPMD
+31. Kool G Rap
+32. Big Pun
+33. The Notorious B.I.G.
+34. Busta Rhymes
+35. Scarface
+36. Warren G
+37. Xzibit
+38. Cypress Hill & Rusko
+39. Cypress Hill & Rusko
+40. Cypress Hill & Rusko
+41. Cypress Hill & Rusko
+42. Cypress Hill & Rusko
+43. Cypress Hill & Rusko
+44. Cypress Hill & Rusko
+45. Cypress Hill & Rusko
+46. Cypress Hill & Rusko
+47. Cypress Hill & Rusko
+48. Cypress Hill & Rusko
+49. Cypress Hill & Rusko
+50. Cypress Hill & Rusko
+
+These recommendations are based on the user's liking of similar artists and are tailored to their music preferences.

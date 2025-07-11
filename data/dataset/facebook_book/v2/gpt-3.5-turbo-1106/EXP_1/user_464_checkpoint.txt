@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Perks of Being a Wallflower by Stephen Chbosky
+2. Eleanor & Park by Rainbow Rowell
+3. The Fault in Our Stars by John Green
+4. If I Stay by Gayle Forman
+5. Thirteen Reasons Why by Jay Asher
+6. Before I Fall by Lauren Oliver
+7. The Book Thief by Markus Zusak
+8. Looking for Alaska by John Green
+9. Speak by Laurie Halse Anderson
+10. The Giver by Lois Lowry
+11. The Hunger Games by Suzanne Collins
+12. Divergent by Veronica Roth
+13. The Maze Runner by James Dashner
+14. The Selection by Kiera Cass
+15. Delirium by Lauren Oliver
+16. Uglies by Scott Westerfeld
+17. Matched by Ally Condie
+18. The 5th Wave by Rick Yancey
+19. Legend by Marie Lu
+20. Shiver by Maggie Stiefvater
+21. Hush, Hush by Becca Fitzpatrick
+22. Fallen by Lauren Kate
+23. Beautiful Creatures by Kami Garcia and Margaret Stohl
+24. The Mortal Instruments by Cassandra Clare
+25. Vampire Academy by Richelle Mead
+26. City of Bones by Cassandra Clare
+27. The Infernal Devices by Cassandra Clare
+28. The Raven Boys by Maggie Stiefvater
+29. Daughter of Smoke & Bone by Laini Taylor
+30. The Darkest Minds by Alexandra Bracken
+31. Red Queen by Victoria Aveyard
+32. Cinder by Marissa Meyer
+33. The Selection by Kiera Cass
+34. The Lunar Chronicles by Marissa Meyer
+35. The 100 by Kass Morgan
+36. The Testing by Joelle Charbonneau
+37. The Knife of Never Letting Go by Patrick Ness
+38. The Chaos Walking Trilogy by Patrick Ness
+39. The 5th Wave by Rick Yancey
+40. The Darkest Minds by Alexandra Bracken
+41. The Maze Runner by James Dashner
+42. The Hunger Games by Suzanne Collins
+43. Divergent by Veronica Roth
+44. The Giver by Lois Lowry
+45. The Book Thief by Markus Zusak
+46. The Fault in Our Stars by John Green
+47. If I Stay by Gayle Forman
+48. Thirteen Reasons Why by Jay Asher
+49. Before I Fall by Lauren Oliver
+50. Speak by Laurie Halse Anderson
+
+These recommendations are based on the user's interest in young adult fiction and novels with themes of romance, fantasy, and coming-of-age.

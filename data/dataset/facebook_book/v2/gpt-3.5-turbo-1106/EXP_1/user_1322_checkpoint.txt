@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. To Kill a Mockingbird by Harper Lee
+4. Brave New World by Aldous Huxley
+5. The Great Gatsby by F. Scott Fitzgerald
+6. Catch-22 by Joseph Heller
+7. The Bell Jar by Sylvia Plath
+8. The Road by Cormac McCarthy
+9. The Handmaid's Tale by Margaret Atwood
+10. Fahrenheit 451 by Ray Bradbury
+11. The Grapes of Wrath by John Steinbeck
+12. The Old Man and the Sea by Ernest Hemingway
+13. One Flew Over the Cuckoo's Nest by Ken Kesey
+14. The Sun Also Rises by Ernest Hemingway
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Stranger by Albert Camus
+17. Crime and Punishment by Fyodor Dostoevsky
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Master and Margarita by Mikhail Bulgakov
+20. Lolita by Vladimir Nabokov
+21. The Trial by Franz Kafka
+22. The Metamorphosis by Franz Kafka
+23. The Plague by Albert Camus
+24. The Idiot by Fyodor Dostoevsky
+25. The Count of Monte Cristo by Alexandre Dumas
+26. War and Peace by Leo Tolstoy
+27. Anna Karenina by Leo Tolstoy
+28. Crime and Punishment by Fyodor Dostoevsky
+29. The Picture of Dorian Gray by Oscar Wilde
+30. The Master and Margarita by Mikhail Bulgakov
+31. Lolita by Vladimir Nabokov
+32. The Trial by Franz Kafka
+33. The Metamorphosis by Franz Kafka
+34. The Plague by Albert Camus
+35. The Idiot by Fyodor Dostoevsky
+36. The Count of Monte Cristo by Alexandre Dumas
+37. War and Peace by Leo Tolstoy
+38. Anna Karenina by Leo Tolstoy
+39. The Sound and the Fury by William Faulkner
+40. As I Lay Dying by William Faulkner
+41. Beloved by Toni Morrison
+42. The Color Purple by Alice Walker
+43. The Handmaid's Tale by Margaret Atwood
+44. The Road by Cormac McCarthy
+45. The Grapes of Wrath by John Steinbeck
+46. The Old Man and the Sea by Ernest Hemingway
+47. One Flew Over the Cuckoo's Nest by Ken Kesey
+48. The Sun Also Rises by Ernest Hemingway
+49. The Picture of Dorian Gray by Oscar Wilde
+50. The Stranger by Albert Camus

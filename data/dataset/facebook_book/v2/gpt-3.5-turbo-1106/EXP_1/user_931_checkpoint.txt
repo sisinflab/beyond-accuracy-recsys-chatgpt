@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Alice's Adventures in Wonderland by Lewis Carroll
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Secret Garden by Frances Hodgson Burnett
+4. Matilda by Roald Dahl
+5. The Giver by Lois Lowry
+6. The Alchemist by Paulo Coelho
+7. The Night Circus by Erin Morgenstern
+8. The Secret History by Donna Tartt
+9. The Book Thief by Markus Zusak
+10. The Little Prince by Antoine de Saint-Exupéry
+11. The Wind in the Willows by Kenneth Grahame
+12. The Catcher in the Rye by J.D. Salinger
+13. The Perks of Being a Wallflower by Stephen Chbosky
+14. The Name of the Wind by Patrick Rothfuss
+15. The Graveyard Book by Neil Gaiman
+16. The Princess Bride by William Goldman
+17. Stardust by Neil Gaiman
+18. The Night Circus by Erin Morgenstern
+19. The Secret History by Donna Tartt
+20. The Book Thief by Markus Zusak
+21. The Little Prince by Antoine de Saint-Exupéry
+22. The Wind in the Willows by Kenneth Grahame
+23. The Catcher in the Rye by J.D. Salinger
+24. The Perks of Being a Wallflower by Stephen Chbosky
+25. The Name of the Wind by Patrick Rothfuss
+26. The Graveyard Book by Neil Gaiman
+27. The Princess Bride by William Goldman
+28. Stardust by Neil Gaiman
+29. The Night Circus by Erin Morgenstern
+30. The Secret History by Donna Tartt
+31. The Book Thief by Markus Zusak
+32. The Little Prince by Antoine de Saint-Exupéry
+33. The Wind in the Willows by Kenneth Grahame
+34. The Catcher in the Rye by J.D. Salinger
+35. The Perks of Being a Wallflower by Stephen Chbosky
+36. The Name of the Wind by Patrick Rothfuss
+37. The Graveyard Book by Neil Gaiman
+38. The Princess Bride by William Goldman
+39. Stardust by Neil Gaiman
+40. The Night Circus by Erin Morgenstern
+41. The Secret History by Donna Tartt
+42. The Book Thief by Markus Zusak
+43. The Little Prince by Antoine de Saint-Exupéry
+44. The Wind in the Willows by Kenneth Grahame
+45. The Catcher in the Rye by J.D. Salinger
+46. The Perks of Being a Wallflower by Stephen Chbosky
+47. The Name of the Wind by Patrick Rothfuss
+48. The Graveyard Book by Neil Gaiman
+49. The Princess Bride by William Goldman
+50. Stardust by Neil Gaiman
+
+These recommendations are based on the user's interest in fantasy, adventure, and classic literature.

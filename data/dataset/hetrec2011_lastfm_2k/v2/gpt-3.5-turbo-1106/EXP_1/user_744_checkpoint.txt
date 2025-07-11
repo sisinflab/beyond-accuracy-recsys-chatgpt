@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. My Chemical Romance
+3. Three Days Grace
+4. Breaking Benjamin
+5. Evanescence
+6. 30 Seconds to Mars
+7. Panic! At The Disco
+8. Avril Lavigne
+9. The Pretty Reckless
+10. All Time Low
+11. Simple Plan
+12. Good Charlotte
+13. Sum 41
+14. The All-American Rejects
+15. Paramore
+16. Linkin Park
+17. Nickelback
+18. VersaEmerge
+19. Apocalyptica
+20. Britney Spears
+21. Sonata Arctica
+22. Ke$ha
+23. The Veronicas
+24. Epica
+25. HammerFall
+26. Rihanna
+27. Katy Perry
+28. Nightwish
+29. The Rasmus
+30. Adam Lambert
+31. Lady Gaga
+32. Michael Jackson
+33. Hinder
+34. Gregorian
+35. Green Day
+36. Kat DeLuna
+37. Aly & AJ
+38. Riverside
+39. Jennifer Lopez
+40. Bon Jovi
+41. Hurts
+42. Kelly Clarkson
+43. t.A.T.u.
+44. ATB
+45. Within Temptation
+46. Lacuna Coil
+47. Delain
+48. Amaranthe
+49. In This Moment
+50. Lacrimas Profundere
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,52 @@
+Based on user 65's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings by J. R. R. Tolkien
+2. The Hobbit by J. R. R. Tolkien
+3. The Fellowship of the Ring by J. R. R. Tolkien
+4. The Return of the King by J. R. R. Tolkien
+5. The Two Towers
+6. The Dark Tower: The Gunslinger by Stephen King
+7. Timeline (novel) by Michael Crichton
+8. The Chronicles of Narnia: Prince Caspian
+9. The Voyage of the Dawn Treader
+10. The Andromeda Strain
+11. The Call of the Wild by Jack London
+12. Northern Lights (novel) by Philip Pullman
+13. The Alchemist (novel)
+14. The Da Vinci Code
+15. Jurassic Park (novel)
+16. The Phantom of the Opera
+17. The Magician: The Secrets of the Immortal Nicholas Flamel
+18. The God Delusion
+19. The Descent (novel)
+20. The Last Storytellers: Tales from the Heart of Morocco
+21. A Series of Unfortunate Events
+22. Star Wars
+23. Jane Eyre
+24. Inheritance (novel)
+25. The Watchmen (novel)
+26. Green Rider
+27. Bible
+28. The Count of Monte Cristo
+29. Next (novel)
+30. Pellinor
+31. Fingerprints of the Gods
+32. Red Inferno: 1945
+33. Fushigi Yûgi
+34. Inkheart
+35. On War
+36. The Belgariad
+37. Sun Bin's Art of War
+38. The Hitchhiker's Guide to the Galaxy (novel)
+39. How to Stop Worrying and Start Living
+40. The Theory of Everything
+41. Manga
+42. Bram Stoker's Dracula
+43. Inheritance Cycle
+44. Strange Case of Dr Jekyll and Mr Hyde
+45. The Elegant Universe
+46. Anne of Green Gables
+47. Bhagavad Gita
+48. The Hardy Boys
+49. Fear and Loathing in Las Vegas
+50. Twilight (series)

@@ -1,0 +1,54 @@
+Based on user 1900's preferences, here are the top-50 recommendations for them:
+
+1. The Beatles
+2. Duran Duran
+3. The Cure
+4. Siouxsie and the Banshees
+5. New Order
+6. Depeche Mode
+7. Pulp
+8. Blur
+9. Roxy Music
+10. David Bowie
+11. Kate Bush
+12. The Smiths
+13. Echo & The Bunnymen
+14. The Jesus and Mary Chain
+15. Goldfrapp
+16. The Human League
+17. Cocteau Twins
+18. Ultravox
+19. T. Rex
+20. Manic Street Preachers
+21. The Stranglers
+22. Killing Joke
+23. Adam and the Ants
+24. The Jam
+25. Blondie
+26. Madonna
+27. Lady Gaga
+28. Rihanna
+29. Britney Spears
+30. Christina Aguilera
+31. Shakira
+32. Katy Perry
+33. Beyoncé
+34. Kylie Minogue
+35. Taylor Swift
+36. Avril Lavigne
+37. Paramore
+38. Glee Cast
+39. 30 Seconds to Mars
+40. Muse
+41. Pink Floyd
+42. U2
+43. Coldplay
+44. Arctic Monkeys
+45. Placebo
+46. The Killers
+47. Nirvana
+48. Iron Maiden
+49. Metallica
+50. Michael Jackson
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

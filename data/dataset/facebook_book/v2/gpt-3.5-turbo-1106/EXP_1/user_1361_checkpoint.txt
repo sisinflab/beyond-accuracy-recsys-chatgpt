@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Percy Jackson & the Olympians by Rick Riordan
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Maze Runner by James Dashner
+4. Divergent by Veronica Roth
+5. The Giver by Lois Lowry
+6. Miss Peregrine's Home for Peculiar Children by Ransom Riggs
+7. The Lightning Thief by Rick Riordan
+8. The Mortal Instruments by Cassandra Clare
+9. The Selection by Kiera Cass
+10. The 5th Wave by Rick Yancey
+11. The Darkest Minds by Alexandra Bracken
+12. The Infernal Devices by Cassandra Clare
+13. The Magicians by Lev Grossman
+14. The Night Circus by Erin Morgenstern
+15. The Raven Cycle by Maggie Stiefvater
+16. The Iron Fey by Julie Kagawa
+17. The Lunar Chronicles by Marissa Meyer
+18. The Uglies by Scott Westerfeld
+19. The Demon King by Cinda Williams Chima
+20. The Grisha Trilogy by Leigh Bardugo
+21. The Queen's Thief by Megan Whalen Turner
+22. The Young Elites by Marie Lu
+23. The Wrath and the Dawn by Renee Ahdieh
+24. The Winner's Curse by Marie Rutkoski
+25. The Girl of Fire and Thorns by Rae Carson
+26. The False Prince by Jennifer A. Nielsen
+27. The Shadowhunter Chronicles by Cassandra Clare
+28. The Witchlands by Susan Dennard
+29. The Bone Season by Samantha Shannon
+30. The Diviners by Libba Bray
+31. The Kingkiller Chronicle by Patrick Rothfuss
+32. The Broken Empire by Mark Lawrence
+33. The Lies of Locke Lamora by Scott Lynch
+34. The Way of Kings by Brandon Sanderson
+35. The Name of the Wind by Patrick Rothfuss
+36. The Stormlight Archive by Brandon Sanderson
+37. The Lightbringer by Brent Weeks
+38. The Powder Mage by Brian McClellan
+39. The Black Prism by Brent Weeks
+40. The First Law by Joe Abercrombie
+41. The Gentleman Bastard by Scott Lynch
+42. The Malazan Book of the Fallen by Steven Erikson
+43. The Riyria Revelations by Michael J. Sullivan
+44. The Farseer Trilogy by Robin Hobb
+45. The Broken Earth by N.K. Jemisin
+46. The Inheritance Trilogy by N.K. Jemisin
+47. The Poppy War by R.F. Kuang
+48. The Traitor Baru Cormorant by Seth Dickinson
+49. The City of Brass by S.A. Chakraborty
+50. The Bear and the Nightingale by Katherine Arden
+
+These recommendations are based on the user's interest in fantasy, adventure, and mystery genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Iron Maiden
+2. Megadeth
+3. Anthrax
+4. Metallica
+5. Overkill
+6. Sodom
+7. Exodus
+8. Testament
+9. Helloween
+10. Dio
+11. Sepultura
+12. Motorhead
+13. Kreator
+14. Manowar
+15. Moonspell
+16. Slayer
+17. Twisted Sister
+18. Ария
+19. Black Sabbath
+20. Judas Priest
+21. Accept
+22. Venom
+23. Ramones
+24. Municipal Waste
+25. Rainbow
+26. Morbid Angel
+27. Cannibal Corpse
+28. Death
+29. Carcass
+30. Entombed
+31. Bolt Thrower
+32. Obituary
+33. Deicide
+34. Possessed
+35. Kreator
+36. Destruction
+37. Annihilator
+38. Tankard
+39. Razor
+40. Nuclear Assault
+41. Vio-lence
+42. Forbidden
+43. Heathen
+44. Dark Angel
+45. Flotsam and Jetsam
+46. Sacred Reich
+47. Testament
+48. Exodus
+49. Death Angel
+50. Vicious Rumors
+
+These recommendations are based on the user's liking of similar artists and are tailored to their specific taste in music.

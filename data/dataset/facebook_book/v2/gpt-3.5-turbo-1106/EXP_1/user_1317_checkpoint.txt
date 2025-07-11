@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. 1984 by George Orwell
+3. Pride and Prejudice by Jane Austen
+4. The Great Gatsby by F. Scott Fitzgerald
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. Beloved by Toni Morrison
+7. The Kite Runner by Khaled Hosseini
+8. The Alchemist by Paulo Coelho
+9. The Book Thief by Markus Zusak
+10. The Handmaid's Tale by Margaret Atwood
+11. The Night Circus by Erin Morgenstern
+12. The Secret History by Donna Tartt
+13. The Goldfinch by Donna Tartt
+14. The Picture of Dorian Gray by Oscar Wilde
+15. The Road by Cormac McCarthy
+16. The Grapes of Wrath by John Steinbeck
+17. The Sun Also Rises by Ernest Hemingway
+18. The Bell Jar by Sylvia Plath
+19. The Color Purple by Alice Walker
+20. The Poisonwood Bible by Barbara Kingsolver
+21. The Joy Luck Club by Amy Tan
+22. The Brief Wondrous Life of Oscar Wao by Junot Diaz
+23. The House on Mango Street by Sandra Cisneros
+24. The Joy of Cooking by Irma S. Rombauer
+25. The Secret Life of Bees by Sue Monk Kidd
+26. The Help by Kathryn Stockett
+27. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+28. The Glass Castle by Jeannette Walls
+29. The Nightingale by Kristin Hannah
+30. The Martian by Andy Weir
+31. The Girl on the Train by Paula Hawkins
+32. The Hunger Games by Suzanne Collins
+33. The Da Vinci Code by Dan Brown
+34. The Girl with the Dragon Tattoo by Stieg Larsson
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Lovely Bones by Alice Sebold
+37. The Fault in Our Stars by John Green
+38. The Help by Kathryn Stockett
+39. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+40. The Glass Castle by Jeannette Walls
+41. The Nightingale by Kristin Hannah
+42. The Martian by Andy Weir
+43. The Girl on the Train by Paula Hawkins
+44. The Hunger Games by Suzanne Collins
+45. The Da Vinci Code by Dan Brown
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. The Time Traveler's Wife by Audrey Niffenegger
+48. The Lovely Bones by Alice Sebold
+49. The Fault in Our Stars by John Green
+50. The Help by Kathryn Stockett
+
+These recommendations are based on the user's preference for literary fiction, classic literature, and diverse authors.

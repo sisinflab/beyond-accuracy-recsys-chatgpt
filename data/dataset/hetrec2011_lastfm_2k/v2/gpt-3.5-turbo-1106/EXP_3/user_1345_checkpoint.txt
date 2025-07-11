@@ -1,0 +1,54 @@
+Based on the preferences of user 1345, here are the top 50 recommendations for them:
+
+1. Radiohead
+2. David Bowie
+3. The Rolling Stones
+4. Bob Dylan
+5. The Who
+6. Sigur Rós
+7. Beck
+8. Belle and Sebastian
+9. Björk
+10. Massive Attack
+11. Spoon
+12. R.E.M.
+13. Franz Ferdinand
+14. Muse
+15. Depeche Mode
+16. Supergrass
+17. Animal Collective
+18. Stereolab
+19. Prefuse 73
+20. Max Richter
+21. Boards of Canada
+22. Yo La Tengo
+23. Bonobo
+24. Ghostface Killah
+25. The Kinks
+26. The Byrds
+27. John Lennon
+28. Tom Waits
+29. Cat Stevens
+30. The Velvet Underground
+31. The Beatles
+32. Queen
+33. Led Zeppelin
+34. The Beach Boys
+35. Ludwig van Beethoven
+36. Frédéric Chopin
+37. Johann Sebastian Bach
+38. Wolfgang Amadeus Mozart
+39. Miles Davis
+40. Howlin' Wolf
+41. Emerson, Lake & Palmer
+42. Yes
+43. King Crimson
+44. AC/DC
+45. Dead Kennedys
+46. Whitney Houston
+47. Michael Jackson
+48. Steely Dan
+49. Grace Jones
+50. Antonio Vivaldi
+
+These recommendations are based on the similar genres and artists liked by user 1345.

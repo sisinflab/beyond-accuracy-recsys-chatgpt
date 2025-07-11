@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Underoath
+2. Motionless In White
+3. Escape the Fate
+4. My Chemical Romance
+5. Sleeping with Sirens
+6. Pierce the Veil
+7. The Used
+8. Asking Alexandria
+9. Falling in Reverse
+10. Of Mice & Men
+11. All Time Low
+12. The Amity Affliction
+13. Silverstein
+14. Hawthorne Heights
+15. AFI
+16. Taking Back Sunday
+17. New Found Glory
+18. Senses Fail
+19. The Red Jumpsuit Apparatus
+20. Saosin
+21. A Day to Remember
+22. The All-American Rejects
+23. Yellowcard
+24. Sum 41
+25. Good Charlotte
+26. Simple Plan
+27. Green Day
+28. Blink-182
+29. Jimmy Eat World
+30. The Offspring
+31. Weezer
+32. Fall Out Boy
+33. Panic! At The Disco
+34. Paramore
+35. The Academy Is...
+36. Cobra Starship
+37. The Maine
+38. Mayday Parade
+39. Boys Like Girls
+40. All American Rejects
+41. 30 Seconds to Mars
+42. Linkin Park
+43. Papa Roach
+44. Three Days Grace
+45. Breaking Benjamin
+46. Seether
+47. Chevelle
+48. Shinedown
+49. Theory of a Deadman
+50. Three Days Grace

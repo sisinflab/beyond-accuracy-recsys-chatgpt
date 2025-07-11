@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1938:
+
+1. The Beatles
+2. Nirvana
+3. Radiohead
+4. Muse
+5. The White Stripes
+6. The Rolling Stones
+7. Pixies
+8. Coldplay
+9. Oasis
+10. The Smashing Pumpkins
+11. Blur
+12. Beck
+13. Kings of Leon
+14. Interpol
+15. The Shins
+16. Sonic Youth
+17. Pavement
+18. Cat Power
+19. Bright Eyes
+20. M. Ward
+21. Beirut
+22. Yann Tiersen
+23. Explosions in the Sky
+24. The National
+25. PJ Harvey
+26. Soundgarden
+27. Kaiser Chiefs
+28. Kasabian
+29. Rise Against
+30. Goo Goo Dolls
+31. Pearl Jam
+32. Tori Amos
+33. Rilo Kiley
+34. Tegan and Sara
+35. Matt & Kim
+36. Ladytron
+37. The Knife
+38. Björk
+39. Yeah Yeah Yeahs
+40. The Strokes
+41. Death Cab for Cutie
+42. The Killers
+43. Arcade Fire
+44. Bloc Party
+45. OK Go
+46. Franz Ferdinand
+47. John Mayer
+48. Broken Social Scene
+49. Queen
+50. Eagles
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

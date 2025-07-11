@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Animal Farm by George Orwell
+3. Crime and Punishment by Fyodor Dostoevsky
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Heart of Darkness by Joseph Conrad
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Catcher in the Rye by J.D. Salinger
+9. The Great Gatsby by F. Scott Fitzgerald
+10. To Kill a Mockingbird by Harper Lee
+11. The Stranger by Albert Camus
+12. Lolita by Vladimir Nabokov
+13. The Road by Cormac McCarthy
+14. The Bell Jar by Sylvia Plath
+15. The Handmaid's Tale by Margaret Atwood
+16. The Grapes of Wrath by John Steinbeck
+17. 1984 by George Orwell
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. The Trial by Franz Kafka
+20. The Metamorphosis by Franz Kafka
+21. The Sun Also Rises by Ernest Hemingway
+22. The Old Man and the Sea by Ernest Hemingway
+23. The Sound and the Fury by William Faulkner
+24. A Clockwork Orange by Anthony Burgess
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. The Shining by Stephen King
+27. The Stand by Stephen King
+28. The Road to Wigan Pier by George Orwell
+29. The Plague by Albert Camus
+30. The Outsider by Albert Camus
+31. The Count of Monte Cristo by Alexandre Dumas
+32. The Three Musketeers by Alexandre Dumas
+33. The Idiot by Fyodor Dostoevsky
+34. Notes from Underground by Fyodor Dostoevsky
+35. The Master and Margarita by Mikhail Bulgakov
+36. The Name of the Rose by Umberto Eco
+37. The Stranger by Harlan Coben
+38. The Talented Mr. Ripley by Patricia Highsmith
+39. The Secret History by Donna Tartt
+40. The Goldfinch by Donna Tartt
+41. The Shadow of the Wind by Carlos Ruiz Zafón
+42. The Angel's Game by Carlos Ruiz Zafón
+43. The Book Thief by Markus Zusak
+44. The Night Circus by Erin Morgenstern
+45. The Secret History by Donna Tartt
+46. The Goldfinch by Donna Tartt
+47. The Shadow of the Wind by Carlos Ruiz Zafón
+48. The Angel's Game by Carlos Ruiz Zafón
+49. The Book Thief by Markus Zusak
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, and psychological thrillers.

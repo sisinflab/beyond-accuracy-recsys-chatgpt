@@ -1,0 +1,54 @@
+Based on user 1270's preferences, here are the top-50 recommendations for the given artists:
+
+1. Red Hot Chili Peppers
+2. Foo Fighters
+3. Metallica
+4. Green Day
+5. AC/DC
+6. Ramones
+7. Van Halen
+8. The Offspring
+9. Aerosmith
+10. The Rolling Stones
+11. Led Zeppelin
+12. Queen
+13. Scorpions
+14. Lenny Kravitz
+15. 30 Seconds to Mars
+16. Dream Theater
+17. Megadeth
+18. System of a Down
+19. Rammstein
+20. Iron Maiden
+21. Symphony X
+22. Opeth
+23. Mastodon
+24. Bloodbath
+25. Pantera
+26. Faith No More
+27. The Police
+28. Bad Religion
+29. The Hellacopters
+30. Hardcore Superstar
+31. The Beatles
+32. Guns N' Roses
+33. Jack Johnson
+34. Death Cab for Cutie
+35. Brand New
+36. Underoath
+37. Yellowcard
+38. Dashboard Confessional
+39. blink-182
+40. Say Anything
+41. Coheed and Cambria
+42. Saosin
+43. All Time Low
+44. Chiodos
+45. Panic! At the Disco
+46. Boys Like Girls
+47. Lady Gaga
+48. Imogen Heap
+49. Coldplay
+50. The Postal Service
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists that align with their tastes.

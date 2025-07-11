@@ -1,0 +1,42 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. The Vampire Lestat by Anne Rice
+3. Memnoch the Devil by Anne Rice
+4. The Witching Hour by Anne Rice
+5. The Tale of the Body Thief by Anne Rice
+6. Blood Canticle by Anne Rice
+7. Prince Lestat by Anne Rice
+8. The Vampire Armand by Anne Rice
+9. Servant of the Bones by Anne Rice
+10. Lasher by Anne Rice
+11. Taltos by Anne Rice
+12. Merrick by Anne Rice
+13. Blackwood Farm by Anne Rice
+14. Blood and Gold by Anne Rice
+15. Pandora by Anne Rice
+16. Vittorio the Vampire by Anne Rice
+17. The Mummy or Ramses the Damned by Anne Rice
+18. Violin by Anne Rice
+19. Cry to Heaven by Anne Rice
+20. Belinda by Anne Rice
+21. Exit to Eden by Anne Rice
+22. The Feast of All Saints by Anne Rice
+23. The Wolf Gift by Anne Rice
+24. The Claiming of Sleeping Beauty by Anne Rice
+25. Beauty's Release by Anne Rice
+26. Beauty's Punishment by Anne Rice
+27. Beauty's Kingdom by Anne Rice
+28. The Sleeping Beauty Trilogy by Anne Rice
+29. The Vampire Chronicles Collection by Anne Rice
+30. The Lives of the Mayfair Witches by Anne Rice
+31. The Vampire Chronicles: Interview with a Vampire, Vampire Lestat, Queen of the Damned by Anne Rice
+32. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned by Anne Rice
+33. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned, The Tale of the Body Thief by Anne Rice
+34. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned, The Tale of the Body Thief, Memnoch the Devil by Anne Rice
+35. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned, The Tale of the Body Thief, Memnoch the Devil, The Witching Hour by Anne Rice
+36. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned, The Tale of the Body Thief, Memnoch the Devil, The Witching Hour, The Mummy or Ramses the Damned by Anne Rice
+37. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned, The Tale of the Body Thief, Memnoch the Devil, The Witching Hour, The Mummy or Ramses the Damned, The Witching Hour by Anne Rice
+38. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned, The Tale of the Body Thief, Memnoch the Devil, The Witching Hour, The Mummy or Ramses the Damned, The Witching Hour, The Wolf Gift by Anne Rice
+39. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned, The Tale of the Body Thief, Memnoch the Devil, The Witching Hour, The Mummy or Ramses the Damned, The Witching Hour, The Wolf Gift, The Claiming of Sleeping Beauty by Anne Rice
+40. The Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Dam

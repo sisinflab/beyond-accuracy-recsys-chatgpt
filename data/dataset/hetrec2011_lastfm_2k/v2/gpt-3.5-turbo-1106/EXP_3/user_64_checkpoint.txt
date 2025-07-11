@@ -1,0 +1,54 @@
+Based on user 64's preferences, here are the top 50 recommendations for them:
+
+1. Sade
+2. David Bowie
+3. Madonna
+4. The Beatles
+5. Michael Jackson
+6. Miles Davis
+7. Nina Simone
+8. Erykah Badu
+9. Marvin Gaye
+10. Stevie Wonder
+11. Prince
+12. Janet Jackson
+13. The Strokes
+14. Radiohead
+15. Arctic Monkeys
+16. Kings of Leon
+17. The Chemical Brothers
+18. Zero 7
+19. The Cinematic Orchestra
+20. Orbital
+21. Enigma
+22. Parov Stelar
+23. The Bird and The Bee
+24. Andrew Bird
+25. José González
+26. Iron & Wine
+27. Johnny Cash
+28. System of a Down
+29. U2
+30. Phoenix
+31. Placebo
+32. Nine Inch Nails
+33. Faithless
+34. Depeche Mode
+35. Sting
+36. Tom Waits
+37. KISS
+38. Billie Holiday
+39. The Rolling Stones
+40. Beastie Boys
+41. Aphex Twin
+42. Morcheeba
+43. Muddy Waters
+44. Kings of Convenience
+45. The Police
+46. Gorillaz
+47. The Game
+48. Mos Def
+49. Chico Buarque
+50. Regina Spektor
+
+These recommendations are based on the similarity of the recommended artists to the ones that user 64 already likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Kendrick Lamar
+2. Nas
+3. MF DOOM
+4. Talib Kweli
+5. Anderson .Paak
+6. OutKast
+7. Kanye West
+8. The Pharcyde
+9. Childish Gambino
+10. Aesop Rock
+11. Black Star
+12. The Avalanches
+13. Jurassic 5
+14. Nujabes
+15. Atmosphere
+16. The Notorious B.I.G.
+17. Earl Sweatshirt
+18. Tyler, The Creator
+19. Joey Bada$$
+20. Chance the Rapper
+21. Mac Miller
+22. Run The Jewels
+23. Danny Brown
+24. J. Cole
+25. Freddie Gibbs
+26. Vince Staples
+27. Isaiah Rashad
+28. Big L
+29. Mobb Deep
+30. Ghostface Killah
+31. Raekwon
+32. Wu-Tang Clan
+33. Curren$y
+34. Big K.R.I.T.
+35. Lupe Fiasco
+36. J Dilla
+37. Madlib
+38. Jay-Z
+39. Mos Def
+40. Gnarls Barkley
+41. Bonobo
+42. Jack Johnson
+43. The Roots
+44. De La Soul
+45. Madvillain
+46. A Tribe Called Quest
+47. Flying Lotus
+48. Ratatat
+49. Common
+50. DJ Shadow
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 913's preferences, here are the top 50 book recommendations:
+
+1. The Lord of the Rings
+2. Eragon
+3. Eldest
+4. Brisingr
+5. Inheritance Cycle
+6. The Hobbit
+7. The Alchemist (novel)
+8. Crime and Punishment
+9. Great Expectations
+10. Ptolemy's Gate
+11. The Catcher in the Rye
+12. The Little Prince
+13. The Master and Margarita
+14. The Old Man and the Sea
+15. The Call of the Wild
+16. The Silver Wolf
+17. The Truth About Forever
+18. The Wonderful Wizard of Oz
+19. The Prince
+20. The Bourne Ultimatum
+21. The Purpose Driven Life
+22. The Host (novel)
+23. The Shack
+24. The Lovely Bones
+25. The Kane Chronicles
+26. The Queen of the Damned
+27. The Watchmen (novel)
+28. The Catcher in the Rye
+29. The Little Prince
+30. The Master and Margarita
+31. The Old Man and the Sea
+32. The Call of the Wild
+33. The Silver Wolf
+34. The Truth About Forever
+35. The Wonderful Wizard of Oz
+36. The Prince
+37. The Bourne Ultimatum
+38. The Purpose Driven Life
+39. The Host (novel)
+40. The Shack
+41. The Lovely Bones
+42. The Kane Chronicles
+43. The Queen of the Damned
+44. The Watchmen (novel)
+45. The Catcher in the Rye
+46. The Little Prince
+47. The Master and Margarita
+48. The Old Man and the Sea
+49. The Call of the Wild
+50. The Silver Wolf
+
+These recommendations are based on similar themes and genres to the books that user 913 likes.

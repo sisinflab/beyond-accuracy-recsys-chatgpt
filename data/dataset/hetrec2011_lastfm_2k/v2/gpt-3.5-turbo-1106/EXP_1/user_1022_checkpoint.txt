@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Panic! At The Disco
+2. Maroon 5
+3. OneRepublic
+4. The Killers
+5. Paramore
+6. Arctic Monkeys
+7. Imagine Dragons
+8. The Script
+9. Coldplay
+10. Twenty One Pilots
+11. Halsey
+12. The 1975
+13. Florence + The Machine
+14. Bastille
+15. Ed Sheeran
+16. Lorde
+17. Foster The People
+18. Vampire Weekend
+19. The Neighbourhood
+20. Tame Impala
+21. Lana Del Rey
+22. Billie Eilish
+23. The Weeknd
+24. Hozier
+25. Cage The Elephant
+26. Kings of Leon
+27. The Lumineers
+28. Of Monsters and Men
+29. Mumford & Sons
+30. Fitz and The Tantrums
+31. X Ambassadors
+32. Walk The Moon
+33. AJR
+34. Young the Giant
+35. Bleachers
+36. Grouplove
+37. CHVRCHES
+38. Passion Pit
+39. Two Door Cinema Club
+40. The Naked and Famous
+41. Metric
+42. Silversun Pickups
+43. Death Cab for Cutie
+44. Modest Mouse
+45. The Strokes
+46. Phoenix
+47. Franz Ferdinand
+48. Arctic Monkeys
+49. The Kooks
+50. The Wombats
+
+These recommendations are based on the user's liking of similar artists and genres.

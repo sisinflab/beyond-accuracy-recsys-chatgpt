@@ -1,0 +1,52 @@
+Based on user 105's preferences, here are the top 50 book recommendations:
+
+1. The Pillars of Creation by Terry Goodkind
+2. Chainfire by Terry Goodkind
+3. Stone of Tears by Terry Goodkind
+4. Blood of the Fold by Terry Goodkind
+5. Temple of the Winds by Terry Goodkind
+6. Naked Empire by Terry Goodkind
+7. Soul of the Fire by Terry Goodkind
+8. Wizard's First Rule by Terry Goodkind
+9. The Sword of Truth by Terry Goodkind
+10. The Chronicles of Narnia: Prince Caspian by C.S. Lewis
+11. The Hobbit by J.R.R. Tolkien
+12. The Great Gatsby by F. Scott Fitzgerald
+13. Frankenstein by Mary Shelley
+14. Romeo and Juliet by William Shakespeare
+15. The Canterbury Tales by Geoffrey Chaucer
+16. Jurassic Park by Michael Crichton
+17. 'Salem's Lot by Stephen King
+18. Antigone by Sophocles
+19. The Count of Monte Cristo by Alexandre Dumas
+20. On a Pale Horse by Piers Anthony
+21. Lord of the Flies by William Golding
+22. Deception Point by Dan Brown
+23. Heart of Darkness by Joseph Conrad
+24. A Midsummer Night's Dream by William Shakespeare
+25. Resident Evil by S.D. Perry
+26. Angels & Demons by Dan Brown
+27. Looking for Alaska by John Green
+28. The Godfather by Mario Puzo
+29. Les Misérables by Victor Hugo
+30. Harry Potter by J.K. Rowling
+31. To Kill a Mockingbird by Harper Lee
+32. Don Quixote by Miguel de Cervantes
+33. Digital Fortress by Dan Brown
+34. Walden by Henry David Thoreau
+35. The Universe in a Nutshell by Stephen Hawking
+36. Mother Night by Kurt Vonnegut
+37. The Picture of Dorian Gray by Oscar Wilde
+38. Sense and Sensibility by Jane Austen
+39. A Clockwork Orange by Anthony Burgess
+40. Taltos by Steven Brust
+41. Star Wars: Shadows of the Empire by Steve Perry
+42. Doctor Zhivago by Boris Pasternak
+43. The Watchmen by Alan Moore
+44. Iliad by Homer
+45. Adventures of Huckleberry Finn by Mark Twain
+46. Civil Disobedience by Henry David Thoreau
+47. Sphere by Michael Crichton
+48. The Hatchet by Gary Paulsen
+49. Battle Royale by Koushun Takami
+50. Teaching with Calvin and Hobbes by Linda Holmen

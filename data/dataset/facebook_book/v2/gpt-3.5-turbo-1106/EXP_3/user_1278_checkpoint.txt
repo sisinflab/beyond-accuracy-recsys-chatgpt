@@ -1,0 +1,54 @@
+Based on user 1278's preferences, here are the top 50 book recommendations:
+
+1. Fight Club (novel) by Chuck Palahniuk
+2. Invisible Monsters by Chuck Palahniuk
+3. Haunted (Palahniuk novel) by Chuck Palahniuk
+4. Rant (novel) by Chuck Palahniuk
+5. Diary (novel) by Chuck Palahniuk
+6. Lord of the Flies by William Golding
+7. The Catcher in the Rye by J. D. Salinger
+8. Running with Scissors (memoir) by Augusten Burroughs
+9. The Da Vinci Code by Dan Brown
+10. Atonement (novel) by Ian McEwan
+11. The Picture of Dorian Gray by Oscar Wilde
+12. Lolita by Vladimir Nabokov
+13. Nineteen Eighty-Four by George Orwell
+14. The Sirens of Titan by Kurt Vonnegut
+15. A Tale of Two Cities by Charles Dickens
+16. The Interpretation of Dreams by Sigmund Freud
+17. The Zombie Survival Guide by Max Brooks
+18. The Occult: A History by Colin Wilson
+19. The Iliad by Homer
+20. The Divine Comedy by Dante Alighieri
+21. Macbeth by William Shakespeare
+22. Catch-22 by Joseph Heller
+23. Geek Love by Katherine Dunn
+24. Slaughterhouse-Five by Kurt Vonnegut
+25. Cat's Cradle by Kurt Vonnegut
+26. Siddhartha (novel) by Hermann Hesse
+27. Choke (novel) by Chuck Palahniuk
+28. Lullaby (Palahniuk novel) by Chuck Palahniuk
+29. Breakfast at Tiffany's (novella) by Truman Capote
+30. Paradise Lost by John Milton
+31. The Life and Times of the Thunderbolt Kid by Bill Bryson
+32. A Short History of Nearly Everything by Bill Bryson
+33. The Rules of Attraction by Bret Easton Ellis
+34. The Long Hard Road Out of Hell by Marilyn Manson
+35. Player Piano (novel) by Kurt Vonnegut
+36. The Walking Dead (comic book) by Robert Kirkman
+37. A Modest Proposal by Jonathan Swift
+38. A Swiftly Tilting Planet by Madeleine L'Engle
+39. I Hope They Serve Beer in Hell by Tucker Max
+40. The Celestine Prophecy by James Redfield
+41. Inkheart by Cornelia Funke
+42. A New Earth by Eckhart Tolle
+43. Pride and Prejudice and Zombies by Seth Grahame-Smith
+44. Romeo and Juliet by William Shakespeare
+45. Go Ask Alice by Beatrice Sparks
+46. A Farewell to Arms by Ernest Hemingway
+47. Animal Farm by George Orwell
+48. Island (book) by Aldous Huxley
+49. Utopia (book) by Thomas More
+50. Love Hina by Ken Akamatsu
+
+These recommendations are based on the user's preferences and the similarity of the recommended books to the ones the user likes.

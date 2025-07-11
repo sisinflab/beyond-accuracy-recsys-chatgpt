@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of top-50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Deception Point by Dan Brown
+3. The Mist by Stephen King
+4. The Girl Who Loved Tom Gordon by Stephen King
+5. Great Expectations by Charles Dickens
+6. The Sea of Monsters by Rick Riordan
+7. The Battle of the Labyrinth by Rick Riordan
+8. Ender's Game
+9. The Old Man and the Sea
+10. The Host (novel)
+11. A Thousand Splendid Suns
+12. The Pirate (novel)
+13. Atonement (novel)
+14. The Giver
+15. The Lord of the Rings
+16. Ender's Shadow
+17. I Am Legend (novel)
+18. Twilight (series)
+19. The Little Prince
+20. Royal Assassin
+21. A Memory of Light
+22. Of Mice and Men
+23. Harry Potter
+24. Brisingr
+25. Cujo
+26. Sunshine (novel)
+27. Love Story (novel)
+28. Memoirs of a Geisha
+29. To Kill a Mockingbird
+30. Angels & Demons
+31. The Scarlet Letter
+32. Lord of the Flies
+33. The Antichrist (book)
+34. The Hatchet (novel)
+35. Alice's Adventures in Wonderland
+36. King Rat (1962 novel)
+37. Charlie and the Chocolate Factory
+38. The Little Prince
+39. The Forest of Hands and Teeth
+40. Xenocide
+41. Bible
+42. The Outsiders (novel)
+43. Thus Spoke Zarathustra
+44. The Importance of Being Earnest
+45. A Cry in the Night (novel)
+46. Bloody Jack (novel)
+47. The Pigman
+48. Gormenghast (novel)
+49. Number the Stars
+50. Go Ask Alice
+
+These recommendations are based on the user's previous book preferences and aim to provide a diverse range of options that align with their interests.

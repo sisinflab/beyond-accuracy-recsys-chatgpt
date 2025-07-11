@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1194:
+
+1. Radiohead
+2. Björk
+3. Massive Attack
+4. Daft Punk
+5. Röyksopp
+6. Depeche Mode
+7. Plaid
+8. Trentemøller
+9. Bat for Lashes
+10. Burial
+11. Philip Glass
+12. Hans Zimmer
+13. Howard Shore
+14. Alexandre Desplat
+15. James Horner
+16. Tori Amos
+17. Sade
+18. Laura Marling
+19. Incubus
+20. City and Colour
+21. Kings of Leon
+22. Madonna
+23. Coldplay
+24. Lady Gaga
+25. Lykke Li
+26. The xx
+27. Metric
+28. Portishead
+29. Placebo
+30. Fever Ray
+31. The Killers
+32. The Birthday Massacre
+33. Imogen Heap
+34. Crystal Castles
+35. Beach House
+36. Thom Yorke
+37. Sigur Rós
+38. Yann Tiersen
+39. Wolfgang Amadeus Mozart
+40. Ludwig van Beethoven
+41. Metallica
+42. AC/DC
+43. Slipknot
+44. Papa Roach
+45. The Beatles
+46. U2
+47. R.E.M.
+48. Arctic Monkeys
+49. Muse
+50. Sia
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists and genres that align with their current tastes.

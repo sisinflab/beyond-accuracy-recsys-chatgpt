@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. On the Road by Jack Kerouac
+2. The Dharma Bums by Jack Kerouac
+3. The Catcher in the Rye by J.D. Salinger
+4. Franny and Zooey by J.D. Salinger
+5. The Secret Life of Bees by Sue Monk Kidd
+6. Bridge to Terabithia by Katherine Paterson
+7. The Giver by Lois Lowry
+8. The Outsiders by S.E. Hinton
+9. The Grapes of Wrath by John Steinbeck
+10. East of Eden by John Steinbeck
+11. The Hobbit by J.R.R. Tolkien
+12. The Silmarillion by J.R.R. Tolkien
+13. A Game of Thrones by George R.R. Martin
+14. The Girl with the Dragon Tattoo by Stieg Larsson
+15. The Maltese Falcon by Dashiell Hammett
+16. Farewell, My Lovely by Raymond Chandler
+17. The Thief by Megan Whalen Turner
+18. The Queen's Thief series by Megan Whalen Turner
+19. Lirael by Garth Nix
+20. Abhorsen by Garth Nix
+21. V for Vendetta by Alan Moore
+22. Batman: The Dark Knight Returns by Frank Miller
+23. The Killing Joke by Alan Moore
+24. The Sandman series by Neil Gaiman
+25. American Gods by Neil Gaiman
+26. The Ocean at the End of the Lane by Neil Gaiman
+27. The Road by Cormac McCarthy
+28. No Country for Old Men by Cormac McCarthy
+29. Blood Meridian by Cormac McCarthy
+30. The Stand by Stephen King
+31. It by Stephen King
+32. The Shining by Stephen King
+33. The Name of the Wind by Patrick Rothfuss
+34. Mistborn: The Final Empire by Brandon Sanderson
+35. The Lies of Locke Lamora by Scott Lynch
+36. The Blade Itself by Joe Abercrombie
+37. The Way of Kings by Brandon Sanderson
+38. The Final Empire by Brandon Sanderson
+39. The Lies of Locke Lamora by Scott Lynch
+40. The Blade Itself by Joe Abercrombie
+41. The Way of Kings by Brandon Sanderson
+42. The Final Empire by Brandon Sanderson
+43. The Lies of Locke Lamora by Scott Lynch
+44. The Blade Itself by Joe Abercrombie
+45. The Way of Kings by Brandon Sanderson
+46. The Final Empire by Brandon Sanderson
+47. The Lies of Locke Lamora by Scott Lynch
+48. The Blade Itself by Joe Abercrombie
+49. The Way of Kings by Brandon Sanderson
+50. The Final Empire by Brandon Sanderson
+
+These recommendations are based on similar themes, genres, and authors to the books that user 830 likes.

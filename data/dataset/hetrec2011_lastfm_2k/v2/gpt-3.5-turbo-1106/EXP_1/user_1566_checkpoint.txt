@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. Radiohead
+3. Arcade Fire
+4. Tame Impala
+5. Phoenix
+6. The National
+7. LCD Soundsystem
+8. The xx
+9. Foster the People
+10. HAIM
+11. The 1975
+12. Kings of Leon
+13. Two Door Cinema Club
+14. The Vaccines
+15. Bloc Party
+16. The Wombats
+17. The Neighbourhood
+18. Cage the Elephant
+19. The War on Drugs
+20. Portugal. The Man
+21. The Kooks
+22. The Black Keys
+23. Foals
+24. Vampire Weekend
+25. Franz Ferdinand
+26. MGMT
+27. Interpol
+28. Death Cab for Cutie
+29. The Libertines
+30. Kasabian
+31. Beck
+32. Gorillaz
+33. Julian Casablancas
+34. Cat Power
+35. Amy Winehouse
+36. Lily Allen
+37. La Roux
+38. Björk
+39. The White Stripes
+40. Animal Collective
+41. Gossip
+42. Marina & the Diamonds
+43. Queens of the Stone Age
+44. Kid Cudi
+45. The Bravery
+46. The Hives
+47. The Vines
+48. The Fratellis
+49. The Raconteurs
+50. The Fratellis
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands.

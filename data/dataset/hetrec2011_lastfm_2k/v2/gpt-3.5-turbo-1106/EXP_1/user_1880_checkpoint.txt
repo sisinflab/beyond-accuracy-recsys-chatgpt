@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Marina and the Diamonds
+2. Lana Del Rey
+3. Halsey
+4. Lorde
+5. Tove Lo
+6. Charli XCX
+7. Ellie Goulding
+8. Sia
+9. Zara Larsson
+10. Dua Lipa
+11. Selena Gomez
+12. Demi Lovato
+13. Ariana Grande
+14. Miley Cyrus
+15. Camila Cabello
+16. Hailee Steinfeld
+17. Alessia Cara
+18. Bebe Rexha
+19. Julia Michaels
+20. Bishop Briggs
+21. Kehlani
+22. Billie Eilish
+23. Maggie Rogers
+24. Florence Welch
+25. Hayley Williams
+26. Tegan and Sara
+27. CHVRCHES
+28. The 1975
+29. Bastille
+30. Imagine Dragons
+31. Twenty One Pilots
+32. Fall Out Boy
+33. Panic! At the Disco
+34. My Chemical Romance
+35. All Time Low
+36. Paramore
+37. The Neighbourhood
+38. Arctic Monkeys
+39. The Killers
+40. Kings of Leon
+41. Foster the People
+42. Vampire Weekend
+43. The Strokes
+44. Two Door Cinema Club
+45. The Wombats
+46. Franz Ferdinand
+47. The Kooks
+48. Phoenix
+49. Cage the Elephant
+50. The Black Keys
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 1212's preferences, here are the top 50 recommendations for the given artists:
+
+1. Nirvana
+2. Green Day
+3. Pearl Jam
+4. Blink-182
+5. Weezer
+6. The Beatles
+7. Sublime
+8. The Strokes
+9. The Flaming Lips
+10. Radiohead
+11. The Killers
+12. Franz Ferdinand
+13. The White Stripes
+14. Oasis
+15. Gorillaz
+16. Foo Fighters
+17. Red Hot Chili Peppers
+18. The Postal Service
+19. Death Cab for Cutie
+20. Daft Punk
+21. The Smashing Pumpkins
+22. The New Pornographers
+23. The Mars Volta
+24. Jet
+25. Scissor Sisters
+26. Justice
+27. Aerosmith
+28. Matchbox Twenty
+29. Beck
+30. The Kooks
+31. Arctic Monkeys
+32. The Calling
+33. MGMT
+34. U2
+35. The Postal Service
+36. The Used
+37. Alesana
+38. Band of Horses
+39. R.E.M.
+40. Rage Against the Machine
+41. Guns N' Roses
+42. Bruce Springsteen
+43. PJ Harvey
+44. Stevie Wonder
+45. Blur
+46. Slipknot
+47. Jimi Hendrix
+48. Counting Crows
+49. Alkaline Trio
+50. Avenged Sevenfold
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

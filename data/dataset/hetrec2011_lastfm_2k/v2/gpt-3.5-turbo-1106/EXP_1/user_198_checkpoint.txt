@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Killswitch Engage
+2. Parkway Drive
+3. Trivium
+4. Bullet for My Valentine
+5. Architects
+6. The Devil Wears Prada
+7. Underoath
+8. Every Time I Die
+9. Beartooth
+10. As Cities Burn
+11. Norma Jean
+12. Silverstein
+13. The Used
+14. Thrice
+15. Glassjaw
+16. Senses Fail
+17. Story of the Year
+18. Finch
+19. From Autumn to Ashes
+20. Poison the Well
+21. Hopesfall
+22. Emery
+23. A Static Lullaby
+24. The Bled
+25. Chiodos
+26. Saosin
+27. Circa Survive
+28. Thursday
+29. At the Drive-In
+30. Brand New
+31. Taking Back Sunday
+32. The Movielife
+33. Finch
+34. The Early November
+35. Armor for Sleep
+36. The Receiving End of Sirens
+37. Anberlin
+38. The Almost
+39. Emery
+40. A Skylit Drive
+41. Dance Gavin Dance
+42. Emarosa
+43. I See Stars
+44. Hands Like Houses
+45. Secrets
+46. Issues
+47. Crown the Empire
+48. Of Mice & Men
+49. Memphis May Fire
+50. We Came as Romans
+
+These recommendations are based on the user's liking of similar artists and genres.

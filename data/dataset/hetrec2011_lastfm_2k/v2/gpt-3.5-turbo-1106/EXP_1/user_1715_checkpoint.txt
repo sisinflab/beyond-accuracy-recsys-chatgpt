@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Sia
+2. Lana Del Rey
+3. Halsey
+4. Lorde
+5. Marina and the Diamonds
+6. Tove Lo
+7. Charli XCX
+8. CHVRCHES
+9. Tegan and Sara
+10. Lykke Li
+11. The Cardigans
+12. Garbage
+13. Metric
+14. Bat for Lashes
+15. St. Vincent
+16. Grimes
+17. The Cranberries
+18. No Doubt
+19. Paramore
+20. The Veronicas
+21. KT Tunstall
+22. Imogen Heap
+23. Tori Amos
+24. Alanis Morissette (for more of her music)
+25. Pitty (for more of her music)
+26. Placebo (for more of their music)
+27. P!nk (for more of her music)
+28. Ellie Goulding (for more of her music)
+29. Florence + the Machine (for more of their music)
+30. Little Boots (for more of her music)
+31. Lady Gaga (for more of her music)
+32. Hurts (for more of their music)
+33. Brandon Flowers (for more of his music)
+34. Antony and the Johnsons (for more of their music)
+35. Björk (for more of her music)
+36. Rihanna (for more of her music)
+37. Los Hermanos (for more of their music)
+38. Cat Power (for more of her music)
+39. La Roux (for more of her music)
+40. Evanescence (for more of their music)
+41. The Pretty Reckless (for more of their music)
+42. Britney Spears (for more of her music)
+43. Mika (for more of his music)
+44. Roberta Sá (for more of her music)
+45. Snow Patrol (for more of their music)
+46. David Gray (for more of his music)
+47. Fiona Apple (for more of her music)
+48. Adele (for more of her music)
+49. Duffy (for more of her music)
+50. Willow Smith (for more of her music)
+
+These recommendations are based on the user's liking of similar artists and genres.

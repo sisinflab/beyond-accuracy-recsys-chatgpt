@@ -1,0 +1,54 @@
+Based on user 104's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Sense and Sensibility by Jane Austen
+3. Dear John by Nicholas Sparks
+4. A Bend in the Road by Nicholas Sparks
+5. PS, I Love You by Cecelia Ahern
+6. The Lovely Bones by Alice Sebold
+7. Digital Fortress by Dan Brown
+8. The Da Vinci Code by Dan Brown
+9. The Princess Diaries by Meg Cabot
+10. Twilight series
+11. To Kill a Mockingbird
+12. The Great Gatsby
+13. A Thousand Splendid Suns
+14. Life of Pi
+15. Harry Potter series
+16. The Hobbit
+17. The Picture of Dorian Gray
+18. The Chronicles of Narnia
+19. Ender's Game
+20. The Outsiders
+21. The Scarlet Letter
+22. Dracula
+23. Percy Jackson & the Olympians
+24. Eragon
+25. The Boy in the Striped Pyjamas
+26. The Fountainhead
+27. The God of Small Things
+28. Mansfield Park
+29. Othello
+30. Romeo and Juliet
+31. The Bourne Identity
+32. The Bourne Supremacy
+33. The Hardy Boys
+34. Nancy Drew
+35. The Hitchhiker's Guide to the Galaxy
+36. The Walking Dead (comic book)
+37. Vampire Academy
+38. The Sisterhood of the Traveling Pants
+39. The Choice
+40. The Queen's Fool
+41. Five Point Someone
+42. The Ordinary Princess
+43. A Midsummer Night's Dream
+44. Ivanhoe
+45. Tunnels
+46. If You Could See Me Now
+47. Have a Little Faith
+48. The True Believer
+49. Gone with the Wind
+50. The 3 Mistakes of My Life
+
+These recommendations are based on the user's previous likes and are intended to provide a diverse range of options for their reading preferences.

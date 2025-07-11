@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Depeche Mode
+2. Roxette
+3. Sandra
+4. Eurythmics
+5. Duran Duran
+6. Madonna
+7. Kylie Minogue
+8. Pet Shop Boys
+9. Erasure
+10. Modern Talking
+11. a-ha
+12. Alphaville
+13. Ace of Base
+14. t.A.T.u.
+15. Westlife
+16. Ария
+17. Groove Coverage
+18. Mylène Farmer
+19. Lady Gaga
+20. The Beatles
+21. The Rasmus
+22. Gregorian
+23. Mika
+24. Billy Joel
+25. Bee Gees
+26. Avril Lavigne
+27. Toto
+28. Enya
+29. Sarah Brightman
+30. Enigma
+31. Vangelis
+32. Jean-Michel Jarre
+33. Mike Oldfield
+34. Ennio Morricone
+35. Yanni
+36. Hans Zimmer
+37. Ludovico Einaudi
+38. Two Steps From Hell
+39. Lindsey Stirling
+40. David Garrett
+41. Bond
+42. Vanessa-Mae
+43. Apocalyptica
+44. 2Cellos
+45. Clean Bandit
+46. The Chainsmokers
+47. Calvin Harris
+48. Zedd
+49. Kygo
+50. Marshmello
+
+These recommendations are based on similar genres, styles, and artists that the user already likes.

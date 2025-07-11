@@ -1,0 +1,54 @@
+Based on user 430's preferences, here are the top 50 recommendations for the given artists:
+
+1. The Cure
+2. New Order
+3. Duran Duran
+4. Depeche Mode
+5. Muse
+6. The Verve
+7. INXS
+8. Echo & The Bunnymen
+9. Simple Minds
+10. Roxy Music
+11. Joy Division
+12. The Bravery
+13. Crowded House
+14. Japan
+15. U2
+16. Scissor Sisters
+17. Culture Club
+18. Lady Gaga
+19. David Bowie
+20. Sting
+21. Maroon 5
+22. Franz Ferdinand
+23. Pet Shop Boys
+24. Massive Attack
+25. Queen
+26. Michael Jackson
+27. ABC
+28. Talking Heads
+29. Fleetwood Mac
+30. Thompson Twins
+31. Oingo Boingo
+32. Ladyhawke
+33. Icehouse
+34. The Human League
+35. Madonna
+36. Yann Tiersen
+37. Boards of Canada
+38. Moby
+39. Wolfgang Amadeus Mozart
+40. Kraftwerk
+41. Placebo
+42. P!nk
+43. t.A.T.u.
+44. Robbie Williams
+45. Air
+46. a-ha
+47. Jean-Michel Jarre
+48. Eminem
+49. Britney Spears
+50. Martin L. Gore
+
+These recommendations are based on the user's existing preferences and are tailored to their music taste.

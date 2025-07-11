@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Clockwork Angel by Cassandra Clare
+2. City of Bones by Cassandra Clare
+3. City of Glass by Cassandra Clare
+4. City of Fallen Angels by Cassandra Clare
+5. City of Lost Souls by Cassandra Clare
+6. City of Heavenly Fire by Cassandra Clare
+7. Lady Midnight by Cassandra Clare
+8. Lord of Shadows by Cassandra Clare
+9. Queen of Air and Darkness by Cassandra Clare
+10. Chain of Gold by Cassandra Clare
+11. Chain of Iron by Cassandra Clare
+12. The Diviners by Libba Bray
+13. Lair of Dreams by Libba Bray
+14. Before the Devil Breaks You by Libba Bray
+15. The King of Crows by Libba Bray
+16. Intensity by Dean Koontz
+17. Watchers by Dean Koontz
+18. Phantoms by Dean Koontz
+19. Lightning by Dean Koontz
+20. The Face of Fear by Dean Koontz
+21. The Stand by Stephen King
+22. Catching Fire by Suzanne Collins
+23. Mockingjay by Suzanne Collins
+24. The Maze Runner by James Dashner
+25. The Scorch Trials by James Dashner
+26. The Death Cure by James Dashner
+27. The Kill Order by James Dashner
+28. The Fever Code by James Dashner
+29. Tithe by Holly Black
+30. Valiant by Holly Black
+31. Ironside by Holly Black
+32. Graceling by Kristin Cashore
+33. Fire by Kristin Cashore
+34. Bitterblue by Kristin Cashore
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Angel's Game by Carlos Ruiz Zafón
+37. The Prisoner of Heaven by Carlos Ruiz Zafón
+38. The Labyrinth of the Spirits by Carlos Ruiz Zafón
+39. Digital Fortress by Dan Brown
+40. Deception Point by Dan Brown
+41. The Lost Symbol by Dan Brown
+42. Inferno by Dan Brown
+43. Origin by Dan Brown
+44. The Da Vinci Code by Dan Brown
+45. The Girl with the Dragon Tattoo by Stieg Larsson
+46. The Girl Who Played with Fire by Stieg Larsson
+47. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+48. The Girl in the Spider's Web by David Lagercrantz
+49. The Girl Who Takes an Eye for an Eye by David Lagercrantz
+50. The Girl Who Lived Twice by David Lagercrantz
+
+These recommendations are based on the user's interest in fantasy, mystery, and thriller genres, as well as the authors they have previously enjoyed.

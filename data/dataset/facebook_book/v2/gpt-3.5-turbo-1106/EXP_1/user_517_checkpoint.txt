@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. Emma by Jane Austen
+3. Persuasion by Jane Austen
+4. Northanger Abbey by Jane Austen
+5. Mansfield Park by Jane Austen
+6. A Modest Proposal by Jonathan Swift
+7. A Tale of a Tub by Jonathan Swift
+8. Robinson Crusoe by Daniel Defoe
+9. Wuthering Heights by Emily Brontë
+10. Anna Karenina by Leo Tolstoy
+11. War and Peace by Leo Tolstoy
+12. Crime and Punishment by Fyodor Dostoevsky
+13. The Great Gatsby by F. Scott Fitzgerald
+14. To Kill a Mockingbird by Harper Lee
+15. The Grapes of Wrath by John Steinbeck
+16. Moby-Dick by Herman Melville
+17. The Scarlet Letter by Nathaniel Hawthorne
+18. The Adventures of Huckleberry Finn by Mark Twain
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Importance of Being Earnest by Oscar Wilde
+21. A Room with a View by E. M. Forster
+22. A Passage to India by E. M. Forster
+23. Middlemarch by George Eliot
+24. Silas Marner by George Eliot
+25. The Secret Garden by Frances Hodgson Burnett
+26. A Little Princess by Frances Hodgson Burnett
+27. The Bell Jar by Sylvia Plath
+28. The Old Man and the Sea by Ernest Hemingway
+29. For Whom the Bell Tolls by Ernest Hemingway
+30. The Sun Also Rises by Ernest Hemingway
+31. The Sound and the Fury by William Faulkner
+32. As I Lay Dying by William Faulkner
+33. The Age of Innocence by Edith Wharton
+34. Ethan Frome by Edith Wharton
+35. The Picture of Dorian Gray by Oscar Wilde
+36. The Portrait of a Lady by Henry James
+37. The Turn of the Screw by Henry James
+38. The House of Mirth by Edith Wharton
+39. The Jungle by Upton Sinclair
+40. The Call of the Wild by Jack London
+41. White Fang by Jack London
+42. The Red Badge of Courage by Stephen Crane
+43. The Awakening by Kate Chopin
+44. The Good Earth by Pearl S. Buck
+45. East of Eden by John Steinbeck
+46. Of Mice and Men by John Steinbeck
+47. The Old Curiosity Shop by Charles Dickens
+48. David Copperfield by Charles Dickens
+49. Bleak House by Charles Dickens
+50. Great Expectations by Charles Dickens
+
+These recommendations are based on the user's interest in classic literature and may align with their preferences.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Interview with the Vampire by Anne Rice
+2. Salem's Lot by Stephen King
+3. Let the Right One In by John Ajvide Lindqvist
+4. The Historian by Elizabeth Kostova
+5. Carmilla by Joseph Sheridan Le Fanu
+6. The Strain by Guillermo del Toro and Chuck Hogan
+7. I Am Legend by Richard Matheson
+8. The Passage by Justin Cronin
+9. The Vampire Lestat by Anne Rice
+10. The Bloody Chamber by Angela Carter
+11. The Vampire Armand by Anne Rice
+12. The Vampire Chronicles by Anne Rice
+13. The Vampire Diaries by L.J. Smith
+14. The Vampire Tapestry by Suzy McKee Charnas
+15. The Vampire's Assistant by Darren Shan
+16. The Vampire's Beautiful Daughter by S.P. Somtow
+17. The Vampire's Seduction by Raven Hart
+18. The Vampire's Violin by Michael Romkey
+19. The Vampire's Wardrobe by Dan Simmons
+20. The Vampire's Bride by Gena Showalter
+21. The Vampire's Mail Order Bride by Kristen Painter
+22. The Vampire's Fake Fiancée by Kristen Painter
+23. The Vampire's Accidental Wife by Kristen Painter
+24. The Vampire's True Love Trials by Kristin Painter
+25. The Vampire's Surprise by Kristen Painter
+26. The Vampire's Cursed Kiss by Kristen Painter
+27. The Vampire's Valentine Surprise by Kristen Painter
+28. The Vampire's True Love Trials by Kristen Painter
+29. The Vampire's Fake Fiancée by Kristen Painter
+30. The Vampire's Accidental Wife by Kristen Painter
+31. The Vampire's True Love Trials by Kristen Painter
+32. The Vampire's Fake Fiancée by Kristen Painter
+33. The Vampire's Accidental Wife by Kristen Painter
+34. The Vampire's True Love Trials by Kristen Painter
+35. The Vampire's Fake Fiancée by Kristen Painter
+36. The Vampire's Accidental Wife by Kristen Painter
+37. The Vampire's True Love Trials by Kristen Painter
+38. The Vampire's Fake Fiancée by Kristen Painter
+39. The Vampire's Accidental Wife by Kristen Painter
+40. The Vampire's True Love Trials by Kristen Painter
+41. The Vampire's Fake Fiancée by Kristen Painter
+42. The Vampire's Accidental Wife by Kristen Painter
+43. The Vampire's True Love Trials by Kristen Painter
+44. The Vampire's Fake Fiancée by Kristen Painter
+45. The Vampire's Accidental Wife by Kristen Painter
+46. The Vampire's True Love Trials by Kristen Painter
+47. The Vampire's Fake Fiancée by Kristen Painter
+48. The Vampire's Accidental Wife by Kristen Painter
+49. The Vampire's True Love Trials by Kristen Painter
+50. The Vampire's Fake Fiancée by Kristen Painter
+
+These recommendations are based on the user's interest in vampire-themed books and authors.

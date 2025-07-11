@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Crime and Punishment by Fyodor Dostoevsky
+4. One Hundred Years of Solitude by Gabriel Garcia Marquez
+5. To Kill a Mockingbird by Harper Lee
+6. The Catcher in the Rye by J.D. Salinger
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Brothers Karamazov by Fyodor Dostoevsky
+9. The Stranger by Albert Camus
+10. Catch-22 by Joseph Heller
+11. The Sun Also Rises by Ernest Hemingway
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Trial by Franz Kafka
+14. The Sound and the Fury by William Faulkner
+15. Lolita by Vladimir Nabokov
+16. The Bell Jar by Sylvia Plath
+17. A Clockwork Orange by Anthony Burgess
+18. The Road by Cormac McCarthy
+19. The Grapes of Wrath by John Steinbeck
+20. The Old Man and the Sea by Ernest Hemingway
+21. East of Eden by John Steinbeck
+22. The Sound of Waves by Yukio Mishima
+23. The Wind-Up Bird Chronicle by Haruki Murakami
+24. The Master and Margarita by Mikhail Bulgakov
+25. The Unbearable Lightness of Being by Milan Kundera
+26. The Book Thief by Markus Zusak
+27. The Alchemist by Paulo Coelho
+28. The Shadow of the Wind by Carlos Ruiz Zafón
+29. The Kite Runner by Khaled Hosseini
+30. The Night Circus by Erin Morgenstern
+31. The Secret History by Donna Tartt
+32. The Goldfinch by Donna Tartt
+33. The Name of the Wind by Patrick Rothfuss
+34. The Great Gatsby by F. Scott Fitzgerald
+35. The Plague by Albert Camus
+36. Animal Farm by George Orwell
+37. The Last Temptation of Christ by Nikos Kazantzakis
+38. Still Life with Woodpecker by Tom Robbins
+39. Ulysses by James Joyce
+40. Divine Comedy by Dante Alighieri
+41. The Name of the Rose by Umberto Eco
+42. Don Quixote by Miguel de Cervantes
+43. War and Peace by Leo Tolstoy
+44. Anna Karenina by Leo Tolstoy
+45. Moby-Dick by Herman Melville
+46. The Odyssey by Homer
+47. The Iliad by Homer
+48. The Aeneid by Virgil
+49. Paradise Lost by John Milton
+50. The Divine Comedy by Dante Alighieri
+
+These recommendations are based on the user's interest in classic literature, philosophical themes, and thought-provoking narratives.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1810:
+
+1. Beyoncé
+2. Rihanna
+3. Lady Gaga
+4. Shakira
+5. Black Eyed Peas
+6. T.I.
+7. Destiny's Child
+8. Timbaland
+9. Ke$ha
+10. Nicki Minaj
+11. P!nk
+12. Jason Mraz
+13. Mariah Carey
+14. Jennifer Lopez
+15. Katy Perry
+16. Britney Spears
+17. Eminem
+18. Nelly Furtado
+19. Maroon 5
+20. Christina Aguilera
+21. Kylie Minogue
+22. Jordin Sparks
+23. Leona Lewis
+24. Jessie J
+25. Avril Lavigne
+26. 2NE1
+27. Drake
+28. Lil' Wayne
+29. Jay-Z
+30. Kanye West
+31. Kid Cudi
+32. Michael Jackson
+33. Vanessa Hudgens
+34. Pixie Lott
+35. Fergie
+36. Selena Gomez & the Scene
+37. Lindsay Lohan
+38. Guns N' Roses
+39. Lily Allen
+40. 倖田來未
+41. 宇多田ヒカル
+42. B.o.B
+43. Anahí
+44. David Cook
+45. Ashlee Simpson
+46. Leighton Meester
+47. Jennifer Lopez
+48. 3OH!3
+49. The Pretty Reckless
+50. Nicole Scherzinger
+
+These recommendations are based on the user's existing preferences and are designed to align with their music taste.

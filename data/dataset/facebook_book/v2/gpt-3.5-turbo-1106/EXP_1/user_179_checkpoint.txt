@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. To Kill a Mockingbird by Harper Lee
+3. The Catcher in the Rye by J.D. Salinger
+4. 1984 by George Orwell
+5. The Kite Runner by Khaled Hosseini
+6. The Book Thief by Markus Zusak
+7. The Hunger Games by Suzanne Collins
+8. The Fault in Our Stars by John Green
+9. The Girl on the Train by Paula Hawkins
+10. Gone Girl by Gillian Flynn
+11. The Night Circus by Erin Morgenstern
+12. The Goldfinch by Donna Tartt
+13. The Secret Life of Bees by Sue Monk Kidd
+14. The Help by Kathryn Stockett
+15. The Glass Castle by Jeannette Walls
+16. The Road by Cormac McCarthy
+17. The Handmaid's Tale by Margaret Atwood
+18. The Martian by Andy Weir
+19. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Giver by Lois Lowry
+22. The Maze Runner by James Dashner
+23. The Perks of Being a Wallflower by Stephen Chbosky
+24. The Secret History by Donna Tartt
+25. The Bell Jar by Sylvia Plath
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Road Less Traveled by M. Scott Peck
+28. The Sun Also Rises by Ernest Hemingway
+29. The Old Man and the Sea by Ernest Hemingway
+30. The Grapes of Wrath by John Steinbeck
+31. The Sound and the Fury by William Faulkner
+32. The Color Purple by Alice Walker
+33. The Joy Luck Club by Amy Tan
+34. The Poisonwood Bible by Barbara Kingsolver
+35. The Handmaid's Tale by Margaret Atwood
+36. The Lovely Bones by Alice Sebold
+37. The Great Gatsby by F. Scott Fitzgerald
+38. The Crucible by Arthur Miller
+39. The Scarlet Letter by Nathaniel Hawthorne
+40. The Picture of Dorian Gray by Oscar Wilde
+41. The Count of Monte Cristo by Alexandre Dumas
+42. The Brothers Karamazov by Fyodor Dostoevsky
+43. The Stranger by Albert Camus
+44. The Road by Cormac McCarthy
+45. The Stand by Stephen King
+46. The Shining by Stephen King
+47. The Girl with the Dragon Tattoo by Stieg Larsson
+48. The Da Vinci Code by Dan Brown
+49. The Hobbit by J.R.R. Tolkien
+50. The Lord of the Rings by J.R.R. Tolkien
+
+These recommendations are based on the user's interest in a mix of fiction, classics, and contemporary literature.

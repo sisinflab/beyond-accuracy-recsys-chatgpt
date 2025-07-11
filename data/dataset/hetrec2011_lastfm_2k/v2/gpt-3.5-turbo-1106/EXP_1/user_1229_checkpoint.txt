@@ -1,0 +1,54 @@
+Based on user 1229's preferences, here are the top 50 recommendations:
+
+1. Shakira
+2. Rihanna
+3. Pitbull
+4. Jennifer Lopez
+5. Maroon 5
+6. Black Eyed Peas
+7. Usher
+8. Britney Spears
+9. Justin Timberlake
+10. Christina Aguilera
+11. Nelly Furtado
+12. Gwen Stefani
+13. David Guetta
+14. Calvin Harris
+15. Sia
+16. Ellie Goulding
+17. Zara Larsson
+18. Clean Bandit
+19. Avicii
+20. Kygo
+21. Martin Garrix
+22. Zedd
+23. The Chainsmokers
+24. Marshmello
+25. Alan Walker
+26. Halsey
+27. Dua Lipa
+28. Ariana Grande
+29. Demi Lovato
+30. Selena Gomez
+31. Taylor Swift
+32. Ed Sheeran
+33. Bruno Mars
+34. Coldplay
+35. Imagine Dragons
+36. OneRepublic
+37. The Weeknd
+38. Sam Smith
+39. Adele
+40. Sade
+41. George Michael
+42. Janet Jackson
+43. Whitney Houston
+44. Celine Dion
+45. Mariah Carey
+46. Alicia Keys
+47. John Legend
+48. Jason Derulo
+49. Ne-Yo
+50. Chris Brown
+
+These recommendations are based on similar genres, popularity, and artist collaborations.

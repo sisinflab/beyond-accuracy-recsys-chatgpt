@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+5. Dune by Frank Herbert
+6. The Catcher in the Rye by J.D. Salinger
+7. The Martian by Andy Weir
+8. Ender's Game by Orson Scott Card
+9. Snow Crash by Neal Stephenson
+10. The Handmaid's Tale by Margaret Atwood
+11. Fahrenheit 451 by Ray Bradbury
+12. The Road by Cormac McCarthy
+13. The Stand by Stephen King
+14. The Alchemist by Paulo Coelho
+15. The Hunger Games by Suzanne Collins
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Shining by Stephen King
+18. American Gods by Neil Gaiman
+19. The Hobbit by J.R.R. Tolkien
+20. The Lord of the Rings by J.R.R. Tolkien
+21. The Da Vinci Code by Dan Brown
+22. The Time Traveler's Wife by Audrey Niffenegger
+23. The Giver by Lois Lowry
+24. The Road by Cormac McCarthy
+25. The Stand by Stephen King
+26. The Alchemist by Paulo Coelho
+27. The Hunger Games by Suzanne Collins
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Shining by Stephen King
+30. American Gods by Neil Gaiman
+31. The Hobbit by J.R.R. Tolkien
+32. The Lord of the Rings by J.R.R. Tolkien
+33. The Da Vinci Code by Dan Brown
+34. The Time Traveler's Wife by Audrey Niffenegger
+35. The Giver by Lois Lowry
+36. The Road by Cormac McCarthy
+37. The Stand by Stephen King
+38. The Alchemist by Paulo Coelho
+39. The Hunger Games by Suzanne Collins
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Shining by Stephen King
+42. American Gods by Neil Gaiman
+43. The Hobbit by J.R.R. Tolkien
+44. The Lord of the Rings by J.R.R. Tolkien
+45. The Da Vinci Code by Dan Brown
+46. The Time Traveler's Wife by Audrey Niffenegger
+47. The Giver by Lois Lowry
+48. The Road by Cormac McCarthy
+49. The Stand by Stephen King
+50. The Alchemist by Paulo Coelho

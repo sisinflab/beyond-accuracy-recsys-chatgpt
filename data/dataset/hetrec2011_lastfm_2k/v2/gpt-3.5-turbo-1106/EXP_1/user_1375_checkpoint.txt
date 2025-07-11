@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The Cure
+3. Mogwai
+4. Explosions in the Sky
+5. Deftones
+6. Opeth
+7. Tool
+8. Coheed and Cambria
+9. Anathema
+10. Riverside
+11. Karnivool
+12. Katatonia
+13. Porcupine Tree
+14. Oceansize
+15. A Perfect Circle
+16. The Mars Volta
+17. Mastodon
+18. Baroness
+19. Gojira
+20. Tesseract
+21. Leprous
+22. Haken
+23. Caligula's Horse
+24. Soen
+25. The Ocean
+26. Cult of Luna
+27. Intronaut
+28. Russian Circles
+29. Pelican
+30. Caspian
+31. This Will Destroy You
+32. Godspeed You! Black Emperor
+33. Mono
+34. Sigur Rós
+35. God Is an Astronaut
+36. If These Trees Could Talk
+37. Long Distance Calling
+38. Maybeshewill
+39. 65daysofstatic
+40. And So I Watch You From Afar
+41. If These Trees Could Talk
+42. This Patch of Sky
+43. Sleepmakeswaves
+44. Tides of Man
+45. Cloudkicker
+46. Scale the Summit
+47. Animals as Leaders
+48. Plini
+49. Intervals
+50. Sithu Aye
+
+These recommendations are based on the user's liking for progressive rock, post-rock, metal, and alternative music.

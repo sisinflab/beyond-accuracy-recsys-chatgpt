@@ -1,0 +1,54 @@
+Based on user 1145's preferences, here are the top-50 book recommendations:
+
+1. Harry Potter
+2. The Lovely Bones
+3. The Old Man and the Sea
+4. The Vampire Chronicles
+5. The Adventures of Tom Sawyer
+6. The Book Thief
+7. The Handmaid's Tale
+8. The Giver
+9. The Chronicles of Narnia: Prince Caspian
+10. The Crucible of Time
+11. Twilight (series)
+12. The Canterbury Tales
+13. A Midsummer Night's Dream
+14. The Great Gatsby
+15. A Tale of Two Cities
+16. City of Ashes
+17. The Golem's Eye
+18. Treasure Island
+19. City of Glass (Mortal Instruments)
+20. City of Bones (Mortal Instruments)
+21. Invisible Man
+22. Lolita
+23. Romeo and Juliet
+24. The Perks of Being a Wallflower
+25. Teaching with Calvin and Hobbes
+26. Journey to the West
+27. Marvel Books
+28. Fences (play)
+29. The Twits
+30. A Series of Unfortunate Events
+31. Stargirl (novel)
+32. The Kane Chronicles
+33. Beauty: A Retelling of the Story of Beauty and the Beast
+34. Wait Till Helen Comes: A Ghost Story
+35. Moby-Dick
+36. Cold Mountain (novel)
+37. Rose Madder (novel)
+38. Bible
+39. Iliad
+40. Dark-Hunter (series)
+41. The Hunchback of Notre-Dame
+42. Nineteen Eighty-Four
+43. The Hamlet
+44. Crime (novel)
+45. A Clockwork Orange
+46. Chicken Soup for the Soul
+47. Neverwhere (novel)
+48. Forged by Fire (novel)
+49. Geek Love
+50. Lord of the Flies
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1145 enjoys.

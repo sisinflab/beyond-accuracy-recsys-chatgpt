@@ -1,0 +1,54 @@
+Based on the user's liking of the books provided, here is a re-ranked top-50 recommendation list for user 673:
+
+1. The Picture of Dorian Gray
+2. Dracula
+3. The Great Gatsby
+4. The Unbearable Lightness of Being
+5. The Catcher in the Rye
+6. The Hobbit
+7. The Silmarillion
+8. The Lord of the Rings
+9. The Stand
+10. The Maze Runner
+11. The City of Ember
+12. The Giver
+13. The Lost Books (novel series)
+14. The Southern Vampire Mysteries
+15. Twilight Eyes
+16. Harry Potter
+17. A Series of Unfortunate Events
+18. The Rapture (novel)
+19. World War Z
+20. Gravity's Rainbow
+21. Brave New World
+22. Invisible Man
+23. Crime and Punishment
+24. The Scarlet Letter
+25. The Outsiders (novel)
+26. The Tenant of Wildfell Hall
+27. The House of Mirth
+28. The Phantom of the Opera
+29. The Catcher in the Rye
+30. The Great Gatsby
+31. The Unbearable Lightness of Being
+32. The Picture of Dorian Gray
+33. The Stand
+34. Through the Looking-Glass
+35. Pygmalion (play)
+36. Shakespeares sonnets
+37. The Rapture (novel)
+38. A Series of Unfortunate Events
+39. The Lord of the Rings
+40. The House of Mirth
+41. The Giver
+42. The Southern Vampire Mysteries
+43. The Maze Runner
+44. The City of Ember
+45. The Hobbit
+46. The Silmarillion
+47. The Lost Books (novel series)
+48. Twilight Eyes
+49. Harry Potter
+50. World War Z
+
+These recommendations are based on the user's liking of similar books and are ranked accordingly.

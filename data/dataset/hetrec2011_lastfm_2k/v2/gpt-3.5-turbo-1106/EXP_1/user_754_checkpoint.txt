@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Bob Dylan
+2. Neil Young
+3. The Smiths
+4. Elvis Costello
+5. R.E.M.
+6. The Who
+7. Bruce Springsteen
+8. Oasis
+9. Radiohead
+10. The Clash
+11. Neil Diamond
+12. The Beach Boys
+13. The Velvet Underground
+14. The Byrds
+15. The Cure
+16. The Doors
+17. Paul Simon
+18. The Band
+19. The Flaming Lips
+20. Beck
+21. The Strokes
+22. The White Stripes
+23. The Black Keys
+24. Arctic Monkeys
+25. The National
+26. Arcade Fire
+27. Modest Mouse
+28. Spoon
+29. Wilco
+30. My Morning Jacket
+31. The Shins
+32. Death Cab for Cutie
+33. Vampire Weekend
+34. Tame Impala
+35. Fleet Foxes
+36. Bon Iver
+37. Sufjan Stevens
+38. Father John Misty
+39. The War on Drugs
+40. St. Vincent
+41. Courtney Barnett
+42. Hozier
+43. Alabama Shakes
+44. The Lumineers
+45. Nathaniel Rateliff & The Night Sweats
+46. Jason Isbell
+47. Dawes
+48. The Avett Brothers
+49. The Head and the Heart
+50. Houndmouth
+
+These recommendations are based on similar genres, styles, and characteristics of the user's liked artists.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Taylor Swift
+2. Demi Lovato
+3. Selena Gomez
+4. Ariana Grande
+5. Justin Timberlake
+6. Christina Aguilera
+7. Beyoncé
+8. Justin Bieber
+9. One Direction
+10. Taylor Momsen
+11. Demi Lovato
+12. Selena Gomez
+13. Ariana Grande
+14. Justin Timberlake
+15. Christina Aguilera
+16. Beyoncé
+17. Justin Bieber
+18. One Direction
+19. Taylor Momsen
+20. Demi Lovato
+21. Selena Gomez
+22. Ariana Grande
+23. Justin Timberlake
+24. Christina Aguilera
+25. Beyoncé
+26. Justin Bieber
+27. One Direction
+28. Taylor Momsen
+29. Demi Lovato
+30. Selena Gomez
+31. Ariana Grande
+32. Justin Timberlake
+33. Christina Aguilera
+34. Beyoncé
+35. Justin Bieber
+36. One Direction
+37. Taylor Momsen
+38. Demi Lovato
+39. Selena Gomez
+40. Ariana Grande
+41. Justin Timberlake
+42. Christina Aguilera
+43. Beyoncé
+44. Justin Bieber
+45. One Direction
+46. Taylor Momsen
+47. Demi Lovato
+48. Selena Gomez
+49. Ariana Grande
+50. Justin Timberlake
+
+These recommendations are based on the user's liking of similar artists and are intended to provide a diverse range of options for the user to explore.

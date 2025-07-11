@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Animal Farm by George Orwell
+3. The Handmaid's Tale by Margaret Atwood
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Bell Jar by Sylvia Plath
+8. The Road by Cormac McCarthy
+9. The Giver by Lois Lowry
+10. Lord of the Flies by William Golding
+11. The Hunger Games by Suzanne Collins
+12. Divergent by Veronica Roth
+13. The Maze Runner by James Dashner
+14. The Book Thief by Markus Zusak
+15. The Alchemist by Paulo Coelho
+16. The Kite Runner by Khaled Hosseini
+17. A Thousand Splendid Suns by Khaled Hosseini
+18. The Secret Life of Bees by Sue Monk Kidd
+19. The Help by Kathryn Stockett
+20. The Color Purple by Alice Walker
+21. Beloved by Toni Morrison
+22. One Hundred Years of Solitude by Gabriel Garcia Marquez
+23. Love in the Time of Cholera by Gabriel Garcia Marquez
+24. The Picture of Dorian Gray by Oscar Wilde
+25. Dracula by Bram Stoker
+26. Frankenstein by Mary Shelley
+27. The Hobbit by J.R.R. Tolkien
+28. The Silmarillion by J.R.R. Tolkien
+29. The Chronicles of Narnia by C.S. Lewis
+30. The Secret Garden by Frances Hodgson Burnett
+31. Little Women by Louisa May Alcott
+32. Pride and Prejudice by Jane Austen
+33. Sense and Sensibility by Jane Austen
+34. Emma by Jane Austen
+35. Persuasion by Jane Austen
+36. Northanger Abbey by Jane Austen
+37. The Picture of Dorian Gray by Oscar Wilde
+38. Dracula by Bram Stoker
+39. Frankenstein by Mary Shelley
+40. The Hobbit by J.R.R. Tolkien
+41. The Silmarillion by J.R.R. Tolkien
+42. The Chronicles of Narnia by C.S. Lewis
+43. The Secret Garden by Frances Hodgson Burnett
+44. Little Women by Louisa May Alcott
+45. Pride and Prejudice by Jane Austen
+46. Sense and Sensibility by Jane Austen
+47. Emma by Jane Austen
+48. Persuasion by Jane Austen
+49. Northanger Abbey by Jane Austen
+50. The Picture of Dorian Gray by Oscar Wilde
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, and coming-of-age stories.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ben Folds
+2. Jason Mraz
+3. Sara Bareilles
+4. Jack Johnson
+5. Norah Jones
+6. Coldplay
+7. Ed Sheeran
+8. Train
+9. Maroon 5
+10. OneRepublic
+11. The Fray
+12. James Blunt
+13. Colbie Caillat
+14. Ingrid Michaelson
+15. The Script
+16. Rob Thomas
+17. Dave Matthews Band
+18. Counting Crows
+19. James Taylor
+20. Sheryl Crow
+21. Jewel
+22. KT Tunstall
+23. Michelle Branch
+24. Vanessa Carlton
+25. John Legend
+26. Alicia Keys
+27. Bruno Mars
+28. Taylor Swift
+29. Katy Perry
+30. Pink
+31. Kelly Clarkson
+32. Paramore
+33. Demi Lovato
+34. Selena Gomez
+35. Miley Cyrus
+36. Justin Timberlake
+37. Niall Horan
+38. Harry Styles
+39. Zayn
+40. Liam Payne
+41. Louis Tomlinson
+42. Shawn Mendes
+43. Charlie Puth
+44. Camila Cabello
+45. Ariana Grande
+46. Dua Lipa
+47. Billie Eilish
+48. Lorde
+49. Halsey
+50. Alessia Cara
+
+These recommendations are based on the user's liking of artists and are aimed at providing a diverse range of similar artists and genres.

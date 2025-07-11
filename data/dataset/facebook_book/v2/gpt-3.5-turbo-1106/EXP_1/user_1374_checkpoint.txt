@@ -1,0 +1,54 @@
+Based on user 1374's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Road by Cormac McCarthy
+4. The Stand by Stephen King
+5. The Shining by Stephen King
+6. The Handmaid's Tale by Margaret Atwood
+7. Fahrenheit 451 by Ray Bradbury
+8. The Hunger Games by Suzanne Collins
+9. Dune by Frank Herbert
+10. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+11. Neuromancer by William Gibson
+12. Snow Crash by Neal Stephenson
+13. Do Androids Dream of Electric Sheep? by Philip K. Dick
+14. The Martian by Andy Weir
+15. Ender's Game by Orson Scott Card
+16. The War of the Worlds by H.G. Wells
+17. The Time Machine by H.G. Wells
+18. The Stand by Stephen King
+19. The Road by Cormac McCarthy
+20. The Shining by Stephen King
+21. The Handmaid's Tale by Margaret Atwood
+22. Fahrenheit 451 by Ray Bradbury
+23. The Hunger Games by Suzanne Collins
+24. Dune by Frank Herbert
+25. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+26. Neuromancer by William Gibson
+27. Snow Crash by Neal Stephenson
+28. Do Androids Dream of Electric Sheep? by Philip K. Dick
+29. The Martian by Andy Weir
+30. Ender's Game by Orson Scott Card
+31. The War of the Worlds by H.G. Wells
+32. The Time Machine by H.G. Wells
+33. The Stand by Stephen King
+34. The Road by Cormac McCarthy
+35. The Shining by Stephen King
+36. The Handmaid's Tale by Margaret Atwood
+37. Fahrenheit 451 by Ray Bradbury
+38. The Hunger Games by Suzanne Collins
+39. Dune by Frank Herbert
+40. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+41. Neuromancer by William Gibson
+42. Snow Crash by Neal Stephenson
+43. Do Androids Dream of Electric Sheep? by Philip K. Dick
+44. The Martian by Andy Weir
+45. Ender's Game by Orson Scott Card
+46. The War of the Worlds by H.G. Wells
+47. The Time Machine by H.G. Wells
+48. The Stand by Stephen King
+49. The Road by Cormac McCarthy
+50. The Shining by Stephen King
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1374 likes.

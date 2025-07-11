@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoyevsky
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Great Gatsby by F. Scott Fitzgerald
+8. To Kill a Mockingbird by Harper Lee
+9. The Grapes of Wrath by John Steinbeck
+10. The Lord of the Rings by J.R.R. Tolkien
+11. The Stranger by Albert Camus
+12. The Bell Jar by Sylvia Plath
+13. The Road by Cormac McCarthy
+14. The Handmaid's Tale by Margaret Atwood
+15. The Alchemist by Paulo Coelho
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Sun Also Rises by Ernest Hemingway
+18. The Kite Runner by Khaled Hosseini
+19. The Book Thief by Markus Zusak
+20. The Giver by Lois Lowry
+21. The Martian by Andy Weir
+22. The Stand by Stephen King
+23. The Shining by Stephen King
+24. The Girl with the Dragon Tattoo by Stieg Larsson
+25. The Da Vinci Code by Dan Brown
+26. The Name of the Wind by Patrick Rothfuss
+27. The Shadow of the Wind by Carlos Ruiz Zafón
+28. The Night Circus by Erin Morgenstern
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+31. The Hand of Fatima by Ildefonso Falcones
+32. The Pillars of the Earth by Ken Follett
+33. The Help by Kathryn Stockett
+34. The Secret History by Donna Tartt
+35. The Goldfinch by Donna Tartt
+36. The Girl on the Train by Paula Hawkins
+37. The Maze Runner by James Dashner
+38. The Hunger Games by Suzanne Collins
+39. The Road to Wigan Pier by George Orwell
+40. The Stand by Stephen King
+41. The Shining by Stephen King
+42. The Girl with the Dragon Tattoo by Stieg Larsson
+43. The Da Vinci Code by Dan Brown
+44. The Name of the Wind by Patrick Rothfuss
+45. The Shadow of the Wind by Carlos Ruiz Zafón
+46. The Night Circus by Erin Morgenstern
+47. The Time Traveler's Wife by Audrey Niffenegger
+48. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+49. The Hand of Fatima by Ildefonso Falcones
+50. The Pillars of the Earth by Ken Follett
+
+These recommendations are based on the user's interest in classic literature, science fiction, and philosophical themes.

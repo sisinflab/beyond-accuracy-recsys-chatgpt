@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Great Gatsby by F. Scott Fitzgerald
+3. 1984 by George Orwell
+4. Animal Farm by George Orwell
+5. Fahrenheit 451 by Ray Bradbury
+6. Lord of the Flies by William Golding
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Bell Jar by Sylvia Plath
+10. The Road by Cormac McCarthy
+11. The Handmaid's Tale by Margaret Atwood
+12. The Alchemist by Paulo Coelho
+13. The Kite Runner by Khaled Hosseini
+14. The Book Thief by Markus Zusak
+15. The Picture of Dorian Gray by Oscar Wilde
+16. The Sun Also Rises by Ernest Hemingway
+17. The Old Man and the Sea by Ernest Hemingway
+18. The Grapes of Wrath by John Steinbeck
+19. East of Eden by John Steinbeck
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. Crime and Punishment by Fyodor Dostoevsky
+22. The Count of Monte Cristo by Alexandre Dumas
+23. Les Misérables by Victor Hugo
+24. The Scarlet Letter by Nathaniel Hawthorne
+25. Moby-Dick by Herman Melville
+26. The Picture of Dorian Gray by Oscar Wilde
+27. The Road by Cormac McCarthy
+28. The Handmaid's Tale by Margaret Atwood
+29. The Alchemist by Paulo Coelho
+30. The Kite Runner by Khaled Hosseini
+31. The Book Thief by Markus Zusak
+32. The Sun Also Rises by Ernest Hemingway
+33. The Old Man and the Sea by Ernest Hemingway
+34. The Grapes of Wrath by John Steinbeck
+35. East of Eden by John Steinbeck
+36. The Brothers Karamazov by Fyodor Dostoevsky
+37. Crime and Punishment by Fyodor Dostoevsky
+38. The Count of Monte Cristo by Alexandre Dumas
+39. Les Misérables by Victor Hugo
+40. The Scarlet Letter by Nathaniel Hawthorne
+41. Moby-Dick by Herman Melville
+42. The Picture of Dorian Gray by Oscar Wilde
+43. The Road by Cormac McCarthy
+44. The Handmaid's Tale by Margaret Atwood
+45. The Alchemist by Paulo Coelho
+46. The Kite Runner by Khaled Hosseini
+47. The Book Thief by Markus Zusak
+48. The Sun Also Rises by Ernest Hemingway
+49. The Old Man and the Sea by Ernest Hemingway
+50. The Grapes of Wrath by John Steinbeck
+
+These recommendations are based on the user's liking of classic literature and dystopian novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Shakira
+2. Selena Gomez
+3. Demi Lovato
+4. Ariana Grande
+5. Selena
+6. Miley Cyrus
+7. Christina Aguilera
+8. P!nk
+9. Avril Lavigne
+10. Kelly Clarkson
+11. Gwen Stefani
+12. Joss Stone
+13. Hilary Duff
+14. Christina Milian
+15. Nelly
+16. Jennifer Hudson
+17. Leona Lewis
+18. Kelly Rowland
+19. Nicole Scherzinger
+20. Fergie
+21. Nicole Kidman
+22. Vanessa Hudgens
+23. Vanessa Carlton
+24. Vanessa Paradis
+25. Vanessa Williams
+26. Vanessa Amorosi
+27. Vanessa Hudgens
+28. Vanessa L. Williams
+29. Vanessa Bell Armstrong
+30. Vanessa Daou
+31. Vanessa-Mae
+32. Vanessa Petruo
+33. Vanessa S.
+34. Vanessa-Mae
+35. Vanessa Williams
+36. Vanessa Carlton
+37. Vanessa Hudgens
+38. Vanessa Paradis
+39. Vanessa Bell Armstrong
+40. Vanessa Daou
+41. Vanessa-Mae
+42. Vanessa Petruo
+43. Vanessa S.
+44. Vanessa-Mae
+45. Vanessa Williams
+46. Vanessa Carlton
+47. Vanessa Hudgens
+48. Vanessa Paradis
+49. Vanessa Bell Armstrong
+50. Vanessa Daou
+
+These recommendations are based on similar artists and genres liked by the user.

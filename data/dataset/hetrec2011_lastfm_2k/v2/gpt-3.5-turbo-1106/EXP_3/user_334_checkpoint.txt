@@ -1,0 +1,54 @@
+Based on user 334's preferences, here are the top-50 recommendations for the user:
+
+1. Radiohead
+2. The White Stripes
+3. The Black Keys
+4. The Smiths
+5. The Killers
+6. MGMT
+7. Kings of Leon
+8. The Libertines
+9. Kasabian
+10. The Fratellis
+11. The Subways
+12. The Wombats
+13. Klaxons
+14. Vampire Weekend
+15. The Prodigy
+16. Depeche Mode
+17. OK Go
+18. of Montreal
+19. Two Door Cinema Club
+20. Maxïmo Park
+21. The Strokes
+22. Franz Ferdinand
+23. The Kooks
+24. The Last Shadow Puppets
+25. Arctic Monkeys
+26. Muse
+27. The Vines
+28. The Hives
+29. The Doors
+30. Blur
+31. Kaiser Chiefs
+32. The Black Keys
+33. The Clash
+34. Ramones
+35. Buzzcocks
+36. Misfits
+37. Bad Religion
+38. Pennywise
+39. Rage Against the Machine
+40. Queens of the Stone Age
+41. Red Hot Chili Peppers
+42. Alice in Chains
+43. Black Sabbath
+44. Weezer
+45. Linkin Park
+46. Avenged Sevenfold
+47. Mastodon
+48. Raimundos
+49. Gorillaz
+50. Saosin
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

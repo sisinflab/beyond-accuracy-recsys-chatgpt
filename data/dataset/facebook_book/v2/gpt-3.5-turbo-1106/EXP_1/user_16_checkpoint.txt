@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. Digital Fortress by Dan Brown
+4. Deception Point by Dan Brown
+5. Origin by Dan Brown
+6. The Lost Symbol by Dan Brown
+7. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+8. Harry Potter and the Chamber of Secrets by J.K. Rowling
+9. Harry Potter and the Prisoner of Azkaban by J.K. Rowling
+10. Harry Potter and the Goblet of Fire by J.K. Rowling
+11. Harry Potter and the Order of the Phoenix by J.K. Rowling
+12. Harry Potter and the Half-Blood Prince by J.K. Rowling
+13. Harry Potter and the Deathly Hallows by J.K. Rowling
+14. The Male Brain by Louann Brizendine
+15. The Brain That Changes Itself by Norman Doidge
+16. The Kite Runner by Khaled Hosseini
+17. A Thousand Splendid Suns by Khaled Hosseini
+18. And the Mountains Echoed by Khaled Hosseini
+19. Committed by Elizabeth Gilbert
+20. Big Magic by Elizabeth Gilbert
+21. The Pilgrimage by Paulo Coelho
+22. Brida by Paulo Coelho
+23. Veronika Decides to Die by Paulo Coelho
+24. The Choice by Nicholas Sparks
+25. The Lucky One by Nicholas Sparks
+26. Dear John by Nicholas Sparks
+27. The Guardian by Nicholas Sparks
+28. The Rescue by Nicholas Sparks
+29. The Great Alone by Nicholas Sparks
+30. The Road by Cormac McCarthy
+31. Lonesome Dove by Larry McMurtry
+32. The Motorcycle Diaries by Ernesto Che Guevara
+33. Shantaram by Gregory David Roberts
+34. Maximum City by Suketu Mehta
+35. Behind the Beautiful Forevers by Katherine Boo
+36. The White Tiger by Aravind Adiga
+37. A Fine Balance by Rohinton Mistry
+38. The Namesake by Jhumpa Lahiri
+39. Interpreter of Maladies by Jhumpa Lahiri
+40. The God of Small Things by Arundhati Roy
+41. The Glass Palace by Amitav Ghosh
+42. The Shadow Lines by Amitav Ghosh
+43. The Hungry Tide by Amitav Ghosh
+44. The Lowland by Jhumpa Lahiri
+45. The Inheritance of Loss by Kiran Desai
+46. The Ministry of Utmost Happiness by Arundhati Roy
+47. The Palace of Illusions by Chitra Banerjee Divakaruni
+48. The Guide by R.K. Narayan
+49. Train to Pakistan by Khushwant Singh
+50. Midnight's Children by Salman Rushdie
+
+These recommendations are based on the user's interest in fiction, psychology, and travel-related books.

@@ -1,0 +1,54 @@
+Based on the preferences of user 895, here are the top 50 book recommendations:
+
+1. Mockingjay by Suzanne Collins
+2. Bitterblue by Kristin Cashore
+3. Just Listen by Sarah Dessen
+4. The Remains of the Day by Kazuo Ishiguro
+5. The Shadow of the Wind by Carlos Ruiz Zafón
+6. The Golem's Eye by Jonathan Stroud
+7. The Amulet of Samarkand by Jonathan Stroud
+8. The Mysterious Benedict Society by Trenton Lee Stewart
+9. The Golden Compass by Philip Pullman
+10. The Hunger Games by Suzanne Collins
+11. The Maze Runner by James Dashner
+12. The Lightning Thief by Rick Riordan
+13. The Alchemyst by Michael Scott
+14. The Magician by Michael Scott
+15. The Sorceress by Michael Scott
+16. The Enchantress by Michael Scott
+17. The Thief Lord by Cornelia Funke
+18. Dragon Rider by Cornelia Funke
+19. The Name of the Wind by Patrick Rothfuss
+20. The Wise Man's Fear by Patrick Rothfuss
+21. The Slow Regard of Silent Things by Patrick Rothfuss
+22. The Lies of Locke Lamora by Scott Lynch
+23. Red Seas Under Red Skies by Scott Lynch
+24. The Republic of Thieves by Scott Lynch
+25. Mistborn: The Final Empire by Brandon Sanderson
+26. The Well of Ascension by Brandon Sanderson
+27. The Hero of Ages by Brandon Sanderson
+28. Warbreaker by Brandon Sanderson
+29. Elantris by Brandon Sanderson
+30. The Way of Kings by Brandon Sanderson
+31. Words of Radiance by Brandon Sanderson
+32. Oathbringer by Brandon Sanderson
+33. Rhythm of War by Brandon Sanderson
+34. The Final Empire by Brandon Sanderson
+35. The Well of Ascension by Brandon Sanderson
+36. The Hero of Ages by Brandon Sanderson
+37. Warbreaker by Brandon Sanderson
+38. Elantris by Brandon Sanderson
+39. The Way of Kings by Brandon Sanderson
+40. Words of Radiance by Brandon Sanderson
+41. Oathbringer by Brandon Sanderson
+42. Rhythm of War by Brandon Sanderson
+43. The Final Empire by Brandon Sanderson
+44. The Well of Ascension by Brandon Sanderson
+45. The Hero of Ages by Brandon Sanderson
+46. Warbreaker by Brandon Sanderson
+47. Elantris by Brandon Sanderson
+48. The Way of Kings by Brandon Sanderson
+49. Words of Radiance by Brandon Sanderson
+50. Oathbringer by Brandon Sanderson
+
+These recommendations are based on the similar themes, genres, and authors of the books that user 895 likes.

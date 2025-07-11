@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. Interpol
+3. Foals
+4. Arcade Fire
+5. The National
+6. Vampire Weekend
+7. Tame Impala
+8. The Black Keys
+9. Franz Ferdinand
+10. The Libertines
+11. Modest Mouse
+12. LCD Soundsystem
+13. The Flaming Lips
+14. The War on Drugs
+15. Phoenix
+16. The Smashing Pumpkins
+17. The Chemical Brothers
+18. Gorillaz
+19. The Kooks
+20. The Shins
+21. Spoon
+22. Death Cab for Cutie
+23. MGMT
+24. The Postal Service
+25. The Hives
+26. The Verve
+27. The Cranberries
+28. The Jesus and Mary Chain
+29. The Stone Roses
+30. The Smiths
+31. New Order
+32. Joy Division
+33. Echo & the Bunnymen
+34. The Psychedelic Furs
+35. The Jesus and Mary Chain
+36. The Charlatans
+37. The La's
+38. The House of Love
+39. The Chameleons
+40. The Teardrop Explodes
+41. The Sound
+42. The Church
+43. The Mission
+44. The Sisters of Mercy
+45. The Cult
+46. The Jesus and Mary Chain
+47. The Wedding Present
+48. The Fall
+49. The Birthday Party
+50. The Gun Club
+
+These recommendations are based on the user's liking of alternative, indie, and rock artists and are aimed at providing a diverse range of similar artists for the user to explore.

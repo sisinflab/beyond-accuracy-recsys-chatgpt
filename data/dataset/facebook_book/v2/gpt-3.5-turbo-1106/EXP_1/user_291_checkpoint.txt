@@ -1,0 +1,54 @@
+Based on the preferences of user 291, here are the top 50 book recommendations:
+
+1. Graceling by Kristin Cashore
+2. Alanna: The First Adventure by Tamora Pierce
+3. Divergent by Veronica Roth
+4. Ella Enchanted by Gail Carson Levine
+5. Paper Towns by John Green
+6. Sense and Sensibility by Jane Austen
+7. Every Day by David Levithan
+8. I Am the Messenger by Markus Zusak
+9. Fire by Kristin Cashore
+10. Trickster's Choice by Tamora Pierce
+11. Catching Fire by Suzanne Collins
+12. Spindle's End by Robin McKinley
+13. Looking for Alaska by John Green
+14. Emma by Jane Austen
+15. The Fault in Our Stars by John Green
+16. The Giver by Lois Lowry
+17. Bitterblue by Kristin Cashore
+18. Lioness Rampant by Tamora Pierce
+19. Mockingjay by Suzanne Collins
+20. Deerskin by Robin McKinley
+21. Turtles All the Way Down by John Green
+22. Northanger Abbey by Jane Austen
+23. The Perks of Being a Wallflower by Stephen Chbosky
+24. The Messenger by Markus Zusak
+25. The Queen of Attolia by Megan Whalen Turner
+26. The Scorpio Races by Maggie Stiefvater
+27. The Secret Countess by Eva Ibbotson
+28. The Thief by Megan Whalen Turner
+29. The Raven Boys by Maggie Stiefvater
+30. The Star-Touched Queen by Roshani Chokshi
+31. The Night Circus by Erin Morgenstern
+32. The Selection by Kiera Cass
+33. The Winner's Curse by Marie Rutkoski
+34. The Wrath and the Dawn by Renee Ahdieh
+35. The Cruel Prince by Holly Black
+36. The Bear and the Nightingale by Katherine Arden
+37. The Name of the Wind by Patrick Rothfuss
+38. The Shadow of the Wind by Carlos Ruiz Zafón
+39. The Nightingale by Kristin Hannah
+40. The Book of Life by Deborah Harkness
+41. The Nightingale by Kristin Hannah
+42. The Book of Life by Deborah Harkness
+43. The Night Circus by Erin Morgenstern
+44. The Star-Touched Queen by Roshani Chokshi
+45. The Wrath and the Dawn by Renee Ahdieh
+46. The Cruel Prince by Holly Black
+47. The Bear and the Nightingale by Katherine Arden
+48. The Name of the Wind by Patrick Rothfuss
+49. The Shadow of the Wind by Carlos Ruiz Zafón
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's preference for fantasy, young adult fiction, and retellings of classic stories.

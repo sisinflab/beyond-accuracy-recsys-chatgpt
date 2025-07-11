@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. Lord of the Flies by William Golding
+4. The Hunger Games by Suzanne Collins
+5. The Chronicles of Narnia by C.S. Lewis
+6. The Hobbit by J.R.R. Tolkien
+7. The Secret Garden by Frances Hodgson Burnett
+8. Matilda by Roald Dahl
+9. Charlotte's Web by E.B. White
+10. The Phantom Tollbooth by Norton Juster
+11. Bridge to Terabithia by Katherine Paterson
+12. A Wrinkle in Time by Madeleine L'Engle
+13. The Alchemist by Paulo Coelho
+14. The Little Prince by Antoine de Saint-Exupéry
+15. The Book Thief by Markus Zusak
+16. The Perks of Being a Wallflower by Stephen Chbosky
+17. The Fault in Our Stars by John Green
+18. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+19. The Maze Runner by James Dashner
+20. Divergent by Veronica Roth
+21. The Girl with the Dragon Tattoo by Stieg Larsson
+22. The Da Vinci Code by Dan Brown
+23. The Girl on the Train by Paula Hawkins
+24. Gone Girl by Gillian Flynn
+25. The Lovely Bones by Alice Sebold
+26. Room by Emma Donoghue
+27. The Road by Cormac McCarthy
+28. The Kite Runner by Khaled Hosseini
+29. A Thousand Splendid Suns by Khaled Hosseini
+30. The Glass Castle by Jeannette Walls
+31. Educated by Tara Westover
+32. The Night Circus by Erin Morgenstern
+33. The Goldfinch by Donna Tartt
+34. The Help by Kathryn Stockett
+35. The Handmaid's Tale by Margaret Atwood
+36. The Bell Jar by Sylvia Plath
+37. The Picture of Dorian Gray by Oscar Wilde
+38. Brave New World by Aldous Huxley
+39. Fahrenheit 451 by Ray Bradbury
+40. Catch-22 by Joseph Heller
+41. Slaughterhouse-Five by Kurt Vonnegut
+42. One Hundred Years of Solitude by Gabriel García Márquez
+43. The Stranger by Albert Camus
+44. Crime and Punishment by Fyodor Dostoevsky
+45. The Brothers Karamazov by Fyodor Dostoevsky
+46. War and Peace by Leo Tolstoy
+47. Anna Karenina by Leo Tolstoy
+48. Pride and Prejudice by Jane Austen
+49. Jane Eyre by Charlotte Brontë
+50. Wuthering Heights by Emily Brontë
+
+These recommendations are based on the user's interest in various genres and themes, including young adult fiction, classics, dystopian literature, and fantasy.

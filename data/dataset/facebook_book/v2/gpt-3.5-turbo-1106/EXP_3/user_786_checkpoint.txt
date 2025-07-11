@@ -1,0 +1,54 @@
+Based on the user's preferences and the provided list of books, here are the top-50 recommendations for user 786:
+
+1. The Bell Jar
+2. Lolita
+3. The Godfather (novel)
+4. Brave New World
+5. The Lord of the Rings
+6. To Kill a Mockingbird
+7. Life of Pi
+8. Fight Club (novel)
+9. The Thief of Always
+10. Go Ask Alice
+11. Their Eyes Were Watching God
+12. Romeo and Juliet
+13. Atlas Shrugged
+14. Middlesex (novel)
+15. Wuthering Heights
+16. The Catcher in the Rye
+17. A Clockwork Orange
+18. The Old Man and the Sea
+19. The Sandman (book)
+20. Where the Red Fern Grows
+21. The Southern Vampire Mysteries
+22. The Vampire Lestat
+23. The Temple of My Familiar
+24. Crank (novel)
+25. The Pit and the Pendulum
+26. The City of Ember
+27. Requiem for a Dream (novel)
+28. Gulliver's Travels
+29. Fahrenheit 451
+30. She Walks in Beauty
+31. The Grapes of Wrath
+32. The Outsiders (novel)
+33. Rant (novel)
+34. Desiderata
+35. Dear John (novel)
+36. The Zombie Survival Guide
+37. The Prince
+38. Lamb: The Gospel According to Biff, Christ's Childhood Pal
+39. Hourglass (novel)
+40. The Beautiful Boy
+41. The Jungle Book
+42. The Watchmen (novel)
+43. Oedipus the King
+44. Rosemary's Baby
+45. Candy: A Novel of Love and Addiction
+46. Teaching with Calvin and Hobbes
+47. The Girls' Guide to Hunting and Fishing
+48. Lies My Teacher Told Me
+49. Watchmen
+50. Tess of the d'Urbervilles
+
+These recommendations are based on the user's liking for certain authors and genres, and are designed to provide a diverse range of options for the user to explore.

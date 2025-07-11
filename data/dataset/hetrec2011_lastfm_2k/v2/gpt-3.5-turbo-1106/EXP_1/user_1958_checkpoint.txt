@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Smiths
+2. Siouxsie and the Banshees
+3. The Cure
+4. Cocteau Twins
+5. The Jesus and Mary Chain
+6. The Psychedelic Furs
+7. Bauhaus
+8. New Order
+9. Echo & The Bunnymen
+10. The Chameleons
+11. The Sisters of Mercy
+12. The Church
+13. The Sound
+14. The Mission
+15. The Teardrop Explodes
+16. The Bolshoi
+17. The Cult
+18. The March Violets
+19. The Danse Society
+20. The Rose of Avalanche
+21. The Wake
+22. The Frozen Autumn
+23. The Exploding Boy
+24. The Soft Moon
+25. She Past Away
+26. Lebanon Hanover
+27. Drab Majesty
+28. Cold Cave
+29. Boy Harsher
+30. Black Marble
+31. Ash Code
+32. The KVB
+33. Linea Aspera
+34. Xeno & Oaklander
+35. Automelodi
+36. Sixth June
+37. Selofan
+38. Hante.
+39. Kælan Mikla
+40. Agent Side Grinder
+41. Lust for Youth
+42. TR/ST
+43. Light Asylum
+44. Soft Kill
+45. The Foreign Resort
+46. The Soft Moon
+47. She Past Away
+48. Lebanon Hanover
+49. Drab Majesty
+50. Cold Cave
+
+These recommendations are based on the user's liking for artists with similar musical styles and genres.

@@ -1,0 +1,54 @@
+Based on user 1223's preferences, here are the top 50 book recommendations:
+
+1. Impulse (Hopkins novel)
+2. Identical (novel) by ['Ellen Hopkins']
+3. Tricks (novel) by ['Ellen Hopkins']
+4. Glass (novel) by ['Ellen Hopkins']
+5. Impulse economy
+6. Burned (Hopkins novel)
+7. Crank (novel)
+8. The Chocolate War
+9. The Black Tattoo
+10. Beautiful Darkness
+11. The Messenger (Markus Zusak novel)
+12. Thirteen Reasons Why
+13. Wintergirls
+14. Breaking Point (novel)
+15. A Million Little Pieces
+16. The Host (novel)
+17. The Book Thief
+18. The Legend of Sleepy Hollow
+19. The Perks of Being a Wallflower
+20. Looking for Alaska
+21. I Hope They Serve Beer in Hell
+22. The Catcher in the Rye
+23. The City of Ember
+24. City of Ashes
+25. City of Glass (Mortal Instruments)
+26. City of Bones (Mortal Instruments)
+27. Vampire Academy (novel)
+28. The Notebook (novel)
+29. The Zombie Survival Guide
+30. Fear and Loathing in Las Vegas
+31. Twilight (series)
+32. The Hunger Games
+33. Catching Fire
+34. My Horizontal Life by ['Chelsea Handler']
+35. Chelsea Chelsea Bang Bang by ['Chelsea Handler']
+36. The Little Mermaid
+37. If I Stay
+38. The Haunting of Alaizabel Cray
+39. The Summoning (novel)
+40. I Am Number Four
+41. What I Saw and How I Lied
+42. Harry Potter
+43. The City of Bones
+44. The City of Glass
+45. The City of Ashes
+46. The City of Ember
+47. The City of Bones
+48. The City of Glass
+49. The City of Ashes
+50. The City of Ember
+
+These recommendations are based on similar themes, genres, and authors to the books that user 1223 likes.

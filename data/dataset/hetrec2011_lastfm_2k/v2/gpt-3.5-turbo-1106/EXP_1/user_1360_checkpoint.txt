@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Shins
+2. Broken Social Scene
+3. The Postal Service
+4. The National
+5. Tame Impala
+6. Vampire Weekend
+7. Grizzly Bear
+8. The Flaming Lips
+9. Beach House
+10. Interpol
+11. The Strokes
+12. Wilco
+13. LCD Soundsystem
+14. Phoenix
+15. The War on Drugs
+16. Bon Iver
+17. The xx
+18. Spoon
+19. Yeah Yeah Yeahs
+20. The Black Keys
+21. TV on the Radio
+22. Foals
+23. Alt-J
+24. The Antlers
+25. Local Natives
+26. Real Estate
+27. Fleet Foxes
+28. MGMT
+29. Beirut
+30. Animal Collective
+31. Modest Mouse
+32. Death Cab for Cutie
+33. The Album Leaf
+34. of Montreal
+35. Ratatat
+36. The Decemberists
+37. Arcade Fire
+38. Passion Pit
+39. The New Pornographers
+40. Red Hot Chili Peppers
+41. Doves
+42. Ben Folds
+43. Sufjan Stevens
+44. Third Eye Blind
+45. Snow Patrol
+46. M83
+47. Arctic Monkeys
+48. Band of Horses
+49. Explosions in the Sky
+50. Zero 7
+
+These recommendations are based on the user's liking of similar artists and are aimed at providing a diverse range of music that aligns with their preferences.

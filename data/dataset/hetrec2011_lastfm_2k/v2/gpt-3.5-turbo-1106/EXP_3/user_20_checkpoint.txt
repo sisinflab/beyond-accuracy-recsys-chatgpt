@@ -1,0 +1,54 @@
+Based on user 20's preferences, here are the top 50 recommendations for them:
+
+1. Aphex Twin
+2. Boards of Canada
+3. Autechre
+4. 65daysofstatic
+5. Crystal Castles
+6. Психея
+7. Gorillaz
+8. Daft Punk
+9. Proem
+10. Bring Me The Horizon
+11. Fear Factory
+12. The Fall of Troy
+13. Placebo
+14. Prefuse 73
+15. Björk
+16. The Prodigy
+17. Silverchair
+18. Enigma
+19. Ólafur Arnalds
+20. Apparat
+21. Explosions in the Sky
+22. Tycho
+23. Deftones
+24. Arovane
+25. Enter Shikari
+26. Isis
+27. Nine Inch Nails
+28. Flying Lotus
+29. The Flashbulb
+30. Lady Gaga
+31. Nina Simone
+32. Schiller
+33. Plaid
+34. Beck
+35. Amon Tobin
+36. The Cure
+37. Radiohead
+38. Infected Mushroom
+39. The Cinematic Orchestra
+40. múm
+41. Mogwai
+42. Limp Bizkit
+43. Shpongle
+44. Nirvana
+45. Sigur Rós
+46. Portishead
+47. AFX
+48. Marilyn Manson
+49. Groove Armada
+50. Bola
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

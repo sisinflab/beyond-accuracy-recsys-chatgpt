@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. Fahrenheit 451 by Ray Bradbury
+6. Slaughterhouse-Five by Kurt Vonnegut
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Animal Farm by George Orwell
+9. Lord of the Flies by William Golding
+10. One Flew Over the Cuckoo's Nest by Ken Kesey
+11. The Road by Cormac McCarthy
+12. The Grapes of Wrath by John Steinbeck
+13. Catch-22 by Joseph Heller
+14. The Bell Jar by Sylvia Plath
+15. The Stranger by Albert Camus
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Sun Also Rises by Ernest Hemingway
+18. A Farewell to Arms by Ernest Hemingway
+19. For Whom the Bell Tolls by Ernest Hemingway
+20. The Sound and the Fury by William Faulkner
+21. East of Eden by John Steinbeck
+22. Of Mice and Men by John Steinbeck
+23. The Picture of Dorian Gray by Oscar Wilde
+24. The Count of Monte Cristo by Alexandre Dumas
+25. Crime and Punishment by Fyodor Dostoevsky
+26. The Brothers Karamazov by Fyodor Dostoevsky
+27. Anna Karenina by Leo Tolstoy
+28. War and Peace by Leo Tolstoy
+29. The Idiot by Fyodor Dostoevsky
+30. The Master and Margarita by Mikhail Bulgakov
+31. Lolita by Vladimir Nabokov
+32. The Trial by Franz Kafka
+33. The Metamorphosis by Franz Kafka
+34. The Stranger by Harlan Coben
+35. The Book Thief by Markus Zusak
+36. The Kite Runner by Khaled Hosseini
+37. A Thousand Splendid Suns by Khaled Hosseini
+38. The Alchemist by Paulo Coelho
+39. The Shadow of the Wind by Carlos Ruiz Zafón
+40. The Name of the Wind by Patrick Rothfuss
+41. The Lies of Locke Lamora by Scott Lynch
+42. The Name of the Rose by Umberto Eco
+43. The Secret History by Donna Tartt
+44. The Goldfinch by Donna Tartt
+45. The Night Circus by Erin Morgenstern
+46. The Book of Lost Things by John Connolly
+47. The Thirteenth Tale by Diane Setterfield
+48. The Historian by Elizabeth Kostova
+49. The Shadow of the Wind by Carlos Ruiz Zafón
+50. The Night Circus by Erin Morgenstern
+
+These recommendations are based on the user's interest in a mix of classic literature, dystopian fiction, and fantasy novels.

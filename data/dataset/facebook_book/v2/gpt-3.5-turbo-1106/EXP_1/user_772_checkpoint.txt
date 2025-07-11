@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. Interview with the Vampire by Anne Rice
+3. Let the Right One In by John Ajvide Lindqvist
+4. The Historian by Elizabeth Kostova
+5. Sunshine by Robin McKinley
+6. The Passage by Justin Cronin
+7. The Strain by Guillermo del Toro and Chuck Hogan
+8. Dead Until Dark by Charlaine Harris
+9. The Southern Book Club's Guide to Slaying Vampires by Grady Hendrix
+10. The Vampire Lestat by Anne Rice
+11. The Vampire Diaries: The Awakening by L.J. Smith
+12. The Coldest Girl in Coldtown by Holly Black
+13. The Gilda Stories by Jewelle Gomez
+14. The Quick by Lauren Owen
+15. The Radleys by Matt Haig
+16. The Lesser Dead by Christopher Buehlman
+17. The Beautiful by Renée Ahdieh
+18. Certain Dark Things by Silvia Moreno-Garcia
+19. The Immortal Rules by Julie Kagawa
+20. The Strain by Guillermo del Toro and Chuck Hogan
+21. The Historian by Elizabeth Kostova
+22. Sunshine by Robin McKinley
+23. The Passage by Justin Cronin
+24. Dead Until Dark by Charlaine Harris
+25. The Southern Book Club's Guide to Slaying Vampires by Grady Hendrix
+26. The Vampire Lestat by Anne Rice
+27. The Vampire Diaries: The Awakening by L.J. Smith
+28. The Coldest Girl in Coldtown by Holly Black
+29. The Gilda Stories by Jewelle Gomez
+30. The Quick by Lauren Owen
+31. The Radleys by Matt Haig
+32. The Lesser Dead by Christopher Buehlman
+33. The Beautiful by Renée Ahdieh
+34. Certain Dark Things by Silvia Moreno-Garcia
+35. The Immortal Rules by Julie Kagawa
+36. The Strain by Guillermo del Toro and Chuck Hogan
+37. The Historian by Elizabeth Kostova
+38. Sunshine by Robin McKinley
+39. The Passage by Justin Cronin
+40. Dead Until Dark by Charlaine Harris
+41. The Southern Book Club's Guide to Slaying Vampires by Grady Hendrix
+42. The Vampire Lestat by Anne Rice
+43. The Vampire Diaries: The Awakening by L.J. Smith
+44. The Coldest Girl in Coldtown by Holly Black
+45. The Gilda Stories by Jewelle Gomez
+46. The Quick by Lauren Owen
+47. The Radleys by Matt Haig
+48. The Lesser Dead by Christopher Buehlman
+49. The Beautiful by Renée Ahdieh
+50. Certain Dark Things by Silvia Moreno-Garcia
+
+These recommendations are based on the user's interest in vampire-themed books and fantasy novels.

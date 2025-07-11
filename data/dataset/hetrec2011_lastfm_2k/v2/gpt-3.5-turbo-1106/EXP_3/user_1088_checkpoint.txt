@@ -1,0 +1,54 @@
+Based on user 1088's preferences, here are the top-50 recommendations for the given artists:
+
+1. Anberlin
+2. Yellowcard
+3. All Time Low
+4. The Maine
+5. A Rocket to the Moon
+6. Mayday Parade
+7. Forever the Sickest Kids
+8. The Academy Is...
+9. Plain White T's
+10. The Fray
+11. Dashboard Confessional
+12. Copeland
+13. Relient K
+14. We The Kings
+15. Good Charlotte
+16. Blink-182
+17. Fall Out Boy
+18. The Used
+19. Escape The Fate
+20. Boys Like Girls
+21. A Skylit Drive
+22. Bring Me The Horizon
+23. Asking Alexandria
+24. Saosin
+25. Underoath
+26. A Day to Remember
+27. Emarosa
+28. Avenged Sevenfold
+29. Five Finger Death Punch
+30. System of a Down
+31. Linkin Park
+32. Foo Fighters
+33. Nirvana
+34. Green Day
+35. Arctic Monkeys
+36. Kaiser Chiefs
+37. The Kooks
+38. Band of Horses
+39. The Smiths
+40. Snow Patrol
+41. Coldplay
+42. Death Cab for Cutie
+43. Avantasia
+44. L'Arc~en~Ciel
+45. HEVO84
+46. Cine
+47. The Veronicas
+48. Lady Gaga
+49. Kelly Clarkson
+50. Nickelback
+
+These recommendations are based on similar genres and artists liked by user 1088.

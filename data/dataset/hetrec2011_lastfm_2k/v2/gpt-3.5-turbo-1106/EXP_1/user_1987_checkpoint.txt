@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Radiohead
+2. The National
+3. Elbow
+4. The Smiths
+5. R.E.M.
+6. Nick Cave & The Bad Seeds
+7. Arcade Fire
+8. Interpol
+9. Pixies
+10. The War on Drugs
+11. The Flaming Lips
+12. Modest Mouse
+13. The Jesus and Mary Chain
+14. Echo & the Bunnymen
+15. The Black Keys
+16. The Strokes
+17. Spoon
+18. The Killers
+19. The Shins
+20. Vampire Weekend
+21. Tame Impala
+22. LCD Soundsystem
+23. The Decemberists
+24. Belle and Sebastian
+25. Death Cab for Cutie
+26. The Avett Brothers
+27. Wilco
+28. The Hold Steady
+29. Spoon
+30. The Raconteurs
+31. The Black Angels
+32. The Horrors
+33. The Vaccines
+34. The Raveonettes
+35. The Dandy Warhols
+36. The Brian Jonestown Massacre
+37. The Verve
+38. The Stone Roses
+39. Primal Scream
+40. The Charlatans
+41. The Jesus and Mary Chain
+42. The Psychedelic Furs
+43. The Cult
+44. The Mission
+45. The Chameleons
+46. The Sound
+47. The Teardrop Explodes
+48. Echo & the Bunnymen
+49. The House of Love
+50. The Church

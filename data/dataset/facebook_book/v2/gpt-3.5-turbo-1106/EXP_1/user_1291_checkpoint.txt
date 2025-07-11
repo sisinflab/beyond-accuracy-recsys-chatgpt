@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Perks of Being a Wallflower by Stephen Chbosky
+2. To Kill a Mockingbird by Harper Lee
+3. The Fault in Our Stars by John Green
+4. The Great Gatsby by F. Scott Fitzgerald
+5. 1984 by George Orwell
+6. Pride and Prejudice by Jane Austen
+7. The Hunger Games by Suzanne Collins
+8. The Lovely Bones by Alice Sebold
+9. The Kite Runner by Khaled Hosseini
+10. The Book Thief by Markus Zusak
+11. The Alchemist by Paulo Coelho
+12. The Girl with the Dragon Tattoo by Stieg Larsson
+13. Gone Girl by Gillian Flynn
+14. The Help by Kathryn Stockett
+15. The Handmaid's Tale by Margaret Atwood
+16. The Night Circus by Erin Morgenstern
+17. The Goldfinch by Donna Tartt
+18. The Time Traveler's Wife by Audrey Niffenegger
+19. The Giver by Lois Lowry
+20. The Maze Runner by James Dashner
+21. The Girl on the Train by Paula Hawkins
+22. The Da Vinci Code by Dan Brown
+23. The Martian by Andy Weir
+24. The Name of the Wind by Patrick Rothfuss
+25. The Shadow of the Wind by Carlos Ruiz Zafón
+26. The Road by Cormac McCarthy
+27. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+28. The Secret Life of Bees by Sue Monk Kidd
+29. The Glass Castle by Jeannette Walls
+30. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+31. The Color Purple by Alice Walker
+32. The Joy Luck Club by Amy Tan
+33. The Poisonwood Bible by Barbara Kingsolver
+34. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+35. The House on Mango Street by Sandra Cisneros
+36. The Sun Also Rises by Ernest Hemingway
+37. The Picture of Dorian Gray by Oscar Wilde
+38. The Catcher Was a Spy by Nicholas Dawidoff
+39. The Secret History by Donna Tartt
+40. The Nightingale by Kristin Hannah
+41. The Light Between Oceans by M.L. Stedman
+42. The Invention of Wings by Sue Monk Kidd
+43. The Goldfinch by Donna Tartt
+44. The Glass Castle by Jeannette Walls
+45. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+46. The Color Purple by Alice Walker
+47. The Joy Luck Club by Amy Tan
+48. The Poisonwood Bible by Barbara Kingsolver
+49. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+50. The House on Mango Street by Sandra Cisneros
+
+These recommendations are based on the user's interest in literary fiction, young adult fiction, and classic literature.

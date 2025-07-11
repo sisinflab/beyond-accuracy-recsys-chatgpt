@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Fault in Our Stars by John Green
+2. The Perks of Being a Wallflower by Stephen Chbosky
+3. Eleanor & Park by Rainbow Rowell
+4. The Hunger Games by Suzanne Collins
+5. To Kill a Mockingbird by Harper Lee
+6. The Great Gatsby by F. Scott Fitzgerald
+7. The Catcher in the Rye by J.D. Salinger
+8. Pride and Prejudice by Jane Austen
+9. The Book Thief by Markus Zusak
+10. 1984 by George Orwell
+11. The Bell Jar by Sylvia Plath
+12. The Lovely Bones by Alice Sebold
+13. The Giver by Lois Lowry
+14. The Outsiders by S.E. Hinton
+15. A Wrinkle in Time by Madeleine L'Engle
+16. The Secret Life of Bees by Sue Monk Kidd
+17. The Alchemist by Paulo Coelho
+18. The Kite Runner by Khaled Hosseini
+19. The Girl on the Train by Paula Hawkins
+20. Gone Girl by Gillian Flynn
+21. The Night Circus by Erin Morgenstern
+22. The Goldfinch by Donna Tartt
+23. The Help by Kathryn Stockett
+24. The Handmaid's Tale by Margaret Atwood
+25. The Time Traveler's Wife by Audrey Niffenegger
+26. The Glass Castle by Jeannette Walls
+27. The Martian by Andy Weir
+28. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+29. The Road by Cormac McCarthy
+30. The Shadow of the Wind by Carlos Ruiz Zafón
+31. The Nightingale by Kristin Hannah
+32. The Light Between Oceans by M.L. Stedman
+33. The Rosie Project by Graeme Simsion
+34. The Night Circus by Erin Morgenstern
+35. The Goldfinch by Donna Tartt
+36. The Help by Kathryn Stockett
+37. The Handmaid's Tale by Margaret Atwood
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Glass Castle by Jeannette Walls
+40. The Martian by Andy Weir
+41. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+42. The Road by Cormac McCarthy
+43. The Shadow of the Wind by Carlos Ruiz Zafón
+44. The Nightingale by Kristin Hannah
+45. The Light Between Oceans by M.L. Stedman
+46. The Rosie Project by Graeme Simsion
+47. The Night Circus by Erin Morgenstern
+48. The Goldfinch by Donna Tartt
+49. The Help by Kathryn Stockett
+50. The Handmaid's Tale by Margaret Atwood
+
+These recommendations are based on the user's interest in contemporary fiction, young adult literature, and classic works.

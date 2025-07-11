@@ -1,0 +1,54 @@
+Based on user 1723's preferences, here are the top 50 recommendations:
+
+1. Arvo Pärt
+2. Philip Glass
+3. Ólafur Arnalds
+4. Nils Frahm
+5. Ludovico Einaudi
+6. Clint Mansell
+7. Steve Reich
+8. Brian Eno
+9. Olafur Arnalds
+10. Max Richter
+11. Johann Pachelbel
+12. Erik Satie
+13. Ludovico Einaudi
+14. Ólafur Arnalds
+15. Yann Tiersen
+16. Max Richter
+17. Ólafur Arnalds
+18. Ludovico Einaudi
+19. Clint Mansell
+20. Philip Glass
+21. Arvo Pärt
+22. Ólafur Arnalds
+23. Nils Frahm
+24. Ludovico Einaudi
+25. Max Richter
+26. Johann Pachelbel
+27. Erik Satie
+28. Ólafur Arnalds
+29. Max Richter
+30. Yann Tiersen
+31. Ólafur Arnalds
+32. Ludovico Einaudi
+33. Clint Mansell
+34. Philip Glass
+35. Arvo Pärt
+36. Ólafur Arnalds
+37. Nils Frahm
+38. Ludovico Einaudi
+39. Max Richter
+40. Johann Pachelbel
+41. Erik Satie
+42. Ólafur Arnalds
+43. Max Richter
+44. Yann Tiersen
+45. Ólafur Arnalds
+46. Ludovico Einaudi
+47. Clint Mansell
+48. Philip Glass
+49. Arvo Pärt
+50. Ólafur Arnalds
+
+These recommendations are based on the user's liking of classical and ambient music, as well as electronic and post-rock genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Atonement by Ian McEwan
+2. The Secret History by Donna Tartt
+3. The Picture of Dorian Gray by Oscar Wilde
+4. The Road by Cormac McCarthy
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. 1984 by George Orwell
+8. The Bell Jar by Sylvia Plath
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. The Handmaid's Tale by Margaret Atwood
+11. The Kite Runner by Khaled Hosseini
+12. The Book Thief by Markus Zusak
+13. The Alchemist by Paulo Coelho
+14. The Shadow of the Wind by Carlos Ruiz Zafón
+15. The Night Circus by Erin Morgenstern
+16. The Goldfinch by Donna Tartt
+17. The Catcher in the Rye by J.D. Salinger
+18. Wuthering Heights by Emily Brontë
+19. Fingersmith by Sarah Waters
+20. Harry Potter and the Sorcerer's Stone by J.K. Rowling
+21. The Plague by Albert Camus
+22. Affinity by Sarah Waters
+23. Junky by William S. Burroughs
+24. The Good Earth by Pearl S. Buck
+25. 1945 by Robert Conroy
+26. The Selfish Gene by Richard Dawkins
+27. The Myth of Sisyphus by Albert Camus
+28. Pale Fire by Vladimir Nabokov
+29. The Hobbit by J.R.R. Tolkien
+30. The Fellowship of the Ring by J.R.R. Tolkien
+31. The Two Towers by J.R.R. Tolkien
+32. The Return of the King by J.R.R. Tolkien
+33. The Silmarillion by J.R.R. Tolkien
+34. The Children of Húrin by J.R.R. Tolkien
+35. The Hobbit by J.R.R. Tolkien
+36. The Fellowship of the Ring by J.R.R. Tolkien
+37. The Two Towers by J.R.R. Tolkien
+38. The Return of the King by J.R.R. Tolkien
+39. The Silmarillion by J.R.R. Tolkien
+40. The Children of Húrin by J.R.R. Tolkien
+41. The Hobbit by J.R.R. Tolkien
+42. The Fellowship of the Ring by J.R.R. Tolkien
+43. The Two Towers by J.R.R. Tolkien
+44. The Return of the King by J.R.R. Tolkien
+45. The Silmarillion by J.R.R. Tolkien
+46. The Children of Húrin by J.R.R. Tolkien
+47. The Hobbit by J.R.R. Tolkien
+48. The Fellowship of the Ring by J.R.R. Tolkien
+49. The Two Towers by J.R.R. Tolkien
+50. The Return of the King by J.R.R. Tolkien
+
+These recommendations are based on the user's liking for similar genres and authors.

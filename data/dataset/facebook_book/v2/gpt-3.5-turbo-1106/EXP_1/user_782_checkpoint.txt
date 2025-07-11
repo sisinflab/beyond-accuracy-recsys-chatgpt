@@ -1,0 +1,52 @@
+Based on user 782's preferences, here are the top 50 book recommendations:
+
+1. Neuromancer by William Gibson
+2. Snow Crash by Neal Stephenson
+3. The Martian by Andy Weir
+4. The Name of the Wind by Patrick Rothfuss
+5. Ender's Game by Orson Scott Card
+6. The Handmaid's Tale by Margaret Atwood
+7. 1984 by George Orwell
+8. Fahrenheit 451 by Ray Bradbury
+9. The Road by Cormac McCarthy
+10. The Hunger Games by Suzanne Collins
+11. The Catcher in the Rye by J.D. Salinger
+12. Slaughterhouse-Five by Kurt Vonnegut
+13. The Alchemist by Paulo Coelho
+14. The Giver by Lois Lowry
+15. The Stand by Stephen King
+16. The Shining by Stephen King
+17. The Girl with the Dragon Tattoo by Stieg Larsson
+18. The Da Vinci Code by Dan Brown
+19. The Goldfinch by Donna Tartt
+20. The Secret History by Donna Tartt
+21. The Night Circus by Erin Morgenstern
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Book Thief by Markus Zusak
+24. The Kite Runner by Khaled Hosseini
+25. A Thousand Splendid Suns by Khaled Hosseini
+26. The Help by Kathryn Stockett
+27. The Lovely Bones by Alice Sebold
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Fault in Our Stars by John Green
+30. Gone Girl by Gillian Flynn
+31. The Girl on the Train by Paula Hawkins
+32. Big Little Lies by Liane Moriarty
+33. The Silent Patient by Alex Michaelides
+34. Where the Crawdads Sing by Delia Owens
+35. Educated by Tara Westover
+36. Little Fires Everywhere by Celeste Ng
+37. The Nightingale by Kristin Hannah
+38. All the Light We Cannot See by Anthony Doerr
+39. The Tattooist of Auschwitz by Heather Morris
+40. The Alice Network by Kate Quinn
+41. The Great Alone by Kristin Hannah
+42. The Light Between Oceans by M.L. Stedman
+43. The Glass Castle by Jeannette Walls
+44. The Immortalists by Chloe Benjamin
+45. The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid
+46. The Nightingale by Kristin Hannah
+47. The Book Thief by Markus Zusak
+48. The Night Circus by Erin Morgenstern
+49. The Shadow of the Wind by Carlos Ruiz Zafón
+50. The Goldfinch by Donna Tartt

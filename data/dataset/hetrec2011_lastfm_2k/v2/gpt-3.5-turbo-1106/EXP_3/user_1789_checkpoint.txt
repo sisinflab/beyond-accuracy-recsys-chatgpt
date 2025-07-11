@@ -1,0 +1,54 @@
+Based on user 1789's preferences, here are the top 50 recommendations for them:
+
+1. Radiohead
+2. Phoenix
+3. Coldplay
+4. MGMT
+5. Death Cab for Cutie
+6. The Shins
+7. Fleet Foxes
+8. Keane
+9. The Radio Dept.
+10. Beach House
+11. The Drums
+12. Camera Obscura
+13. Kings of Convenience
+14. The Pains of Being Pure at Heart
+15. Cut Copy
+16. Broken Social Scene
+17. Metronomy
+18. Suede
+19. Yeah Yeah Yeahs
+20. Sonic Youth
+21. Jónsi
+22. Bat for Lashes
+23. Imogen Heap
+24. Air
+25. Xiu Xiu
+26. Björk
+27. Sigur Rós
+28. Interpol
+29. Slowdive
+30. Deerhunter
+31. Florence + the Machine
+32. Ólafur Arnalds
+33. Feist
+34. múm
+35. Dead Can Dance
+36. Queen
+37. Joy Division
+38. Blur
+39. Babyshambles
+40. Arctic Monkeys
+41. The Beach Boys
+42. James Morrison
+43. Yann Tiersen
+44. Klaxons
+45. Brian Eno
+46. Tom Waits
+47. Jet
+48. La Roux
+49. Alphabeat
+50. Brown Eyed Girls
+
+These recommendations are based on the similarity of the recommended artists to the ones that user 1789 already likes.

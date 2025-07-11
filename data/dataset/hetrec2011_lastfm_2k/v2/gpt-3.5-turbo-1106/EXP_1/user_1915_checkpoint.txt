@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Knife
+2. Robyn
+3. M83
+4. CHVRCHES
+5. Cut Copy
+6. Grimes
+7. Purity Ring
+8. Little Boots
+9. Passion Pit
+10. Empire of the Sun
+11. Tegan and Sara
+12. The Presets
+13. Röyksopp
+14. Santigold
+15. Yelle
+16. Dragonette
+17. Ladytron
+18. Annie
+19. The Ting Tings
+20. Metric
+21. La Femme
+22. Hot Hot Heat
+23. Shiny Toy Guns
+24. The Sounds
+25. Electric Youth
+26. Goldroom
+27. Classixx
+28. Miami Horror
+29. Neon Indian
+30. Washed Out
+31. Toro y Moi
+32. Cut Chemist
+33. The Faint
+34. Junior Boys
+35. Hercules and Love Affair
+36. Holy Ghost!
+37. LCD Soundsystem
+38. Friendly Fires
+39. Hot Natured
+40. Aeroplane
+41. Digitalism
+42. Simian Mobile Disco
+43. Soulwax
+44. The Juan MacLean
+45. Vitalic
+46. Justice
+47. Daft Punk
+48. The Chemical Brothers
+49. Basement Jaxx
+50. Groove Coverage
+
+These recommendations are based on the user's liking of similar artists and genres.

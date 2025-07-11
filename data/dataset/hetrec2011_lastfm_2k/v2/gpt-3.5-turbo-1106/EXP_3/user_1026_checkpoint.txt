@@ -1,0 +1,54 @@
+Based on user 1026's preferences, here are the top 50 recommendations for the given artists:
+
+1. The Beatles
+2. Michael Jackson
+3. Queen
+4. Metallica
+5. Guns N' Roses
+6. Rammstein
+7. System of a Down
+8. Korn
+9. Disturbed
+10. Evanescence
+11. Florence + the Machine
+12. David Guetta
+13. 30 Seconds to Mars
+14. Shakira
+15. Kings of Leon
+16. P!nk
+17. Rihanna
+18. Avril Lavigne
+19. Paramore
+20. Lady Gaga
+21. Madonna
+22. Amy Winehouse
+23. Christina Aguilera
+24. Gwen Stefani
+25. Adam Lambert
+26. September
+27. The Clash
+28. The Pussycat Dolls
+29. Ke$ha
+30. Nelly Furtado
+31. ABBA
+32. Elvis Presley
+33. Jennifer Lopez
+34. Michael Bublé
+35. Alanis Morissette
+36. Céline Dion
+37. Hurts
+38. Beyoncé
+39. Katy Perry
+40. Kylie Minogue
+41. Britney Spears
+42. Rihanna
+43. Avril Lavigne
+44. Ellie Goulding
+45. Paramore
+46. Björk
+47. Cyndi Lauper
+48. Ashlee Simpson
+49. Lindsay Lohan
+50. Bat for Lashes
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of artists that align with their tastes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. Oasis
+3. Radiohead
+4. Nirvana
+5. Red Hot Chili Peppers
+6. Muse
+7. The Kooks
+8. The Libertines
+9. Kasabian
+10. The Smiths
+11. The Vaccines
+12. The Hives
+13. The Vines
+14. The Raconteurs
+15. The Smashing Pumpkins
+16. Pearl Jam
+17. Soundgarden
+18. Alice in Chains
+19. Stone Temple Pilots
+20. Weezer
+21. The Offspring
+22. Blink-182
+23. Sum 41
+24. Good Charlotte
+25. Simple Plan
+26. All Time Low
+27. Paramore
+28. My Chemical Romance
+29. Fall Out Boy
+30. Panic! At The Disco
+31. Twenty One Pilots
+32. Arctic Monkeys (if not already in the user's library)
+33. The Last Shadow Puppets (if not already in the user's library)
+34. The Beatles (if not already in the user's library)
+35. AC/DC (if not already in the user's library)
+36. Megadeth (if not already in the user's library)
+37. Green Day (if not already in the user's library)
+38. Iron Maiden (if not already in the user's library)
+39. The Killers (if not already in the user's library)
+40. The White Stripes (if not already in the user's library)
+41. Franz Ferdinand (if not already in the user's library)
+42. MGMT (if not already in the user's library)
+43. The Black Keys (if not already in the user's library)
+44. The Fratellis (if not already in the user's library)
+45. Katy Perry (if not already in the user's library)
+46. Avenged Sevenfold (if not already in the user's library)
+47. Marilyn Manson (if not already in the user's library)
+48. The Pretty Reckless (if not already in the user's library)
+49. Joan Jett and the Blackhearts (if not already in the user's library)
+50. Ramones (if not already in the user's library)
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands that the user may enjoy.

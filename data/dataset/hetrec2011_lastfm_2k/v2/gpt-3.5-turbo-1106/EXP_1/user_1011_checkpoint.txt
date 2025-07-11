@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Fall Out Boy
+2. All Time Low
+3. Panic! At the Disco
+4. Twenty One Pilots
+5. Sleeping with Sirens
+6. Bring Me the Horizon
+7. Mayday Parade
+8. The All-American Rejects
+9. Simple Plan
+10. Good Charlotte
+11. The Academy Is...
+12. Dashboard Confessional
+13. Taking Back Sunday
+14. The Red Jumpsuit Apparatus
+15. Yellowcard
+16. We the Kings
+17. The Maine
+18. Boys Like Girls
+19. A Day to Remember
+20. Paramore
+21. My Chemical Romance
+22. Evanescence
+23. Green Day
+24. The Used
+25. Slipknot
+26. Flyleaf
+27. Cobra Starship
+28. Hollywood Undead
+29. Jeffree Star
+30. BrokeNCYDE
+31. Owl City
+32. 3OH!3
+33. Alesana
+34. Breathe Carolina
+35. Marilyn Manson
+36. Within Temptation
+37. Metro Station
+38. Hellogoodbye
+39. Porcelain and the Tramps
+40. Ke$ha
+41. Hawthorne Heights
+42. A Fine Frenzy
+43. Pierce the Veil
+44. Lily Allen
+45. Linkin Park
+46. The Pretty Reckless
+47. The Hush Sound
+48. Eyes Set to Kill
+49. Black Veil Brides
+50. nevershoutnever!
+
+These recommendations are based on the user's liking of similar artists and genres.

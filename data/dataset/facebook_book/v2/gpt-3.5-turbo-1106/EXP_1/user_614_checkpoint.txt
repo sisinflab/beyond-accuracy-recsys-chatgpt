@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. Stardust by Neil Gaiman
+3. Good Omens by Neil Gaiman and Terry Pratchett
+4. The Ocean at the End of the Lane by Neil Gaiman
+5. Coraline by Neil Gaiman
+6. Anansi Boys by Neil Gaiman
+7. The Graveyard Book by Neil Gaiman
+8. The Sandman (comic series) by Neil Gaiman
+9. Clockwork Angel by Cassandra Clare
+10. City of Bones by Cassandra Clare
+11. City of Glass by Cassandra Clare
+12. City of Fallen Angels by Cassandra Clare
+13. City of Lost Souls by Cassandra Clare
+14. City of Heavenly Fire by Cassandra Clare
+15. Clockwork Prince by Cassandra Clare
+16. Clockwork Princess by Cassandra Clare
+17. Interview with the Vampire by Anne Rice
+18. The Vampire Lestat by Anne Rice
+19. The Queen of the Damned by Anne Rice
+20. The Tale of the Body Thief by Anne Rice
+21. Memnoch the Devil by Anne Rice
+22. The Vampire Armand by Anne Rice
+23. Pandora by Anne Rice
+24. Vittorio the Vampire by Anne Rice
+25. Dracula by Bram Stoker
+26. The Picture of Dorian Gray by Oscar Wilde
+27. Lolita by Vladimir Nabokov
+28. Pale Fire by Vladimir Nabokov
+29. Ada or Ardor: A Family Chronicle by Vladimir Nabokov
+30. The Shining by Stephen King
+31. It by Stephen King
+32. Carrie by Stephen King
+33. Misery by Stephen King
+34. Pet Sematary by Stephen King
+35. The Stand by Stephen King
+36. 11/22/63 by Stephen King
+37. Doctor Sleep by Stephen King
+38. The Catcher in the Rye by J.D. Salinger
+39. Tender Is the Night by F. Scott Fitzgerald
+40. This Side of Paradise by F. Scott Fitzgerald
+41. The Beautiful and Damned by F. Scott Fitzgerald
+42. The Sun Also Rises by Ernest Hemingway
+43. A Farewell to Arms by Ernest Hemingway
+44. For Whom the Bell Tolls by Ernest Hemingway
+45. The Old Man and the Sea by Ernest Hemingway
+46. The Sorrows of Young Werther by Johann Wolfgang von Goethe
+47. The Metamorphosis by Franz Kafka
+48. One Hundred Years of Solitude by Gabriel Garcia Marquez
+49. Love in the Time of Cholera by Gabriel Garcia Marquez
+50. Chronicle of a Death Foretold by Gabriel Garcia Marquez
+
+These recommendations are based on the user's interest in fantasy, horror, classic literature, and vampire-themed books.

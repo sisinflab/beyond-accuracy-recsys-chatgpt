@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Echo & the Bunnymen
+2. The Smiths
+3. The Psychedelic Furs
+4. The Sisters of Mercy
+5. The Church
+6. The Jesus and Mary Chain
+7. R.E.M.
+8. The Cult
+9. The Chameleons
+10. Joy Division
+11. New Order
+12. The Mission
+13. The Sound
+14. The Teardrop Explodes
+15. The Birthday Party
+16. The Bolshoi
+17. The Comsat Angels
+18. The Danse Society
+19. The March Violets
+20. The Rose of Avalanche
+21. The Southern Death Cult
+22. The Wake
+23. The Wolfgang Press
+24. The Glove
+25. The Creatures
+26. The Sugarcubes
+27. The Jesus and Mary Chain
+28. The House of Love
+29. The Railway Children
+30. The Mighty Lemon Drops
+31. The Primitives
+32. The Darling Buds
+33. The Wedding Present
+34. The Field Mice
+35. The Pastels
+36. The Housemartins
+37. The Beautiful South
+38. The Go-Betweens
+39. The Triffids
+40. The Bats
+41. The Clean
+42. The Verlaines
+43. The Chills
+44. The Jean-Paul Sartre Experience
+45. The Verlaines
+46. The Clean
+47. The Bats
+48. The Chills
+49. The Jean-Paul Sartre Experience
+50. The Verlaines
+
+These recommendations are based on the user's liking of similar artists and genres.

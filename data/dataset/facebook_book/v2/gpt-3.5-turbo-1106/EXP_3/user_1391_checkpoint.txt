@@ -1,0 +1,54 @@
+Based on user 1391's preferences, here are the top 50 book recommendations for them:
+
+1. Nineteen Eighty-Four by George Orwell
+2. Brave New World by Aldous Huxley
+3. One Hundred Years of Solitude by Gabriel García Márquez
+4. In Cold Blood by Truman Capote
+5. The Age of Innocence by Edith Wharton
+6. Great Expectations by Charles Dickens
+7. All Quiet on the Western Front by Erich Maria Remarque
+8. The Giver by Lois Lowry
+9. My Sister's Keeper (novel) by Jodi Picoult
+10. The Last Lecture by Jeffrey Zaslow
+11. Lord of the Flies
+12. The Old Man and the Sea
+13. The Lovely Bones
+14. Ender's Game
+15. The Great Gatsby
+16. The Catcher in the Rye
+17. A Clockwork Orange
+18. The Hobbit
+19. The Fountainhead
+20. The Bell Jar
+21. Fahrenheit 451
+22. The Stranger (novel)
+23. Frankenstein
+24. A Farewell to Arms
+25. The Outsiders (novel)
+26. Lolita
+27. The Phantom Tollbooth
+28. The Old Farmer's Almanac
+29. Winnie-the-Pooh (book)
+30. Anne of Green Gables
+31. Harry Potter
+32. Songs of Innocence and of Experience
+33. On the Road
+34. Nancy Drew
+35. Isaac Asimov's Robot City
+36. Journey to the West
+37. Neuromancer
+38. Gospel of Matthew
+39. Garfield
+40. A Clockwork Orange
+41. Impulse economy
+42. Freakonomics
+43. The Mark (novel)
+44. Diary (novel)
+45. The Stainless Steel Rat
+46. Manga
+47. Sun Bin's Art of War
+48. Don Quixote
+49. Bible
+50. Cosmos (book)
+
+These recommendations are based on the user's previous likes and are ranked according to their potential interest.

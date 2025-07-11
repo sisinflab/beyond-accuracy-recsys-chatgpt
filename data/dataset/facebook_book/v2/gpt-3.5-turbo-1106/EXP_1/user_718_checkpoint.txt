@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Brontë
+2. Crime and Punishment by Fyodor Dostoevsky
+3. The Picture of Dorian Gray by Oscar Wilde
+4. Dracula by Bram Stoker
+5. Jane Eyre by Charlotte Brontë
+6. The Catcher in the Rye by J.D. Salinger
+7. 1984 by George Orwell
+8. To Kill a Mockingbird by Harper Lee
+9. The Great Gatsby by F. Scott Fitzgerald
+10. Pride and Prejudice by Jane Austen
+11. The Adventures of Huckleberry Finn by Mark Twain
+12. The Grapes of Wrath by John Steinbeck
+13. Moby-Dick by Herman Melville
+14. The Count of Monte Cristo by Alexandre Dumas
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. Anna Karenina by Leo Tolstoy
+17. One Hundred Years of Solitude by Gabriel García Márquez
+18. The Bell Jar by Sylvia Plath
+19. The Handmaid's Tale by Margaret Atwood
+20. The Road by Cormac McCarthy
+21. The Kite Runner by Khaled Hosseini
+22. The Alchemist by Paulo Coelho
+23. The Book Thief by Markus Zusak
+24. The Secret History by Donna Tartt
+25. The Night Circus by Erin Morgenstern
+26. The Shadow of the Wind by Carlos Ruiz Zafón
+27. The Name of the Wind by Patrick Rothfuss
+28. The Girl with the Dragon Tattoo by Stieg Larsson
+29. The Time Traveler's Wife by Audrey Niffenegger
+30. The Thirteenth Tale by Diane Setterfield
+31. The Historian by Elizabeth Kostova
+32. The Secret Garden by Frances Hodgson Burnett
+33. The Little Prince by Antoine de Saint-Exupéry
+34. The Giver by Lois Lowry
+35. The Maze Runner by James Dashner
+36. The Hunger Games by Suzanne Collins
+37. Divergent by Veronica Roth
+38. The Fault in Our Stars by John Green
+39. The Perks of Being a Wallflower by Stephen Chbosky
+40. The Lovely Bones by Alice Sebold
+41. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+42. Life of Pi by Yann Martel
+43. The Martian by Andy Weir
+44. Ready Player One by Ernest Cline
+45. Ender's Game by Orson Scott Card
+46. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+47. Fahrenheit 451 by Ray Bradbury
+48. Slaughterhouse-Five by Kurt Vonnegut
+49. The Handmaid's Tale by Margaret Atwood
+50. The Road by Cormac McCarthy
+
+These recommendations are based on the user's interest in classic literature, gothic fiction, and mystery novels.

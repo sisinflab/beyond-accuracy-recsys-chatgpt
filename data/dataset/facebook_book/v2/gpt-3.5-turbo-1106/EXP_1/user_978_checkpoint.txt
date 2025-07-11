@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Brave New World by Aldous Huxley
+3. The Catcher in the Rye by J.D. Salinger
+4. Slaughterhouse-Five by Kurt Vonnegut
+5. The Great Gatsby by F. Scott Fitzgerald
+6. To Kill a Mockingbird by Harper Lee
+7. One Flew Over the Cuckoo's Nest by Ken Kesey
+8. The Road by Cormac McCarthy
+9. The Stranger by Albert Camus
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Handmaid's Tale by Margaret Atwood
+12. Fahrenheit 451 by Ray Bradbury
+13. Lord of the Flies by William Golding
+14. The Sun Also Rises by Ernest Hemingway
+15. The Grapes of Wrath by John Steinbeck
+16. The Old Man and the Sea by Ernest Hemingway
+17. Animal Farm by George Orwell
+18. The Fountainhead by Ayn Rand
+19. The Stand by Stephen King
+20. The Shining by Stephen King
+21. The Road by Cormac McCarthy
+22. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+23. The Martian by Andy Weir
+24. Dune by Frank Herbert
+25. Neuromancer by William Gibson
+26. Snow Crash by Neal Stephenson
+27. Do Androids Dream of Electric Sheep? by Philip K. Dick
+28. The Left Hand of Darkness by Ursula K. Le Guin
+29. The Dispossessed by Ursula K. Le Guin
+30. The Handmaid's Tale by Margaret Atwood
+31. The Power by Naomi Alderman
+32. The Hunger Games by Suzanne Collins
+33. The Maze Runner by James Dashner
+34. Ready Player One by Ernest Cline
+35. Ender's Game by Orson Scott Card
+36. The Name of the Wind by Patrick Rothfuss
+37. Mistborn: The Final Empire by Brandon Sanderson
+38. The Lies of Locke Lamora by Scott Lynch
+39. The Blade Itself by Joe Abercrombie
+40. The Way of Kings by Brandon Sanderson
+41. The Night Circus by Erin Morgenstern
+42. The Book Thief by Markus Zusak
+43. All the Light We Cannot See by Anthony Doerr
+44. The Goldfinch by Donna Tartt
+45. The Secret History by Donna Tartt
+46. The Girl with the Dragon Tattoo by Stieg Larsson
+47. Gone Girl by Gillian Flynn
+48. Sharp Objects by Gillian Flynn
+49. Dark Places by Gillian Flynn
+50. The Girl on the Train by Paula Hawkins
+
+These recommendations are based on the user's interest in books with themes of political intrigue, dystopian societies, psychological thrillers, and philosophical exploration.

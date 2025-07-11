@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Alchemist by Paulo Coelho
+2. The Catcher in the Rye by J.D. Salinger
+3. To Kill a Mockingbird by Harper Lee
+4. 1984 by George Orwell
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Little Prince by Antoine de Saint-Exupéry
+7. The Chronicles of Narnia by C.S. Lewis
+8. The Secret Garden by Frances Hodgson Burnett
+9. The Wind in the Willows by Kenneth Grahame
+10. The Hobbit by J.R.R. Tolkien
+11. The Lord of the Rings by J.R.R. Tolkien
+12. The Giver by Lois Lowry
+13. The Hunger Games by Suzanne Collins
+14. The Maze Runner by James Dashner
+15. The Book Thief by Markus Zusak
+16. The Fault in Our Stars by John Green
+17. The Perks of Being a Wallflower by Stephen Chbosky
+18. The Outsiders by S.E. Hinton
+19. The Girl with the Dragon Tattoo by Stieg Larsson
+20. The Da Vinci Code by Dan Brown
+21. The Girl on the Train by Paula Hawkins
+22. The Night Circus by Erin Morgenstern
+23. The Goldfinch by Donna Tartt
+24. The Help by Kathryn Stockett
+25. The Kite Runner by Khaled Hosseini
+26. The Secret Life of Bees by Sue Monk Kidd
+27. The Color Purple by Alice Walker
+28. The Joy Luck Club by Amy Tan
+29. The Glass Castle by Jeannette Walls
+30. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+31. The Handmaid's Tale by Margaret Atwood
+32. The Road by Cormac McCarthy
+33. The Poisonwood Bible by Barbara Kingsolver
+34. The Lovely Bones by Alice Sebold
+35. The Time Traveler's Wife by Audrey Niffenegger
+36. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+37. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+38. The Namesake by Jhumpa Lahiri
+39. The House on Mango Street by Sandra Cisneros
+40. The Sun Also Rises by Ernest Hemingway
+41. The Old Man and the Sea by Ernest Hemingway
+42. The Grapes of Wrath by John Steinbeck
+43. The Sound and the Fury by William Faulkner
+44. The Catch-22 by Joseph Heller
+45. The Bell Jar by Sylvia Plath
+46. The Picture of Dorian Gray by Oscar Wilde
+47. The Count of Monte Cristo by Alexandre Dumas
+48. The Three Musketeers by Alexandre Dumas
+49. The Scarlet Letter by Nathaniel Hawthorne
+50. The Adventures of Tom Sawyer by Mark Twain
+
+These recommendations are based on the user's interest in a variety of genres and authors.

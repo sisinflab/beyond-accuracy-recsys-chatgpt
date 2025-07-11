@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 991:
+
+1. Red Hot Chili Peppers
+2. The Killers
+3. The Strokes
+4. Arctic Monkeys
+5. Kings of Leon
+6. Interpol
+7. The White Stripes
+8. The Shins
+9. The Stone Roses
+10. Kasabian
+11. Spoon
+12. The Kooks
+13. Manic Street Preachers
+14. Beck
+15. The Cure
+16. Depeche Mode
+17. Modest Mouse
+18. The Chemical Brothers
+19. Daft Punk
+20. MGMT
+21. Arcade Fire
+22. Placebo
+23. The Beatles
+24. Pink Floyd
+25. Nine Inch Nails
+26. Sigur Rós
+27. Death Cab for Cutie
+28. The Last Shadow Puppets
+29. Elliott Smith
+30. Kaiser Chiefs
+31. Blur
+32. The Shins
+33. The Stone Roses
+34. Tegan and Sara
+35. Björk
+36. Michael Jackson
+37. Augustana
+38. Colbie Caillat
+39. Kings of Convenience
+40. Paolo Nutini
+41. Snow Patrol
+42. The Kooks
+43. The Shins
+44. The Stone Roses
+45. Tegan and Sara
+46. Björk
+47. Michael Jackson
+48. Augustana
+49. Colbie Caillat
+50. Kings of Convenience
+
+These recommendations are based on the user's existing preferences and are designed to introduce new artists that align with their tastes.

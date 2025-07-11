@@ -1,0 +1,52 @@
+Based on user 1016's preferences, here are the top 50 book recommendations:
+
+1. Harry Potter by J.K. Rowling
+2. Twilight (series) by Stephenie Meyer
+3. Shadow Kiss by Richelle Mead
+4. Evermore (book) by Stephen Mark Rainey, James Robert Smith
+5. Incarceron by Catherine Fisher
+6. I Am Number Four by Pittacus Lore
+7. City of Glass (Mortal Instruments) by Cassandra Clare
+8. Mockingjay by Suzanne Collins
+9. City of Ashes by Cassandra Clare
+10. The Girl with the Dragon Tattoo by Stieg Larsson
+11. Vampire Academy (novel) by Richelle Mead
+12. The Lovely Bones by Alice Sebold
+13. City of Bones (Mortal Instruments) by Cassandra Clare
+14. Catching Fire by Suzanne Collins
+15. The Hobbit by J.R.R. Tolkien
+16. The Lord of the Rings by J.R.R. Tolkien
+17. Pride and Prejudice by Jane Austen
+18. The Catcher in the Rye by J.D. Salinger
+19. Bram Stoker's Dracula by Bram Stoker
+20. Gone with the Wind by Margaret Mitchell
+21. The Secret (book) by Rhonda Byrne
+22. Fablehaven by Brandon Mull
+23. The Girl Who Played with Fire by Stieg Larsson
+24. The Reckoning (Armstrong novel) by Kelley Armstrong
+25. Blue Bloods (novel series) by Melissa de la Cruz
+26. Blue Moon (Noel novel) by Alyson Noël
+27. Inferno (Dante) by Dante Alighieri
+28. The Coldest Winter Ever by Sister Souljah
+29. Dark-Hunter (series) by Sherrilyn Kenyon
+30. Hunger (Hamsun novel) by Knut Hamsun
+31. Vampire Kisses by Ellen Schreiber
+32. Wolf Brother by Michelle Paver
+33. The Summoning (novel) by Kelley Armstrong
+34. Cecilia (McClure novel) by Fanny Burney
+35. Miss Christina by Mircea Eliade
+36. Cirque du Freak by Darren Shan
+37. It Happened to Nancy: By an Anonymous Teenager by Beatrice Sparks
+38. Annie's Baby by Beatrice Sparks
+39. Black Dagger Brotherhood by J.R. Ward
+40. Black Beauty by Anna Sewell
+41. Speak (novel) by Laurie Halse Anderson
+42. Chinese Cinderella by Adeline Yen Mah
+43. Go Ask Alice by Beatrice Sparks
+44. Ceres, Celestial Legend by Yuu Watase
+45. The Forest of Hands and Teeth by Carrie Ryan
+46. Charmed (comics) by Paul Ruditis
+47. Book of Daniel by E.L. Doctorow
+48. Guardians of Ga'Hoole: The Capture by Kathryn Lasky
+49. Definitely Dead by Charlaine Harris
+50. The Last Storytellers: Tales from the Heart of Morocco by Richard Hamilton

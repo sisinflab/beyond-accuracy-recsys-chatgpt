@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Fight Club by Chuck Palahniuk
+2. Slaughterhouse-Five by Kurt Vonnegut
+3. Brave New World by Aldous Huxley
+4. The Catcher in the Rye by J.D. Salinger
+5. American Psycho by Bret Easton Ellis
+6. One Flew Over the Cuckoo's Nest by Ken Kesey
+7. The Bell Jar by Sylvia Plath
+8. A Clockwork Orange by Anthony Burgess
+9. The Road by Cormac McCarthy
+10. The Stranger by Albert Camus
+11. The Handmaid's Tale by Margaret Atwood
+12. Less Than Zero by Bret Easton Ellis
+13. The Virgin Suicides by Jeffrey Eugenides
+14. The Sun Also Rises by Ernest Hemingway
+15. The Great Gatsby by F. Scott Fitzgerald
+16. The Road by Cormac McCarthy
+17. The Grapes of Wrath by John Steinbeck
+18. The Old Man and the Sea by Ernest Hemingway
+19. To Kill a Mockingbird by Harper Lee
+20. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+21. The Shining by Stephen King
+22. The Stand by Stephen King
+23. The Dark Tower series by Stephen King
+24. The Martian by Andy Weir
+25. Dune by Frank Herbert
+26. Neuromancer by William Gibson
+27. Snow Crash by Neal Stephenson
+28. The Left Hand of Darkness by Ursula K. Le Guin
+29. The Dispossessed by Ursula K. Le Guin
+30. The Hand of Thrawn series by Timothy Zahn
+31. The Foundation series by Isaac Asimov
+32. The Moon is a Harsh Mistress by Robert A. Heinlein
+33. The Forever War by Joe Haldeman
+34. The Expanse series by James S.A. Corey
+35. The Culture series by Iain M. Banks
+36. The Hyperion Cantos by Dan Simmons
+37. The Book of the New Sun by Gene Wolfe
+38. The Malazan Book of the Fallen series by Steven Erikson
+39. The Black Company series by Glen Cook
+40. The Lies of Locke Lamora by Scott Lynch
+41. The Name of the Wind by Patrick Rothfuss
+42. The Way of Kings by Brandon Sanderson
+43. The Blade Itself by Joe Abercrombie
+44. The Broken Empire series by Mark Lawrence
+45. The First Law series by Joe Abercrombie
+46. The Powder Mage trilogy by Brian McClellan
+47. The Lightbringer series by Brent Weeks
+48. The Stormlight Archive series by Brandon Sanderson
+49. The Kingkiller Chronicle series by Patrick Rothfuss
+50. The Gentleman Bastard series by Scott Lynch
+
+These recommendations are based on the user's interest in contemporary fiction, dystopian literature, and dark, thought-provoking themes.

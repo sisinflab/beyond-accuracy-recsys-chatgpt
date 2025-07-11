@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Brave New World by Aldous Huxley
+4. Fahrenheit 451 by Ray Bradbury
+5. Animal Farm by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. Lord of the Flies by William Golding
+8. The Bell Jar by Sylvia Plath
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. The Road by Cormac McCarthy
+12. The Giver by Lois Lowry
+13. The Hunger Games by Suzanne Collins
+14. Divergent by Veronica Roth
+15. The Maze Runner by James Dashner
+16. The Book Thief by Markus Zusak
+17. The Fault in Our Stars by John Green
+18. Eleanor & Park by Rainbow Rowell
+19. The Perks of Being a Wallflower by Stephen Chbosky
+20. The Handmaid's Tale by Margaret Atwood
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Great Gatsby by F. Scott Fitzgerald
+23. The Picture of Dorian Gray by Oscar Wilde
+24. Wuthering Heights by Emily Bronte
+25. Jane Eyre by Charlotte Bronte
+26. Pride and Prejudice by Jane Austen
+27. Sense and Sensibility by Jane Austen
+28. Emma by Jane Austen
+29. Persuasion by Jane Austen
+30. Northanger Abbey by Jane Austen
+31. Mansfield Park by Jane Austen
+32. The Count of Monte Cristo by Alexandre Dumas
+33. Les Miserables by Victor Hugo
+34. Crime and Punishment by Fyodor Dostoevsky
+35. War and Peace by Leo Tolstoy
+36. Anna Karenina by Leo Tolstoy
+37. The Brothers Karamazov by Fyodor Dostoevsky
+38. The Idiot by Fyodor Dostoevsky
+39. Don Quixote by Miguel de Cervantes
+40. The Picture of Dorian Gray by Oscar Wilde
+41. Dracula by Bram Stoker
+42. Frankenstein by Mary Shelley
+43. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+44. The Tell-Tale Heart by Edgar Allan Poe
+45. The Raven by Edgar Allan Poe
+46. The Adventures of Sherlock Holmes by Arthur Conan Doyle
+47. The Hound of the Baskervilles by Arthur Conan Doyle
+48. The Complete Stories and Poems by Edgar Allan Poe
+49. The Complete Sherlock Holmes by Arthur Conan Doyle
+50. The Complete Works of William Shakespeare

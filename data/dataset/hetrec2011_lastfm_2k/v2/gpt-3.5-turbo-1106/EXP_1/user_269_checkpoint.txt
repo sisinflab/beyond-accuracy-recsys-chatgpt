@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Oasis
+2. Arctic Monkeys
+3. Radiohead
+4. Coldplay
+5. Red Hot Chili Peppers
+6. The Strokes
+7. Foo Fighters
+8. The White Stripes
+9. The Rolling Stones
+10. The Smiths
+11. Kasabian
+12. The Cure
+13. Franz Ferdinand
+14. The Libertines
+15. The Kooks
+16. The Black Keys
+17. Kings of Leon
+18. The Verve
+19. The Smashing Pumpkins
+20. Interpol
+21. Placebo
+22. Bloc Party
+23. The Cranberries
+24. R.E.M.
+25. Pearl Jam
+26. Nirvana
+27. Soundgarden
+28. Alice in Chains
+29. Stone Temple Pilots
+30. Jane's Addiction
+31. Nine Inch Nails
+32. Deftones
+33. System of a Down
+34. Tool
+35. Queens of the Stone Age
+36. Incubus
+37. Audioslave
+38. Rage Against the Machine
+39. Faith No More
+40. Alice Cooper
+41. Iggy Pop
+42. The Doors
+43. Led Zeppelin
+44. Pink Floyd
+45. Deep Purple
+46. Black Sabbath
+47. The Who
+48. Cream
+49. Jimi Hendrix
+50. The Beatles
+
+These recommendations are based on the user's liking of rock, alternative, and classic bands, and are aimed at providing a diverse range of similar artists for the user to explore.

@@ -1,0 +1,54 @@
+Based on user 696's liking of artists such as Led Zeppelin, Fleetwood Mac, Bon Jovi, and Queen, here is a re-ranked list of the provided artists into a top-50 recommendations:
+
+1. Led Zeppelin
+2. Queen
+3. Fleetwood Mac
+4. The Beatles
+5. Nirvana
+6. Pink Floyd
+7. The Killers
+8. Radiohead
+9. Muse
+10. Coldplay
+11. U2
+12. Pearl Jam
+13. Metallica
+14. Iron Maiden
+15. Green Day
+16. The Cure
+17. Nine Inch Nails
+18. Linkin Park
+19. My Chemical Romance
+20. Avenged Sevenfold
+21. Black Eyed Peas
+22. Daft Punk
+23. System of a Down
+24. Michael Jackson
+25. Madonna
+26. Lady Gaga
+27. Rihanna
+28. Christina Aguilera
+29. Britney Spears
+30. Shakira
+31. Beyoncé
+32. Katy Perry
+33. Taylor Swift
+34. Avril Lavigne
+35. Miley Cyrus
+36. Kelly Clarkson
+37. P!nk
+38. Paramore
+39. Evanescence
+40. Glee Cast
+41. 30 Seconds to Mars
+42. Kylie Minogue
+43. Amy Winehouse
+44. a-ha
+45. Björk
+46. Depeche Mode
+47. Duran Duran
+48. Blur
+49. Arctic Monkeys
+50. Placebo
+
+This ranking is based on the similarity of the recommended artists to the ones liked by user 696.

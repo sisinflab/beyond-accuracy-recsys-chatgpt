@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Behemoth
+2. In This Moment
+3. Lamb of God
+4. Gojira
+5. Meshuggah
+6. Opeth
+7. Amon Amarth
+8. Children of Bodom
+9. DevilDriver
+10. Korn
+11. Trivium
+12. Deftones
+13. Fear Factory
+14. Machine Head
+15. Sepultura
+16. Archspire
+17. Thy Art Is Murder
+18. At The Gates
+19. Decapitated
+20. Parkway Drive
+21. Testament
+22. Hatebreed
+23. Mastodon
+24. Suicide Silence
+25. The Black Dahlia Murder
+26. Chimaira
+27. Dethklok
+28. Carcass
+29. Soilwork
+30. Dark Tranquillity
+31. Cradle of Filth
+32. Morbid Angel
+33. Arch Enemy
+34. Porcelain and the Tramps
+35. Lacuna Coil
+36. Mudvayne
+37. Slipknot
+38. Whitechapel
+39. Dimmu Borgir
+40. Otep
+41. Pantera
+42. Immortal
+43. Serj Tankian
+44. Hypocrisy
+45. The Prodigy
+46. Cannibal Corpse
+47. Slayer
+48. Megadeth
+49. Iron Maiden
+50. Black Sabbath
+
+These recommendations are based on the user's liking of similar artists and are tailored to their specific taste in music.

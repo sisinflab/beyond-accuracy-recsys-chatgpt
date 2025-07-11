@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Brave New World by Aldous Huxley
+2. Animal Farm by George Orwell
+3. Slaughterhouse-Five by Kurt Vonnegut
+4. The Road by Cormac McCarthy
+5. The Stranger by Albert Camus
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+8. The Great Gatsby by F. Scott Fitzgerald
+9. To Kill a Mockingbird by Harper Lee
+10. 1984 by George Orwell
+11. The Handmaid's Tale by Margaret Atwood
+12. The Bell Jar by Sylvia Plath
+13. The Sun Also Rises by Ernest Hemingway
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Grapes of Wrath by John Steinbeck
+16. The Catcher in the Rye by J.D. Salinger
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Fountainhead by Ayn Rand
+19. The Brothers Karamazov by Fyodor Dostoevsky
+20. Crime and Punishment by Fyodor Dostoevsky
+21. The Idiot by Fyodor Dostoevsky
+22. The Master and Margarita by Mikhail Bulgakov
+23. The Trial by Franz Kafka
+24. The Metamorphosis by Franz Kafka
+25. The Stranger by Albert Camus
+26. The Plague by Albert Camus
+27. The Alchemist by Paulo Coelho
+28. Veronika Decides to Die by Paulo Coelho
+29. The God Delusion by Richard Dawkins
+30. God Is Not Great by Christopher Hitchens
+31. The Selfish Gene by Richard Dawkins
+32. Cosmos by Carl Sagan
+33. The Demon-Haunted World by Carl Sagan
+34. The Martian Chronicles by Ray Bradbury
+35. Dandelion Wine by Ray Bradbury
+36. The Illustrated Man by Ray Bradbury
+37. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+38. Siddhartha by Hermann Hesse
+39. Steppenwolf by Hermann Hesse
+40. Demian by Hermann Hesse
+41. The Glass Bead Game by Hermann Hesse
+42. The Outsiders by S.E. Hinton
+43. Tuck Everlasting by Natalie Babbitt
+44. The Giver by Lois Lowry
+45. The Book Thief by Markus Zusak
+46. The Secret Life of Bees by Sue Monk Kidd
+47. The Kite Runner by Khaled Hosseini
+48. A Thousand Splendid Suns by Khaled Hosseini
+49. The Road by Cormac McCarthy
+50. Blood Meridian by Cormac McCarthy
+
+These recommendations are based on the user's interest in dystopian literature, philosophical themes, and coming-of-age stories.

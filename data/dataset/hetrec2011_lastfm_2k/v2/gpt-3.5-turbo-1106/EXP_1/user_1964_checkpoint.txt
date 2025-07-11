@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Arctic Monkeys
+2. Tame Impala
+3. Radiohead
+4. The White Stripes
+5. Arcade Fire
+6. Modest Mouse
+7. The National
+8. Spoon
+9. Phoenix
+10. The War on Drugs
+11. Foals
+12. The Libertines
+13. Bloc Party
+14. The Killers
+15. MGMT
+16. The Vaccines
+17. The Kooks
+18. The Hives
+19. The Raconteurs
+20. The Black Angels
+21. The Horrors
+22. The Rapture
+23. The Jesus and Mary Chain
+24. The Psychedelic Furs
+25. Echo & the Bunnymen
+26. The Chameleons
+27. The Sound
+28. The Teardrop Explodes
+29. The Church
+30. The Mission
+31. The Sisters of Mercy
+32. Bauhaus
+33. Siouxsie and the Banshees
+34. Echo & the Bunnymen
+35. The Psychedelic Furs
+36. The Chameleons
+37. The Sound
+38. The Teardrop Explodes
+39. The Church
+40. The Mission
+41. The Sisters of Mercy
+42. Bauhaus
+43. Siouxsie and the Banshees
+44. The Jesus and Mary Chain
+45. The Stone Roses
+46. Primal Scream
+47. Happy Mondays
+48. The Charlatans
+49. Inspiral Carpets
+50. The La's
+
+These recommendations are based on the user's liking of indie rock, post-punk, and alternative rock artists.

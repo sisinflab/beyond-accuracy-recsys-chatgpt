@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. Bloc Party
+3. Foals
+4. Two Door Cinema Club
+5. The Libertines
+6. The Kooks
+7. The Vaccines
+8. The Hives
+9. The White Stripes
+10. The Black Keys
+11. Modest Mouse
+12. The Bravery
+13. The Rakes
+14. The Vines
+15. The Zutons
+16. The Subways
+17. The Futureheads
+18. The Maccabees
+19. The Courteeners
+20. The View
+21. The Pains of Being Pure at Heart
+22. The Drums
+23. The Wombats
+24. The Fratellis
+25. The Pigeon Detectives
+26. The Cribs
+27. The Killers
+28. The Horrors
+29. The Rapture
+30. The Maccabees
+31. The Rakes
+32. The View
+33. The Pains of Being Pure at Heart
+34. The Drums
+35. The Wombats
+36. The Fratellis
+37. The Pigeon Detectives
+38. The Cribs
+39. The Killers
+40. The Horrors
+41. The Rapture
+42. The Maccabees
+43. The Rakes
+44. The View
+45. The Pains of Being Pure at Heart
+46. The Drums
+47. The Wombats
+48. The Fratellis
+49. The Pigeon Detectives
+50. The Cribs
+
+These recommendations are based on the user's liking of indie rock and alternative rock bands and artists.

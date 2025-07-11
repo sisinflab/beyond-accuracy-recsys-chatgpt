@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To the Lighthouse by Virginia Woolf
+2. Ulysses by James Joyce
+3. The Catcher in the Rye by J.D. Salinger
+4. The Sun Also Rises by Ernest Hemingway
+5. The Sound and the Fury by William Faulkner
+6. One Hundred Years of Solitude by Gabriel Garcia Marquez
+7. The Bell Jar by Sylvia Plath
+8. The Grapes of Wrath by John Steinbeck
+9. Brave New World by Aldous Huxley
+10. The Old Man and the Sea by Ernest Hemingway
+11. Crime and Punishment by Fyodor Dostoevsky
+12. Lolita by Vladimir Nabokov
+13. The Stranger by Albert Camus
+14. Slaughterhouse-Five by Kurt Vonnegut
+15. The Road by Cormac McCarthy
+16. The Picture of Dorian Gray by Oscar Wilde
+17. Heart of Darkness by Joseph Conrad
+18. The Brothers Karamazov by Fyodor Dostoevsky
+19. Anna Karenina by Leo Tolstoy
+20. A Farewell to Arms by Ernest Hemingway
+21. The Idiot by Fyodor Dostoevsky
+22. The Trial by Franz Kafka
+23. The Plague by Albert Camus
+24. The Unbearable Lightness of Being by Milan Kundera
+25. The Stranger by Harlan Coben
+26. The Secret History by Donna Tartt
+27. The Goldfinch by Donna Tartt
+28. The Night Circus by Erin Morgenstern
+29. The Shadow of the Wind by Carlos Ruiz Zafon
+30. The Book Thief by Markus Zusak
+31. The Kite Runner by Khaled Hosseini
+32. A Thousand Splendid Suns by Khaled Hosseini
+33. The Alchemist by Paulo Coelho
+34. The Name of the Wind by Patrick Rothfuss
+35. The Handmaid's Tale by Margaret Atwood
+36. The Girl with the Dragon Tattoo by Stieg Larsson
+37. The Help by Kathryn Stockett
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Lovely Bones by Alice Sebold
+40. The Hunger Games by Suzanne Collins
+41. The Fault in Our Stars by John Green
+42. The Maze Runner by James Dashner
+43. The Giver by Lois Lowry
+44. The Perks of Being a Wallflower by Stephen Chbosky
+45. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+46. The Secret Life of Bees by Sue Monk Kidd
+47. The Glass Castle by Jeannette Walls
+48. The Nightingale by Kristin Hannah
+49. The Book of Lost Things by John Connolly
+50. The Thirteenth Tale by Diane Setterfield
+
+These recommendations are based on the user's interest in classic literature, modernist works, and contemporary fiction.

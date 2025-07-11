@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. Pride and Prejudice by Jane Austen
+4. The Grapes of Wrath by John Steinbeck
+5. The Picture of Dorian Gray by Oscar Wilde
+6. Wuthering Heights by Emily Brontë
+7. The Adventures of Huckleberry Finn by Mark Twain
+8. The Bell Jar by Sylvia Plath
+9. One Hundred Years of Solitude by Gabriel García Márquez
+10. The Old Man and the Sea by Ernest Hemingway
+11. The Sun Also Rises by Ernest Hemingway
+12. The Sound and the Fury by William Faulkner
+13. The Stranger by Albert Camus
+14. Crime and Punishment by Fyodor Dostoevsky
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. The Road by Cormac McCarthy
+17. The Handmaid's Tale by Margaret Atwood
+18. The Alchemist by Paulo Coelho
+19. The Kite Runner by Khaled Hosseini
+20. The Book Thief by Markus Zusak
+21. The Night Circus by Erin Morgenstern
+22. The Shadow of the Wind by Carlos Ruiz Zafón
+23. The Name of the Wind by Patrick Rothfuss
+24. The Nightingale by Kristin Hannah
+25. The Goldfinch by Donna Tartt
+26. The Secret History by Donna Tartt
+27. The Poisonwood Bible by Barbara Kingsolver
+28. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+29. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+30. The Orphan Master's Son by Adam Johnson
+31. The Underground Railroad by Colson Whitehead
+32. The Immortalists by Chloe Benjamin
+33. The Night Watchman by Louise Erdrich
+34. The Vanishing Half by Brit Bennett
+35. The Glass Hotel by Emily St. John Mandel
+36. The Dutch House by Ann Patchett
+37. The Water Dancer by Ta-Nehisi Coates
+38. The Nickel Boys by Colson Whitehead
+39. The Overstory by Richard Powers
+40. The Sympathizer by Viet Thanh Nguyen
+41. The Luminaries by Eleanor Catton
+42. The Goldfinch by Donna Tartt
+43. The Secret History by Donna Tartt
+44. The Poisonwood Bible by Barbara Kingsolver
+45. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+46. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+47. The Orphan Master's Son by Adam Johnson
+48. The Underground Railroad by Colson Whitehead
+49. The Immortalists by Chloe Benjamin
+50. The Night Watchman by Louise Erdrich

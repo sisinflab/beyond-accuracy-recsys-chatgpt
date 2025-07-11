@@ -1,0 +1,52 @@
+Based on user 1799's preferences, here are the top-50 recommendations for the given artists:
+
+1. Rihanna
+2. Lady Gaga
+3. Beyoncé
+4. Katy Perry
+5. Britney Spears
+6. Christina Aguilera
+7. Jennifer Lopez
+8. Nicki Minaj
+9. Mariah Carey
+10. Madonna
+11. P!nk
+12. Shakira
+13. Kelly Clarkson
+14. Miley Cyrus
+15. Demi Lovato
+16. Selena Gomez & the Scene
+17. Alicia Keys
+18. Gwen Stefani
+19. Kelly Rowland
+20. Nelly Furtado
+21. Ashlee Simpson
+22. Hilary Duff
+23. Jessica Simpson
+24. Christina Milian
+25. Lindsay Lohan
+26. Mandy Moore
+27. Katharine McPhee
+28. Carrie Underwood
+29. Taylor Swift
+30. Amy Winehouse
+31. George Michael
+32. Jason Mraz
+33. Jason Derülo
+34. Trey Songz
+35. Chris Brown
+36. Pitbull
+37. Taio Cruz
+38. Kanye West
+39. Michael Jackson
+40. Janet Jackson
+41. Whitney Houston
+42. Thalía
+43. Laura Pausini
+44. Kylie Minogue
+45. Destiny's Child
+46. The Pussycat Dolls
+47. Danity Kane
+48. The Veronicas
+49. Paramore
+50. Lights

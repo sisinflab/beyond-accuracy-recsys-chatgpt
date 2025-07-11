@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. My Sister's Keeper by Jodi Picoult
+2. The Pact by Jodi Picoult
+3. The Storyteller by Jodi Picoult
+4. Small Great Things by Jodi Picoult
+5. The Book Thief by Markus Zusak
+6. The Fault in Our Stars by John Green
+7. Mockingjay by Suzanne Collins
+8. Catching Fire by Suzanne Collins
+9. The Nightingale by Kristin Hannah
+10. Sarah's Key by Tatiana de Rosnay
+11. The Light Between Oceans by M.L. Stedman
+12. Orphan Train by Christina Baker Kline
+13. The Glass Castle by Jeannette Walls
+14. The Kite Runner by Khaled Hosseini
+15. And the Mountains Echoed by Khaled Hosseini
+16. The Alchemist by Paulo Coelho
+17. Wonder by R.J. Palacio
+18. Out of My Mind by Sharon M. Draper
+19. The Outsiders by S.E. Hinton
+20. The Giver by Lois Lowry
+21. Gathering Blue by Lois Lowry
+22. Messenger by Lois Lowry
+23. Son by Lois Lowry
+24. A Thousand Splendid Suns by Khaled Hosseini
+25. The Kite Runner by Khaled Hosseini
+26. The Secret Life of Bees by Sue Monk Kidd
+27. To Kill a Mockingbird by Harper Lee
+28. The Help by Kathryn Stockett
+29. The Color Purple by Alice Walker
+30. Stargirl by Jerry Spinelli
+31. Love, Stargirl by Jerry Spinelli
+32. Holes by Louis Sachar
+33. The Maze Runner by James Dashner
+34. The Scorch Trials by James Dashner
+35. The Death Cure by James Dashner
+36. The Awakening by Kate Chopin
+37. The Story of an Hour by Kate Chopin
+38. The Bell Jar by Sylvia Plath
+39. The Handmaid's Tale by Margaret Atwood
+40. The Road by Cormac McCarthy
+41. The Other Boleyn Girl by Philippa Gregory
+42. The Boleyn Inheritance by Philippa Gregory
+43. The Taming of the Queen by Philippa Gregory
+44. Light in August by William Faulkner
+45. As I Lay Dying by William Faulkner
+46. Absalom, Absalom! by William Faulkner
+47. The Sound and the Fury by William Faulkner
+48. Go Down, Moses by William Faulkner
+49. Intruder in the Dust by William Faulkner
+50. Requiem for a Nun by William Faulkner
+
+These recommendations are based on the user's liking of similar authors and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Drake
+2. Kendrick Lamar
+3. The Weeknd
+4. Childish Gambino
+5. Frank Ocean
+6. J. Cole
+7. Travis Scott
+8. Post Malone
+9. SZA
+10. Khalid
+11. Ariana Grande
+12. Lizzo
+13. Cardi B
+14. H.E.R.
+15. Anderson .Paak
+16. Solange
+17. Miguel
+18. Janelle Monáe
+19. Mac Miller
+20. Chance the Rapper
+21. Future
+22. Migos
+23. Lil Nas X
+24. Megan Thee Stallion
+25. Tyler, The Creator
+26. Kehlani
+27. Billie Eilish
+28. Lana Del Rey
+29. Sam Smith
+30. Halsey
+31. Dua Lipa
+32. Ed Sheeran
+33. Taylor Swift
+34. Adele
+35. Sampha
+36. James Blake
+37. Bon Iver
+38. Florence + The Machine
+39. Lorde
+40. The xx
+41. Vampire Weekend
+42. Arctic Monkeys
+43. The Strokes
+44. Radiohead
+45. Tame Impala
+46. The National
+47. Fleet Foxes
+48. Bonobo
+49. Alt-J
+50. Glass Animals
+
+These recommendations are based on the user's liking of similar artists and genres.

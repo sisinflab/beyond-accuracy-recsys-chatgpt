@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Girl on the Train by Paula Hawkins
+2. The Great Gatsby by F. Scott Fitzgerald
+3. 1984 by George Orwell
+4. To Kill a Mockingbird by Harper Lee
+5. The Catcher in the Rye by J.D. Salinger
+6. The Da Vinci Code by Dan Brown
+7. The Shining by Stephen King
+8. The Hobbit by J.R.R. Tolkien
+9. The Alchemist by Paulo Coelho
+10. The Road by Cormac McCarthy
+11. The Book Thief by Markus Zusak
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Handmaid's Tale by Margaret Atwood
+14. The Stand by Stephen King
+15. The Martian by Andy Weir
+16. The Night Circus by Erin Morgenstern
+17. The Goldfinch by Donna Tartt
+18. The Silent Patient by Alex Michaelides
+19. The Lovely Bones by Alice Sebold
+20. The Help by Kathryn Stockett
+21. The Secret History by Donna Tartt
+22. The Nightingale by Kristin Hannah
+23. The Name of the Wind by Patrick Rothfuss
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Pillars of the Earth by Ken Follett
+26. The Time Traveler's Wife by Audrey Niffenegger
+27. The Kite Runner by Khaled Hosseini
+28. The Hand of Fatima by Ildefonso Falcones
+29. The Thirteenth Tale by Diane Setterfield
+30. The Historian by Elizabeth Kostova
+31. The Night Manager by John le Carré
+32. The Night Stalker by Robert Bryndza
+33. The Night Fire by Michael Connelly
+34. The Night Circus by Erin Morgenstern
+35. The Nightingale by Kristin Hannah
+36. The Night Manager by John le Carré
+37. The Night Stalker by Robert Bryndza
+38. The Night Fire by Michael Connelly
+39. The Night Circus by Erin Morgenstern
+40. The Nightingale by Kristin Hannah
+41. The Night Manager by John le Carré
+42. The Night Stalker by Robert Bryndza
+43. The Night Fire by Michael Connelly
+44. The Night Circus by Erin Morgenstern
+45. The Nightingale by Kristin Hannah
+46. The Night Manager by John le Carré
+47. The Night Stalker by Robert Bryndza
+48. The Night Fire by Michael Connelly
+49. The Night Circus by Erin Morgenstern
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's interest in dystopian fiction, horror, and dark fantasy, as well as their previous reading history.

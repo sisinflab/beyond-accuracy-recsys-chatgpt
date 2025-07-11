@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Within Temptation
+2. Epica
+3. Lacuna Coil
+4. Delain
+5. Evanescence
+6. Xandria
+7. Sirenia
+8. After Forever
+9. Leaves' Eyes
+10. Tristania
+11. Sirenia
+12. Stream of Passion
+13. Tarja Turunen
+14. Amaranthe
+15. The Gathering
+16. Nightwish
+17. Alanis Morissette
+18. The Cranberries
+19. Avril Lavigne
+20. Dido
+21. Shakira
+22. Kid Abelha
+23. t.A.T.u.
+24. Florence + the Machine
+25. The Killers
+26. The Beatles
+27. The Mamas & The Papas
+28. Rammstein
+29. Legião Urbana
+30. Katy Perry
+31. Cansei de Ser Sexy
+32. Britney Spears
+33. Green Day
+34. MGMT
+35. Good Charlotte
+36. Pitty
+37. The Offspring
+38. Feist
+39. Christina Aguilera
+40. Lindsay Lohan
+41. Paramore
+42. The Corrs
+43. Muse
+44. ABBA
+45. Cássia Eller
+46. Skye Sweetnam
+47. Black Eyed Peas
+48. Raimundos
+49. Lacuna Coil
+50. Delain
+
+These recommendations are based on the user's liking of similar artists and genres.

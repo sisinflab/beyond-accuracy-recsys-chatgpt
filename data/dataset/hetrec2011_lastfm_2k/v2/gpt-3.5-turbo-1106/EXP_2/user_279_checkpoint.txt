@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 279:
+
+1. Lady Gaga
+2. Black Eyed Peas
+3. My Chemical Romance
+4. Paramore
+5. Avenged Sevenfold
+6. All Time Low
+7. Bullet for My Valentine
+8. Asking Alexandria
+9. Suicide Silence
+10. The Black Dahlia Murder
+11. Born of Osiris
+12. NOFX
+13. Four Year Strong
+14. MxPx
+15. All Shall Perish
+16. Alesana
+17. Finch
+18. Britney Spears
+19. Christina Aguilera
+20. Madonna
+21. Rihanna
+22. Shakira
+23. Katy Perry
+24. Avril Lavigne
+25. Taylor Swift
+26. Evanescence
+27. Beyoncé
+28. Ke$ha
+29. Miley Cyrus
+30. Kelly Clarkson
+31. P!nk
+32. Lady Gaga
+33. Glee Cast
+34. U2
+35. 30 Seconds to Mars
+36. Muse
+37. Pink Floyd
+38. Kylie Minogue
+39. Radiohead
+40. Duran Duran
+41. Coldplay
+42. Blur
+43. Arctic Monkeys
+44. Placebo
+45. The Killers
+46. Nirvana
+47. Iron Maiden
+48. Amy Winehouse
+49. Led Zeppelin
+50. Metallica
+
+These recommendations are based on the user's liking of similar artists and are ranked accordingly.

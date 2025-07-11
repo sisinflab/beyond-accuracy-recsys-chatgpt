@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Ulysses by James Joyce
+2. A Portrait of the Artist as a Young Man by James Joyce
+3. The Picture of Dorian Gray by Oscar Wilde
+4. Heart of Darkness by Joseph Conrad
+5. To the Lighthouse by Virginia Woolf
+6. Mrs. Dalloway by Virginia Woolf
+7. The Catcher in the Rye by J.D. Salinger
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Brothers Karamazov by Fyodor Dostoevsky
+11. War and Peace by Leo Tolstoy
+12. Anna Karenina by Leo Tolstoy
+13. The Idiot by Fyodor Dostoevsky
+14. The Trial by Franz Kafka
+15. The Metamorphosis by Franz Kafka
+16. The Plague by Albert Camus
+17. The Fall by Albert Camus
+18. The Outsider by Albert Camus
+19. The Sun Also Rises by Ernest Hemingway
+20. For Whom the Bell Tolls by Ernest Hemingway
+21. A Moveable Feast by Ernest Hemingway
+22. The Old Man and the Sea by Ernest Hemingway
+23. The Catcher in the Rye by J.D. Salinger
+24. Franny and Zooey by J.D. Salinger
+25. The Bell Jar by Sylvia Plath
+26. The Road by Cormac McCarthy
+27. Blood Meridian by Cormac McCarthy
+28. East of Eden by John Steinbeck
+29. The Grapes of Wrath by John Steinbeck
+30. Of Mice and Men by John Steinbeck
+31. The Sound and the Fury by William Faulkner
+32. As I Lay Dying by William Faulkner
+33. Light in August by William Faulkner
+34. Absalom, Absalom! by William Faulkner
+35. The Hobbit by J.R.R. Tolkien
+36. The Silmarillion by J.R.R. Tolkien
+37. The Children of Húrin by J.R.R. Tolkien
+38. The Great Gatsby by F. Scott Fitzgerald
+39. Tender Is the Night by F. Scott Fitzgerald
+40. The Beautiful and Damned by F. Scott Fitzgerald
+41. A Farewell to Arms by Ernest Hemingway
+42. The Sun Also Rises by Ernest Hemingway
+43. The Old Man and the Sea by Ernest Hemingway
+44. The Lord of the Rings by J.R.R. Tolkien
+45. The Silmarillion by J.R.R. Tolkien
+46. The Children of Húrin by J.R.R. Tolkien
+47. The Stranger by Albert Camus
+48. The Myth of Sisyphus by Albert Camus
+49. The Fall by Albert Camus
+50. The Plague by Albert Camus
+
+These recommendations are based on the user's interest in classic literature, modernist and existentialist works, and fantasy novels.

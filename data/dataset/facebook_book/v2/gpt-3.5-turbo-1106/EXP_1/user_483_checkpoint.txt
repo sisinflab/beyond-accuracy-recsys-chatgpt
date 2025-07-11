@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Electric Kool-Aid Acid Test by Tom Wolfe
+2. The Catcher in the Rye by J.D. Salinger
+3. One Flew Over the Cuckoo's Nest by Ken Kesey
+4. The Dharma Bums by Jack Kerouac
+5. The Rum Diary by Hunter S. Thompson
+6. Naked Lunch by William S. Burroughs
+7. The Unbearable Lightness of Being by Milan Kundera
+8. The Bell Jar by Sylvia Plath
+9. On the Road by Jack Kerouac
+10. The Sun Also Rises by Ernest Hemingway
+11. The Stranger by Albert Camus
+12. Slaughterhouse-Five by Kurt Vonnegut
+13. The Road by Cormac McCarthy
+14. Fight Club by Chuck Palahniuk
+15. American Psycho by Bret Easton Ellis
+16. Less Than Zero by Bret Easton Ellis
+17. The Secret History by Donna Tartt
+18. The Corrections by Jonathan Franzen
+19. Infinite Jest by David Foster Wallace
+20. White Noise by Don DeLillo
+21. The Goldfinch by Donna Tartt
+22. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+23. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+24. The Savage Detectives by Roberto Bolaño
+25. The Yiddish Policemen's Union by Michael Chabon
+26. The Wind-Up Bird Chronicle by Haruki Murakami
+27. Norwegian Wood by Haruki Murakami
+28. Kafka on the Shore by Haruki Murakami
+29. The Master and Margarita by Mikhail Bulgakov
+30. The Picture of Dorian Gray by Oscar Wilde
+31. A Clockwork Orange by Anthony Burgess
+32. Lolita by Vladimir Nabokov
+33. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+34. Cat's Cradle by Kurt Vonnegut
+35. Breakfast of Champions by Kurt Vonnegut
+36. The Crying of Lot 49 by Thomas Pynchon
+37. Vineland by Thomas Pynchon
+38. The Secret History of Twin Peaks by Mark Frost
+39. The Shining Girls by Lauren Beukes
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. The Girl on the Train by Paula Hawkins
+42. Gone Girl by Gillian Flynn
+43. Sharp Objects by Gillian Flynn
+44. Dark Places by Gillian Flynn
+45. The Talented Mr. Ripley by Patricia Highsmith
+46. The Secret History of Wonder Woman by Jill Lepore
+47. The Night Circus by Erin Morgenstern
+48. The Shadow of the Wind by Carlos Ruiz Zafón
+49. The Name of the Wind by Patrick Rothfuss
+50. The Lies of Locke Lamora by Scott Lynch
+
+These recommendations are based on the user's interest in counterculture, dark humor, and psychological themes.

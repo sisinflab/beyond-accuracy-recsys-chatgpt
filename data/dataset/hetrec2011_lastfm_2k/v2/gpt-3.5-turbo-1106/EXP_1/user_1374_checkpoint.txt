@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. My Chemical Romance
+2. Paramore
+3. Linkin Park
+4. The Used
+5. Seether
+6. Three Days Grace
+7. Placebo
+8. System of a Down
+9. Muse
+10. P.O.D.
+11. Chevelle
+12. Shinedown
+13. Staind
+14. 30 Seconds to Mars
+15. Papa Roach
+16. Slipknot
+17. Disturbed
+18. Stone Sour
+19. Foo Fighters
+20. Red Hot Chili Peppers
+21. Nirvana
+22. Soundgarden
+23. Alice in Chains
+24. Pearl Jam
+25. Bush
+26. Audioslave
+27. Korn
+28. Deftones
+29. Marilyn Manson
+30. Nine Inch Nails
+31. Tool
+32. A Perfect Circle
+33. Rage Against the Machine
+34. Limp Bizkit
+35. Godsmack
+36. Breaking Benjamin
+37. Evanescence
+38. Three Days Grace
+39. Skillet
+40. Theory of a Deadman
+41. Hinder
+42. Crossfade
+43. Saliva
+44. Fuel
+45. 10 Years
+46. Adelitas Way
+47. Pop Evil
+48. Aranda
+49. Drowning Pool
+50. Nonpoint
+
+These recommendations are based on the user's liking of similar artists and genres.

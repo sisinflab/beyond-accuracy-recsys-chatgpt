@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Marilyn Manson
+2. Behemoth
+3. Death
+4. Slayer
+5. The Cure
+6. Judas Priest
+7. Megadeth
+8. Metallica
+9. Iron Maiden
+10. Rammstein
+11. System of a Down
+12. Nirvana
+13. Rage Against the Machine
+14. Muse
+15. Linkin Park
+16. Stone Sour
+17. Trivium
+18. Children of Bodom
+19. In Flames
+20. Sepultura
+21. Tool
+22. Machine Head
+23. A Day to Remember
+24. Three Days Grace
+25. Limp Bizkit
+26. Rise Against
+27. Bloodbath
+28. KISS
+29. Aerosmith
+30. Green Day
+31. Foo Fighters
+32. Queens of the Stone Age
+33. Thin Lizzy
+34. Kreator
+35. Hatebreed
+36. Madness
+37. Bad Religion
+38. Guano Apes
+39. The 69 Eyes
+40. Comeback Kid
+41. Billy Talent
+42. T. Rex
+43. AC/DC
+44. Vader
+45. Iced Earth
+46. King Diamond
+47. Destruction
+48. Bon Jovi
+49. The Beatles
+50. Nickelback

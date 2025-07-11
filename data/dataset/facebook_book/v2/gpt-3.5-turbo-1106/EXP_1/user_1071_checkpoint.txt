@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Shining by Stephen King
+2. We Have Always Lived in the Castle by Shirley Jackson
+3. The Coldest Girl in Coldtown by Holly Black
+4. Impulse by Ellen Hopkins
+5. Animal Farm by George Orwell
+6. Rumble Fish by S. E. Hinton
+7. The Bell Jar by Sylvia Plath
+8. One Flew Over the Cuckoo's Nest by Ken Kesey
+9. The Catcher in the Rye by J.D. Salinger
+10. A Clockwork Orange by Anthony Burgess
+11. The Perks of Being a Wallflower by Stephen Chbosky
+12. The Giver by Lois Lowry
+13. The Color Purple by Alice Walker
+14. The Stranger by Albert Camus
+15. Brave New World by Aldous Huxley
+16. The Road by Cormac McCarthy
+17. The Handmaid's Tale by Margaret Atwood
+18. The Metamorphosis by Franz Kafka
+19. The Picture of Dorian Gray by Oscar Wilde
+20. The Lovely Bones by Alice Sebold
+21. The Poisonwood Bible by Barbara Kingsolver
+22. The Grapes of Wrath by John Steinbeck
+23. The Scarlet Letter by Nathaniel Hawthorne
+24. The Great Gatsby by F. Scott Fitzgerald
+25. To Kill a Mockingbird by Harper Lee
+26. The Kite Runner by Khaled Hosseini
+27. The Alchemist by Paulo Coelho
+28. The Road Not Taken by Robert Frost
+29. The Glass Castle by Jeannette Walls
+30. The Handmaid's Tale by Margaret Atwood
+31. The Night Circus by Erin Morgenstern
+32. The Goldfinch by Donna Tartt
+33. The Secret History by Donna Tartt
+34. The Nightingale by Kristin Hannah
+35. The Book of Lost Things by John Connolly
+36. The Night Circus by Erin Morgenstern
+37. The Goldfinch by Donna Tartt
+38. The Secret History by Donna Tartt
+39. The Nightingale by Kristin Hannah
+40. The Book of Lost Things by John Connolly
+41. The Night Circus by Erin Morgenstern
+42. The Goldfinch by Donna Tartt
+43. The Secret History by Donna Tartt
+44. The Nightingale by Kristin Hannah
+45. The Book of Lost Things by John Connolly
+46. The Night Circus by Erin Morgenstern
+47. The Goldfinch by Donna Tartt
+48. The Secret History by Donna Tartt
+49. The Nightingale by Kristin Hannah
+50. The Book of Lost Things by John Connolly
+
+These recommendations are based on the user's interest in psychological thrillers, coming-of-age stories, and classic literature.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. American Gods by Neil Gaiman
+2. Fight Club by Chuck Palahniuk
+3. Neverwhere by Neil Gaiman
+4. Snow Crash by Neal Stephenson
+5. The Catcher in the Rye by J.D. Salinger
+6. The Graveyard Book by Neil Gaiman
+7. The Wind-Up Bird Chronicle by Haruki Murakami
+8. House of Leaves by Mark Z. Danielewski
+9. The Secret History by Donna Tartt
+10. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+11. The Shadow of the Wind by Carlos Ruiz Zafón
+12. The Night Circus by Erin Morgenstern
+13. The Magicians by Lev Grossman
+14. The Lies of Locke Lamora by Scott Lynch
+15. The Ocean at the End of the Lane by Neil Gaiman
+16. The Alchemist by Paulo Coelho
+17. The Goldfinch by Donna Tartt
+18. The Golem and the Jinni by Helene Wecker
+19. The Book Thief by Markus Zusak
+20. The Girl with the Dragon Tattoo by Stieg Larsson
+21. The Time Traveler's Wife by Audrey Niffenegger
+22. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+23. The Nightingale by Kristin Hannah
+24. The Handmaid's Tale by Margaret Atwood
+25. The Road by Cormac McCarthy
+26. The Kite Runner by Khaled Hosseini
+27. The Help by Kathryn Stockett
+28. The Hunger Games by Suzanne Collins
+29. The Fault in Our Stars by John Green
+30. The Da Vinci Code by Dan Brown
+31. The Girl on the Train by Paula Hawkins
+32. The Martian by Andy Weir
+33. The Silent Patient by Alex Michaelides
+34. The Tattooist of Auschwitz by Heather Morris
+35. The Nightingale by Kristin Hannah
+36. The Alice Network by Kate Quinn
+37. The Light Between Oceans by M.L. Stedman
+38. The Great Alone by Kristin Hannah
+39. The Night Circus by Erin Morgenstern
+40. The Nightingale by Kristin Hannah
+41. The Alice Network by Kate Quinn
+42. The Light Between Oceans by M.L. Stedman
+43. The Great Alone by Kristin Hannah
+44. The Night Circus by Erin Morgenstern
+45. The Nightingale by Kristin Hannah
+46. The Alice Network by Kate Quinn
+47. The Light Between Oceans by M.L. Stedman
+48. The Great Alone by Kristin Hannah
+49. The Night Circus by Erin Morgenstern
+50. The Nightingale by Kristin Hannah
+
+These recommendations are based on the user's interest in dark humor, fantasy, and thought-provoking literature.

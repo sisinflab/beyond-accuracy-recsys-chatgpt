@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. Brave New World by Aldous Huxley
+6. The Stranger by Albert Camus
+7. The Bell Jar by Sylvia Plath
+8. Lolita by Vladimir Nabokov
+9. Crime and Punishment by Fyodor Dostoevsky
+10. The Picture of Dorian Gray by Oscar Wilde
+11. The Road by Cormac McCarthy
+12. The Kite Runner by Khaled Hosseini
+13. The Handmaid's Tale by Margaret Atwood
+14. Slaughterhouse-Five by Kurt Vonnegut
+15. The Sun Also Rises by Ernest Hemingway
+16. The Old Man and the Sea by Ernest Hemingway
+17. The Alchemist by Paulo Coelho
+18. The Shadow of the Wind by Carlos Ruiz Zafón
+19. The Name of the Wind by Patrick Rothfuss
+20. The Book Thief by Markus Zusak
+21. The Goldfinch by Donna Tartt
+22. The Night Circus by Erin Morgenstern
+23. The Secret History by Donna Tartt
+24. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+25. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+26. The Unbearable Lightness of Being by Milan Kundera
+27. The Wind-Up Bird Chronicle by Haruki Murakami
+28. Norwegian Wood by Haruki Murakami
+29. Kafka on the Shore by Haruki Murakami
+30. The Master and Margarita by Mikhail Bulgakov
+31. One Flew Over the Cuckoo's Nest by Ken Kesey
+32. The Brothers Karamazov by Fyodor Dostoevsky
+33. Anna Karenina by Leo Tolstoy
+34. East of Eden by John Steinbeck
+35. The Grapes of Wrath by John Steinbeck
+36. The Hand of Fatima by Ildefonso Falcones
+37. The Pillars of the Earth by Ken Follett
+38. The Nightingale by Kristin Hannah
+39. The Help by Kathryn Stockett
+40. The Color Purple by Alice Walker
+41. The Poisonwood Bible by Barbara Kingsolver
+42. The Glass Castle by Jeannette Walls
+43. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+44. Educated by Tara Westover
+45. The Power of One by Bryce Courtenay
+46. The Book of Negroes by Lawrence Hill
+47. The Invention of Wings by Sue Monk Kidd
+48. The Secret Life of Bees by Sue Monk Kidd
+49. The Joy Luck Club by Amy Tan
+50. The Kitchen God's Wife by Amy Tan
+
+These recommendations are based on similar themes, writing styles, and genres to the books the user has enjoyed.

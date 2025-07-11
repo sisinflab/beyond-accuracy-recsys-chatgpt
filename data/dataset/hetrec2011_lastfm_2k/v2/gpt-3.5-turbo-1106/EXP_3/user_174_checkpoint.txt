@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 174:
+
+1. Death Cab for Cutie
+2. Jack Johnson
+3. Kings of Convenience
+4. Belle and Sebastian
+5. Kings of Leon
+6. Florence + the Machine
+7. KT Tunstall
+8. Modest Mouse
+9. The Beatles
+10. Muse
+11. Nas
+12. Imogen Heap
+13. Kanye West
+14. Vampire Weekend
+15. Pearl Jam
+16. Jason Mraz
+17. Zero 7
+18. Jewel
+19. Michael Bublé
+20. Stereophonics
+21. Kid Cudi
+22. De La Soul
+23. The Cure
+24. MF DOOM
+25. Eddie Vedder
+26. Flyleaf
+27. Lifehouse
+28. Ramones
+29. Pearl Jam
+30. Three Days Grace
+31. Dixie Chicks
+32. Taylor Swift
+33. Ryan Adams
+34. Common
+35. Flying Lotus
+36. Social Distortion
+37. Paramore
+38. Mobb Deep
+39. Michael Bublé
+40. Garth Brooks
+41. Mindless Self Indulgence
+42. J Dilla
+43. Stereophonics
+44. Kings of Convenience
+45. Modest Mouse
+46. De La Soul
+47. The Cure
+48. MF DOOM
+49. The Beatles
+50. Eddie Vedder
+
+These recommendations are based on the user's existing preferences and are designed to introduce new artists that align with their musical tastes.

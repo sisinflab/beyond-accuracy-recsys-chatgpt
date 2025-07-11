@@ -1,0 +1,54 @@
+Based on the user's preferences, here is a re-ranked list of books into a top-50 recommendations:
+
+1. Impulse (Hopkins novel)
+2. Identical (novel) by ['Ellen Hopkins']
+3. Glass (novel) by ['Ellen Hopkins']
+4. Burned (Hopkins novel) by ['Ellen Hopkins']
+5. Tricks (novel)
+6. Thirteen Reasons Why by ['Jay Asher']
+7. The Perks of Being a Wallflower by ['Stephen Chbosky']
+8. Wintergirls
+9. Crank (novel)
+10. The Haunting of Alaizabel Cray
+11. The Notebook (novel)
+12. Son of a Witch
+13. Feed (Anderson novel)
+14. Harry Potter
+15. It Happened to Nancy: By an Anonymous Teenager
+16. Vampire Kisses
+17. Vampire Academy (novel)
+18. Wuthering Heights
+19. The Secret Life of Bees
+20. Romeo and Juliet
+21. Impulse economy
+22. Catching Fire
+23. The Summoning (novel)
+24. Before I Die
+25. The Host (novel)
+26. Jay's Journal
+27. Lock and Key
+28. Chelsea Chelsea Bang Bang
+29. The Hunger Games
+30. Wings (Pike novel)
+31. The Zombie Survival Guide
+32. Under the Dome
+33. Cut (novel)
+34. Looking for Alaska
+35. Extremely Loud and Incredibly Close
+36. A Lion Among Men
+37. Brave New World
+38. The Chocolate War
+39. Martyn Pig
+40. Reviving Ophelia
+41. My Horizontal Life
+42. If I Stay
+43. Gingerbread (novel)
+44. Be More Chill
+45. The Catcher in the Rye
+46. Middlesex (novel)
+47. I Hope They Serve Beer in Hell
+48. Wake (Lisa McMann novel)
+49. City of Ashes
+50. The Bell Jar
+
+This re-ranked list takes into account the user's preferences and suggests books that are similar in theme or style to the ones they have previously enjoyed.

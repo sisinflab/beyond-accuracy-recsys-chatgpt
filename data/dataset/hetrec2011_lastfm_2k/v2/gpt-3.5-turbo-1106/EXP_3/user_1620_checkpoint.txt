@@ -1,0 +1,54 @@
+Based on user 1620's preferences, here are the top 50 recommendations for the given artists:
+
+1. Mogwai
+2. Sigur Rós
+3. Air
+4. Explosions in the Sky
+5. DJ Shadow
+6. Crystal Castles
+7. Deftones
+8. The Prodigy
+9. AFX
+10. Animal Collective
+11. Shpongle
+12. Venetian Snares
+13. Apparat
+14. Telefon Tel Aviv
+15. Plaid
+16. Tool
+17. Arovane
+18. Björk
+19. Pink Floyd
+20. Aphex Twin
+21. Cut Copy
+22. Tycho
+23. Lady Gaga
+24. Pixies
+25. Ólafur Arnalds
+26. Parov Stelar
+27. Blonde Redhead
+28. José González
+29. Elbow
+30. Kettel
+31. The Fall of Troy
+32. M83
+33. Groove Armada
+34. The Velvet Underground
+35. Enigma
+36. The Album Leaf
+37. Peter Bjorn and John
+38. Four Tet
+39. Billie Holiday
+40. Nina Simone
+41. The Mountain Goats
+42. The Cure
+43. Isis
+44. Autechre
+45. Fleet Foxes
+46. Bonobo
+47. Beirut
+48. Matt & Kim
+49. The Flashbulb
+50. Weezer
+
+These recommendations are based on similar genres and artists liked by user 1620.

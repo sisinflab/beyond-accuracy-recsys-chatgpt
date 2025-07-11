@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Perks of Being a Wallflower by Stephen Chbosky
+2. Thirteen Reasons Why by Jay Asher
+3. Wintergirls by Laurie Halse Anderson
+4. Speak by Laurie Halse Anderson
+5. Identical by Ellen Hopkins
+6. Crank by Ellen Hopkins
+7. Glass by Ellen Hopkins
+8. Impulse by Ellen Hopkins
+9. Burned by Ellen Hopkins
+10. Go Ask Alice by Beatrice Sparks
+11. Annie's Baby by Beatrice Sparks
+12. It Happened to Nancy: By an Anonymous Teenager by Beatrice Sparks
+13. The Harry Potter series by J.K. Rowling
+14. The Hunger Games series by Suzanne Collins
+15. Divergent by Veronica Roth
+16. The Maze Runner series by James Dashner
+17. The Fault in Our Stars by John Green
+18. Looking for Alaska by John Green
+19. Paper Towns by John Green
+20. Eleanor & Park by Rainbow Rowell
+21. Fangirl by Rainbow Rowell
+22. City of Bones by Cassandra Clare
+23. City of Ashes by Cassandra Clare
+24. City of Glass by Cassandra Clare
+25. City of Fallen Angels by Cassandra Clare
+26. City of Lost Souls by Cassandra Clare
+27. City of Heavenly Fire by Cassandra Clare
+28. The Summoning by Kelley Armstrong
+29. The Awakening by Kelley Armstrong
+30. The Reckoning by Kelley Armstrong
+31. Bitten by Kelley Armstrong
+32. Stolen by Kelley Armstrong
+33. Dime Store Magic by Kelley Armstrong
+34. Industrial Magic by Kelley Armstrong
+35. Haunted by Kelley Armstrong
+36. Broken by Kelley Armstrong
+37. No Humans Involved by Kelley Armstrong
+38. Personal Demon by Kelley Armstrong
+39. Living with the Dead by Kelley Armstrong
+40. Frostbitten by Kelley Armstrong
+41. Waking the Witch by Kelley Armstrong
+42. Spell Bound by Kelley Armstrong
+43. Thirteen by Kelley Armstrong
+44. Omens by Kelley Armstrong
+45. Visions by Kelley Armstrong
+46. Deceptions by Kelley Armstrong
+47. Betrayals by Kelley Armstrong
+48. Rituals by Kelley Armstrong
+49. Portents by Kelley Armstrong
+50. Otherworld Nights by Kelley Armstrong
+
+These recommendations are based on the user's interest in young adult fiction, realistic fiction, and books dealing with sensitive topics.

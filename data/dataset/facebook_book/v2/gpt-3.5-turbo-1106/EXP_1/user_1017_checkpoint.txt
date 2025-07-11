@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. Inferno by Dan Brown
+3. Deception Point by Dan Brown
+4. Digital Fortress by Dan Brown
+5. The Girl with the Dragon Tattoo by Stieg Larsson
+6. The Girl Who Played with Fire by Stieg Larsson
+7. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+8. The Hunger Games by Suzanne Collins
+9. Catching Fire by Suzanne Collins
+10. Mockingjay by Suzanne Collins
+11. Divergent by Veronica Roth
+12. Insurgent by Veronica Roth
+13. Allegiant by Veronica Roth
+14. The Maze Runner by James Dashner
+15. The Scorch Trials by James Dashner
+16. The Death Cure by James Dashner
+17. The Host by Stephenie Meyer
+18. The Chemist by Stephenie Meyer
+19. The Giver by Lois Lowry
+20. Gathering Blue by Lois Lowry
+21. Messenger by Lois Lowry
+22. Son by Lois Lowry
+23. Uglies by Scott Westerfeld
+24. Pretties by Scott Westerfeld
+25. Specials by Scott Westerfeld
+26. Extras by Scott Westerfeld
+27. The Mortal Instruments: City of Bones by Cassandra Clare
+28. City of Fallen Angels by Cassandra Clare
+29. City of Lost Souls by Cassandra Clare
+30. City of Heavenly Fire by Cassandra Clare
+31. Evernight by Claudia Gray
+32. Stargazer by Claudia Gray
+33. Hourglass by Claudia Gray
+34. Afterlife by Claudia Gray
+35. Blue Bloods by Melissa de la Cruz
+36. Masquerade by Melissa de la Cruz
+37. Revelations by Melissa de la Cruz
+38. The Van Alen Legacy by Melissa de la Cruz
+39. Marked by P.C. Cast and Kristin Cast
+40. Betrayed by P.C. Cast and Kristin Cast
+41. Chosen by P.C. Cast and Kristin Cast
+42. Untamed by P.C. Cast and Kristin Cast
+43. House of Night Series by P.C. Cast and Kristin Cast
+44. The Vampire Diaries: The Awakening by L.J. Smith
+45. The Vampire Diaries: The Struggle by L.J. Smith
+46. The Vampire Diaries: The Fury by L.J. Smith
+47. The Vampire Diaries: Dark Reunion by L.J. Smith
+48. The Vampire Diaries: The Return: Nightfall by L.J. Smith
+49. The Vampire Diaries: The Return: Shadow Souls by L.J. Smith
+50. The Vampire Diaries: The Return: Midnight by L.J. Smith
+
+These recommendations are based on the user's interest in books with similar themes and genres.

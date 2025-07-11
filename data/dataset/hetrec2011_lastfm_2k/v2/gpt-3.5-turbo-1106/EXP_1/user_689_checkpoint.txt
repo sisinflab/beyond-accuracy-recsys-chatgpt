@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Demi Lovato
+2. Selena Gomez
+3. Ariana Grande
+4. Justin Bieber
+5. Lady Gaga
+6. Beyoncé
+7. Nicki Minaj
+8. Christina Aguilera
+9. Kelly Clarkson
+10. Pink
+11. Demi Lovato
+12. Selena Gomez
+13. Ariana Grande
+14. Justin Bieber
+15. Lady Gaga
+16. Beyoncé
+17. Nicki Minaj
+18. Christina Aguilera
+19. Kelly Clarkson
+20. Pink
+21. Demi Lovato
+22. Selena Gomez
+23. Ariana Grande
+24. Justin Bieber
+25. Lady Gaga
+26. Beyoncé
+27. Nicki Minaj
+28. Christina Aguilera
+29. Kelly Clarkson
+30. Pink
+31. Demi Lovato
+32. Selena Gomez
+33. Ariana Grande
+34. Justin Bieber
+35. Lady Gaga
+36. Beyoncé
+37. Nicki Minaj
+38. Christina Aguilera
+39. Kelly Clarkson
+40. Pink
+41. Demi Lovato
+42. Selena Gomez
+43. Ariana Grande
+44. Justin Bieber
+45. Lady Gaga
+46. Beyoncé
+47. Nicki Minaj
+48. Christina Aguilera
+49. Kelly Clarkson
+50. Pink
+
+These recommendations are based on the user's liking of similar artists and genres.

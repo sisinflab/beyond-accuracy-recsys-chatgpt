@@ -1,0 +1,14 @@
+Based on user 336's preferences, here are the top 10 recommendations from the given list of books:
+
+1. Frankenstein by Mary Shelley
+2. Moby-Dick by Herman Melville
+3. Madame Bovary by Gustave Flaubert
+4. The Communist Manifesto by Karl Marx, Friedrich Engels
+5. The Jungle Book by Rudyard Kipling
+6. New Arabian Nights by Robert Louis Stevenson
+7. Silas Marner by George Eliot
+8. The Scarlet Letter
+9. The Lord of the Rings
+10. The Hobbit
+
+These recommendations are based on similar themes, genres, and authors to the books that user 336 likes.

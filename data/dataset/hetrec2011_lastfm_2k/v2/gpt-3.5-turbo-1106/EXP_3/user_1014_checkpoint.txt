@@ -1,0 +1,54 @@
+Based on user 1014's preferences, here is a re-ranked list of the artists you provided as top-50 recommendations:
+
+1. Michael Jackson
+2. The Beatles
+3. Madonna
+4. Justin Bieber
+5. David Guetta
+6. Ke$ha
+7. Willow Smith
+8. Backstreet Boys
+9. Pitbull
+10. Miley Cyrus
+11. Nicki Minaj
+12. Bruno Mars
+13. Alicia Keys
+14. Akon
+15. Coldplay
+16. Amy Winehouse
+17. Selena Gomez & the Scene
+18. Chris Brown
+19. Lil' Wayne
+20. Katy Perry
+21. Shakira
+22. Jennifer Lopez
+23. Britney Spears
+24. Robbie Williams
+25. P!nk
+26. Christina Aguilera
+27. Lady Gaga
+28. Rihanna
+29. David Archuleta
+30. Eurythmics
+31. ABBA
+32. Elvis Presley
+33. Sade
+34. Cher
+35. Blondie
+36. R.E.M.
+37. Kelly Clarkson
+38. Moby
+39. Anathema
+40. Evanescence
+41. Marilyn Manson
+42. Cyndi Lauper
+43. Green Day
+44. Red Hot Chili Peppers
+45. Taylor Swift
+46. a-ha
+47. She & Him
+48. The Mamas & The Papas
+49. David Bowie
+50. Beyoncé
+
+This re-ranked list is based on the similarity of the recommended artists to the ones liked by user 1014.

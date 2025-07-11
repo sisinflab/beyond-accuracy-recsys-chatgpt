@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 28:
+
+1. Depeche Mode
+2. New Order
+3. Duran Duran
+4. Pet Shop Boys
+5. Erasure
+6. Yazoo
+7. Simple Minds
+8. Tears for Fears
+9. Spandau Ballet
+10. ABC
+11. The Human League
+12. Thompson Twins
+13. Nik Kershaw
+14. Talk Talk
+15. Ultravox
+16. Jack Johnson
+17. Groove Coverage
+18. Heaven 17
+19. U2
+20. The Beatles
+21. Poets of the Fall
+22. The Beach Boys
+23. Martin L. Gore
+24. Frankie Goes to Hollywood
+25. Roxy Music
+26. De/Vision
+27. XTC
+28. Blondie
+29. Fleetwood Mac
+30. Icehouse
+31. The Police
+32. Michael Jackson
+33. Bryan Adams
+34. Camouflage
+35. John Foxx
+36. Oingo Boingo
+37. George Michael
+38. David Bowie
+39. Thomas Dolby
+40. Coldplay
+41. Howard Jones
+42. Recoil
+43. Gary Numan
+44. Three Days Grace
+45. Sparks
+46. Iron Maiden
+47. Orchestral Manoeuvres in the Dark
+48. Dave Gahan
+49. Madonna
+50. Billy Idol
+
+These recommendations are based on the user's existing preferences and are designed to introduce new artists that align with their musical tastes.

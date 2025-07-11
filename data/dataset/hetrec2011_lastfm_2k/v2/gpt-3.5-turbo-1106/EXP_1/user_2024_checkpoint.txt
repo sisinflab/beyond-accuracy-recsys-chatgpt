@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Joy Division
+2. The Cure
+3. New Order
+4. The Smiths
+5. The National
+6. White Lies
+7. The Strokes
+8. Arctic Monkeys
+9. Florence + The Machine
+10. The xx
+11. The War on Drugs
+12. Foals
+13. Editors
+14. The Killers
+15. Interpol
+16. Radiohead
+17. U2
+18. Muse
+19. Bloc Party
+20. Kings of Leon
+21. Arcade Fire
+22. The Bravery
+23. Silversun Pickups
+24. Coldplay
+25. Kaiser Chiefs
+26. Thom Yorke
+27. She Wants Revenge
+28. The Rakes
+29. Beck
+30. Placebo
+31. The Futureheads
+32. Pet Shop Boys
+33. Franz Ferdinand
+34. The Maccabees
+35. We Are Scientists
+36. Keane
+37. Elbow
+38. Depeche Mode
+39. Nine Inch Nails
+40. The Horrors
+41. The Vaccines
+42. The Libertines
+43. Kasabian
+44. The Kooks
+45. Vampire Weekend
+46. Two Door Cinema Club
+47. Bombay Bicycle Club
+48. The Wombats
+49. The Fratellis
+50. The Hives
+
+These recommendations are based on the user's liking for similar artists and genres.

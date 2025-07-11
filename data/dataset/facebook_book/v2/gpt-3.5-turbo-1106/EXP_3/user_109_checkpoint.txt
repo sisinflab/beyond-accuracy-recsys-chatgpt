@@ -1,0 +1,54 @@
+Based on the user's preferences and the list of books provided, here are the top 50 recommendations for user 109:
+
+1. Harry Potter (series)
+2. The Last Song (novel)
+3. The Notebook (novel)
+4. Thirteen Reasons Why
+5. Pride and Prejudice
+6. Holes (novel)
+7. The Chronicles of Narnia: Prince Caspian
+8. The Zombie Survival Guide
+9. Diary of a Wimpy Kid (series)
+10. Ninth Grade Slays
+11. The Lord of the Rings
+12. Twilight (series)
+13. Jurassic Park (novel)
+14. Angels & Demons
+15. The Giver
+16. Eragon
+17. A Thousand Splendid Suns
+18. The Catcher in the Rye
+19. Matilda (novel)
+20. The Secret (book)
+21. Fantastic Beasts and Where to Find Them
+22. The Book of Lost Things
+23. Mockingjay
+24. The Tale of Despereaux
+25. Miss Christina
+26. Oliver Twist
+27. The Diary of a Young Girl
+28. Incarceron
+29. The Pendragon Adventure
+30. Dear Dumb Diary
+31. Impulse (Hopkins novel)
+32. Identical (novel)
+33. Les Misérables
+34. The Butter Battle Book
+35. Tuck Everlasting
+36. Silas Marner
+37. Brain Droppings
+38. Freakonomics
+39. SuperFreakonomics
+40. Impulse economy
+41. Collected Ghost Stories
+42. Stargirl (novel)
+43. Quidditch Through the Ages
+44. Uzumaki
+45. Jabberwocky
+46. Charmed (comics)
+47. Macbeth
+48. Evermore (book)
+49. Mythology (book)
+50. Oh, the Places You'll Go!
+
+These recommendations are based on the user's existing preferences and the similarity of the recommended books to the ones the user already likes.

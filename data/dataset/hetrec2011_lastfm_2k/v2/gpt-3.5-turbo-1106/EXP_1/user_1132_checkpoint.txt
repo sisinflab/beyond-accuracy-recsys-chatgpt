@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Lady Gaga
+2. Ariana Grande
+3. Katy Perry
+4. Selena Gomez
+5. Demi Lovato
+6. Christina Aguilera
+7. Pink
+8. Avril Lavigne
+9. Shakira
+10. Justin Timberlake
+11. Bruno Mars
+12. One Direction
+13. Justin Bieber
+14. Selena Gomez & The Scene
+15. Demi Lovato
+16. Christina Aguilera
+17. Pink
+18. Avril Lavigne
+19. Shakira
+20. Justin Timberlake
+21. Bruno Mars
+22. One Direction
+23. Justin Bieber
+24. Selena Gomez & The Scene
+25. Demi Lovato
+26. Christina Aguilera
+27. Pink
+28. Avril Lavigne
+29. Shakira
+30. Justin Timberlake
+31. Bruno Mars
+32. One Direction
+33. Justin Bieber
+34. Selena Gomez & The Scene
+35. Demi Lovato
+36. Christina Aguilera
+37. Pink
+38. Avril Lavigne
+39. Shakira
+40. Justin Timberlake
+41. Bruno Mars
+42. One Direction
+43. Justin Bieber
+44. Selena Gomez & The Scene
+45. Demi Lovato
+46. Christina Aguilera
+47. Pink
+48. Avril Lavigne
+49. Shakira
+50. Justin Timberlake
+
+These recommendations are based on the user's liking of pop and contemporary artists and are aimed at providing a diverse range of similar artists for the user to explore.

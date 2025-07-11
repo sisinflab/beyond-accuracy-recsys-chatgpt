@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pixies
+2. Modest Mouse
+3. The Flaming Lips
+4. Interpol
+5. Queens of the Stone Age
+6. The Strokes
+7. The National
+8. Arctic Monkeys
+9. PJ Harvey
+10. Sonic Youth
+11. Death Cab for Cutie
+12. The White Stripes
+13. Vampire Weekend
+14. The Black Keys
+15. Tame Impala
+16. Spoon
+17. LCD Soundsystem
+18. Grizzly Bear
+19. The War on Drugs
+20. Fleet Foxes
+21. My Bloody Valentine
+22. Pavement
+23. Wilco
+24. Yo La Tengo
+25. Neutral Milk Hotel
+26. The Shins
+27. Belle and Sebastian
+28. The Decemberists
+29. MGMT
+30. Yeah Yeah Yeahs
+31. TV on the Radio
+32. The Kills
+33. The xx
+34. Foals
+35. Beach House
+36. St. Vincent
+37. Father John Misty
+38. Mac DeMarco
+39. Courtney Barnett
+40. Car Seat Headrest
+41. Mitski
+42. Angel Olsen
+43. Parquet Courts
+44. King Krule
+45. Sharon Van Etten
+46. Big Thief
+47. Snail Mail
+48. Soccer Mommy
+49. Japanese Breakfast
+50. Phoebe Bridgers
+
+These recommendations are based on the user's liking of similar artists and genres.

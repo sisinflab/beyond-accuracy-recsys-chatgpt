@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Catcher in the Rye by J.D. Salinger
+2. Less Than Zero by Bret Easton Ellis
+3. The Virgin Suicides by Jeffrey Eugenides
+4. The Picture of Dorian Gray by Oscar Wilde
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Secret History by Donna Tartt
+7. One Flew Over the Cuckoo's Nest by Ken Kesey
+8. Wuthering Heights by Emily Brontë
+9. The Handmaid's Tale by Margaret Atwood
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. The Stranger by Albert Camus
+12. Lolita by Vladimir Nabokov
+13. The Road by Cormac McCarthy
+14. The Glass Castle by Jeannette Walls
+15. The Perks of Being a Wallflower by Stephen Chbosky
+16. The Goldfinch by Donna Tartt
+17. The Bell Jar by Sylvia Plath
+18. The Rules of Attraction by Bret Easton Ellis
+19. Franny and Zooey by J.D. Salinger
+20. A Tree Grows in Brooklyn by Betty Smith
+21. Bright Lights, Big City by Jay McInerney
+22. The Cask of Amontillado by Edgar Allan Poe
+23. Frankenstein by Mary Shelley
+24. The Hours by Michael Cunningham
+25. The Masque of the Red Death by Edgar Allan Poe
+26. Breakfast of Champions by Kurt Vonnegut
+27. Speak by Laurie Halse Anderson
+28. The Girls' Guide to Hunting and Fishing by Melissa Bank
+29. The Road by Cormac McCarthy
+30. The Picture of Dorian Gray by Oscar Wilde
+31. The Great Gatsby by F. Scott Fitzgerald
+32. The Secret History by Donna Tartt
+33. One Flew Over the Cuckoo's Nest by Ken Kesey
+34. Wuthering Heights by Emily Brontë
+35. The Handmaid's Tale by Margaret Atwood
+36. Slaughterhouse-Five by Kurt Vonnegut
+37. The Stranger by Albert Camus
+38. Lolita by Vladimir Nabokov
+39. The Glass Castle by Jeannette Walls
+40. The Perks of Being a Wallflower by Stephen Chbosky
+41. The Goldfinch by Donna Tartt
+42. The Catcher in the Rye by J.D. Salinger
+43. Less Than Zero by Bret Easton Ellis
+44. The Virgin Suicides by Jeffrey Eugenides
+45. The Picture of Dorian Gray by Oscar Wilde
+46. The Great Gatsby by F. Scott Fitzgerald
+47. The Secret History by Donna Tartt
+48. One Flew Over the Cuckoo's Nest by Ken Kesey
+49. Wuthering Heights by Emily Brontë
+50. The Handmaid's Tale by Margaret Atwood
+
+These recommendations are based on the user's liking of similar books and authors.

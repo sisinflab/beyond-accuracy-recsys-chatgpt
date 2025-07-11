@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. The Strokes
+2. The National
+3. Tame Impala
+4. Foals
+5. The Kooks
+6. Kings of Leon
+7. Modest Mouse
+8. The Killers
+9. Radiohead
+10. Florence + The Machine
+11. The Black Keys
+12. Franz Ferdinand
+13. The Vaccines
+14. Bloc Party
+15. The Libertines
+16. MGMT
+17. Death Cab for Cutie
+18. The xx
+19. Two Door Cinema Club
+20. Phoenix
+21. The Wombats
+22. The 1975
+23. Arctic Monkeys (if not already in the user's library)
+24. Beirut (if not already in the user's library)
+25. The Fratellis (if not already in the user's library)
+26. Interpol (if not already in the user's library)
+27. The Shins (if not already in the user's library)
+28. Snow Patrol (if not already in the user's library)
+29. Placebo (if not already in the user's library)
+30. Yeah Yeah Yeahs (if not already in the user's library)
+31. Arcade Fire (if not already in the user's library)
+32. Laura Marling (if not already in the user's library)
+33. The Last Shadow Puppets (if not already in the user's library)
+34. Black Rebel Motorcycle Club (if not already in the user's library)
+35. Grizzly Bear (if not already in the user's library)
+36. Dirty Pretty Things (if not already in the user's library)
+37. The Cribs (if not already in the user's library)
+38. Bright Eyes (if not already in the user's library)
+39. The Futureheads (if not already in the user's library)
+40. Mallu Magalhães (if not already in the user's library)
+41. The Beatles (if not already in the user's library)
+42. The Smashing Pumpkins (if not already in the user's library)
+43. Sufjan Stevens (if not already in the user's library)
+44. Damien Rice (if not already in the user's library)
+45. Regina Spektor (if not already in the user's library)
+46. Los Hermanos (if not already in the user's library)
+47. Legião Urbana (if not already in the user's library)
+48. Weezer (if not already in the user's library)
+49. Vampire Weekend (if not already in the user's library)
+50. Blonde Redhead (if not already in the user's library)
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists and bands that the user may enjoy.

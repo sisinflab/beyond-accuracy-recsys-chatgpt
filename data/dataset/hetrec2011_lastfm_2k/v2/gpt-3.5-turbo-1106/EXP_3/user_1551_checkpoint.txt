@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for the user:
+
+1. Depeche Mode
+2. VNV Nation
+3. Rammstein
+4. The Sisters of Mercy
+5. The Cure
+6. The Birthday Massacre
+7. Blutengel
+8. Diary of Dreams
+9. The Crüxshadows
+10. Wolfsheim
+11. KMFDM
+12. Combichrist
+13. Apoptygma Berzerk
+14. Assemblage 23
+15. Type O Negative
+16. The Prodigy
+17. Skinny Puppy
+18. Deathstars
+19. Mindless Self Indulgence
+20. She Wants Revenge
+21. AFI
+22. Beck
+23. The Smashing Pumpkins
+24. Radiohead
+25. Pink Floyd
+26. Metallica
+27. Green Day
+28. The Offspring
+29. The Beatles
+30. Within Temptation
+31. Moby
+32. Björk
+33. Sneaker Pimps
+34. Echo & The Bunnymen
+35. Akira Yamaoka
+36. Three Days Grace
+37. Hocico
+38. HIM
+39. Oomph!
+40. Lykke Li
+41. Eisbrecher
+42. Stone Sour
+43. Lady Gaga
+44. De/Vision
+45. Ayria
+46. Christina Aguilera
+47. Killing Joke
+48. Billy Idol
+49. The Flashbulb
+50. And One
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of similar artists for the user to explore.

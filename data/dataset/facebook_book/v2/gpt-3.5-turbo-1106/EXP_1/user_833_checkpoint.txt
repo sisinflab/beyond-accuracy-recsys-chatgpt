@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Twilight by Stephenie Meyer
+2. Hush, Hush by Becca Fitzpatrick
+3. City of Bones by Cassandra Clare
+4. Evermore by Alyson Noël
+5. Shiver by Maggie Stiefvater
+6. Beautiful Creatures by Kami Garcia and Margaret Stohl
+7. Vampire Academy by Richelle Mead
+8. Wicked Lovely by Melissa Marr
+9. The Mortal Instruments series by Cassandra Clare
+10. The Vampire Diaries by L.J. Smith
+11. The Iron King by Julie Kagawa
+12. The Immortals series by Alyson Noël
+13. The Dark Divine by Bree Despain
+14. Unearthly by Cynthia Hand
+15. The Maze Runner by James Dashner
+16. The Giver by Lois Lowry
+17. Uglies by Scott Westerfeld
+18. Delirium by Lauren Oliver
+19. Matched by Ally Condie
+20. Divergent by Veronica Roth
+21. The Selection by Kiera Cass
+22. Legend by Marie Lu
+23. The 5th Wave by Rick Yancey
+24. Red Queen by Victoria Aveyard
+25. The Lunar Chronicles by Marissa Meyer
+26. The Darkest Minds by Alexandra Bracken
+27. The Testing by Joelle Charbonneau
+28. The Knife of Never Letting Go by Patrick Ness
+29. The 100 by Kass Morgan
+30. The Uglies series by Scott Westerfeld
+31. The Hunger Games series by Suzanne Collins
+32. The Divergent series by Veronica Roth
+33. The Maze Runner series by James Dashner
+34. The Giver series by Lois Lowry
+35. The Selection series by Kiera Cass
+36. The Legend series by Marie Lu
+37. The 5th Wave series by Rick Yancey
+38. The Red Queen series by Victoria Aveyard
+39. The Lunar Chronicles series by Marissa Meyer
+40. The Darkest Minds series by Alexandra Bracken
+41. The Testing series by Joelle Charbonneau
+42. The Knife of Never Letting Go series by Patrick Ness
+43. The 100 series by Kass Morgan
+44. The Uglies series by Scott Westerfeld
+45. The Hunger Games series by Suzanne Collins
+46. The Divergent series by Veronica Roth
+47. The Maze Runner series by James Dashner
+48. The Giver series by Lois Lowry
+49. The Selection series by Kiera Cass
+50. The Legend series by Marie Lu
+
+These recommendations are based on the user's interest in fantasy, supernatural, and dystopian novels.

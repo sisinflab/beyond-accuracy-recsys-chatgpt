@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. John Mayer
+2. Eminem
+3. Rise Against
+4. Dr. Dre
+5. NOFX
+6. O Rappa
+7. Raimundos
+8. Pearl Jam
+9. The Strokes
+10. Foo Fighters
+11. Beck
+12. Sublime
+13. Incubus
+14. The Offspring
+15. Green Day
+16. The Killers
+17. Muse
+18. Radiohead
+19. System of a Down
+20. Linkin Park
+21. The White Stripes
+22. Queens of the Stone Age
+23. The Black Keys
+24. Kings of Leon
+25. The Smashing Pumpkins
+26. Weezer
+27. The Hives
+28. Interpol
+29. Bloc Party
+30. The Vines
+31. The Libertines
+32. The Kooks
+33. The Fratellis
+34. Arctic Monkeys
+35. The Raconteurs
+36. The Bravery
+37. The Wombats
+38. The Vaccines
+39. The Kooks
+40. The Strokes
+41. The Hives
+42. The Libertines
+43. The Fratellis
+44. The Vines
+45. The Raconteurs
+46. The Bravery
+47. The Wombats
+48. The Vaccines
+49. The Kooks
+50. The Strokes
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. All Time Low
+2. Fall Out Boy
+3. Paramore
+4. 30 Seconds to Mars
+5. Good Charlotte
+6. The All-American Rejects
+7. Yellowcard
+8. We The Kings
+9. The Used
+10. Blink-182
+11. Jimmy Eat World
+12. Avril Lavigne
+13. The Red Jumpsuit Apparatus
+14. Taking Back Sunday
+15. Dashboard Confessional
+16. AFI
+17. Simple Creatures
+18. New Found Glory
+19. The Maine
+20. Mayday Parade
+21. The Starting Line
+22. Motion City Soundtrack
+23. Story of the Year
+24. Silverstein
+25. The Ataris
+26. Sugarcult
+27. Something Corporate
+28. The Early November
+29. Anberlin
+30. The Get Up Kids
+31. Senses Fail
+32. Hawthorne Heights
+33. Armor for Sleep
+34. The Wonder Years
+35. Set It Off
+36. State Champs
+37. Real Friends
+38. Knuckle Puck
+39. Neck Deep
+40. Seaway
+41. With Confidence
+42. Waterparks
+43. Stand Atlantic
+44. Grayscale
+45. As It Is
+46. ROAM
+47. Trash Boat
+48. Broadside
+49. WSTR
+50. Bearings
+
+These recommendations are based on the user's liking of similar artists and genres.

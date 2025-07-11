@@ -1,0 +1,33 @@
+Based on the user's preferences, here is a re-ranked list of the artists into a top-50 recommendations:
+
+1. My Chemical Romance
+2. Paramore
+3. 30 Seconds to Mars
+4. Bullet for My Valentine
+5. Escape The Fate
+6. Mindless Self Indulgence
+7. The Used
+8. Breaking Benjamin
+9. Angels & Airwaves
+10. Slipknot
+11. Papa Roach
+12. Billy Talent
+13. Good Charlotte
+14. Nickelback
+15. Alter Bridge
+16. Theory of a Deadman
+17. Lacuna Coil
+18. 3 Doors Down
+19. Megadeth
+20. In Flames
+21. The 69 Eyes
+22. Metallica
+23. Daughtry
+24. Goo Goo Dolls
+25. Creed
+26. Keith Urban
+27. Sarah Brightman
+
+Based on the user's preferences, the following artists from the provided list are not included in the top 50 recommendations: Britney Spears, Depeche Mode, Lady Gaga, Christina Aguilera, Madonna, Rihanna, Shakira, The Beatles, Katy Perry, Avril Lavigne, Taylor Swift, Evanescence, Glee Cast, Beyoncé, U2, Muse, Pink Floyd, Kylie Minogue, Miley Cyrus, Radiohead, Ke$ha, Duran Duran, Coldplay, Blur, Arctic Monkeys, Placebo, The Killers, Nirvana, Iron Maiden, Amy Winehouse, Led Zeppelin, Michael Jackson, Pearl Jam, a-ha, Björk, System of a Down, Daft Punk, Nine Inch Nails, Linkin Park, Kelly Clarkson, All Time Low, P!nk, Avenged Sevenfold, Black Eyed Peas, Green Day, The Cure.
+
+If you have any specific preferences or additional information about the user's music taste, feel free to share and I can further refine the recommendations.

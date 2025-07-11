@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Flowers in the Attic by V. C. Andrews
+2. Petals on the Wind by V. C. Andrews
+3. If There Be Thorns by V. C. Andrews
+4. A Handful of Dust by Evelyn Waugh
+5. Brave New World by Aldous Huxley
+6. Animal Farm by George Orwell
+7. 1984 by George Orwell
+8. Pride and Prejudice by Jane Austen
+9. Sense and Sensibility by Jane Austen
+10. Persuasion by Jane Austen
+11. New Moon by Stephenie Meyer
+12. Eclipse by Stephenie Meyer
+13. Breaking Dawn by Stephenie Meyer
+14. Wuthering Heights by Emily Brontë
+15. The Tenant of Wildfell Hall by Anne Brontë
+16. The Picture of Dorian Gray by Oscar Wilde
+17. The House of Mirth by Edith Wharton
+18. The Age of Innocence by Edith Wharton
+19. The Custom of the Country by Edith Wharton
+20. The Scarlet Pimpernel by Baroness Orczy
+21. The House of Seven Gables by Nathaniel Hawthorne
+22. The Blithedale Romance by Nathaniel Hawthorne
+23. The Marble Faun by Nathaniel Hawthorne
+24. Just Listen by Sarah Dessen
+25. The Truth About Forever by Sarah Dessen
+26. Lock and Key by Sarah Dessen
+27. The Great Gatsby by F. Scott Fitzgerald
+28. To Kill a Mockingbird by Harper Lee
+29. The Catcher in the Rye by J.D. Salinger
+30. The Bell Jar by Sylvia Plath
+31. Rebecca by Daphne du Maurier
+32. My Cousin Rachel by Daphne du Maurier
+33. Jamaica Inn by Daphne du Maurier
+34. The Secret History by Donna Tartt
+35. The Goldfinch by Donna Tartt
+36. The Little Friend by Donna Tartt
+37. The Night Circus by Erin Morgenstern
+38. The Thirteenth Tale by Diane Setterfield
+39. The Shadow of the Wind by Carlos Ruiz Zafón
+40. The Angel's Game by Carlos Ruiz Zafón
+41. The Prisoner of Heaven by Carlos Ruiz Zafón
+42. The Book Thief by Markus Zusak
+43. All the Light We Cannot See by Anthony Doerr
+44. The Nightingale by Kristin Hannah
+45. The Alice Network by Kate Quinn
+46. Lilac Girls by Martha Hall Kelly
+47. The Guernsey Literary and Potato Peel Pie Society by Mary Ann Shaffer and Annie Barrows
+48. The Secret Life of Bees by Sue Monk Kidd
+49. The Help by Kathryn Stockett
+50. The Color Purple by Alice Walker
+
+These recommendations are based on similar themes, genres, and authors to the books that user 629 likes.

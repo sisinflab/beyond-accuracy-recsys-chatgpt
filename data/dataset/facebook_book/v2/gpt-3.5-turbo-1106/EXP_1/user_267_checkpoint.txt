@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Screwtape Letters by C. S. Lewis
+2. Mere Christianity by C. S. Lewis
+3. The Chronicles of Narnia by C. S. Lewis
+4. 1984 by George Orwell
+5. Animal Farm by George Orwell
+6. The Catcher in the Rye by J.D. Salinger
+7. To Kill a Mockingbird by Harper Lee
+8. The Grapes of Wrath by John Steinbeck
+9. The Brothers Karamazov by Fyodor Dostoyevsky
+10. War and Peace by Leo Tolstoy
+11. Anna Karenina by Leo Tolstoy
+12. The Picture of Dorian Gray by Oscar Wilde
+13. The Importance of Being Earnest by Oscar Wilde
+14. The Stranger by Albert Camus
+15. One Hundred Years of Solitude by Gabriel Garcia Marquez
+16. Love in the Time of Cholera by Gabriel Garcia Marquez
+17. The Alchemist by Paulo Coelho
+18. The Kite Runner by Khaled Hosseini
+19. A Thousand Splendid Suns by Khaled Hosseini
+20. The Book Thief by Markus Zusak
+21. The Night Circus by Erin Morgenstern
+22. The Secret History by Donna Tartt
+23. The Goldfinch by Donna Tartt
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Name of the Wind by Patrick Rothfuss
+26. The Lies of Locke Lamora by Scott Lynch
+27. The Girl with the Dragon Tattoo by Stieg Larsson
+28. The Help by Kathryn Stockett
+29. The Secret Life of Bees by Sue Monk Kidd
+30. The Poisonwood Bible by Barbara Kingsolver
+31. The Glass Castle by Jeannette Walls
+32. The Lovely Bones by Alice Sebold
+33. The Time Traveler's Wife by Audrey Niffenegger
+34. The Handmaid's Tale by Margaret Atwood
+35. The Road by Cormac McCarthy
+36. The Martian by Andy Weir
+37. Ready Player One by Ernest Cline
+38. The Hunger Games by Suzanne Collins
+39. Divergent by Veronica Roth
+40. The Maze Runner by James Dashner
+41. The Giver by Lois Lowry
+42. The Fault in Our Stars by John Green
+43. Looking for Alaska by John Green
+44. Eleanor & Park by Rainbow Rowell
+45. Fangirl by Rainbow Rowell
+46. Me Before You by Jojo Moyes
+47. The Nightingale by Kristin Hannah
+48. All the Light We Cannot See by Anthony Doerr
+49. The Book of Lost Things by John Connolly
+50. The Thirteenth Tale by Diane Setterfield
+
+These recommendations are based on the user's interest in classic literature, dystopian fiction, and contemporary novels.

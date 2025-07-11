@@ -1,0 +1,54 @@
+Based on user 2001's preferences, here are the top-50 recommendations for the user:
+
+1. Megadeth
+2. Slayer
+3. Exodus
+4. Testament
+5. Cannibal Corpse
+6. In Flames
+7. Machine Head
+8. Helloween
+9. Killswitch Engage
+10. Manowar
+11. Dream Theater
+12. Black Sabbath
+13. Iron Maiden
+14. Judas Priest
+15. Architects
+16. Overkill
+17. Deftones
+18. Avenged Sevenfold
+19. Angra
+20. Sonata Arctica
+21. Led Zeppelin
+22. Pink Floyd
+23. Radiohead
+24. The Mars Volta
+25. The Prodigy
+26. Nine Inch Nails
+27. Tool
+28. Michael Jackson
+29. Stevie Wonder
+30. Jimi Hendrix
+31. King Diamond
+32. Explosions in the Sky
+33. Infected Mushroom
+34. Incubus
+35. The Offspring
+36. Pavement
+37. Sublime
+38. Noize MC
+39. Bloodhound Gang
+40. Gogol Bordello
+41. The Dillinger Escape Plan
+42. Suicide Silence
+43. Alexisonfire
+44. Despised Icon
+45. Ennio Morricone
+46. Motörhead
+47. Pink Floyd
+48. Led Zeppelin
+49. Radiohead
+50. The Mars Volta
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

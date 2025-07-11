@@ -1,0 +1,54 @@
+Based on user 456's preferences, here are the top 50 recommendations for them:
+
+1. My Chemical Romance
+2. Paramore
+3. Panic! At the Disco
+4. Slipknot
+5. Rise Against
+6. Nirvana
+7. Sum 41
+8. Ozzy Osbourne
+9. Godsmack
+10. Nightwish
+11. The Beatles
+12. Justin Bieber
+13. Katy Perry
+14. Taylor Swift
+15. Miley Cyrus
+16. Kelly Clarkson
+17. Black Eyed Peas
+18. Simple Plan
+19. Yellowcard
+20. McFly
+21. Akon
+22. Ricky Martin
+23. 동방신기
+24. Britney Spears
+25. Amy Winehouse
+26. The Pussycat Dolls
+27. SHINee
+28. Alexandre Desplat
+29. Ke$ha
+30. Christina Aguilera
+31. Miranda Lambert
+32. Train
+33. BIG BANG
+34. Cascada
+35. Willow Smith
+36. Aly & AJ
+37. P!nk
+38. Rihanna
+39. B2ST
+40. Jorge & Mateus
+41. Lady Antebellum
+42. Simon Curtis
+43. Demi Lovato
+44. Charlie Brown Jr.
+45. Carrie Underwood
+46. nevershoutnever!
+47. Angels & Airwaves
+48. 30 Seconds to Mars
+49. Lily Allen
+50. Justin Timberlake
+
+These recommendations are based on the user's existing preferences and aim to introduce them to new artists they may enjoy.

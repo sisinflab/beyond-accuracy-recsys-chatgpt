@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Wuthering Heights by Emily Bronte
+2. Dracula by Bram Stoker
+3. Frankenstein by Mary Shelley
+4. The Picture of Dorian Gray by Oscar Wilde
+5. Jane Eyre by Charlotte Bronte
+6. The Tell-Tale Heart by Edgar Allan Poe
+7. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson
+8. The Turn of the Screw by Henry James
+9. The Haunting of Hill House by Shirley Jackson
+10. Rebecca by Daphne du Maurier
+11. The Woman in White by Wilkie Collins
+12. The Phantom of the Opera by Gaston Leroux
+13. The Hound of the Baskervilles by Arthur Conan Doyle
+14. The Secret Garden by Frances Hodgson Burnett
+15. Little Women by Louisa May Alcott
+16. Anne of Green Gables by L.M. Montgomery
+17. The Adventures of Tom Sawyer by Mark Twain
+18. Treasure Island by Robert Louis Stevenson
+19. The Wind in the Willows by Kenneth Grahame
+20. The Hobbit by J.R.R. Tolkien
+21. The Secret Life of Bees by Sue Monk Kidd
+22. To Kill a Mockingbird by Harper Lee
+23. The Catcher in the Rye by J.D. Salinger
+24. The Great Gatsby by F. Scott Fitzgerald
+25. 1984 by George Orwell
+26. Brave New World by Aldous Huxley
+27. Fahrenheit 451 by Ray Bradbury
+28. The Handmaid's Tale by Margaret Atwood
+29. The Hunger Games by Suzanne Collins
+30. Divergent by Veronica Roth
+31. The Maze Runner by James Dashner
+32. The Giver by Lois Lowry
+33. Ender's Game by Orson Scott Card
+34. Ready Player One by Ernest Cline
+35. The Martian by Andy Weir
+36. Jurassic Park by Michael Crichton
+37. The Da Vinci Code by Dan Brown
+38. Angels & Demons by Dan Brown
+39. The Girl with the Dragon Tattoo by Stieg Larsson
+40. Gone Girl by Gillian Flynn
+41. The Girl on the Train by Paula Hawkins
+42. Sharp Objects by Gillian Flynn
+43. Dark Places by Gillian Flynn
+44. The Silent Patient by Alex Michaelides
+45. The Girl in the Ice by Robert Bryndza
+46. The Couple Next Door by Shari Lapena
+47. The Woman in Cabin 10 by Ruth Ware
+48. In a Dark, Dark Wood by Ruth Ware
+49. The Girl Before by J.P. Delaney
+50. The Woman in the Window by A.J. Finn
+
+These recommendations are based on the user's interest in classic literature, fantasy, and horror genres.

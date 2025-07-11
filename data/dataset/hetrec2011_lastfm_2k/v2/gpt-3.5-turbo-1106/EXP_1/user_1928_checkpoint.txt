@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Lady Gaga
+2. Pet Shop Boys
+3. Goldfrapp
+4. Robyn
+5. La Roux
+6. Santigold
+7. Grimes
+8. Marina and the Diamonds
+9. Florence + The Machine
+10. Tegan and Sara
+11. CHVRCHES
+12. Haim
+13. St. Vincent
+14. Lykke Li
+15. The Knife
+16. Bat for Lashes
+17. Sia
+18. The xx
+19. Charli XCX
+20. Lorde
+21. Carly Rae Jepsen
+22. Years & Years
+23. Tove Lo
+24. Christine and the Queens
+25. Perfume Genius
+26. Blood Orange
+27. FKA twigs
+28. Shamir
+29. Mitski
+30. SOPHIE
+31. Rina Sawayama
+32. Kim Petras
+33. King Princess
+34. Hayley Kiyoko
+35. Troye Sivan
+36. Kacey Musgraves
+37. Christine McVie
+38. Carly Simon
+39. Joni Mitchell
+40. Carole King
+41. Stevie Nicks
+42. Linda Ronstadt
+43. Emmylou Harris
+44. Patti Smith
+45. Joan Baez
+46. Janis Joplin
+47. Carly Simon
+48. Judy Collins
+49. Laura Nyro
+50. Melanie Safka
+
+These recommendations are based on the user's liking of pop, electronic, and alternative artists, as well as their affinity for strong female vocalists and LGBTQ+ artists.

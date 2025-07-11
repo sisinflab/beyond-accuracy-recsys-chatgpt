@@ -1,0 +1,54 @@
+Based on user 97's preferences, here are the top-50 recommendations for the given artists:
+
+1. Modest Mouse
+2. The Beatles
+3. Belle and Sebastian
+4. Travis
+5. blink-182
+6. The Smashing Pumpkins
+7. Deftones
+8. Porcupine Tree
+9. Mew
+10. Ben Folds
+11. Queens of the Stone Age
+12. Nirvana
+13. Arctic Monkeys
+14. Rage Against the Machine
+15. Brand New
+16. Mogwai
+17. The Kooks
+18. Kings of Leon
+19. Coldplay
+20. Weezer
+21. Blur
+22. múm
+23. Final Fantasy
+24. Ólafur Arnalds
+25. ASIAN KUNG-FU GENERATION
+26. HORSE the band
+27. Bullet for My Valentine
+28. Balmorhea
+29. Dethklok
+30. Joy Division
+31. Emarosa
+32. The Pretty Reckless
+33. Babyshambles
+34. Blood Red Shoes
+35. Kid Cudi
+36. Florence + the Machine
+37. Isis
+38. God Is an Astronaut
+39. Alexisonfire
+40. Why?
+41. Peter Doherty
+42. The Cribs
+43. Gojira
+44. Fightstar
+45. Taking Back Sunday
+46. Arch Enemy
+47. The Police
+48. Fall Out Boy
+49. Slayer
+50. Fugazi
+
+These recommendations are based on similar genres and artist preferences to user 97's current likes.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Parkway Drive
+2. Trivium
+3. Atreyu
+4. As Blood Runs Black
+5. August Burns Red
+6. Architects
+7. The Amity Affliction
+8. Bring Me The Horizon
+9. Adept
+10. Blessthefall
+11. The Word Alive
+12. Silverstein
+13. Memphis May Fire
+14. Of Mice & Men
+15. We Are The In Crowd
+16. A Skylit Drive
+17. The Used
+18. Sleeping With Sirens
+19. Pierce The Veil
+20. My Chemical Romance
+21. AFI
+22. The Red Jumpsuit Apparatus
+23. Saosin
+24. Senses Fail
+25. Thrice
+26. Underoath
+27. Alexisonfire
+28. Story Of The Year
+29. Finch
+30. From First To Last
+31. Chiodos
+32. Scary Kids Scaring Kids
+33. The Fall of Troy
+34. Dance Gavin Dance
+35. Emarosa
+36. Alesana
+37. I See Stars
+38. Crown The Empire
+39. Ice Nine Kills
+40. Motionless In White
+41. The Ghost Inside
+42. For The Fallen Dreams
+43. Miss May I
+44. The Devil Wears Prada
+45. Norma Jean
+46. Every Time I Die
+47. The Chariot
+48. Converge
+49. Poison The Well
+50. Zao
+
+These recommendations are based on the user's liking of similar artists and genres.

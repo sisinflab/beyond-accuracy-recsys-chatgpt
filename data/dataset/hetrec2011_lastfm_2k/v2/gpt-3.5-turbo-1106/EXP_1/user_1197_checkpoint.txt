@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Ariana Grande
+2. Katy Perry
+3. Beyoncé
+4. Kelly Clarkson
+5. Pink
+6. Gwen Stefani
+7. Shakira
+8. Adele
+9. Demi Lovato
+10. Selena Gomez
+11. Taylor Swift
+12. Avril Lavigne
+13. Britney Spears
+14. Christina Aguilera
+15. Miley Cyrus
+16. Mariah Carey
+17. Jessie J
+18. Hilary Duff
+19. Vanessa Hudgens
+20. Lindsay Lohan
+21. Ashlee Simpson
+22. JoJo
+23. Jessica Simpson
+24. Jennifer Lopez
+25. Rihanna
+26. Nicki Minaj
+27. Fergie
+28. Destiny's Child
+29. Emily Osment
+30. Lady Antebellum
+31. Carrie Underwood
+32. Miranda Cosgrove
+33. Ashley Tisdale
+34. Skye Sweetnam
+35. Mandy Moore
+36. Jesse McCartney
+37. Heidi Montag
+38. JoJo
+39. Avril Lavigne
+40. Jessica Simpson
+41. Jennifer Lopez
+42. Miranda Cosgrove
+43. Brooke Hogan
+44. Sandy Leah
+45. Ashlee Simpson
+46. Glee Cast
+47. Rihanna
+48. Nicki Minaj
+49. Fergie
+50. Destiny's Child
+
+These recommendations are based on the user's liking of similar artists and genres.

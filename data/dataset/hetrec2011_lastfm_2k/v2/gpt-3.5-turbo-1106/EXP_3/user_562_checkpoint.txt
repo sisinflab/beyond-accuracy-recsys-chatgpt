@@ -1,0 +1,54 @@
+Based on user 562's preferences, here are the top 50 recommendations for the listed artists:
+
+1. The Beatles
+2. Elvis Presley
+3. Johnny Cash
+4. Dolly Parton
+5. Taylor Swift
+6. Lady Gaga
+7. Beyoncé
+8. Carrie Underwood
+9. Mariah Carey
+10. Rihanna
+11. Adele
+12. P!nk
+13. Christina Aguilera
+14. Joss Stone
+15. Miranda Lambert
+16. Sheryl Crow
+17. Dixie Chicks
+18. Keith Urban
+19. Garth Brooks
+20. George Strait
+21. Brad Paisley
+22. Rascal Flatts
+23. Lady Antebellum
+24. Jessie James
+25. Josh Groban
+26. U2
+27. The Killers
+28. Radiohead
+29. The Cure
+30. Nine Inch Nails
+31. Incubus
+32. Stone Sour
+33. Lifehouse
+34. Eagles
+35. AC/DC
+36. Buddy Holly
+37. Chuck Berry
+38. Janis Joplin
+39. Jeff Buckley
+40. The Pretty Reckless
+41. Cher
+42. Kylie Minogue
+43. Ashlee Simpson
+44. Avril Lavigne
+45. Katy Perry
+46. Demi Lovato
+47. Britney Spears
+48. Hilary Duff
+49. Kelly Clarkson
+50. Alicia Keys
+
+These recommendations are based on similar genres, styles, and themes to the user's liked artists.

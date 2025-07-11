@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. On the Road by Jack Kerouac
+2. The Catcher in the Rye by J.D. Salinger
+3. The Grapes of Wrath by John Steinbeck
+4. To Kill a Mockingbird by Harper Lee
+5. The Great Gatsby by F. Scott Fitzgerald
+6. 1984 by George Orwell
+7. Brave New World by Aldous Huxley
+8. Fahrenheit 451 by Ray Bradbury
+9. Slaughterhouse-Five by Kurt Vonnegut
+10. Catch-22 by Joseph Heller
+11. The Bell Jar by Sylvia Plath
+12. The Handmaid's Tale by Margaret Atwood
+13. The Road by Cormac McCarthy
+14. The Kite Runner by Khaled Hosseini
+15. The Book Thief by Markus Zusak
+16. The Poisonwood Bible by Barbara Kingsolver
+17. The God of Small Things by Arundhati Roy
+18. Midnight's Children by Salman Rushdie
+19. The Satanic Verses by Salman Rushdie
+20. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+21. The House of the Spirits by Isabel Allende
+22. Love in the Time of Cholera by Gabriel García Márquez
+23. Like Water for Chocolate by Laura Esquivel
+24. The Shadow of the Wind by Carlos Ruiz Zafón
+25. The Wind-Up Bird Chronicle by Haruki Murakami
+26. Norwegian Wood by Haruki Murakami
+27. The Unbearable Lightness of Being by Milan Kundera
+28. One Hundred Years of Solitude by Gabriel García Márquez
+29. Love in the Time of Cholera by Gabriel García Márquez
+30. The House of the Spirits by Isabel Allende
+31. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+32. The Poisonwood Bible by Barbara Kingsolver
+33. The God of Small Things by Arundhati Roy
+34. Midnight's Children by Salman Rushdie
+35. The Satanic Verses by Salman Rushdie
+36. The Handmaid's Tale by Margaret Atwood
+37. The Road by Cormac McCarthy
+38. The Kite Runner by Khaled Hosseini
+39. The Book Thief by Markus Zusak
+40. The Bell Jar by Sylvia Plath
+41. Slaughterhouse-Five by Kurt Vonnegut
+42. Catch-22 by Joseph Heller
+43. Fahrenheit 451 by Ray Bradbury
+44. Brave New World by Aldous Huxley
+45. 1984 by George Orwell
+46. The Great Gatsby by F. Scott Fitzgerald
+47. To Kill a Mockingbird by Harper Lee
+48. The Grapes of Wrath by John Steinbeck
+49. The Catcher in the Rye by J.D. Salinger
+50. On the Road by Jack Kerouac
+
+These recommendations are based on the user's interest in literary fiction, classic novels, and thought-provoking literature.

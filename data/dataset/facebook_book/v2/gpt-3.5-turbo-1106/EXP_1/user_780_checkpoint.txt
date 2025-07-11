@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Matilda by Roald Dahl
+2. The Chronicles of Narnia by C.S. Lewis
+3. The Hunger Games by Suzanne Collins
+4. The Giver by Lois Lowry
+5. The Secret Garden by Frances Hodgson Burnett
+6. A Wrinkle in Time by Madeleine L'Engle
+7. The Lightning Thief by Rick Riordan
+8. The Outsiders by S.E. Hinton
+9. Holes by Louis Sachar
+10. Bridge to Terabithia by Katherine Paterson
+11. The Phantom Tollbooth by Norton Juster
+12. The Tale of Despereaux by Kate DiCamillo
+13. The Alchemist by Paulo Coelho
+14. The Catcher in the Rye by J.D. Salinger
+15. To Kill a Mockingbird by Harper Lee
+16. The Book Thief by Markus Zusak
+17. The Fault in Our Stars by John Green
+18. The Perks of Being a Wallflower by Stephen Chbosky
+19. The Two Princesses of Bamarre by Gail Carson Levine
+20. Peeps by Scott Westerfeld
+21. Absolutely Normal Chaos by Sharon Creech
+22. Freakonomics by Stephen J. Dubner, Steven Levitt
+23. Skinny Bitch by Rory Freedman, Kim Barnouin
+24. Girl, Interrupted by Susanna Kaysen
+25. Where the Sidewalk Ends by Shel Silverstein
+26. The Giving Tree by Shel Silverstein
+27. A Light in the Attic by Shel Silverstein
+28. The Missing Piece by Shel Silverstein
+29. The Missing Piece Meets the Big O by Shel Silverstein
+30. The Lorax by Dr. Seuss
+31. Oh, the Places You'll Go! by Dr. Seuss
+32. Green Eggs and Ham by Dr. Seuss
+33. One Fish Two Fish Red Fish Blue Fish by Dr. Seuss
+34. Horton Hears a Who! by Dr. Seuss
+35. The Cat in the Hat by Dr. Seuss
+36. How the Grinch Stole Christmas! by Dr. Seuss
+37. The BFG by Roald Dahl
+38. Charlie and the Chocolate Factory by Roald Dahl
+39. James and the Giant Peach by Roald Dahl
+40. The Witches by Roald Dahl
+41. Fantastic Mr. Fox by Roald Dahl
+42. The Twits by Roald Dahl
+43. George's Marvelous Medicine by Roald Dahl
+44. The Magic Finger by Roald Dahl
+45. The Giraffe and the Pelly and Me by Roald Dahl
+46. Danny the Champion of the World by Roald Dahl
+47. The Enormous Crocodile by Roald Dahl
+48. The Wonderful Story of Henry Sugar and Six More by Roald Dahl
+49. The Minpins by Roald Dahl
+50. The Vicar of Nibbleswicke by Roald Dahl

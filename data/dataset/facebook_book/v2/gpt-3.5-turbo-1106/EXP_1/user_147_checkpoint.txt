@@ -1,0 +1,54 @@
+Based on user 147's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Catcher in the Rye by J.D. Salinger
+4. Brave New World by Aldous Huxley
+5. Animal Farm by George Orwell
+6. Lord of the Flies by William Golding
+7. Fahrenheit 451 by Ray Bradbury
+8. The Stranger by Albert Camus
+9. One Hundred Years of Solitude by Gabriel Garcia Marquez
+10. Slaughterhouse-Five by Kurt Vonnegut
+11. The Bell Jar by Sylvia Plath
+12. The Road by Cormac McCarthy
+13. The Handmaid's Tale by Margaret Atwood
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Sun Also Rises by Ernest Hemingway
+16. The Grapes of Wrath by John Steinbeck
+17. East of Eden by John Steinbeck
+18. The Sound and the Fury by William Faulkner
+19. As I Lay Dying by William Faulkner
+20. The Picture of Dorian Gray by Oscar Wilde
+21. The Count of Monte Cristo by Alexandre Dumas
+22. Crime and Punishment by Fyodor Dostoevsky
+23. The Brothers Karamazov by Fyodor Dostoevsky
+24. Anna Karenina by Leo Tolstoy
+25. War and Peace by Leo Tolstoy
+26. The Idiot by Fyodor Dostoevsky
+27. The Master and Margarita by Mikhail Bulgakov
+28. The Trial by Franz Kafka
+29. The Metamorphosis by Franz Kafka
+30. Heart of Darkness by Joseph Conrad
+31. The Secret Agent by Joseph Conrad
+32. Moby-Dick by Herman Melville
+33. The Scarlet Letter by Nathaniel Hawthorne
+34. Walden by Henry David Thoreau
+35. The Adventures of Huckleberry Finn by Mark Twain
+36. The Adventures of Tom Sawyer by Mark Twain
+37. The Call of the Wild by Jack London
+38. White Fang by Jack London
+39. The Jungle by Upton Sinclair
+40. The Age of Innocence by Edith Wharton
+41. Ethan Frome by Edith Wharton
+42. The House of Mirth by Edith Wharton
+43. The Great Gatsby by F. Scott Fitzgerald
+44. Tender Is the Night by F. Scott Fitzgerald
+45. The Beautiful and Damned by F. Scott Fitzgerald
+46. The Sound of Waves by Yukio Mishima
+47. The Sailor Who Fell from Grace with the Sea by Yukio Mishima
+48. The Temple of the Golden Pavilion by Yukio Mishima
+49. The Wind-Up Bird Chronicle by Haruki Murakami
+50. Norwegian Wood by Haruki Murakami
+
+These recommendations are based on the user's preference for classic literature, dystopian themes, and philosophical works.

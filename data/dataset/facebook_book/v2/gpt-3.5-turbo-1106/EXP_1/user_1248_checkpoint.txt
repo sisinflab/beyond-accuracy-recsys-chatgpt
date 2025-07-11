@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Graceling by Kristin Cashore
+2. The Hunger Games by Suzanne Collins
+3. The Host by Stephenie Meyer
+4. Uglies by Scott Westerfeld
+5. The Maze Runner by James Dashner
+6. Divergent by Veronica Roth
+7. The Giver by Lois Lowry
+8. The Selection by Kiera Cass
+9. Delirium by Lauren Oliver
+10. Legend by Marie Lu
+11. Cinder by Marissa Meyer
+12. The 5th Wave by Rick Yancey
+13. Shiver by Maggie Stiefvater
+14. The Mortal Instruments by Cassandra Clare
+15. The Darkest Minds by Alexandra Bracken
+16. Matched by Ally Condie
+17. The Lunar Chronicles by Marissa Meyer
+18. The Testing by Joelle Charbonneau
+19. The Chemical Garden Trilogy by Lauren DeStefano
+20. The Knife of Never Letting Go by Patrick Ness
+21. The Girl of Fire and Thorns by Rae Carson
+22. The Iron King by Julie Kagawa
+23. The Unbecoming of Mara Dyer by Michelle Hodkin
+24. The 100 by Kass Morgan
+25. The Program by Suzanne Young
+26. The 5th Wave by Rick Yancey
+27. The Darkest Minds by Alexandra Bracken
+28. Matched by Ally Condie
+29. The Lunar Chronicles by Marissa Meyer
+30. The Testing by Joelle Charbonneau
+31. The Chemical Garden Trilogy by Lauren DeStefano
+32. The Knife of Never Letting Go by Patrick Ness
+33. The Girl of Fire and Thorns by Rae Carson
+34. The Iron King by Julie Kagawa
+35. The Unbecoming of Mara Dyer by Michelle Hodkin
+36. The 100 by Kass Morgan
+37. The Program by Suzanne Young
+38. The 5th Wave by Rick Yancey
+39. The Darkest Minds by Alexandra Bracken
+40. Matched by Ally Condie
+41. The Lunar Chronicles by Marissa Meyer
+42. The Testing by Joelle Charbonneau
+43. The Chemical Garden Trilogy by Lauren DeStefano
+44. The Knife of Never Letting Go by Patrick Ness
+45. The Girl of Fire and Thorns by Rae Carson
+46. The Iron King by Julie Kagawa
+47. The Unbecoming of Mara Dyer by Michelle Hodkin
+48. The 100 by Kass Morgan
+49. The Program by Suzanne Young
+50. The 5th Wave by Rick Yancey
+
+These recommendations are based on the user's interest in young adult fiction and fantasy novels.

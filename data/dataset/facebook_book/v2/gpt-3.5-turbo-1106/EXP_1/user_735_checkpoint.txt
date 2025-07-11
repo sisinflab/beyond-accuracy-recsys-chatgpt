@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Crime and Punishment by Fyodor Dostoevsky
+2. The Stranger by Albert Camus
+3. 1984 by George Orwell
+4. Brave New World by Aldous Huxley
+5. The Picture of Dorian Gray by Oscar Wilde
+6. The Brothers Karamazov by Fyodor Dostoevsky
+7. One Hundred Years of Solitude by Gabriel Garcia Marquez
+8. The Catcher in the Rye by J.D. Salinger
+9. The Trial by Franz Kafka
+10. The Metamorphosis by Franz Kafka
+11. The Bell Jar by Sylvia Plath
+12. The Road by Cormac McCarthy
+13. The Grapes of Wrath by John Steinbeck
+14. The Old Man and the Sea by Ernest Hemingway
+15. The Sun Also Rises by Ernest Hemingway
+16. The Sound and the Fury by William Faulkner
+17. As I Lay Dying by William Faulkner
+18. The Great Gatsby by F. Scott Fitzgerald
+19. To Kill a Mockingbird by Harper Lee
+20. The Scarlet Letter by Nathaniel Hawthorne
+21. The Count of Monte Cristo by Alexandre Dumas
+22. War and Peace by Leo Tolstoy
+23. Anna Karenina by Leo Tolstoy
+24. The Idiot by Fyodor Dostoevsky
+25. The Master and Margarita by Mikhail Bulgakov
+26. Lolita by Vladimir Nabokov
+27. The Plague by Albert Camus
+28. The Outsider by Albert Camus
+29. The Stranger by Albert Camus
+30. The Fall by Albert Camus
+31. The Rebel by Albert Camus
+32. The Plague by Albert Camus
+33. The Fall by Albert Camus
+34. The Rebel by Albert Camus
+35. The Plague by Albert Camus
+36. The Fall by Albert Camus
+37. The Rebel by Albert Camus
+38. The Plague by Albert Camus
+39. The Fall by Albert Camus
+40. The Rebel by Albert Camus
+41. The Plague by Albert Camus
+42. The Fall by Albert Camus
+43. The Rebel by Albert Camus
+44. The Plague by Albert Camus
+45. The Fall by Albert Camus
+46. The Rebel by Albert Camus
+47. The Plague by Albert Camus
+48. The Fall by Albert Camus
+49. The Rebel by Albert Camus
+50. The Plague by Albert Camus
+
+These recommendations are based on the user's interest in classic literature, existentialist philosophy, and historical fiction.

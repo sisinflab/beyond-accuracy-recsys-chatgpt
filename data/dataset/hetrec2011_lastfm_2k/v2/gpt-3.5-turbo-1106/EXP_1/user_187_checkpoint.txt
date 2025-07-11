@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Genesis
+2. Rush
+3. Yes
+4. Jethro Tull
+5. King Crimson
+6. Emerson, Lake & Palmer
+7. Camel
+8. Gentle Giant
+9. Van der Graaf Generator
+10. Caravan
+11. The Alan Parsons Project
+12. Barclay James Harvest
+13. Focus
+14. Procol Harum
+15. Renaissance
+16. Kansas
+17. Marillion
+18. Porcupine Tree
+19. David Bowie
+20. Pink Floyd
+21. Kate Bush
+22. Simple Minds
+23. The Beatles
+24. Depeche Mode
+25. Tears for Fears
+26. Japan
+27. Electric Light Orchestra
+28. The Human League
+29. Blackfield
+30. Nik Kershaw
+31. Steely Dan
+32. a-ha
+33. Duran Duran
+34. Ultravox
+35. Zero 7
+36. Thomas Dolby
+37. The Stranglers
+38. The Cure
+39. Sting
+40. Soft Cell
+41. Orchestral Manoeuvres in the Dark
+42. Bryan Ferry
+43. Prince
+44. Eagles
+45. Supergrass
+46. David Gilmour
+47. Paul McCartney
+48. Tangerine Dream
+49. Mike Oldfield
+50. Pink Martini
+
+These recommendations are based on the user's liking of progressive rock, new wave, and classic rock artists, as well as similar artists within those genres.

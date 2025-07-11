@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. David Bowie
+3. Radiohead
+4. The Rolling Stones
+5. Nirvana
+6. Bob Dylan
+7. The Doors
+8. Fleetwood Mac
+9. Pearl Jam
+10. U2
+11. Oasis
+12. The Who
+13. Red Hot Chili Peppers
+14. Arctic Monkeys
+15. The Smiths
+16. Coldplay
+17. The Cure
+18. Bruce Springsteen
+19. Jimi Hendrix
+20. The Killers
+21. Muse
+22. The Strokes
+23. Bon Jovi
+24. Aerosmith
+25. Green Day
+26. The Police
+27. Foo Fighters
+28. R.E.M.
+29. The Smashing Pumpkins
+30. Tom Petty and the Heartbreakers
+31. The Kinks
+32. The Clash
+33. The Velvet Underground
+34. Talking Heads
+35. Blondie
+36. The White Stripes
+37. The Black Keys
+38. Kings of Leon
+39. The Flaming Lips
+40. Beck
+41. Arcade Fire
+42. Vampire Weekend
+43. Tame Impala
+44. The National
+45. Interpol
+46. Modest Mouse
+47. Spoon
+48. Wilco
+49. LCD Soundsystem
+50. Yeah Yeah Yeahs
+
+These recommendations are based on the user's liking of classic rock, alternative, and pop artists, and are intended to provide a diverse range of similar artists for the user to explore.

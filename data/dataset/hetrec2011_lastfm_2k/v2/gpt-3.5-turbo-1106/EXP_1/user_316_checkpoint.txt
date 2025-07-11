@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Korn
+2. Deftones
+3. Papa Roach
+4. Disturbed
+5. Marilyn Manson
+6. Rob Zombie
+7. Five Finger Death Punch
+8. Avenged Sevenfold
+9. Static-X
+10. Coal Chamber
+11. Sevendust
+12. Godsmack
+13. Slipknot
+14. Mudvayne
+15. Staind
+16. P.O.D.
+17. Chevelle
+18. Breaking Benjamin
+19. System of a Down
+20. Drowning Pool
+21. Limp Bizkit
+22. Linkin Park
+23. Serj Tankian
+24. Stone Sour
+25. Cradle of Filth
+26. Rammstein
+27. Three Days Grace
+28. Rage Against the Machine
+29. The 69 Eyes
+30. Tool
+31. 植松伸夫
+32. Apocalyptica
+33. HORSE the band
+34. Amorphis
+35. Bloodhound Gang
+36. Incubus
+37. Arctic Monkeys
+38. Ill Niño
+39. Atreyu
+40. Bullet for My Valentine
+41. Trivium
+42. Lamb of God
+43. Killswitch Engage
+44. All That Remains
+45. As I Lay Dying
+46. Parkway Drive
+47. August Burns Red
+48. Architects
+49. The Devil Wears Prada
+50. Bring Me the Horizon
+
+These recommendations are based on the user's liking of similar artists and genres.

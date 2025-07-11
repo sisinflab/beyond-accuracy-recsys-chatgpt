@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 1212:
+
+1. Radiohead
+2. Daft Punk
+3. The Killers
+4. Pink Floyd
+5. Muse
+6. Nirvana
+7. Coldplay
+8. Nine Inch Nails
+9. Linkin Park
+10. Green Day
+11. Foo Fighters
+12. Depeche Mode
+13. Metallica
+14. The Beatles
+15. Oasis
+16. Franz Ferdinand
+17. Gorillaz
+18. The White Stripes
+19. Arctic Monkeys
+20. The Smashing Pumpkins
+21. Beck
+22. Blur
+23. Placebo
+24. The Cure
+25. Keane
+26. Goo Goo Dolls
+27. Matchbox Twenty
+28. Jet
+29. Scissor Sisters
+30. Justice
+31. Aerosmith
+32. U2
+33. The New Pornographers
+34. The Mars Volta
+35. Stars
+36. Architecture in Helsinki
+37. Death Cab for Cutie
+38. Tegan and Sara
+39. CAKE
+40. Garbage
+41. Yeah Yeah Yeahs
+42. The Postal Service
+43. The Smashing Pumpkins
+44. The Mars Volta
+45. Goo Goo Dolls
+46. Keane
+47. Augustana
+48. The White Stripes
+49. Tegan and Sara
+50. CAKE
+
+These recommendations are based on the user's liking of similar artists and their preferences.

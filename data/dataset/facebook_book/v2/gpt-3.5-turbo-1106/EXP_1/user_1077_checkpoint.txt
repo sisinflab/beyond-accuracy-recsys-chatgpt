@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Coraline by Neil Gaiman
+2. The Graveyard Book by Neil Gaiman
+3. The Chronicles of Narnia by C.S. Lewis
+4. The Hobbit by J.R.R. Tolkien
+5. The Catcher in the Rye by J.D. Salinger
+6. The Hunger Games by Suzanne Collins
+7. The Giver by Lois Lowry
+8. The Alchemist by Paulo Coelho
+9. The Book Thief by Markus Zusak
+10. To Kill a Mockingbird by Harper Lee
+11. The Secret Garden by Frances Hodgson Burnett
+12. The Little Prince by Antoine de Saint-Exupéry
+13. The Wind in the Willows by Kenneth Grahame
+14. The Phantom Tollbooth by Norton Juster
+15. The Princess Bride by William Goldman
+16. The Night Circus by Erin Morgenstern
+17. The Name of the Wind by Patrick Rothfuss
+18. The Secret History by Donna Tartt
+19. The Goldfinch by Donna Tartt
+20. The Shadow of the Wind by Carlos Ruiz Zafón
+21. The Night Angel Trilogy by Brent Weeks
+22. The Lies of Locke Lamora by Scott Lynch
+23. The Way of Kings by Brandon Sanderson
+24. Mistborn: The Final Empire by Brandon Sanderson
+25. The Black Prism by Brent Weeks
+26. The Lightbringer Series by Brent Weeks
+27. The Kingkiller Chronicle by Patrick Rothfuss
+28. The Inheritance Trilogy by N.K. Jemisin
+29. The Broken Earth Trilogy by N.K. Jemisin
+30. The Stormlight Archive by Brandon Sanderson
+31. The Wheel of Time series by Robert Jordan
+32. The Malazan Book of the Fallen series by Steven Erikson
+33. The First Law Trilogy by Joe Abercrombie
+34. The Gentlemen Bastard series by Scott Lynch
+35. The Farseer Trilogy by Robin Hobb
+36. The Liveship Traders Trilogy by Robin Hobb
+37. The Tawny Man Trilogy by Robin Hobb
+38. The Rain Wild Chronicles by Robin Hobb
+39. The Fitz and the Fool Trilogy by Robin Hobb
+40. The Lightbringer Series by Brent Weeks
+41. The Demon Cycle series by Peter V. Brett
+42. The Broken Empire Trilogy by Mark Lawrence
+43. The Red Queen's War Trilogy by Mark Lawrence
+44. The Book of the Ancestor series by Mark Lawrence
+45. The Powder Mage Trilogy by Brian McClellan
+46. The Gods of Blood and Powder series by Brian McClellan
+47. The Divine Cities Trilogy by Robert Jackson Bennett
+48. The Daevabad Trilogy by S.A. Chakraborty
+49. The Poppy War series by R.F. Kuang
+50. The Dandelion Dynasty series by Ken Liu
+
+These recommendations are based on the user's interest in fantasy, young adult fiction, and graphic novels.

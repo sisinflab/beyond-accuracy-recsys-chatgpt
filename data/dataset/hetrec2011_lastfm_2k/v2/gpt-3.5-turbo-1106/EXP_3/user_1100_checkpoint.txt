@@ -1,0 +1,54 @@
+Based on user 1100's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Tool
+2. Nirvana
+3. Marilyn Manson
+4. Radiohead
+5. Queens of the Stone Age
+6. Sonic Youth
+7. Mogwai
+8. Pink Floyd
+9. The Beatles
+10. David Bowie
+11. Frank Zappa
+12. Miles Davis
+13. Slayer
+14. Burzum
+15. Black Sabbath
+16. Iron Maiden
+17. Rush
+18. Deep Purple
+19. System of a Down
+20. Korn
+21. Deftones
+22. Porcupine Tree
+23. Pearl Jam
+24. Soundgarden
+25. Incubus
+26. Fugazi
+27. Mono
+28. Animal Collective
+29. A Silver Mt. Zion
+30. ...And You Will Know Us by the Trail of Dead
+31. Manic Street Preachers
+32. Jethro Tull
+33. Bob Marley & The Wailers
+34. Queen
+35. Blur
+36. John Frusciante
+37. Arcade Fire
+38. The Mars Volta
+39. Gorillaz
+40. Eminem
+41. The Clash
+42. The Residents
+43. Philip Glass
+44. Captain Beefheart & His Magic Band
+45. Swans
+46. Melvins
+47. Type O Negative
+48. Pixies
+49. Portishead
+50. Massive Attack
+
+These recommendations are based on the user's existing preferences and aim to introduce them to similar artists they may enjoy.

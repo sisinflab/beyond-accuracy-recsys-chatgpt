@@ -1,0 +1,54 @@
+Based on user 1840's preferences, here are the top 50 recommendations for the user:
+
+1. Madonna
+2. Amy Winehouse
+3. Florence + the Machine
+4. Imogen Heap
+5. Fiona Apple
+6. Björk
+7. Nine Inch Nails
+8. Depeche Mode
+9. Marilyn Manson
+10. Andrew Lloyd Webber
+11. Enya
+12. Phoenix
+13. Roxette
+14. Kylie Minogue
+15. Dido
+16. Röyksopp
+17. Placebo
+18. John Lennon
+19. Bon Jovi
+20. Elton John
+21. Michael Jackson
+22. Beyoncé
+23. Enrique Iglesias
+24. Swans
+25. Andrea Bocelli
+26. Secondhand Serenade
+27. Luis Miguel
+28. Kelly Clarkson
+29. Miley Cyrus
+30. Robbie Williams
+31. nevershoutnever!
+32. Sum 41
+33. Jonas Brothers
+34. Legião Urbana
+35. Arctic Monkeys
+36. The Kooks
+37. Shakira
+38. Rita Lee
+39. A*Teens
+40. Ayria
+41. In This Moment
+42. Seether
+43. Gregorian
+44. Era
+45. Delerium
+46. Tina Turner
+47. Natalie Imbruglia
+48. Laura Pausini
+49. John Williams
+50. Hans Zimmer
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their tastes.

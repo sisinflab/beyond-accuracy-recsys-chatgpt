@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top-50 recommendations for user 1376:
+
+1. My Chemical Romance
+2. The Pretty Reckless
+3. The Veronicas
+4. Muse
+5. Rise Against
+6. The Strokes
+7. Slipknot
+8. Asking Alexandria
+9. IAMX
+10. Brand New
+11. Boys Like Girls
+12. Mindless Self Indulgence
+13. Cobra Starship
+14. Escape The Fate
+15. Kasabian
+16. Billy Talent
+17. New Found Glory
+18. Lostprophets
+19. Thrice
+20. The All-American Rejects
+21. Sick Puppies
+22. Angels & Airwaves
+23. Lacuna Coil
+24. Linkin Park
+25. All Time Low
+26. Lights
+27. Kings of Leon
+28. Breaking Benjamin
+29. blessthefall
+30. Nightwish
+31. Bring Me The Horizon
+32. Paramore
+33. Nine Inch Nails
+34. Lady Gaga
+35. Coldplay
+36. Beyoncé
+37. Michael Jackson
+38. Metallica
+39. Lifehouse
+40. McFly
+41. Rihanna
+42. Sigur Rós
+43. Jorge & Mateus
+44. Engenheiros do Hawaii
+45. Clint Mansell
+46. Strike
+47. Katy Perry
+48. Adam Lambert
+49. Capital Inicial
+50. The Cure
+
+These recommendations are based on the user's existing preferences and are designed to align with their music taste.

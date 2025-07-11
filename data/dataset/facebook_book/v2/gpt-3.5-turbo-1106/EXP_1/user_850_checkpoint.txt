@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Divergent by Veronica Roth
+2. The Maze Runner by James Dashner
+3. The Selection by Kiera Cass
+4. The 5th Wave by Rick Yancey
+5. Legend by Marie Lu
+6. Cinder by Marissa Meyer
+7. Red Queen by Victoria Aveyard
+8. The Darkest Minds by Alexandra Bracken
+9. Shatter Me by Tahereh Mafi
+10. The Giver by Lois Lowry
+11. Uglies by Scott Westerfeld
+12. The Knife of Never Letting Go by Patrick Ness
+13. Delirium by Lauren Oliver
+14. The Host by Stephenie Meyer
+15. The Testing by Joelle Charbonneau
+16. Matched by Ally Condie
+17. The 100 by Kass Morgan
+18. The Lunar Chronicles by Marissa Meyer
+19. The Uglies Series by Scott Westerfeld
+20. The 5th Wave Series by Rick Yancey
+21. The Selection Series by Kiera Cass
+22. The Darkest Minds Series by Alexandra Bracken
+23. The Maze Runner Series by James Dashner
+24. The Giver Quartet Series by Lois Lowry
+25. The Delirium Series by Lauren Oliver
+26. The Testing Trilogy by Joelle Charbonneau
+27. Matched Trilogy by Ally Condie
+28. The Host Series by Stephenie Meyer
+29. The Lunar Chronicles Series by Marissa Meyer
+30. The Mortal Instruments by Cassandra Clare
+31. The Infernal Devices by Cassandra Clare
+32. The Hunger Games Series by Suzanne Collins
+33. The Twilight Saga by Stephenie Meyer
+34. The Harry Potter Series by J.K. Rowling
+35. The Percy Jackson Series by Rick Riordan
+36. The Chronicles of Narnia by C.S. Lewis
+37. The Lord of the Rings by J.R.R. Tolkien
+38. The Hobbit by J.R.R. Tolkien
+39. The Fault in Our Stars by John Green
+40. Paper Towns by John Green
+41. Looking for Alaska by John Green
+42. An Abundance of Katherines by John Green
+43. Eleanor & Park by Rainbow Rowell
+44. Fangirl by Rainbow Rowell
+45. Carry On by Rainbow Rowell
+46. Landline by Rainbow Rowell
+47. The Book Thief by Markus Zusak
+48. I Am the Messenger by Markus Zusak
+49. Thirteen Reasons Why by Jay Asher
+50. The Perks of Being a Wallflower by Stephen Chbosky
+
+These recommendations are based on the user's interest in young adult fiction, fantasy, and romance genres.

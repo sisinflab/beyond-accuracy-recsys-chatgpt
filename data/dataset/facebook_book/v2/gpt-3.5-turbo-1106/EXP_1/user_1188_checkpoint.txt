@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Pride and Prejudice by Jane Austen
+2. To Kill a Mockingbird by Harper Lee
+3. The Great Gatsby by F. Scott Fitzgerald
+4. 1984 by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. The Grapes of Wrath by John Steinbeck
+7. The Scarlet Letter by Nathaniel Hawthorne
+8. Little Women by Louisa May Alcott
+9. The Picture of Dorian Gray by Oscar Wilde
+10. Crime and Punishment by Fyodor Dostoevsky
+11. The Adventures of Huckleberry Finn by Mark Twain
+12. Moby-Dick by Herman Melville
+13. Anna Karenina by Leo Tolstoy
+14. The Count of Monte Cristo by Alexandre Dumas
+15. The Brothers Karamazov by Fyodor Dostoevsky
+16. The Bell Jar by Sylvia Plath
+17. One Hundred Years of Solitude by Gabriel García Márquez
+18. The Sun Also Rises by Ernest Hemingway
+19. The Sound and the Fury by William Faulkner
+20. A Tale of Two Cities by Charles Dickens
+21. The Old Man and the Sea by Ernest Hemingway
+22. The Stranger by Albert Camus
+23. The Handmaid's Tale by Margaret Atwood
+24. The Secret Garden by Frances Hodgson Burnett
+25. The Alchemist by Paulo Coelho
+26. The Kite Runner by Khaled Hosseini
+27. The Book Thief by Markus Zusak
+28. The Night Circus by Erin Morgenstern
+29. The Secret History by Donna Tartt
+30. The Goldfinch by Donna Tartt
+31. The Shadow of the Wind by Carlos Ruiz Zafón
+32. The Name of the Wind by Patrick Rothfuss
+33. The Nightingale by Kristin Hannah
+34. The Girl on the Train by Paula Hawkins
+35. The Help by Kathryn Stockett
+36. The Time Traveler's Wife by Audrey Niffenegger
+37. The Lovely Bones by Alice Sebold
+38. The Hunger Games by Suzanne Collins
+39. The Maze Runner by James Dashner
+40. The Giver by Lois Lowry
+41. The Fault in Our Stars by John Green
+42. The Perks of Being a Wallflower by Stephen Chbosky
+43. The Outsiders by S.E. Hinton
+44. The Chronicles of Narnia by C.S. Lewis
+45. The Hobbit by J.R.R. Tolkien
+46. The Lord of the Rings by J.R.R. Tolkien
+47. The Harry Potter series by J.K. Rowling
+48. The Chronicles of Prydain by Lloyd Alexander
+49. The Earthsea Cycle by Ursula K. Le Guin
+50. The Inheritance Cycle by Christopher Paolini
+
+These recommendations are based on the user's liking of classic literature, romance, and young adult fiction.

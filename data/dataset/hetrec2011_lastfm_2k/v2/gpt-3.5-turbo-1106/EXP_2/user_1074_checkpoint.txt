@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 1074:
+
+1. The Beatles
+2. Pink Floyd
+3. Duran Duran
+4. The Killers
+5. a-ha
+6. Muse
+7. Radiohead
+8. Coldplay
+9. Nirvana
+10. Queen
+11. U2
+12. Oasis
+13. Foo Fighters
+14. George Michael
+15. Fleetwood Mac
+16. Kate Bush
+17. The Police
+18. Sting
+19. David Bowie
+20. George Harrison
+21. Paul McCartney
+22. Tom Petty and the Heartbreakers
+23. Echo & The Bunnymen
+24. Tears for Fears
+25. Jay Vaquer
+26. Roxette
+27. Bauhaus
+28. The Rolling Stones
+29. Rod Stewart
+30. Manic Street Preachers
+31. Carla Bruni
+32. Tina Turner
+33. Billy Idol
+34. Simply Red
+35. She & Him
+36. Kaiser Chiefs
+37. Queen
+38. Hole
+39. Madonna
+40. Lady Gaga
+41. Christina Aguilera
+42. Rihanna
+43. Shakira
+44. Britney Spears
+45. Katy Perry
+46. Avril Lavigne
+47. Taylor Swift
+48. Glee Cast
+49. Beyoncé
+50. Paramore
+
+These recommendations are based on the user's liking of similar artists and their music preferences.

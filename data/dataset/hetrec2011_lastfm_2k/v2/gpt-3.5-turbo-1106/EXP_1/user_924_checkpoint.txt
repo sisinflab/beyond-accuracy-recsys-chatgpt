@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Chris Brown
+2. Rihanna
+3. Beyoncé
+4. Alicia Keys
+5. Justin Timberlake
+6. Ciara
+7. Janet Jackson
+8. Jennifer Lopez
+9. Kelly Rowland
+10. Tinashe
+11. Miguel
+12. Jhene Aiko
+13. Kehlani
+14. The Weeknd
+15. Drake
+16. Nicki Minaj
+17. Janelle Monáe
+18. SZA
+19. H.E.R.
+20. Frank Ocean
+21. Khalid
+22. Ella Mai
+23. Summer Walker
+24. Jazmine Sullivan
+25. Tank
+26. Tyrese
+27. Maxwell
+28. John Legend
+29. Brandy
+30. Ashanti
+31. Toni Braxton
+32. Mariah Carey
+33. Trey Songz
+34. Aaliyah
+35. Destiny's Child
+36. Ne-Yo
+37. Mary J. Blige
+38. Usher
+39. 112
+40. Jagged Edge
+41. Boyz II Men
+42. New Edition
+43. SWV
+44. TLC
+45. En Vogue
+46. Xscape
+47. Monica
+48. Keyshia Cole
+49. Fantasia
+50. K. Michelle
+
+These recommendations are based on the user's liking of similar artists and are tailored to their music preferences.

@@ -1,0 +1,54 @@
+Based on user 27's preferences, here are the top 50 recommendations:
+
+1. Florence + The Machine
+2. Björk
+3. Fiona Apple
+4. Sia
+5. Alanis Morissette
+6. Portishead
+7. PJ Harvey
+8. Massive Attack
+9. Garbage
+10. The Cranberries
+11. Kate Bush
+12. Goldfrapp
+13. Imogen Heap
+14. Lana Del Rey
+15. Lykke Li
+16. St. Vincent
+17. Hozier
+18. The Kills
+19. Metric
+20. The xx
+21. CHVRCHES
+22. Lorde
+23. Grimes
+24. Tegan and Sara
+25. The Cardigans
+26. Bat for Lashes
+27. Tori Amos
+28. Shakira
+29. Yanni
+30. The Mars Volta
+31. Bush
+32. Jamiroquai
+33. Apocalyptica
+34. Ellie Goulding
+35. Nickelback
+36. Armin van Buuren
+37. Kasabian
+38. Zoé
+39. Pearl Jam
+40. t.A.T.u.
+41. Santana
+42. David Guetta
+43. Duran Duran
+44. Iron Maiden
+45. At the Drive-In
+46. Disturbed
+47. Killing Joke
+48. Inna
+49. Emilíana Torrini
+50. Foo Fighters
+
+These recommendations are based on similar genres, styles, and characteristics of the artists that user 27 already likes.

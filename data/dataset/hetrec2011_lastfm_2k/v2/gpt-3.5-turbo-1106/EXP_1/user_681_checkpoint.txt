@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Panic! At The Disco
+2. Fall Out Boy
+3. Green Day
+4. Paramore
+5. Muse
+6. The Smashing Pumpkins
+7. Nine Inch Nails
+8. The Used
+9. AFI
+10. Bring Me The Horizon
+11. Deftones
+12. The Offspring
+13. Linkin Park
+14. System Of A Down
+15. Limp Bizkit
+16. Three Days Grace
+17. Breaking Benjamin
+18. Good Charlotte
+19. Sum 41
+20. Blink-182
+21. Weezer
+22. The White Stripes
+23. Arctic Monkeys
+24. The Strokes
+25. Interpol
+26. The Libertines
+27. The Vines
+28. The Hives
+29. Franz Ferdinand
+30. Bloc Party
+31. Kasabian
+32. Arctic Monkeys
+33. The Kooks
+34. The Fratellis
+35. The Wombats
+36. The Vaccines
+37. Two Door Cinema Club
+38. Foals
+39. The 1975
+40. Catfish and the Bottlemen
+41. Wolf Alice
+42. Royal Blood
+43. Nothing But Thieves
+44. Blossoms
+45. Pale Waves
+46. The Neighbourhood
+47. Cage The Elephant
+48. Foster The People
+49. The Black Keys
+50. Imagine Dragons
+
+These recommendations are based on the user's liking of alternative rock, post-punk, and emo bands, and include similar artists from those genres.

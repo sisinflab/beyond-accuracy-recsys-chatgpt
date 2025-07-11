@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 453:
+
+1. Joy Division
+2. The Police
+3. Moby
+4. The Doors
+5. Dave Gahan
+6. Lady Gaga
+7. Depeche Mode
+8. New Order
+9. The Smiths
+10. The Cure
+11. Radiohead
+12. Muse
+13. The Killers
+14. Interpol
+15. Duran Duran
+16. INXS
+17. The Verve
+18. The Smashing Pumpkins
+19. The Beatles
+20. The Kinks
+21. The Who
+22. Franz Ferdinand
+23. Avril Lavigne
+24. Daft Punk
+25. a-ha
+26. Tears for Fears
+27. Pet Shop Boys
+28. Siouxsie and the Banshees
+29. The Chemical Brothers
+30. Placebo
+31. Kaiser Chiefs
+32. Editors
+33. Bloc Party
+34. P!nk
+35. The Velvet Underground
+36. MGMT
+37. The Sounds
+38. Bon Jovi
+39. Nine Inch Nails
+40. Nirvana
+41. Morrissey
+42. Oasis
+43. Coldplay
+44. Kasabian
+45. The Killers
+46. The Cure
+47. The Smashing Pumpkins
+48. The Kinks
+49. Radiohead
+50. The Beatles
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists that align with their current tastes.

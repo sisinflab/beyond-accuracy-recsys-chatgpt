@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. 1984 by George Orwell
+2. Fahrenheit 451 by Ray Bradbury
+3. Animal Farm by George Orwell
+4. The Great Gatsby by F. Scott Fitzgerald
+5. To the Lighthouse by Virginia Woolf
+6. The Grapes of Wrath by John Steinbeck
+7. Slaughterhouse-Five by Kurt Vonnegut
+8. The Sound and the Fury by William Faulkner
+9. Catch-22 by Joseph Heller
+10. One Flew Over the Cuckoo's Nest by Ken Kesey
+11. The Bell Jar by Sylvia Plath
+12. A Clockwork Orange by Anthony Burgess
+13. The Stranger by Albert Camus
+14. The Sun Also Rises by Ernest Hemingway
+15. The Old Man and the Sea by Ernest Hemingway
+16. The Road by Cormac McCarthy
+17. The Handmaid's Tale by Margaret Atwood
+18. The Picture of Dorian Gray by Oscar Wilde
+19. The Scarlet Letter by Nathaniel Hawthorne
+20. The Brothers Karamazov by Fyodor Dostoevsky
+21. Crime and Punishment by Fyodor Dostoevsky
+22. The Idiot by Fyodor Dostoevsky
+23. The Trial by Franz Kafka
+24. The Metamorphosis by Franz Kafka
+25. The Stranger by Harlan Coben
+26. The Alchemist by Paulo Coelho
+27. The Kite Runner by Khaled Hosseini
+28. The Book Thief by Markus Zusak
+29. The Night Circus by Erin Morgenstern
+30. The Goldfinch by Donna Tartt
+31. The Secret History by Donna Tartt
+32. The Name of the Wind by Patrick Rothfuss
+33. The Wise Man's Fear by Patrick Rothfuss
+34. The Shadow of the Wind by Carlos Ruiz Zafón
+35. The Angel's Game by Carlos Ruiz Zafón
+36. The Thirteenth Tale by Diane Setterfield
+37. The Nightingale by Kristin Hannah
+38. The Book of Lost Things by John Connolly
+39. The Time Traveler's Wife by Audrey Niffenegger
+40. The Lovely Bones by Alice Sebold
+41. The Help by Kathryn Stockett
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Poisonwood Bible by Barbara Kingsolver
+44. The Glass Castle by Jeannette Walls
+45. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+46. The Color Purple by Alice Walker
+47. The Joy Luck Club by Amy Tan
+48. The Bonesetter's Daughter by Amy Tan
+49. The Kitchen God's Wife by Amy Tan
+50. The Hundred Secret Senses by Amy Tan
+
+These recommendations are based on the user's interest in classic literature, plays, and contemporary fiction.

@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Linkin Park
+2. Muse
+3. The Killers
+4. Paramore
+5. Arctic Monkeys
+6. Imagine Dragons
+7. Fall Out Boy
+8. Kings of Leon
+9. Coldplay
+10. Panic! At The Disco
+11. The Strokes
+12. Weezer
+13. Twenty One Pilots
+14. The White Stripes
+15. Cage The Elephant
+16. The Black Keys
+17. The Neighbourhood
+18. Vampire Weekend
+19. The 1975
+20. Foster The People
+21. Hozier
+22. Bastille
+23. The Lumineers
+24. Franz Ferdinand
+25. Death Cab for Cutie
+26. Silversun Pickups
+27. Modest Mouse
+28. The Fratellis
+29. The Hives
+30. The Raconteurs
+31. The Bravery
+32. The Vines
+33. The Wombats
+34. The Kooks
+35. The Libertines
+36. The Vaccines
+37. The Arctic Monkeys
+38. The Kooks
+39. The Strokes
+40. The Fratellis
+41. The Hives
+42. The Raconteurs
+43. The Bravery
+44. The Vines
+45. The Wombats
+46. The Libertines
+47. The Vaccines
+48. The Arctic Monkeys
+49. The Kooks
+50. The Strokes

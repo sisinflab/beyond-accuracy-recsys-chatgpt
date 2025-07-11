@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 771:
+
+1. Nas
+2. Jay-Z
+3. OutKast
+4. Common
+5. Erykah Badu
+6. The Roots
+7. Mos Def
+8. Ghostface Killah
+9. Kid Cudi
+10. Kanye West
+11. Lupe Fiasco
+12. Alicia Keys
+13. Usher
+14. 2Pac
+15. Bob Marley & The Wailers
+16. Lil' Wayne
+17. The Game
+18. Joss Stone
+19. Ne-Yo
+20. Rihanna
+21. Ludacris
+22. Trey Songz
+23. Chris Brown
+24. Timbaland
+25. A Tribe Called Quest
+26. Snoop Dogg
+27. Drake
+28. J Dilla
+29. Wu-Tang Clan
+30. Raekwon
+31. Brandy
+32. Lady Gaga
+33. Gnarls Barkley
+34. Eminem
+35. Kings of Leon
+36. Justin Timberlake
+37. Amy Winehouse
+38. B.o.B
+39. Mobb Deep
+40. Gang Starr
+41. Miles Davis
+42. Christina Aguilera
+43. James Morrison
+44. The Killers
+45. Frank Sinatra
+46. Busta Rhymes
+47. Sublime
+48. The Beatles
+49. Calvin Harris
+50. Michael Bublé
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their taste in music.

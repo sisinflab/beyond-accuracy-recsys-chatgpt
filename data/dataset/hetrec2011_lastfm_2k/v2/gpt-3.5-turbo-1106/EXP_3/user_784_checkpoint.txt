@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 784:
+
+1. Fleet Foxes
+2. MGMT
+3. Spoon
+4. Black Rebel Motorcycle Club
+5. Rilo Kiley
+6. The Libertines
+7. Frank Zappa
+8. Elvis Costello
+9. Van Morrison
+10. John Lennon
+11. George Harrison
+12. Bob Dylan
+13. Red Hot Chili Peppers
+14. They Might Be Giants
+15. Spiritualized
+16. Kasabian
+17. Guns N' Roses
+18. Crystal Castles
+19. The Jimi Hendrix Experience
+20. Led Zeppelin
+21. Scissor Sisters
+22. Xiu Xiu
+23. Owl City
+24. Eric Clapton
+25. Nirvana
+26. Nick Cave and the Bad Seeds
+27. The Flashbulb
+28. Metallica
+29. Keane
+30. The Brian Jonestown Massacre
+31. The Doors
+32. Deftones
+33. Gorillaz
+34. Tenacious D
+35. Muse
+36. CAKE
+37. Bombay Bicycle Club
+38. Weezer
+39. Plain White T's
+40. Pink Floyd
+41. Lady Gaga
+42. Jason Mraz
+43. Paul McCartney
+44. The Kinks
+45. Luis Miguel
+46. Scorpions
+47. Bob Marley
+48. The Beach Boys
+49. The Police
+50. Queen
+
+These recommendations are based on the user's existing preferences and aim to introduce new artists that align with their musical tastes.

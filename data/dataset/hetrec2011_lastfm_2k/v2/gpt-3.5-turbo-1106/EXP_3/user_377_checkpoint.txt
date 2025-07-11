@@ -1,0 +1,54 @@
+Based on user 377's preferences, here are the top 50 recommendations for the listed artists:
+
+1. Dream Theater
+2. Nightwish
+3. Alice Cooper
+4. Rainbow
+5. Scorpions
+6. Deep Purple
+7. Mr. Big
+8. Eluveitie
+9. Iced Earth
+10. Saxon
+11. Amon Amarth
+12. Stratovarius
+13. Kamelot
+14. AC/DC
+15. Agalloch
+16. Depeche Mode
+17. Korpiklaani
+18. Matanza
+19. Epica
+20. Rammstein
+21. Pantera
+22. Toto
+23. Dokken
+24. Kreator
+25. W.A.S.P.
+26. Nautilus Pompilius
+27. System of a Down
+28. Amorphis
+29. Motörhead
+30. Pain
+31. Avantasia
+32. Guns N' Roses
+33. Sodom
+34. Black Sabbath
+35. KISS
+36. Ratt
+37. Pink Floyd
+38. Helloween
+39. Queen
+40. Jethro Tull
+41. Nirvana
+42. Metallica
+43. Van Halen
+44. Ария
+45. Judas Priest
+46. David Gilmour
+47. Slipknot
+48. Iron Maiden
+49. Opeth
+50. In Flames
+
+These recommendations are based on the user's existing preferences and aim to provide a diverse range of similar artists for their enjoyment.

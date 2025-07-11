@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. The Catcher in the Rye by J.D. Salinger
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Pride and Prejudice by Jane Austen
+5. 1984 by George Orwell
+6. Animal Farm by George Orwell
+7. The Handmaid's Tale by Margaret Atwood
+8. One Hundred Years of Solitude by Gabriel Garcia Marquez
+9. The Grapes of Wrath by John Steinbeck
+10. The Bell Jar by Sylvia Plath
+11. The Color Purple by Alice Walker
+12. The Kite Runner by Khaled Hosseini
+13. A Thousand Splendid Suns by Khaled Hosseini
+14. The Road by Cormac McCarthy
+15. The Book Thief by Markus Zusak
+16. The Alchemist by Paulo Coelho
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Sun Also Rises by Ernest Hemingway
+19. Slaughterhouse-Five by Kurt Vonnegut
+20. The Stranger by Albert Camus
+21. Crime and Punishment by Fyodor Dostoevsky
+22. The Brothers Karamazov by Fyodor Dostoevsky
+23. The Count of Monte Cristo by Alexandre Dumas
+24. Les Misérables by Victor Hugo
+25. War and Peace by Leo Tolstoy
+26. Anna Karenina by Leo Tolstoy
+27. The Name of the Rose by Umberto Eco
+28. The Shadow of the Wind by Carlos Ruiz Zafón
+29. The God of Small Things by Arundhati Roy
+30. Midnight's Children by Salman Rushdie
+31. The Satanic Verses by Salman Rushdie
+32. The Secret History by Donna Tartt
+33. The Goldfinch by Donna Tartt
+34. The Night Circus by Erin Morgenstern
+35. The Secret Life of Bees by Sue Monk Kidd
+36. The Poisonwood Bible by Barbara Kingsolver
+37. The Joy Luck Club by Amy Tan
+38. The House of the Spirits by Isabel Allende
+39. Love in the Time of Cholera by Gabriel Garcia Marquez
+40. Like Water for Chocolate by Laura Esquivel
+41. The Brief Wondrous Life of Oscar Wao by Junot Díaz
+42. The Amazing Adventures of Kavalier & Clay by Michael Chabon
+43. The History of Love by Nicole Krauss
+44. The Namesake by Jhumpa Lahiri
+45. The White Tiger by Aravind Adiga
+46. Life of Pi by Yann Martel
+47. The Glass Castle by Jeannette Walls
+48. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+49. The Help by Kathryn Stockett
+50. The Girl with the Dragon Tattoo by Stieg Larsson
+
+These recommendations are based on the user's interest in literary classics, historical fiction, and thought-provoking novels.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pink Floyd
+2. Deep Purple
+3. The Alan Parsons Project
+4. Dream Theater
+5. Porcupine Tree
+6. Van der Graaf Generator
+7. The Moody Blues
+8. Hawkwind
+9. Supertramp
+10. The Flower Kings
+11. Spock's Beard
+12. Ayreon
+13. Opeth
+14. Tool
+15. Riverside
+16. Anathema
+17. Big Big Train
+18. King's X
+19. Haken
+20. IQ
+21. The Mars Volta
+22. Symphony X
+23. Fates Warning
+24. Pain of Salvation
+25. Camel
+26. Kansas
+27. Gentle Giant
+28. Judas Priest
+29. King Crimson
+30. UFO
+31. Jethro Tull
+32. Uriah Heep
+33. Metallica
+34. Emerson, Lake & Palmer
+35. Kraftwerk
+36. Iron Maiden
+37. Gary Moore
+38. Marillion
+39. Rush
+40. Yes
+41. Genesis
+42. The Who
+43. Cream
+44. Led Zeppelin
+45. Black Sabbath
+46. Queen
+47. The Doors
+48. Jimi Hendrix
+49. The Rolling Stones
+50. The Beatles
+
+These recommendations are based on the user's liking of progressive rock and classic rock bands, as well as similar artists within the same genre.

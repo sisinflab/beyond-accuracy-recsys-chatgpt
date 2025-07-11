@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations for user 2003:
+
+1. Radiohead
+2. Muse
+3. The Prodigy
+4. Daft Punk
+5. Gorillaz
+6. Massive Attack
+7. Nine Inch Nails
+8. Depeche Mode
+9. The Knife
+10. M83
+11. Justice
+12. Röyksopp
+13. Digitalism
+14. VNV Nation
+15. Ladytron
+16. Goldfrapp
+17. Aphex Twin
+18. Boards of Canada
+19. Soulwax
+20. Hot Chip
+21. Cut Copy
+22. Arctic Monkeys
+23. Editors
+24. The xx
+25. Lady Gaga
+26. Calvin Harris
+27. La Roux
+28. Bonobo
+29. IAMX
+30. Apparat
+31. White Lies
+32. The Killers
+33. Pendulum
+34. Sneaker Pimps
+35. She Wants Revenge
+36. Tricky
+37. Garbage
+38. Proem
+39. Arovane
+40. Kid Cudi
+41. MGMT
+42. Adam Lambert
+43. Björk
+44. Clint Mansell
+45. Underworld
+46. System of a Down
+47. Slipknot
+48. Rammstein
+49. Megadeth
+50. 30 Seconds to Mars
+
+These recommendations are based on similar genres and artists liked by user 2003.

@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Rilo Kiley
+2. Jenny Lewis
+3. The Cardigans
+4. Camera Obscura
+5. The Weepies
+6. Feist
+7. She & Him
+8. The Bird and the Bee
+9. The Postal Service
+10. Sufjan Stevens
+11. The Shins
+12. Death Cab for Cutie
+13. The Decemberists
+14. Fleet Foxes
+15. Iron & Wine
+16. Bon Iver
+17. Angus & Julia Stone
+18. First Aid Kit
+19. The Civil Wars
+20. The Head and the Heart
+21. Of Monsters and Men
+22. The Lumineers
+23. The Paper Kites
+24. Angus Stone
+25. Lisa Hannigan
+26. Lucy Rose
+27. Daughter
+28. Laura Veirs
+29. Cat Power
+30. Sharon Van Etten
+31. Wye Oak
+32. Phoebe Bridgers
+33. Mitski
+34. Angel Olsen
+35. Big Thief
+36. Julien Baker
+37. Lucy Dacus
+38. Snail Mail
+39. Soccer Mommy
+40. Waxahatchee
+41. Haim
+42. Warpaint
+43. Alvvays
+44. Chvrches
+45. Purity Ring
+46. Grimes
+47. Phantogram
+48. Sylvan Esso
+49. Chairlift
+50. M83
+
+These recommendations are based on the user's liking of indie pop, folk, and alternative artists, and are aimed at providing a diverse range of similar artists for the user to explore.

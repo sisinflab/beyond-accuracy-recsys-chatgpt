@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the re-ranked top-50 recommendations:
+
+1. Depeche Mode
+2. Nine Inch Nails
+3. The Cure
+4. Placebo
+5. IAMX
+6. Editors
+7. She Wants Revenge
+8. Combichrist
+9. VNV Nation
+10. Nitzer Ebb
+11. Covenant
+12. Duran Duran
+13. Martin L. Gore
+14. The Human League
+15. Mesh
+16. Billy Idol
+17. Orchestral Manoeuvres in the Dark
+18. Stereophonics
+19. Dave Gahan
+20. Foo Fighters
+21. Queen
+22. The Beatles
+23. Hurts
+24. David Bowie
+25. Kate Bush
+26. Alice in Chains
+27. Björk
+28. Bush
+29. 30 Seconds to Mars
+30. The Rolling Stones
+31. New Order
+32. Siouxsie and the Banshees
+33. Bauhaus
+34. Joy Division
+35. The Rasmus
+36. Nirvana
+37. Linkin Park
+38. Radiohead
+39. Muse
+40. Florence + the Machine
+41. The Cranberries
+42. Garbage
+43. Dead Can Dance
+44. Rammstein
+45. Alphaville
+46. HIM
+47. The Birthday Massacre
+48. Recoil
+49. Apoptygma Berzerk
+50. Daft Punk
+
+These recommendations are based on similar genres and artists liked by the user.

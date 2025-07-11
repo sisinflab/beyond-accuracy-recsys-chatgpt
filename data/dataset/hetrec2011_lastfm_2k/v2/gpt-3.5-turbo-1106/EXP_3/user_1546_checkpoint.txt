@@ -1,0 +1,54 @@
+Based on user 1546's preferences, here are the top 50 recommendations for the given artists:
+
+1. The Cure
+2. Bloc Party
+3. Death Cab for Cutie
+4. Franz Ferdinand
+5. Beck
+6. Nirvana
+7. Modest Mouse
+8. U2
+9. Red Hot Chili Peppers
+10. Oasis
+11. The Last Shadow Puppets
+12. Arcade Fire
+13. The Killers
+14. The Cranberries
+15. Goldfrapp
+16. Marilyn Manson
+17. Metric
+18. Belle and Sebastian
+19. The Beatles
+20. Keane
+21. Kasabian
+22. The Cranberries
+23. The Killers
+24. The Last Shadow Puppets
+25. Bloc Party
+26. Death Cab for Cutie
+27. Franz Ferdinand
+28. Beck
+29. Nirvana
+30. Modest Mouse
+31. U2
+32. Red Hot Chili Peppers
+33. Oasis
+34. Arcade Fire
+35. The Cure
+36. Goldfrapp
+37. Marilyn Manson
+38. Metric
+39. Belle and Sebastian
+40. The Beatles
+41. Keane
+42. Kasabian
+43. The Cranberries
+44. The Killers
+45. The Last Shadow Puppets
+46. Bloc Party
+47. Death Cab for Cutie
+48. Franz Ferdinand
+49. Beck
+50. Nirvana
+
+These recommendations are based on the user's existing preferences and are designed to align with their music taste.

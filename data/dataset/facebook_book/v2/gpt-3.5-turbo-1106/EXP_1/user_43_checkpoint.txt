@@ -1,0 +1,54 @@
+Based on the preferences of user 43, here are the top 50 book recommendations:
+
+1. The Hunger Games by Suzanne Collins
+2. The Book Thief by Markus Zusak
+3. To Kill a Mockingbird by Harper Lee
+4. The Giver by Lois Lowry
+5. The Fault in Our Stars by John Green
+6. The Catcher in the Rye by J.D. Salinger
+7. The Outsiders by S.E. Hinton
+8. Divergent by Veronica Roth
+9. The Perks of Being a Wallflower by Stephen Chbosky
+10. The Maze Runner by James Dashner
+11. The Lovely Bones by Alice Sebold
+12. The Glass Castle by Jeannette Walls
+13. The Kite Runner by Khaled Hosseini
+14. The Alchemist by Paulo Coelho
+15. The Secret Life of Bees by Sue Monk Kidd
+16. The Help by Kathryn Stockett
+17. The Girl on the Train by Paula Hawkins
+18. The Night Circus by Erin Morgenstern
+19. The Goldfinch by Donna Tartt
+20. The Time Traveler's Wife by Audrey Niffenegger
+21. The Handmaid's Tale by Margaret Atwood
+22. The Martian by Andy Weir
+23. The Silent Patient by Alex Michaelides
+24. The Light Between Oceans by M.L. Stedman
+25. The Nightingale by Kristin Hannah
+26. The Great Gatsby by F. Scott Fitzgerald
+27. The Bell Jar by Sylvia Plath
+28. The Road by Cormac McCarthy
+29. The Sun Also Rises by Ernest Hemingway
+30. The Old Man and the Sea by Ernest Hemingway
+31. The Picture of Dorian Gray by Oscar Wilde
+32. The Count of Monte Cristo by Alexandre Dumas
+33. The Brothers Karamazov by Fyodor Dostoevsky
+34. The Name of the Wind by Patrick Rothfuss
+35. The Shadow of the Wind by Carlos Ruiz Zafón
+36. The Night Circus by Erin Morgenstern
+37. The Goldfinch by Donna Tartt
+38. The Time Traveler's Wife by Audrey Niffenegger
+39. The Handmaid's Tale by Margaret Atwood
+40. The Martian by Andy Weir
+41. The Silent Patient by Alex Michaelides
+42. The Light Between Oceans by M.L. Stedman
+43. The Nightingale by Kristin Hannah
+44. The Great Gatsby by F. Scott Fitzgerald
+45. The Bell Jar by Sylvia Plath
+46. The Road by Cormac McCarthy
+47. The Sun Also Rises by Ernest Hemingway
+48. The Old Man and the Sea by Ernest Hemingway
+49. The Picture of Dorian Gray by Oscar Wilde
+50. The Count of Monte Cristo by Alexandre Dumas
+
+These recommendations are based on the user's preference for young adult fiction, contemporary literature, and coming-of-age stories.

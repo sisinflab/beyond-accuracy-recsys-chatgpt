@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Interpol
+2. The National
+3. Bloc Party
+4. The Killers
+5. Placebo
+6. The Smiths
+7. R.E.M.
+8. The Smashing Pumpkins
+9. The Verve
+10. Oasis
+11. The Libertines
+12. The Jesus and Mary Chain
+13. Echo & the Bunnymen
+14. The Psychedelic Furs
+15. The Stone Roses
+16. The Charlatans
+17. Suede
+18. The Horrors
+19. The Jesus and Mary Chain
+20. The War on Drugs
+21. My Bloody Valentine
+22. Ride
+23. Slowdive
+24. Lush
+25. Cocteau Twins
+26. The Chameleons
+27. The Teardrop Explodes
+28. The Church
+29. The Sound
+30. The House of Love
+31. The Ocean Blue
+32. The Railway Children
+33. The Mighty Lemon Drops
+34. The Primitives
+35. The Darling Buds
+36. The Wedding Present
+37. The Field Mice
+38. The Housemartins
+39. The Beautiful South
+40. The Lightning Seeds
+41. The La's
+42. The Stone Roses
+43. The Boo Radleys
+44. The Pale Saints
+45. The Sundays
+46. The Cranberries
+47. The Cardigans
+48. Garbage
+49. Elastica
+50. Veruca Salt
+
+These recommendations are based on the user's liking of similar artists and genres.

@@ -1,0 +1,54 @@
+Based on user 2020's preferences, here are the top 50 recommendations:
+
+1. Halsey
+2. Lorde
+3. Lana Del Rey
+4. Tove Lo
+5. Charli XCX
+6. Marina and the Diamonds
+7. CHVRCHES
+8. Grimes
+9. PVRIS
+10. The Neighbourhood
+11. Melanie Martinez
+12. Phantogram
+13. BANKS
+14. Bishop Briggs
+15. Wolf Alice
+16. The 1975
+17. Pale Waves
+18. The Naked and Famous
+19. Metric
+20. Broods
+21. Sky Ferreira
+22. K.Flay
+23. FKA twigs
+24. Mitski
+25. St. Vincent
+26. Florence + The Machine
+27. Paramore
+28. The Runaways
+29. Lady Gaga
+30. Arctic Monkeys
+31. Rihanna
+32. Katy Perry
+33. Gossip
+34. Nirvana
+35. Yeah Yeah Yeahs
+36. The Dead Weather
+37. David Bowie
+38. The Pretty Reckless
+39. 30 Seconds to Mars
+40. MGMT
+41. Björk
+42. Fever Ray
+43. Kid Cudi
+44. The White Stripes
+45. M.I.A.
+46. The Kills
+47. Michael Jackson
+48. Kanye West
+49. Joy Division
+50. Sex Pistols
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

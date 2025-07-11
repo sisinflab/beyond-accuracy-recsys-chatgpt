@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. Thirteen Reasons Why by Jay Asher
+2. Wintergirls by Laurie Halse Anderson
+3. The Perks of Being a Wallflower by Stephen Chbosky
+4. Speak by Laurie Halse Anderson
+5. Go Ask Alice by Anonymous
+6. It's Kind of a Funny Story by Ned Vizzini
+7. The Fault in Our Stars by John Green
+8. Before I Fall by Lauren Oliver
+9. Girl, Interrupted by Susanna Kaysen
+10. The Lovely Bones by Alice Sebold
+11. We Were Liars by E. Lockhart
+12. All the Bright Places by Jennifer Niven
+13. The Catcher in the Rye by J.D. Salinger
+14. The Virgin Suicides by Jeffrey Eugenides
+15. The Glass Castle by Jeannette Walls
+16. The Book Thief by Markus Zusak
+17. Room by Emma Donoghue
+18. The Girl on the Train by Paula Hawkins
+19. Sharp Objects by Gillian Flynn
+20. The Goldfinch by Donna Tartt
+21. The Night Circus by Erin Morgenstern
+22. The Secret History by Donna Tartt
+23. The Handmaid's Tale by Margaret Atwood
+24. The Help by Kathryn Stockett
+25. The Kite Runner by Khaled Hosseini
+26. A Thousand Splendid Suns by Khaled Hosseini
+27. The Alchemist by Paulo Coelho
+28. The Time Traveler's Wife by Audrey Niffenegger
+29. The Curious Incident of the Dog in the Night-Time by Mark Haddon
+30. The Martian by Andy Weir
+31. The Hunger Games by Suzanne Collins
+32. Divergent by Veronica Roth
+33. The Maze Runner by James Dashner
+34. The Giver by Lois Lowry
+35. Ender's Game by Orson Scott Card
+36. Ready Player One by Ernest Cline
+37. The Name of the Wind by Patrick Rothfuss
+38. The Nightingale by Kristin Hannah
+39. Big Little Lies by Liane Moriarty
+40. The Girl with the Dragon Tattoo by Stieg Larsson
+41. Gone Girl by Gillian Flynn
+42. The Da Vinci Code by Dan Brown
+43. The Girl Who Played with Fire by Stieg Larsson
+44. The Girl Who Kicked the Hornet's Nest by Stieg Larsson
+45. The Shadow of the Wind by Carlos Ruiz Zafón
+46. The Thirteenth Tale by Diane Setterfield
+47. The Secret History by Donna Tartt
+48. The Night Circus by Erin Morgenstern
+49. The Book Thief by Markus Zusak
+50. The Goldfinch by Donna Tartt
+
+These recommendations are based on the user's interest in contemporary fiction, young adult literature, and psychological themes.

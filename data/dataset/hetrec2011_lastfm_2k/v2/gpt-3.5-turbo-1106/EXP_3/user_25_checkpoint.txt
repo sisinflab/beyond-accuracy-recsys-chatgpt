@@ -1,0 +1,54 @@
+Based on user 25's preferences, here are the top 50 recommendations for them:
+
+1. Mariah Carey
+2. Gwen Stefani
+3. Alanis Morissette
+4. Jennifer Lopez
+5. Destiny's Child
+6. Beyoncé
+7. P!nk
+8. Avril Lavigne
+9. Kelly Clarkson
+10. Fergie
+11. Natasha Bedingfield
+12. Céline Dion
+13. Lady Gaga
+14. Madonna
+15. Rihanna
+16. Christina Aguilera
+17. Britney Spears
+18. Justin Timberlake
+19. Nick Carter
+20. *NSYNC
+21. Robbie Williams
+22. Kylie Minogue
+23. Shakira
+24. Leona Lewis
+25. Ne-Yo
+26. Delta Goodrem
+27. Ciara
+28. Kanye West
+29. Nicole Scherzinger
+30. Jordin Sparks
+31. Cheryl Cole
+32. Kat DeLuna
+33. David Guetta
+34. Timbaland
+35. Danity Kane
+36. The Pussycat Dolls
+37. Vanessa Hudgens
+38. Blue
+39. Ashlee Simpson
+40. Alexandra Burke
+41. Nelly Furtado
+42. Fall Out Boy
+43. Adam Lambert
+44. Jesse McCartney
+45. Panic! At the Disco
+46. The Saturdays
+47. Aly & AJ
+48. Arctic Monkeys
+49. Paramore
+50. Maroon 5
+
+These recommendations are based on the similarity of the recommended artists to the ones that user 25 already likes.

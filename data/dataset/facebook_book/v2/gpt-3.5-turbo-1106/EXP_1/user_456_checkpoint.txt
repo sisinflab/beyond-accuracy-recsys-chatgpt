@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Da Vinci Code by Dan Brown
+2. The Kite Runner by Khaled Hosseini
+3. To Kill a Mockingbird by Harper Lee
+4. The Catcher in the Rye by J.D. Salinger
+5. The Great Gatsby by F. Scott Fitzgerald
+6. The Girl on the Train by Paula Hawkins
+7. The Notebook by Nicholas Sparks
+8. The Secret Life of Bees by Sue Monk Kidd
+9. The Time Traveler's Wife by Audrey Niffenegger
+10. The Help by Kathryn Stockett
+11. The Hunger Games by Suzanne Collins
+12. The Fault in Our Stars by John Green
+13. The Lovely Bones by Alice Sebold
+14. The Shack by William P. Young
+15. The Maze Runner by James Dashner
+16. The Girl with the Dragon Tattoo by Stieg Larsson
+17. The Goldfinch by Donna Tartt
+18. The Night Circus by Erin Morgenstern
+19. The Book Thief by Markus Zusak
+20. The Martian by Andy Weir
+21. The Silent Patient by Alex Michaelides
+22. The Tattooist of Auschwitz by Heather Morris
+23. The Nightingale by Kristin Hannah
+24. The Light Between Oceans by M.L. Stedman
+25. The Rosie Project by Graeme Simsion
+26. The Husband's Secret by Liane Moriarty
+27. The Alice Network by Kate Quinn
+28. The Nightingale by Kristin Hannah
+29. The Light Between Oceans by M.L. Stedman
+30. The Rosie Project by Graeme Simsion
+31. The Husband's Secret by Liane Moriarty
+32. The Alice Network by Kate Quinn
+33. The Nightingale by Kristin Hannah
+34. The Light Between Oceans by M.L. Stedman
+35. The Rosie Project by Graeme Simsion
+36. The Husband's Secret by Liane Moriarty
+37. The Alice Network by Kate Quinn
+38. The Nightingale by Kristin Hannah
+39. The Light Between Oceans by M.L. Stedman
+40. The Rosie Project by Graeme Simsion
+41. The Husband's Secret by Liane Moriarty
+42. The Alice Network by Kate Quinn
+43. The Nightingale by Kristin Hannah
+44. The Light Between Oceans by M.L. Stedman
+45. The Rosie Project by Graeme Simsion
+46. The Husband's Secret by Liane Moriarty
+47. The Alice Network by Kate Quinn
+48. The Nightingale by Kristin Hannah
+49. The Light Between Oceans by M.L. Stedman
+50. The Rosie Project by Graeme Simsion
+
+These recommendations are based on the user's liking of books by Paulo Coelho, Dan Brown, Sidney Sheldon, Chetan Bhagat, and Nicholas Sparks.

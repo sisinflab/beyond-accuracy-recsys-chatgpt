@@ -1,0 +1,54 @@
+Based on user 641's preferences, here is a re-ranked list of books into a top-50 recommendations:
+
+1. The Bell Jar by Sylvia Plath
+2. Nineteen Eighty-Four by George Orwell
+3. Life of Pi by Yann Martel
+4. Mrs. Frisby and the Rats of NIMH by Robert C. O'Brien
+5. Redeeming Love by Francine Rivers
+6. A Wind in the Door by Madeleine L'Engle
+7. Waiting for Godot by Samuel Beckett
+8. Starship Troopers by Robert A. Heinlein
+9. In Her Shoes by Jennifer Weiner
+10. Congo by Michael Crichton
+11. The Crying of Lot 49 by Thomas Pynchon
+12. Narcissus and Goldmund by Hermann Hesse
+13. Foundation by Isaac Asimov
+14. Don Quixote by Miguel de Cervantes
+15. A Wizard of Earthsea by Ursula K. Le Guin
+16. The Watchmen by Alan Moore
+17. The Raw Shark Texts by Steven Hall
+18. The Grapes of Wrath by John Steinbeck
+19. The Catcher in the Rye by J.D. Salinger
+20. Divine Comedy by Dante Alighieri
+21. On Writing by Stephen King
+22. Brave New World by Aldous Huxley
+23. The Importance of Being Earnest by Oscar Wilde
+24. Les Fleurs du mal by Charles Baudelaire
+25. We by Yevgeny Zamyatin
+26. I, Robot by Isaac Asimov
+27. Dracula by Bram Stoker
+28. Animal Farm by George Orwell
+29. A Room of One's Own by Virginia Woolf
+30. Ulysses by James Joyce
+31. Stargirl by Jerry Spinelli
+32. Lolita by Vladimir Nabokov
+33. The Great Gatsby by F. Scott Fitzgerald
+34. Water for Elephants by Sara Gruen
+35. The Fountainhead by Ayn Rand
+36. Wuthering Heights by Emily Brontë
+37. Armor by John Steakley
+38. The Name of the Rose by Umberto Eco
+39. The Devil Wears Prada by Lauren Weisberger
+40. The Dark Tower: The Gunslinger by Stephen King
+41. The Year of Living Biblically by A.J. Jacobs
+42. Crime and Punishment by Fyodor Dostoevsky
+43. The Once and Future King by T.H. White
+44. The Book of Lost Things by John Connolly
+45. Running with Scissors by Augusten Burroughs
+46. High Fidelity by Nick Hornby
+47. Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+48. The Neverending Story by Michael Ende
+49. Sin City by Frank Miller
+50. Zeitoun by Dave Eggers
+
+This list is based on the user's preferences and the similarity of these books to the ones they already like.

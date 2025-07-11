@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Jason Mraz
+2. Dave Matthews Band
+3. Ben Harper
+4. Coldplay
+5. Maroon 5
+6. Ed Sheeran
+7. The Fray
+8. Sara Bareilles
+9. Train
+10. James Blunt
+11. Gavin DeGraw
+12. John Legend
+13. OneRepublic
+14. Colbie Caillat
+15. Hozier
+16. The Script
+17. James Morrison
+18. Ray LaMontagne
+19. Damien Rice
+20. The Lumineers
+21. Vance Joy
+22. Mumford & Sons
+23. Florence + The Machine
+24. Imagine Dragons
+25. HAIM
+26. The xx
+27. Bon Iver
+28. Fleet Foxes
+29. Sufjan Stevens
+30. Iron & Wine
+31. José González
+32. City and Colour
+33. Angus & Julia Stone
+34. The Shins
+35. Death Cab for Cutie
+36. The National
+37. Band of Horses
+38. Fleetwood Mac
+39. The War on Drugs
+40. Tame Impala
+41. Alt-J
+42. Vampire Weekend
+43. The Black Keys
+44. Kings of Leon
+45. The Strokes
+46. Arctic Monkeys
+47. Franz Ferdinand
+48. The Killers
+49. Interpol
+50. Radiohead
+
+These recommendations are based on the user's liking of similar artists and genres.

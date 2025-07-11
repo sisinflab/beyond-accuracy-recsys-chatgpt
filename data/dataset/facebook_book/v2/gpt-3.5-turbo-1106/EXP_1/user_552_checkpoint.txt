@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. The Giver by Lois Lowry
+2. The Alchemist by Paulo Coelho
+3. The Little Prince by Antoine de Saint-Exupéry
+4. The Outsiders by S.E. Hinton
+5. The Secret Garden by Frances Hodgson Burnett
+6. The Old Man and the Sea by Ernest Hemingway
+7. The Great Gatsby by F. Scott Fitzgerald
+8. Lord of the Flies by William Golding
+9. 1984 by George Orwell
+10. The Grapes of Wrath by John Steinbeck
+11. The Road by Cormac McCarthy
+12. The Kite Runner by Khaled Hosseini
+13. The Book Thief by Markus Zusak
+14. The Adventures of Huckleberry Finn by Mark Twain
+15. The Sun Also Rises by Ernest Hemingway
+16. The Bell Jar by Sylvia Plath
+17. The Picture of Dorian Gray by Oscar Wilde
+18. The Scarlet Letter by Nathaniel Hawthorne
+19. The Handmaid's Tale by Margaret Atwood
+20. Brave New World by Aldous Huxley
+21. The Stranger by Albert Camus
+22. One Hundred Years of Solitude by Gabriel García Márquez
+23. The Road Less Traveled by M. Scott Peck
+24. The Power of Now by Eckhart Tolle
+25. Siddhartha by Hermann Hesse
+26. The Art of Happiness by Dalai Lama XIV, Howard C. Cutler
+27. The Four Agreements by Don Miguel Ruiz
+28. The Prophet by Kahlil Gibran
+29. The Celestine Prophecy by James Redfield
+30. The Teachings of Don Juan by Carlos Castaneda
+31. The Doors of Perception by Aldous Huxley
+32. The Power of Myth by Joseph Campbell
+33. The Hero with a Thousand Faces by Joseph Campbell
+34. The Road Less Traveled by M. Scott Peck
+35. The Power of Now by Eckhart Tolle
+36. The Art of Happiness by Dalai Lama XIV, Howard C. Cutler
+37. The Four Agreements by Don Miguel Ruiz
+38. The Prophet by Kahlil Gibran
+39. The Celestine Prophecy by James Redfield
+40. The Teachings of Don Juan by Carlos Castaneda
+41. The Doors of Perception by Aldous Huxley
+42. The Power of Myth by Joseph Campbell
+43. The Hero with a Thousand Faces by Joseph Campbell
+44. The Road Less Traveled by M. Scott Peck
+45. The Power of Now by Eckhart Tolle
+46. The Art of Happiness by Dalai Lama XIV, Howard C. Cutler
+47. The Four Agreements by Don Miguel Ruiz
+48. The Prophet by Kahlil Gibran
+49. The Celestine Prophecy by James Redfield
+50. The Teachings of Don Juan by Carlos Castaneda
+
+These recommendations are based on the user's interest in classic literature, philosophical works, and thought-provoking novels.

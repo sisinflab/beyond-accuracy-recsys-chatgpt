@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. New Order
+2. Joy Division
+3. Pet Shop Boys
+4. Echo & the Bunnymen
+5. The Smiths
+6. Tears for Fears
+7. OMD
+8. The Human League
+9. Yazoo
+10. Duran Duran
+11. Simple Minds
+12. Talk Talk
+13. A-ha
+14. The Psychedelic Furs
+15. Bauhaus
+16. Cocteau Twins
+17. The Jesus and Mary Chain
+18. The Chameleons
+19. The Mission
+20. Clan of Xymox
+21. The Church
+22. The Sound
+23. The Teardrop Explodes
+24. The Bolshoi
+25. The Cult
+26. The Damned
+27. The Stranglers
+28. The Alarm
+29. The Charlatans
+30. The House of Love
+31. The Wonder Stuff
+32. The Lightning Seeds
+33. The Stone Roses
+34. The La's
+35. The Smithereens
+36. The Ocean Blue
+37. The Church
+38. The Railway Children
+39. The Housemartins
+40. The Sundays
+41. The Primitives
+42. The Darling Buds
+43. The Wedding Present
+44. The Field Mice
+45. The Pastels
+46. The Vaselines
+47. The House of Love
+48. The Boo Radleys
+49. The Pale Saints
+50. The Jesus and Mary Chain
+
+These recommendations are based on the user's liking for similar artists and genres.

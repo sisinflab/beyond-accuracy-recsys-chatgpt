@@ -1,0 +1,52 @@
+Based on the user's preferences, here are the top 50 recommendations:
+
+1. Pearl Jam
+2. The White Stripes
+3. The Flaming Lips
+4. The Smiths
+5. Interpol
+6. The Cure
+7. Pixies
+8. The Libertines
+9. Arctic Monkeys
+10. The Black Keys
+11. The Verve
+12. The Kooks
+13. The Raconteurs
+14. The Hives
+15. The Cranberries
+16. The Jesus and Mary Chain
+17. The National
+18. The War on Drugs
+19. The Vaccines
+20. The xx
+21. The Kinks
+22. The Velvet Underground
+23. The Clash
+24. The Stone Roses
+25. The Shins
+26. The Decemberists
+27. The Kills
+28. The Horrors
+29. The Pains of Being Pure at Heart
+30. The Raveonettes
+31. The Drums
+32. The Charlatans
+33. The Psychedelic Furs
+34. The Jesus Lizard
+35. The Lemonheads
+36. The Replacements
+37. The Dandy Warhols
+38. The Brian Jonestown Massacre
+39. The Feelies
+40. The Chameleons
+41. The House of Love
+42. The Sound
+43. The Teardrop Explodes
+44. The Church
+45. The Psychedelic Lollipop
+46. The Soft Boys
+47. The Rain Parade
+48. The Dream Syndicate
+49. The Gun Club
+50. The Long Ryders

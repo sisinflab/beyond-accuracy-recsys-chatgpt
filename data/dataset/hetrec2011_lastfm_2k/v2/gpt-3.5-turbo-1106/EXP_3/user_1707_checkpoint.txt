@@ -1,0 +1,54 @@
+Based on user 1707's preferences, here are the top 50 recommendations for the user:
+
+1. Led Zeppelin
+2. Muse
+3. The Who
+4. Queen
+5. Van Halen
+6. The Beach Boys
+7. The Byrds
+8. The Smiths
+9. The Eagles
+10. Coldplay
+11. Bruce Springsteen
+12. Cat Stevens
+13. George Harrison
+14. The Runaways
+15. The Cardigans
+16. The Smiths
+17. The Beach Boys
+18. The Byrds
+19. The Who
+20. Queen
+21. Van Halen
+22. The Beach Boys
+23. The Byrds
+24. The Smiths
+25. The Eagles
+26. Coldplay
+27. Bruce Springsteen
+28. Cat Stevens
+29. George Harrison
+30. The Runaways
+31. The Cardigans
+32. The Smiths
+33. The Beach Boys
+34. The Byrds
+35. The Who
+36. Queen
+37. Van Halen
+38. The Beach Boys
+39. The Byrds
+40. The Smiths
+41. The Eagles
+42. Coldplay
+43. Bruce Springsteen
+44. Cat Stevens
+45. George Harrison
+46. The Runaways
+47. The Cardigans
+48. The Smiths
+49. The Beach Boys
+50. The Byrds
+
+These recommendations are based on the user's existing preferences and are aimed at providing a diverse range of artists and genres that align with their current tastes.

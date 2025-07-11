@@ -1,0 +1,54 @@
+Based on the preferences of user 1465, here are the top-50 recommendations for the listed artists:
+
+1. U2
+2. Radiohead
+3. Florence + the Machine
+4. Stereophonics
+5. Pearl Jam
+6. R.E.M.
+7. Ke$ha
+8. Alicia Keys
+9. Madonna
+10. Jessie J
+11. Taylor Swift
+12. Leona Lewis
+13. Miley Cyrus
+14. Mariah Carey
+15. Black Eyed Peas
+16. Lady Gaga
+17. Christina Aguilera
+18. Jay-Z
+19. 30 Seconds to Mars
+20. Owl City
+21. Pulp
+22. The Chemical Brothers
+23. Ana Carolina
+24. Vanessa da Mata
+25. Feist
+26. Silversun Pickups
+27. 3OH!3
+28. Charlie Brown Jr.
+29. Jay Vaquer
+30. Maria Rita
+31. Keri Hilson
+32. Hilary Duff
+33. Chris Brown
+34. Drake Bell
+35. The Pussycat Dolls
+36. Leonard Cohen
+37. Annie Lennox
+38. CAKE
+39. Andrew Bird
+40. Sarah McLachlan
+41. Mandy Moore
+42. Ashley Tisdale
+43. Whitney Houston
+44. Wanessa
+45. Avril Lavigne
+46. JoJo
+47. Damien Rice
+48. Kylie Minogue
+49. Britney Spears
+50. Miley Cyrus
+
+These recommendations are based on the similar music preferences of user 1465 and are ranked accordingly.

@@ -1,0 +1,52 @@
+Based on the preferences of user 485, here are the top 50 book recommendations:
+
+1. The Lion, the Witch and the Wardrobe by C. S. Lewis
+2. Little Women by Louisa May Alcott
+3. The Secret Garden by Frances Hodgson Burnett
+4. The Hobbit by J.R.R. Tolkien
+5. The Wind in the Willows by Kenneth Grahame
+6. A Wrinkle in Time by Madeleine L'Engle
+7. The Adventures of Tom Sawyer by Mark Twain
+8. Alice's Adventures in Wonderland by Lewis Carroll
+9. The Secret of the Old Clock by Carolyn Keene
+10. The Tale of Despereaux by Kate DiCamillo
+11. The Phantom Tollbooth by Norton Juster
+12. The Wonderful Wizard of Oz by L. Frank Baum
+13. The Little Prince by Antoine de Saint-Exupéry
+14. The Boxcar Children by Gertrude Chandler Warner
+15. The Call of the Wild by Jack London
+16. The Swiss Family Robinson by Johann David Wyss
+17. The Borrowers by Mary Norton
+18. The Railway Children by E. Nesbit
+19. The Adventures of Huckleberry Finn by Mark Twain
+20. The Secret Seven by Enid Blyton
+21. The Hardy Boys by Franklin W. Dixon
+22. The Chronicles of Prydain by Lloyd Alexander
+23. The Neverending Story by Michael Ende
+24. The Tale of Peter Rabbit by Beatrix Potter
+25. The Jungle Book by Rudyard Kipling
+26. The Wizard of Earthsea by Ursula K. Le Guin
+27. The Dark is Rising by Susan Cooper
+28. The Indian in the Cupboard by Lynne Reid Banks
+29. The Enchanted Wood by Enid Blyton
+30. The Magic Faraway Tree by Enid Blyton
+31. The Secret of the Unicorn by Hergé
+32. The Mysterious Benedict Society by Trenton Lee Stewart
+33. The Penderwicks by Jeanne Birdsall
+34. The Tale of Squirrel Nutkin by Beatrix Potter
+35. The Tale of Benjamin Bunny by Beatrix Potter
+36. The Tale of Jemima Puddle-Duck by Beatrix Potter
+37. The Tale of Mrs. Tiggy-Winkle by Beatrix Potter
+38. The Tale of Two Bad Mice by Beatrix Potter
+39. The Tale of the Flopsy Bunnies by Beatrix Potter
+40. The Tale of Mr. Jeremy Fisher by Beatrix Potter
+41. The Tale of Timmy Tiptoes by Beatrix Potter
+42. The Tale of Johnny Town-Mouse by Beatrix Potter
+43. The Tale of Mr. Tod by Beatrix Potter
+44. The Tale of Pigling Bland by Beatrix Potter
+45. The Tale of Samuel Whiskers by Beatrix Potter
+46. The Tale of the Pie and the Patty-Pan by Beatrix Potter
+47. The Tale of Ginger and Pickles by Beatrix Potter
+48. The Tale of Little Pig Robinson by Beatrix Potter
+49. The Tale of the Tailor of Gloucester by Beatrix Potter
+50. The Tale of the Flopsy Bunnies by Beatrix Potter

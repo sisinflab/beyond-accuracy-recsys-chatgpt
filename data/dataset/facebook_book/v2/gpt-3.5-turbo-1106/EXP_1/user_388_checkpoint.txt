@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 book recommendations:
+
+1. To Kill a Mockingbird by Harper Lee
+2. 1984 by George Orwell
+3. The Great Gatsby by F. Scott Fitzgerald
+4. Animal Farm by George Orwell
+5. The Catcher in the Rye by J.D. Salinger
+6. Wuthering Heights by Emily Brontë
+7. Little Women by Louisa May Alcott
+8. The Picture of Dorian Gray by Oscar Wilde
+9. The Secret Garden by Frances Hodgson Burnett
+10. A Tale of Two Cities by Charles Dickens
+11. Great Expectations by Charles Dickens
+12. The Adventures of Huckleberry Finn by Mark Twain
+13. The Scarlet Letter by Nathaniel Hawthorne
+14. Moby-Dick by Herman Melville
+15. Frankenstein by Mary Shelley
+16. Dracula by Bram Stoker
+17. The Count of Monte Cristo by Alexandre Dumas
+18. The Odyssey by Homer
+19. The Iliad by Homer
+20. Crime and Punishment by Fyodor Dostoevsky
+21. Anna Karenina by Leo Tolstoy
+22. War and Peace by Leo Tolstoy
+23. The Brothers Karamazov by Fyodor Dostoevsky
+24. Les Misérables by Victor Hugo
+25. The Grapes of Wrath by John Steinbeck
+26. East of Eden by John Steinbeck
+27. One Hundred Years of Solitude by Gabriel García Márquez
+28. Love in the Time of Cholera by Gabriel García Márquez
+29. The Alchemist by Paulo Coelho
+30. The Kite Runner by Khaled Hosseini
+31. A Thousand Splendid Suns by Khaled Hosseini
+32. The Book Thief by Markus Zusak
+33. The Night Circus by Erin Morgenstern
+34. The Goldfinch by Donna Tartt
+35. The Handmaid's Tale by Margaret Atwood
+36. The Bell Jar by Sylvia Plath
+37. The Road by Cormac McCarthy
+38. Beloved by Toni Morrison
+39. The Color Purple by Alice Walker
+40. The Joy Luck Club by Amy Tan
+41. The Help by Kathryn Stockett
+42. The Secret Life of Bees by Sue Monk Kidd
+43. The Poisonwood Bible by Barbara Kingsolver
+44. The Glass Castle by Jeannette Walls
+45. The Lovely Bones by Alice Sebold
+46. The Girl on the Train by Paula Hawkins
+47. Gone Girl by Gillian Flynn
+48. Big Little Lies by Liane Moriarty
+49. The Nightingale by Kristin Hannah
+50. All the Light We Cannot See by Anthony Doerr
+
+These recommendations are based on the user's interest in classic literature and contemporary fiction.
